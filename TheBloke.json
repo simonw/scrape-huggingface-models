@@ -6341,7 +6341,7 @@
   {
     "_id": "649af488962c03f6166db382",
     "id": "TheBloke/Pygmalion-13B-SuperHOT-8K-GPTQ",
-    "likes": 56,
+    "likes": 57,
     "private": false,
     "downloads": 1145,
     "tags": [
@@ -14752,5 +14752,42 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Trurl-2-7B-GGML"
+  },
+  {
+    "_id": "64e6673c0df4c63f21cb3933",
+    "id": "TheBloke/PuddleJumper-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "llama",
+      "transformers",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/PuddleJumper-13B-GGUF"
+  },
+  {
+    "_id": "64e67520cb0ff4f0536cfb22",
+    "id": "TheBloke/PuddleJumper-13B-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/PuddleJumper-13B-GGML"
+  },
+  {
+    "_id": "64e67562f88dfe19cce67e11",
+    "id": "TheBloke/PuddleJumper-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/PuddleJumper-13B-GPTQ"
   }
 ]
