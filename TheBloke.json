@@ -14775,6 +14775,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "transformers",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/PuddleJumper-13B-GGML"
