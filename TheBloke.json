@@ -1781,7 +1781,7 @@
   {
     "_id": "6471c82a97a75cc77aa6cb70",
     "id": "TheBloke/falcon-40b-instruct-GPTQ",
-    "likes": 190,
+    "likes": 191,
     "private": false,
     "downloads": 43314,
     "tags": [
@@ -9403,7 +9403,7 @@
   {
     "_id": "64b6d3eeab056b63ede8a758",
     "id": "TheBloke/Llama-2-13B-chat-GGML",
-    "likes": 523,
+    "likes": 524,
     "private": false,
     "downloads": 4595,
     "tags": [
@@ -14790,8 +14790,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "safetensors",
+      "llama",
+      "text-generation",
+      "transformers",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/PuddleJumper-13B-GPTQ"
   }
 ]
