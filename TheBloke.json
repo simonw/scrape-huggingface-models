@@ -5130,7 +5130,7 @@
   {
     "_id": "64948090ca88dea3e45c2ce1",
     "id": "TheBloke/mpt-30B-chat-GGML",
-    "likes": 69,
+    "likes": 70,
     "private": false,
     "downloads": 131,
     "tags": [
@@ -9472,7 +9472,7 @@
   {
     "_id": "64b6e916e16424ef9e032a2f",
     "id": "TheBloke/Llama-2-13B-Chat-fp16",
-    "likes": 44,
+    "likes": 45,
     "private": false,
     "downloads": 8754,
     "tags": [
@@ -14890,6 +14890,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "eng",
+      "dataset:LDJnr/Puffin",
+      "transformers",
+      "llama-2",
+      "sft",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Nous-Puffin-70B-GGML"
