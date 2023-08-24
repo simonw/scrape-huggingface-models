@@ -5779,7 +5779,7 @@
   {
     "_id": "649a217a74485a2285a5764b",
     "id": "TheBloke/Nous-Hermes-13B-SuperHOT-8K-GPTQ",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 232,
     "tags": [
@@ -9356,7 +9356,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 389,
+    "likes": 390,
     "private": false,
     "downloads": 7754,
     "tags": [
@@ -9403,7 +9403,7 @@
   {
     "_id": "64b6d3eeab056b63ede8a758",
     "id": "TheBloke/Llama-2-13B-chat-GGML",
-    "likes": 526,
+    "likes": 527,
     "private": false,
     "downloads": 4761,
     "tags": [
@@ -14477,7 +14477,7 @@
   {
     "_id": "64e4b65a42028a0616cc9de9",
     "id": "TheBloke/Marx-3b-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -14828,8 +14828,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "transformers",
+      "llama-2",
+      "self-instruct",
+      "distillation",
+      "synthetic instruction",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Nous-Hermes-Llama2-70B-GPTQ"
   },
   {
@@ -14862,5 +14874,27 @@
       "region:us"
     ],
     "modelId": "TheBloke/Nous-Puffin-70B-GGUF"
+  },
+  {
+    "_id": "64e74fe83e1237c874ccfb38",
+    "id": "TheBloke/Nous-Puffin-70B-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Nous-Puffin-70B-GGML"
+  },
+  {
+    "_id": "64e74fe8e7cf506446b21b9a",
+    "id": "TheBloke/Nous-Puffin-70B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Nous-Puffin-70B-GPTQ"
   }
 ]
