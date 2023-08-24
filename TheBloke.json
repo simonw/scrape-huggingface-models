@@ -6032,7 +6032,7 @@
   {
     "_id": "649a5dcd96d5747b35e30c6f",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-SuperHOT-8K-GPTQ",
-    "likes": 65,
+    "likes": 66,
     "private": false,
     "downloads": 2104,
     "tags": [
@@ -9639,7 +9639,7 @@
   {
     "_id": "64b847a5126cfeb8fdc28475",
     "id": "TheBloke/Luna-AI-Llama2-Uncensored-GGML",
-    "likes": 92,
+    "likes": 93,
     "private": false,
     "downloads": 247,
     "tags": [
@@ -14871,6 +14871,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "eng",
+      "dataset:LDJnr/Puffin",
+      "transformers",
+      "llama-2",
+      "sft",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Nous-Puffin-70B-GGUF"
