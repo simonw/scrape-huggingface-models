@@ -14756,7 +14756,7 @@
   {
     "_id": "64e6673c0df4c63f21cb3933",
     "id": "TheBloke/PuddleJumper-13B-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -14912,5 +14912,25 @@
       "region:us"
     ],
     "modelId": "TheBloke/Nous-Puffin-70B-GPTQ"
+  },
+  {
+    "_id": "64e77dd529a548f66a14ddde",
+    "id": "TheBloke/CodeLlama-13B-fp16",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "safetensors",
+      "llama",
+      "text-generation",
+      "transformers",
+      "llama-2",
+      "codellama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/CodeLlama-13B-fp16"
   }
 ]
