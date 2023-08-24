@@ -14804,10 +14804,19 @@
   {
     "_id": "64e711f614a7448ab95c7fc9",
     "id": "TheBloke/Nous-Hermes-Llama2-70B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "en",
+      "transformers",
+      "llama-2",
+      "self-instruct",
+      "distillation",
+      "synthetic instruction",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Nous-Hermes-Llama2-70B-GGUF"
@@ -14830,6 +14839,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "en",
+      "transformers",
+      "llama-2",
+      "self-instruct",
+      "distillation",
+      "synthetic instruction",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Nous-Hermes-Llama2-70B-GGML"
