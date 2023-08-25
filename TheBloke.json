@@ -15074,7 +15074,7 @@
   {
     "_id": "64e78d0b1703da9e63ecc64c",
     "id": "TheBloke/CodeLlama-7B-Python-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -15125,7 +15125,7 @@
   {
     "_id": "64e7bc1129a548f66a1ddb15",
     "id": "TheBloke/CodeLlama-13B-Instruct-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -15294,7 +15294,7 @@
   {
     "_id": "64e7cffb336924eaf1c55c40",
     "id": "TheBloke/CodeLlama-7B-Python-GGML",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -15362,7 +15362,7 @@
   {
     "_id": "64e7d76dade5964ec6d2481f",
     "id": "TheBloke/CodeLlama-7B-Python-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 202,
     "tags": [
@@ -15701,6 +15701,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "en",
+      "dataset:ehartford/samantha-data",
+      "arxiv:2305.14314",
+      "arxiv:2205.14135",
+      "transformers",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Samantha-1.11-CodeLlama-34B-GGUF"
