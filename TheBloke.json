@@ -9356,7 +9356,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 393,
+    "likes": 394,
     "private": false,
     "downloads": 7754,
     "tags": [
@@ -13096,7 +13096,7 @@
   {
     "_id": "64d5615179d99b87001502e4",
     "id": "TheBloke/Platypus2-70B-Instruct-GPTQ",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 2753,
     "tags": [
@@ -14928,7 +14928,7 @@
   {
     "_id": "64e77dd529a548f66a14ddde",
     "id": "TheBloke/CodeLlama-13B-fp16",
-    "likes": 31,
+    "likes": 34,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15139,7 +15139,7 @@
   {
     "_id": "64e7bd2c0937566207336662",
     "id": "TheBloke/CodeLlama-7B-Instruct-GPTQ",
-    "likes": 4,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15198,7 +15198,7 @@
   {
     "_id": "64e7bf4a79630927bfe5c0fa",
     "id": "TheBloke/CodeLlama-34B-Instruct-fp16",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15219,7 +15219,7 @@
   {
     "_id": "64e7bfa3af06dd08d29878f6",
     "id": "TheBloke/CodeLlama-34B-fp16",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15274,7 +15274,7 @@
   {
     "_id": "64e7cd1f79630927bfe7bf37",
     "id": "TheBloke/CodeLlama-7B-Instruct-GGML",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15359,7 +15359,7 @@
   {
     "_id": "64e7d76dade5964ec6d2481f",
     "id": "TheBloke/CodeLlama-7B-Python-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15380,7 +15380,7 @@
   {
     "_id": "64e7d966f7b1fd286ec47b76",
     "id": "TheBloke/CodeLlama-34B-Instruct-GGML",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15448,7 +15448,7 @@
   {
     "_id": "64e7e37d1a359d016cf7f907",
     "id": "TheBloke/CodeLlama-34B-GGML",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15545,5 +15545,16 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-13B-GPTQ"
+  },
+  {
+    "_id": "64e85bb1e6a52fff352d606f",
+    "id": "TheBloke/CodeLlama-34B-Instruct-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/CodeLlama-34B-Instruct-GPTQ"
   }
 ]
