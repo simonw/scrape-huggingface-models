@@ -4411,7 +4411,7 @@
   {
     "_id": "648e0eeb8cbb07656041d775",
     "id": "TheBloke/galactica-30B-evol-instruct-70K-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 36,
     "tags": [
@@ -6341,7 +6341,7 @@
   {
     "_id": "649af488962c03f6166db382",
     "id": "TheBloke/Pygmalion-13B-SuperHOT-8K-GPTQ",
-    "likes": 59,
+    "likes": 60,
     "private": false,
     "downloads": 1105,
     "tags": [
@@ -10169,7 +10169,7 @@
   {
     "_id": "64baf98faaccfd28b0209764",
     "id": "TheBloke/Nous-Hermes-Llama2-GPTQ",
-    "likes": 47,
+    "likes": 49,
     "private": false,
     "downloads": 6358,
     "tags": [
@@ -13186,7 +13186,7 @@
   {
     "_id": "64d5e2dcabf475a808a24d42",
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
-    "likes": 31,
+    "likes": 32,
     "private": false,
     "downloads": 4334,
     "tags": [
@@ -15057,7 +15057,7 @@
   {
     "_id": "64e78cdac3b2443fb30b9dda",
     "id": "TheBloke/CodeLlama-7B-Instruct-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -15074,7 +15074,7 @@
   {
     "_id": "64e78d0b1703da9e63ecc64c",
     "id": "TheBloke/CodeLlama-7B-Python-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -15243,7 +15243,7 @@
   {
     "_id": "64e7c2379f8952a1c0008ed1",
     "id": "TheBloke/CodeLlama-34B-GGUF",
-    "likes": 12,
+    "likes": 14,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -15260,7 +15260,7 @@
   {
     "_id": "64e7cc65e3953cd90bd5a2e6",
     "id": "TheBloke/CodeLlama-34B-Python-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -15328,7 +15328,7 @@
   {
     "_id": "64e7d2676e8d01b79993ca60",
     "id": "TheBloke/CodeLlama-7B-GGML",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -15552,7 +15552,7 @@
   {
     "_id": "64e85bb1e6a52fff352d606f",
     "id": "TheBloke/CodeLlama-34B-Instruct-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15626,7 +15626,7 @@
   {
     "_id": "64e8cc1d2c506d28d497666e",
     "id": "TheBloke/Samantha-1.11-70B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15641,6 +15641,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "en",
+      "dataset:ehartford/samantha-data",
+      "arxiv:2305.14314",
+      "arxiv:2205.14135",
+      "transformers",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Samantha-1.11-70B-GGUF"
