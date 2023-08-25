@@ -14928,7 +14928,7 @@
   {
     "_id": "64e77dd529a548f66a14ddde",
     "id": "TheBloke/CodeLlama-13B-fp16",
-    "likes": 35,
+    "likes": 36,
     "private": false,
     "downloads": 667,
     "tags": [
@@ -15558,10 +15558,24 @@
       "text-generation",
       "custom_code",
       "transformers",
+      "llama-2",
+      "codellama",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-34B-Instruct-GPTQ"
+  },
+  {
+    "_id": "64e8786ad41a68b065c53e26",
+    "id": "TheBloke/CodeLlama-34B-Python-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/CodeLlama-34B-Python-GPTQ"
   }
 ]
