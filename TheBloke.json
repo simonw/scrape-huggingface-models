@@ -2077,7 +2077,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 304,
+    "likes": 305,
     "private": false,
     "downloads": 6170,
     "tags": [
@@ -9356,7 +9356,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 401,
+    "likes": 402,
     "private": false,
     "downloads": 7277,
     "tags": [
@@ -10161,8 +10161,7 @@
       "synthetic instruction",
       "license:other",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "modelId": "TheBloke/Nous-Hermes-Llama2-GGML"
   },
@@ -10726,7 +10725,8 @@
       "synthetic instruction",
       "license:other",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/Nous-Hermes-Llama-2-7B-GGML"
   },
@@ -15328,7 +15328,7 @@
   {
     "_id": "64e7d2676e8d01b79993ca60",
     "id": "TheBloke/CodeLlama-7B-GGML",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 6,
     "tags": [
