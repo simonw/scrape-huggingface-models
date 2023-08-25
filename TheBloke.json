@@ -12541,7 +12541,7 @@
   {
     "_id": "64cf7bb2484264a3b3e2553e",
     "id": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GPTQ",
-    "likes": 31,
+    "likes": 32,
     "private": false,
     "downloads": 3178,
     "tags": [
@@ -14805,7 +14805,7 @@
   {
     "_id": "64e711f614a7448ab95c7fc9",
     "id": "TheBloke/Nous-Hermes-Llama2-70B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -14928,7 +14928,7 @@
   {
     "_id": "64e77dd529a548f66a14ddde",
     "id": "TheBloke/CodeLlama-13B-fp16",
-    "likes": 46,
+    "likes": 47,
     "private": false,
     "downloads": 667,
     "tags": [
@@ -14971,7 +14971,7 @@
   {
     "_id": "64e784d39f8952a1c0f6e8fd",
     "id": "TheBloke/CodeLlama-13B-Python-fp16",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 125,
     "tags": [
@@ -15311,7 +15311,7 @@
   {
     "_id": "64e7d00dae53e70cda1de235",
     "id": "TheBloke/CodeLlama-34B-Instruct-GGUF",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15638,8 +15638,13 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "text-generation",
+      "transformers",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Samantha-1.11-70B-GPTQ"
   },
   {
