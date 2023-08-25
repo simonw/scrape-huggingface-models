@@ -936,7 +936,7 @@
   {
     "_id": "645f47cf6990e1208522b824",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
-    "likes": 216,
+    "likes": 217,
     "private": false,
     "downloads": 4674,
     "tags": [
@@ -1087,7 +1087,7 @@
   {
     "_id": "6464cfa91054f08ddba6201f",
     "id": "TheBloke/LLaMa-7B-GGML",
-    "likes": 45,
+    "likes": 46,
     "private": false,
     "downloads": 198,
     "tags": [
@@ -9506,7 +9506,7 @@
   {
     "_id": "64b72139a00eab5bcddae33e",
     "id": "TheBloke/Llama-2-70B-chat-GPTQ",
-    "likes": 147,
+    "likes": 148,
     "private": false,
     "downloads": 26545,
     "tags": [
@@ -10670,8 +10670,7 @@
       "meta",
       "llama-2",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-7b-chat-fp16"
@@ -11223,7 +11222,7 @@
   {
     "_id": "64c838101c25d2c581982817",
     "id": "TheBloke/airoboros-l2-13b-gpt4-2.0-GPTQ",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 193,
     "tags": [
@@ -14929,7 +14928,7 @@
   {
     "_id": "64e77dd529a548f66a14ddde",
     "id": "TheBloke/CodeLlama-13B-fp16",
-    "likes": 41,
+    "likes": 43,
     "private": false,
     "downloads": 667,
     "tags": [
@@ -15057,7 +15056,7 @@
   {
     "_id": "64e78cdac3b2443fb30b9dda",
     "id": "TheBloke/CodeLlama-7B-Instruct-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -15074,7 +15073,7 @@
   {
     "_id": "64e78d0b1703da9e63ecc64c",
     "id": "TheBloke/CodeLlama-7B-Python-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -15091,7 +15090,7 @@
   {
     "_id": "64e78d117acd8971f2c6bbe6",
     "id": "TheBloke/CodeLlama-7B-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -15277,7 +15276,7 @@
   {
     "_id": "64e7cd1f79630927bfe7bf37",
     "id": "TheBloke/CodeLlama-7B-Instruct-GGML",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15502,7 +15501,8 @@
       "codellama",
       "license:llama2",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-13B-Instruct-GPTQ"
