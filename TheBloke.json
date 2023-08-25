@@ -12914,7 +12914,8 @@
       "transformers",
       "license:other",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/orca_mini_v3_7B-GGML"
   },
@@ -14928,7 +14929,7 @@
   {
     "_id": "64e77dd529a548f66a14ddde",
     "id": "TheBloke/CodeLlama-13B-fp16",
-    "likes": 38,
+    "likes": 39,
     "private": false,
     "downloads": 667,
     "tags": [
@@ -15286,7 +15287,8 @@
       "codellama",
       "license:llama2",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/CodeLlama-7B-Instruct-GGML"
   },
@@ -15551,7 +15553,7 @@
   {
     "_id": "64e85bb1e6a52fff352d606f",
     "id": "TheBloke/CodeLlama-34B-Instruct-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15589,5 +15591,16 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-34B-Python-GPTQ"
+  },
+  {
+    "_id": "64e893eb0c2413c35722cff1",
+    "id": "TheBloke/CodeLlama-34B-GPTQ",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/CodeLlama-34B-GPTQ"
   }
 ]
