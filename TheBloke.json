@@ -5599,7 +5599,7 @@
   {
     "_id": "6499e6be020cb9f6dd09101e",
     "id": "TheBloke/Wizard-Vicuna-30B-Superhot-8K-GPTQ",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 241,
     "tags": [
@@ -5621,7 +5621,7 @@
   {
     "_id": "6499faf88f74b5aa9846dc8b",
     "id": "TheBloke/Wizard-Vicuna-30B-Superhot-8K-fp16",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 63,
     "tags": [
@@ -14928,7 +14928,7 @@
   {
     "_id": "64e77dd529a548f66a14ddde",
     "id": "TheBloke/CodeLlama-13B-fp16",
-    "likes": 45,
+    "likes": 46,
     "private": false,
     "downloads": 667,
     "tags": [
@@ -14949,7 +14949,7 @@
   {
     "_id": "64e7836118cb739205733a04",
     "id": "TheBloke/CodeLlama-13B-Instruct-fp16",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 117,
     "tags": [
@@ -15573,7 +15573,7 @@
   {
     "_id": "64e8786ad41a68b065c53e26",
     "id": "TheBloke/CodeLlama-34B-Python-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15619,6 +15619,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "en",
+      "dataset:ehartford/samantha-data",
+      "arxiv:2305.14314",
+      "arxiv:2205.14135",
+      "transformers",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Samantha-1.11-70B-GGML"
