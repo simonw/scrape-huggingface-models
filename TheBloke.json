@@ -1087,7 +1087,7 @@
   {
     "_id": "6464cfa91054f08ddba6201f",
     "id": "TheBloke/LLaMa-7B-GGML",
-    "likes": 46,
+    "likes": 47,
     "private": false,
     "downloads": 198,
     "tags": [
@@ -10569,7 +10569,7 @@
   {
     "_id": "64bfb64b8496ee0fb644df7a",
     "id": "TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML",
-    "likes": 50,
+    "likes": 51,
     "private": false,
     "downloads": 222,
     "tags": [
@@ -10594,7 +10594,7 @@
   {
     "_id": "64bfb71eae436c88135fab21",
     "id": "TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GPTQ",
-    "likes": 30,
+    "likes": 31,
     "private": false,
     "downloads": 2864,
     "tags": [
@@ -15260,7 +15260,7 @@
   {
     "_id": "64e7cc65e3953cd90bd5a2e6",
     "id": "TheBloke/CodeLlama-34B-Python-GGUF",
-    "likes": 8,
+    "likes": 10,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -15311,7 +15311,7 @@
   {
     "_id": "64e7d00dae53e70cda1de235",
     "id": "TheBloke/CodeLlama-34B-Instruct-GGUF",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15383,7 +15383,7 @@
   {
     "_id": "64e7d966f7b1fd286ec47b76",
     "id": "TheBloke/CodeLlama-34B-Instruct-GGML",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15434,7 +15434,7 @@
   {
     "_id": "64e7de21f84879d8bf7a8147",
     "id": "TheBloke/CodeLlama-34B-Python-GGML",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -15552,7 +15552,7 @@
   {
     "_id": "64e85bb1e6a52fff352d606f",
     "id": "TheBloke/CodeLlama-34B-Instruct-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15690,8 +15690,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "safetensors",
+      "llama",
+      "text-generation",
+      "custom_code",
+      "en",
+      "dataset:ehartford/samantha-data",
+      "arxiv:2305.14314",
+      "arxiv:2205.14135",
+      "transformers",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Samantha-1.11-CodeLlama-34B-GPTQ"
   },
   {
@@ -15712,5 +15724,38 @@
       "region:us"
     ],
     "modelId": "TheBloke/Samantha-1.11-CodeLlama-34B-GGUF"
+  },
+  {
+    "_id": "64e92fcc1dce571e8536a419",
+    "id": "TheBloke/Llama2-70B-OASST-SFT-v10-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama2-70B-OASST-SFT-v10-GGUF"
+  },
+  {
+    "_id": "64e9331f4f3f7b0b848aa6ae",
+    "id": "TheBloke/Llama2-70B-OASST-SFT-v10-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama2-70B-OASST-SFT-v10-GPTQ"
+  },
+  {
+    "_id": "64e9331f9e53684e6e6364ef",
+    "id": "TheBloke/Llama2-70B-OASST-SFT-v10-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama2-70B-OASST-SFT-v10-GGML"
   }
 ]
