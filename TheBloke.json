@@ -9356,7 +9356,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 398,
+    "likes": 401,
     "private": false,
     "downloads": 7277,
     "tags": [
@@ -9576,7 +9576,7 @@
   {
     "_id": "64b748a6964f6e7bf3266155",
     "id": "TheBloke/Llama-2-70B-Chat-fp16",
-    "likes": 34,
+    "likes": 35,
     "private": false,
     "downloads": 13912,
     "tags": [
@@ -14984,7 +14984,8 @@
       "codellama",
       "license:llama2",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-13B-Python-fp16"
@@ -15124,7 +15125,7 @@
   {
     "_id": "64e7bc1129a548f66a1ddb15",
     "id": "TheBloke/CodeLlama-13B-Instruct-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -15501,8 +15502,7 @@
       "codellama",
       "license:llama2",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-13B-Instruct-GPTQ"
@@ -15552,7 +15552,7 @@
   {
     "_id": "64e85bb1e6a52fff352d606f",
     "id": "TheBloke/CodeLlama-34B-Instruct-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15611,5 +15611,38 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-34B-GPTQ"
+  },
+  {
+    "_id": "64e8cc1c42dd0350cbee7b57",
+    "id": "TheBloke/Samantha-1.11-70B-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Samantha-1.11-70B-GGML"
+  },
+  {
+    "_id": "64e8cc1d2c506d28d497666e",
+    "id": "TheBloke/Samantha-1.11-70B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Samantha-1.11-70B-GPTQ"
+  },
+  {
+    "_id": "64e8cc1dd41a68b065d35442",
+    "id": "TheBloke/Samantha-1.11-70B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Samantha-1.11-70B-GGUF"
   }
 ]
