@@ -1659,7 +1659,7 @@
   {
     "_id": "646fc238bc42f4b00233f214",
     "id": "TheBloke/guanaco-7B-GPTQ",
-    "likes": 24,
+    "likes": 25,
     "private": false,
     "downloads": 1013,
     "tags": [
@@ -3331,7 +3331,7 @@
   {
     "_id": "6482485799110097e52ef61b",
     "id": "TheBloke/starcoderplus-GGML",
-    "likes": 32,
+    "likes": 33,
     "private": false,
     "downloads": 16,
     "tags": [
@@ -3391,7 +3391,7 @@
   {
     "_id": "648256fe10cd9ffea8a933e3",
     "id": "TheBloke/starcoder-GGML",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 27,
     "tags": [
@@ -5041,7 +5041,7 @@
   {
     "_id": "649400f062a1dba4e79b7fbf",
     "id": "TheBloke/airoboros-13B-gpt4-1.4-GPTQ",
-    "likes": 25,
+    "likes": 26,
     "private": false,
     "downloads": 765,
     "tags": [
@@ -8922,7 +8922,7 @@
   {
     "_id": "64aeba880c752a547f5398dd",
     "id": "TheBloke/Starcoderplus-Guanaco-GPT4-15B-V1.0-GGML",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -9403,7 +9403,7 @@
   {
     "_id": "64b6d3eeab056b63ede8a758",
     "id": "TheBloke/Llama-2-13B-chat-GGML",
-    "likes": 534,
+    "likes": 535,
     "private": false,
     "downloads": 4463,
     "tags": [
@@ -11273,7 +11273,7 @@
   {
     "_id": "64c8504ecf159388b2d8387d",
     "id": "TheBloke/airoboros-l2-13b-gpt4-m2.0-GPTQ",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 558,
     "tags": [
@@ -15274,7 +15274,7 @@
   {
     "_id": "64e7cc65e3953cd90bd5a2e6",
     "id": "TheBloke/CodeLlama-34B-Python-GGUF",
-    "likes": 16,
+    "likes": 15,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -15312,7 +15312,7 @@
   {
     "_id": "64e7cffb336924eaf1c55c40",
     "id": "TheBloke/CodeLlama-7B-Python-GGML",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -15906,7 +15906,7 @@
   {
     "_id": "64e9cce7233101ed99ca8fbf",
     "id": "TheBloke/Phind-CodeLlama-34B-Python-v1-GGML",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -16117,6 +16117,9 @@
       "llama",
       "text-generation",
       "transformers",
+      "code llama",
+      "license:llama2",
+      "model-index",
       "text-generation-inference",
       "region:us"
     ],
@@ -16130,8 +16133,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "en",
+      "transformers",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Genz-70b-GGML"
   },
   {
@@ -16148,7 +16158,7 @@
   {
     "_id": "64ea2a39233101ed99d4ba7a",
     "id": "TheBloke/Genz-70b-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -16163,8 +16173,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "en",
+      "transformers",
+      "llama-2",
+      "instruct",
+      "instruction",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-70B-Orca-200k-GGML"
   },
   {
@@ -16181,12 +16201,22 @@
   {
     "_id": "64ea2bf718d79efd53374093",
     "id": "TheBloke/Llama-2-70B-Orca-200k-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "en",
+      "transformers",
+      "llama-2",
+      "instruct",
+      "instruction",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-70B-Orca-200k-GGUF"
   }
 ]
