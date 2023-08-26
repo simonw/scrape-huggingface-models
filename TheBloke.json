@@ -5446,7 +5446,7 @@
   {
     "_id": "64998c62d1f6a5a54b054d5e",
     "id": "TheBloke/WizardLM-33B-V1-0-Uncensored-SuperHOT-8K-GPTQ",
-    "likes": 72,
+    "likes": 73,
     "private": false,
     "downloads": 1174,
     "tags": [
@@ -13394,7 +13394,7 @@
   {
     "_id": "64d7e1409a6a7ae984343660",
     "id": "TheBloke/OpenOrca-Platypus2-13B-GGML",
-    "likes": 47,
+    "likes": 48,
     "private": false,
     "downloads": 117,
     "tags": [
@@ -15311,7 +15311,7 @@
   {
     "_id": "64e7d00dae53e70cda1de235",
     "id": "TheBloke/CodeLlama-34B-Instruct-GGUF",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -15409,16 +15409,16 @@
       "llama-2",
       "codellama",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "modelId": "TheBloke/CodeLlama-13B-Python-GGML"
   },
   {
     "_id": "64e7dd67ce67a2e40563580b",
     "id": "TheBloke/CodeLlama-13B-GGML",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -15799,7 +15799,7 @@
   {
     "_id": "64e9bccaa1e1a36f96f88ab5",
     "id": "TheBloke/Phind-CodeLlama-34B-v1-GGML",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15844,7 +15844,7 @@
   {
     "_id": "64e9c5ba2beaa8c4104083e3",
     "id": "TheBloke/Phind-CodeLlama-34B-Python-v1-GGUF",
-    "likes": 0,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15865,6 +15865,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "transformers",
+      "code llama",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Phind-CodeLlama-34B-Python-v1-GGML"
