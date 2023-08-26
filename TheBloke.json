@@ -5041,7 +5041,7 @@
   {
     "_id": "649400f062a1dba4e79b7fbf",
     "id": "TheBloke/airoboros-13B-gpt4-1.4-GPTQ",
-    "likes": 24,
+    "likes": 25,
     "private": false,
     "downloads": 793,
     "tags": [
@@ -15057,7 +15057,7 @@
   {
     "_id": "64e78cdac3b2443fb30b9dda",
     "id": "TheBloke/CodeLlama-7B-Instruct-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -15125,7 +15125,7 @@
   {
     "_id": "64e7bc1129a548f66a1ddb15",
     "id": "TheBloke/CodeLlama-13B-Instruct-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -15142,7 +15142,7 @@
   {
     "_id": "64e7bd2c0937566207336662",
     "id": "TheBloke/CodeLlama-7B-Instruct-GPTQ",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 61,
     "tags": [
@@ -15260,7 +15260,7 @@
   {
     "_id": "64e7cc65e3953cd90bd5a2e6",
     "id": "TheBloke/CodeLlama-34B-Python-GGUF",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -15311,7 +15311,7 @@
   {
     "_id": "64e7d00dae53e70cda1de235",
     "id": "TheBloke/CodeLlama-34B-Instruct-GGUF",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15489,7 +15489,7 @@
   {
     "_id": "64e7fafe0973fdd28a1990b4",
     "id": "TheBloke/CodeLlama-13B-Instruct-GPTQ",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 75,
     "tags": [
@@ -15552,7 +15552,7 @@
   {
     "_id": "64e85bb1e6a52fff352d606f",
     "id": "TheBloke/CodeLlama-34B-Instruct-GPTQ",
-    "likes": 7,
+    "likes": 9,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15755,8 +15755,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:rombodawg/LosslessMegaCodeTrainingV2_1m_Evol_Uncensored",
+      "dataset:OpenAssistant/oasst1",
+      "dataset:ehartford/dolphin",
+      "dataset:argilla/databricks-dolly-15k-curated-multilingual",
+      "transformers",
+      "sft",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama2-70B-OASST-SFT-v10-GPTQ"
   },
   {
