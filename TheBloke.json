@@ -14286,7 +14286,7 @@
   {
     "_id": "64e3bd312fbf570ac7fc1215",
     "id": "TheBloke/L2-MythoMax22b-Instruct-Falseblock-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 34,
     "tags": [
@@ -15076,7 +15076,7 @@
   {
     "_id": "64e78d0b1703da9e63ecc64c",
     "id": "TheBloke/CodeLlama-7B-Python-GGUF",
-    "likes": 13,
+    "likes": 12,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -15095,7 +15095,7 @@
   {
     "_id": "64e78d117acd8971f2c6bbe6",
     "id": "TheBloke/CodeLlama-7B-GGUF",
-    "likes": 9,
+    "likes": 8,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -15114,7 +15114,7 @@
   {
     "_id": "64e7bafd0c47bf287ca550b8",
     "id": "TheBloke/CodeLlama-13B-GGUF",
-    "likes": 5,
+    "likes": 4,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -15133,7 +15133,7 @@
   {
     "_id": "64e7bc1129a548f66a1ddb15",
     "id": "TheBloke/CodeLlama-13B-Instruct-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -15312,7 +15312,7 @@
   {
     "_id": "64e7cffb336924eaf1c55c40",
     "id": "TheBloke/CodeLlama-7B-Python-GGML",
-    "likes": 16,
+    "likes": 15,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -15428,7 +15428,7 @@
   {
     "_id": "64e7d975efc277cdc01ba39d",
     "id": "TheBloke/CodeLlama-13B-Python-GGML",
-    "likes": 13,
+    "likes": 12,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -16151,8 +16151,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "transformers",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Genz-70b-GPTQ"
   },
   {
@@ -16201,8 +16209,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "transformers",
+      "llama-2",
+      "instruct",
+      "instruction",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-70B-Orca-200k-GPTQ"
   },
   {
