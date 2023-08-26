@@ -4647,7 +4647,7 @@
   {
     "_id": "648f8b48e8a1900eb631f2a2",
     "id": "TheBloke/baichuan-7B-GPTQ",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 269,
     "tags": [
@@ -9356,7 +9356,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 414,
+    "likes": 415,
     "private": false,
     "downloads": 7130,
     "tags": [
@@ -16162,8 +16162,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "en",
+      "transformers",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Genz-70b-GGUF"
   },
   {
