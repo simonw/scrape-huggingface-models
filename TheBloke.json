@@ -3845,7 +3845,7 @@
   {
     "_id": "6485fb1ea5aaae7d9e81e778",
     "id": "TheBloke/fin-llama-33B-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -9356,7 +9356,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 412,
+    "likes": 413,
     "private": false,
     "downloads": 7130,
     "tags": [
@@ -9379,7 +9379,7 @@
   {
     "_id": "64b6ce072edcb4a1aa820cbe",
     "id": "TheBloke/Llama-2-7b-Chat-GPTQ",
-    "likes": 87,
+    "likes": 88,
     "private": false,
     "downloads": 94499,
     "tags": [
@@ -9426,7 +9426,7 @@
   {
     "_id": "64b6d9d4bb1d8f2832c8be93",
     "id": "TheBloke/Llama-2-13B-chat-GPTQ",
-    "likes": 221,
+    "likes": 222,
     "private": false,
     "downloads": 74912,
     "tags": [
@@ -15328,7 +15328,7 @@
   {
     "_id": "64e7d2676e8d01b79993ca60",
     "id": "TheBloke/CodeLlama-7B-GGML",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -15553,7 +15553,7 @@
   {
     "_id": "64e85bb1e6a52fff352d606f",
     "id": "TheBloke/CodeLlama-34B-Instruct-GPTQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 126,
     "tags": [
@@ -15816,7 +15816,7 @@
   {
     "_id": "64e9bccabfb2aa06a429cb9c",
     "id": "TheBloke/Phind-CodeLlama-34B-v1-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15824,6 +15824,9 @@
       "llama",
       "text-generation",
       "transformers",
+      "code llama",
+      "license:llama2",
+      "model-index",
       "text-generation-inference",
       "region:us"
     ],
@@ -15867,7 +15870,7 @@
   {
     "_id": "64e9cce7233101ed99ca8fbf",
     "id": "TheBloke/Phind-CodeLlama-34B-Python-v1-GGML",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15916,7 +15919,7 @@
   {
     "_id": "64e9e5316b9db55517b1d2a9",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GGUF",
-    "likes": 0,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -16003,8 +16006,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "en",
+      "arxiv:2306.02707",
+      "transformers",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Synthia-70B-GGUF"
   },
   {
@@ -16014,8 +16025,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "en",
+      "arxiv:2306.02707",
+      "transformers",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Synthia-70B-GGML"
   },
   {
@@ -16028,5 +16047,16 @@
       "region:us"
     ],
     "modelId": "TheBloke/Synthia-70B-GPTQ"
+  },
+  {
+    "_id": "64ea007fe8dd717fd3ef297c",
+    "id": "TheBloke/Phind-CodeLlama-34B-Python-v1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Phind-CodeLlama-34B-Python-v1-GPTQ"
   }
 ]
