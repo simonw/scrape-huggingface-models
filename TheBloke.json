@@ -2077,7 +2077,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 305,
+    "likes": 306,
     "private": false,
     "downloads": 6170,
     "tags": [
@@ -13186,7 +13186,7 @@
   {
     "_id": "64d5e2dcabf475a808a24d42",
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
-    "likes": 32,
+    "likes": 33,
     "private": false,
     "downloads": 4334,
     "tags": [
@@ -14286,7 +14286,7 @@
   {
     "_id": "64e3bd312fbf570ac7fc1215",
     "id": "TheBloke/L2-MythoMax22b-Instruct-Falseblock-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 33,
     "tags": [
@@ -15383,7 +15383,7 @@
   {
     "_id": "64e7d966f7b1fd286ec47b76",
     "id": "TheBloke/CodeLlama-34B-Instruct-GGML",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15686,7 +15686,7 @@
   {
     "_id": "64e90e5e5ba66cfe775bbbe9",
     "id": "TheBloke/Samantha-1.11-CodeLlama-34B-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15732,8 +15732,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "en",
+      "dataset:rombodawg/LosslessMegaCodeTrainingV2_1m_Evol_Uncensored",
+      "dataset:OpenAssistant/oasst1",
+      "dataset:ehartford/dolphin",
+      "dataset:argilla/databricks-dolly-15k-curated-multilingual",
+      "transformers",
+      "sft",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama2-70B-OASST-SFT-v10-GGUF"
   },
   {
