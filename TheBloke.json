@@ -15255,7 +15255,7 @@
   {
     "_id": "64e7c2379f8952a1c0008ed1",
     "id": "TheBloke/CodeLlama-34B-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -15350,7 +15350,7 @@
   {
     "_id": "64e7d2676e8d01b79993ca60",
     "id": "TheBloke/CodeLlama-7B-GGML",
-    "likes": 9,
+    "likes": 11,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -15923,7 +15923,7 @@
   {
     "_id": "64e9e5008c523cced2035915",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15968,7 +15968,7 @@
   {
     "_id": "64e9e5316b9db55517b1d2a9",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -16096,7 +16096,10 @@
       "safetensors",
       "llama",
       "text-generation",
+      "en",
+      "arxiv:2306.02707",
       "transformers",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -16135,5 +16138,49 @@
       "region:us"
     ],
     "modelId": "TheBloke/Genz-70b-GPTQ"
+  },
+  {
+    "_id": "64ea2a39233101ed99d4ba7a",
+    "id": "TheBloke/Genz-70b-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Genz-70b-GGUF"
+  },
+  {
+    "_id": "64ea2b23213a0415bd0fe54d",
+    "id": "TheBloke/Llama-2-70B-Orca-200k-GGML",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-70B-Orca-200k-GGML"
+  },
+  {
+    "_id": "64ea2b232f70f2a4c7562154",
+    "id": "TheBloke/Llama-2-70B-Orca-200k-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-70B-Orca-200k-GPTQ"
+  },
+  {
+    "_id": "64ea2bf718d79efd53374093",
+    "id": "TheBloke/Llama-2-70B-Orca-200k-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-70B-Orca-200k-GGUF"
   }
 ]
