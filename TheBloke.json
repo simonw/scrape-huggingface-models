@@ -11897,7 +11897,7 @@
   {
     "_id": "64cbe70fec160b67ca8dcb6d",
     "id": "TheBloke/llama2_70b_chat_uncensored-GGML",
-    "likes": 29,
+    "likes": 30,
     "private": false,
     "downloads": 62,
     "tags": [
@@ -15294,7 +15294,7 @@
   {
     "_id": "64e7cffb336924eaf1c55c40",
     "id": "TheBloke/CodeLlama-7B-Python-GGML",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -15728,7 +15728,7 @@
   {
     "_id": "64e92fcc1dce571e8536a419",
     "id": "TheBloke/Llama2-70B-OASST-SFT-v10-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15766,8 +15766,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "en",
+      "dataset:rombodawg/LosslessMegaCodeTrainingV2_1m_Evol_Uncensored",
+      "dataset:OpenAssistant/oasst1",
+      "dataset:ehartford/dolphin",
+      "dataset:argilla/databricks-dolly-15k-curated-multilingual",
+      "transformers",
+      "sft",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama2-70B-OASST-SFT-v10-GGML"
   }
 ]
