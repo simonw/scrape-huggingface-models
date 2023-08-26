@@ -15835,7 +15835,7 @@
   {
     "_id": "64e9bccaa1e1a36f96f88ab5",
     "id": "TheBloke/Phind-CodeLlama-34B-v1-GGML",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15872,7 +15872,7 @@
   {
     "_id": "64e9bcdc14c57101f3a12dd1",
     "id": "TheBloke/Phind-CodeLlama-34B-v1-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15906,7 +15906,7 @@
   {
     "_id": "64e9cce7233101ed99ca8fbf",
     "id": "TheBloke/Phind-CodeLlama-34B-Python-v1-GGML",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -16113,8 +16113,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "safetensors",
+      "llama",
+      "text-generation",
+      "transformers",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Phind-CodeLlama-34B-Python-v1-GPTQ"
   },
   {
