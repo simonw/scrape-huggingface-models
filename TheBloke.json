@@ -10639,7 +10639,7 @@
   {
     "_id": "64c049e3a2ec8cb2f5707f7a",
     "id": "TheBloke/WizardLM-13B-V1.2-GGML",
-    "likes": 50,
+    "likes": 51,
     "private": false,
     "downloads": 287,
     "tags": [
@@ -10915,7 +10915,7 @@
   {
     "_id": "64c424a988373ea620003f06",
     "id": "TheBloke/StableBeluga-13B-GPTQ",
-    "likes": 28,
+    "likes": 29,
     "private": false,
     "downloads": 3147,
     "tags": [
@@ -15277,7 +15277,7 @@
   {
     "_id": "64e7cd1f79630927bfe7bf37",
     "id": "TheBloke/CodeLlama-7B-Instruct-GGML",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -15328,7 +15328,7 @@
   {
     "_id": "64e7d2676e8d01b79993ca60",
     "id": "TheBloke/CodeLlama-7B-GGML",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -15827,7 +15827,7 @@
   {
     "_id": "64e9bcdc14c57101f3a12dd1",
     "id": "TheBloke/Phind-CodeLlama-34B-v1-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15844,7 +15844,7 @@
   {
     "_id": "64e9c5ba2beaa8c4104083e3",
     "id": "TheBloke/Phind-CodeLlama-34B-Python-v1-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15889,10 +15889,20 @@
   {
     "_id": "64e9e5239d939716d02974f5",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GGML",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "arxiv:2303.08774",
+      "arxiv:2306.08568",
+      "arxiv:2308.09583",
+      "arxiv:2304.12244",
+      "transformers",
+      "code",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/WizardCoder-Python-34B-V1.0-GGML"
@@ -15904,6 +15914,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "arxiv:2303.08774",
+      "arxiv:2306.08568",
+      "arxiv:2308.09583",
+      "arxiv:2304.12244",
+      "transformers",
+      "code",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/WizardCoder-Python-34B-V1.0-GGUF"
@@ -15922,10 +15942,15 @@
   {
     "_id": "64e9eb27b96ff0e1752cf6c9",
     "id": "TheBloke/Zarafusionex-1.1-L2-7B-GGML",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "transformers",
+      "llama2",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Zarafusionex-1.1-L2-7B-GGML"
@@ -15937,8 +15962,65 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "safetensors",
+      "llama",
+      "text-generation",
+      "transformers",
+      "llama2",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Zarafusionex-1.1-L2-7B-GPTQ"
+  },
+  {
+    "_id": "64e9edbf5b8d8156f2b0110d",
+    "id": "TheBloke/Zarafusionex-1.1-L2-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "llama",
+      "transformers",
+      "llama2",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Zarafusionex-1.1-L2-7B-GGUF"
+  },
+  {
+    "_id": "64e9ee15f72e054cab39fd71",
+    "id": "TheBloke/Synthia-70B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Synthia-70B-GGUF"
+  },
+  {
+    "_id": "64e9ee41f494f8b2a066587d",
+    "id": "TheBloke/Synthia-70B-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Synthia-70B-GGML"
+  },
+  {
+    "_id": "64e9f2334f3f7b0b849cc389",
+    "id": "TheBloke/Synthia-70B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Synthia-70B-GPTQ"
   }
 ]
