@@ -9356,7 +9356,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 403,
+    "likes": 404,
     "private": false,
     "downloads": 7277,
     "tags": [
@@ -12090,7 +12090,7 @@
   {
     "_id": "64ccdeb876200ec80f222afd",
     "id": "TheBloke/Airoboros-L2-70B-GPT4-m2.0-GGML",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -14340,7 +14340,7 @@
   {
     "_id": "64e4671157d6d38e123e2da6",
     "id": "TheBloke/EverythingLM-13b-V2-16K-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 98,
     "tags": [
@@ -15125,7 +15125,7 @@
   {
     "_id": "64e7bc1129a548f66a1ddb15",
     "id": "TheBloke/CodeLlama-13B-Instruct-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -15311,7 +15311,7 @@
   {
     "_id": "64e7d00dae53e70cda1de235",
     "id": "TheBloke/CodeLlama-34B-Instruct-GGUF",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15410,7 +15410,8 @@
       "codellama",
       "license:llama2",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/CodeLlama-13B-Python-GGML"
   },
@@ -15468,7 +15469,7 @@
   {
     "_id": "64e7ea351a6fd0c6f2552016",
     "id": "TheBloke/CodeLlama-7B-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 45,
     "tags": [
@@ -15573,7 +15574,7 @@
   {
     "_id": "64e8786ad41a68b065c53e26",
     "id": "TheBloke/CodeLlama-34B-Python-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15686,7 +15687,7 @@
   {
     "_id": "64e90e5e5ba66cfe775bbbe9",
     "id": "TheBloke/Samantha-1.11-CodeLlama-34B-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15751,7 +15752,7 @@
   {
     "_id": "64e9331f4f3f7b0b848aa6ae",
     "id": "TheBloke/Llama2-70B-OASST-SFT-v10-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
