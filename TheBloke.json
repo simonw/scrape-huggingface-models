@@ -9356,7 +9356,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 411,
+    "likes": 412,
     "private": false,
     "downloads": 7130,
     "tags": [
@@ -9426,7 +9426,7 @@
   {
     "_id": "64b6d9d4bb1d8f2832c8be93",
     "id": "TheBloke/Llama-2-13B-chat-GPTQ",
-    "likes": 220,
+    "likes": 221,
     "private": false,
     "downloads": 74912,
     "tags": [
@@ -12632,7 +12632,7 @@
   {
     "_id": "64d0a2739cff7382039881e8",
     "id": "TheBloke/Spring-Dragon-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 30,
     "tags": [
@@ -13186,7 +13186,7 @@
   {
     "_id": "64d5e2dcabf475a808a24d42",
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
-    "likes": 34,
+    "likes": 35,
     "private": false,
     "downloads": 5949,
     "tags": [
@@ -15201,7 +15201,7 @@
   {
     "_id": "64e7bf4a79630927bfe5c0fa",
     "id": "TheBloke/CodeLlama-34B-Instruct-fp16",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 197,
     "tags": [
@@ -15345,7 +15345,7 @@
   {
     "_id": "64e7d523d9e7b4bb623c59b1",
     "id": "TheBloke/CodeLlama-13B-Instruct-GGML",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -15816,12 +15816,18 @@
   {
     "_id": "64e9bccabfb2aa06a429cb9c",
     "id": "TheBloke/Phind-CodeLlama-34B-v1-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
+      "safetensors",
+      "llama",
+      "text-generation",
+      "transformers",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Phind-CodeLlama-34B-v1-GPTQ"
   },
   {
@@ -15878,7 +15884,7 @@
   {
     "_id": "64e9e5008c523cced2035915",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
