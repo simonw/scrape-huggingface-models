@@ -15923,12 +15923,25 @@
   {
     "_id": "64e9e5008c523cced2035915",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2304.12244",
+      "arxiv:2306.08568",
+      "arxiv:2308.09583",
+      "arxiv:2303.08774",
+      "transformers",
+      "code",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/WizardCoder-Python-34B-V1.0-GPTQ"
   },
   {
@@ -16080,8 +16093,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "safetensors",
+      "llama",
+      "text-generation",
+      "transformers",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Synthia-70B-GPTQ"
   },
   {
@@ -16094,5 +16113,27 @@
       "region:us"
     ],
     "modelId": "TheBloke/Phind-CodeLlama-34B-Python-v1-GPTQ"
+  },
+  {
+    "_id": "64ea296c9e53684e6e7e08dc",
+    "id": "TheBloke/Genz-70b-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Genz-70b-GGML"
+  },
+  {
+    "_id": "64ea296ce74f54587cc51cf5",
+    "id": "TheBloke/Genz-70b-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Genz-70b-GPTQ"
   }
 ]
