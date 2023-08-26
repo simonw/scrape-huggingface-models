@@ -15255,7 +15255,7 @@
   {
     "_id": "64e7c2379f8952a1c0008ed1",
     "id": "TheBloke/CodeLlama-34B-GGUF",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -16263,6 +16263,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "dataset:jondurbin/airoboros-2.1",
+      "transformers",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Airoboros-c34B-2.1-GGUF"
