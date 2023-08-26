@@ -2232,7 +2232,7 @@
   {
     "_id": "6478d3a425e06d2ffe89e05a",
     "id": "TheBloke/WizardLM-Uncensored-Falcon-7B-GPTQ",
-    "likes": 37,
+    "likes": 38,
     "private": false,
     "downloads": 914,
     "tags": [
@@ -9356,7 +9356,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 402,
+    "likes": 403,
     "private": false,
     "downloads": 7277,
     "tags": [
@@ -9472,7 +9472,7 @@
   {
     "_id": "64b6e916e16424ef9e032a2f",
     "id": "TheBloke/Llama-2-13B-Chat-fp16",
-    "likes": 45,
+    "likes": 46,
     "private": false,
     "downloads": 10374,
     "tags": [
@@ -10161,7 +10161,8 @@
       "synthetic instruction",
       "license:other",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/Nous-Hermes-Llama2-GGML"
   },
@@ -10725,8 +10726,7 @@
       "synthetic instruction",
       "license:other",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "modelId": "TheBloke/Nous-Hermes-Llama-2-7B-GGML"
   },
