@@ -15057,35 +15057,39 @@
   {
     "_id": "64e78cdac3b2443fb30b9dda",
     "id": "TheBloke/CodeLlama-7B-Instruct-GGUF",
-    "likes": 11,
-    "private": false,
-    "downloads": 12,
-    "tags": [
-      "llama",
-      "transformers",
-      "llama-2",
-      "codellama",
-      "license:llama2",
-      "text-generation-inference",
-      "region:us"
-    ],
-    "modelId": "TheBloke/CodeLlama-7B-Instruct-GGUF"
-  },
-  {
-    "_id": "64e78d0b1703da9e63ecc64c",
-    "id": "TheBloke/CodeLlama-7B-Python-GGUF",
     "likes": 12,
     "private": false,
     "downloads": 12,
     "tags": [
       "llama",
+      "code",
       "transformers",
       "llama-2",
-      "codellama",
       "license:llama2",
+      "text-generation",
       "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/CodeLlama-7B-Instruct-GGUF"
+  },
+  {
+    "_id": "64e78d0b1703da9e63ecc64c",
+    "id": "TheBloke/CodeLlama-7B-Python-GGUF",
+    "likes": 13,
+    "private": false,
+    "downloads": 12,
+    "tags": [
+      "llama",
+      "code",
+      "transformers",
+      "llama-2",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-7B-Python-GGUF"
   },
   {
@@ -15096,13 +15100,15 @@
     "downloads": 12,
     "tags": [
       "llama",
+      "code",
       "transformers",
       "llama-2",
-      "codellama",
       "license:llama2",
+      "text-generation",
       "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-7B-GGUF"
   },
   {
@@ -15113,13 +15119,15 @@
     "downloads": 6,
     "tags": [
       "llama",
+      "code",
       "transformers",
       "llama-2",
-      "codellama",
       "license:llama2",
+      "text-generation",
       "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-13B-GGUF"
   },
   {
@@ -15130,13 +15138,15 @@
     "downloads": 8,
     "tags": [
       "llama",
+      "code",
       "transformers",
       "llama-2",
-      "codellama",
       "license:llama2",
+      "text-generation",
       "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-13B-Instruct-GGUF"
   },
   {
@@ -15150,9 +15160,9 @@
       "llama",
       "text-generation",
       "custom_code",
+      "code",
       "transformers",
       "llama-2",
-      "codellama",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -15168,13 +15178,15 @@
     "downloads": 7,
     "tags": [
       "llama",
+      "code",
       "transformers",
       "llama-2",
-      "codellama",
       "license:llama2",
+      "text-generation",
       "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-13B-Python-GGUF"
   },
   {
@@ -15248,13 +15260,15 @@
     "downloads": 12,
     "tags": [
       "llama",
+      "code",
       "transformers",
       "llama-2",
-      "codellama",
       "license:llama2",
+      "text-generation",
       "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-34B-GGUF"
   },
   {
@@ -15265,13 +15279,15 @@
     "downloads": 7,
     "tags": [
       "llama",
+      "code",
       "transformers",
       "llama-2",
-      "codellama",
       "license:llama2",
+      "text-generation",
       "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-34B-Python-GGUF"
   },
   {
@@ -15282,13 +15298,15 @@
     "downloads": 3,
     "tags": [
       "llama",
+      "code",
       "transformers",
       "llama-2",
-      "codellama",
       "license:llama2",
+      "text-generation",
       "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-7B-Instruct-GGML"
   },
   {
@@ -15299,13 +15317,15 @@
     "downloads": 7,
     "tags": [
       "llama",
+      "code",
       "transformers",
       "llama-2",
-      "codellama",
       "license:llama2",
+      "text-generation",
       "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-7B-Python-GGML"
   },
   {
@@ -15316,13 +15336,15 @@
     "downloads": 4,
     "tags": [
       "llama",
+      "code",
       "transformers",
       "llama-2",
-      "codellama",
       "license:llama2",
+      "text-generation",
       "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-34B-Instruct-GGUF"
   },
   {
@@ -15333,13 +15355,15 @@
     "downloads": 9,
     "tags": [
       "llama",
+      "code",
       "transformers",
       "llama-2",
-      "codellama",
       "license:llama2",
+      "text-generation",
       "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-7B-GGML"
   },
   {
@@ -15350,13 +15374,15 @@
     "downloads": 4,
     "tags": [
       "llama",
+      "code",
       "transformers",
       "llama-2",
-      "codellama",
       "license:llama2",
+      "text-generation",
       "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-13B-Instruct-GGML"
   },
   {
@@ -15370,9 +15396,9 @@
       "llama",
       "text-generation",
       "custom_code",
+      "code",
       "transformers",
       "llama-2",
-      "codellama",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -15388,13 +15414,15 @@
     "downloads": 1,
     "tags": [
       "llama",
+      "code",
       "transformers",
       "llama-2",
-      "codellama",
       "license:llama2",
+      "text-generation",
       "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-34B-Instruct-GGML"
   },
   {
@@ -15405,14 +15433,16 @@
     "downloads": 9,
     "tags": [
       "llama",
+      "code",
       "transformers",
       "llama-2",
-      "codellama",
       "license:llama2",
+      "text-generation",
       "has_space",
       "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-13B-Python-GGML"
   },
   {
@@ -15423,13 +15453,15 @@
     "downloads": 3,
     "tags": [
       "llama",
+      "code",
       "transformers",
       "llama-2",
-      "codellama",
       "license:llama2",
+      "text-generation",
       "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-13B-GGML"
   },
   {
@@ -15440,13 +15472,15 @@
     "downloads": 2,
     "tags": [
       "llama",
+      "code",
       "transformers",
       "llama-2",
-      "codellama",
       "license:llama2",
+      "text-generation",
       "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-34B-Python-GGML"
   },
   {
@@ -15457,13 +15491,15 @@
     "downloads": 5,
     "tags": [
       "llama",
+      "code",
       "transformers",
       "llama-2",
-      "codellama",
       "license:llama2",
+      "text-generation",
       "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-34B-GGML"
   },
   {
@@ -15477,9 +15513,9 @@
       "llama",
       "text-generation",
       "custom_code",
+      "code",
       "transformers",
       "llama-2",
-      "codellama",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -15498,9 +15534,9 @@
       "llama",
       "text-generation",
       "custom_code",
+      "code",
       "transformers",
       "llama-2",
-      "codellama",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -15519,9 +15555,9 @@
       "llama",
       "text-generation",
       "custom_code",
+      "code",
       "transformers",
       "llama-2",
-      "codellama",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -15540,9 +15576,9 @@
       "llama",
       "text-generation",
       "custom_code",
+      "code",
       "transformers",
       "llama-2",
-      "codellama",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -15561,9 +15597,9 @@
       "llama",
       "text-generation",
       "custom_code",
+      "code",
       "transformers",
       "llama-2",
-      "codellama",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -15582,9 +15618,9 @@
       "llama",
       "text-generation",
       "custom_code",
+      "code",
       "transformers",
       "llama-2",
-      "codellama",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -15603,9 +15639,9 @@
       "llama",
       "text-generation",
       "custom_code",
+      "code",
       "transformers",
       "llama-2",
-      "codellama",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -15853,7 +15889,7 @@
   {
     "_id": "64e9c5ba2beaa8c4104083e3",
     "id": "TheBloke/Phind-CodeLlama-34B-Python-v1-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15870,7 +15906,7 @@
   {
     "_id": "64e9cce7233101ed99ca8fbf",
     "id": "TheBloke/Phind-CodeLlama-34B-Python-v1-GGML",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
