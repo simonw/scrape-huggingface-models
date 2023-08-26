@@ -13186,7 +13186,7 @@
   {
     "_id": "64d5e2dcabf475a808a24d42",
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
-    "likes": 33,
+    "likes": 34,
     "private": false,
     "downloads": 5949,
     "tags": [
@@ -14928,7 +14928,7 @@
   {
     "_id": "64e77dd529a548f66a14ddde",
     "id": "TheBloke/CodeLlama-13B-fp16",
-    "likes": 48,
+    "likes": 50,
     "private": false,
     "downloads": 1081,
     "tags": [
@@ -15803,6 +15803,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "transformers",
+      "code llama",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Phind-CodeLlama-34B-v1-GGML"
@@ -15842,8 +15848,25 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "transformers",
+      "code llama",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Phind-CodeLlama-34B-Python-v1-GGUF"
+  },
+  {
+    "_id": "64e9cce7233101ed99ca8fbf",
+    "id": "TheBloke/Phind-CodeLlama-34B-Python-v1-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Phind-CodeLlama-34B-Python-v1-GGML"
   }
 ]
