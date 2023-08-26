@@ -6341,7 +6341,7 @@
   {
     "_id": "649af488962c03f6166db382",
     "id": "TheBloke/Pygmalion-13B-SuperHOT-8K-GPTQ",
-    "likes": 60,
+    "likes": 61,
     "private": false,
     "downloads": 1087,
     "tags": [
@@ -14252,7 +14252,7 @@
   {
     "_id": "64e3565cf8d8389c1a9aee33",
     "id": "TheBloke/Llama-2-7B-32K-Instruct-GGML",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 50,
     "tags": [
@@ -15091,7 +15091,7 @@
   {
     "_id": "64e78d117acd8971f2c6bbe6",
     "id": "TheBloke/CodeLlama-7B-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -15435,7 +15435,7 @@
   {
     "_id": "64e7de21f84879d8bf7a8147",
     "id": "TheBloke/CodeLlama-34B-Python-GGML",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -15553,7 +15553,7 @@
   {
     "_id": "64e85bb1e6a52fff352d606f",
     "id": "TheBloke/CodeLlama-34B-Instruct-GPTQ",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 126,
     "tags": [
@@ -15799,7 +15799,7 @@
   {
     "_id": "64e9bccaa1e1a36f96f88ab5",
     "id": "TheBloke/Phind-CodeLlama-34B-v1-GGML",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15874,5 +15874,71 @@
       "region:us"
     ],
     "modelId": "TheBloke/Phind-CodeLlama-34B-Python-v1-GGML"
+  },
+  {
+    "_id": "64e9e5008c523cced2035915",
+    "id": "TheBloke/WizardCoder-Python-34B-V1.0-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/WizardCoder-Python-34B-V1.0-GPTQ"
+  },
+  {
+    "_id": "64e9e5239d939716d02974f5",
+    "id": "TheBloke/WizardCoder-Python-34B-V1.0-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/WizardCoder-Python-34B-V1.0-GGML"
+  },
+  {
+    "_id": "64e9e5316b9db55517b1d2a9",
+    "id": "TheBloke/WizardCoder-Python-34B-V1.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/WizardCoder-Python-34B-V1.0-GGUF"
+  },
+  {
+    "_id": "64e9eaffbfb2aa06a42dc793",
+    "id": "TheBloke/CyberBase-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/CyberBase-13B-GPTQ"
+  },
+  {
+    "_id": "64e9eb27b96ff0e1752cf6c9",
+    "id": "TheBloke/Zarafusionex-1.1-L2-7B-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Zarafusionex-1.1-L2-7B-GGML"
+  },
+  {
+    "_id": "64e9eb628c523cced203e33e",
+    "id": "TheBloke/Zarafusionex-1.1-L2-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Zarafusionex-1.1-L2-7B-GPTQ"
   }
 ]
