@@ -9403,7 +9403,7 @@
   {
     "_id": "64b6d3eeab056b63ede8a758",
     "id": "TheBloke/Llama-2-13B-chat-GGML",
-    "likes": 538,
+    "likes": 539,
     "private": false,
     "downloads": 5321,
     "tags": [
@@ -13395,7 +13395,7 @@
   {
     "_id": "64d7e1409a6a7ae984343660",
     "id": "TheBloke/OpenOrca-Platypus2-13B-GGML",
-    "likes": 50,
+    "likes": 51,
     "private": false,
     "downloads": 118,
     "tags": [
@@ -15451,7 +15451,7 @@
   {
     "_id": "64e7dd67ce67a2e40563580b",
     "id": "TheBloke/CodeLlama-13B-GGML",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -16385,7 +16385,7 @@
   {
     "_id": "64eb5af601df1b139e83d0d7",
     "id": "TheBloke/CodeLlama-13B-oasst-sft-v10-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -16447,14 +16447,27 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2304.12244",
+      "arxiv:2306.08568",
+      "arxiv:2308.09583",
+      "arxiv:2303.08774",
+      "transformers",
+      "code",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/WizardCoder-Python-13B-V1.0-GPTQ"
   },
   {
     "_id": "64eb8a8934d4f899662f368d",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GGML",
-    "likes": 0,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
