@@ -936,7 +936,7 @@
   {
     "_id": "645f47cf6990e1208522b824",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
-    "likes": 218,
+    "likes": 219,
     "private": false,
     "downloads": 4673,
     "tags": [
@@ -4599,7 +4599,7 @@
   {
     "_id": "648f1cb69ff86282df2fa568",
     "id": "TheBloke/BigTranslate-13B-GGML",
-    "likes": 18,
+    "likes": 19,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -8880,7 +8880,7 @@
   {
     "_id": "64ac74aa7ac35b7de048465c",
     "id": "TheBloke/airochronos-33B-GGML",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -10148,7 +10148,7 @@
   {
     "_id": "64baf98eaaccfd28b020975b",
     "id": "TheBloke/Nous-Hermes-Llama2-GGML",
-    "likes": 83,
+    "likes": 84,
     "private": false,
     "downloads": 324,
     "tags": [
@@ -11273,7 +11273,7 @@
   {
     "_id": "64c8504ecf159388b2d8387d",
     "id": "TheBloke/airoboros-l2-13b-gpt4-m2.0-GPTQ",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 558,
     "tags": [
@@ -15852,7 +15852,7 @@
   {
     "_id": "64e9bccabfb2aa06a429cb9c",
     "id": "TheBloke/Phind-CodeLlama-34B-v1-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -16298,6 +16298,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "dataset:jondurbin/airoboros-2.1",
+      "transformers",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Airoboros-L2-70B-2.1-GGUF"
@@ -16309,6 +16314,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "dataset:jondurbin/airoboros-2.1",
+      "transformers",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Airoboros-L2-70B-2.1-GGML"
