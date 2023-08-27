@@ -9379,7 +9379,7 @@
   {
     "_id": "64b6ce072edcb4a1aa820cbe",
     "id": "TheBloke/Llama-2-7b-Chat-GPTQ",
-    "likes": 90,
+    "likes": 91,
     "private": false,
     "downloads": 95300,
     "tags": [
@@ -9426,7 +9426,7 @@
   {
     "_id": "64b6d9d4bb1d8f2832c8be93",
     "id": "TheBloke/Llama-2-13B-chat-GPTQ",
-    "likes": 223,
+    "likes": 224,
     "private": false,
     "downloads": 73597,
     "tags": [
@@ -14757,7 +14757,7 @@
   {
     "_id": "64e6673c0df4c63f21cb3933",
     "id": "TheBloke/PuddleJumper-13B-GGUF",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -15166,7 +15166,8 @@
       "llama-2",
       "license:llama2",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-7B-Instruct-GPTQ"
@@ -15747,7 +15748,7 @@
   {
     "_id": "64e90ef5de393e513c1fb36b",
     "id": "TheBloke/Samantha-1.11-CodeLlama-34B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15924,7 +15925,7 @@
   {
     "_id": "64e9e5008c523cced2035915",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GPTQ",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 228,
     "tags": [
