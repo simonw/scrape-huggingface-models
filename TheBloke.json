@@ -13170,7 +13170,7 @@
   {
     "_id": "64d5e2dc3ca2924d6e61148a",
     "id": "TheBloke/MythoMax-L2-13B-GGML",
-    "likes": 53,
+    "likes": 54,
     "private": false,
     "downloads": 895,
     "tags": [
@@ -13186,7 +13186,7 @@
   {
     "_id": "64d5e2dcabf475a808a24d42",
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
-    "likes": 36,
+    "likes": 37,
     "private": false,
     "downloads": 7766,
     "tags": [
@@ -15925,7 +15925,7 @@
   {
     "_id": "64e9e5008c523cced2035915",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GPTQ",
-    "likes": 14,
+    "likes": 16,
     "private": false,
     "downloads": 228,
     "tags": [
@@ -16285,7 +16285,7 @@
   {
     "_id": "64ea93ee4a2e1742117614d2",
     "id": "TheBloke/Airoboros-L2-70B-2.1-GPTQ",
-    "likes": 2,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -16399,6 +16399,13 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "en",
+      "dataset:OpenAssistant/oasst1",
+      "dataset:shahules786/orca-best",
+      "transformers",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/CodeLlama-13B-oasst-sft-v10-GGML"
@@ -16410,6 +16417,13 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "en",
+      "dataset:OpenAssistant/oasst1",
+      "dataset:shahules786/orca-best",
+      "transformers",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/CodeLlama-13B-oasst-sft-v10-GGUF"
