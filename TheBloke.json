@@ -15057,7 +15057,7 @@
   {
     "_id": "64e78cdac3b2443fb30b9dda",
     "id": "TheBloke/CodeLlama-7B-Instruct-GGUF",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 24,
     "tags": [
@@ -15175,7 +15175,7 @@
   {
     "_id": "64e7bdab9f8952a1c0ffbbb8",
     "id": "TheBloke/CodeLlama-13B-Python-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -15970,7 +15970,7 @@
   {
     "_id": "64e9e5316b9db55517b1d2a9",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -16380,5 +16380,38 @@
       "region:us"
     ],
     "modelId": "TheBloke/Huginn-22B-Prototype-GGUF"
+  },
+  {
+    "_id": "64eb5af601df1b139e83d0d7",
+    "id": "TheBloke/CodeLlama-13B-oasst-sft-v10-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/CodeLlama-13B-oasst-sft-v10-GPTQ"
+  },
+  {
+    "_id": "64eb5af62beaa8c41069515b",
+    "id": "TheBloke/CodeLlama-13B-oasst-sft-v10-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/CodeLlama-13B-oasst-sft-v10-GGML"
+  },
+  {
+    "_id": "64eb5af6b96ff0e175550f31",
+    "id": "TheBloke/CodeLlama-13B-oasst-sft-v10-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/CodeLlama-13B-oasst-sft-v10-GGUF"
   }
 ]
