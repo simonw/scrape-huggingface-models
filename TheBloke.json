@@ -10148,7 +10148,7 @@
   {
     "_id": "64baf98eaaccfd28b020975b",
     "id": "TheBloke/Nous-Hermes-Llama2-GGML",
-    "likes": 84,
+    "likes": 85,
     "private": false,
     "downloads": 334,
     "tags": [
@@ -11154,7 +11154,7 @@
   {
     "_id": "64c7e2d43a3f428da64e4f95",
     "id": "TheBloke/OpenChat_v3.2-GGML",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 26,
     "tags": [
@@ -11241,7 +11241,7 @@
   {
     "_id": "64c8381055abbb02c8a9b768",
     "id": "TheBloke/airoboros-l2-13b-gpt4-2.0-GGML",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 54,
     "tags": [
@@ -11655,7 +11655,7 @@
   {
     "_id": "64cb5e618769a4019f982308",
     "id": "TheBloke/vicuna-13B-v1.5-16K-GGML",
-    "likes": 47,
+    "likes": 48,
     "private": false,
     "downloads": 148,
     "tags": [
@@ -11791,7 +11791,7 @@
   {
     "_id": "64cb7b8f1af278541d6b8aaf",
     "id": "TheBloke/vicuna-13B-v1.5-GGML",
-    "likes": 18,
+    "likes": 19,
     "private": false,
     "downloads": 33,
     "tags": [
@@ -13170,7 +13170,7 @@
   {
     "_id": "64d5e2dc3ca2924d6e61148a",
     "id": "TheBloke/MythoMax-L2-13B-GGML",
-    "likes": 52,
+    "likes": 53,
     "private": false,
     "downloads": 895,
     "tags": [
@@ -14757,7 +14757,7 @@
   {
     "_id": "64e6673c0df4c63f21cb3933",
     "id": "TheBloke/PuddleJumper-13B-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -16339,8 +16339,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "safetensors",
+      "llama",
+      "text-generation",
+      "transformers",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Huginn-22B-Prototype-GPTQ"
   },
   {
