@@ -9356,7 +9356,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 422,
+    "likes": 423,
     "private": false,
     "downloads": 7046,
     "tags": [
@@ -9497,6 +9497,7 @@
       "llama",
       "text-generation",
       "transformers",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -14230,7 +14231,7 @@
   {
     "_id": "64e35618a88a63300b9447db",
     "id": "TheBloke/Llama-2-7B-32K-Instruct-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 1295,
     "tags": [
@@ -15175,7 +15176,7 @@
   {
     "_id": "64e7bdab9f8952a1c0ffbbb8",
     "id": "TheBloke/CodeLlama-13B-Python-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -15837,7 +15838,7 @@
   {
     "_id": "64e9bccaa1e1a36f96f88ab5",
     "id": "TheBloke/Phind-CodeLlama-34B-v1-GGML",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15854,7 +15855,7 @@
   {
     "_id": "64e9bccabfb2aa06a429cb9c",
     "id": "TheBloke/Phind-CodeLlama-34B-v1-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 61,
     "tags": [
@@ -15970,7 +15971,7 @@
   {
     "_id": "64e9e5316b9db55517b1d2a9",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -16438,5 +16439,58 @@
       "region:us"
     ],
     "modelId": "TheBloke/CodeLlama-13B-oasst-sft-v10-GGUF"
+  },
+  {
+    "_id": "64eb8a892800cf7e9cb2541b",
+    "id": "TheBloke/WizardCoder-Python-13B-V1.0-GPTQ",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/WizardCoder-Python-13B-V1.0-GPTQ"
+  },
+  {
+    "_id": "64eb8a8934d4f899662f368d",
+    "id": "TheBloke/WizardCoder-Python-13B-V1.0-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "llama",
+      "arxiv:2304.12244",
+      "arxiv:2306.08568",
+      "arxiv:2308.09583",
+      "arxiv:2303.08774",
+      "transformers",
+      "code",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/WizardCoder-Python-13B-V1.0-GGML"
+  },
+  {
+    "_id": "64eb8c012beaa8c4106ee91f",
+    "id": "TheBloke/WizardCoder-Python-13B-V1.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "llama",
+      "arxiv:2304.12244",
+      "arxiv:2306.08568",
+      "arxiv:2308.09583",
+      "arxiv:2303.08774",
+      "transformers",
+      "code",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/WizardCoder-Python-13B-V1.0-GGUF"
   }
 ]
