@@ -16510,5 +16510,27 @@
       "region:us"
     ],
     "modelId": "TheBloke/WizardCoder-Python-13B-V1.0-GGUF"
+  },
+  {
+    "_id": "64ed0427a79cf4a895eb53c9",
+    "id": "TheBloke/Phind-CodeLlama-34B-v2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Phind-CodeLlama-34B-v2-GPTQ"
+  },
+  {
+    "_id": "64ed0427bae642629c5c0e92",
+    "id": "TheBloke/Phind-CodeLlama-34B-v2-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Phind-CodeLlama-34B-v2-GGML"
   }
 ]
