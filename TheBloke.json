@@ -13000,7 +13000,7 @@
   {
     "_id": "64d5074546bda7d8f5b74eef",
     "id": "TheBloke/orca_mini_v3_13B-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 2400,
     "tags": [
@@ -15119,7 +15119,7 @@
   {
     "_id": "64e7bafd0c47bf287ca550b8",
     "id": "TheBloke/CodeLlama-13B-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 16,
     "tags": [
@@ -15138,7 +15138,7 @@
   {
     "_id": "64e7bc1129a548f66a1ddb15",
     "id": "TheBloke/CodeLlama-13B-Instruct-GGUF",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -15158,7 +15158,7 @@
   {
     "_id": "64e7bd2c0937566207336662",
     "id": "TheBloke/CodeLlama-7B-Instruct-GPTQ",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 1588,
     "tags": [
@@ -16493,7 +16493,7 @@
   {
     "_id": "64eb8c012beaa8c4106ee91f",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -16529,6 +16529,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "transformers",
+      "code llama",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Phind-CodeLlama-34B-v2-GGML"
