@@ -4091,7 +4091,8 @@
       "transformers",
       "license:bigcode-openrail-m",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/WizardCoder-15B-1.0-GPTQ"
@@ -9356,7 +9357,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 429,
+    "likes": 430,
     "private": false,
     "downloads": 7046,
     "tags": [
@@ -15391,7 +15392,7 @@
   {
     "_id": "64e7d76dade5964ec6d2481f",
     "id": "TheBloke/CodeLlama-7B-Python-GPTQ",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 628,
     "tags": [
@@ -15942,7 +15943,8 @@
       "license:llama2",
       "model-index",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/WizardCoder-Python-34B-V1.0-GPTQ"
