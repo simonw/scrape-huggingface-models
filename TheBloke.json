@@ -9338,7 +9338,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 441,
+    "likes": 442,
     "private": false,
     "downloads": 7166,
     "tags": [
@@ -16732,7 +16732,9 @@
       "safetensors",
       "llama",
       "text-generation",
+      "en",
       "transformers",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -16770,5 +16772,16 @@
       "region:us"
     ],
     "modelId": "TheBloke/Airoboros-L2-13B-2.1-GGML"
+  },
+  {
+    "_id": "64ee1f06d5f28998110eb9a3",
+    "id": "TheBloke/Airoboros-L2-13B-2.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-13B-2.1-GPTQ"
   }
 ]
