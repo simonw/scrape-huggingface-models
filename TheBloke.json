@@ -15255,7 +15255,7 @@
   {
     "_id": "64e7cc65e3953cd90bd5a2e6",
     "id": "TheBloke/CodeLlama-34B-Python-GGUF",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -16635,7 +16635,7 @@
   {
     "_id": "64edeaf018a0cf9ff9549664",
     "id": "TheBloke/MythoMax-Kimiko-Mix-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -16754,7 +16754,7 @@
   {
     "_id": "64ee1440e608a2aa371e4620",
     "id": "TheBloke/Airoboros-L2-13B-2.1-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -16786,7 +16786,7 @@
   {
     "_id": "64ee1f06d5f28998110eb9a3",
     "id": "TheBloke/Airoboros-L2-13B-2.1-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -16846,7 +16846,10 @@
       "safetensors",
       "llama",
       "text-generation",
+      "en",
+      "arxiv:2306.02707",
       "transformers",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -16856,7 +16859,7 @@
   {
     "_id": "64ee69bb25d2bb76c07bfe52",
     "id": "TheBloke/Airoboros-L2-7B-2.1-GGUF",
-    "likes": 0,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -16892,8 +16895,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-2.1",
+      "transformers",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Airoboros-L2-7B-2.1-GPTQ"
   }
 ]
