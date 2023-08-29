@@ -2320,7 +2320,7 @@
   {
     "_id": "647a8d4dc7367455fda310fd",
     "id": "TheBloke/PMC_LLAMA-7B-GGML",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -9338,7 +9338,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 442,
+    "likes": 443,
     "private": false,
     "downloads": 7166,
     "tags": [
@@ -9471,7 +9471,7 @@
   {
     "_id": "64b6eabcfa7eabaae5ed9f48",
     "id": "TheBloke/Llama-2-7B-fp16",
-    "likes": 25,
+    "likes": 26,
     "private": false,
     "downloads": 10815,
     "tags": [
@@ -13153,7 +13153,7 @@
   {
     "_id": "64d5e2dc3ca2924d6e61148a",
     "id": "TheBloke/MythoMax-L2-13B-GGML",
-    "likes": 54,
+    "likes": 55,
     "private": false,
     "downloads": 960,
     "tags": [
@@ -15955,7 +15955,7 @@
   {
     "_id": "64e9e5316b9db55517b1d2a9",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GGUF",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -16358,7 +16358,7 @@
   {
     "_id": "64eb5af601df1b139e83d0d7",
     "id": "TheBloke/CodeLlama-13B-oasst-sft-v10-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 65,
     "tags": [
@@ -16454,7 +16454,8 @@
       "license:llama2",
       "model-index",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/WizardCoder-Python-13B-V1.0-GGML"
   },
@@ -16519,7 +16520,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -16686,14 +16687,23 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "transformers",
+      "code",
+      "text-generation-inference",
+      "license:llama2",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Lemur-70B-Chat-v1-GPTQ"
   },
   {
     "_id": "64ee017ed74fa2ac08678c5e",
     "id": "TheBloke/Mythical-Destroyer-L2-13B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -16791,5 +16801,38 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Airoboros-L2-13B-2.1-GPTQ"
+  },
+  {
+    "_id": "64ee32e125d2bb76c0734185",
+    "id": "TheBloke/model_007-70B-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/model_007-70B-GGML"
+  },
+  {
+    "_id": "64ee32e15fb7a96a2dd6526b",
+    "id": "TheBloke/model_007-70B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/model_007-70B-GGUF"
+  },
+  {
+    "_id": "64ee32e19884f64fd265a258",
+    "id": "TheBloke/model_007-70B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/model_007-70B-GPTQ"
   }
 ]
