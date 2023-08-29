@@ -659,7 +659,7 @@
   {
     "_id": "6454b9c0f61f10d69dbfd49f",
     "id": "TheBloke/WizardLM-7B-uncensored-GPTQ",
-    "likes": 143,
+    "likes": 144,
     "private": false,
     "downloads": 9795,
     "tags": [
@@ -4543,7 +4543,7 @@
   {
     "_id": "648efb5fc92367eecac1850d",
     "id": "TheBloke/WizardLM-7B-V1.0-Uncensored-GPTQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 587,
     "tags": [
@@ -9245,7 +9245,7 @@
   {
     "_id": "64b6c6798f63c1ad2b13762a",
     "id": "TheBloke/Llama-2-7B-GGML",
-    "likes": 175,
+    "likes": 176,
     "private": false,
     "downloads": 1384,
     "tags": [
@@ -9338,7 +9338,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 440,
+    "likes": 441,
     "private": false,
     "downloads": 7166,
     "tags": [
@@ -9385,7 +9385,7 @@
   {
     "_id": "64b6d3eeab056b63ede8a758",
     "id": "TheBloke/Llama-2-13B-chat-GGML",
-    "likes": 546,
+    "likes": 545,
     "private": false,
     "downloads": 5304,
     "tags": [
@@ -10200,7 +10200,7 @@
   {
     "_id": "64bb0fee1363b5c7996fc358",
     "id": "TheBloke/llama2_7b_chat_uncensored-GPTQ",
-    "likes": 38,
+    "likes": 39,
     "private": false,
     "downloads": 3864,
     "tags": [
@@ -11380,7 +11380,7 @@
   {
     "_id": "64c967715381684d3eba5295",
     "id": "TheBloke/NewHope-GGML",
-    "likes": 37,
+    "likes": 38,
     "private": false,
     "downloads": 46,
     "tags": [
@@ -15486,7 +15486,7 @@
   {
     "_id": "64e7ea351a6fd0c6f2552016",
     "id": "TheBloke/CodeLlama-7B-GPTQ",
-    "likes": 5,
+    "likes": 4,
     "private": false,
     "downloads": 686,
     "tags": [
@@ -16259,7 +16259,7 @@
   {
     "_id": "64ea93ee4a2e1742117614d2",
     "id": "TheBloke/Airoboros-L2-70B-2.1-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 25,
     "tags": [
@@ -16278,7 +16278,7 @@
   {
     "_id": "64ea93ee4f3f7b0b84ae38c9",
     "id": "TheBloke/Airoboros-L2-70B-2.1-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -16697,6 +16697,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "en",
+      "transformers",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Mythical-Destroyer-L2-13B-GGUF"
@@ -16708,6 +16713,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "en",
+      "transformers",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Mythical-Destroyer-L2-13B-GGML"
