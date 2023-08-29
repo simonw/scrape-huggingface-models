@@ -9287,7 +9287,7 @@
   {
     "_id": "64b6c679d16e945399007406",
     "id": "TheBloke/Llama-2-7B-GPTQ",
-    "likes": 34,
+    "likes": 35,
     "private": false,
     "downloads": 7600,
     "tags": [
@@ -9310,7 +9310,7 @@
   {
     "_id": "64b6c9343d3bb8b1b5eb6aa0",
     "id": "TheBloke/Llama-2-13B-GPTQ",
-    "likes": 87,
+    "likes": 88,
     "private": false,
     "downloads": 9258,
     "tags": [
@@ -9531,7 +9531,7 @@
   {
     "_id": "64b72402fdb702b3d85cc9d2",
     "id": "TheBloke/Llama-2-70B-GPTQ",
-    "likes": 50,
+    "likes": 51,
     "private": false,
     "downloads": 233571,
     "tags": [
@@ -16518,8 +16518,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "safetensors",
+      "llama",
+      "text-generation",
+      "transformers",
+      "code llama",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Phind-CodeLlama-34B-v2-GPTQ"
   },
   {
