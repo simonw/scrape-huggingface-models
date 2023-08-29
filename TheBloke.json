@@ -15074,7 +15074,7 @@
   {
     "_id": "64e78d117acd8971f2c6bbe6",
     "id": "TheBloke/CodeLlama-7B-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 36,
     "tags": [
@@ -15255,7 +15255,7 @@
   {
     "_id": "64e7cc65e3953cd90bd5a2e6",
     "id": "TheBloke/CodeLlama-34B-Python-GGUF",
-    "likes": 18,
+    "likes": 19,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -16259,7 +16259,7 @@
   {
     "_id": "64ea93ee4a2e1742117614d2",
     "id": "TheBloke/Airoboros-L2-70B-2.1-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 25,
     "tags": [
@@ -16809,6 +16809,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "en",
+      "arxiv:2306.02707",
+      "transformers",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/model_007-70B-GGML"
@@ -16820,6 +16826,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "en",
+      "arxiv:2306.02707",
+      "transformers",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/model_007-70B-GGUF"
