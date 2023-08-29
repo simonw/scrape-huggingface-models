@@ -646,7 +646,7 @@
   {
     "_id": "6454b656d55525a4feddd5e3",
     "id": "TheBloke/WizardLM-7B-uncensored-GGML",
-    "likes": 100,
+    "likes": 101,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -12923,7 +12923,7 @@
   {
     "_id": "64d4b803abf475a808759c19",
     "id": "TheBloke/orca_mini_v3_7B-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 595,
     "tags": [
@@ -13281,7 +13281,7 @@
   {
     "_id": "64d661d53ca2924d6e71b103",
     "id": "TheBloke/WizardMath-13B-V1.0-GGML",
-    "likes": 13,
+    "likes": 12,
     "private": false,
     "downloads": 15,
     "tags": [
@@ -13993,7 +13993,7 @@
   {
     "_id": "64dd2ebb2057a9cd9acda357",
     "id": "TheBloke/orca_mini_v3_70B-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 6191,
     "tags": [
@@ -15331,7 +15331,7 @@
   {
     "_id": "64e7d00dae53e70cda1de235",
     "id": "TheBloke/CodeLlama-34B-Instruct-GGUF",
-    "likes": 30,
+    "likes": 31,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -16538,7 +16538,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -16657,6 +16657,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "transformers",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/MythoMax-Kimiko-Mix-GGUF"
@@ -16668,6 +16672,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "transformers",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/MythoMax-Kimiko-Mix-GGML"
