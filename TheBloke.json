@@ -4081,7 +4081,7 @@
   {
     "_id": "6489e9bf1fbaba5ea28c5183",
     "id": "TheBloke/WizardCoder-15B-1.0-GGML",
-    "likes": 103,
+    "likes": 104,
     "private": false,
     "downloads": 101,
     "tags": [
@@ -14971,7 +14971,7 @@
   {
     "_id": "64e7868cd96966317b47a69d",
     "id": "TheBloke/CodeLlama-7B-Instruct-fp16",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 484,
     "tags": [
@@ -15074,7 +15074,7 @@
   {
     "_id": "64e78d117acd8971f2c6bbe6",
     "id": "TheBloke/CodeLlama-7B-GGUF",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 36,
     "tags": [
@@ -16011,7 +16011,7 @@
   {
     "_id": "64e9edbf5b8d8156f2b0110d",
     "id": "TheBloke/Zarafusionex-1.1-L2-7B-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -16278,7 +16278,7 @@
   {
     "_id": "64ea93ee4f3f7b0b84ae38c9",
     "id": "TheBloke/Airoboros-L2-70B-2.1-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -16721,5 +16721,48 @@
       "region:us"
     ],
     "modelId": "TheBloke/Mythical-Destroyer-L2-13B-GGML"
+  },
+  {
+    "_id": "64ee13681667d8973aede26a",
+    "id": "TheBloke/Mythical-Destroyer-L2-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Mythical-Destroyer-L2-13B-GPTQ"
+  },
+  {
+    "_id": "64ee1440e608a2aa371e4620",
+    "id": "TheBloke/Airoboros-L2-13B-2.1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "llama",
+      "dataset:jondurbin/airoboros-2.1",
+      "transformers",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-13B-2.1-GGUF"
+  },
+  {
+    "_id": "64ee1440edc1c8e6d3ee6bcf",
+    "id": "TheBloke/Airoboros-L2-13B-2.1-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "llama",
+      "dataset:jondurbin/airoboros-2.1",
+      "transformers",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-13B-2.1-GGML"
   }
 ]
