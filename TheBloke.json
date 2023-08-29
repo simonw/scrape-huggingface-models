@@ -729,7 +729,7 @@
   {
     "_id": "64555d20fe2f48cb4b6da91f",
     "id": "TheBloke/gpt4-x-vicuna-13B-GGML",
-    "likes": 91,
+    "likes": 92,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -1133,7 +1133,7 @@
   {
     "_id": "6465d98b9c627c78f8629e5d",
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ",
-    "likes": 56,
+    "likes": 57,
     "private": false,
     "downloads": 218953,
     "tags": [
@@ -6285,7 +6285,7 @@
   {
     "_id": "649ab72b8ac3fdfe1027d78f",
     "id": "TheBloke/Samantha-33B-SuperHOT-8K-GPTQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -9357,7 +9357,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 440,
+    "likes": 439,
     "private": false,
     "downloads": 7166,
     "tags": [
@@ -9404,7 +9404,7 @@
   {
     "_id": "64b6d3eeab056b63ede8a758",
     "id": "TheBloke/Llama-2-13B-chat-GGML",
-    "likes": 547,
+    "likes": 546,
     "private": false,
     "downloads": 5304,
     "tags": [
@@ -14377,17 +14377,6 @@
     "modelId": "TheBloke/EverythingLM-13b-V2-16K-GGML"
   },
   {
-    "_id": "64e484d91deccdb4dccc2591",
-    "id": "TheBloke/Llama2-28B-Air03-GGML",
-    "likes": 3,
-    "private": false,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "modelId": "TheBloke/Llama2-28B-Air03-GGML"
-  },
-  {
     "_id": "64e484d942028a0616c631bd",
     "id": "TheBloke/Llama2-28B-Air03-GPTQ",
     "likes": 2,
@@ -14621,6 +14610,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "llama",
+      "transformers",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Synthia-7B-GGML"
@@ -15723,6 +15716,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "en",
+      "dataset:ehartford/samantha-data",
+      "arxiv:2305.14314",
+      "arxiv:2205.14135",
+      "license:llama2",
       "region:us"
     ],
     "modelId": "TheBloke/Samantha-1.11-CodeLlama-34B-GGML"
@@ -16315,7 +16313,7 @@
   {
     "_id": "64ea93eea98b5aa7dbee98eb",
     "id": "TheBloke/Airoboros-L2-70B-2.1-GGML",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 2,
     "tags": [
