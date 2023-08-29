@@ -2803,7 +2803,7 @@
   {
     "_id": "647f775b1a446a624a4896f7",
     "id": "TheBloke/WizardLM-30B-fp16",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 278,
     "tags": [
@@ -15732,7 +15732,7 @@
   {
     "_id": "64e90ef5de393e513c1fb36b",
     "id": "TheBloke/Samantha-1.11-CodeLlama-34B-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -16243,7 +16243,7 @@
   {
     "_id": "64ea7682e8dd717fd3fb9fc1",
     "id": "TheBloke/Airoboros-c34B-2.1-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -16665,7 +16665,7 @@
   {
     "_id": "64edeaf054332725b49a7681",
     "id": "TheBloke/MythoMax-Kimiko-Mix-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -16811,6 +16811,7 @@
     "tags": [
       "llama",
       "en",
+      "arxiv:2306.02707",
       "transformers",
       "license:llama2",
       "text-generation-inference",
@@ -16826,6 +16827,8 @@
     "downloads": 0,
     "tags": [
       "llama",
+      "en",
+      "arxiv:2306.02707",
       "transformers",
       "license:llama2",
       "text-generation-inference",
@@ -16840,8 +16843,57 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "safetensors",
+      "llama",
+      "text-generation",
+      "transformers",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/model_007-70B-GPTQ"
+  },
+  {
+    "_id": "64ee69bb25d2bb76c07bfe52",
+    "id": "TheBloke/Airoboros-L2-7B-2.1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "llama",
+      "dataset:jondurbin/airoboros-2.1",
+      "transformers",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-7B-2.1-GGUF"
+  },
+  {
+    "_id": "64ee69bbc5bb0895c894fd10",
+    "id": "TheBloke/Airoboros-L2-7B-2.1-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "llama",
+      "dataset:jondurbin/airoboros-2.1",
+      "transformers",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-7B-2.1-GGML"
+  },
+  {
+    "_id": "64ee69bbd679ae3f9001a353",
+    "id": "TheBloke/Airoboros-L2-7B-2.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-7B-2.1-GPTQ"
   }
 ]
