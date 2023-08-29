@@ -5695,7 +5695,8 @@
       "transformers",
       "license:other",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/WizardLM-13B-V1-0-Uncensored-SuperHOT-8K-GPTQ"
@@ -9357,7 +9358,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 439,
+    "likes": 440,
     "private": false,
     "downloads": 7166,
     "tags": [
@@ -15369,7 +15370,7 @@
   {
     "_id": "64e7d523d9e7b4bb623c59b1",
     "id": "TheBloke/CodeLlama-13B-Instruct-GGML",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 15,
     "tags": [
@@ -15428,7 +15429,7 @@
   {
     "_id": "64e7d975efc277cdc01ba39d",
     "id": "TheBloke/CodeLlama-13B-Python-GGML",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 11,
     "tags": [
@@ -15448,7 +15449,7 @@
   {
     "_id": "64e7dd67ce67a2e40563580b",
     "id": "TheBloke/CodeLlama-13B-GGML",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -15953,7 +15954,7 @@
   {
     "_id": "64e9e5239d939716d02974f5",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GGML",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -16297,7 +16298,7 @@
   {
     "_id": "64ea93ee4f3f7b0b84ae38c9",
     "id": "TheBloke/Airoboros-L2-70B-2.1-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -16521,7 +16522,7 @@
   {
     "_id": "64ed0427bae642629c5c0e92",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGML",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -16555,7 +16556,7 @@
   {
     "_id": "64edd2c360f6345da710a5d9",
     "id": "TheBloke/Lemur-70B-Chat-v1-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -16573,5 +16574,54 @@
       "region:us"
     ],
     "modelId": "TheBloke/Lemur-70B-Chat-v1-GGML"
+  },
+  {
+    "_id": "64edd9ef003907bb7170d84a",
+    "id": "TheBloke/Samantha-1.11-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Samantha-1.11-13B-GPTQ"
+  },
+  {
+    "_id": "64edd9efd0a1f6024239cd1f",
+    "id": "TheBloke/Samantha-1.11-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "llama",
+      "en",
+      "dataset:ehartford/samantha-data",
+      "arxiv:2305.14314",
+      "arxiv:2205.14135",
+      "transformers",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Samantha-1.11-13B-GGUF"
+  },
+  {
+    "_id": "64edd9efeb66036c025f423d",
+    "id": "TheBloke/Samantha-1.11-13B-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "llama",
+      "en",
+      "dataset:ehartford/samantha-data",
+      "arxiv:2305.14314",
+      "arxiv:2205.14135",
+      "transformers",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Samantha-1.11-13B-GGML"
   }
 ]
