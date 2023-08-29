@@ -1133,7 +1133,7 @@
   {
     "_id": "6465d98b9c627c78f8629e5d",
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ",
-    "likes": 57,
+    "likes": 58,
     "private": false,
     "downloads": 218953,
     "tags": [
@@ -12563,7 +12563,7 @@
   {
     "_id": "64cf7bb2c0c627dfa7cd2c43",
     "id": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GGML",
-    "likes": 42,
+    "likes": 43,
     "private": false,
     "downloads": 264,
     "tags": [
@@ -13188,7 +13188,7 @@
   {
     "_id": "64d5e2dcabf475a808a24d42",
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
-    "likes": 41,
+    "likes": 42,
     "private": false,
     "downloads": 11329,
     "tags": [
@@ -15631,7 +15631,7 @@
   {
     "_id": "64e893eb0c2413c35722cff1",
     "id": "TheBloke/CodeLlama-34B-GPTQ",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 206,
     "tags": [
@@ -16501,7 +16501,7 @@
   {
     "_id": "64ed0427a79cf4a895eb53c9",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -16538,7 +16538,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 7,
+    "likes": 9,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -16687,8 +16687,26 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "safetensors",
+      "llama",
+      "text-generation",
+      "transformers",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MythoMax-Kimiko-Mix-GPTQ"
+  },
+  {
+    "_id": "64edfa6219527b8d28182221",
+    "id": "TheBloke/Lemur-70B-Chat-v1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Lemur-70B-Chat-v1-GPTQ"
   }
 ]
