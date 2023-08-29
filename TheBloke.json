@@ -679,7 +679,7 @@
   {
     "_id": "64551258f61f10d69dc80b21",
     "id": "TheBloke/GPT4All-13B-snoozy-GPTQ",
-    "likes": 27,
+    "likes": 26,
     "private": false,
     "downloads": 134,
     "tags": [
@@ -13153,7 +13153,7 @@
   {
     "_id": "64d5e2dc3ca2924d6e61148a",
     "id": "TheBloke/MythoMax-L2-13B-GGML",
-    "likes": 55,
+    "likes": 56,
     "private": false,
     "downloads": 960,
     "tags": [
@@ -16703,7 +16703,7 @@
   {
     "_id": "64ee017ed74fa2ac08678c5e",
     "id": "TheBloke/Mythical-Destroyer-L2-13B-GGUF",
-    "likes": 3,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -16811,7 +16811,6 @@
     "tags": [
       "llama",
       "en",
-      "arxiv:2306.02707",
       "transformers",
       "license:llama2",
       "text-generation-inference",
@@ -16827,8 +16826,6 @@
     "downloads": 0,
     "tags": [
       "llama",
-      "en",
-      "arxiv:2306.02707",
       "transformers",
       "license:llama2",
       "text-generation-inference",
