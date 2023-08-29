@@ -739,25 +739,6 @@
     "modelId": "TheBloke/gpt4-x-vicuna-13B-GGML"
   },
   {
-    "_id": "64556fa6d55525a4feeea75c",
-    "id": "TheBloke/gpt4-x-vicuna-13B-HF",
-    "likes": 23,
-    "private": false,
-    "downloads": 334,
-    "tags": [
-      "pytorch",
-      "llama",
-      "text-generation",
-      "transformers",
-      "license:other",
-      "has_space",
-      "text-generation-inference",
-      "region:us"
-    ],
-    "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/gpt4-x-vicuna-13B-HF"
-  },
-  {
     "_id": "645687fb03625871eb77a634",
     "id": "TheBloke/h2ogpt-oasst1-512-30B-GGML",
     "likes": 12,
@@ -9264,7 +9245,7 @@
   {
     "_id": "64b6c6798f63c1ad2b13762a",
     "id": "TheBloke/Llama-2-7B-GGML",
-    "likes": 174,
+    "likes": 175,
     "private": false,
     "downloads": 1384,
     "tags": [
@@ -10238,7 +10219,7 @@
   {
     "_id": "64bb0fee5ee4641b32d0bcd2",
     "id": "TheBloke/llama2_7b_chat_uncensored-GGML",
-    "likes": 81,
+    "likes": 82,
     "private": false,
     "downloads": 298,
     "tags": [
@@ -11047,7 +11028,7 @@
   {
     "_id": "64c507a947418a0a59b03cd4",
     "id": "TheBloke/Vigogne-2-13B-Instruct-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 420,
     "tags": [
@@ -14290,7 +14271,7 @@
   {
     "_id": "64e3bd312fbf570ac7fc1215",
     "id": "TheBloke/L2-MythoMax22b-Instruct-Falseblock-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 948,
     "tags": [
@@ -16708,5 +16689,27 @@
       "region:us"
     ],
     "modelId": "TheBloke/Lemur-70B-Chat-v1-GPTQ"
+  },
+  {
+    "_id": "64ee017ed74fa2ac08678c5e",
+    "id": "TheBloke/Mythical-Destroyer-L2-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Mythical-Destroyer-L2-13B-GGUF"
+  },
+  {
+    "_id": "64ee017f819311c529601c12",
+    "id": "TheBloke/Mythical-Destroyer-L2-13B-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Mythical-Destroyer-L2-13B-GGML"
   }
 ]
