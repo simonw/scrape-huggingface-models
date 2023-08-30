@@ -9385,7 +9385,7 @@
   {
     "_id": "64b6d3eeab056b63ede8a758",
     "id": "TheBloke/Llama-2-13B-chat-GGML",
-    "likes": 548,
+    "likes": 549,
     "private": false,
     "downloads": 5266,
     "tags": [
@@ -15514,7 +15514,7 @@
   {
     "_id": "64e85bb1e6a52fff352d606f",
     "id": "TheBloke/CodeLlama-34B-Instruct-GPTQ",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 531,
     "tags": [
@@ -16257,11 +16257,11 @@
     "private": false,
     "downloads": 5,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "dataset:OpenAssistant/oasst1",
       "dataset:shahules786/orca-best",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -16275,11 +16275,11 @@
     "private": false,
     "downloads": 6,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "dataset:OpenAssistant/oasst1",
       "dataset:shahules786/orca-best",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -16626,7 +16626,7 @@
   {
     "_id": "64ee1440edc1c8e6d3ee6bcf",
     "id": "TheBloke/Airoboros-L2-13B-2.1-GGML",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
