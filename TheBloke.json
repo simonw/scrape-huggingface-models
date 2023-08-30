@@ -15333,7 +15333,7 @@
   {
     "_id": "64e7d2676e8d01b79993ca60",
     "id": "TheBloke/CodeLlama-7B-GGML",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 29,
     "tags": [
@@ -15412,7 +15412,7 @@
   {
     "_id": "64e7dd67ce67a2e40563580b",
     "id": "TheBloke/CodeLlama-13B-GGML",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -17113,5 +17113,35 @@
       "region:us"
     ],
     "modelId": "TheBloke/fiction.live-Kimiko-V2-70B-GGUF"
+  },
+  {
+    "_id": "64efcd16d2bab867b1b63b27",
+    "id": "TheBloke/fiction.live-Kimiko-V2-70B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/fiction.live-Kimiko-V2-70B-GPTQ"
+  },
+  {
+    "_id": "64efcd379e97aa906d92d5a5",
+    "id": "TheBloke/fiction.live-Kimiko-V2-70B-fp16",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "pytorch",
+      "llama",
+      "text-generation",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/fiction.live-Kimiko-V2-70B-fp16"
   }
 ]
