@@ -9338,7 +9338,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 450,
+    "likes": 451,
     "private": false,
     "downloads": 7492,
     "tags": [
@@ -9361,7 +9361,7 @@
   {
     "_id": "64b6ce072edcb4a1aa820cbe",
     "id": "TheBloke/Llama-2-7b-Chat-GPTQ",
-    "likes": 97,
+    "likes": 98,
     "private": false,
     "downloads": 95833,
     "tags": [
@@ -9408,7 +9408,7 @@
   {
     "_id": "64b6d9d4bb1d8f2832c8be93",
     "id": "TheBloke/Llama-2-13B-chat-GPTQ",
-    "likes": 229,
+    "likes": 230,
     "private": false,
     "downloads": 80786,
     "tags": [
@@ -13154,7 +13154,7 @@
   {
     "_id": "64d5e2dc3ca2924d6e61148a",
     "id": "TheBloke/MythoMax-L2-13B-GGML",
-    "likes": 57,
+    "likes": 58,
     "private": false,
     "downloads": 1005,
     "tags": [
@@ -15638,7 +15638,7 @@
   {
     "_id": "64e90e5e5ba66cfe775bbbe9",
     "id": "TheBloke/Samantha-1.11-CodeLlama-34B-GPTQ",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 129,
     "tags": [
@@ -16098,7 +16098,7 @@
   {
     "_id": "64ea7682233101ed99dbf22d",
     "id": "TheBloke/Airoboros-c34B-2.1-GPTQ",
-    "likes": 6,
+    "likes": 8,
     "private": false,
     "downloads": 59,
     "tags": [
@@ -16152,7 +16152,7 @@
   {
     "_id": "64ea93ee4f3f7b0b84ae38c9",
     "id": "TheBloke/Airoboros-L2-70B-2.1-GGUF",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -16377,7 +16377,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -17015,8 +17015,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Kimiko-v2-13B-GGUF"
   },
   {
@@ -17026,8 +17033,34 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Kimiko-v2-13B-GGML"
+  },
+  {
+    "_id": "64ef723c64b581f717251923",
+    "id": "TheBloke/Kimiko-v2-13B-fp16",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "pytorch",
+      "llama",
+      "text-generation",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Kimiko-v2-13B-fp16"
   }
 ]
