@@ -15113,7 +15113,7 @@
   {
     "_id": "64e7bc1129a548f66a1ddb15",
     "id": "TheBloke/CodeLlama-13B-Instruct-GGUF",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 30,
     "tags": [
@@ -16521,7 +16521,7 @@
   {
     "_id": "64edeaf054332725b49a7681",
     "id": "TheBloke/MythoMax-Kimiko-Mix-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -16939,5 +16939,54 @@
       "region:us"
     ],
     "modelId": "TheBloke/Athena-v1-GGUF"
+  },
+  {
+    "_id": "64ef621d55f4e6d0d4fbeaa2",
+    "id": "TheBloke/Athena-v1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Athena-v1-GPTQ"
+  },
+  {
+    "_id": "64ef645411e7dfe9558780b9",
+    "id": "TheBloke/Luban-13B-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:Open-Orca/OpenOrca",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Luban-13B-GGML"
+  },
+  {
+    "_id": "64ef64547ca2e4871b2c5a97",
+    "id": "TheBloke/Luban-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:Open-Orca/OpenOrca",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Luban-13B-GGUF"
   }
 ]
