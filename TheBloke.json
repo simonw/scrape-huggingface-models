@@ -9338,7 +9338,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 448,
+    "likes": 449,
     "private": false,
     "downloads": 7492,
     "tags": [
@@ -15113,7 +15113,7 @@
   {
     "_id": "64e7bc1129a548f66a1ddb15",
     "id": "TheBloke/CodeLlama-13B-Instruct-GGUF",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 30,
     "tags": [
@@ -16766,10 +16766,15 @@
   {
     "_id": "64ef0c4832b9d84c0d662e89",
     "id": "TheBloke/Mythical-Destroyer-V2-L2-13B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Mythical-Destroyer-V2-L2-13B-GGUF"
@@ -16792,6 +16797,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Mythical-Destroyer-V2-L2-13B-GGML"
