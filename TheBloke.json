@@ -1762,7 +1762,7 @@
   {
     "_id": "6471c82a97a75cc77aa6cb70",
     "id": "TheBloke/falcon-40b-instruct-GPTQ",
-    "likes": 191,
+    "likes": 192,
     "private": false,
     "downloads": 18225,
     "tags": [
@@ -9458,10 +9458,11 @@
     "private": false,
     "downloads": 13032,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
-      "transformers",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -9512,7 +9513,7 @@
   {
     "_id": "64b72402fdb702b3d85cc9d2",
     "id": "TheBloke/Llama-2-70B-GPTQ",
-    "likes": 52,
+    "likes": 53,
     "private": false,
     "downloads": 234714,
     "tags": [
@@ -14972,7 +14973,7 @@
   {
     "_id": "64e7868cd96966317b47a69d",
     "id": "TheBloke/CodeLlama-7B-Instruct-fp16",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 596,
     "tags": [
@@ -15133,7 +15134,7 @@
   {
     "_id": "64e7bd2c0937566207336662",
     "id": "TheBloke/CodeLlama-7B-Instruct-GPTQ",
-    "likes": 18,
+    "likes": 19,
     "private": false,
     "downloads": 2439,
     "tags": [
@@ -15237,7 +15238,7 @@
   {
     "_id": "64e7c2379f8952a1c0008ed1",
     "id": "TheBloke/CodeLlama-34B-GGUF",
-    "likes": 24,
+    "likes": 25,
     "private": false,
     "downloads": 16,
     "tags": [
@@ -15430,7 +15431,7 @@
   {
     "_id": "64e7ea351a6fd0c6f2552016",
     "id": "TheBloke/CodeLlama-7B-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 910,
     "tags": [
@@ -16539,7 +16540,7 @@
   {
     "_id": "64edfa6219527b8d28182221",
     "id": "TheBloke/Lemur-70B-Chat-v1-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -16947,8 +16948,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Athena-v1-GPTQ"
   },
   {
@@ -16988,5 +16996,38 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Luban-13B-GGUF"
+  },
+  {
+    "_id": "64ef6de764b581f717245560",
+    "id": "TheBloke/Luban-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Luban-13B-GPTQ"
+  },
+  {
+    "_id": "64ef6fa91df52444a5eeb749",
+    "id": "TheBloke/Kimiko-v2-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Kimiko-v2-13B-GGUF"
+  },
+  {
+    "_id": "64ef6fa9abd9fb191425096e",
+    "id": "TheBloke/Kimiko-v2-13B-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Kimiko-v2-13B-GGML"
   }
 ]
