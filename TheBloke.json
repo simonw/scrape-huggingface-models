@@ -2058,7 +2058,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 317,
+    "likes": 318,
     "private": false,
     "downloads": 6083,
     "tags": [
@@ -16152,7 +16152,7 @@
   {
     "_id": "64ea93ee4f3f7b0b84ae38c9",
     "id": "TheBloke/Airoboros-L2-70B-2.1-GGUF",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -16493,7 +16493,7 @@
   {
     "_id": "64edeaf018a0cf9ff9549664",
     "id": "TheBloke/MythoMax-Kimiko-Mix-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -17080,8 +17080,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Kimiko-v2-13B-GPTQ"
   }
 ]
