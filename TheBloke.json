@@ -15958,7 +15958,7 @@
   {
     "_id": "64ea007fe8dd717fd3ef297c",
     "id": "TheBloke/Phind-CodeLlama-34B-Python-v1-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 56,
     "tags": [
@@ -16335,7 +16335,7 @@
   {
     "_id": "64eb8c012beaa8c4106ee91f",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 15,
     "tags": [
@@ -16356,7 +16356,7 @@
   {
     "_id": "64ed0427a79cf4a895eb53c9",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GPTQ",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 114,
     "tags": [
@@ -16782,7 +16782,7 @@
   {
     "_id": "64ef0c4832b9d84c0d662e8a",
     "id": "TheBloke/Mythical-Destroyer-V2-L2-13B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -16900,8 +16900,10 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "safetensors",
       "llama",
       "text-generation",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
