@@ -15828,7 +15828,7 @@
   {
     "_id": "64e9e5316b9db55517b1d2a9",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GGUF",
-    "likes": 23,
+    "likes": 24,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -16682,10 +16682,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "arxiv:2306.02707",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -16899,8 +16899,13 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Huginn-13B-v4-GPTQ"
   }
 ]
