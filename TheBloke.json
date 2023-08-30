@@ -9338,7 +9338,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 449,
+    "likes": 450,
     "private": false,
     "downloads": 7492,
     "tags": [
@@ -13153,7 +13153,7 @@
   {
     "_id": "64d5e2dc3ca2924d6e61148a",
     "id": "TheBloke/MythoMax-L2-13B-GGML",
-    "likes": 56,
+    "likes": 57,
     "private": false,
     "downloads": 1005,
     "tags": [
@@ -16356,7 +16356,7 @@
   {
     "_id": "64ed0427a79cf4a895eb53c9",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GPTQ",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 114,
     "tags": [
@@ -16491,7 +16491,7 @@
   {
     "_id": "64edeaf018a0cf9ff9549664",
     "id": "TheBloke/MythoMax-Kimiko-Mix-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -16506,7 +16506,7 @@
   {
     "_id": "64edeaf0321de246f16e74fe",
     "id": "TheBloke/MythoMax-Kimiko-Mix-GGML",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -16610,7 +16610,7 @@
   {
     "_id": "64ee1440e608a2aa371e4620",
     "id": "TheBloke/Airoboros-L2-13B-2.1-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -16909,5 +16909,35 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Huginn-13B-v4-GPTQ"
+  },
+  {
+    "_id": "64ef4eea0cdd580ca2d8f1a4",
+    "id": "TheBloke/Athena-v1-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Athena-v1-GGML"
+  },
+  {
+    "_id": "64ef4eea76af29f31126c97c",
+    "id": "TheBloke/Athena-v1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Athena-v1-GGUF"
   }
 ]
