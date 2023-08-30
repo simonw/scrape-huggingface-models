@@ -13170,7 +13170,7 @@
   {
     "_id": "64d5e2dcabf475a808a24d42",
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
-    "likes": 43,
+    "likes": 44,
     "private": false,
     "downloads": 13902,
     "tags": [
@@ -17091,5 +17091,27 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Kimiko-v2-13B-GPTQ"
+  },
+  {
+    "_id": "64efcb2c8602335a0450d36d",
+    "id": "TheBloke/fiction.live-Kimiko-V2-70B-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/fiction.live-Kimiko-V2-70B-GGML"
+  },
+  {
+    "_id": "64efcb30abd9fb191431b618",
+    "id": "TheBloke/fiction.live-Kimiko-V2-70B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/fiction.live-Kimiko-V2-70B-GGUF"
   }
 ]
