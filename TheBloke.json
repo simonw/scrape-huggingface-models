@@ -9361,7 +9361,7 @@
   {
     "_id": "64b6ce072edcb4a1aa820cbe",
     "id": "TheBloke/Llama-2-7b-Chat-GPTQ",
-    "likes": 96,
+    "likes": 97,
     "private": false,
     "downloads": 95833,
     "tags": [
@@ -9535,7 +9535,7 @@
   {
     "_id": "64b748a0509b109d0429d255",
     "id": "TheBloke/Llama-2-70B-fp16",
-    "likes": 29,
+    "likes": 30,
     "private": false,
     "downloads": 11271,
     "tags": [
@@ -13169,7 +13169,7 @@
   {
     "_id": "64d5e2dcabf475a808a24d42",
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
-    "likes": 42,
+    "likes": 43,
     "private": false,
     "downloads": 13902,
     "tags": [
@@ -14491,7 +14491,7 @@
   {
     "_id": "64e4b9d88b931854a539479e",
     "id": "TheBloke/Puma-3b-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 31,
     "tags": [
@@ -16235,6 +16235,7 @@
     "private": false,
     "downloads": 98,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -16242,7 +16243,6 @@
       "en",
       "dataset:OpenAssistant/oasst1",
       "dataset:shahules786/orca-best",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -16817,7 +16817,7 @@
   {
     "_id": "64ef1b4c2f761fe7231fa863",
     "id": "TheBloke/Huginn-13B-v4.5-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
