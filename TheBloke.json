@@ -16289,7 +16289,7 @@
   {
     "_id": "64eb8a892800cf7e9cb2541b",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 455,
     "tags": [
@@ -16821,8 +16821,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Huginn-13B-v4.5-GPTQ"
   },
   {
@@ -16862,6 +16869,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Huginn-13B-v4-GGUF"
@@ -16880,5 +16891,16 @@
       "region:us"
     ],
     "modelId": "TheBloke/Huginn-13B-v4-GGML"
+  },
+  {
+    "_id": "64ef2725ebe0cd597c8a83ae",
+    "id": "TheBloke/Huginn-13B-v4-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Huginn-13B-v4-GPTQ"
   }
 ]
