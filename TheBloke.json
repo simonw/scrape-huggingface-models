@@ -9245,7 +9245,7 @@
   {
     "_id": "64b6c6798f63c1ad2b13762a",
     "id": "TheBloke/Llama-2-7B-GGML",
-    "likes": 177,
+    "likes": 178,
     "private": false,
     "downloads": 1473,
     "tags": [
@@ -15134,7 +15134,7 @@
   {
     "_id": "64e7bd2c0937566207336662",
     "id": "TheBloke/CodeLlama-7B-Instruct-GPTQ",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 2439,
     "tags": [
@@ -15804,7 +15804,7 @@
   {
     "_id": "64e9e5008c523cced2035915",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GPTQ",
-    "likes": 23,
+    "likes": 24,
     "private": false,
     "downloads": 1309,
     "tags": [
@@ -16232,7 +16232,7 @@
   {
     "_id": "64eb5af601df1b139e83d0d7",
     "id": "TheBloke/CodeLlama-13B-oasst-sft-v10-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 98,
     "tags": [
@@ -16350,7 +16350,8 @@
       "license:llama2",
       "model-index",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/WizardCoder-Python-13B-V1.0-GGUF"
   },
@@ -16767,7 +16768,7 @@
   {
     "_id": "64ef0c4832b9d84c0d662e89",
     "id": "TheBloke/Mythical-Destroyer-V2-L2-13B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -17004,8 +17005,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:Open-Orca/OpenOrca",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Luban-13B-GPTQ"
   },
   {
