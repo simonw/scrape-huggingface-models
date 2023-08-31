@@ -11187,7 +11187,7 @@
   {
     "_id": "64c8157b7d0ea4e7f1144c05",
     "id": "TheBloke/airoboros-33B-GPT4-m2.0-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 266,
     "tags": [
@@ -16358,7 +16358,7 @@
   {
     "_id": "64ed0427a79cf4a895eb53c9",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GPTQ",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 301,
     "tags": [
@@ -16378,7 +16378,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 19,
+    "likes": 18,
     "private": false,
     "downloads": 11,
     "tags": [
@@ -17021,7 +17021,7 @@
   {
     "_id": "64ef6fa91df52444a5eeb749",
     "id": "TheBloke/Kimiko-v2-13B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -17217,10 +17217,14 @@
   {
     "_id": "64f089736e327b56e29644aa",
     "id": "TheBloke/Airoboros-L2-70B-2.1-Creative-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Airoboros-L2-70B-2.1-Creative-GGUF"
@@ -17232,6 +17236,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Airoboros-L2-70B-2.1-Creative-GGML"
