@@ -17367,5 +17367,38 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/LoKuS-13B-GPTQ"
+  },
+  {
+    "_id": "64f11caf12c67b28e7c61460",
+    "id": "TheBloke/Synthia-70B-v1.1-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Synthia-70B-v1.1-GGML"
+  },
+  {
+    "_id": "64f11caf175f7e99024239f5",
+    "id": "TheBloke/Synthia-70B-v1.1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Synthia-70B-v1.1-GGUF"
+  },
+  {
+    "_id": "64f11cafb77695f4d70eb75a",
+    "id": "TheBloke/Synthia-70B-v1.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Synthia-70B-v1.1-GPTQ"
   }
 ]
