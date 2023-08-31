@@ -16358,7 +16358,7 @@
   {
     "_id": "64ed0427a79cf4a895eb53c9",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GPTQ",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 114,
     "tags": [
@@ -17139,6 +17139,8 @@
       "safetensors",
       "llama",
       "text-generation",
+      "en",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
