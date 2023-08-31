@@ -3312,7 +3312,7 @@
   {
     "_id": "6482485799110097e52ef61b",
     "id": "TheBloke/starcoderplus-GGML",
-    "likes": 33,
+    "likes": 32,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -11619,7 +11619,7 @@
   {
     "_id": "64cb5e611f8a37e3ed3e927a",
     "id": "TheBloke/vicuna-13B-v1.5-16K-GPTQ",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 3739,
     "tags": [
@@ -16628,7 +16628,7 @@
   {
     "_id": "64ee1440edc1c8e6d3ee6bcf",
     "id": "TheBloke/Airoboros-L2-13B-2.1-GGML",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -16680,7 +16680,7 @@
   {
     "_id": "64ee32e15fb7a96a2dd6526b",
     "id": "TheBloke/model_007-70B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -17204,12 +17204,47 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "safetensors",
       "llama",
       "text-generation",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MythoMax-L2-Kimiko-v2-13B-GPTQ"
+  },
+  {
+    "_id": "64f089736e327b56e29644aa",
+    "id": "TheBloke/Airoboros-L2-70B-2.1-Creative-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-70B-2.1-Creative-GGUF"
+  },
+  {
+    "_id": "64f08973baf704ad6a4e17c6",
+    "id": "TheBloke/Airoboros-L2-70B-2.1-Creative-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-70B-2.1-Creative-GGML"
+  },
+  {
+    "_id": "64f0898fde8b758e17893577",
+    "id": "TheBloke/Airoboros-L2-70B-2.1-Creative-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-70B-2.1-Creative-GPTQ"
   }
 ]
