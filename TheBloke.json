@@ -8497,7 +8497,7 @@
   {
     "_id": "64a80b0df152bba4b54c40c3",
     "id": "TheBloke/WizardLM-13B-V1-0-Uncensored-SuperHOT-8K-GGML",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -16290,7 +16290,7 @@
   {
     "_id": "64eb8a892800cf7e9cb2541b",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GPTQ",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 565,
     "tags": [
@@ -17307,8 +17307,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "llama-2",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/llama-2-13B-chat-limarp-v2-merged-GPTQ"
   },
   {
@@ -17340,5 +17349,16 @@
       "region:us"
     ],
     "modelId": "TheBloke/LoKuS-13B-GGML"
+  },
+  {
+    "_id": "64f0cd837cc645bea492c81b",
+    "id": "TheBloke/LoKuS-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/LoKuS-13B-GPTQ"
   }
 ]
