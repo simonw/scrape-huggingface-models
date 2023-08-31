@@ -9623,7 +9623,7 @@
   {
     "_id": "64b847a5126cfeb8fdc28475",
     "id": "TheBloke/Luna-AI-Llama2-Uncensored-GGML",
-    "likes": 94,
+    "likes": 95,
     "private": false,
     "downloads": 191,
     "tags": [
@@ -11861,7 +11861,7 @@
   {
     "_id": "64cbcb9d8256a8efea57b236",
     "id": "TheBloke/Chronos-Hermes-13B-v2-GGML",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 290,
     "tags": [
@@ -15515,7 +15515,7 @@
   {
     "_id": "64e85bb1e6a52fff352d606f",
     "id": "TheBloke/CodeLlama-34B-Instruct-GPTQ",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 531,
     "tags": [
@@ -17021,7 +17021,7 @@
   {
     "_id": "64ef6fa91df52444a5eeb749",
     "id": "TheBloke/Kimiko-v2-13B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -17135,8 +17135,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/fiction.live-Kimiko-V2-70B-GPTQ"
   },
   {
