@@ -16644,7 +16644,7 @@
   {
     "_id": "64ee1f06d5f28998110eb9a3",
     "id": "TheBloke/Airoboros-L2-13B-2.1-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 175,
     "tags": [
@@ -16930,7 +16930,7 @@
   {
     "_id": "64ef4eea76af29f31126c97c",
     "id": "TheBloke/Athena-v1-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -17113,7 +17113,7 @@
   {
     "_id": "64efcb30abd9fb191431b618",
     "id": "TheBloke/fiction.live-Kimiko-V2-70B-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -17251,8 +17251,48 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Airoboros-L2-70B-2.1-Creative-GPTQ"
+  },
+  {
+    "_id": "64f0c027325f6e0f6292eef8",
+    "id": "TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML"
+  },
+  {
+    "_id": "64f0c027325f6e0f6292eef9",
+    "id": "TheBloke/llama-2-13B-chat-limarp-v2-merged-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/llama-2-13B-chat-limarp-v2-merged-GGUF"
+  },
+  {
+    "_id": "64f0c1bbbf13f459e4cef400",
+    "id": "TheBloke/llama-2-13B-chat-limarp-v2-merged-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/llama-2-13B-chat-limarp-v2-merged-GPTQ"
   }
 ]
