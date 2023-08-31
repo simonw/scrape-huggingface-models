@@ -17165,5 +17165,38 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/fiction.live-Kimiko-V2-70B-fp16"
+  },
+  {
+    "_id": "64f0787aa8e82e0b85b503cd",
+    "id": "TheBloke/MythoMax-L2-Kimiko-v2-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MythoMax-L2-Kimiko-v2-13B-GGUF"
+  },
+  {
+    "_id": "64f0787ae5500d42ffbcb2fb",
+    "id": "TheBloke/MythoMax-L2-Kimiko-v2-13B-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MythoMax-L2-Kimiko-v2-13B-GGML"
+  },
+  {
+    "_id": "64f0787ba20e6096c6ab97f9",
+    "id": "TheBloke/MythoMax-L2-Kimiko-v2-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MythoMax-L2-Kimiko-v2-13B-GPTQ"
   }
 ]
