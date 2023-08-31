@@ -9623,7 +9623,7 @@
   {
     "_id": "64b847a5126cfeb8fdc28475",
     "id": "TheBloke/Luna-AI-Llama2-Uncensored-GGML",
-    "likes": 95,
+    "likes": 96,
     "private": false,
     "downloads": 180,
     "tags": [
@@ -14907,7 +14907,7 @@
   {
     "_id": "64e77dd529a548f66a14ddde",
     "id": "TheBloke/CodeLlama-13B-fp16",
-    "likes": 61,
+    "likes": 62,
     "private": false,
     "downloads": 1685,
     "tags": [
@@ -15804,7 +15804,7 @@
   {
     "_id": "64e9e5008c523cced2035915",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GPTQ",
-    "likes": 26,
+    "likes": 27,
     "private": false,
     "downloads": 1586,
     "tags": [
@@ -17269,8 +17269,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "llama-2",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML"
   },
   {
@@ -17280,8 +17288,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "llama-2",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/llama-2-13B-chat-limarp-v2-merged-GGUF"
   },
   {
@@ -17294,5 +17310,35 @@
       "region:us"
     ],
     "modelId": "TheBloke/llama-2-13B-chat-limarp-v2-merged-GPTQ"
+  },
+  {
+    "_id": "64f0c4e6190e15c1082afe2b",
+    "id": "TheBloke/LoKuS-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/LoKuS-13B-GGUF"
+  },
+  {
+    "_id": "64f0c4e6ee35671d0597133e",
+    "id": "TheBloke/LoKuS-13B-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/LoKuS-13B-GGML"
   }
 ]
