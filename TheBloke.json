@@ -9268,7 +9268,7 @@
   {
     "_id": "64b6c679d16e945399007406",
     "id": "TheBloke/Llama-2-7B-GPTQ",
-    "likes": 38,
+    "likes": 39,
     "private": false,
     "downloads": 8112,
     "tags": [
@@ -9338,7 +9338,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 456,
+    "likes": 458,
     "private": false,
     "downloads": 7567,
     "tags": [
@@ -15638,7 +15638,7 @@
   {
     "_id": "64e90e5e5ba66cfe775bbbe9",
     "id": "TheBloke/Samantha-1.11-CodeLlama-34B-GPTQ",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 171,
     "tags": [
@@ -15997,7 +15997,7 @@
   {
     "_id": "64ea296ce74f54587cc51cf5",
     "id": "TheBloke/Genz-70b-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 24,
     "tags": [
@@ -17375,8 +17375,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "arxiv:2306.02707",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Synthia-70B-v1.1-GGML"
   },
   {
@@ -17386,8 +17394,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "arxiv:2306.02707",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Synthia-70B-v1.1-GGUF"
   },
   {
