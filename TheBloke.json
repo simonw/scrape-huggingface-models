@@ -16055,7 +16055,7 @@
   {
     "_id": "64ea2b232f70f2a4c7562154",
     "id": "TheBloke/Llama-2-70B-Orca-200k-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 33,
     "tags": [
@@ -17265,7 +17265,7 @@
   {
     "_id": "64f0c027325f6e0f6292eef8",
     "id": "TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -17413,8 +17413,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "arxiv:2306.02707",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Synthia-70B-v1.1-GPTQ"
   }
 ]
