@@ -2058,7 +2058,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 322,
+    "likes": 323,
     "private": false,
     "downloads": 6126,
     "tags": [
@@ -17074,7 +17074,7 @@
   {
     "_id": "64ef7e80682edd520a31ae1c",
     "id": "TheBloke/Kimiko-v2-13B-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 43,
     "tags": [
@@ -17197,7 +17197,7 @@
   {
     "_id": "64f0787ba20e6096c6ab97f9",
     "id": "TheBloke/MythoMax-L2-Kimiko-v2-13B-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 26,
     "tags": [
@@ -17579,14 +17579,23 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "custom_code",
+      "dataset:pg19",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Yarn-Llama-2-13B-128K-GPTQ"
   },
   {
     "_id": "64f1ccc1eca86da9a79ae3db",
     "id": "TheBloke/Yarn-Llama-2-7B-128K-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
