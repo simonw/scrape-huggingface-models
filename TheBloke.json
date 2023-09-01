@@ -10201,7 +10201,7 @@
   {
     "_id": "64bb0fee1363b5c7996fc358",
     "id": "TheBloke/llama2_7b_chat_uncensored-GPTQ",
-    "likes": 41,
+    "likes": 42,
     "private": false,
     "downloads": 4083,
     "tags": [
@@ -15997,7 +15997,7 @@
   {
     "_id": "64ea296ce74f54587cc51cf5",
     "id": "TheBloke/Genz-70b-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 176,
     "tags": [
@@ -17619,8 +17619,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "custom_code",
+      "dataset:pg19",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Yarn-Llama-2-13B-64K-GPTQ"
   }
 ]
