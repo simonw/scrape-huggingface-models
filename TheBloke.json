@@ -9408,7 +9408,7 @@
   {
     "_id": "64b6d9d4bb1d8f2832c8be93",
     "id": "TheBloke/Llama-2-13B-chat-GPTQ",
-    "likes": 231,
+    "likes": 232,
     "private": false,
     "downloads": 82824,
     "tags": [
@@ -9490,7 +9490,7 @@
   {
     "_id": "64b72139a00eab5bcddae33e",
     "id": "TheBloke/Llama-2-70B-chat-GPTQ",
-    "likes": 160,
+    "likes": 161,
     "private": false,
     "downloads": 30883,
     "tags": [
@@ -15134,7 +15134,7 @@
   {
     "_id": "64e7bd2c0937566207336662",
     "id": "TheBloke/CodeLlama-7B-Instruct-GPTQ",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 2886,
     "tags": [
@@ -15371,7 +15371,7 @@
   {
     "_id": "64e7d76dade5964ec6d2481f",
     "id": "TheBloke/CodeLlama-7B-Python-GPTQ",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 972,
     "tags": [
@@ -15452,7 +15452,7 @@
   {
     "_id": "64e7fafe0973fdd28a1990b4",
     "id": "TheBloke/CodeLlama-13B-Instruct-GPTQ",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 1597,
     "tags": [
@@ -16016,7 +16016,7 @@
   {
     "_id": "64ea2a39233101ed99d4ba7a",
     "id": "TheBloke/Genz-70b-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -16982,7 +16982,7 @@
   {
     "_id": "64ef64547ca2e4871b2c5a97",
     "id": "TheBloke/Luban-13B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -17429,7 +17429,7 @@
   {
     "_id": "64f196b650bb8804eccfc269",
     "id": "TheBloke/Yarn-Llama-2-7B-64K-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -17445,7 +17445,7 @@
   {
     "_id": "64f196b650bb8804eccfc26a",
     "id": "TheBloke/Yarn-Llama-2-7B-64K-GGML",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -17481,7 +17481,7 @@
   {
     "_id": "64f19abf082efb37fb18168a",
     "id": "TheBloke/Yarn-Llama-2-7B-128K-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -17497,7 +17497,7 @@
   {
     "_id": "64f19abfedbb00f5fd9f0b0b",
     "id": "TheBloke/Yarn-Llama-2-7B-128K-GGML",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -17513,7 +17513,7 @@
   {
     "_id": "64f19dce8262734ae967f62b",
     "id": "TheBloke/Yarn-Llama-2-13B-128K-GGML",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -17529,7 +17529,7 @@
   {
     "_id": "64f19dcebfff8aeae0a13899",
     "id": "TheBloke/Yarn-Llama-2-13B-128K-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -17545,7 +17545,7 @@
   {
     "_id": "64f1a2ee21c007ddc7bc31ca",
     "id": "TheBloke/Yarn-Llama-2-13B-64K-GGML",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -17561,7 +17561,7 @@
   {
     "_id": "64f1a2eedcdd48d279defc89",
     "id": "TheBloke/Yarn-Llama-2-13B-64K-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -17573,5 +17573,27 @@
       "region:us"
     ],
     "modelId": "TheBloke/Yarn-Llama-2-13B-64K-GGUF"
+  },
+  {
+    "_id": "64f1c8325b8a6a5d39d71701",
+    "id": "TheBloke/Yarn-Llama-2-13B-128K-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Yarn-Llama-2-13B-128K-GPTQ"
+  },
+  {
+    "_id": "64f1ccc1eca86da9a79ae3db",
+    "id": "TheBloke/Yarn-Llama-2-7B-128K-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Yarn-Llama-2-7B-128K-GPTQ"
   }
 ]
