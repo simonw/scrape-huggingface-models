@@ -2213,7 +2213,7 @@
   {
     "_id": "6478d3a425e06d2ffe89e05a",
     "id": "TheBloke/WizardLM-Uncensored-Falcon-7B-GPTQ",
-    "likes": 40,
+    "likes": 41,
     "private": false,
     "downloads": 604,
     "tags": [
@@ -17639,8 +17639,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "text-generation",
+      "custom_code",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Airoboros-33B-2.1-GPTQ"
   },
   {
@@ -17714,6 +17720,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Stheno-L2-13B-GGUF"
@@ -17725,8 +17736,65 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Stheno-L2-13B-GGML"
+  },
+  {
+    "_id": "64f268e40d19f5ae05005d75",
+    "id": "TheBloke/UndiMix-v1-13B-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/UndiMix-v1-13B-GGML"
+  },
+  {
+    "_id": "64f268e479e1874e7d1bf504",
+    "id": "TheBloke/UndiMix-v1-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/UndiMix-v1-13B-GGUF"
+  },
+  {
+    "_id": "64f26d7c7fafa9a685fb585d",
+    "id": "TheBloke/UndiMix-v2-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/UndiMix-v2-13B-GGUF"
+  },
+  {
+    "_id": "64f26d7ca7f519393bbc3296",
+    "id": "TheBloke/UndiMix-v2-13B-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/UndiMix-v2-13B-GGML"
   }
 ]
