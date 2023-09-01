@@ -9584,7 +9584,7 @@
   {
     "_id": "64b7bb2453d91a364ab8e095",
     "id": "TheBloke/Redmond-Puffin-13B-GGML",
-    "likes": 24,
+    "likes": 25,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -14736,7 +14736,7 @@
   {
     "_id": "64e6673c0df4c63f21cb3933",
     "id": "TheBloke/PuddleJumper-13B-GGUF",
-    "likes": 18,
+    "likes": 17,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -14804,7 +14804,7 @@
   {
     "_id": "64e7164c3f5a5a3c9621a2cb",
     "id": "TheBloke/Nous-Hermes-Llama2-70B-GPTQ",
-    "likes": 3,
+    "likes": 2,
     "private": false,
     "downloads": 320,
     "tags": [
@@ -15727,7 +15727,7 @@
   {
     "_id": "64e9331f9e53684e6e6364ef",
     "id": "TheBloke/Llama2-70B-OASST-SFT-v10-GGML",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -15979,7 +15979,7 @@
   {
     "_id": "64ea296c9e53684e6e7e08dc",
     "id": "TheBloke/Genz-70b-GGML",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -16335,7 +16335,7 @@
   {
     "_id": "64eb8c012beaa8c4106ee91f",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 28,
     "tags": [
@@ -17369,7 +17369,7 @@
   {
     "_id": "64f11caf12c67b28e7c61460",
     "id": "TheBloke/Synthia-70B-v1.1-GGML",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -17527,7 +17527,7 @@
   {
     "_id": "64f19dcebfff8aeae0a13899",
     "id": "TheBloke/Yarn-Llama-2-13B-128K-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -17543,7 +17543,7 @@
   {
     "_id": "64f1a2ee21c007ddc7bc31ca",
     "id": "TheBloke/Yarn-Llama-2-13B-64K-GGML",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -17559,7 +17559,7 @@
   {
     "_id": "64f1a2eedcdd48d279defc89",
     "id": "TheBloke/Yarn-Llama-2-13B-64K-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -17631,5 +17631,38 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Yarn-Llama-2-13B-64K-GPTQ"
+  },
+  {
+    "_id": "64f255d94cbe1bb73d5ec86e",
+    "id": "TheBloke/Airoboros-33B-2.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-33B-2.1-GPTQ"
+  },
+  {
+    "_id": "64f255e9246315a9456f567c",
+    "id": "TheBloke/Airoboros-33B-2.1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-33B-2.1-GGUF"
+  },
+  {
+    "_id": "64f255e9c99990ba14cd4e23",
+    "id": "TheBloke/Airoboros-33B-2.1-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-33B-2.1-GGML"
   }
 ]
