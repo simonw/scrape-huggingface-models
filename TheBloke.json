@@ -9472,7 +9472,7 @@
   {
     "_id": "64b6eabcfa7eabaae5ed9f48",
     "id": "TheBloke/Llama-2-7B-fp16",
-    "likes": 26,
+    "likes": 27,
     "private": false,
     "downloads": 11105,
     "tags": [
@@ -13154,7 +13154,7 @@
   {
     "_id": "64d5e2dc3ca2924d6e61148a",
     "id": "TheBloke/MythoMax-L2-13B-GGML",
-    "likes": 59,
+    "likes": 60,
     "private": false,
     "downloads": 1074,
     "tags": [
@@ -16943,7 +16943,7 @@
   {
     "_id": "64ef621d55f4e6d0d4fbeaa2",
     "id": "TheBloke/Athena-v1-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -17650,6 +17650,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "dataset:jondurbin/airoboros-2.1",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Airoboros-33B-2.1-GGUF"
@@ -17661,8 +17666,35 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "dataset:jondurbin/airoboros-2.1",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Airoboros-33B-2.1-GGML"
+  },
+  {
+    "_id": "64f25f71a4f79a118e0f011a",
+    "id": "TheBloke/Stheno-Inverted-L2-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Stheno-Inverted-L2-13B-GGUF"
+  },
+  {
+    "_id": "64f25f71a9f36eff6c5986a0",
+    "id": "TheBloke/Stheno-Inverted-L2-13B-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Stheno-Inverted-L2-13B-GGML"
   }
 ]
