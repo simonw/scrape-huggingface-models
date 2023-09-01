@@ -7546,7 +7546,7 @@
   {
     "_id": "64a59b76c568c6ebe0f7440e",
     "id": "TheBloke/BLOOMChat-176B-v1-GPTQ",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 34,
     "tags": [
@@ -17167,7 +17167,7 @@
   {
     "_id": "64f0787aa8e82e0b85b503cd",
     "id": "TheBloke/MythoMax-L2-Kimiko-v2-13B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -17527,7 +17527,7 @@
   {
     "_id": "64f19dcebfff8aeae0a13899",
     "id": "TheBloke/Yarn-Llama-2-13B-128K-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -17559,7 +17559,7 @@
   {
     "_id": "64f1a2eedcdd48d279defc89",
     "id": "TheBloke/Yarn-Llama-2-13B-64K-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -17682,6 +17682,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Stheno-Inverted-L2-13B-GGUF"
@@ -17693,8 +17698,35 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Stheno-Inverted-L2-13B-GGML"
+  },
+  {
+    "_id": "64f26434047a196db080e53b",
+    "id": "TheBloke/Stheno-L2-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Stheno-L2-13B-GGUF"
+  },
+  {
+    "_id": "64f26434f71f734a17051a63",
+    "id": "TheBloke/Stheno-L2-13B-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Stheno-L2-13B-GGML"
   }
 ]
