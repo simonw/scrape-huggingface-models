@@ -17527,7 +17527,7 @@
   {
     "_id": "64f19dcebfff8aeae0a13899",
     "id": "TheBloke/Yarn-Llama-2-13B-128K-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -17575,7 +17575,7 @@
   {
     "_id": "64f1c8325b8a6a5d39d71701",
     "id": "TheBloke/Yarn-Llama-2-13B-128K-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -17595,6 +17595,8 @@
       "llama",
       "text-generation",
       "custom_code",
+      "dataset:pg19",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
