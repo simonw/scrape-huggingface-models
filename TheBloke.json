@@ -17640,9 +17640,12 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "safetensors",
       "llama",
       "text-generation",
       "custom_code",
+      "dataset:jondurbin/airoboros-2.1",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -17782,6 +17785,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/UndiMix-v2-13B-GGUF"
@@ -17793,8 +17800,23 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/UndiMix-v2-13B-GGML"
+  },
+  {
+    "_id": "64f26f554581cced7b86e3e0",
+    "id": "TheBloke/Stheno-Inverted-L2-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Stheno-Inverted-L2-13B-GPTQ"
   }
 ]
