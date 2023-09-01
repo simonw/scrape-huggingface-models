@@ -10579,7 +10579,7 @@
   {
     "_id": "64bfb71eae436c88135fab21",
     "id": "TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GPTQ",
-    "likes": 31,
+    "likes": 32,
     "private": false,
     "downloads": 2205,
     "tags": [
@@ -15473,7 +15473,7 @@
   {
     "_id": "64e816b8123d27f6f062b6cd",
     "id": "TheBloke/CodeLlama-13B-Python-GPTQ",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 364,
     "tags": [
@@ -17465,8 +17465,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "custom_code",
+      "dataset:pg19",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Yarn-Llama-2-7B-64K-GPTQ"
   },
   {
@@ -17520,7 +17529,7 @@
   {
     "_id": "64f19dcebfff8aeae0a13899",
     "id": "TheBloke/Yarn-Llama-2-13B-128K-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
