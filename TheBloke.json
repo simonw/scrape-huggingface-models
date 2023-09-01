@@ -5240,7 +5240,7 @@
   {
     "_id": "6496d4bc67460504683fd377",
     "id": "TheBloke/WizardLM-33B-V1.0-Uncensored-GPTQ",
-    "likes": 32,
+    "likes": 33,
     "private": false,
     "downloads": 8540,
     "tags": [
@@ -17611,5 +17611,16 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Yarn-Llama-2-7B-128K-GPTQ"
+  },
+  {
+    "_id": "64f2290c7f1aa1eec8174036",
+    "id": "TheBloke/Yarn-Llama-2-13B-64K-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Yarn-Llama-2-13B-64K-GPTQ"
   }
 ]
