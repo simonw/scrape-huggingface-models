@@ -2183,7 +2183,7 @@
   {
     "_id": "64786964159a889d00210d4c",
     "id": "TheBloke/WizardLM-Uncensored-SuperCOT-StoryTelling-30B-GPTQ",
-    "likes": 65,
+    "likes": 66,
     "private": false,
     "downloads": 801,
     "tags": [
@@ -5428,7 +5428,7 @@
   {
     "_id": "64998c62d1f6a5a54b054d5e",
     "id": "TheBloke/WizardLM-33B-V1-0-Uncensored-SuperHOT-8K-GPTQ",
-    "likes": 79,
+    "likes": 80,
     "private": false,
     "downloads": 1028,
     "tags": [
@@ -6111,7 +6111,7 @@
   {
     "_id": "649a9d6484b024d4d896422b",
     "id": "TheBloke/CAMEL-13B-Role-Playing-Data-SuperHOT-8K-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 26,
     "tags": [
@@ -6891,7 +6891,7 @@
   {
     "_id": "649e0026ab373ff26abe60f5",
     "id": "TheBloke/llama-30b-supercot-SuperHOT-8K-GGML",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -7017,7 +7017,7 @@
   {
     "_id": "649e3b9935cca843a9ce4a78",
     "id": "TheBloke/Samantha-13B-SuperHOT-8K-GGML",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -7029,7 +7029,7 @@
   {
     "_id": "649e422354b6458501aa8abc",
     "id": "TheBloke/Samantha-33B-SuperHOT-8K-GGML",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -7080,7 +7080,7 @@
   {
     "_id": "649e670354b6458501ae1626",
     "id": "TheBloke/WizardLM-Uncensored-SuperCOT-StoryTelling-30B-SuperHOT-8K-GGML",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -10176,7 +10176,7 @@
   {
     "_id": "64bb0dafd1c7b6d8488775c3",
     "id": "TheBloke/StableBeluga2-70B-GPTQ",
-    "likes": 81,
+    "likes": 82,
     "private": false,
     "downloads": 1487,
     "tags": [
@@ -16314,7 +16314,7 @@
   {
     "_id": "64eb8a8934d4f899662f368d",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GGML",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 25,
     "tags": [
@@ -17019,7 +17019,7 @@
   {
     "_id": "64ef6fa91df52444a5eeb749",
     "id": "TheBloke/Kimiko-v2-13B-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -17909,7 +17909,7 @@
   {
     "_id": "64f2fd9c6b9ab81c9710c3e2",
     "id": "TheBloke/Speechless-Llama2-Hermes-Orca-Platypus-WizardLM-13B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -18068,8 +18068,23 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "zh",
+      "en",
+      "fr",
+      "de",
+      "ja",
+      "ko",
+      "it",
+      "ru",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/OpenBuddy-Llama2-13B-v11.1-GPTQ"
   },
   {
@@ -18079,8 +18094,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "zh",
+      "en",
+      "fr",
+      "de",
+      "ja",
+      "ko",
+      "it",
+      "ru",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/OpenBuddy-Llama2-13B-v11.1-GGML"
   },
   {
@@ -18090,8 +18119,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "zh",
+      "en",
+      "fr",
+      "de",
+      "ja",
+      "ko",
+      "it",
+      "ru",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/OpenBuddy-Llama2-13B-v11.1-GGUF"
   }
 ]
