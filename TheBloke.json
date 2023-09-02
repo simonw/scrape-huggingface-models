@@ -17527,7 +17527,7 @@
   {
     "_id": "64f19dcebfff8aeae0a13899",
     "id": "TheBloke/Yarn-Llama-2-13B-128K-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -17889,8 +17889,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:garage-bAInd/Open-Platypus",
+      "arxiv:2307.09288",
+      "facebook",
+      "meta",
+      "pytorch",
+      "llama-2",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Speechless-Llama2-Hermes-Orca-Platypus-WizardLM-13B-GGML"
   },
   {
@@ -17900,8 +17913,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Speechless-Llama2-Hermes-Orca-Platypus-WizardLM-13B-GPTQ"
   },
   {
@@ -17911,8 +17930,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:garage-bAInd/Open-Platypus",
+      "arxiv:2307.09288",
+      "facebook",
+      "meta",
+      "pytorch",
+      "llama-2",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Speechless-Llama2-13B-GPTQ"
   },
   {
@@ -17946,8 +17979,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:garage-bAInd/Open-Platypus",
+      "arxiv:2307.09288",
+      "facebook",
+      "meta",
+      "pytorch",
+      "llama-2",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Speechless-Llama2-13B-GGML"
   },
   {
@@ -17957,8 +18003,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:garage-bAInd/Open-Platypus",
+      "arxiv:2307.09288",
+      "facebook",
+      "meta",
+      "pytorch",
+      "llama-2",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Speechless-Llama2-Hermes-Orca-Platypus-WizardLM-13B-GGUF"
   },
   {
