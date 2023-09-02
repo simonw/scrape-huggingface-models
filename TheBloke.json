@@ -5240,7 +5240,7 @@
   {
     "_id": "6496d4bc67460504683fd377",
     "id": "TheBloke/WizardLM-33B-V1.0-Uncensored-GPTQ",
-    "likes": 33,
+    "likes": 34,
     "private": false,
     "downloads": 8590,
     "tags": [
@@ -9338,7 +9338,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 462,
+    "likes": 463,
     "private": false,
     "downloads": 7572,
     "tags": [
@@ -9361,7 +9361,7 @@
   {
     "_id": "64b6ce072edcb4a1aa820cbe",
     "id": "TheBloke/Llama-2-7b-Chat-GPTQ",
-    "likes": 104,
+    "likes": 105,
     "private": false,
     "downloads": 100738,
     "tags": [
@@ -9385,7 +9385,7 @@
   {
     "_id": "64b6d3eeab056b63ede8a758",
     "id": "TheBloke/Llama-2-13B-chat-GGML",
-    "likes": 553,
+    "likes": 554,
     "private": false,
     "downloads": 4839,
     "tags": [
@@ -17917,6 +17917,14 @@
       "safetensors",
       "llama",
       "text-generation",
+      "en",
+      "dataset:garage-bAInd/Open-Platypus",
+      "arxiv:2307.09288",
+      "facebook",
+      "meta",
+      "pytorch",
+      "llama-2",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
