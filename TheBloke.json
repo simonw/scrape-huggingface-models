@@ -143,61 +143,42 @@
   },
   {
     "_id": "6432f8c20cdd0c3686f20bee",
-    "id": "TheBloke/galpaca-30B-GPTQ-4bit-128g",
+    "id": "TheBloke/galpaca-30B-GPTQ",
     "likes": 49,
     "private": false,
     "downloads": 11,
     "tags": [
+      "transformers",
       "opt",
       "text-generation",
       "dataset:tatsu-lab/alpaca",
-      "transformers",
       "galactica",
       "alpaca",
       "gptq",
       "license:cc-by-nc-4.0",
-      "has_space",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/galpaca-30B-GPTQ-4bit-128g"
+    "modelId": "TheBloke/galpaca-30B-GPTQ"
   },
   {
     "_id": "6434589db1d842fdbe7dda89",
-    "id": "TheBloke/vicuna-7B-GPTQ-4bit-128g",
+    "id": "TheBloke/vicuna-7B-v0-GPTQ",
     "likes": 15,
     "private": false,
     "downloads": 291,
     "tags": [
+      "transformers",
       "pytorch",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/vicuna-7B-GPTQ-4bit-128g"
-  },
-  {
-    "_id": "64345db21ceac17d773a74a2",
-    "id": "TheBloke/vicuna-AlekseyKorshuk-7B-GPTQ-4bit-128g",
-    "likes": 43,
-    "private": false,
-    "downloads": 8,
-    "tags": [
-      "pytorch",
-      "llama",
-      "text-generation",
-      "transformers",
-      "license:other",
-      "text-generation-inference",
-      "region:us"
-    ],
-    "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/vicuna-AlekseyKorshuk-7B-GPTQ-4bit-128g"
+    "modelId": "TheBloke/vicuna-7B-v0-GPTQ"
   },
   {
     "_id": "64372a4fa1010492a8a5874c",
@@ -370,22 +351,22 @@
   },
   {
     "_id": "64404363d4229e14ae9d6586",
-    "id": "TheBloke/alpaca-lora-65B-GPTQ-4bit",
+    "id": "TheBloke/alpaca-lora-65B-GPTQ",
     "likes": 29,
     "private": false,
     "downloads": 22,
     "tags": [
+      "transformers",
       "pytorch",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/alpaca-lora-65B-GPTQ-4bit"
+    "modelId": "TheBloke/alpaca-lora-65B-GPTQ"
   },
   {
     "_id": "64406f41194b02fd3096d8f9",
@@ -401,25 +382,25 @@
   },
   {
     "_id": "644447c08f795c936d05471a",
-    "id": "TheBloke/medalpaca-13B-GPTQ-4bit",
+    "id": "TheBloke/medalpaca-13B-GPTQ",
     "likes": 25,
     "private": false,
     "downloads": 454,
     "tags": [
+      "transformers",
       "pytorch",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "arxiv:2303.14070",
-      "transformers",
       "medical",
       "license:cc",
       "text-generation-inference",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/medalpaca-13B-GPTQ-4bit"
+    "modelId": "TheBloke/medalpaca-13B-GPTQ"
   },
   {
     "_id": "6448ceded16a70c0158ab35c",
@@ -9455,7 +9436,7 @@
   {
     "_id": "64b748a6964f6e7bf3266155",
     "id": "TheBloke/Llama-2-70B-Chat-fp16",
-    "likes": 35,
+    "likes": 36,
     "private": false,
     "downloads": 12256,
     "tags": [
@@ -15724,7 +15705,7 @@
   {
     "_id": "64e9e5316b9db55517b1d2a9",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GGUF",
-    "likes": 27,
+    "likes": 28,
     "private": false,
     "downloads": 18,
     "tags": [
@@ -15892,7 +15873,7 @@
   {
     "_id": "64ea296ce74f54587cc51cf5",
     "id": "TheBloke/Genz-70b-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 382,
     "tags": [
@@ -16367,7 +16348,7 @@
   {
     "_id": "64edd9efeb66036c025f423d",
     "id": "TheBloke/Samantha-1.11-13B-GGML",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -17804,7 +17785,7 @@
   {
     "_id": "64f2fd9c6b9ab81c9710c3e2",
     "id": "TheBloke/Speechless-Llama2-Hermes-Orca-Platypus-WizardLM-13B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
