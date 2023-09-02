@@ -2324,11 +2324,11 @@
     "private": false,
     "downloads": 179,
     "tags": [
+      "transformers",
       "safetensors",
       "RefinedWeb",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:apache-2.0",
       "text-generation-inference",
       "region:us"
@@ -2382,25 +2382,6 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Nous-Hermes-13B-GPTQ"
-  },
-  {
-    "_id": "647b48d2e8b7333058a45927",
-    "id": "TheBloke/WizardLM-Uncensored-Falcon-40B-3bit-GPTQ",
-    "likes": 22,
-    "private": false,
-    "downloads": 54,
-    "tags": [
-      "safetensors",
-      "RefinedWeb",
-      "text-generation",
-      "custom_code",
-      "transformers",
-      "license:apache-2.0",
-      "text-generation-inference",
-      "region:us"
-    ],
-    "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/WizardLM-Uncensored-Falcon-40B-3bit-GPTQ"
   },
   {
     "_id": "647c444860dfe0f35d497ded",
@@ -17245,7 +17226,7 @@
   {
     "_id": "64f11caf12c67b28e7c61460",
     "id": "TheBloke/Synthia-70B-v1.1-GGML",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -17264,7 +17245,7 @@
   {
     "_id": "64f11caf175f7e99024239f5",
     "id": "TheBloke/Synthia-70B-v1.1-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 1,
     "tags": [
