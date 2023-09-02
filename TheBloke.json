@@ -9513,7 +9513,7 @@
   {
     "_id": "64b72402fdb702b3d85cc9d2",
     "id": "TheBloke/Llama-2-70B-GPTQ",
-    "likes": 54,
+    "likes": 55,
     "private": false,
     "downloads": 234863,
     "tags": [
@@ -17815,8 +17815,27 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Stheno-Inverted-L2-13B-GPTQ"
+  },
+  {
+    "_id": "64f27a81f45430010999b992",
+    "id": "TheBloke/Stheno-L2-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Stheno-L2-13B-GPTQ"
   }
 ]
