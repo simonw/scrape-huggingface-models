@@ -3641,25 +3641,6 @@
     "modelId": "TheBloke/tulu-13B-GPTQ"
   },
   {
-    "_id": "648501c799aa5f746be01066",
-    "id": "TheBloke/Minotaur-13B-Landmark-GPTQ",
-    "likes": 9,
-    "private": false,
-    "downloads": 32,
-    "tags": [
-      "safetensors",
-      "llama",
-      "text-generation",
-      "custom_code",
-      "transformers",
-      "license:other",
-      "text-generation-inference",
-      "region:us"
-    ],
-    "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/Minotaur-13B-Landmark-GPTQ"
-  },
-  {
     "_id": "6485059e5816864bb484f7c7",
     "id": "TheBloke/tulu-7B-GPTQ",
     "likes": 9,
@@ -3886,25 +3867,6 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/chronos-hermes-13B-GPTQ"
-  },
-  {
-    "_id": "6488bb3933ff40e585bb670c",
-    "id": "TheBloke/WizardLM-7B-Landmark-GPTQ",
-    "likes": 11,
-    "private": false,
-    "downloads": 86,
-    "tags": [
-      "safetensors",
-      "llama",
-      "text-generation",
-      "custom_code",
-      "transformers",
-      "license:other",
-      "text-generation-inference",
-      "region:us"
-    ],
-    "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/WizardLM-7B-Landmark-GPTQ"
   },
   {
     "_id": "64897342525a712f4a3d718f",
@@ -6482,46 +6444,6 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/WizardLM-Uncensored-SuperCOT-StoryTelling-30B-SuperHOT-8K-fp16"
-  },
-  {
-    "_id": "649cabeb0c65a5d9697a4db6",
-    "id": "TheBloke/MPT-30B-Chat-GPTQ-experimental",
-    "likes": 7,
-    "private": false,
-    "downloads": 98,
-    "tags": [
-      "safetensors",
-      "mpt",
-      "text-generation",
-      "custom_code",
-      "dataset:camel-ai/code",
-      "dataset:ehartford/wizard_vicuna_70k_unfiltered",
-      "dataset:anon8231489123/ShareGPT_Vicuna_unfiltered",
-      "dataset:teknium1/GPTeacher/roleplay-instruct-v2-final",
-      "dataset:teknium1/GPTeacher/codegen-isntruct",
-      "dataset:timdettmers/openassistant-guanaco",
-      "dataset:camel-ai/math",
-      "dataset:project-baize/baize-chatbot/medical_chat_data",
-      "dataset:project-baize/baize-chatbot/quora_chat_data",
-      "dataset:project-baize/baize-chatbot/stackoverflow_chat_data",
-      "dataset:camel-ai/biology",
-      "dataset:camel-ai/chemistry",
-      "dataset:camel-ai/ai_society",
-      "dataset:jondurbin/airoboros-gpt4-1.2",
-      "dataset:LongConversations",
-      "dataset:camel-ai/physics",
-      "arxiv:2205.14135",
-      "arxiv:2108.12409",
-      "arxiv:2010.04245",
-      "transformers",
-      "Composer",
-      "MosaicML",
-      "llm-foundry",
-      "license:cc-by-nc-sa-4.0",
-      "region:us"
-    ],
-    "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/MPT-30B-Chat-GPTQ-experimental"
   },
   {
     "_id": "649cb8bb56fd5be3a0478c18",
