@@ -17830,7 +17830,7 @@
   {
     "_id": "64f27a81f45430010999b992",
     "id": "TheBloke/Stheno-L2-13B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -17947,5 +17947,71 @@
       "region:us"
     ],
     "modelId": "TheBloke/Speechless-Llama2-Hermes-Orca-Platypus-WizardLM-13B-GGUF"
+  },
+  {
+    "_id": "64f3050a1ae35aedb8e59495",
+    "id": "TheBloke/Asclepius-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Asclepius-13B-GGUF"
+  },
+  {
+    "_id": "64f3050a2cd31d69152e14f6",
+    "id": "TheBloke/Asclepius-13B-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Asclepius-13B-GGML"
+  },
+  {
+    "_id": "64f3050ab2a27a06ebf7dac5",
+    "id": "TheBloke/Asclepius-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Asclepius-13B-GPTQ"
+  },
+  {
+    "_id": "64f3050c2ac5ae66293dc247",
+    "id": "TheBloke/OpenBuddy-Llama2-13B-v11.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/OpenBuddy-Llama2-13B-v11.1-GPTQ"
+  },
+  {
+    "_id": "64f3050c6c0c0d44036675a2",
+    "id": "TheBloke/OpenBuddy-Llama2-13B-v11.1-GGML",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/OpenBuddy-Llama2-13B-v11.1-GGML"
+  },
+  {
+    "_id": "64f3050ceb5f2982081cb828",
+    "id": "TheBloke/OpenBuddy-Llama2-13B-v11.1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/OpenBuddy-Llama2-13B-v11.1-GGUF"
   }
 ]
