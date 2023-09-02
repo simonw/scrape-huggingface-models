@@ -201,40 +201,38 @@
   },
   {
     "_id": "64372a4fa1010492a8a5874c",
-    "id": "TheBloke/vicuna-13B-1.1-GPTQ-4bit-128g",
+    "id": "TheBloke/vicuna-13B-1.1-GPTQ",
     "likes": 203,
     "private": false,
     "downloads": 543,
     "tags": [
+      "transformers",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "conversational",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
     "pipeline_tag": "conversational",
-    "modelId": "TheBloke/vicuna-13B-1.1-GPTQ-4bit-128g"
+    "modelId": "TheBloke/vicuna-13B-1.1-GPTQ"
   },
   {
     "_id": "6437304d3cb6c4b570797361",
-    "id": "TheBloke/vicuna-7B-1.1-GPTQ-4bit-128g",
+    "id": "TheBloke/vicuna-7B-1.1-GPTQ",
     "likes": 56,
     "private": false,
     "downloads": 244,
     "tags": [
+      "transformers",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/vicuna-7B-1.1-GPTQ-4bit-128g"
+    "modelId": "TheBloke/vicuna-7B-1.1-GPTQ"
   },
   {
     "_id": "64395fe0a6b2f278af7155b2",
@@ -9336,7 +9334,7 @@
   {
     "_id": "64b6ce072edcb4a1aa820cbe",
     "id": "TheBloke/Llama-2-7b-Chat-GPTQ",
-    "likes": 105,
+    "likes": 106,
     "private": false,
     "downloads": 100738,
     "tags": [
@@ -17502,7 +17500,7 @@
   {
     "_id": "64f19dcebfff8aeae0a13899",
     "id": "TheBloke/Yarn-Llama-2-13B-128K-GGUF",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 3,
     "tags": [
