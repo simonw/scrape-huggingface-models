@@ -594,7 +594,7 @@
   {
     "_id": "6453d41b72d331dec89aa8f1",
     "id": "TheBloke/wizard-vicuna-13B-GGML",
-    "likes": 139,
+    "likes": 140,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -2229,31 +2229,6 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/WizardLM-Uncensored-Falcon-7B-GPTQ"
-  },
-  {
-    "_id": "6479265b42b1805ae2b27aee",
-    "id": "TheBloke/falcon-40b-instruct-3bit-GPTQ",
-    "likes": 23,
-    "private": false,
-    "downloads": 102,
-    "tags": [
-      "safetensors",
-      "RefinedWeb",
-      "text-generation",
-      "custom_code",
-      "en",
-      "dataset:tiiuae/falcon-refinedweb",
-      "arxiv:2205.14135",
-      "arxiv:1911.02150",
-      "arxiv:2005.14165",
-      "arxiv:2104.09864",
-      "transformers",
-      "license:apache-2.0",
-      "text-generation-inference",
-      "region:us"
-    ],
-    "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/falcon-40b-instruct-3bit-GPTQ"
   },
   {
     "_id": "647a73f1822b7e8ccbda40fb",
@@ -9245,7 +9220,7 @@
   {
     "_id": "64b6c6798f63c1ad2b13762a",
     "id": "TheBloke/Llama-2-7B-GGML",
-    "likes": 179,
+    "likes": 180,
     "private": false,
     "downloads": 1521,
     "tags": [
@@ -16290,7 +16265,7 @@
   {
     "_id": "64eb8a892800cf7e9cb2541b",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GPTQ",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 731,
     "tags": [
@@ -18035,8 +18010,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:starmpcc/Asclepius-Synthetic-Clinical-Notes",
+      "medical",
+      "license:other",
+      "text2text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text2text-generation",
     "modelId": "TheBloke/Asclepius-13B-GGUF"
   },
   {
@@ -18046,8 +18030,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:starmpcc/Asclepius-Synthetic-Clinical-Notes",
+      "medical",
+      "license:other",
+      "text2text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text2text-generation",
     "modelId": "TheBloke/Asclepius-13B-GGML"
   },
   {
@@ -18057,8 +18050,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:starmpcc/Asclepius-Synthetic-Clinical-Notes",
+      "medical",
+      "license:other",
+      "text2text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text2text-generation",
     "modelId": "TheBloke/Asclepius-13B-GPTQ"
   },
   {
@@ -18115,7 +18119,7 @@
   {
     "_id": "64f3050ceb5f2982081cb828",
     "id": "TheBloke/OpenBuddy-Llama2-13B-v11.1-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
