@@ -7056,7 +7056,7 @@
   {
     "_id": "649e5b15f140a4e8b567200b",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-SuperHOT-8K-GGML",
-    "likes": 53,
+    "likes": 54,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -13495,7 +13495,7 @@
   {
     "_id": "64d8c9e5fd0b55d501a462fc",
     "id": "TheBloke/Huginn-v3-13B-GGML",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 50,
     "tags": [
@@ -17922,8 +17922,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:garage-bAInd/Open-Platypus",
+      "arxiv:2307.09288",
+      "facebook",
+      "meta",
+      "pytorch",
+      "llama-2",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Speechless-Llama2-13B-GGUF"
   },
   {
