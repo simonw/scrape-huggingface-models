@@ -12545,7 +12545,7 @@
   {
     "_id": "64cf7bb2c0c627dfa7cd2c43",
     "id": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GGML",
-    "likes": 46,
+    "likes": 47,
     "private": false,
     "downloads": 322,
     "tags": [
@@ -16376,7 +16376,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 11,
     "tags": [
@@ -17834,8 +17834,27 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Stheno-L2-13B-GPTQ"
+  },
+  {
+    "_id": "64f285fbf71f734a1708cd23",
+    "id": "TheBloke/UndiMix-v1-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/UndiMix-v1-13B-GPTQ"
   }
 ]
