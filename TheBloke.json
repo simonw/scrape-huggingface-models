@@ -16077,7 +16077,7 @@
   {
     "_id": "64ea2bf718d79efd53374093",
     "id": "TheBloke/Llama-2-70B-Orca-200k-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 23,
     "tags": [
@@ -17881,5 +17881,71 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/UndiMix-v2-13B-GPTQ"
+  },
+  {
+    "_id": "64f2fd9c335025b1c6a8d9a5",
+    "id": "TheBloke/Speechless-Llama2-Hermes-Orca-Platypus-WizardLM-13B-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Speechless-Llama2-Hermes-Orca-Platypus-WizardLM-13B-GGML"
+  },
+  {
+    "_id": "64f2fd9c6b9ab81c9710c3e2",
+    "id": "TheBloke/Speechless-Llama2-Hermes-Orca-Platypus-WizardLM-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Speechless-Llama2-Hermes-Orca-Platypus-WizardLM-13B-GPTQ"
+  },
+  {
+    "_id": "64f2fd9c91e31eea71bc5348",
+    "id": "TheBloke/Speechless-Llama2-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Speechless-Llama2-13B-GPTQ"
+  },
+  {
+    "_id": "64f2fd9c9cbeca2eff5183cb",
+    "id": "TheBloke/Speechless-Llama2-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Speechless-Llama2-13B-GGUF"
+  },
+  {
+    "_id": "64f2fd9ca7f519393bcabf76",
+    "id": "TheBloke/Speechless-Llama2-13B-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Speechless-Llama2-13B-GGML"
+  },
+  {
+    "_id": "64f2fd9cfb404f3b7d7bbd78",
+    "id": "TheBloke/Speechless-Llama2-Hermes-Orca-Platypus-WizardLM-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Speechless-Llama2-Hermes-Orca-Platypus-WizardLM-13B-GGUF"
   }
 ]
