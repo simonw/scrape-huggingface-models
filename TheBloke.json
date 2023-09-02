@@ -17687,7 +17687,7 @@
   {
     "_id": "64f25f71a4f79a118e0f011a",
     "id": "TheBloke/Stheno-Inverted-L2-13B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -17871,8 +17871,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/UndiMix-v2-13B-GPTQ"
   }
 ]
