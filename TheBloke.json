@@ -6239,7 +6239,7 @@
   {
     "_id": "649af4889eb8cd59a342933b",
     "id": "TheBloke/Pygmalion-13B-SuperHOT-8K-fp16",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 193,
     "tags": [
@@ -8643,12 +8643,12 @@
     "private": false,
     "downloads": 17,
     "tags": [
+      "transformers",
       "safetensors",
       "gpt_bigcode",
       "text-generation",
       "en",
       "dataset:guanaco",
-      "transformers",
       "license:apache-2.0",
       "text-generation-inference",
       "region:us"
@@ -15171,7 +15171,7 @@
   {
     "_id": "64e7d00dae53e70cda1de235",
     "id": "TheBloke/CodeLlama-34B-Instruct-GGUF",
-    "likes": 37,
+    "likes": 38,
     "private": false,
     "downloads": 15,
     "tags": [
