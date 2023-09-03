@@ -15661,7 +15661,7 @@
   {
     "_id": "64e9e5008c523cced2035915",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GPTQ",
-    "likes": 32,
+    "likes": 33,
     "private": false,
     "downloads": 2017,
     "tags": [
@@ -17432,7 +17432,7 @@
   {
     "_id": "64f1c8325b8a6a5d39d71701",
     "id": "TheBloke/Yarn-Llama-2-13B-128K-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 131,
     "tags": [
@@ -17452,7 +17452,7 @@
   {
     "_id": "64f1ccc1eca86da9a79ae3db",
     "id": "TheBloke/Yarn-Llama-2-7B-128K-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 103,
     "tags": [
@@ -18018,7 +18018,8 @@
       "license:llama2",
       "text-generation",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/OpenBuddy-Llama2-13B-v11.1-GGUF"
