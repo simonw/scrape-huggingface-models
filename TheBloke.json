@@ -8346,7 +8346,8 @@
       "transformers",
       "license:other",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Pygmalion-7B-SuperHOT-8K-GPTQ"
@@ -9195,7 +9196,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 469,
+    "likes": 470,
     "private": false,
     "downloads": 7450,
     "tags": [
@@ -9242,7 +9243,7 @@
   {
     "_id": "64b6d3eeab056b63ede8a758",
     "id": "TheBloke/Llama-2-13B-chat-GGML",
-    "likes": 555,
+    "likes": 556,
     "private": false,
     "downloads": 4753,
     "tags": [
@@ -16192,7 +16193,7 @@
   {
     "_id": "64eb8c012beaa8c4106ee91f",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GGUF",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 40,
     "tags": [
