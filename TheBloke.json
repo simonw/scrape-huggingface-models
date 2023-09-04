@@ -9246,7 +9246,7 @@
   {
     "_id": "64b6ce072edcb4a1aa820cbe",
     "id": "TheBloke/Llama-2-7b-Chat-GPTQ",
-    "likes": 110,
+    "likes": 111,
     "private": false,
     "downloads": 102964,
     "tags": [
@@ -10092,7 +10092,7 @@
   {
     "_id": "64bb0fee1363b5c7996fc358",
     "id": "TheBloke/llama2_7b_chat_uncensored-GPTQ",
-    "likes": 44,
+    "likes": 45,
     "private": false,
     "downloads": 4344,
     "tags": [
@@ -16739,7 +16739,7 @@
   {
     "_id": "64ef1b4c8647a33e7573b04f",
     "id": "TheBloke/Huginn-13B-v4.5-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -18195,8 +18195,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "arxiv:2307.09288",
+      "facebook",
+      "meta",
+      "pytorch",
+      "llama-2",
+      "license:other",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-70B-GGUF"
   }
 ]
