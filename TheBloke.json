@@ -9248,11 +9248,12 @@
     "private": false,
     "downloads": 102964,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
+      "arxiv:2307.09288",
       "facebook",
       "meta",
       "pytorch",
@@ -9268,13 +9269,14 @@
   {
     "_id": "64b6d3eeab056b63ede8a758",
     "id": "TheBloke/Llama-2-13B-chat-GGML",
-    "likes": 559,
+    "likes": 560,
     "private": false,
     "downloads": 4701,
     "tags": [
+      "transformers",
       "llama",
       "en",
-      "transformers",
+      "arxiv:2307.09288",
       "facebook",
       "meta",
       "pytorch",
@@ -9295,11 +9297,12 @@
     "private": false,
     "downloads": 86234,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
+      "arxiv:2307.09288",
       "facebook",
       "meta",
       "pytorch",
@@ -9397,7 +9400,7 @@
   {
     "_id": "64b72402fdb702b3d85cc9d2",
     "id": "TheBloke/Llama-2-70B-GPTQ",
-    "likes": 55,
+    "likes": 56,
     "private": false,
     "downloads": 234280,
     "tags": [
@@ -11562,7 +11565,7 @@
   {
     "_id": "64cb603ff103036e23be94c9",
     "id": "TheBloke/vicuna-7B-v1.5-16K-GGML",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 29,
     "tags": [
@@ -18067,20 +18070,9 @@
     "modelId": "TheBloke/OpenBuddy-Llama2-13B-v11.1-GGUF"
   },
   {
-    "_id": "64f5ed590d5769ee71665ddf",
-    "id": "TheBloke/none",
-    "likes": 0,
-    "private": false,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "modelId": "TheBloke/none"
-  },
-  {
     "_id": "64f5fd954d3b1dd311d30e28",
     "id": "TheBloke/Llama-2-7B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -18122,5 +18114,39 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-7b-Chat-GGUF"
+  },
+  {
+    "_id": "64f611cf6ad07ea81779ca15",
+    "id": "TheBloke/Llama-2-13B-chat-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "arxiv:2307.09288",
+      "facebook",
+      "meta",
+      "pytorch",
+      "llama-2",
+      "license:other",
+      "text-generation",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Llama-2-13B-chat-GGUF"
+  },
+  {
+    "_id": "64f614a19c2aeb2a3dea1312",
+    "id": "TheBloke/Llama-2-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-13B-GGUF"
   }
 ]
