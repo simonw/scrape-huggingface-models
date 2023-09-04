@@ -9128,14 +9128,15 @@
     "private": false,
     "downloads": 1518,
     "tags": [
+      "transformers",
       "llama",
       "en",
-      "transformers",
+      "arxiv:2307.09288",
       "facebook",
       "meta",
       "pytorch",
       "llama-2",
-      "license:other",
+      "license:llama2",
       "text-generation",
       "has_space",
       "text-generation-inference",
@@ -9151,19 +9152,20 @@
     "private": false,
     "downloads": 8297,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
+      "arxiv:2307.09288",
       "facebook",
       "meta",
       "pytorch",
       "llama-2",
-      "license:other",
+      "license:llama2",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-7B-GPTQ"
@@ -17551,7 +17553,7 @@
   {
     "_id": "64f255e9246315a9456f567c",
     "id": "TheBloke/Airoboros-33B-2.1-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 17,
     "tags": [
