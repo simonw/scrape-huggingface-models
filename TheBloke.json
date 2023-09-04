@@ -9382,19 +9382,20 @@
     "private": false,
     "downloads": 33641,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
+      "arxiv:2307.09288",
       "facebook",
       "meta",
       "pytorch",
       "llama-2",
       "license:other",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-70B-chat-GPTQ"
@@ -10276,10 +10277,10 @@
     "private": false,
     "downloads": 1396,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "arxiv:2307.09288",
-      "transformers",
       "facebook",
       "meta",
       "pytorch",
@@ -11217,7 +11218,7 @@
   {
     "_id": "64c8768fe761f470611972e7",
     "id": "TheBloke/airoboros-l2-7B-gpt4-m2.0-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 176,
     "tags": [
@@ -18170,8 +18171,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "arxiv:2307.09288",
+      "facebook",
+      "meta",
+      "pytorch",
+      "llama-2",
+      "license:other",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-70B-chat-GGUF"
   }
 ]
