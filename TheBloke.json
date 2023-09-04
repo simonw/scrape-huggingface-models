@@ -9177,16 +9177,17 @@
     "private": false,
     "downloads": 9838,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
+      "arxiv:2307.09288",
       "facebook",
       "meta",
       "pytorch",
       "llama-2",
-      "license:other",
+      "license:llama2",
       "has_space",
       "text-generation-inference",
       "region:us"
@@ -9201,14 +9202,15 @@
     "private": false,
     "downloads": 447,
     "tags": [
+      "transformers",
       "llama",
       "en",
-      "transformers",
+      "arxiv:2307.09288",
       "facebook",
       "meta",
       "pytorch",
       "llama-2",
-      "license:other",
+      "license:llama2",
       "text-generation",
       "has_space",
       "text-generation-inference",
@@ -14347,7 +14349,7 @@
   {
     "_id": "64e4b65a42028a0616cc9de9",
     "id": "TheBloke/Marx-3b-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 580,
     "tags": [
@@ -15411,7 +15413,7 @@
   {
     "_id": "64e85bb1e6a52fff352d606f",
     "id": "TheBloke/CodeLlama-34B-Instruct-GPTQ",
-    "likes": 24,
+    "likes": 25,
     "private": false,
     "downloads": 953,
     "tags": [
@@ -18145,8 +18147,31 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "arxiv:2307.09288",
+      "facebook",
+      "meta",
+      "pytorch",
+      "llama-2",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-13B-GGUF"
+  },
+  {
+    "_id": "64f61985e916843d8ebc5db8",
+    "id": "TheBloke/Llama-2-70B-chat-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-70B-chat-GGUF"
   }
 ]
