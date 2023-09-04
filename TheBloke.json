@@ -9407,11 +9407,12 @@
     "private": false,
     "downloads": 234280,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
+      "arxiv:2307.09288",
       "facebook",
       "meta",
       "pytorch",
@@ -16155,7 +16156,7 @@
   {
     "_id": "64eb5af62beaa8c41069515b",
     "id": "TheBloke/CodeLlama-13B-oasst-sft-v10-GGML",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -16257,7 +16258,7 @@
   {
     "_id": "64ed0427a79cf4a895eb53c9",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GPTQ",
-    "likes": 34,
+    "likes": 35,
     "private": false,
     "downloads": 1261,
     "tags": [
@@ -16277,7 +16278,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 28,
+    "likes": 29,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -17864,7 +17865,7 @@
   {
     "_id": "64f2fd9c9cbeca2eff5183cb",
     "id": "TheBloke/Speechless-Llama2-13B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 9,
     "tags": [
