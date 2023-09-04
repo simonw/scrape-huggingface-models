@@ -9224,9 +9224,10 @@
     "private": false,
     "downloads": 7411,
     "tags": [
+      "transformers",
       "llama",
       "en",
-      "transformers",
+      "arxiv:2307.09288",
       "facebook",
       "meta",
       "pytorch",
@@ -18098,5 +18099,28 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-7B-GGUF"
+  },
+  {
+    "_id": "64f60811b8cc49b414fe5cdf",
+    "id": "TheBloke/Llama-2-7b-Chat-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "arxiv:2307.09288",
+      "facebook",
+      "meta",
+      "pytorch",
+      "llama-2",
+      "license:other",
+      "text-generation",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Llama-2-7b-Chat-GGUF"
   }
 ]
