@@ -18210,5 +18210,31 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-70B-GGUF"
+  },
+  {
+    "_id": "64f65d33a88ce22a102c0fb3",
+    "id": "TheBloke/openchat_v3.2_super-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/openchat_v3.2_super-GPTQ"
+  },
+  {
+    "_id": "64f65d33aad4f0fee08b2457",
+    "id": "TheBloke/openchat_v3.2_super-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/openchat_v3.2_super-GGUF"
   }
 ]
