@@ -3686,7 +3686,7 @@
   {
     "_id": "64858939911ddf62dfbad8c5",
     "id": "TheBloke/samantha-1.1-llama-33B-GPTQ",
-    "likes": 10,
+    "likes": 9,
     "private": false,
     "downloads": 47,
     "tags": [
@@ -5711,7 +5711,7 @@
   {
     "_id": "649a29dcf57df33a56a54dd8",
     "id": "TheBloke/Manticore-13B-Chat-Pyg-SuperHOT-8K-GPTQ",
-    "likes": 20,
+    "likes": 19,
     "private": false,
     "downloads": 28,
     "tags": [
@@ -18218,8 +18218,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/openchat_v3.2_super-GPTQ"
   },
   {
