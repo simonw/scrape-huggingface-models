@@ -1610,7 +1610,7 @@
   {
     "_id": "646fbf8b150f4cab86320e17",
     "id": "TheBloke/guanaco-7B-GGML",
-    "likes": 36,
+    "likes": 37,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -9124,7 +9124,7 @@
   {
     "_id": "64b6c6798f63c1ad2b13762a",
     "id": "TheBloke/Llama-2-7B-GGML",
-    "likes": 183,
+    "likes": 184,
     "private": false,
     "downloads": 1518,
     "tags": [
@@ -10082,7 +10082,7 @@
   {
     "_id": "64bb0fee1363b5c7996fc358",
     "id": "TheBloke/llama2_7b_chat_uncensored-GPTQ",
-    "likes": 43,
+    "likes": 44,
     "private": false,
     "downloads": 4344,
     "tags": [
@@ -10101,7 +10101,7 @@
   {
     "_id": "64bb0fee5ee4641b32d0bcd2",
     "id": "TheBloke/llama2_7b_chat_uncensored-GGML",
-    "likes": 83,
+    "likes": 84,
     "private": false,
     "downloads": 257,
     "tags": [
@@ -11782,7 +11782,7 @@
   {
     "_id": "64cbe710e3cc4a476d801926",
     "id": "TheBloke/llama2_70b_chat_uncensored-GPTQ",
-    "likes": 28,
+    "likes": 29,
     "private": false,
     "downloads": 2579,
     "tags": [
@@ -13056,7 +13056,7 @@
   {
     "_id": "64d5e2dcabf475a808a24d42",
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
-    "likes": 47,
+    "likes": 48,
     "private": false,
     "downloads": 41764,
     "tags": [
@@ -18073,5 +18073,28 @@
       "region:us"
     ],
     "modelId": "TheBloke/none"
+  },
+  {
+    "_id": "64f5fd954d3b1dd311d30e28",
+    "id": "TheBloke/Llama-2-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "arxiv:2307.09288",
+      "facebook",
+      "meta",
+      "pytorch",
+      "llama-2",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Llama-2-7B-GGUF"
   }
 ]
