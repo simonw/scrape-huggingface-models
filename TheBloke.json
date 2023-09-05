@@ -9554,13 +9554,13 @@
     "private": false,
     "downloads": 1131,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "llama-2",
-      "license:other",
+      "license:llama2",
       "text-classification",
       "text-generation-inference",
       "region:us"
@@ -9575,12 +9575,13 @@
     "private": false,
     "downloads": 60,
     "tags": [
+      "transformers",
       "llama",
       "en",
-      "transformers",
       "llama-2",
-      "license:other",
+      "license:llama2",
       "text-classification",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -13684,9 +13685,10 @@
     "private": false,
     "downloads": 5,
     "tags": [
-      "llama",
       "transformers",
+      "llama",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -13699,10 +13701,10 @@
     "private": false,
     "downloads": 88,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -14116,12 +14118,12 @@
     "private": false,
     "downloads": 4,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "dataset:ehartford/samantha-data",
       "arxiv:2305.14314",
       "arxiv:2205.14135",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -14135,6 +14137,7 @@
     "private": false,
     "downloads": 7,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -14142,7 +14145,6 @@
       "dataset:ehartford/samantha-data",
       "arxiv:2305.14314",
       "arxiv:2205.14135",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -16264,7 +16266,7 @@
   {
     "_id": "64eb8a892800cf7e9cb2541b",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GPTQ",
-    "likes": 34,
+    "likes": 35,
     "private": false,
     "downloads": 975,
     "tags": [
@@ -18718,7 +18720,7 @@
   {
     "_id": "64f6fae5b548e18c7f5d1492",
     "id": "TheBloke/WizardLM-13B-V1.2-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -19594,5 +19596,50 @@
       "region:us"
     ],
     "modelId": "TheBloke/Samantha-1.1-70B-GGUF"
+  },
+  {
+    "_id": "64f79fa6b095963b26f0a1c3",
+    "id": "TheBloke/llama-2-7B-Guanaco-QLoRA-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "llama-2",
+      "license:llama2",
+      "text-classification",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-classification",
+    "modelId": "TheBloke/llama-2-7B-Guanaco-QLoRA-GGUF"
+  },
+  {
+    "_id": "64f7a18229a9aa4778bf76c5",
+    "id": "TheBloke/Llama2-22B-Daydreamer-v3-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama2-22B-Daydreamer-v3-GGUF"
+  },
+  {
+    "_id": "64f7a62a6f5070e160b0c4f2",
+    "id": "TheBloke/LlongOrca-7B-16K-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/LlongOrca-7B-16K-GGUF"
   }
 ]
