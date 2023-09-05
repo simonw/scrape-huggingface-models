@@ -10634,7 +10634,7 @@
   {
     "_id": "64c2c8575d95081bd2c69431",
     "id": "TheBloke/Nous-Hermes-Llama-2-7B-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 1502,
     "tags": [
@@ -12653,9 +12653,9 @@
     "private": false,
     "downloads": 9,
     "tags": [
-      "llama",
       "transformers",
-      "license:other",
+      "llama",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -12668,11 +12668,11 @@
     "private": false,
     "downloads": 404,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -14015,8 +14015,8 @@
     "private": false,
     "downloads": 73,
     "tags": [
-      "llama",
       "transformers",
+      "llama",
       "llama2",
       "license:llama2",
       "text-generation-inference",
@@ -14031,9 +14031,9 @@
     "private": false,
     "downloads": 699,
     "tags": [
+      "transformers",
       "llama",
       "text-generation",
-      "transformers",
       "llama2",
       "license:llama2",
       "text-generation-inference",
@@ -14522,8 +14522,8 @@
     "private": false,
     "downloads": 1,
     "tags": [
-      "llama",
       "transformers",
+      "llama",
       "llama2",
       "license:llama2",
       "text-generation-inference",
@@ -14538,10 +14538,10 @@
     "private": false,
     "downloads": 13,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "llama2",
       "license:llama2",
       "text-generation-inference",
@@ -15801,8 +15801,8 @@
     "private": false,
     "downloads": 0,
     "tags": [
-      "llama",
       "transformers",
+      "llama",
       "llama2",
       "license:llama2",
       "text-generation-inference",
@@ -15817,10 +15817,10 @@
     "private": false,
     "downloads": 149,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "llama2",
       "license:llama2",
       "text-generation-inference",
@@ -15836,8 +15836,8 @@
     "private": false,
     "downloads": 14,
     "tags": [
-      "llama",
       "transformers",
+      "llama",
       "llama2",
       "license:llama2",
       "text-generation-inference",
@@ -16698,7 +16698,7 @@
   {
     "_id": "64ee69bbd679ae3f9001a353",
     "id": "TheBloke/Airoboros-L2-7B-2.1-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 134,
     "tags": [
@@ -17486,7 +17486,7 @@
   {
     "_id": "64f19dcebfff8aeae0a13899",
     "id": "TheBloke/Yarn-Llama-2-13B-128K-GGUF",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 35,
     "tags": [
@@ -18677,7 +18677,7 @@
   {
     "_id": "64f6eefbd63b958c5229df0d",
     "id": "TheBloke/ReMM-SLERP-L2-13B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -18750,6 +18750,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Firefly-Llama2-13B-v1.2-GGUF"
@@ -18775,5 +18779,51 @@
       "region:us"
     ],
     "modelId": "TheBloke/OpenBuddy-Llama2-70b-v10.1-GPTQ"
+  },
+  {
+    "_id": "64f7058dbedfdc197957e8c3",
+    "id": "TheBloke/HermesLimaRP-L2-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/HermesLimaRP-L2-7B-GGUF"
+  },
+  {
+    "_id": "64f70719fcedae59eec31d7f",
+    "id": "TheBloke/Zarablend-L2-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "llama2",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Zarablend-L2-7B-GGUF"
+  },
+  {
+    "_id": "64f708aaceb68df8ee3457d7",
+    "id": "TheBloke/Zarablend-MX-L2-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "llama2",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Zarablend-MX-L2-7B-GGUF"
   }
 ]
