@@ -13286,7 +13286,7 @@
   {
     "_id": "64d7e1405e5f05485cfb67b5",
     "id": "TheBloke/OpenOrca-Platypus2-13B-GPTQ",
-    "likes": 33,
+    "likes": 34,
     "private": false,
     "downloads": 14783,
     "tags": [
@@ -15728,10 +15728,10 @@
     "private": false,
     "downloads": 200,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "code llama",
       "license:llama2",
       "model-index",
@@ -15937,10 +15937,10 @@
     "private": false,
     "downloads": 91,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "code llama",
       "license:llama2",
       "model-index",
@@ -16352,12 +16352,12 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 29,
+    "likes": 30,
     "private": false,
     "downloads": 15,
     "tags": [
-      "llama",
       "transformers",
+      "llama",
       "code llama",
       "license:llama2",
       "model-index",
@@ -17695,7 +17695,7 @@
   {
     "_id": "64f25f71a9f36eff6c5986a0",
     "id": "TheBloke/Stheno-Inverted-L2-13B-GGML",
-    "likes": 1,
+    "likes": 0,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -19656,7 +19656,7 @@
   {
     "_id": "64f7a7e5d04a890f5354074e",
     "id": "TheBloke/OpenOrcaxOpenChat-Preview2-13B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -19678,5 +19678,16 @@
       "region:us"
     ],
     "modelId": "TheBloke/Llama2-13B-MegaCode2-OASST-GGUF"
+  },
+  {
+    "_id": "64f7b36dd04a890f53556b37",
+    "id": "TheBloke/LosslessMegaCoder-Llama2-13B-Mini-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/LosslessMegaCoder-Llama2-13B-Mini-GGUF"
   }
 ]
