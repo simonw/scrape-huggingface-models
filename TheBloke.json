@@ -9222,7 +9222,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 482,
+    "likes": 483,
     "private": false,
     "downloads": 7583,
     "tags": [
@@ -9246,7 +9246,7 @@
   {
     "_id": "64b6ce072edcb4a1aa820cbe",
     "id": "TheBloke/Llama-2-7b-Chat-GPTQ",
-    "likes": 114,
+    "likes": 115,
     "private": false,
     "downloads": 107899,
     "tags": [
@@ -11394,7 +11394,7 @@
   {
     "_id": "64ca7424710645aa7bdaace5",
     "id": "TheBloke/airoboros-l2-70B-GPT4-2.0-GGML",
-    "likes": 29,
+    "likes": 30,
     "private": false,
     "downloads": 101,
     "tags": [
@@ -12312,13 +12312,13 @@
   {
     "_id": "64ce78c08749302d81287358",
     "id": "TheBloke/Chronos-Beluga-v2-13B-GGML",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 321,
     "tags": [
-      "llama",
       "transformers",
-      "license:other",
+      "llama",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -12331,11 +12331,11 @@
     "private": false,
     "downloads": 836,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "has_space",
       "text-generation-inference",
       "region:us"
@@ -12878,15 +12878,19 @@
     "private": false,
     "downloads": 17,
     "tags": [
+      "transformers",
       "llama",
       "en",
+      "dataset:psmathur/orca_mini_v1_dataset",
+      "dataset:ehartford/dolphin",
       "arxiv:2306.02707",
-      "transformers",
-      "license:other",
+      "license:llama2",
+      "text-generation",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/orca_mini_v3_13B-GGML"
   },
   {
@@ -12896,13 +12900,15 @@
     "private": false,
     "downloads": 2446,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
+      "dataset:psmathur/orca_mini_v1_dataset",
+      "dataset:ehartford/dolphin",
       "arxiv:2306.02707",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -13086,7 +13092,7 @@
   {
     "_id": "64d5e2dcabf475a808a24d42",
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
-    "likes": 48,
+    "likes": 49,
     "private": false,
     "downloads": 46967,
     "tags": [
@@ -15598,6 +15604,7 @@
     "private": false,
     "downloads": 210,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -15606,7 +15613,6 @@
       "dataset:ehartford/samantha-data",
       "arxiv:2305.14314",
       "arxiv:2205.14135",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -15621,12 +15627,12 @@
     "private": false,
     "downloads": 6,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "dataset:ehartford/samantha-data",
       "arxiv:2305.14314",
       "arxiv:2205.14135",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -18918,5 +18924,41 @@
       "region:us"
     ],
     "modelId": "TheBloke/Dolphin-Llama2-7B-GGUF"
+  },
+  {
+    "_id": "64f72fd0ceb68df8ee3a607c",
+    "id": "TheBloke/orca_mini_v3_13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:psmathur/orca_mini_v1_dataset",
+      "dataset:ehartford/dolphin",
+      "arxiv:2306.02707",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/orca_mini_v3_13B-GGUF"
+  },
+  {
+    "_id": "64f732efe00083f5bd2ce2a3",
+    "id": "TheBloke/Chronos-Beluga-v2-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Chronos-Beluga-v2-13B-GGUF"
   }
 ]
