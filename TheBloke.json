@@ -9378,7 +9378,7 @@
   {
     "_id": "64b72139a00eab5bcddae33e",
     "id": "TheBloke/Llama-2-70B-chat-GPTQ",
-    "likes": 167,
+    "likes": 168,
     "private": false,
     "downloads": 33961,
     "tags": [
@@ -15311,7 +15311,7 @@
   {
     "_id": "64e7d76dade5964ec6d2481f",
     "id": "TheBloke/CodeLlama-7B-Python-GPTQ",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 1576,
     "tags": [
@@ -15466,12 +15466,13 @@
     "private": false,
     "downloads": 982,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
       "code",
-      "transformers",
+      "arxiv:2308.12950",
       "llama-2",
       "license:llama2",
       "text-generation-inference",
@@ -15504,7 +15505,7 @@
   {
     "_id": "64e893eb0c2413c35722cff1",
     "id": "TheBloke/CodeLlama-34B-GPTQ",
-    "likes": 9,
+    "likes": 11,
     "private": false,
     "downloads": 401,
     "tags": [
@@ -17151,7 +17152,7 @@
   {
     "_id": "64f0787ba20e6096c6ab97f9",
     "id": "TheBloke/MythoMax-L2-Kimiko-v2-13B-GPTQ",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 113,
     "tags": [
@@ -18159,7 +18160,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7b-Chat-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -18840,5 +18841,16 @@
       "region:us"
     ],
     "modelId": "TheBloke/Zarablend-MX-L2-7B-GGUF"
+  },
+  {
+    "_id": "64f72243d17cc5f6c35ebf8f",
+    "id": "TheBloke/orca_mini_v3_7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/orca_mini_v3_7B-GGUF"
   }
 ]
