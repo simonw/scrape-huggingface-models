@@ -11715,6 +11715,7 @@
     "private": false,
     "downloads": 76,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -11722,11 +11723,10 @@
       "arxiv:2305.12031",
       "arxiv:2305.14314",
       "arxiv:2302.70971",
-      "transformers",
       "pytorch",
       "llama-2",
       "qCammel-70",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -11740,16 +11740,16 @@
     "private": false,
     "downloads": 1,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "arxiv:2305.12031",
       "arxiv:2305.14314",
       "arxiv:2302.70971",
-      "transformers",
       "pytorch",
       "llama-2",
       "qCammel-70",
-      "license:other",
+      "license:llama2",
       "text-generation",
       "text-generation-inference",
       "region:us"
@@ -11862,14 +11862,14 @@
     "private": false,
     "downloads": 92,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "fr",
-      "transformers",
       "LLM",
       "llama-2",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -11883,12 +11883,12 @@
     "private": false,
     "downloads": 13,
     "tags": [
+      "transformers",
       "llama",
       "fr",
-      "transformers",
       "LLM",
       "llama-2",
-      "license:other",
+      "license:llama2",
       "text-generation",
       "text-generation-inference",
       "region:us"
@@ -12168,13 +12168,13 @@
     "private": false,
     "downloads": 11,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "llama-2",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -12188,11 +12188,11 @@
     "private": false,
     "downloads": 1,
     "tags": [
+      "transformers",
       "llama",
       "en",
-      "transformers",
       "llama-2",
-      "license:other",
+      "license:llama2",
       "text-generation",
       "text-generation-inference",
       "region:us"
@@ -12424,7 +12424,7 @@
   {
     "_id": "64cf7bb2484264a3b3e2553e",
     "id": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GPTQ",
-    "likes": 35,
+    "likes": 36,
     "private": false,
     "downloads": 5539,
     "tags": [
@@ -12444,7 +12444,7 @@
   {
     "_id": "64cf7bb2c0c627dfa7cd2c43",
     "id": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GGML",
-    "likes": 47,
+    "likes": 48,
     "private": false,
     "downloads": 351,
     "tags": [
@@ -19048,7 +19048,7 @@
   {
     "_id": "64f7451182673b2a07ae1103",
     "id": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -19159,8 +19159,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "arxiv:2305.12031",
+      "arxiv:2305.14314",
+      "arxiv:2302.70971",
+      "pytorch",
+      "llama-2",
+      "qCammel-70",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/qCammel-70-x-GGUF"
   },
   {
@@ -19204,8 +19217,47 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "llama-2",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Chronolima-Airo-Grad-L2-13B-GGUF"
+  },
+  {
+    "_id": "64f762e8c150f2f1dddfe85d",
+    "id": "TheBloke/Vigogne-2-7B-Chat-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "fr",
+      "LLM",
+      "llama-2",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Vigogne-2-7B-Chat-GGUF"
+  },
+  {
+    "_id": "64f764ac8073889e2ef29bde",
+    "id": "TheBloke/Chronorctypus-Limarobormes-13b-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Chronorctypus-Limarobormes-13b-GGUF"
   }
 ]
