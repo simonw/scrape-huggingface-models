@@ -15063,6 +15063,7 @@
       "transformers",
       "llama",
       "code",
+      "arxiv:2308.12950",
       "llama-2",
       "license:llama2",
       "text-generation",
@@ -15144,9 +15145,9 @@
     "private": false,
     "downloads": 21,
     "tags": [
+      "transformers",
       "llama",
       "code",
-      "transformers",
       "llama-2",
       "license:llama2",
       "text-generation",
@@ -15299,9 +15300,10 @@
     "private": false,
     "downloads": 24,
     "tags": [
+      "transformers",
       "llama",
       "code",
-      "transformers",
+      "arxiv:2308.12950",
       "llama-2",
       "license:llama2",
       "text-generation",
@@ -15382,12 +15384,13 @@
     "private": false,
     "downloads": 372,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
       "code",
-      "transformers",
+      "arxiv:2308.12950",
       "llama-2",
       "license:llama2",
       "text-generation-inference",
@@ -17779,7 +17782,7 @@
   {
     "_id": "64f291213e9d80250d0b6892",
     "id": "TheBloke/UndiMix-v2-13B-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -18253,7 +18256,7 @@
   {
     "_id": "64f66b5579ae3099e4b53835",
     "id": "TheBloke/MythoLogic-Mini-7B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
