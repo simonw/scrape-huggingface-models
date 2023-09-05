@@ -1119,7 +1119,7 @@
   {
     "_id": "6465d990e0fe831b4789b356",
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GGML",
-    "likes": 76,
+    "likes": 77,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -1132,7 +1132,7 @@
   {
     "_id": "6465ddb89c627c78f862f74c",
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-HF",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 1382,
     "tags": [
@@ -8005,7 +8005,7 @@
   {
     "_id": "64a7092887cbd4dc73f15bad",
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-SuperHOT-8K-GGML",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -8036,7 +8036,7 @@
   {
     "_id": "64a70c488098b4e710f34e9b",
     "id": "TheBloke/WizardLM-7B-V1-0-Uncensored-SuperHOT-8K-GGML",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -12824,12 +12824,14 @@
     "private": false,
     "downloads": 19,
     "tags": [
+      "transformers",
       "llama",
       "en",
-      "dataset:garage-bAInd/OpenPlatypus",
+      "dataset:garage-bAInd/Open-Platypus",
+      "arxiv:2308.07317",
       "arxiv:2307.09288",
-      "transformers",
-      "license:other",
+      "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -12842,14 +12844,15 @@
     "private": false,
     "downloads": 863,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "dataset:garage-bAInd/OpenPlatypus",
+      "dataset:garage-bAInd/Open-Platypus",
+      "arxiv:2308.07317",
       "arxiv:2307.09288",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -16049,9 +16052,9 @@
     "private": false,
     "downloads": 6,
     "tags": [
+      "transformers",
       "llama",
       "dataset:jondurbin/airoboros-2.1",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -16285,7 +16288,7 @@
   {
     "_id": "64ed0427a79cf4a895eb53c9",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GPTQ",
-    "likes": 35,
+    "likes": 36,
     "private": false,
     "downloads": 1261,
     "tags": [
@@ -18483,6 +18486,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:garage-bAInd/Open-Platypus",
+      "arxiv:2308.07317",
+      "arxiv:2307.09288",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Stable-Platypus2-13B-GGUF"
