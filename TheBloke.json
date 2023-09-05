@@ -1239,7 +1239,7 @@
   {
     "_id": "64668c58119ad94383d57cd6",
     "id": "TheBloke/Manticore-13B-GPTQ",
-    "likes": 36,
+    "likes": 35,
     "private": false,
     "downloads": 52,
     "tags": [
@@ -14939,15 +14939,16 @@
     "private": false,
     "downloads": 88,
     "tags": [
+      "transformers",
       "llama",
       "code",
-      "transformers",
+      "arxiv:2308.12950",
       "llama-2",
       "license:llama2",
       "text-generation",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-7B-Instruct-GGUF"
@@ -14959,9 +14960,10 @@
     "private": false,
     "downloads": 32,
     "tags": [
+      "transformers",
       "llama",
       "code",
-      "transformers",
+      "arxiv:2308.12950",
       "llama-2",
       "license:llama2",
       "text-generation",
@@ -14978,9 +14980,10 @@
     "private": false,
     "downloads": 79,
     "tags": [
+      "transformers",
       "llama",
       "code",
-      "transformers",
+      "arxiv:2308.12950",
       "llama-2",
       "license:llama2",
       "text-generation",
@@ -14993,7 +14996,7 @@
   {
     "_id": "64e7bafd0c47bf287ca550b8",
     "id": "TheBloke/CodeLlama-13B-GGUF",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 29,
     "tags": [
@@ -15013,7 +15016,7 @@
   {
     "_id": "64e7bc1129a548f66a1ddb15",
     "id": "TheBloke/CodeLlama-13B-Instruct-GGUF",
-    "likes": 25,
+    "likes": 26,
     "private": false,
     "downloads": 77,
     "tags": [
@@ -15038,17 +15041,18 @@
     "private": false,
     "downloads": 3450,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
       "code",
-      "transformers",
+      "arxiv:2308.12950",
       "llama-2",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-7B-Instruct-GPTQ"
@@ -15056,7 +15060,7 @@
   {
     "_id": "64e7bdab9f8952a1c0ffbbb8",
     "id": "TheBloke/CodeLlama-13B-Python-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 13,
     "tags": [
@@ -15161,13 +15165,14 @@
   {
     "_id": "64e7cc65e3953cd90bd5a2e6",
     "id": "TheBloke/CodeLlama-34B-Python-GGUF",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 10,
     "tags": [
       "transformers",
       "llama",
       "code",
+      "arxiv:2308.12950",
       "llama-2",
       "license:llama2",
       "text-generation",
@@ -15184,9 +15189,10 @@
     "private": false,
     "downloads": 45,
     "tags": [
+      "transformers",
       "llama",
       "code",
-      "transformers",
+      "arxiv:2308.12950",
       "llama-2",
       "license:llama2",
       "text-generation",
@@ -15203,9 +15209,10 @@
     "private": false,
     "downloads": 77,
     "tags": [
+      "transformers",
       "llama",
       "code",
-      "transformers",
+      "arxiv:2308.12950",
       "llama-2",
       "license:llama2",
       "text-generation",
@@ -15242,9 +15249,10 @@
     "private": false,
     "downloads": 39,
     "tags": [
+      "transformers",
       "llama",
       "code",
-      "transformers",
+      "arxiv:2308.12950",
       "llama-2",
       "license:llama2",
       "text-generation",
@@ -15281,12 +15289,13 @@
     "private": false,
     "downloads": 1339,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
       "code",
-      "transformers",
+      "arxiv:2308.12950",
       "llama-2",
       "license:llama2",
       "text-generation-inference",
@@ -15343,12 +15352,13 @@
     "private": false,
     "downloads": 1553,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
       "code",
-      "transformers",
+      "arxiv:2308.12950",
       "llama-2",
       "license:llama2",
       "text-generation-inference",
@@ -15740,7 +15750,7 @@
   {
     "_id": "64e9e5316b9db55517b1d2a9",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GGUF",
-    "likes": 33,
+    "likes": 34,
     "private": false,
     "downloads": 28,
     "tags": [
@@ -18087,7 +18097,7 @@
   {
     "_id": "64f5fd954d3b1dd311d30e28",
     "id": "TheBloke/Llama-2-7B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -18110,7 +18120,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7b-Chat-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -18270,5 +18280,16 @@
       "region:us"
     ],
     "modelId": "TheBloke/MythoLogic-Mini-7B-GGUF"
+  },
+  {
+    "_id": "64f69434ef2049bdac3d7f55",
+    "id": "TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGUF"
   }
 ]
