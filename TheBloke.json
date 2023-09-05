@@ -13268,14 +13268,14 @@
     "private": false,
     "downloads": 771,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "de",
       "dataset:flozi00/conversations",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -18173,7 +18173,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7b-Chat-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -19133,5 +19133,45 @@
       "region:us"
     ],
     "modelId": "TheBloke/chronos-13b-v2-GGUF"
+  },
+  {
+    "_id": "64f753acb2d67ae715da263e",
+    "id": "TheBloke/Llama-2-13B-German-Assistant-v4-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "de",
+      "dataset:flozi00/conversations",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-13B-German-Assistant-v4-GGUF"
+  },
+  {
+    "_id": "64f753c533475a59d7ab9983",
+    "id": "TheBloke/qCammel-70-x-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/qCammel-70-x-GGUF"
+  },
+  {
+    "_id": "64f756b9a92703ef65c0cbff",
+    "id": "TheBloke/Spring-Dragon-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Spring-Dragon-GGUF"
   }
 ]
