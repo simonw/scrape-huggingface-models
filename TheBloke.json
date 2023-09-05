@@ -10416,11 +10416,11 @@
     "private": false,
     "downloads": 104,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -10434,9 +10434,9 @@
     "private": false,
     "downloads": 34,
     "tags": [
-      "llama",
       "transformers",
-      "license:other",
+      "llama",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -15491,12 +15491,12 @@
     "private": false,
     "downloads": 400,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
       "code",
-      "transformers",
       "llama-2",
       "license:llama2",
       "text-generation-inference",
@@ -18420,7 +18420,7 @@
   {
     "_id": "64f6a9796537390231ad3d1d",
     "id": "TheBloke/vicuna-7B-v1.5-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -18572,17 +18572,6 @@
       "region:us"
     ],
     "modelId": "TheBloke/Nous-Hermes-Llama2-GGUF"
-  },
-  {
-    "_id": "64f6cbfc7146133f15078dfd",
-    "id": "TheBloke/Redmond-Puffin-13B-GGUF",
-    "likes": 0,
-    "private": false,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "modelId": "TheBloke/Redmond-Puffin-13B-GGUF"
   },
   {
     "_id": "64f6d58313e91ef83ba46d73",
