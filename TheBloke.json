@@ -13141,13 +13141,14 @@
     "private": false,
     "downloads": 271,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "arxiv:2304.12244",
       "arxiv:2306.08568",
-      "transformers",
-      "license:other",
+      "arxiv:2308.09583",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -13161,11 +13162,12 @@
     "private": false,
     "downloads": 10,
     "tags": [
+      "transformers",
       "llama",
       "arxiv:2304.12244",
       "arxiv:2306.08568",
-      "transformers",
-      "license:other",
+      "arxiv:2308.09583",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -13178,11 +13180,11 @@
     "private": false,
     "downloads": 18,
     "tags": [
+      "transformers",
       "llama",
       "arxiv:2304.12244",
       "arxiv:2306.08568",
       "arxiv:2308.09583",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -13196,13 +13198,13 @@
     "private": false,
     "downloads": 145,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "arxiv:2304.12244",
       "arxiv:2306.08568",
       "arxiv:2308.09583",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -14980,7 +14982,7 @@
   {
     "_id": "64e78d0b1703da9e63ecc64c",
     "id": "TheBloke/CodeLlama-7B-Python-GGUF",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 33,
     "tags": [
@@ -17535,7 +17537,7 @@
   {
     "_id": "64f1c8325b8a6a5d39d71701",
     "id": "TheBloke/Yarn-Llama-2-13B-128K-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 198,
     "tags": [
@@ -18133,7 +18135,7 @@
   {
     "_id": "64f5fd954d3b1dd311d30e28",
     "id": "TheBloke/Llama-2-7B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -18712,8 +18714,66 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "arxiv:2304.12244",
+      "arxiv:2306.08568",
+      "arxiv:2308.09583",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/WizardMath-13B-V1.0-GGUF"
+  },
+  {
+    "_id": "64f700efe00083f5bd2689af",
+    "id": "TheBloke/WizardMath-7B-V1.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "arxiv:2304.12244",
+      "arxiv:2306.08568",
+      "arxiv:2308.09583",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/WizardMath-7B-V1.0-GGUF"
+  },
+  {
+    "_id": "64f702ab96d7e4e68633cf4f",
+    "id": "TheBloke/Firefly-Llama2-13B-v1.2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Firefly-Llama2-13B-v1.2-GGUF"
+  },
+  {
+    "_id": "64f702cb61afe1d3356318fa",
+    "id": "TheBloke/OpenBuddy-Llama2-70b-v10.1-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/OpenBuddy-Llama2-70b-v10.1-GGUF"
+  },
+  {
+    "_id": "64f702cb7c77bf9c8ab540f5",
+    "id": "TheBloke/OpenBuddy-Llama2-70b-v10.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/OpenBuddy-Llama2-70b-v10.1-GPTQ"
   }
 ]
