@@ -9271,7 +9271,7 @@
   {
     "_id": "64b6d3eeab056b63ede8a758",
     "id": "TheBloke/Llama-2-13B-chat-GGML",
-    "likes": 560,
+    "likes": 561,
     "private": false,
     "downloads": 4701,
     "tags": [
@@ -10832,7 +10832,7 @@
   {
     "_id": "64c4c285c097c6c2b39e4c56",
     "id": "TheBloke/MythoLogic-Mini-7B-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 66,
     "tags": [
@@ -11897,12 +11897,12 @@
     "private": false,
     "downloads": 42,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -11916,10 +11916,10 @@
     "private": false,
     "downloads": 45,
     "tags": [
+      "transformers",
       "llama",
       "en",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -14158,8 +14158,8 @@
     "private": false,
     "downloads": 8,
     "tags": [
-      "llama",
       "transformers",
+      "llama",
       "llama-2",
       "license:llama2",
       "text-generation-inference",
@@ -14174,10 +14174,10 @@
     "private": false,
     "downloads": 960,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "llama-2",
       "license:llama2",
       "text-generation-inference",
@@ -17757,7 +17757,7 @@
   {
     "_id": "64f27a81f45430010999b992",
     "id": "TheBloke/Stheno-L2-13B-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -18288,8 +18288,29 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "llama-2",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGUF"
+  },
+  {
+    "_id": "64f69917300314f224451545",
+    "id": "TheBloke/MythoLogic-L2-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/MythoLogic-L2-13B-GGUF"
   }
 ]
