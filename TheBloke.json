@@ -6235,7 +6235,7 @@
   {
     "_id": "649af488962c03f6166db382",
     "id": "TheBloke/Pygmalion-13B-SuperHOT-8K-GPTQ",
-    "likes": 64,
+    "likes": 65,
     "private": false,
     "downloads": 949,
     "tags": [
@@ -10210,7 +10210,7 @@
   {
     "_id": "64bbf5a21a62149c5e4d9990",
     "id": "TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 400,
     "tags": [
@@ -11395,7 +11395,7 @@
   {
     "_id": "64ca7424710645aa7bdaace5",
     "id": "TheBloke/airoboros-l2-70B-GPT4-2.0-GGML",
-    "likes": 30,
+    "likes": 29,
     "private": false,
     "downloads": 101,
     "tags": [
@@ -13076,7 +13076,7 @@
   {
     "_id": "64d5e2dc3ca2924d6e61148a",
     "id": "TheBloke/MythoMax-L2-13B-GGML",
-    "likes": 63,
+    "likes": 62,
     "private": false,
     "downloads": 1235,
     "tags": [
@@ -13374,6 +13374,7 @@
     "private": false,
     "downloads": 353,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -13382,8 +13383,7 @@
       "arxiv:2306.02707",
       "arxiv:2301.13688",
       "arxiv:2307.09288",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -13397,14 +13397,14 @@
     "private": false,
     "downloads": 49,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "dataset:Open-Orca/OpenOrca",
       "arxiv:2306.02707",
       "arxiv:2301.13688",
       "arxiv:2307.09288",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation",
       "text-generation-inference",
       "region:us"
@@ -13961,10 +13961,10 @@
     "private": false,
     "downloads": 60,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:llama2",
       "has_space",
       "text-generation-inference",
@@ -13980,8 +13980,8 @@
     "private": false,
     "downloads": 12,
     "tags": [
-      "llama",
       "transformers",
+      "llama",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -15748,8 +15748,8 @@
     "private": false,
     "downloads": 4,
     "tags": [
-      "llama",
       "transformers",
+      "llama",
       "code llama",
       "license:llama2",
       "model-index",
@@ -16467,7 +16467,7 @@
   {
     "_id": "64edeaf018a0cf9ff9549664",
     "id": "TheBloke/MythoMax-Kimiko-Mix-GGUF",
-    "likes": 6,
+    "likes": 5,
     "private": false,
     "downloads": 19,
     "tags": [
@@ -17695,7 +17695,7 @@
   {
     "_id": "64f25f71a9f36eff6c5986a0",
     "id": "TheBloke/Stheno-Inverted-L2-13B-GGML",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -17773,7 +17773,7 @@
   {
     "_id": "64f26d7c7fafa9a685fb585d",
     "id": "TheBloke/UndiMix-v2-13B-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -18349,7 +18349,7 @@
   {
     "_id": "64f69434ef2049bdac3d7f55",
     "id": "TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -18381,7 +18381,7 @@
   {
     "_id": "64f69c38c3bdaab6f58e2b8c",
     "id": "TheBloke/MythoMax-L2-13B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -19638,8 +19638,45 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:Open-Orca/OpenOrca",
+      "arxiv:2306.02707",
+      "arxiv:2301.13688",
+      "arxiv:2307.09288",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/LlongOrca-7B-16K-GGUF"
+  },
+  {
+    "_id": "64f7a7e5d04a890f5354074e",
+    "id": "TheBloke/OpenOrcaxOpenChat-Preview2-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/OpenOrcaxOpenChat-Preview2-13B-GGUF"
+  },
+  {
+    "_id": "64f7a83f84b4837ae42dfc89",
+    "id": "TheBloke/Llama2-13B-MegaCode2-OASST-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama2-13B-MegaCode2-OASST-GGUF"
   }
 ]
