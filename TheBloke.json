@@ -16742,7 +16742,7 @@
   {
     "_id": "64ef0c4832b9d84c0d662e89",
     "id": "TheBloke/Mythical-Destroyer-V2-L2-13B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -18206,7 +18206,7 @@
   {
     "_id": "64f611cf6ad07ea81779ca15",
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -18587,7 +18587,7 @@
   {
     "_id": "64f6ca1f2b10e9369ed32a8a",
     "id": "TheBloke/Nous-Hermes-Llama-2-7B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -18600,7 +18600,8 @@
       "synthetic instruction",
       "license:llama2",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/Nous-Hermes-Llama-2-7B-GGUF"
   },
@@ -18837,7 +18838,7 @@
   {
     "_id": "64f7058dbedfdc197957e8c3",
     "id": "TheBloke/HermesLimaRP-L2-7B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -19554,7 +19555,7 @@
   {
     "_id": "64f78ca5fe57e7455a7e6033",
     "id": "TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -19582,6 +19583,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:ehartford/samantha-data",
+      "arxiv:2305.14314",
+      "arxiv:2205.14135",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Samantha-1.1-70B-GGUF"
