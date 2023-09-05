@@ -9295,7 +9295,7 @@
   {
     "_id": "64b6d9d4bb1d8f2832c8be93",
     "id": "TheBloke/Llama-2-13B-chat-GPTQ",
-    "likes": 242,
+    "likes": 243,
     "private": false,
     "downloads": 88425,
     "tags": [
@@ -9637,13 +9637,13 @@
     "private": false,
     "downloads": 835,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "llama-2",
-      "license:other",
+      "license:llama2",
       "text-classification",
       "has_space",
       "text-generation-inference",
@@ -9659,11 +9659,11 @@
     "private": false,
     "downloads": 50,
     "tags": [
+      "transformers",
       "llama",
       "en",
-      "transformers",
       "llama-2",
-      "license:other",
+      "license:llama2",
       "text-classification",
       "has_space",
       "text-generation-inference",
@@ -11467,9 +11467,9 @@
     "private": false,
     "downloads": 7,
     "tags": [
-      "llama",
       "transformers",
-      "license:other",
+      "llama",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -11482,12 +11482,12 @@
     "private": false,
     "downloads": 225,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -13476,15 +13476,15 @@
     "private": false,
     "downloads": 48,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "dataset:rombodawg/Legacy_MegaCodeTraining200k",
-      "transformers",
       "text-to-code",
       "multilingual-code-generation",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -13498,13 +13498,13 @@
     "private": false,
     "downloads": 2,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "dataset:rombodawg/Legacy_MegaCodeTraining200k",
-      "transformers",
       "text-to-code",
       "multilingual-code-generation",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -14023,7 +14023,7 @@
   {
     "_id": "64de62531499c62d84b53b8e",
     "id": "TheBloke/Zarablend-L2-7B-GGML",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 73,
     "tags": [
@@ -14310,9 +14310,9 @@
     "private": false,
     "downloads": 4,
     "tags": [
+      "transformers",
       "llama",
       "arxiv:2306.01708",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -14326,11 +14326,11 @@
     "private": false,
     "downloads": 56,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "arxiv:2306.01708",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -14462,12 +14462,12 @@
     "private": false,
     "downloads": 85,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "arxiv:2306.02707",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -14482,10 +14482,10 @@
     "private": false,
     "downloads": 2,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "arxiv:2306.02707",
-      "transformers",
       "license:llama2",
       "text-generation",
       "text-generation-inference",
@@ -14843,7 +14843,7 @@
   {
     "_id": "64e77dd529a548f66a14ddde",
     "id": "TheBloke/CodeLlama-13B-fp16",
-    "likes": 62,
+    "likes": 63,
     "private": false,
     "downloads": 1799,
     "tags": [
@@ -16320,7 +16320,7 @@
   {
     "_id": "64ed0427a79cf4a895eb53c9",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GPTQ",
-    "likes": 38,
+    "likes": 39,
     "private": false,
     "downloads": 1941,
     "tags": [
@@ -16528,9 +16528,9 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "llama",
       "en",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -18150,7 +18150,7 @@
   {
     "_id": "64f5fd954d3b1dd311d30e28",
     "id": "TheBloke/Llama-2-7B-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -18219,7 +18219,7 @@
   {
     "_id": "64f614a19c2aeb2a3dea1312",
     "id": "TheBloke/Llama-2-13B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -19256,8 +19256,85 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "arxiv:2306.01708",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Chronorctypus-Limarobormes-13b-GGUF"
+  },
+  {
+    "_id": "64f7677ec29cdd96942c7485",
+    "id": "TheBloke/Hermes-LLongMA-2-7B-8K-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Hermes-LLongMA-2-7B-8K-GGUF"
+  },
+  {
+    "_id": "64f7679782810661246cc68f",
+    "id": "TheBloke/Synthia-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "arxiv:2306.02707",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Synthia-13B-GGUF"
+  },
+  {
+    "_id": "64f76a989980b96c33de7741",
+    "id": "TheBloke/CodeUp-Alpha-13B-HF-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:rombodawg/Legacy_MegaCodeTraining200k",
+      "text-to-code",
+      "multilingual-code-generation",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/CodeUp-Alpha-13B-HF-GGUF"
+  },
+  {
+    "_id": "64f76aa549282808834e53d5",
+    "id": "TheBloke/llama-2-13B-Guanaco-QLoRA-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "llama-2",
+      "license:llama2",
+      "text-classification",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-classification",
+    "modelId": "TheBloke/llama-2-13B-Guanaco-QLoRA-GGUF"
   }
 ]
