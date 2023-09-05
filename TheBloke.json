@@ -15141,13 +15141,14 @@
   {
     "_id": "64e7c2379f8952a1c0008ed1",
     "id": "TheBloke/CodeLlama-34B-GGUF",
-    "likes": 29,
+    "likes": 30,
     "private": false,
     "downloads": 21,
     "tags": [
       "transformers",
       "llama",
       "code",
+      "arxiv:2308.12950",
       "llama-2",
       "license:llama2",
       "text-generation",
@@ -15221,9 +15222,9 @@
     "private": false,
     "downloads": 17,
     "tags": [
+      "transformers",
       "llama",
       "code",
-      "transformers",
       "llama-2",
       "license:llama2",
       "text-generation",
@@ -15380,7 +15381,7 @@
   {
     "_id": "64e816b8123d27f6f062b6cd",
     "id": "TheBloke/CodeLlama-13B-Python-GPTQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 372,
     "tags": [
@@ -17082,7 +17083,7 @@
   {
     "_id": "64f0787aa8e82e0b85b503cd",
     "id": "TheBloke/MythoMax-L2-Kimiko-v2-13B-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -17112,7 +17113,7 @@
   {
     "_id": "64f0787ba20e6096c6ab97f9",
     "id": "TheBloke/MythoMax-L2-Kimiko-v2-13B-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 48,
     "tags": [
