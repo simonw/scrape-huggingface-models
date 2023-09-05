@@ -1097,7 +1097,7 @@
   {
     "_id": "6465d98b9c627c78f8629e5d",
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ",
-    "likes": 61,
+    "likes": 62,
     "private": false,
     "downloads": 334472,
     "tags": [
@@ -11410,7 +11410,7 @@
   {
     "_id": "64ca7424dc4e838857b9b397",
     "id": "TheBloke/airoboros-l2-70B-GPT4-2.0-GPTQ",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 15783,
     "tags": [
@@ -12846,7 +12846,7 @@
   {
     "_id": "64d4f2d9089bc502ce6cb1b6",
     "id": "TheBloke/Stable-Platypus2-13B-GPTQ",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 864,
     "tags": [
@@ -15514,6 +15514,7 @@
       "text-generation",
       "custom_code",
       "code",
+      "arxiv:2308.12950",
       "llama-2",
       "license:llama2",
       "text-generation-inference",
@@ -18291,7 +18292,7 @@
   {
     "_id": "64f65d33aad4f0fee08b2457",
     "id": "TheBloke/openchat_v3.2_super-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -18765,8 +18766,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "zh",
+      "en",
+      "fr",
+      "de",
+      "ja",
+      "ko",
+      "it",
+      "ru",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/OpenBuddy-Llama2-70b-v10.1-GGUF"
   },
   {
