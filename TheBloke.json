@@ -9295,7 +9295,7 @@
   {
     "_id": "64b6d9d4bb1d8f2832c8be93",
     "id": "TheBloke/Llama-2-13B-chat-GPTQ",
-    "likes": 241,
+    "likes": 242,
     "private": false,
     "downloads": 88425,
     "tags": [
@@ -12281,12 +12281,12 @@
     "private": false,
     "downloads": 425,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "llama-2",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -12300,10 +12300,10 @@
     "private": false,
     "downloads": 45,
     "tags": [
-      "llama",
       "transformers",
+      "llama",
       "llama-2",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -12466,13 +12466,13 @@
     "private": false,
     "downloads": 1533,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "dataset:ehartford/dolphin",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -12486,11 +12486,11 @@
     "private": false,
     "downloads": 68,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "dataset:ehartford/dolphin",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "has_space",
       "text-generation-inference",
       "region:us"
@@ -13402,11 +13402,11 @@
     "private": false,
     "downloads": 134,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -13420,9 +13420,9 @@
     "private": false,
     "downloads": 51,
     "tags": [
-      "llama",
       "transformers",
-      "license:other",
+      "llama",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -15494,12 +15494,13 @@
     "private": false,
     "downloads": 300,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
       "code",
-      "transformers",
+      "arxiv:2308.12950",
       "llama-2",
       "license:llama2",
       "text-generation-inference",
@@ -18811,6 +18812,8 @@
     "tags": [
       "transformers",
       "llama",
+      "llama-2",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -18883,5 +18886,37 @@
       "region:us"
     ],
     "modelId": "TheBloke/Huginn-13B-GGUF"
+  },
+  {
+    "_id": "64f729f8365c61c6be7a9687",
+    "id": "TheBloke/Huginn-v3-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Huginn-v3-13B-GGUF"
+  },
+  {
+    "_id": "64f72cf761afe1d33568728f",
+    "id": "TheBloke/Dolphin-Llama2-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:ehartford/dolphin",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Dolphin-Llama2-7B-GGUF"
   }
 ]
