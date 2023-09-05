@@ -12207,13 +12207,13 @@
     "private": false,
     "downloads": 26,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "llama-2",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -12227,11 +12227,11 @@
     "private": false,
     "downloads": 11,
     "tags": [
+      "transformers",
       "llama",
       "en",
-      "transformers",
       "llama-2",
-      "license:other",
+      "license:llama2",
       "text-generation",
       "text-generation-inference",
       "region:us"
@@ -12424,7 +12424,7 @@
   {
     "_id": "64cf7bb2484264a3b3e2553e",
     "id": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GPTQ",
-    "likes": 34,
+    "likes": 35,
     "private": false,
     "downloads": 5539,
     "tags": [
@@ -12504,9 +12504,9 @@
     "private": false,
     "downloads": 7,
     "tags": [
-      "llama",
       "transformers",
-      "license:other",
+      "llama",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -12519,11 +12519,11 @@
     "private": false,
     "downloads": 34,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -18639,7 +18639,7 @@
   {
     "_id": "64f6da21fd11bbe1a8d2488c",
     "id": "TheBloke/EverythingLM-13b-V2-16K-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -19170,8 +19170,42 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Spring-Dragon-GGUF"
+  },
+  {
+    "_id": "64f75cb36389380c7758ee75",
+    "id": "TheBloke/Airolima-Chronos-Grad-L2-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "llama-2",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Airolima-Chronos-Grad-L2-13B-GGUF"
+  },
+  {
+    "_id": "64f75fc428a665e65eb2b9e2",
+    "id": "TheBloke/Chronolima-Airo-Grad-L2-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Chronolima-Airo-Grad-L2-13B-GGUF"
   }
 ]
