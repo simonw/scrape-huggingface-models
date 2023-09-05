@@ -1051,7 +1051,7 @@
   {
     "_id": "6464cfa91054f08ddba6201f",
     "id": "TheBloke/LLaMa-7B-GGML",
-    "likes": 47,
+    "likes": 48,
     "private": false,
     "downloads": 98,
     "tags": [
@@ -10501,12 +10501,14 @@
     "private": false,
     "downloads": 7001,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "arxiv:2304.12244",
-      "transformers",
-      "license:other",
+      "arxiv:2306.08568",
+      "arxiv:2308.09583",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -10520,10 +10522,12 @@
     "private": false,
     "downloads": 219,
     "tags": [
+      "transformers",
       "llama",
       "arxiv:2304.12244",
-      "transformers",
-      "license:other",
+      "arxiv:2306.08568",
+      "arxiv:2308.09583",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -15776,10 +15780,10 @@
     "tags": [
       "transformers",
       "llama",
-      "arxiv:2303.08774",
+      "arxiv:2304.12244",
       "arxiv:2306.08568",
       "arxiv:2308.09583",
-      "arxiv:2304.12244",
+      "arxiv:2303.08774",
       "code",
       "license:llama2",
       "model-index",
@@ -16233,7 +16237,7 @@
   {
     "_id": "64eb8a892800cf7e9cb2541b",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GPTQ",
-    "likes": 31,
+    "likes": 32,
     "private": false,
     "downloads": 975,
     "tags": [
@@ -18657,8 +18661,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/ReMM-SLERP-L2-13B-GPTQ"
   },
   {
@@ -18675,5 +18686,34 @@
       "region:us"
     ],
     "modelId": "TheBloke/ReMM-SLERP-L2-13B-GGUF"
+  },
+  {
+    "_id": "64f6fae5b548e18c7f5d1492",
+    "id": "TheBloke/WizardLM-13B-V1.2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "arxiv:2304.12244",
+      "arxiv:2306.08568",
+      "arxiv:2308.09583",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/WizardLM-13B-V1.2-GGUF"
+  },
+  {
+    "_id": "64f6fdfd7c4552847fa47041",
+    "id": "TheBloke/WizardMath-13B-V1.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/WizardMath-13B-V1.0-GGUF"
   }
 ]
