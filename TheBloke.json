@@ -10862,6 +10862,7 @@
     "private": false,
     "downloads": 7802,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -10872,8 +10873,7 @@
       "dataset:conceptofmind/niv2_submix_original",
       "arxiv:2307.09288",
       "arxiv:2306.02707",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -10887,6 +10887,7 @@
     "private": false,
     "downloads": 41,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "dataset:conceptofmind/cot_submix_original",
@@ -10895,8 +10896,7 @@
       "dataset:conceptofmind/niv2_submix_original",
       "arxiv:2307.09288",
       "arxiv:2306.02707",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation",
       "has_space",
       "text-generation-inference",
@@ -13599,9 +13599,9 @@
     "private": false,
     "downloads": 10,
     "tags": [
+      "transformers",
       "llama",
       "dataset:rombodawg/LosslessMegaCodeTrainingV2_1m_Evol_Uncensored",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -13615,11 +13615,11 @@
     "private": false,
     "downloads": 134,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:rombodawg/LosslessMegaCodeTrainingV2_1m_Evol_Uncensored",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -16471,8 +16471,8 @@
     "private": false,
     "downloads": 19,
     "tags": [
-      "llama",
       "transformers",
+      "llama",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -16486,8 +16486,8 @@
     "private": false,
     "downloads": 0,
     "tags": [
-      "llama",
       "transformers",
+      "llama",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -16501,10 +16501,10 @@
     "private": false,
     "downloads": 11,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -18705,7 +18705,7 @@
   {
     "_id": "64f6eefbd63b958c5229df0d",
     "id": "TheBloke/ReMM-SLERP-L2-13B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -19686,8 +19686,48 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "dataset:rombodawg/LosslessMegaCodeTrainingV2_1m_Evol_Uncensored",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/LosslessMegaCoder-Llama2-13B-Mini-GGUF"
+  },
+  {
+    "_id": "64f7b6469980b96c33e9f6fa",
+    "id": "TheBloke/StableBeluga-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:conceptofmind/cot_submix_original",
+      "dataset:conceptofmind/flan2021_submix_original",
+      "dataset:conceptofmind/t0_submix_original",
+      "dataset:conceptofmind/niv2_submix_original",
+      "arxiv:2307.09288",
+      "arxiv:2306.02707",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/StableBeluga-7B-GGUF"
+  },
+  {
+    "_id": "64f7bac9fbbfe40336117526",
+    "id": "TheBloke/Llama-2-7B-32K-Instruct-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-7B-32K-Instruct-GGUF"
   }
 ]
