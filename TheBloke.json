@@ -424,7 +424,7 @@
   {
     "_id": "6448cfe6d16a70c0158ad424",
     "id": "TheBloke/wizardLM-7B-GGML",
-    "likes": 155,
+    "likes": 156,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -13619,7 +13619,7 @@
   {
     "_id": "64db50ac78864cd2223b4582",
     "id": "TheBloke/GodziLLa2-70B-GGML",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -15585,12 +15585,12 @@
     "private": false,
     "downloads": 3,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "dataset:ehartford/samantha-data",
       "arxiv:2305.14314",
       "arxiv:2205.14135",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -16544,9 +16544,9 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "llama",
       "en",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -16560,11 +16560,11 @@
     "private": false,
     "downloads": 14,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -17667,7 +17667,7 @@
   {
     "_id": "64f25f71a4f79a118e0f011a",
     "id": "TheBloke/Stheno-Inverted-L2-13B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -19336,5 +19336,16 @@
     ],
     "pipeline_tag": "text-classification",
     "modelId": "TheBloke/llama-2-13B-Guanaco-QLoRA-GGUF"
+  },
+  {
+    "_id": "64f773638073889e2ef5db3d",
+    "id": "TheBloke/llama-2-13B-German-Assistant-v2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/llama-2-13B-German-Assistant-v2-GGUF"
   }
 ]
