@@ -12051,6 +12051,7 @@
     "private": false,
     "downloads": 11,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -12058,11 +12059,10 @@
       "arxiv:2305.12031",
       "arxiv:2305.14314",
       "arxiv:2302.13971",
-      "transformers",
       "pytorch",
       "llama-2",
       "qCammel-13",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -12076,16 +12076,16 @@
     "private": false,
     "downloads": 3,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "arxiv:2305.12031",
       "arxiv:2305.14314",
       "arxiv:2302.13971",
-      "transformers",
       "pytorch",
       "llama-2",
       "qCammel-13",
-      "license:other",
+      "license:llama2",
       "text-generation",
       "text-generation-inference",
       "region:us"
@@ -12724,11 +12724,11 @@
     "private": false,
     "downloads": 55,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -12742,9 +12742,9 @@
     "private": false,
     "downloads": 30,
     "tags": [
-      "llama",
       "transformers",
-      "license:other",
+      "llama",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -16152,10 +16152,10 @@
     "private": false,
     "downloads": 11,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -16170,8 +16170,8 @@
     "private": false,
     "downloads": 1,
     "tags": [
-      "llama",
       "transformers",
+      "llama",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -16320,7 +16320,7 @@
   {
     "_id": "64ed0427a79cf4a895eb53c9",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GPTQ",
-    "likes": 37,
+    "likes": 38,
     "private": false,
     "downloads": 1941,
     "tags": [
@@ -16421,12 +16421,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "dataset:ehartford/samantha-data",
       "arxiv:2305.14314",
       "arxiv:2205.14135",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -18173,7 +18173,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7b-Chat-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -18990,5 +18990,55 @@
       "region:us"
     ],
     "modelId": "TheBloke/13B-Legerdemain-L2-GGUF"
+  },
+  {
+    "_id": "64f73e14fec395872ffecb01",
+    "id": "TheBloke/qCammel-13-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "arxiv:2305.12031",
+      "arxiv:2305.14314",
+      "arxiv:2302.13971",
+      "pytorch",
+      "llama-2",
+      "qCammel-13",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/qCammel-13-GGUF"
+  },
+  {
+    "_id": "64f73f2dffa10f8ce3add3dc",
+    "id": "TheBloke/huginnv1.2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/huginnv1.2-GGUF"
+  },
+  {
+    "_id": "64f7413ab7c50aef8391f646",
+    "id": "TheBloke/Hermes-LLongMA-2-13B-8K-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Hermes-LLongMA-2-13B-8K-GGUF"
   }
 ]
