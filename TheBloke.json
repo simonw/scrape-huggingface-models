@@ -9718,14 +9718,14 @@
     "private": false,
     "downloads": 41,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
       "arxiv:2108.12409",
       "arxiv:2212.10554",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -9739,11 +9739,11 @@
     "private": false,
     "downloads": 47,
     "tags": [
+      "transformers",
       "llama",
       "arxiv:2108.12409",
       "arxiv:2212.10554",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -11433,9 +11433,9 @@
     "private": false,
     "downloads": 9,
     "tags": [
-      "llama",
       "transformers",
-      "license:other",
+      "llama",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -11444,16 +11444,16 @@
   {
     "_id": "64ca86e8a81988d07326e769",
     "id": "TheBloke/Hermes-LLongMA-2-13B-8K-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 58,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -12428,13 +12428,13 @@
     "private": false,
     "downloads": 5539,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -12448,11 +12448,11 @@
     "private": false,
     "downloads": 351,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "has_space",
       "text-generation-inference",
       "region:us"
@@ -16399,6 +16399,7 @@
     "private": false,
     "downloads": 108,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -16406,7 +16407,6 @@
       "dataset:ehartford/samantha-data",
       "arxiv:2305.14314",
       "arxiv:2205.14135",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -16436,16 +16436,16 @@
   {
     "_id": "64edd9efeb66036c025f423d",
     "id": "TheBloke/Samantha-1.11-13B-GGML",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 9,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "dataset:ehartford/samantha-data",
       "arxiv:2305.14314",
       "arxiv:2205.14135",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -19037,8 +19037,68 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Hermes-LLongMA-2-13B-8K-GGUF"
+  },
+  {
+    "_id": "64f7451182673b2a07ae1103",
+    "id": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GGUF"
+  },
+  {
+    "_id": "64f7474fd41df1f43a507c0c",
+    "id": "TheBloke/LLongMA-2-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "arxiv:2108.12409",
+      "arxiv:2212.10554",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/LLongMA-2-7B-GGUF"
+  },
+  {
+    "_id": "64f749997565a69eb67eeba7",
+    "id": "TheBloke/Carl-Llama-2-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Carl-Llama-2-13B-GGUF"
+  },
+  {
+    "_id": "64f74a56c96939d7501428c6",
+    "id": "TheBloke/CodeUp-Llama-2-13B-Chat-HF-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/CodeUp-Llama-2-13B-Chat-HF-GGUF"
   }
 ]
