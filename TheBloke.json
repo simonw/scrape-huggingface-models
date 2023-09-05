@@ -23,7 +23,7 @@
   {
     "_id": "642f4a8228a26b5c89b2a6eb",
     "id": "TheBloke/llama-13b",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -12100,9 +12100,9 @@
     "private": false,
     "downloads": 14,
     "tags": [
-      "llama",
       "transformers",
-      "license:other",
+      "llama",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -12115,11 +12115,11 @@
     "private": false,
     "downloads": 12,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -15075,7 +15075,7 @@
   {
     "_id": "64e7bd2c0937566207336662",
     "id": "TheBloke/CodeLlama-7B-Instruct-GPTQ",
-    "likes": 26,
+    "likes": 27,
     "private": false,
     "downloads": 3702,
     "tags": [
@@ -16185,8 +16185,8 @@
     "private": false,
     "downloads": 0,
     "tags": [
-      "llama",
       "transformers",
+      "llama",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -18150,7 +18150,7 @@
   {
     "_id": "64f5fd954d3b1dd311d30e28",
     "id": "TheBloke/Llama-2-7B-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -18805,8 +18805,23 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "zh",
+      "en",
+      "fr",
+      "de",
+      "ja",
+      "ko",
+      "it",
+      "ru",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/OpenBuddy-Llama2-70b-v10.1-GPTQ"
   },
   {
@@ -18960,5 +18975,20 @@
       "region:us"
     ],
     "modelId": "TheBloke/Chronos-Beluga-v2-13B-GGUF"
+  },
+  {
+    "_id": "64f73805ceb68df8ee3baf53",
+    "id": "TheBloke/13B-Legerdemain-L2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/13B-Legerdemain-L2-GGUF"
   }
 ]
