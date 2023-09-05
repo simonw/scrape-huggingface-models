@@ -7104,7 +7104,7 @@
   {
     "_id": "649ef25b4cf994a2786f69f3",
     "id": "TheBloke/vicuna-33B-GPTQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 992,
     "tags": [
@@ -9222,7 +9222,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 481,
+    "likes": 482,
     "private": false,
     "downloads": 7583,
     "tags": [
@@ -9295,7 +9295,7 @@
   {
     "_id": "64b6d9d4bb1d8f2832c8be93",
     "id": "TheBloke/Llama-2-13B-chat-GPTQ",
-    "likes": 240,
+    "likes": 241,
     "private": false,
     "downloads": 88425,
     "tags": [
@@ -12395,11 +12395,11 @@
     "private": false,
     "downloads": 95,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -12413,9 +12413,9 @@
     "private": false,
     "downloads": 30,
     "tags": [
-      "llama",
       "transformers",
-      "license:other",
+      "llama",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -12791,15 +12791,19 @@
     "private": false,
     "downloads": 100,
     "tags": [
+      "transformers",
       "llama",
       "en",
+      "dataset:psmathur/orca_mini_v1_dataset",
+      "dataset:ehartford/dolphin",
       "arxiv:2306.02707",
-      "transformers",
-      "license:other",
+      "license:llama2",
+      "text-generation",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/orca_mini_v3_7B-GGML"
   },
   {
@@ -12809,16 +12813,18 @@
     "private": false,
     "downloads": 1314,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
+      "dataset:psmathur/orca_mini_v1_dataset",
+      "dataset:ehartford/dolphin",
       "arxiv:2306.02707",
-      "transformers",
-      "license:other",
+      "license:llama2",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/orca_mini_v3_7B-GPTQ"
@@ -15418,7 +15424,7 @@
   {
     "_id": "64e816b8123d27f6f062b6cd",
     "id": "TheBloke/CodeLlama-13B-Python-GPTQ",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 391,
     "tags": [
@@ -15753,7 +15759,7 @@
   {
     "_id": "64e9e5008c523cced2035915",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GPTQ",
-    "likes": 34,
+    "likes": 35,
     "private": false,
     "downloads": 2194,
     "tags": [
@@ -17488,7 +17494,7 @@
   {
     "_id": "64f19dcebfff8aeae0a13899",
     "id": "TheBloke/Yarn-Llama-2-13B-128K-GGUF",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 35,
     "tags": [
@@ -18137,7 +18143,7 @@
   {
     "_id": "64f5fd954d3b1dd311d30e28",
     "id": "TheBloke/Llama-2-7B-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -18160,7 +18166,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7b-Chat-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -18183,7 +18189,7 @@
   {
     "_id": "64f611cf6ad07ea81779ca15",
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -18206,7 +18212,7 @@
   {
     "_id": "64f614a19c2aeb2a3dea1312",
     "id": "TheBloke/Llama-2-13B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -18229,7 +18235,7 @@
   {
     "_id": "64f61985e916843d8ebc5db8",
     "id": "TheBloke/Llama-2-70B-chat-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -18293,7 +18299,7 @@
   {
     "_id": "64f65d33aad4f0fee08b2457",
     "id": "TheBloke/openchat_v3.2_super-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -18356,7 +18362,7 @@
   {
     "_id": "64f69c38c3bdaab6f58e2b8c",
     "id": "TheBloke/MythoMax-L2-13B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -18763,7 +18769,7 @@
   {
     "_id": "64f702cb61afe1d3356318fa",
     "id": "TheBloke/OpenBuddy-Llama2-70b-v10.1-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -18849,8 +18855,33 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:psmathur/orca_mini_v1_dataset",
+      "dataset:ehartford/dolphin",
+      "arxiv:2306.02707",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/orca_mini_v3_7B-GGUF"
+  },
+  {
+    "_id": "64f723f075f172b08db7b3af",
+    "id": "TheBloke/Huginn-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Huginn-13B-GGUF"
   }
 ]
