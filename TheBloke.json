@@ -9198,7 +9198,7 @@
   {
     "_id": "64b6c934d16e94539900ca73",
     "id": "TheBloke/Llama-2-13B-GGML",
-    "likes": 161,
+    "likes": 162,
     "private": false,
     "downloads": 456,
     "tags": [
@@ -9675,16 +9675,16 @@
   {
     "_id": "64b94bc7047fa3db9433cd56",
     "id": "TheBloke/llama-2-13B-German-Assistant-v2-GGML",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 20,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "de",
       "dataset:flozi00/conversations",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -9697,14 +9697,14 @@
     "private": false,
     "downloads": 314,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "de",
       "dataset:flozi00/conversations",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -10657,7 +10657,7 @@
   {
     "_id": "64c2d820a87b778a96dfce0b",
     "id": "TheBloke/StableBeluga2-70B-GGML",
-    "likes": 34,
+    "likes": 35,
     "private": false,
     "downloads": 19,
     "tags": [
@@ -11780,7 +11780,7 @@
   {
     "_id": "64cbe70fec160b67ca8dcb6d",
     "id": "TheBloke/llama2_70b_chat_uncensored-GGML",
-    "likes": 37,
+    "likes": 38,
     "private": false,
     "downloads": 78,
     "tags": [
@@ -14222,8 +14222,8 @@
     "private": false,
     "downloads": 4,
     "tags": [
-      "llama",
       "transformers",
+      "llama",
       "llama-2",
       "license:llama2",
       "text-generation-inference",
@@ -14238,10 +14238,10 @@
     "private": false,
     "downloads": 128,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "llama-2",
       "license:llama2",
       "text-generation-inference",
@@ -17484,7 +17484,7 @@
   {
     "_id": "64f19dce8262734ae967f62b",
     "id": "TheBloke/Yarn-Llama-2-13B-128K-GGML",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -19344,8 +19344,31 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "de",
+      "dataset:flozi00/conversations",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/llama-2-13B-German-Assistant-v2-GGUF"
+  },
+  {
+    "_id": "64f7767e886c925e536f47a7",
+    "id": "TheBloke/Llama2-22B-GPLATTY-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "llama-2",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama2-22B-GPLATTY-GGUF"
   }
 ]
