@@ -10451,6 +10451,7 @@
     "private": false,
     "downloads": 78,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "dataset:ehartford/dolphin",
@@ -10458,9 +10459,8 @@
       "dataset:togethercomputer/RedPajama-Data-1T",
       "dataset:atom-in-the-universe/fanfics-10k-50k",
       "arxiv:2306.02707",
-      "transformers",
       "sft",
-      "license:other",
+      "license:llama2",
       "text-generation",
       "has_space",
       "text-generation-inference",
@@ -10476,6 +10476,7 @@
     "private": false,
     "downloads": 490,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -10485,9 +10486,8 @@
       "dataset:togethercomputer/RedPajama-Data-1T",
       "dataset:atom-in-the-universe/fanfics-10k-50k",
       "arxiv:2306.02707",
-      "transformers",
       "sft",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -12424,7 +12424,7 @@
   {
     "_id": "64cf7bb2484264a3b3e2553e",
     "id": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GPTQ",
-    "likes": 36,
+    "likes": 37,
     "private": false,
     "downloads": 5539,
     "tags": [
@@ -14511,10 +14511,10 @@
     "private": false,
     "downloads": 31,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -14529,8 +14529,8 @@
     "private": false,
     "downloads": 5,
     "tags": [
-      "llama",
       "transformers",
+      "llama",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -15763,8 +15763,8 @@
     "private": false,
     "downloads": 11,
     "tags": [
-      "llama",
       "transformers",
+      "llama",
       "code llama",
       "license:llama2",
       "model-index",
@@ -16264,7 +16264,7 @@
   {
     "_id": "64eb8a892800cf7e9cb2541b",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GPTQ",
-    "likes": 33,
+    "likes": 34,
     "private": false,
     "downloads": 975,
     "tags": [
@@ -17460,7 +17460,7 @@
   {
     "_id": "64f19abf082efb37fb18168a",
     "id": "TheBloke/Yarn-Llama-2-7B-128K-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 15,
     "tags": [
@@ -17511,7 +17511,7 @@
   {
     "_id": "64f19dcebfff8aeae0a13899",
     "id": "TheBloke/Yarn-Llama-2-13B-128K-GGUF",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 35,
     "tags": [
@@ -19457,10 +19457,16 @@
   {
     "_id": "64f7855ea05ed443071357f2",
     "id": "TheBloke/WizardLM-1.0-Uncensored-CodeLlama-34B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/WizardLM-1.0-Uncensored-CodeLlama-34B-GGUF"
@@ -19537,8 +19543,47 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Synthia-7B-GGUF"
+  },
+  {
+    "_id": "64f78ca5fe57e7455a7e6033",
+    "id": "TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:ehartford/dolphin",
+      "dataset:shahules786/orca-chat",
+      "dataset:togethercomputer/RedPajama-Data-1T",
+      "dataset:atom-in-the-universe/fanfics-10k-50k",
+      "arxiv:2306.02707",
+      "sft",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF"
+  },
+  {
+    "_id": "64f78e065515d7dcce8242df",
+    "id": "TheBloke/Samantha-1.1-70B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Samantha-1.1-70B-GGUF"
   }
 ]
