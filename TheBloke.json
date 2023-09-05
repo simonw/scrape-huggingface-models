@@ -9246,7 +9246,7 @@
   {
     "_id": "64b6ce072edcb4a1aa820cbe",
     "id": "TheBloke/Llama-2-7b-Chat-GPTQ",
-    "likes": 112,
+    "likes": 114,
     "private": false,
     "downloads": 102964,
     "tags": [
@@ -9295,7 +9295,7 @@
   {
     "_id": "64b6d9d4bb1d8f2832c8be93",
     "id": "TheBloke/Llama-2-13B-chat-GPTQ",
-    "likes": 238,
+    "likes": 240,
     "private": false,
     "downloads": 86234,
     "tags": [
@@ -12456,7 +12456,7 @@
   {
     "_id": "64d09aa04e3372f9ebb67e22",
     "id": "TheBloke/Dolphin-Llama2-7B-GPTQ",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 1481,
     "tags": [
@@ -12751,9 +12751,9 @@
     "private": false,
     "downloads": 8,
     "tags": [
-      "llama",
       "transformers",
-      "license:other",
+      "llama",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -12766,12 +12766,12 @@
     "private": false,
     "downloads": 65,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -13307,15 +13307,15 @@
     "private": false,
     "downloads": 712,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:totally-not-an-llm/EverythingLM-data",
-      "transformers",
-      "license:other",
+      "license:llama2",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/EverythingLM-13B-16K-GPTQ"
@@ -13327,10 +13327,10 @@
     "private": false,
     "downloads": 8,
     "tags": [
+      "transformers",
       "llama",
       "dataset:totally-not-an-llm/EverythingLM-data",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -16288,7 +16288,7 @@
   {
     "_id": "64ed0427a79cf4a895eb53c9",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GPTQ",
-    "likes": 36,
+    "likes": 37,
     "private": false,
     "downloads": 1261,
     "tags": [
@@ -17370,6 +17370,7 @@
       "transformers",
       "llama",
       "dataset:pg19",
+      "arxiv:2309.00071",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -17386,6 +17387,7 @@
       "transformers",
       "llama",
       "dataset:pg19",
+      "arxiv:2309.00071",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -17405,6 +17407,7 @@
       "text-generation",
       "custom_code",
       "dataset:pg19",
+      "arxiv:2309.00071",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -17466,7 +17469,7 @@
   {
     "_id": "64f19dcebfff8aeae0a13899",
     "id": "TheBloke/Yarn-Llama-2-13B-128K-GGUF",
-    "likes": 18,
+    "likes": 19,
     "private": false,
     "downloads": 16,
     "tags": [
@@ -17500,7 +17503,7 @@
   {
     "_id": "64f1a2eedcdd48d279defc89",
     "id": "TheBloke/Yarn-Llama-2-13B-64K-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -18115,7 +18118,7 @@
   {
     "_id": "64f5fd954d3b1dd311d30e28",
     "id": "TheBloke/Llama-2-7B-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -18562,7 +18565,7 @@
   {
     "_id": "64f6cbbd0efa33bfe0b1f943",
     "id": "TheBloke/Nous-Hermes-Llama2-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -18580,5 +18583,47 @@
       "region:us"
     ],
     "modelId": "TheBloke/Redmond-Puffin-13B-GGUF"
+  },
+  {
+    "_id": "64f6d58313e91ef83ba46d73",
+    "id": "TheBloke/AlpacaCielo2-7B-8K-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/AlpacaCielo2-7B-8K-GGUF"
+  },
+  {
+    "_id": "64f6d722fb61db9a85cae857",
+    "id": "TheBloke/EverythingLM-13B-16K-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "dataset:totally-not-an-llm/EverythingLM-data",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/EverythingLM-13B-16K-GGUF"
+  },
+  {
+    "_id": "64f6da21fd11bbe1a8d2488c",
+    "id": "TheBloke/EverythingLM-13b-V2-16K-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/EverythingLM-13b-V2-16K-GGUF"
   }
 ]
