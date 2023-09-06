@@ -11781,7 +11781,7 @@
   {
     "_id": "64cbe70fec160b67ca8dcb6d",
     "id": "TheBloke/llama2_70b_chat_uncensored-GGML",
-    "likes": 38,
+    "likes": 39,
     "private": false,
     "downloads": 72,
     "tags": [
@@ -13242,13 +13242,14 @@
     "private": false,
     "downloads": 72,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "arxiv:2304.12244",
       "arxiv:2306.08568",
-      "transformers",
-      "license:other",
+      "arxiv:2308.09583",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -13262,11 +13263,12 @@
     "private": false,
     "downloads": 20,
     "tags": [
+      "transformers",
       "llama",
       "arxiv:2304.12244",
       "arxiv:2306.08568",
-      "transformers",
-      "license:other",
+      "arxiv:2308.09583",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -19657,6 +19659,159 @@
     "modelId": "TheBloke/Llama2-22B-Daydreamer-v3-GGUF"
   },
   {
+    "_id": "64f7a5295515d7dcce860396",
+    "id": "TheBloke/Pygmalion-2-13B-GPTQ",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:PygmalionAI/PIPPA",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:Norquinal/claude_multiround_chat_30k",
+      "dataset:jondurbin/airoboros-gpt4-1.4.1",
+      "dataset:databricks/databricks-dolly-15k",
+      "text generation",
+      "instruct",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Pygmalion-2-13B-GPTQ"
+  },
+  {
+    "_id": "64f7a529d04a890f5353ad13",
+    "id": "TheBloke/Pygmalion-2-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:PygmalionAI/PIPPA",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:Norquinal/claude_multiround_chat_30k",
+      "dataset:jondurbin/airoboros-gpt4-1.4.1",
+      "dataset:databricks/databricks-dolly-15k",
+      "text generation",
+      "instruct",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Pygmalion-2-13B-GGUF"
+  },
+  {
+    "_id": "64f7a55f2f7d3d945cc6a646",
+    "id": "TheBloke/Pygmalion-2-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:PygmalionAI/PIPPA",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:Norquinal/claude_multiround_chat_30k",
+      "dataset:jondurbin/airoboros-gpt4-1.4.1",
+      "dataset:databricks/databricks-dolly-15k",
+      "text generation",
+      "instruct",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Pygmalion-2-7B-GPTQ"
+  },
+  {
+    "_id": "64f7a55fe7584abc62396874",
+    "id": "TheBloke/Pygmalion-2-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:PygmalionAI/PIPPA",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:Norquinal/claude_multiround_chat_30k",
+      "dataset:jondurbin/airoboros-gpt4-1.4.1",
+      "dataset:databricks/databricks-dolly-15k",
+      "text generation",
+      "instruct",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Pygmalion-2-7B-GGUF"
+  },
+  {
+    "_id": "64f7a58c8a4c5c401d6b6328",
+    "id": "TheBloke/Mythalion-13B-GPTQ",
+    "likes": 3,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:PygmalionAI/PIPPA",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:Norquinal/claude_multiround_chat_30k",
+      "dataset:jondurbin/airoboros-gpt4-1.4.1",
+      "dataset:databricks/databricks-dolly-15k",
+      "text generation",
+      "instruct",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Mythalion-13B-GPTQ"
+  },
+  {
+    "_id": "64f7a58cbcf14b0c915ad636",
+    "id": "TheBloke/Mythalion-13B-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:PygmalionAI/PIPPA",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:Norquinal/claude_multiround_chat_30k",
+      "dataset:jondurbin/airoboros-gpt4-1.4.1",
+      "dataset:databricks/databricks-dolly-15k",
+      "text generation",
+      "instruct",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Mythalion-13B-GGUF"
+  },
+  {
     "_id": "64f7a62a6f5070e160b0c4f2",
     "id": "TheBloke/LlongOrca-7B-16K-GGUF",
     "likes": 0,
@@ -20004,8 +20159,26 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "arxiv:2304.12244",
+      "arxiv:2306.08568",
+      "arxiv:2308.09583",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/WizardMath-70B-V1.0-GGUF"
+  },
+  {
+    "_id": "64f85b9c8a234f114e24910e",
+    "id": "TheBloke/GodziLLa2-70B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/GodziLLa2-70B-GGUF"
   }
 ]
