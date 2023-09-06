@@ -1051,7 +1051,7 @@
   {
     "_id": "6464cfa91054f08ddba6201f",
     "id": "TheBloke/LLaMa-7B-GGML",
-    "likes": 50,
+    "likes": 51,
     "private": false,
     "downloads": 98,
     "tags": [
@@ -2328,7 +2328,7 @@
   {
     "_id": "647b291cb31514a4a6d5bf4a",
     "id": "TheBloke/WizardLM-Uncensored-Falcon-40B-GPTQ",
-    "likes": 49,
+    "likes": 50,
     "private": false,
     "downloads": 180,
     "tags": [
@@ -7271,7 +7271,7 @@
   {
     "_id": "64a3d3cf981767b1929b4719",
     "id": "TheBloke/orca_mini_v2_7B-GGML",
-    "likes": 33,
+    "likes": 34,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -12425,7 +12425,7 @@
   {
     "_id": "64cf7bb2484264a3b3e2553e",
     "id": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GPTQ",
-    "likes": 37,
+    "likes": 38,
     "private": false,
     "downloads": 5539,
     "tags": [
@@ -13005,16 +13005,19 @@
     "private": false,
     "downloads": 3961,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "dataset:garage-bAInd/Open-Platypus",
-      "transformers",
-      "license:other",
+      "dataset:Open-Orca/OpenOrca",
+      "arxiv:2308.07317",
+      "arxiv:2307.09288",
+      "license:llama2",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Platypus2-70B-Instruct-GPTQ"
@@ -13026,11 +13029,14 @@
     "private": false,
     "downloads": 21,
     "tags": [
+      "transformers",
       "llama",
       "en",
-      "dataset:garage-bAInd/OpenPlatypus",
-      "transformers",
-      "license:other",
+      "dataset:garage-bAInd/Open-Platypus",
+      "dataset:Open-Orca/OpenOrca",
+      "arxiv:2308.07317",
+      "arxiv:2307.09288",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -19753,6 +19759,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:garage-bAInd/Open-Platypus",
+      "dataset:Open-Orca/OpenOrca",
+      "arxiv:2308.07317",
+      "arxiv:2307.09288",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Platypus2-70B-Instruct-GGUF"
@@ -19802,5 +19817,16 @@
       "region:us"
     ],
     "modelId": "TheBloke/StableBeluga2-70B-GGUF"
+  },
+  {
+    "_id": "64f7cf200590f3db14851f22",
+    "id": "TheBloke/Upstage-Llama-2-70B-instruct-v2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Upstage-Llama-2-70B-instruct-v2-GGUF"
   }
 ]
