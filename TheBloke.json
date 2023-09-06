@@ -14587,12 +14587,12 @@
     "private": false,
     "downloads": 215,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "pl",
-      "transformers",
       "voicelab",
       "pytorch",
       "llama-2",
@@ -14612,10 +14612,10 @@
     "private": false,
     "downloads": 3,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "pl",
-      "transformers",
       "voicelab",
       "pytorch",
       "llama-2",
@@ -16001,9 +16001,9 @@
     "private": false,
     "downloads": 3,
     "tags": [
+      "transformers",
       "llama",
       "en",
-      "transformers",
       "license:llama2",
       "text-generation",
       "text-generation-inference",
@@ -19896,8 +19896,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "pl",
+      "voicelab",
+      "pytorch",
+      "llama-2",
+      "trurl",
+      "trurl-2",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Trurl-2-13B-GGUF"
   }
 ]
