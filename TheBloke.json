@@ -898,7 +898,7 @@
   {
     "_id": "645f47cf6990e1208522b824",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
-    "likes": 225,
+    "likes": 226,
     "private": false,
     "downloads": 8693,
     "tags": [
@@ -1082,7 +1082,7 @@
   {
     "_id": "6464cfbe4855e06b950549b2",
     "id": "TheBloke/LLaMa-30B-GGML",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -1097,7 +1097,7 @@
   {
     "_id": "6465d98b9c627c78f8629e5d",
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ",
-    "likes": 62,
+    "likes": 63,
     "private": false,
     "downloads": 351084,
     "tags": [
@@ -2188,7 +2188,7 @@
   {
     "_id": "647869649c1f42c1f4db256a",
     "id": "TheBloke/WizardLM-Uncensored-SuperCOT-StoryTelling-30B-GGML",
-    "likes": 42,
+    "likes": 43,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -9271,7 +9271,7 @@
   {
     "_id": "64b6d3eeab056b63ede8a758",
     "id": "TheBloke/Llama-2-13B-chat-GGML",
-    "likes": 564,
+    "likes": 565,
     "private": false,
     "downloads": 4896,
     "tags": [
@@ -11518,7 +11518,7 @@
   {
     "_id": "64cb5e611f8a37e3ed3e927a",
     "id": "TheBloke/vicuna-13B-v1.5-16K-GPTQ",
-    "likes": 23,
+    "likes": 24,
     "private": false,
     "downloads": 4006,
     "tags": [
@@ -11538,7 +11538,7 @@
   {
     "_id": "64cb5e618769a4019f982308",
     "id": "TheBloke/vicuna-13B-v1.5-16K-GGML",
-    "likes": 50,
+    "likes": 51,
     "private": false,
     "downloads": 175,
     "tags": [
@@ -14742,7 +14742,7 @@
   {
     "_id": "64e711f614a7448ab95c7fc9",
     "id": "TheBloke/Nous-Hermes-Llama2-70B-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -14828,10 +14828,10 @@
     "private": false,
     "downloads": 7,
     "tags": [
+      "transformers",
       "llama",
       "eng",
       "dataset:LDJnr/Puffin",
-      "transformers",
       "llama-2",
       "sft",
       "license:llama2",
@@ -14847,12 +14847,12 @@
     "private": false,
     "downloads": 105,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "eng",
       "dataset:LDJnr/Puffin",
-      "transformers",
       "llama-2",
       "sft",
       "license:llama2",
@@ -15325,7 +15325,7 @@
   {
     "_id": "64e7d523d9e7b4bb623c59b1",
     "id": "TheBloke/CodeLlama-13B-Instruct-GGML",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 20,
     "tags": [
@@ -15367,7 +15367,7 @@
   {
     "_id": "64e7d975efc277cdc01ba39d",
     "id": "TheBloke/CodeLlama-13B-Python-GGML",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 24,
     "tags": [
@@ -15430,7 +15430,7 @@
   {
     "_id": "64e7fafe0973fdd28a1990b4",
     "id": "TheBloke/CodeLlama-13B-Instruct-GPTQ",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 2242,
     "tags": [
@@ -16062,7 +16062,7 @@
   {
     "_id": "64ea2bf718d79efd53374093",
     "id": "TheBloke/Llama-2-70B-Orca-200k-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 25,
     "tags": [
@@ -16299,7 +16299,7 @@
   {
     "_id": "64eb8a8934d4f899662f368d",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GGML",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 30,
     "tags": [
@@ -16379,7 +16379,7 @@
   {
     "_id": "64edd2c360f6345da710a5d9",
     "id": "TheBloke/Lemur-70B-Chat-v1-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -19996,5 +19996,16 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Trurl-2-7B-GGUF"
+  },
+  {
+    "_id": "64f844d082673b2a07d4b49d",
+    "id": "TheBloke/WizardMath-70B-V1.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/WizardMath-70B-V1.0-GGUF"
   }
 ]
