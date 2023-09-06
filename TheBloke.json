@@ -9222,7 +9222,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 485,
+    "likes": 486,
     "private": false,
     "downloads": 7583,
     "tags": [
@@ -14762,11 +14762,11 @@
     "private": false,
     "downloads": 380,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "llama-2",
       "self-instruct",
       "distillation",
@@ -14785,9 +14785,9 @@
     "private": false,
     "downloads": 8,
     "tags": [
+      "transformers",
       "llama",
       "en",
-      "transformers",
       "llama-2",
       "self-instruct",
       "distillation",
@@ -15963,9 +15963,9 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "llama",
       "en",
-      "transformers",
       "license:llama2",
       "text-generation",
       "text-generation-inference",
@@ -15981,15 +15981,15 @@
     "private": false,
     "downloads": 662,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Genz-70b-GPTQ"
@@ -18174,7 +18174,7 @@
   {
     "_id": "64f5fd954d3b1dd311d30e28",
     "id": "TheBloke/Llama-2-7B-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -19912,5 +19912,27 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Trurl-2-13B-GGUF"
+  },
+  {
+    "_id": "64f7f68e766ff9f3d28f9b02",
+    "id": "TheBloke/orca_mini_v3_70B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/orca_mini_v3_70B-GGUF"
+  },
+  {
+    "_id": "64f7f96c83807928d2437e15",
+    "id": "TheBloke/Platypus2-70B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Platypus2-70B-GGUF"
   }
 ]
