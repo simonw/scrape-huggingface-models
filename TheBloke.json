@@ -9222,7 +9222,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 489,
+    "likes": 490,
     "private": false,
     "downloads": 7776,
     "tags": [
@@ -13301,7 +13301,7 @@
   {
     "_id": "64d7e1405e5f05485cfb67b5",
     "id": "TheBloke/OpenOrca-Platypus2-13B-GPTQ",
-    "likes": 34,
+    "likes": 35,
     "private": false,
     "downloads": 15152,
     "tags": [
@@ -15793,7 +15793,7 @@
   {
     "_id": "64e9e5008c523cced2035915",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GPTQ",
-    "likes": 36,
+    "likes": 38,
     "private": false,
     "downloads": 2381,
     "tags": [
@@ -15986,7 +15986,7 @@
   {
     "_id": "64ea296ce74f54587cc51cf5",
     "id": "TheBloke/Genz-70b-GPTQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 1239,
     "tags": [
@@ -17579,7 +17579,7 @@
   {
     "_id": "64f1c8325b8a6a5d39d71701",
     "id": "TheBloke/Yarn-Llama-2-13B-128K-GPTQ",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 266,
     "tags": [
@@ -17916,7 +17916,7 @@
   {
     "_id": "64f2fd9c6b9ab81c9710c3e2",
     "id": "TheBloke/Speechless-Llama2-Hermes-Orca-Platypus-WizardLM-13B-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 254,
     "tags": [
@@ -19977,7 +19977,7 @@
   {
     "_id": "64f7cc9b29a9aa4778c5997e",
     "id": "TheBloke/StableBeluga2-70B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20223,6 +20223,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Synthia-70B-v1.2-GGUF"
