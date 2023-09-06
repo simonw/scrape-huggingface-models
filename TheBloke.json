@@ -13086,7 +13086,7 @@
   {
     "_id": "64d5e2dc3ca2924d6e61148a",
     "id": "TheBloke/MythoMax-L2-13B-GGML",
-    "likes": 62,
+    "likes": 63,
     "private": false,
     "downloads": 1281,
     "tags": [
@@ -13646,13 +13646,13 @@
     "private": false,
     "downloads": 4,
     "tags": [
+      "transformers",
       "llama",
       "dataset:mlabonne/guanaco-llama2-1k",
       "arxiv:2009.03300",
       "arxiv:1803.05457",
       "arxiv:1905.07830",
       "arxiv:2109.07958",
-      "transformers",
       "merge",
       "mix",
       "cot",
@@ -13671,6 +13671,7 @@
     "private": false,
     "downloads": 167,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -13679,7 +13680,6 @@
       "arxiv:1803.05457",
       "arxiv:1905.07830",
       "arxiv:2109.07958",
-      "transformers",
       "merge",
       "mix",
       "cot",
@@ -15583,7 +15583,7 @@
   {
     "_id": "64e8cc1d2c506d28d497666e",
     "id": "TheBloke/Samantha-1.11-70B-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 28,
     "tags": [
@@ -15670,13 +15670,13 @@
     "private": false,
     "downloads": 1,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "dataset:rombodawg/LosslessMegaCodeTrainingV2_1m_Evol_Uncensored",
       "dataset:OpenAssistant/oasst1",
       "dataset:ehartford/dolphin",
       "dataset:argilla/databricks-dolly-15k-curated-multilingual",
-      "transformers",
       "sft",
       "license:llama2",
       "text-generation",
@@ -17237,7 +17237,7 @@
   {
     "_id": "64f0898fde8b758e17893577",
     "id": "TheBloke/Airoboros-L2-70B-2.1-Creative-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 39,
     "tags": [
@@ -18832,7 +18832,7 @@
   {
     "_id": "64f702cb7c77bf9c8ab540f5",
     "id": "TheBloke/OpenBuddy-Llama2-70b-v10.1-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -20177,8 +20177,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "dataset:mlabonne/guanaco-llama2-1k",
+      "arxiv:2009.03300",
+      "arxiv:1803.05457",
+      "arxiv:1905.07830",
+      "arxiv:2109.07958",
+      "merge",
+      "mix",
+      "cot",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/GodziLLa2-70B-GGUF"
   }
 ]
