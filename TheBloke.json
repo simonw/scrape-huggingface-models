@@ -9222,7 +9222,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 488,
+    "likes": 489,
     "private": false,
     "downloads": 7776,
     "tags": [
@@ -10039,8 +10039,7 @@
       "synthetic instruction",
       "license:other",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "modelId": "TheBloke/Nous-Hermes-Llama2-GGML"
   },
@@ -10658,7 +10657,7 @@
   {
     "_id": "64c2d820a87b778a96dfce0b",
     "id": "TheBloke/StableBeluga2-70B-GGML",
-    "likes": 35,
+    "likes": 36,
     "private": false,
     "downloads": 19,
     "tags": [
@@ -15675,7 +15674,7 @@
       "en",
       "dataset:rombodawg/LosslessMegaCodeTrainingV2_1m_Evol_Uncensored",
       "dataset:OpenAssistant/oasst1",
-      "dataset:ehartford/dolphin",
+      "dataset:shahules786/orca-best",
       "dataset:argilla/databricks-dolly-15k-curated-multilingual",
       "sft",
       "license:llama2",
@@ -15693,15 +15692,15 @@
     "private": false,
     "downloads": 137,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "dataset:rombodawg/LosslessMegaCodeTrainingV2_1m_Evol_Uncensored",
       "dataset:OpenAssistant/oasst1",
-      "dataset:ehartford/dolphin",
+      "dataset:shahules786/orca-best",
       "dataset:argilla/databricks-dolly-15k-curated-multilingual",
-      "transformers",
       "sft",
       "license:llama2",
       "text-generation-inference",
@@ -15717,13 +15716,13 @@
     "private": false,
     "downloads": 3,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "dataset:rombodawg/LosslessMegaCodeTrainingV2_1m_Evol_Uncensored",
       "dataset:OpenAssistant/oasst1",
-      "dataset:ehartford/dolphin",
+      "dataset:shahules786/orca-best",
       "dataset:argilla/databricks-dolly-15k-curated-multilingual",
-      "transformers",
       "sft",
       "license:llama2",
       "text-generation",
@@ -18620,8 +18619,7 @@
       "synthetic instruction",
       "license:llama2",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "modelId": "TheBloke/Nous-Hermes-Llama-2-7B-GGUF"
   },
@@ -18723,7 +18721,7 @@
   {
     "_id": "64f6eefbd63b958c5229df0d",
     "id": "TheBloke/ReMM-SLERP-L2-13B-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
