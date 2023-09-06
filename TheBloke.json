@@ -11780,16 +11780,18 @@
   {
     "_id": "64cbe70fec160b67ca8dcb6d",
     "id": "TheBloke/llama2_70b_chat_uncensored-GGML",
-    "likes": 39,
+    "likes": 40,
     "private": false,
     "downloads": 72,
     "tags": [
+      "transformers",
       "llama",
       "dataset:ehartford/wizard_vicuna_70k_unfiltered",
       "arxiv:2305.14314",
-      "transformers",
       "uncensored",
-      "license:other",
+      "wizard",
+      "vicuna",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -11809,7 +11811,9 @@
       "dataset:ehartford/wizard_vicuna_70k_unfiltered",
       "arxiv:2305.14314",
       "uncensored",
-      "license:other",
+      "wizard",
+      "vicuna",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -15313,7 +15317,7 @@
   {
     "_id": "64e7d2676e8d01b79993ca60",
     "id": "TheBloke/CodeLlama-7B-GGML",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 46,
     "tags": [
@@ -15396,7 +15400,7 @@
   {
     "_id": "64e7dd67ce67a2e40563580b",
     "id": "TheBloke/CodeLlama-13B-GGML",
-    "likes": 25,
+    "likes": 26,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -20303,7 +20307,7 @@
   {
     "_id": "64f8ad3c29a9aa4778e7fdab",
     "id": "TheBloke/Falcon-180B-Chat-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20373,6 +20377,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "dataset:ehartford/wizard_vicuna_70k_unfiltered",
+      "arxiv:2305.14314",
+      "uncensored",
+      "wizard",
+      "vicuna",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/llama2_70b_chat_uncensored-GGUF"
@@ -20387,5 +20400,16 @@
       "region:us"
     ],
     "modelId": "TheBloke/llama-2-70b-Guanaco-QLoRA-GGUF"
+  },
+  {
+    "_id": "64f8f0bec3c12b377cb9b6c4",
+    "id": "TheBloke/Kimiko-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Kimiko-7B-GGUF"
   }
 ]
