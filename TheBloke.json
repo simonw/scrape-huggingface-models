@@ -885,7 +885,7 @@
   {
     "_id": "645f47b66990e1208522b794",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GGML",
-    "likes": 182,
+    "likes": 183,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -1097,7 +1097,7 @@
   {
     "_id": "6465d98b9c627c78f8629e5d",
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ",
-    "likes": 63,
+    "likes": 64,
     "private": false,
     "downloads": 351084,
     "tags": [
@@ -9198,7 +9198,7 @@
   {
     "_id": "64b6c934d16e94539900ca73",
     "id": "TheBloke/Llama-2-13B-GGML",
-    "likes": 162,
+    "likes": 163,
     "private": false,
     "downloads": 471,
     "tags": [
@@ -9271,7 +9271,7 @@
   {
     "_id": "64b6d3eeab056b63ede8a758",
     "id": "TheBloke/Llama-2-13B-chat-GGML",
-    "likes": 567,
+    "likes": 568,
     "private": false,
     "downloads": 4896,
     "tags": [
@@ -9403,7 +9403,7 @@
   {
     "_id": "64b72402fdb702b3d85cc9d2",
     "id": "TheBloke/Llama-2-70B-GPTQ",
-    "likes": 56,
+    "likes": 57,
     "private": false,
     "downloads": 234425,
     "tags": [
@@ -9736,7 +9736,7 @@
   {
     "_id": "64b96060d6ced0fd74cda3e0",
     "id": "TheBloke/LLongMA-2-7B-GGML",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 47,
     "tags": [
@@ -10399,12 +10399,12 @@
     "private": false,
     "downloads": 10900,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-1.4.1",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -10736,14 +10736,14 @@
   {
     "_id": "64c2f76b13dc689c2f0043fd",
     "id": "TheBloke/airoboros-l2-70B-gpt4-1.4.1-GGML",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 4,
     "tags": [
+      "transformers",
       "llama",
       "dataset:jondurbin/airoboros-gpt4-1.4.1",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "has_space",
       "text-generation-inference",
       "region:us"
@@ -13000,7 +13000,7 @@
   {
     "_id": "64d5615179d99b87001502e4",
     "id": "TheBloke/Platypus2-70B-Instruct-GPTQ",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 4640,
     "tags": [
@@ -15000,7 +15000,7 @@
   {
     "_id": "64e78cdac3b2443fb30b9dda",
     "id": "TheBloke/CodeLlama-7B-Instruct-GGUF",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 126,
     "tags": [
@@ -15102,7 +15102,7 @@
   {
     "_id": "64e7bd2c0937566207336662",
     "id": "TheBloke/CodeLlama-7B-Instruct-GPTQ",
-    "likes": 28,
+    "likes": 29,
     "private": false,
     "downloads": 3812,
     "tags": [
@@ -15350,7 +15350,7 @@
   {
     "_id": "64e7d76dade5964ec6d2481f",
     "id": "TheBloke/CodeLlama-7B-Python-GPTQ",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 2014,
     "tags": [
@@ -15692,7 +15692,7 @@
   {
     "_id": "64e9331f4f3f7b0b848aa6ae",
     "id": "TheBloke/Llama2-70B-OASST-SFT-v10-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 137,
     "tags": [
@@ -17225,7 +17225,7 @@
   {
     "_id": "64f08973baf704ad6a4e17c6",
     "id": "TheBloke/Airoboros-L2-70B-2.1-Creative-GGML",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -18908,7 +18908,7 @@
   {
     "_id": "64f72243d17cc5f6c35ebf8f",
     "id": "TheBloke/orca_mini_v3_7B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -18976,7 +18976,7 @@
   {
     "_id": "64f72fd0ceb68df8ee3a607c",
     "id": "TheBloke/orca_mini_v3_13B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -19480,7 +19480,7 @@
   {
     "_id": "64f7855ea05ed443071357f2",
     "id": "TheBloke/WizardLM-1.0-Uncensored-CodeLlama-34B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20249,8 +20249,35 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "dataset:jondurbin/airoboros-gpt4-1.4.1",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/airoboros-l2-70B-gpt4-1.4.1-GGUF"
+  },
+  {
+    "_id": "64f8ad3c29a9aa4778e7fdab",
+    "id": "TheBloke/Falcon-180B-Chat-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Falcon-180B-Chat-GPTQ"
+  },
+  {
+    "_id": "64f8af1733fd3f0fcb793c92",
+    "id": "TheBloke/Airoboros-L2-70B-GPT4-m2.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-70B-GPT4-m2.0-GGUF"
   }
 ]
