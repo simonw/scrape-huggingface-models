@@ -1051,7 +1051,7 @@
   {
     "_id": "6464cfa91054f08ddba6201f",
     "id": "TheBloke/LLaMa-7B-GGML",
-    "likes": 49,
+    "likes": 50,
     "private": false,
     "downloads": 98,
     "tags": [
@@ -1239,7 +1239,7 @@
   {
     "_id": "64668c58119ad94383d57cd6",
     "id": "TheBloke/Manticore-13B-GPTQ",
-    "likes": 35,
+    "likes": 36,
     "private": false,
     "downloads": 53,
     "tags": [
@@ -5711,7 +5711,7 @@
   {
     "_id": "649a29dcf57df33a56a54dd8",
     "id": "TheBloke/Manticore-13B-Chat-Pyg-SuperHOT-8K-GPTQ",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 28,
     "tags": [
@@ -14159,6 +14159,7 @@
     "private": false,
     "downloads": 9323,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -14166,7 +14167,6 @@
       "en",
       "dataset:togethercomputer/llama-instruct",
       "arxiv:2307.03172",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -14181,11 +14181,11 @@
     "private": false,
     "downloads": 102,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "dataset:togethercomputer/llama-instruct",
       "arxiv:2307.03172",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -16311,7 +16311,7 @@
   {
     "_id": "64eb8c012beaa8c4106ee91f",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GGUF",
-    "likes": 18,
+    "likes": 19,
     "private": false,
     "downloads": 53,
     "tags": [
@@ -16352,7 +16352,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 30,
+    "likes": 31,
     "private": false,
     "downloads": 15,
     "tags": [
@@ -19481,8 +19481,13 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/WizardLM-1.0-Uncensored-CodeLlama-34B-GPTQ"
   },
   {
@@ -19726,8 +19731,26 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:togethercomputer/llama-instruct",
+      "arxiv:2307.03172",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Llama-2-7B-32K-Instruct-GGUF"
+  },
+  {
+    "_id": "64f7bd67bcf14b0c915de50a",
+    "id": "TheBloke/Platypus2-70B-Instruct-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Platypus2-70B-Instruct-GGUF"
   }
 ]
