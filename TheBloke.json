@@ -11977,10 +11977,10 @@
     "private": false,
     "downloads": 5,
     "tags": [
+      "transformers",
       "llama",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -11993,12 +11993,12 @@
     "private": false,
     "downloads": 61,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -20261,7 +20261,7 @@
   {
     "_id": "64f8ad3c29a9aa4778e7fdab",
     "id": "TheBloke/Falcon-180B-Chat-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20276,8 +20276,24 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "dataset:jondurbin/airoboros-gpt4-m2.0",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Airoboros-L2-70B-GPT4-m2.0-GGUF"
+  },
+  {
+    "_id": "64f8c21ad493d8b0d2be3556",
+    "id": "TheBloke/WizardLM-70B-V1.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/WizardLM-70B-V1.0-GGUF"
   }
 ]
