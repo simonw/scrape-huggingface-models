@@ -13126,11 +13126,13 @@
     "private": false,
     "downloads": 14,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "dataset:garage-bAInd/Open-Platypus",
-      "transformers",
-      "license:other",
+      "arxiv:2308.07317",
+      "arxiv:2307.09288",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -13143,13 +13145,15 @@
     "private": false,
     "downloads": 49,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "dataset:garage-bAInd/Open-Platypus",
-      "transformers",
-      "license:other",
+      "arxiv:2308.07317",
+      "arxiv:2307.09288",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -18153,7 +18157,7 @@
   {
     "_id": "64f3050ceb5f2982081cb828",
     "id": "TheBloke/OpenBuddy-Llama2-13B-v11.1-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 15,
     "tags": [
@@ -20200,8 +20204,38 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:garage-bAInd/Open-Platypus",
+      "arxiv:2308.07317",
+      "arxiv:2307.09288",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Camel-Platypus2-70B-GGUF"
+  },
+  {
+    "_id": "64f88e4f67adddcb40bf4dec",
+    "id": "TheBloke/Synthia-70B-v1.2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Synthia-70B-v1.2-GGUF"
+  },
+  {
+    "_id": "64f88e4fb0f25f3fe3b0d66e",
+    "id": "TheBloke/Synthia-70B-v1.2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Synthia-70B-v1.2-GPTQ"
   }
 ]
