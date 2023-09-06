@@ -11399,10 +11399,10 @@
     "private": false,
     "downloads": 101,
     "tags": [
+      "transformers",
       "llama",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -11415,12 +11415,12 @@
     "private": false,
     "downloads": 15783,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -11761,7 +11761,7 @@
   {
     "_id": "64cbcb9d8256a8efea57b236",
     "id": "TheBloke/Chronos-Hermes-13B-v2-GGML",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 339,
     "tags": [
@@ -14809,10 +14809,10 @@
     "private": false,
     "downloads": 1,
     "tags": [
+      "transformers",
       "llama",
       "eng",
       "dataset:LDJnr/Puffin",
-      "transformers",
       "llama-2",
       "sft",
       "license:llama2",
@@ -19476,7 +19476,7 @@
   {
     "_id": "64f7855ea05ed443071357f2",
     "id": "TheBloke/WizardLM-1.0-Uncensored-CodeLlama-34B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -19954,6 +19954,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "dataset:jondurbin/airoboros-gpt4-m2.0",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/airoboros-l2-70B-GPT4-2.0-GGUF"
