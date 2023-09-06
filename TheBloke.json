@@ -1286,7 +1286,7 @@
   {
     "_id": "646b65b45d68f5c15a207562",
     "id": "TheBloke/WizardLM-30B-Uncensored-GGML",
-    "likes": 108,
+    "likes": 109,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -10686,10 +10686,10 @@
     "private": false,
     "downloads": 9,
     "tags": [
+      "transformers",
       "llama",
       "arxiv:1910.09700",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -10702,12 +10702,12 @@
     "private": false,
     "downloads": 213,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "arxiv:1910.09700",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -11780,7 +11780,7 @@
   {
     "_id": "64cbe70fec160b67ca8dcb6d",
     "id": "TheBloke/llama2_70b_chat_uncensored-GGML",
-    "likes": 40,
+    "likes": 41,
     "private": false,
     "downloads": 72,
     "tags": [
@@ -14817,7 +14817,7 @@
   {
     "_id": "64e740c186fc685a30b0cb25",
     "id": "TheBloke/Nous-Puffin-70B-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -15277,7 +15277,7 @@
   {
     "_id": "64e7cffb336924eaf1c55c40",
     "id": "TheBloke/CodeLlama-7B-Python-GGML",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 82,
     "tags": [
@@ -15337,7 +15337,7 @@
   {
     "_id": "64e7d523d9e7b4bb623c59b1",
     "id": "TheBloke/CodeLlama-13B-Instruct-GGML",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 20,
     "tags": [
@@ -15379,7 +15379,7 @@
   {
     "_id": "64e7d975efc277cdc01ba39d",
     "id": "TheBloke/CodeLlama-13B-Python-GGML",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 24,
     "tags": [
@@ -18282,7 +18282,7 @@
   {
     "_id": "64f61985e916843d8ebc5db8",
     "id": "TheBloke/Llama-2-70B-chat-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 17,
     "tags": [
@@ -20408,6 +20408,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "arxiv:1910.09700",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Kimiko-7B-GGUF"
