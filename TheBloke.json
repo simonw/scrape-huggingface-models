@@ -9520,9 +9520,9 @@
     "private": false,
     "downloads": 166,
     "tags": [
-      "llama",
       "transformers",
-      "license:other",
+      "llama",
+      "license:llama2",
       "has_space",
       "text-generation-inference",
       "region:us"
@@ -9536,11 +9536,11 @@
     "private": false,
     "downloads": 1239,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -10074,6 +10074,7 @@
     "private": false,
     "downloads": 1204,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -10084,8 +10085,7 @@
       "dataset:conceptofmind/niv2_submix_original",
       "arxiv:2307.09288",
       "arxiv:2306.02707",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -10214,11 +10214,11 @@
     "private": false,
     "downloads": 400,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -10232,12 +10232,12 @@
     "private": false,
     "downloads": 57,
     "tags": [
-      "llama",
       "transformers",
-      "license:other",
+      "llama",
+      "license:llama2",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "modelId": "TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GGML"
   },
@@ -10662,6 +10662,7 @@
     "private": false,
     "downloads": 19,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "dataset:conceptofmind/cot_submix_original",
@@ -10670,8 +10671,7 @@
       "dataset:conceptofmind/niv2_submix_original",
       "arxiv:2307.09288",
       "arxiv:2306.02707",
-      "transformers",
-      "license:other",
+      "license:llama2",
       "text-generation",
       "has_space",
       "text-generation-inference",
@@ -10995,16 +10995,16 @@
     "private": false,
     "downloads": 2965,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "upstage",
       "llama-2",
       "instruct",
       "instruction",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -11018,14 +11018,14 @@
     "private": false,
     "downloads": 25,
     "tags": [
+      "transformers",
       "llama",
       "en",
-      "transformers",
       "upstage",
       "llama-2",
       "instruct",
       "instruction",
-      "license:other",
+      "license:llama2",
       "text-generation",
       "has_space",
       "text-generation-inference",
@@ -14161,7 +14161,7 @@
   {
     "_id": "64e35618a88a63300b9447db",
     "id": "TheBloke/Llama-2-7B-32K-Instruct-GPTQ",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 9323,
     "tags": [
@@ -14742,9 +14742,9 @@
     "private": false,
     "downloads": 5,
     "tags": [
+      "transformers",
       "llama",
       "en",
-      "transformers",
       "llama-2",
       "self-instruct",
       "distillation",
@@ -17941,7 +17941,9 @@
       "llama",
       "text-generation",
       "en",
+      "dataset:Open-Orca/OpenOrca",
       "dataset:garage-bAInd/Open-Platypus",
+      "dataset:WizardLM/WizardLM_evol_instruct_V2_196k",
       "arxiv:2307.09288",
       "facebook",
       "meta",
@@ -17964,7 +17966,9 @@
       "transformers",
       "llama",
       "en",
+      "dataset:Open-Orca/OpenOrca",
       "dataset:garage-bAInd/Open-Platypus",
+      "dataset:WizardLM/WizardLM_evol_instruct_V2_196k",
       "arxiv:2307.09288",
       "facebook",
       "meta",
@@ -17988,7 +17992,9 @@
       "transformers",
       "llama",
       "en",
+      "dataset:Open-Orca/OpenOrca",
       "dataset:garage-bAInd/Open-Platypus",
+      "dataset:WizardLM/WizardLM_evol_instruct_V2_196k",
       "arxiv:2307.09288",
       "facebook",
       "meta",
@@ -19814,8 +19820,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:conceptofmind/cot_submix_original",
+      "dataset:conceptofmind/flan2021_submix_original",
+      "dataset:conceptofmind/t0_submix_original",
+      "dataset:conceptofmind/niv2_submix_original",
+      "arxiv:2307.09288",
+      "arxiv:2306.02707",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/StableBeluga2-70B-GGUF"
   },
   {
@@ -19825,8 +19844,60 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "upstage",
+      "llama-2",
+      "instruct",
+      "instruction",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Upstage-Llama-2-70B-instruct-v2-GGUF"
+  },
+  {
+    "_id": "64f7e02a35a0a9fc542e1850",
+    "id": "TheBloke/Luna-AI-Llama2-Uncensored-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Luna-AI-Llama2-Uncensored-GGUF"
+  },
+  {
+    "_id": "64f7e1e52003abb61b01850e",
+    "id": "TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GGUF"
+  },
+  {
+    "_id": "64f7e33ef6b80fae5a97a748",
+    "id": "TheBloke/Trurl-2-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Trurl-2-13B-GGUF"
   }
 ]
