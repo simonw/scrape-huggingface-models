@@ -11802,12 +11802,12 @@
     "private": false,
     "downloads": 2809,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:ehartford/wizard_vicuna_70k_unfiltered",
       "arxiv:2305.14314",
-      "transformers",
       "uncensored",
       "license:other",
       "text-generation-inference",
@@ -19665,7 +19665,7 @@
   {
     "_id": "64f7a5295515d7dcce860396",
     "id": "TheBloke/Pygmalion-2-13B-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -19691,7 +19691,7 @@
   {
     "_id": "64f7a529d04a890f5353ad13",
     "id": "TheBloke/Pygmalion-2-13B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -19767,7 +19767,7 @@
   {
     "_id": "64f7a58c8a4c5c401d6b6328",
     "id": "TheBloke/Mythalion-13B-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -19793,7 +19793,7 @@
   {
     "_id": "64f7a58cbcf14b0c915ad636",
     "id": "TheBloke/Mythalion-13B-GGUF",
-    "likes": 4,
+    "likes": 6,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20260,7 +20260,7 @@
   {
     "_id": "64f88e4f67adddcb40bf4dec",
     "id": "TheBloke/Synthia-70B-v1.2-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20302,7 +20302,7 @@
   {
     "_id": "64f8ad3c29a9aa4778e7fdab",
     "id": "TheBloke/Falcon-180B-Chat-GPTQ",
-    "likes": 5,
+    "likes": 7,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20343,5 +20343,27 @@
       "region:us"
     ],
     "modelId": "TheBloke/WizardLM-70B-V1.0-GGUF"
+  },
+  {
+    "_id": "64f8d55ea9b6fed18c84cce3",
+    "id": "TheBloke/Llama-2-70B-OASST-1-200-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-70B-OASST-1-200-GGUF"
+  },
+  {
+    "_id": "64f8db3bb0f25f3fe3bdf596",
+    "id": "TheBloke/llama2_70b_chat_uncensored-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/llama2_70b_chat_uncensored-GGUF"
   }
 ]
