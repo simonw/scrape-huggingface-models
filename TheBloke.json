@@ -9222,7 +9222,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 486,
+    "likes": 487,
     "private": false,
     "downloads": 7583,
     "tags": [
@@ -13049,13 +13049,15 @@
     "private": false,
     "downloads": 135,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "dataset:garage-bAInd/Open-Platypus",
-      "transformers",
-      "license:other",
+      "arxiv:2308.07317",
+      "arxiv:2307.09288",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -13069,11 +13071,13 @@
     "private": false,
     "downloads": 13,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "dataset:garage-bAInd/Open-Platypus",
-      "transformers",
-      "license:other",
+      "arxiv:2308.07317",
+      "arxiv:2307.09288",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -16138,9 +16142,9 @@
     "private": false,
     "downloads": 11,
     "tags": [
+      "transformers",
       "llama",
       "dataset:jondurbin/airoboros-2.1",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -19743,7 +19747,7 @@
   {
     "_id": "64f7bac9fbbfe40336117526",
     "id": "TheBloke/Llama-2-7B-32K-Instruct-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -19931,6 +19935,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:garage-bAInd/Open-Platypus",
+      "arxiv:2308.07317",
+      "arxiv:2307.09288",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Platypus2-70B-GGUF"
