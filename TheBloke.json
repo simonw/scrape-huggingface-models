@@ -1097,7 +1097,7 @@
   {
     "_id": "6465d98b9c627c78f8629e5d",
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ",
-    "likes": 64,
+    "likes": 65,
     "private": false,
     "downloads": 367269,
     "tags": [
@@ -10575,7 +10575,7 @@
   {
     "_id": "64c2ab7d480aa1c945020b49",
     "id": "TheBloke/Kimiko-13B-GPTQ",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 113,
     "tags": [
@@ -11780,7 +11780,7 @@
   {
     "_id": "64cbe70fec160b67ca8dcb6d",
     "id": "TheBloke/llama2_70b_chat_uncensored-GGML",
-    "likes": 42,
+    "likes": 43,
     "private": false,
     "downloads": 74,
     "tags": [
@@ -14177,7 +14177,7 @@
   {
     "_id": "64e35618a88a63300b9447db",
     "id": "TheBloke/Llama-2-7B-32K-Instruct-GPTQ",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 9396,
     "tags": [
@@ -15400,7 +15400,7 @@
   {
     "_id": "64e7dd67ce67a2e40563580b",
     "id": "TheBloke/CodeLlama-13B-GGML",
-    "likes": 26,
+    "likes": 27,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -15838,6 +15838,7 @@
       "code",
       "license:llama2",
       "model-index",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -16074,7 +16075,7 @@
   {
     "_id": "64ea2bf718d79efd53374093",
     "id": "TheBloke/Llama-2-70B-Orca-200k-GGUF",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 25,
     "tags": [
@@ -16715,7 +16716,7 @@
   {
     "_id": "64ee69bb25d2bb76c07bfe52",
     "id": "TheBloke/Airoboros-L2-7B-2.1-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 54,
     "tags": [
@@ -18629,6 +18630,7 @@
       "distillation",
       "synthetic instruction",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -19921,6 +19923,7 @@
       "dataset:togethercomputer/llama-instruct",
       "arxiv:2307.03172",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -20314,7 +20317,7 @@
   {
     "_id": "64f8ad3c29a9aa4778e7fdab",
     "id": "TheBloke/Falcon-180B-Chat-GPTQ",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 33,
     "tags": [
@@ -20452,7 +20455,7 @@
   {
     "_id": "64f97e6a159055330801aec5",
     "id": "TheBloke/Falcon-180B-Chat-GGUF",
-    "likes": 7,
+    "likes": 9,
     "private": false,
     "downloads": 0,
     "tags": [
