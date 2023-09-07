@@ -6,9 +6,9 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "dataset:RyokoAI/ShareGPT52K",
       "dataset:Hello-SimpleAI/HC3",
-      "transformers",
       "koala",
       "ShareGPT",
       "llama",
@@ -39,10 +39,10 @@
     "private": false,
     "downloads": 42,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -57,12 +57,12 @@
     "private": false,
     "downloads": 797,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "dataset:RyokoAI/ShareGPT52K",
       "dataset:Hello-SimpleAI/HC3",
-      "transformers",
       "koala",
       "ShareGPT",
       "gptq",
@@ -81,12 +81,12 @@
     "private": false,
     "downloads": 1932,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "dataset:RyokoAI/ShareGPT52K",
       "dataset:Hello-SimpleAI/HC3",
-      "transformers",
       "koala",
       "ShareGPT",
       "gptq",
@@ -105,11 +105,11 @@
     "private": false,
     "downloads": 17,
     "tags": [
+      "transformers",
       "pytorch",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -222,11 +222,11 @@
     "private": false,
     "downloads": 752,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "alpaca",
       "chat",
       "gpt4",
@@ -289,11 +289,11 @@
     "private": false,
     "downloads": 751,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "alpaca",
       "chat",
       "gpt4",
@@ -337,10 +337,10 @@
     "private": false,
     "downloads": 716,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -409,10 +409,10 @@
     "private": false,
     "downloads": 3220,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -441,10 +441,10 @@
     "private": false,
     "downloads": 1751,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -460,6 +460,7 @@
     "private": false,
     "downloads": 2252,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
@@ -468,7 +469,6 @@
       "dataset:nomic-ai/gpt4all_prompt_generations",
       "dataset:tatsu-lab/alpaca",
       "arxiv:2302.13971",
-      "transformers",
       "causal-lm",
       "license:cc-by-nc-sa-4.0",
       "has_space",
@@ -499,6 +499,7 @@
     "private": false,
     "downloads": 494,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -507,7 +508,6 @@
       "dataset:nomic-ai/gpt4all_prompt_generations",
       "dataset:tatsu-lab/alpaca",
       "arxiv:2302.13971",
-      "transformers",
       "causal-lm",
       "license:cc-by-nc-sa-4.0",
       "has_space",
@@ -524,11 +524,11 @@
     "private": false,
     "downloads": 898,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "arxiv:2304.07327",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -557,11 +557,11 @@
     "private": false,
     "downloads": 44,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "arxiv:2304.07327",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -590,15 +590,15 @@
     "private": false,
     "downloads": 1299,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "causal-lm",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/wizard-vicuna-13B-GPTQ"
@@ -610,11 +610,11 @@
     "private": false,
     "downloads": 956,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "causal-lm",
       "has_space",
       "text-generation-inference",
@@ -643,11 +643,11 @@
     "private": false,
     "downloads": 7838,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:ehartford/WizardLM_alpaca_evol_instruct_70k_unfiltered",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -663,12 +663,12 @@
     "private": false,
     "downloads": 120,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "dataset:nomic-ai/gpt4all-j-prompt-generations",
-      "transformers",
       "license:gpl",
       "text-generation-inference",
       "region:us"
@@ -695,10 +695,10 @@
     "private": false,
     "downloads": 270,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -737,10 +737,10 @@
     "private": false,
     "downloads": 713,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -756,12 +756,12 @@
     "private": false,
     "downloads": 23,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "dataset:h2oai/h2ogpt-oig-oasst1-instruct-cleaned-v2",
-      "transformers",
       "gpt",
       "llm",
       "large language model",
@@ -792,10 +792,10 @@
     "private": false,
     "downloads": 2,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -810,20 +810,20 @@
     "private": false,
     "downloads": 741,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "en",
       "dataset:h2oai/h2ogpt-oig-oasst1-instruct-cleaned-v2",
-      "transformers",
       "gpt",
       "llm",
       "large language model",
       "LLaMa",
       "license:other",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/h2ogpt-oasst1-512-30B-HF"
@@ -847,11 +847,11 @@
     "private": false,
     "downloads": 757,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "dataset:c-s-ale/alpaca-gpt4-data",
-      "transformers",
       "license:other",
       "text2text-generation",
       "has_space",
@@ -868,11 +868,11 @@
     "private": false,
     "downloads": 20766,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:c-s-ale/alpaca-gpt4-data",
-      "transformers",
       "license:other",
       "text2text-generation",
       "has_space",
@@ -902,17 +902,17 @@
     "private": false,
     "downloads": 8844,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "dataset:ehartford/wizard_vicuna_70k_unfiltered",
-      "transformers",
       "uncensored",
       "license:other",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ"
@@ -924,12 +924,12 @@
     "private": false,
     "downloads": 3621,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "en",
       "dataset:ehartford/wizard_vicuna_70k_unfiltered",
-      "transformers",
       "uncensored",
       "license:other",
       "has_space",
@@ -946,11 +946,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "en",
       "dataset:anon8231489123/ShareGPT_Vicuna_unfiltered",
       "dataset:ehartford/wizard_vicuna_70k_unfiltered",
       "dataset:ehartford/WizardLM_alpaca_evol_instruct_70k_unfiltered",
-      "transformers",
       "license:other",
       "text-generation",
       "has_space",
@@ -966,6 +966,7 @@
     "private": false,
     "downloads": 1037,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -973,7 +974,6 @@
       "dataset:anon8231489123/ShareGPT_Vicuna_unfiltered",
       "dataset:ehartford/wizard_vicuna_70k_unfiltered",
       "dataset:ehartford/WizardLM_alpaca_evol_instruct_70k_unfiltered",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -1014,12 +1014,12 @@
     "private": false,
     "downloads": 22,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:gozfarb/ShareGPT_Vicuna_unfiltered",
       "dataset:Aeala/ShareGPT_Vicuna_unfiltered",
-      "transformers",
       "uncensored",
       "license:other",
       "text-generation-inference",
@@ -1035,15 +1035,15 @@
     "private": false,
     "downloads": 726,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "dataset:gozfarb/ShareGPT_Vicuna_unfiltered",
-      "transformers",
       "license:other",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/VicUnlocked-30B-LoRA-HF"
@@ -1055,8 +1055,8 @@
     "private": false,
     "downloads": 87,
     "tags": [
-      "llama",
       "transformers",
+      "llama",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -1071,8 +1071,8 @@
     "private": false,
     "downloads": 30,
     "tags": [
-      "llama",
       "transformers",
+      "llama",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -1086,8 +1086,8 @@
     "private": false,
     "downloads": 3,
     "tags": [
-      "llama",
       "transformers",
+      "llama",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -1101,12 +1101,12 @@
     "private": false,
     "downloads": 367269,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "dataset:ehartford/wizard_vicuna_70k_unfiltered",
-      "transformers",
       "uncensored",
       "license:other",
       "has_space",
@@ -1136,12 +1136,12 @@
     "private": false,
     "downloads": 1524,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "en",
       "dataset:ehartford/wizard_vicuna_70k_unfiltered",
-      "transformers",
       "uncensored",
       "license:other",
       "has_space",
@@ -1158,6 +1158,7 @@
     "private": false,
     "downloads": 19,
     "tags": [
+      "transformers",
       "mpt",
       "dataset:mc4",
       "dataset:c4",
@@ -1170,7 +1171,6 @@
       "arxiv:2010.04245",
       "arxiv:1909.08053",
       "arxiv:2302.06675",
-      "transformers",
       "Composer",
       "MosaicML",
       "llm-foundry",
@@ -1187,12 +1187,12 @@
     "private": false,
     "downloads": 34,
     "tags": [
+      "transformers",
       "mpt",
       "dataset:mosaicml/dolly_hhrlhf",
       "arxiv:2205.14135",
       "arxiv:2108.12409",
       "arxiv:2010.04245",
-      "transformers",
       "Composer",
       "MosaicML",
       "llm-foundry",
@@ -1209,12 +1209,12 @@
     "private": false,
     "downloads": 23,
     "tags": [
+      "transformers",
       "mpt",
       "dataset:the_pile_books3",
       "arxiv:2108.12409",
       "arxiv:2205.14135",
       "arxiv:2302.06675",
-      "transformers",
       "Composer",
       "MosaicML",
       "llm-foundry",
@@ -1243,6 +1243,7 @@
     "private": false,
     "downloads": 48,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -1257,7 +1258,6 @@
       "dataset:hellaswag",
       "dataset:tasksource/mmlu",
       "dataset:openai/summarize_from_feedback",
-      "transformers",
       "has_space",
       "text-generation-inference",
       "region:us"
@@ -1272,9 +1272,9 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "en",
       "arxiv:2303.14070",
-      "transformers",
       "medical",
       "license:cc",
       "text-generation",
@@ -1302,11 +1302,11 @@
     "private": false,
     "downloads": 6502,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:ehartford/WizardLM_alpaca_evol_instruct_70k_unfiltered",
-      "transformers",
       "uncensored",
       "license:other",
       "has_space",
@@ -1323,10 +1323,10 @@
     "private": false,
     "downloads": 17,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -1341,10 +1341,10 @@
     "private": false,
     "downloads": 739,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -1360,6 +1360,7 @@
     "private": false,
     "downloads": 158,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -1376,7 +1377,6 @@
       "dataset:riddle_sense",
       "dataset:gsm8k",
       "dataset:ewof/code-alpaca-instruct-unfiltered",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -1429,15 +1429,15 @@
     "private": false,
     "downloads": 550,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "arxiv:2304.01196",
-      "transformers",
       "license:other",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Project-Baize-v2-7B-GPTQ"
@@ -1449,15 +1449,15 @@
     "private": false,
     "downloads": 728,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "arxiv:2304.01196",
-      "transformers",
       "license:other",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Project-Baize-v2-13B-GPTQ"
@@ -1499,13 +1499,13 @@
     "private": false,
     "downloads": 56,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "arxiv:2305.14314",
       "arxiv:2302.13971",
       "arxiv:2304.07327",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -1520,14 +1520,14 @@
     "private": false,
     "downloads": 897,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/guanaco-33B-GPTQ"
@@ -1539,13 +1539,13 @@
     "private": false,
     "downloads": 696,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "arxiv:2305.14314",
       "arxiv:2302.13971",
       "arxiv:2304.07327",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -1576,10 +1576,10 @@
     "private": false,
     "downloads": 765,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -1595,10 +1595,10 @@
     "private": false,
     "downloads": 763,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -1614,8 +1614,8 @@
     "private": false,
     "downloads": 11,
     "tags": [
-      "llama",
       "transformers",
+      "llama",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -1630,13 +1630,13 @@
     "private": false,
     "downloads": 1401,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "arxiv:2305.14314",
       "arxiv:2302.13971",
       "arxiv:2304.07327",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -1652,10 +1652,10 @@
     "private": false,
     "downloads": 2320,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -1683,12 +1683,12 @@
     "private": false,
     "downloads": 33,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "fr",
       "dataset:tatsu-lab/alpaca",
-      "transformers",
       "alpaca",
       "LLM",
       "license:other",
@@ -1705,12 +1705,12 @@
     "private": false,
     "downloads": 20,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "fr",
       "dataset:tatsu-lab/alpaca",
-      "transformers",
       "alpaca",
       "LLM",
       "license:other",
@@ -1727,6 +1727,7 @@
     "private": false,
     "downloads": 9340,
     "tags": [
+      "transformers",
       "safetensors",
       "RefinedWebModel",
       "text-generation",
@@ -1737,7 +1738,6 @@
       "arxiv:1911.02150",
       "arxiv:2005.14165",
       "arxiv:2104.09864",
-      "transformers",
       "license:apache-2.0",
       "text-generation-inference",
       "region:us"
@@ -1752,6 +1752,7 @@
     "private": false,
     "downloads": 10015,
     "tags": [
+      "transformers",
       "safetensors",
       "RefinedWeb",
       "text-generation",
@@ -1762,7 +1763,6 @@
       "arxiv:1911.02150",
       "arxiv:2005.14165",
       "arxiv:2104.09864",
-      "transformers",
       "license:apache-2.0",
       "text-generation-inference",
       "region:us"
@@ -1790,11 +1790,11 @@
     "private": false,
     "downloads": 130,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "arxiv:2304.12244",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -1809,11 +1809,11 @@
     "private": false,
     "downloads": 1166,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "arxiv:2304.12244",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -1843,11 +1843,11 @@
     "private": false,
     "downloads": 3,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "arxiv:2305.15334",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -1862,13 +1862,13 @@
     "private": false,
     "downloads": 129,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "dataset:gorilla-llm/APIBench",
       "arxiv:2305.15334",
-      "transformers",
       "api",
       "license:other",
       "text-generation-inference",
@@ -1908,11 +1908,11 @@
     "private": false,
     "downloads": 29,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -1953,11 +1953,11 @@
     "private": false,
     "downloads": 30,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -1984,11 +1984,11 @@
     "private": false,
     "downloads": 9,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -2016,11 +2016,11 @@
     "private": false,
     "downloads": 711,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "dataset:gozfarb/ShareGPT_Vicuna_unfiltered",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -2048,12 +2048,12 @@
     "private": false,
     "downloads": 6622,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "dataset:ehartford/wizard_vicuna_70k_unfiltered",
-      "transformers",
       "uncensored",
       "license:other",
       "has_space",
@@ -2070,12 +2070,12 @@
     "private": false,
     "downloads": 813,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "en",
       "dataset:ehartford/wizard_vicuna_70k_unfiltered",
-      "transformers",
       "uncensored",
       "license:other",
       "has_space",
@@ -2092,13 +2092,13 @@
     "private": false,
     "downloads": 29,
     "tags": [
+      "transformers",
       "pytorch",
       "safetensors",
       "RefinedWebModel",
       "text-generation",
       "custom_code",
       "en",
-      "transformers",
       "license:apache-2.0",
       "text-generation-inference",
       "region:us"
@@ -2126,6 +2126,7 @@
     "private": false,
     "downloads": 23,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -2139,7 +2140,6 @@
       "dataset:riddle_sense",
       "dataset:gsm8k",
       "dataset:OpenAssistant/oasst1",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -2173,14 +2173,14 @@
     "private": false,
     "downloads": 1018,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/WizardLM-Uncensored-SuperCOT-StoryTelling-30B-GPTQ"
@@ -2204,11 +2204,11 @@
     "private": false,
     "downloads": 580,
     "tags": [
+      "transformers",
       "safetensors",
       "RefinedWebModel",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:apache-2.0",
       "has_space",
       "text-generation-inference",
@@ -2224,10 +2224,10 @@
     "private": false,
     "downloads": 11,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -2266,11 +2266,11 @@
     "private": false,
     "downloads": 27,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:allenai/s2orc",
-      "transformers",
       "medical",
       "license:other",
       "text-generation-inference",
@@ -2300,12 +2300,12 @@
     "private": false,
     "downloads": 3,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "dataset:ehartford/based",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -2376,11 +2376,11 @@
     "private": false,
     "downloads": 7396,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "self-instruct",
       "distillation",
       "license:other",
@@ -2398,10 +2398,10 @@
     "private": false,
     "downloads": 32,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -2428,11 +2428,11 @@
     "private": false,
     "downloads": 57,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -2447,12 +2447,12 @@
     "private": false,
     "downloads": 6,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "dataset:ehartford/based",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -2491,12 +2491,12 @@
     "private": false,
     "downloads": 5,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "dataset:ehartford/based",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -2511,10 +2511,10 @@
     "private": false,
     "downloads": 9,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -2541,11 +2541,11 @@
     "private": false,
     "downloads": 722,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -2573,10 +2573,10 @@
     "private": false,
     "downloads": 66,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -2603,10 +2603,10 @@
     "private": false,
     "downloads": 712,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -2634,10 +2634,10 @@
     "private": false,
     "downloads": 10,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -2652,10 +2652,10 @@
     "private": false,
     "downloads": 710,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -2671,10 +2671,10 @@
     "private": false,
     "downloads": 1,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -2702,10 +2702,10 @@
     "private": false,
     "downloads": 3,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -2732,14 +2732,14 @@
     "private": false,
     "downloads": 848,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/WizardLM-30B-GPTQ"
@@ -2751,10 +2751,10 @@
     "private": false,
     "downloads": 781,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -2770,10 +2770,10 @@
     "private": false,
     "downloads": 35,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "pytorch",
       "chatbot",
       "storywriting",
@@ -2819,14 +2819,14 @@
     "private": false,
     "downloads": 766,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/chronos-wizardlm-uc-scot-st-13B-GPTQ"
@@ -2888,11 +2888,11 @@
     "private": false,
     "downloads": 3,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "arxiv:2303.17760",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -2907,11 +2907,11 @@
     "private": false,
     "downloads": 1,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "arxiv:2303.17760",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -2939,11 +2939,11 @@
     "private": false,
     "downloads": 4,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "arxiv:2303.17760",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -2958,11 +2958,11 @@
     "private": false,
     "downloads": 3,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "arxiv:2303.17760",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -2977,10 +2977,10 @@
     "private": false,
     "downloads": 1,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -3007,10 +3007,10 @@
     "private": false,
     "downloads": 10,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -3058,11 +3058,11 @@
     "private": false,
     "downloads": 109,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "arxiv:1910.09700",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -3077,11 +3077,11 @@
     "private": false,
     "downloads": 20,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "arxiv:1910.09700",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -3096,11 +3096,11 @@
     "private": false,
     "downloads": 221,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "arxiv:1910.09700",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -3128,6 +3128,7 @@
     "private": false,
     "downloads": 575,
     "tags": [
+      "transformers",
       "safetensors",
       "gpt_bigcode",
       "text-generation",
@@ -3136,7 +3137,6 @@
       "arxiv:2205.14135",
       "arxiv:2207.14255",
       "arxiv:2305.06161",
-      "transformers",
       "code",
       "license:bigcode-openrail-m",
       "model-index",
@@ -3153,6 +3153,7 @@
     "private": false,
     "downloads": 3,
     "tags": [
+      "transformers",
       "mpt",
       "arxiv:2108.12409",
       "arxiv:2302.13971",
@@ -3160,7 +3161,6 @@
       "arxiv:2010.04245",
       "arxiv:1909.08053",
       "arxiv:2302.06675",
-      "transformers",
       "license:other",
       "region:us"
     ],
@@ -3173,6 +3173,7 @@
     "private": false,
     "downloads": 300,
     "tags": [
+      "transformers",
       "safetensors",
       "gpt_bigcode",
       "text-generation",
@@ -3182,7 +3183,6 @@
       "arxiv:2205.14135",
       "arxiv:2207.14255",
       "arxiv:2305.06161",
-      "transformers",
       "code",
       "license:bigcode-openrail-m",
       "model-index",
@@ -3227,6 +3227,7 @@
     "private": false,
     "downloads": 29,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -3243,7 +3244,6 @@
       "dataset:camel-ai/physics",
       "dataset:camel-ai/chemistry",
       "dataset:winglian/evals",
-      "transformers",
       "OpenAccess AI Collective",
       "MPT",
       "axolotl",
@@ -3261,6 +3261,7 @@
     "private": false,
     "downloads": 12,
     "tags": [
+      "transformers",
       "starcoder",
       "dataset:bigcode/the-stack-dedup",
       "dataset:tiiuae/falcon-refinedweb",
@@ -3268,7 +3269,6 @@
       "arxiv:2205.14135",
       "arxiv:2207.14255",
       "arxiv:2305.06161",
-      "transformers",
       "code",
       "license:bigcode-openrail-m",
       "text-generation",
@@ -3286,10 +3286,10 @@
     "private": false,
     "downloads": 1120,
     "tags": [
+      "transformers",
       "safetensors",
       "gpt_bigcode",
       "text-generation",
-      "transformers",
       "generated_from_trainer",
       "license:bigcode-openrail-m",
       "text-generation-inference",
@@ -3305,8 +3305,8 @@
     "private": false,
     "downloads": 39,
     "tags": [
-      "starcoder",
       "transformers",
+      "starcoder",
       "generated_from_trainer",
       "license:bigcode-openrail-m",
       "has_space",
@@ -3321,13 +3321,13 @@
     "private": false,
     "downloads": 33,
     "tags": [
+      "transformers",
       "starcoder",
       "dataset:bigcode/the-stack-dedup",
       "arxiv:1911.02150",
       "arxiv:2205.14135",
       "arxiv:2207.14255",
       "arxiv:2305.06161",
-      "transformers",
       "code",
       "license:bigcode-openrail-m",
       "text-generation",
@@ -3344,10 +3344,10 @@
     "private": false,
     "downloads": 253,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -3374,12 +3374,12 @@
     "private": false,
     "downloads": 14,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "dataset:ehartford/samantha-data",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -3406,10 +3406,10 @@
     "private": false,
     "downloads": 8,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -3436,10 +3436,10 @@
     "private": false,
     "downloads": 5,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -3454,6 +3454,7 @@
     "private": false,
     "downloads": 30,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -3464,7 +3465,6 @@
       "arxiv:2306.04751",
       "arxiv:2302.13971",
       "arxiv:2304.07327",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -3479,6 +3479,7 @@
     "private": false,
     "downloads": 736,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
@@ -3489,11 +3490,10 @@
       "arxiv:2306.04751",
       "arxiv:2302.13971",
       "arxiv:2304.07327",
-      "transformers",
       "license:other",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/tulu-30B-fp16"
@@ -3532,10 +3532,10 @@
     "private": false,
     "downloads": 14,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -3569,6 +3569,7 @@
     "private": false,
     "downloads": 718,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
@@ -3579,7 +3580,6 @@
       "arxiv:2306.04751",
       "arxiv:2302.13971",
       "arxiv:2304.07327",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -3595,6 +3595,7 @@
     "private": false,
     "downloads": 23,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -3605,7 +3606,6 @@
       "arxiv:2306.04751",
       "arxiv:2302.13971",
       "arxiv:2304.07327",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -3620,6 +3620,7 @@
     "private": false,
     "downloads": 12,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -3630,7 +3631,6 @@
       "arxiv:2306.04751",
       "arxiv:2302.13971",
       "arxiv:2304.07327",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -3664,6 +3664,7 @@
     "private": false,
     "downloads": 716,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
@@ -3674,7 +3675,6 @@
       "arxiv:2306.04751",
       "arxiv:2302.13971",
       "arxiv:2304.07327",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -3690,12 +3690,12 @@
     "private": false,
     "downloads": 46,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "dataset:ehartford/samantha-data",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -3738,11 +3738,11 @@
     "private": false,
     "downloads": 37,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-1.1",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -3757,11 +3757,11 @@
     "private": false,
     "downloads": 11,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:bavest/fin-llama-dataset",
-      "transformers",
       "finance",
       "llm",
       "trading",
@@ -3796,8 +3796,8 @@
     "private": false,
     "downloads": 2,
     "tags": [
-      "llama",
       "transformers",
+      "llama",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -3827,10 +3827,10 @@
     "private": false,
     "downloads": 2809,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "pytorch",
       "chatbot",
       "storywriting",
@@ -3848,6 +3848,7 @@
     "private": false,
     "downloads": 25,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -3864,7 +3865,6 @@
       "dataset:camel-ai/physics",
       "dataset:camel-ai/chemistry",
       "dataset:winglian/evals",
-      "transformers",
       "OpenAccess AI Collective",
       "MPT",
       "axolotl",
@@ -3910,11 +3910,11 @@
     "private": false,
     "downloads": 76,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-1.2",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -3955,11 +3955,11 @@
     "private": false,
     "downloads": 6,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-1.2",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -3974,14 +3974,14 @@
     "private": false,
     "downloads": 4674,
     "tags": [
+      "transformers",
       "safetensors",
       "gpt_bigcode",
       "text-generation",
-      "transformers",
       "license:bigcode-openrail-m",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/WizardCoder-15B-1.0-GPTQ"
@@ -3993,8 +3993,8 @@
     "private": false,
     "downloads": 106,
     "tags": [
-      "starcoder",
       "transformers",
+      "starcoder",
       "license:bigcode-openrail-m",
       "has_space",
       "region:us"
@@ -4008,8 +4008,8 @@
     "private": false,
     "downloads": 8,
     "tags": [
-      "falcon",
       "transformers",
+      "falcon",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -4024,6 +4024,7 @@
     "private": false,
     "downloads": 28,
     "tags": [
+      "transformers",
       "falcon",
       "en",
       "dataset:tiiuae/falcon-refinedweb",
@@ -4032,7 +4033,6 @@
       "arxiv:2005.14165",
       "arxiv:2104.09864",
       "arxiv:2306.01116",
-      "transformers",
       "license:apache-2.0",
       "has_space",
       "text-generation-inference",
@@ -4047,11 +4047,11 @@
     "private": false,
     "downloads": 17,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-1.2",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -4092,11 +4092,11 @@
     "private": false,
     "downloads": 8,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-1.2",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -4111,10 +4111,10 @@
     "private": false,
     "downloads": 727,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -4130,14 +4130,14 @@
     "private": false,
     "downloads": 734,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/robin-33B-v2-GPTQ"
@@ -4161,10 +4161,10 @@
     "private": false,
     "downloads": 20,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -4191,10 +4191,10 @@
     "private": false,
     "downloads": 1,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -4240,10 +4240,10 @@
     "private": false,
     "downloads": 3,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -4258,14 +4258,14 @@
     "private": false,
     "downloads": 716,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/robin-65b-v2-fp16"
@@ -4289,10 +4289,10 @@
     "private": false,
     "downloads": 33,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -4307,12 +4307,12 @@
     "private": false,
     "downloads": 31,
     "tags": [
+      "transformers",
       "safetensors",
       "opt",
       "text-generation",
       "dataset:WizardLM/WizardLM_evol_instruct_70k",
       "arxiv:2304.12244",
-      "transformers",
       "galactica",
       "wizardlm",
       "alpaca",
@@ -4330,10 +4330,10 @@
     "private": false,
     "downloads": 10,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -4372,6 +4372,7 @@
     "private": false,
     "downloads": 20,
     "tags": [
+      "transformers",
       "safetensors",
       "gpt_bigcode",
       "text-generation",
@@ -4394,7 +4395,6 @@
       "arxiv:2205.14135",
       "arxiv:2207.14255",
       "arxiv:2305.06161",
-      "transformers",
       "code",
       "text-generation-inference",
       "region:us"
@@ -4409,6 +4409,7 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "dataset:bigcode/the-stack-dedup",
       "dataset:tiiuae/falcon-refinedweb",
       "dataset:ehartford/WizardLM_alpaca_evol_instruct_70k_unfiltered",
@@ -4428,7 +4429,6 @@
       "arxiv:2205.14135",
       "arxiv:2207.14255",
       "arxiv:2305.06161",
-      "transformers",
       "code",
       "text-generation",
       "region:us"
@@ -4457,11 +4457,11 @@
     "private": false,
     "downloads": 325,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -4476,11 +4476,11 @@
     "private": false,
     "downloads": 978,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "arxiv:2305.18098",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -4508,12 +4508,12 @@
     "private": false,
     "downloads": 41810,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "arxiv:2302.13971",
       "arxiv:2306.05685",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -4532,6 +4532,7 @@
       "arxiv:2302.13971",
       "arxiv:2306.05685",
       "license:other",
+      "has_space",
       "region:us"
     ],
     "modelId": "TheBloke/vicuna-7B-v1.3-GGML"
@@ -4543,13 +4544,13 @@
     "private": false,
     "downloads": 522,
     "tags": [
+      "transformers",
       "safetensors",
       "baichuan",
       "text-generation",
       "custom_code",
       "arxiv:1910.07467",
       "arxiv:2009.03300",
-      "transformers",
       "license:other",
       "region:us"
     ],
@@ -4563,10 +4564,10 @@
     "private": false,
     "downloads": 6,
     "tags": [
+      "transformers",
       "safetensors",
       "gpt_neox",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -4581,8 +4582,8 @@
     "private": false,
     "downloads": 1,
     "tags": [
-      "gpt-neox",
       "transformers",
+      "gpt-neox",
       "license:other",
       "region:us"
     ],
@@ -4610,12 +4611,12 @@
     "private": false,
     "downloads": 773,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -4630,11 +4631,11 @@
     "private": false,
     "downloads": 7,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-1.3",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -4662,11 +4663,11 @@
     "private": false,
     "downloads": 4,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "arxiv:2306.04751",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -4694,9 +4695,9 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "en",
       "dataset:VMware/open-instruct-v1-oasst-dolly-hhrlhf",
-      "transformers",
       "license:cc",
       "text-generation",
       "region:us"
@@ -4711,12 +4712,12 @@
     "private": false,
     "downloads": 238,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "dataset:VMware/open-instruct-v1-oasst-dolly-hhrlhf",
-      "transformers",
       "license:cc",
       "text-generation-inference",
       "region:us"
@@ -4744,11 +4745,11 @@
     "private": false,
     "downloads": 6,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-1.3",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -4763,11 +4764,11 @@
     "private": false,
     "downloads": 5,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-1.3",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -4808,11 +4809,11 @@
     "private": false,
     "downloads": 8,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-1.3",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -4846,6 +4847,7 @@
     "private": false,
     "downloads": 24,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -4853,7 +4855,6 @@
       "en",
       "arxiv:1910.07467",
       "arxiv:2009.03300",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -4868,6 +4869,7 @@
     "private": false,
     "downloads": 216,
     "tags": [
+      "transformers",
       "falcon",
       "en",
       "dataset:tiiuae/falcon-refinedweb",
@@ -4876,7 +4878,6 @@
       "arxiv:2005.14165",
       "arxiv:2104.09864",
       "arxiv:2306.01116",
-      "transformers",
       "license:apache-2.0",
       "has_space",
       "text-generation-inference",
@@ -4891,8 +4892,8 @@
     "private": false,
     "downloads": 23,
     "tags": [
-      "falcon",
       "transformers",
+      "falcon",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -4906,10 +4907,10 @@
     "private": false,
     "downloads": 818,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -4937,10 +4938,10 @@
     "private": false,
     "downloads": 505,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -4979,10 +4980,10 @@
     "private": false,
     "downloads": 20,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -4997,6 +4998,7 @@
     "private": false,
     "downloads": 7,
     "tags": [
+      "transformers",
       "mpt",
       "dataset:competition_math",
       "dataset:conceptofmind/cot_submix_original/cot_gsm8k",
@@ -5009,7 +5011,6 @@
       "dataset:spider",
       "arxiv:2205.14135",
       "arxiv:2108.12409",
-      "transformers",
       "Composer",
       "MosaicML",
       "llm-foundry",
@@ -5026,6 +5027,7 @@
     "private": false,
     "downloads": 69,
     "tags": [
+      "transformers",
       "mpt",
       "dataset:camel-ai/code",
       "dataset:ehartford/wizard_vicuna_70k_unfiltered",
@@ -5046,7 +5048,6 @@
       "arxiv:2205.14135",
       "arxiv:2108.12409",
       "arxiv:2010.04245",
-      "transformers",
       "Composer",
       "MosaicML",
       "llm-foundry",
@@ -5063,6 +5064,7 @@
     "private": false,
     "downloads": 4,
     "tags": [
+      "transformers",
       "mpt",
       "dataset:allenai/c4",
       "dataset:mc4",
@@ -5075,7 +5077,6 @@
       "arxiv:2010.04245",
       "arxiv:1909.08053",
       "arxiv:2302.06675",
-      "transformers",
       "Composer",
       "MosaicML",
       "llm-foundry",
@@ -5092,10 +5093,10 @@
     "private": false,
     "downloads": 11,
     "tags": [
+      "transformers",
       "falcon",
       "en",
       "dataset:OpenAssistant/oasst1",
-      "transformers",
       "gpt",
       "llm",
       "large language model",
@@ -5113,13 +5114,13 @@
     "private": false,
     "downloads": 1190,
     "tags": [
+      "transformers",
       "safetensors",
       "RefinedWeb",
       "text-generation",
       "custom_code",
       "en",
       "dataset:OpenAssistant/oasst1",
-      "transformers",
       "gpt",
       "llm",
       "large language model",
@@ -5154,12 +5155,12 @@
     "private": false,
     "downloads": 6164,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -5175,6 +5176,7 @@
     "private": false,
     "downloads": 1323,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -5183,11 +5185,10 @@
       "dataset:psmathur/dolly-v2_orca",
       "dataset:psmathur/WizardLM_Orca",
       "arxiv:2306.02707",
-      "transformers",
       "license:mit",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/orca_mini_13B-GPTQ"
@@ -5199,12 +5200,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "en",
       "dataset:psmathur/alpaca_orca",
       "dataset:psmathur/dolly-v2_orca",
       "dataset:psmathur/WizardLM_Orca",
       "arxiv:2306.02707",
-      "transformers",
       "license:mit",
       "region:us"
     ],
@@ -5217,6 +5218,7 @@
     "private": false,
     "downloads": 638,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -5225,7 +5227,6 @@
       "dataset:psmathur/dolly-v2_orca",
       "dataset:psmathur/WizardLM_Orca",
       "arxiv:2306.02707",
-      "transformers",
       "license:mit",
       "text-generation-inference",
       "region:us"
@@ -5240,12 +5241,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "en",
       "dataset:psmathur/alpaca_orca",
       "dataset:psmathur/dolly-v2_orca",
       "dataset:psmathur/WizardLM_Orca",
       "arxiv:2306.02707",
-      "transformers",
       "license:mit",
       "region:us"
     ],
@@ -5258,12 +5259,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "en",
       "dataset:psmathur/alpaca_orca",
       "dataset:psmathur/dolly-v2_orca",
       "dataset:psmathur/WizardLM_Orca",
       "arxiv:2306.02707",
-      "transformers",
       "license:mit",
       "has_space",
       "region:us"
@@ -5277,16 +5278,16 @@
     "private": false,
     "downloads": 1472,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "arxiv:2302.13971",
       "arxiv:2306.05685",
-      "transformers",
       "license:other",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/vicuna-13b-v1.3.0-GPTQ"
@@ -5312,11 +5313,11 @@
     "private": false,
     "downloads": 110,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -5344,11 +5345,11 @@
     "private": false,
     "downloads": 849,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -5377,11 +5378,11 @@
     "private": false,
     "downloads": 5,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -5397,10 +5398,10 @@
     "private": false,
     "downloads": 296,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -5428,6 +5429,7 @@
     "private": false,
     "downloads": 1,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
@@ -5438,7 +5440,6 @@
       "arxiv:2306.04751",
       "arxiv:2302.13971",
       "arxiv:2304.07327",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -5454,10 +5455,10 @@
     "private": false,
     "downloads": 2,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
-      "transformers",
       "chatbot",
       "storywriting",
       "license:other",
@@ -5475,11 +5476,11 @@
     "private": false,
     "downloads": 13,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "pytorch",
       "chatbot",
       "storywriting",
@@ -5497,13 +5498,13 @@
     "private": false,
     "downloads": 508,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
       "en",
       "dataset:ehartford/wizard_vicuna_70k_unfiltered",
-      "transformers",
       "uncensored",
       "license:other",
       "text-generation-inference",
@@ -5515,15 +5516,15 @@
   {
     "_id": "6499faf88f74b5aa9846dc8b",
     "id": "TheBloke/Wizard-Vicuna-30B-Superhot-8K-fp16",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 763,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -5539,13 +5540,13 @@
     "private": false,
     "downloads": 111,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
       "arxiv:2302.13971",
       "arxiv:2306.05685",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -5560,13 +5561,13 @@
     "private": false,
     "downloads": 4,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
       "arxiv:2302.13971",
       "arxiv:2306.05685",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -5581,11 +5582,11 @@
     "private": false,
     "downloads": 1589,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -5600,11 +5601,11 @@
     "private": false,
     "downloads": 21,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -5619,11 +5620,11 @@
     "private": false,
     "downloads": 14,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -5638,11 +5639,11 @@
     "private": false,
     "downloads": 20,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -5657,11 +5658,11 @@
     "private": false,
     "downloads": 893,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -5677,11 +5678,11 @@
     "private": false,
     "downloads": 361,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -5696,11 +5697,11 @@
     "private": false,
     "downloads": 7,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -5715,11 +5716,11 @@
     "private": false,
     "downloads": 23,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -5734,11 +5735,11 @@
     "private": false,
     "downloads": 7,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -5753,11 +5754,11 @@
     "private": false,
     "downloads": 2,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -5772,11 +5773,11 @@
     "private": false,
     "downloads": 11,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -5791,11 +5792,11 @@
     "private": false,
     "downloads": 2,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -5810,11 +5811,11 @@
     "private": false,
     "downloads": 7,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -5829,11 +5830,11 @@
     "private": false,
     "downloads": 1,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -5848,11 +5849,11 @@
     "private": false,
     "downloads": 34,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -5867,11 +5868,11 @@
     "private": false,
     "downloads": 4,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -5886,6 +5887,7 @@
     "private": false,
     "downloads": 5,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -5893,7 +5895,6 @@
       "arxiv:2306.04751",
       "arxiv:2302.13971",
       "arxiv:2304.07327",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -5908,6 +5909,7 @@
     "private": false,
     "downloads": 1,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
@@ -5915,7 +5917,6 @@
       "arxiv:2306.04751",
       "arxiv:2302.13971",
       "arxiv:2304.07327",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -5930,11 +5931,11 @@
     "private": false,
     "downloads": 1086,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -5950,11 +5951,11 @@
     "private": false,
     "downloads": 139,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -5969,11 +5970,11 @@
     "private": false,
     "downloads": 130,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -5988,11 +5989,11 @@
     "private": false,
     "downloads": 116,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -6007,12 +6008,12 @@
     "private": false,
     "downloads": 11,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
       "arxiv:2303.17760",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -6027,12 +6028,12 @@
     "private": false,
     "downloads": 28,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
       "arxiv:2303.17760",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -6047,11 +6048,11 @@
     "private": false,
     "downloads": 280,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -6066,11 +6067,11 @@
     "private": false,
     "downloads": 413,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -6085,12 +6086,12 @@
     "private": false,
     "downloads": 1,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
       "arxiv:2303.17760",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -6105,12 +6106,12 @@
     "private": false,
     "downloads": 4,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
       "arxiv:2303.17760",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -6125,11 +6126,11 @@
     "private": false,
     "downloads": 10,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -6144,11 +6145,11 @@
     "private": false,
     "downloads": 10,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -6163,11 +6164,11 @@
     "private": false,
     "downloads": 3,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -6182,11 +6183,11 @@
     "private": false,
     "downloads": 24,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -6201,11 +6202,11 @@
     "private": false,
     "downloads": 10,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -6220,11 +6221,11 @@
     "private": false,
     "downloads": 17,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -6239,11 +6240,11 @@
     "private": false,
     "downloads": 952,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -6258,11 +6259,11 @@
     "private": false,
     "downloads": 200,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -6277,11 +6278,11 @@
     "private": false,
     "downloads": 16,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -6296,11 +6297,11 @@
     "private": false,
     "downloads": 40,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -6315,11 +6316,11 @@
     "private": false,
     "downloads": 492,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -6334,15 +6335,15 @@
     "private": false,
     "downloads": 779,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/airoboros-33B-gpt4-1-4-SuperHOT-8K-fp16"
@@ -6354,15 +6355,15 @@
     "private": false,
     "downloads": 701,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Manticore-13B-Chat-Pyg-Guanaco-SuperHOT-8K-GPTQ"
@@ -6374,11 +6375,11 @@
     "private": false,
     "downloads": 32,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -6393,11 +6394,11 @@
     "private": false,
     "downloads": 186,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -6412,11 +6413,11 @@
     "private": false,
     "downloads": 17,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -6443,11 +6444,11 @@
     "private": false,
     "downloads": 38,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -6474,11 +6475,11 @@
     "private": false,
     "downloads": 14,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -6493,11 +6494,11 @@
     "private": false,
     "downloads": 6,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -6512,11 +6513,11 @@
     "private": false,
     "downloads": 1011,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -6532,11 +6533,11 @@
     "private": false,
     "downloads": 15,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -6551,15 +6552,15 @@
     "private": false,
     "downloads": 773,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Platypus-30B-SuperHOT-8K-fp16"
@@ -6571,11 +6572,11 @@
     "private": false,
     "downloads": 49,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -6590,11 +6591,11 @@
     "private": false,
     "downloads": 713,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -6622,10 +6623,10 @@
     "private": false,
     "downloads": 18,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -6690,12 +6691,12 @@
     "private": false,
     "downloads": 24,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:stingning/ultrachat",
       "arxiv:2305.14233",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -6725,12 +6726,12 @@
     "private": false,
     "downloads": 731,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "dataset:stingning/ultrachat",
       "arxiv:2305.14233",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -6794,10 +6795,10 @@
     "private": false,
     "downloads": 10,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -6983,15 +6984,15 @@
     "private": false,
     "downloads": 761,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/LongChat-13B-GPTQ"
@@ -7003,11 +7004,11 @@
     "private": false,
     "downloads": 82,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -7069,11 +7070,11 @@
     "private": false,
     "downloads": 39,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -7088,11 +7089,11 @@
     "private": false,
     "downloads": 714,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -7108,12 +7109,12 @@
     "private": false,
     "downloads": 935,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "arxiv:2302.13971",
       "arxiv:2306.05685",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -7156,13 +7157,13 @@
     "private": false,
     "downloads": 748,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
       "arxiv:2302.13971",
       "arxiv:2306.05685",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -7178,13 +7179,13 @@
     "private": false,
     "downloads": 440,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
       "arxiv:2302.13971",
       "arxiv:2306.05685",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -7217,11 +7218,11 @@
     "private": false,
     "downloads": 146,
     "tags": [
+      "transformers",
       "safetensors",
       "gpt_bigcode",
       "text-generation",
       "en",
-      "transformers",
       "starcoder",
       "wizardcoder",
       "code",
@@ -7241,11 +7242,11 @@
     "private": false,
     "downloads": 13,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -7275,11 +7276,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "en",
       "dataset:psmathur/orca_minis_uncensored_dataset",
       "arxiv:2306.02707",
       "arxiv:2304.12244",
-      "transformers",
       "license:cc-by-nc-sa-4.0",
       "text-generation",
       "has_space",
@@ -7295,6 +7296,7 @@
     "private": false,
     "downloads": 1114,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -7302,7 +7304,6 @@
       "dataset:psmathur/orca_minis_uncensored_dataset",
       "arxiv:2306.02707",
       "arxiv:2304.12244",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -7317,13 +7318,13 @@
     "private": false,
     "downloads": 3,
     "tags": [
+      "transformers",
       "falcon",
       "en",
       "de",
       "es",
       "fr",
       "dataset:OpenAssistant/oasst1",
-      "transformers",
       "sft",
       "license:apache-2.0",
       "text-generation-inference",
@@ -7338,6 +7339,7 @@
     "private": false,
     "downloads": 16,
     "tags": [
+      "transformers",
       "falcon",
       "en",
       "de",
@@ -7345,7 +7347,6 @@
       "fr",
       "dataset:OpenAssistant/oasst1",
       "dataset:databricks/databricks-dolly-15k",
-      "transformers",
       "sft",
       "license:apache-2.0",
       "text-generation-inference",
@@ -7360,6 +7361,7 @@
     "private": false,
     "downloads": 25,
     "tags": [
+      "transformers",
       "bloom",
       "text-generation",
       "ak",
@@ -7410,7 +7412,6 @@
       "zu",
       "dataset:bigscience/xP3",
       "arxiv:2211.01786",
-      "transformers",
       "license:bigscience-bloom-rail-1.0",
       "model-index",
       "text-generation-inference",
@@ -7426,9 +7427,9 @@
     "private": false,
     "downloads": 38,
     "tags": [
+      "transformers",
       "bloom",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -7455,11 +7456,11 @@
     "private": false,
     "downloads": 713,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -7475,11 +7476,11 @@
     "private": false,
     "downloads": 3,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -7506,11 +7507,11 @@
     "private": false,
     "downloads": 185,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -7525,11 +7526,11 @@
     "private": false,
     "downloads": 32,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -7544,12 +7545,12 @@
     "private": false,
     "downloads": 4,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
       "arxiv:2304.01196",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -7577,12 +7578,12 @@
     "private": false,
     "downloads": 1,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
       "arxiv:2304.01196",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -7622,12 +7623,12 @@
     "private": false,
     "downloads": 1,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
       "arxiv:2304.01196",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -7642,11 +7643,11 @@
     "private": false,
     "downloads": 4,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -7661,11 +7662,11 @@
     "private": false,
     "downloads": 21,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -7692,11 +7693,11 @@
     "private": false,
     "downloads": 9,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -7723,11 +7724,11 @@
     "private": false,
     "downloads": 1,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -7742,11 +7743,11 @@
     "private": false,
     "downloads": 5,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -7773,12 +7774,13 @@
     "private": false,
     "downloads": 4,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -7792,11 +7794,11 @@
     "private": false,
     "downloads": 2,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -7823,11 +7825,11 @@
     "private": false,
     "downloads": 11,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -7854,11 +7856,11 @@
     "private": false,
     "downloads": 1,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -7885,11 +7887,11 @@
     "private": false,
     "downloads": 6,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -7919,6 +7921,7 @@
     "private": false,
     "downloads": 2,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
@@ -7926,7 +7929,6 @@
       "arxiv:2306.04751",
       "arxiv:2302.13971",
       "arxiv:2304.07327",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -7955,13 +7957,13 @@
     "private": false,
     "downloads": 1,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
       "arxiv:2302.13971",
       "arxiv:2306.05685",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -7989,12 +7991,12 @@
     "private": false,
     "downloads": 6,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
       "arxiv:1910.09700",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -8021,11 +8023,11 @@
     "private": false,
     "downloads": 151,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -8052,11 +8054,11 @@
     "private": false,
     "downloads": 43,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -8071,12 +8073,12 @@
     "private": false,
     "downloads": 7,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
       "arxiv:2304.01196",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -8091,11 +8093,11 @@
     "private": false,
     "downloads": 6,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -8110,11 +8112,11 @@
     "private": false,
     "downloads": 6,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -8129,11 +8131,11 @@
     "private": false,
     "downloads": 9,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -8148,11 +8150,11 @@
     "private": false,
     "downloads": 4,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -8167,6 +8169,7 @@
     "private": false,
     "downloads": 3,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -8174,7 +8177,6 @@
       "arxiv:2306.04751",
       "arxiv:2302.13971",
       "arxiv:2304.07327",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -8189,13 +8191,13 @@
     "private": false,
     "downloads": 47,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
       "arxiv:2302.13971",
       "arxiv:2306.05685",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -8210,12 +8212,12 @@
     "private": false,
     "downloads": 6,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
       "arxiv:1910.09700",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -8230,11 +8232,11 @@
     "private": false,
     "downloads": 244,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -8249,11 +8251,11 @@
     "private": false,
     "downloads": 518,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -8281,11 +8283,11 @@
     "private": false,
     "downloads": 1,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -8300,11 +8302,11 @@
     "private": false,
     "downloads": 10,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -8324,6 +8326,7 @@
       "conversational",
       "license:other",
       "text-generation",
+      "has_space",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
@@ -8336,12 +8339,12 @@
     "private": false,
     "downloads": 63,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
       "en",
-      "transformers",
       "text generation",
       "conversational",
       "license:other",
@@ -8358,15 +8361,15 @@
     "private": false,
     "downloads": 518,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Pygmalion-7B-SuperHOT-8K-GPTQ"
@@ -8415,11 +8418,11 @@
     "private": false,
     "downloads": 1,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -8447,15 +8450,15 @@
     "private": false,
     "downloads": 1692,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "arxiv:2304.12244",
-      "transformers",
       "license:other",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/WizardLM-13B-V1.1-GPTQ"
@@ -8467,12 +8470,12 @@
     "private": false,
     "downloads": 536,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
       "arxiv:2304.12244",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -8500,12 +8503,12 @@
     "private": false,
     "downloads": 746,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "custom_code",
       "arxiv:2304.12244",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -8533,6 +8536,7 @@
     "private": false,
     "downloads": 164,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -8540,7 +8544,6 @@
       "dataset:psmathur/orca_minis_uncensored_dataset",
       "arxiv:2306.02707",
       "arxiv:2304.12244",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -8555,11 +8558,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "en",
       "dataset:psmathur/orca_minis_uncensored_dataset",
       "arxiv:2306.02707",
       "arxiv:2304.12244",
-      "transformers",
       "license:cc-by-nc-sa-4.0",
       "text-generation",
       "region:us"
@@ -8591,10 +8594,10 @@
     "private": false,
     "downloads": 14,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "merge",
       "mix",
       "cot",
@@ -8612,11 +8615,11 @@
     "private": false,
     "downloads": 6,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -8631,11 +8634,11 @@
     "private": false,
     "downloads": 14,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -8696,10 +8699,10 @@
     "private": false,
     "downloads": 426,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -8726,10 +8729,10 @@
     "private": false,
     "downloads": 95,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -8756,10 +8759,10 @@
     "private": false,
     "downloads": 56,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -8800,12 +8803,12 @@
     "private": false,
     "downloads": 30,
     "tags": [
+      "transformers",
       "safetensors",
       "gpt_bigcode",
       "text-generation",
       "en",
       "dataset:guanaco",
-      "transformers",
       "license:apache-2.0",
       "text-generation-inference",
       "region:us"
@@ -8820,11 +8823,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "en",
       "dataset:Open-Orca/OpenOrca",
       "arxiv:2306.02707",
       "arxiv:2301.13688",
-      "transformers",
       "license:other",
       "text-generation",
       "region:us"
@@ -8839,6 +8842,7 @@
     "private": false,
     "downloads": 12,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -8846,7 +8850,6 @@
       "dataset:Open-Orca/OpenOrca",
       "arxiv:2306.02707",
       "arxiv:2301.13688",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -8861,15 +8864,15 @@
     "private": false,
     "downloads": 846,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:Open-Orca/OpenOrca",
-      "transformers",
       "license:other",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/openchat_v2_openorca_preview-GPTQ"
@@ -8881,9 +8884,9 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "en",
       "dataset:OpenAssistant/oasst1",
-      "transformers",
       "gpt",
       "llm",
       "large language model",
@@ -8901,13 +8904,13 @@
     "private": false,
     "downloads": 225,
     "tags": [
+      "transformers",
       "safetensors",
       "RefinedWebModel",
       "text-generation",
       "custom_code",
       "en",
       "dataset:OpenAssistant/oasst1",
-      "transformers",
       "gpt",
       "llm",
       "large language model",
@@ -8922,7 +8925,7 @@
   {
     "_id": "64b299124e5902e2fdbd51d3",
     "id": "TheBloke/WizardCoder-Guanaco-15B-V1.1-GGML",
-    "likes": 29,
+    "likes": 30,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -8941,12 +8944,12 @@
     "private": false,
     "downloads": 266,
     "tags": [
+      "transformers",
       "safetensors",
       "gpt_bigcode",
       "text-generation",
       "en",
       "dataset:guanaco",
-      "transformers",
       "license:apache-2.0",
       "has_space",
       "text-generation-inference",
@@ -8962,10 +8965,10 @@
     "private": false,
     "downloads": 99,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -8980,10 +8983,10 @@
     "private": false,
     "downloads": 341,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -8998,10 +9001,10 @@
     "private": false,
     "downloads": 308,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -9016,10 +9019,10 @@
     "private": false,
     "downloads": 410,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -9034,11 +9037,11 @@
     "private": false,
     "downloads": 64,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -9053,9 +9056,9 @@
     "private": false,
     "downloads": 1,
     "tags": [
+      "transformers",
       "llama",
       "en",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -9093,13 +9096,13 @@
     "private": false,
     "downloads": 106,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "code",
       "dataset:bigcode/starcoderdata",
       "arxiv:2305.02309",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -9114,9 +9117,9 @@
     "private": false,
     "downloads": 1,
     "tags": [
+      "transformers",
       "replit",
       "dataset:Open-Orca/OpenOrca",
-      "transformers",
       "region:us"
     ],
     "modelId": "TheBloke/replit-openorca-GGML"
@@ -9324,11 +9327,11 @@
     "private": false,
     "downloads": 7712,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "facebook",
       "meta",
       "llama-2",
@@ -9431,11 +9434,11 @@
     "private": false,
     "downloads": 9710,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "facebook",
       "meta",
       "pytorch",
@@ -9455,11 +9458,11 @@
     "private": false,
     "downloads": 2538,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "facebook",
       "meta",
       "pytorch",
@@ -9595,11 +9598,11 @@
     "private": false,
     "downloads": 638,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "upstage",
       "instruct",
       "instruction",
@@ -9617,9 +9620,9 @@
     "private": false,
     "downloads": 36,
     "tags": [
+      "transformers",
       "llama",
       "en",
-      "transformers",
       "upstage",
       "instruct",
       "instruction",
@@ -9778,10 +9781,10 @@
     "private": false,
     "downloads": 20,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "alpaca",
       "vicuna",
       "uncensored",
@@ -9813,8 +9816,8 @@
     "private": false,
     "downloads": 12,
     "tags": [
-      "llama",
       "transformers",
+      "llama",
       "alpaca",
       "vicuna",
       "uncensored",
@@ -9845,12 +9848,12 @@
     "private": false,
     "downloads": 5,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "dataset:Open-Orca/OpenOrca",
       "dataset:anon8231489123/ShareGPT_Vicuna_unfiltered",
       "dataset:jondurbin/airoboros-uncensored",
-      "transformers",
       "alpaca",
       "vicuna",
       "uncensored",
@@ -9877,6 +9880,7 @@
     "private": false,
     "downloads": 12,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -9884,7 +9888,6 @@
       "dataset:Open-Orca/OpenOrca",
       "dataset:anon8231489123/ShareGPT_Vicuna_unfiltered",
       "dataset:jondurbin/airoboros-uncensored",
-      "transformers",
       "alpaca",
       "vicuna",
       "uncensored",
@@ -9910,10 +9913,10 @@
     "private": false,
     "downloads": 15,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "alpaca",
       "cot",
       "vicuna",
@@ -9934,8 +9937,8 @@
     "private": false,
     "downloads": 20,
     "tags": [
-      "llama",
       "transformers",
+      "llama",
       "alpaca",
       "cot",
       "vicuna",
@@ -9955,11 +9958,11 @@
     "private": false,
     "downloads": 1316,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "llama-2",
       "license:other",
       "text-classification",
@@ -9977,6 +9980,7 @@
     "private": false,
     "downloads": 32,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -9986,7 +9990,6 @@
       "dataset:GAIR/lima",
       "dataset:Open-Orca/OpenOrca",
       "dataset:openbookqa",
-      "transformers",
       "upstage",
       "instruct",
       "instruction",
@@ -10004,6 +10007,7 @@
     "private": false,
     "downloads": 2,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "dataset:sciq",
@@ -10011,7 +10015,6 @@
       "dataset:GAIR/lima",
       "dataset:Open-Orca/OpenOrca",
       "dataset:openbookqa",
-      "transformers",
       "upstage",
       "instruct",
       "instruction",
@@ -10030,9 +10033,9 @@
     "private": false,
     "downloads": 286,
     "tags": [
+      "transformers",
       "llama",
       "en",
-      "transformers",
       "llama-2",
       "self-instruct",
       "distillation",
@@ -10050,11 +10053,11 @@
     "private": false,
     "downloads": 3773,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "llama-2",
       "self-instruct",
       "distillation",
@@ -10098,11 +10101,11 @@
     "private": false,
     "downloads": 4391,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:ehartford/wizard_vicuna_70k_unfiltered",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -10117,9 +10120,9 @@
     "private": false,
     "downloads": 221,
     "tags": [
+      "transformers",
       "llama",
       "dataset:ehartford/wizard_vicuna_70k_unfiltered",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -10134,12 +10137,12 @@
     "private": false,
     "downloads": 4,
     "tags": [
+      "transformers",
       "llama",
       "de",
       "en",
       "arxiv:2302.13971",
       "arxiv:2306.05685",
-      "transformers",
       "license:other",
       "text-generation",
       "text-generation-inference",
@@ -10155,6 +10158,7 @@
     "private": false,
     "downloads": 172,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -10162,7 +10166,6 @@
       "en",
       "arxiv:2302.13971",
       "arxiv:2306.05685",
-      "transformers",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -10178,11 +10181,11 @@
     "private": false,
     "downloads": 10,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -10197,9 +10200,9 @@
     "private": false,
     "downloads": 52,
     "tags": [
+      "transformers",
       "llama",
       "en",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -10247,8 +10250,8 @@
     "private": false,
     "downloads": 4,
     "tags": [
-      "llama",
       "transformers",
+      "llama",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -10262,10 +10265,10 @@
     "private": false,
     "downloads": 220,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -10304,19 +10307,19 @@
     "private": false,
     "downloads": 337,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "arxiv:2307.09288",
-      "transformers",
       "facebook",
       "meta",
       "pytorch",
       "llama-2",
       "license:other",
       "text-generation",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-70B-GGML"
@@ -10540,13 +10543,13 @@
     "private": false,
     "downloads": 17789,
     "tags": [
+      "transformers",
       "pytorch",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "arxiv:2307.09288",
-      "transformers",
       "facebook",
       "meta",
       "llama-2",
@@ -10618,15 +10621,15 @@
     "private": false,
     "downloads": 738,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "arxiv:1910.09700",
-      "transformers",
       "license:other",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Kimiko-13B-fp16"
@@ -10721,11 +10724,11 @@
     "private": false,
     "downloads": 39,
     "tags": [
+      "transformers",
       "pytorch",
       "llama",
       "text-generation",
       "arxiv:1910.09700",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -11040,8 +11043,8 @@
     "private": false,
     "downloads": 11,
     "tags": [
-      "llama",
       "transformers",
+      "llama",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -11055,10 +11058,10 @@
     "private": false,
     "downloads": 134,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -11073,9 +11076,9 @@
     "private": false,
     "downloads": 9,
     "tags": [
+      "transformers",
       "llama",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -11089,11 +11092,11 @@
     "private": false,
     "downloads": 267,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -11108,11 +11111,11 @@
     "private": false,
     "downloads": 209,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-2.0",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -11127,10 +11130,11 @@
     "private": false,
     "downloads": 60,
     "tags": [
+      "transformers",
       "llama",
       "dataset:jondurbin/airoboros-gpt4-2.0",
-      "transformers",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -11143,10 +11147,11 @@
     "private": false,
     "downloads": 278,
     "tags": [
+      "transformers",
       "llama",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
-      "transformers",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -11159,11 +11164,11 @@
     "private": false,
     "downloads": 498,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -11178,9 +11183,9 @@
     "private": false,
     "downloads": 73,
     "tags": [
+      "transformers",
       "llama",
       "dataset:jondurbin/airoboros-gpt4-2.0",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -11194,11 +11199,11 @@
     "private": false,
     "downloads": 200,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-2.0",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -11213,9 +11218,9 @@
     "private": false,
     "downloads": 4,
     "tags": [
+      "transformers",
       "llama",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -11229,11 +11234,11 @@
     "private": false,
     "downloads": 129,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -11248,11 +11253,11 @@
     "private": false,
     "downloads": 46,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-2.0",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -11267,9 +11272,9 @@
     "private": false,
     "downloads": 7,
     "tags": [
+      "transformers",
       "llama",
       "dataset:jondurbin/airoboros-gpt4-2.0",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -11283,8 +11288,8 @@
     "private": false,
     "downloads": 26,
     "tags": [
-      "llama",
       "transformers",
+      "llama",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -11298,10 +11303,10 @@
     "private": false,
     "downloads": 196,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -11357,6 +11362,7 @@
     "private": false,
     "downloads": 35990,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -11364,7 +11370,6 @@
       "dataset:rombodawg/MegaCodeTraining112k",
       "dataset:theblackcat102/evol-codealpaca-v1",
       "dataset:nickrosh/Evol-Instruct-Code-80k-v1",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -11379,12 +11384,12 @@
     "private": false,
     "downloads": 12,
     "tags": [
+      "transformers",
       "llama",
       "dataset:shahules786/orca-chat",
       "dataset:rombodawg/MegaCodeTraining112k",
       "dataset:theblackcat102/evol-codealpaca-v1",
       "dataset:nickrosh/Evol-Instruct-Code-80k-v1",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -11596,6 +11601,7 @@
     "private": false,
     "downloads": 1704,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -11603,11 +11609,10 @@
       "dataset:Open-Orca/OpenOrca",
       "arxiv:2306.02707",
       "arxiv:2301.13688",
-      "transformers",
       "license:other",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/OpenOrcaxOpenChat-Preview2-13B-GPTQ"
@@ -11619,12 +11624,12 @@
     "private": false,
     "downloads": 12,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "dataset:Open-Orca/OpenOrca",
       "arxiv:2306.02707",
       "arxiv:2301.13688",
-      "transformers",
       "license:other",
       "text-generation",
       "text-generation-inference",
@@ -11764,8 +11769,8 @@
     "private": false,
     "downloads": 281,
     "tags": [
-      "llama",
       "transformers",
+      "llama",
       "llama-2",
       "pytorch",
       "chatbot",
@@ -12137,9 +12142,9 @@
     "private": false,
     "downloads": 4,
     "tags": [
+      "transformers",
       "llama",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -12153,11 +12158,11 @@
     "private": false,
     "downloads": 10,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -12246,13 +12251,13 @@
   {
     "_id": "64cd7b92bc6c9c8bc0ee2046",
     "id": "TheBloke/Airoboros-65B-GPT4-2.0-GGML",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 5,
     "tags": [
+      "transformers",
       "llama",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -12266,11 +12271,11 @@
     "private": false,
     "downloads": 30,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -12577,12 +12582,12 @@
     "private": false,
     "downloads": 39,
     "tags": [
+      "transformers",
       "gpt-neox",
       "code",
       "dataset:bigcode/starcoderdata",
       "arxiv:2104.09864",
       "arxiv:1910.02054",
-      "transformers",
       "causal-lm",
       "license:apache-2.0",
       "model-index",
@@ -12597,6 +12602,7 @@
     "private": false,
     "downloads": 255,
     "tags": [
+      "transformers",
       "safetensors",
       "gpt_neox",
       "text-generation",
@@ -12604,7 +12610,6 @@
       "dataset:bigcode/starcoderdata",
       "arxiv:2104.09864",
       "arxiv:1910.02054",
-      "transformers",
       "causal-lm",
       "license:apache-2.0",
       "model-index",
@@ -12622,10 +12627,10 @@
     "private": false,
     "downloads": 85,
     "tags": [
+      "transformers",
       "gpt-neox",
       "code",
       "arxiv:2104.09864",
-      "transformers",
       "causal-lm",
       "license:other",
       "model-index",
@@ -12640,11 +12645,11 @@
     "private": false,
     "downloads": 1238,
     "tags": [
+      "transformers",
       "safetensors",
       "gpt_neox",
       "text-generation",
       "arxiv:2104.09864",
-      "transformers",
       "text-generation-inference",
       "region:us"
     ],
@@ -13474,9 +13479,9 @@
     "private": false,
     "downloads": 28,
     "tags": [
+      "transformers",
       "llama",
       "dataset:rombodawg/LosslessMegaCodeTrainingV2_1m_Evol_Uncensored",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -13490,11 +13495,11 @@
     "private": false,
     "downloads": 217,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "dataset:rombodawg/LosslessMegaCodeTrainingV2_1m_Evol_Uncensored",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -13583,9 +13588,9 @@
     "private": false,
     "downloads": 8,
     "tags": [
+      "transformers",
       "gpt-neox",
       "hu",
-      "transformers",
       "text-generation",
       "puli",
       "license:cc-by-nc-4.0",
@@ -13601,11 +13606,11 @@
     "private": false,
     "downloads": 11,
     "tags": [
+      "transformers",
       "safetensors",
       "gpt_neox",
       "text-generation",
       "hu",
-      "transformers",
       "puli",
       "license:cc-by-nc-4.0",
       "text-generation-inference",
@@ -13741,9 +13746,9 @@
     "private": false,
     "downloads": 9,
     "tags": [
+      "transformers",
       "llama",
       "en",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -13757,11 +13762,11 @@
     "private": false,
     "downloads": 46,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -13776,9 +13781,9 @@
     "private": false,
     "downloads": 4,
     "tags": [
+      "transformers",
       "llama",
       "en",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -13792,11 +13797,11 @@
     "private": false,
     "downloads": 9,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -13811,11 +13816,11 @@
     "private": false,
     "downloads": 87,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -13830,9 +13835,9 @@
     "private": false,
     "downloads": 1,
     "tags": [
+      "transformers",
       "llama",
       "en",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -13866,12 +13871,12 @@
     "private": false,
     "downloads": 8,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "dataset:jerryjalapeno/nart-100k-synthetic",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -13886,10 +13891,10 @@
     "private": false,
     "downloads": 1,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "dataset:jerryjalapeno/nart-100k-synthetic",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -13903,10 +13908,10 @@
     "private": false,
     "downloads": 1,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "dataset:jerryjalapeno/nart-100k-synthetic",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -13920,12 +13925,12 @@
     "private": false,
     "downloads": 18,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "dataset:jerryjalapeno/nart-100k-synthetic",
-      "transformers",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -14017,11 +14022,11 @@
     "private": false,
     "downloads": 23,
     "tags": [
+      "transformers",
       "starcoder",
       "dataset:bigcode/commitpackft",
       "dataset:bigcode/oasst-octopack",
       "arxiv:2308.07124",
-      "transformers",
       "code",
       "license:bigcode-openrail-m",
       "text-generation",
@@ -14038,13 +14043,13 @@
     "private": false,
     "downloads": 44,
     "tags": [
+      "transformers",
       "safetensors",
       "gpt_bigcode",
       "text-generation",
       "dataset:bigcode/commitpackft",
       "dataset:bigcode/oasst-octopack",
       "arxiv:2308.07124",
-      "transformers",
       "code",
       "license:bigcode-openrail-m",
       "model-index",
@@ -14095,6 +14100,7 @@
     "private": false,
     "downloads": 979,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -14103,7 +14109,6 @@
       "arxiv:2306.02707",
       "arxiv:2301.13688",
       "arxiv:2307.09288",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -14118,13 +14123,13 @@
     "private": false,
     "downloads": 10,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "dataset:Open-Orca/OpenOrca",
       "arxiv:2306.02707",
       "arxiv:2301.13688",
       "arxiv:2307.09288",
-      "transformers",
       "license:llama2",
       "text-generation",
       "text-generation-inference",
@@ -14326,10 +14331,10 @@
     "private": false,
     "downloads": 283,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -14379,10 +14384,10 @@
     "private": false,
     "downloads": 15,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "dataset:LDJnr/Puffin",
-      "transformers",
       "license:apache-2.0",
       "text-generation",
       "text-generation-inference",
@@ -14398,12 +14403,12 @@
     "private": false,
     "downloads": 242,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "dataset:LDJnr/Puffin",
-      "transformers",
       "license:apache-2.0",
       "text-generation-inference",
       "region:us"
@@ -14418,12 +14423,12 @@
     "private": false,
     "downloads": 596,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "dataset:totally-not-an-llm/everything-sharegptformat-morecleaned",
-      "transformers",
       "license:apache-2.0",
       "text-generation-inference",
       "region:us"
@@ -14438,10 +14443,10 @@
     "private": false,
     "downloads": 6,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "dataset:totally-not-an-llm/everything-sharegptformat-morecleaned",
-      "transformers",
       "license:apache-2.0",
       "text-generation",
       "text-generation-inference",
@@ -14457,12 +14462,12 @@
     "private": false,
     "downloads": 76,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "dataset:totally-not-an-llm/sharegpt-hyperfiltered-3k",
-      "transformers",
       "license:apache-2.0",
       "text-generation-inference",
       "region:us"
@@ -14477,10 +14482,10 @@
     "private": false,
     "downloads": 12,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "dataset:totally-not-an-llm/sharegpt-hyperfiltered-3k",
-      "transformers",
       "license:apache-2.0",
       "text-generation",
       "text-generation-inference",
@@ -14881,17 +14886,17 @@
     "private": false,
     "downloads": 1916,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "llama-2",
       "codellama",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-13B-fp16"
@@ -14903,11 +14908,11 @@
     "private": false,
     "downloads": 1507,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "llama-2",
       "codellama",
       "license:llama2",
@@ -14925,17 +14930,17 @@
     "private": false,
     "downloads": 1791,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "llama-2",
       "codellama",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-13B-Python-fp16"
@@ -14947,11 +14952,11 @@
     "private": false,
     "downloads": 729,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "llama-2",
       "codellama",
       "license:llama2",
@@ -14969,11 +14974,11 @@
     "private": false,
     "downloads": 281,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "llama-2",
       "codellama",
       "license:llama2",
@@ -14990,11 +14995,11 @@
     "private": false,
     "downloads": 1390,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "llama-2",
       "codellama",
       "license:llama2",
@@ -15156,17 +15161,17 @@
     "private": false,
     "downloads": 905,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "llama-2",
       "codellama",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-34B-Python-fp16"
@@ -15178,17 +15183,17 @@
     "private": false,
     "downloads": 1445,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "llama-2",
       "codellama",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-34B-Instruct-fp16"
@@ -15200,11 +15205,11 @@
     "private": false,
     "downloads": 1538,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "custom_code",
-      "transformers",
       "llama-2",
       "codellama",
       "license:llama2",
@@ -15804,6 +15809,7 @@
     "private": false,
     "downloads": 2451,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
@@ -15811,13 +15817,12 @@
       "arxiv:2306.08568",
       "arxiv:2308.09583",
       "arxiv:2303.08774",
-      "transformers",
       "code",
       "license:llama2",
       "model-index",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/WizardCoder-Python-34B-V1.0-GPTQ"
@@ -15902,10 +15907,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "arxiv:2306.02707",
-      "transformers",
       "license:llama2",
       "text-generation",
       "text-generation-inference",
@@ -15921,10 +15926,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "llama",
       "en",
       "arxiv:2306.02707",
-      "transformers",
       "license:llama2",
       "text-generation",
       "text-generation-inference",
@@ -15940,12 +15945,12 @@
     "private": false,
     "downloads": 23,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
       "arxiv:2306.02707",
-      "transformers",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -17066,9 +17071,9 @@
       "text-generation",
       "en",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Kimiko-v2-13B-fp16"
@@ -17160,9 +17165,9 @@
       "text-generation",
       "en",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/fiction.live-Kimiko-V2-70B-fp16"
@@ -19141,7 +19146,7 @@
   {
     "_id": "64f74a56c96939d7501428c6",
     "id": "TheBloke/CodeUp-Llama-2-13B-Chat-HF-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -19800,7 +19805,7 @@
   {
     "_id": "64f7a58cbcf14b0c915ad636",
     "id": "TheBloke/Mythalion-13B-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -20317,7 +20322,7 @@
   {
     "_id": "64f8ad3c29a9aa4778e7fdab",
     "id": "TheBloke/Falcon-180B-Chat-GPTQ",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 33,
     "tags": [
@@ -20455,7 +20460,7 @@
   {
     "_id": "64f97e6a159055330801aec5",
     "id": "TheBloke/Falcon-180B-Chat-GGUF",
-    "likes": 14,
+    "likes": 11,
     "private": false,
     "downloads": 0,
     "tags": [
