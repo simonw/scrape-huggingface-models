@@ -20050,7 +20050,7 @@
   {
     "_id": "64f7cf200590f3db14851f22",
     "id": "TheBloke/Upstage-Llama-2-70B-instruct-v2-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -20317,7 +20317,7 @@
   {
     "_id": "64f8ad3c29a9aa4778e7fdab",
     "id": "TheBloke/Falcon-180B-Chat-GPTQ",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 33,
     "tags": [
@@ -20492,5 +20492,27 @@
       "region:us"
     ],
     "modelId": "TheBloke/Kimiko-13B-GGUF"
+  },
+  {
+    "_id": "64f9cbee83d4162777353beb",
+    "id": "TheBloke/YuLan-Chat-2-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/YuLan-Chat-2-13B-GPTQ"
+  },
+  {
+    "_id": "64f9cbeedc79f453eec64073",
+    "id": "TheBloke/YuLan-Chat-2-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/YuLan-Chat-2-13B-GGUF"
   }
 ]
