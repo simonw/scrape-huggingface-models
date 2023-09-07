@@ -9222,7 +9222,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 491,
+    "likes": 492,
     "private": false,
     "downloads": 7923,
     "tags": [
@@ -18165,7 +18165,7 @@
   {
     "_id": "64f3050ceb5f2982081cb828",
     "id": "TheBloke/OpenBuddy-Llama2-13B-v11.1-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 19,
     "tags": [
@@ -19774,7 +19774,7 @@
   {
     "_id": "64f7a58c8a4c5c401d6b6328",
     "id": "TheBloke/Mythalion-13B-GPTQ",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 58,
     "tags": [
@@ -20459,6 +20459,8 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "falcon",
       "en",
       "de",
       "es",
@@ -20470,6 +20472,7 @@
       "arxiv:2205.14135",
       "arxiv:2306.01116",
       "license:unknown",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Falcon-180B-Chat-GGUF"
