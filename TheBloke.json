@@ -15093,7 +15093,7 @@
   {
     "_id": "64e7bc1129a548f66a1ddb15",
     "id": "TheBloke/CodeLlama-13B-Instruct-GGUF",
-    "likes": 29,
+    "likes": 30,
     "private": false,
     "downloads": 103,
     "tags": [
@@ -16380,7 +16380,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 35,
+    "likes": 36,
     "private": false,
     "downloads": 19,
     "tags": [
@@ -17175,7 +17175,7 @@
   {
     "_id": "64f0787aa8e82e0b85b503cd",
     "id": "TheBloke/MythoMax-L2-Kimiko-v2-13B-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -18170,7 +18170,7 @@
   {
     "_id": "64f3050ceb5f2982081cb828",
     "id": "TheBloke/OpenBuddy-Llama2-13B-v11.1-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 19,
     "tags": [
@@ -18242,7 +18242,7 @@
   {
     "_id": "64f611cf6ad07ea81779ca15",
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 58,
     "tags": [
@@ -20460,7 +20460,7 @@
   {
     "_id": "64f97e6a159055330801aec5",
     "id": "TheBloke/Falcon-180B-Chat-GGUF",
-    "likes": 31,
+    "likes": 33,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20583,8 +20583,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "baichuan",
+      "text-generation",
+      "custom_code",
+      "en",
+      "zh",
+      "license:llama2",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Baichuan2-13B-Chat-GPTQ"
   }
 ]
