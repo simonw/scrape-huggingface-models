@@ -9271,7 +9271,7 @@
   {
     "_id": "64b6d3eeab056b63ede8a758",
     "id": "TheBloke/Llama-2-13B-chat-GGML",
-    "likes": 570,
+    "likes": 571,
     "private": false,
     "downloads": 4896,
     "tags": [
@@ -9757,13 +9757,13 @@
     "private": false,
     "downloads": 30809,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "llama-2",
-      "license:other",
+      "license:llama2",
       "text-classification",
       "text-generation-inference",
       "region:us"
@@ -10757,11 +10757,11 @@
     "private": false,
     "downloads": 1313,
     "tags": [
+      "transformers",
       "llama",
       "en",
-      "transformers",
       "llama-2",
-      "license:other",
+      "license:llama2",
       "text-classification",
       "has_space",
       "text-generation-inference",
@@ -15317,7 +15317,7 @@
   {
     "_id": "64e7d2676e8d01b79993ca60",
     "id": "TheBloke/CodeLlama-7B-GGML",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 46,
     "tags": [
@@ -18180,9 +18180,9 @@
       "ru",
       "license:llama2",
       "text-generation",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/OpenBuddy-Llama2-13B-v11.1-GGUF"
@@ -20314,7 +20314,7 @@
   {
     "_id": "64f8ad3c29a9aa4778e7fdab",
     "id": "TheBloke/Falcon-180B-Chat-GPTQ",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20409,8 +20409,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "llama-2",
+      "license:llama2",
+      "text-classification",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-classification",
     "modelId": "TheBloke/llama-2-70b-Guanaco-QLoRA-GGUF"
   },
   {
