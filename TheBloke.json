@@ -9222,7 +9222,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 490,
+    "likes": 491,
     "private": false,
     "downloads": 7923,
     "tags": [
@@ -9246,7 +9246,7 @@
   {
     "_id": "64b6ce072edcb4a1aa820cbe",
     "id": "TheBloke/Llama-2-7b-Chat-GPTQ",
-    "likes": 117,
+    "likes": 118,
     "private": false,
     "downloads": 110527,
     "tags": [
@@ -17037,7 +17037,7 @@
   {
     "_id": "64ef6fa9abd9fb191425096e",
     "id": "TheBloke/Kimiko-v2-13B-GGML",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -18409,7 +18409,7 @@
   {
     "_id": "64f69c38c3bdaab6f58e2b8c",
     "id": "TheBloke/MythoMax-L2-13B-GGUF",
-    "likes": 5,
+    "likes": 4,
     "private": false,
     "downloads": 19,
     "tags": [
@@ -19721,7 +19721,7 @@
   {
     "_id": "64f7a55f2f7d3d945cc6a646",
     "id": "TheBloke/Pygmalion-2-7B-GPTQ",
-    "likes": 3,
+    "likes": 5,
     "private": false,
     "downloads": 16,
     "tags": [
@@ -19772,7 +19772,7 @@
   {
     "_id": "64f7a58c8a4c5c401d6b6328",
     "id": "TheBloke/Mythalion-13B-GPTQ",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 58,
     "tags": [
@@ -20452,10 +20452,21 @@
   {
     "_id": "64f97e6a159055330801aec5",
     "id": "TheBloke/Falcon-180B-Chat-GGUF",
-    "likes": 5,
+    "likes": 7,
     "private": false,
     "downloads": 0,
     "tags": [
+      "en",
+      "de",
+      "es",
+      "fr",
+      "dataset:tiiuae/falcon-refinedweb",
+      "arxiv:1911.02150",
+      "arxiv:2005.14165",
+      "arxiv:2104.09864",
+      "arxiv:2205.14135",
+      "arxiv:2306.01116",
+      "license:unknown",
       "region:us"
     ],
     "modelId": "TheBloke/Falcon-180B-Chat-GGUF"
