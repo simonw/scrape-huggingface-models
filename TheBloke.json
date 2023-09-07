@@ -37,7 +37,7 @@
     "id": "TheBloke/koala-7B-GPTQ",
     "likes": 31,
     "private": false,
-    "downloads": 60,
+    "downloads": 42,
     "tags": [
       "safetensors",
       "llama",
@@ -55,7 +55,7 @@
     "id": "TheBloke/koala-7B-HF",
     "likes": 18,
     "private": false,
-    "downloads": 715,
+    "downloads": 797,
     "tags": [
       "pytorch",
       "llama",
@@ -79,7 +79,7 @@
     "id": "TheBloke/koala-13B-HF",
     "likes": 38,
     "private": false,
-    "downloads": 1850,
+    "downloads": 1932,
     "tags": [
       "pytorch",
       "llama",
@@ -185,7 +185,7 @@
     "id": "TheBloke/vicuna-13B-1.1-GPTQ",
     "likes": 204,
     "private": false,
-    "downloads": 480,
+    "downloads": 456,
     "tags": [
       "transformers",
       "llama",
@@ -203,7 +203,7 @@
     "id": "TheBloke/vicuna-7B-1.1-GPTQ",
     "likes": 56,
     "private": false,
-    "downloads": 206,
+    "downloads": 207,
     "tags": [
       "transformers",
       "llama",
@@ -220,7 +220,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-30b-HF",
     "likes": 9,
     "private": false,
-    "downloads": 670,
+    "downloads": 752,
     "tags": [
       "pytorch",
       "llama",
@@ -287,7 +287,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-13B-HF",
     "likes": 4,
     "private": false,
-    "downloads": 671,
+    "downloads": 751,
     "tags": [
       "pytorch",
       "llama",
@@ -335,7 +335,7 @@
     "id": "TheBloke/alpaca-lora-65B-HF",
     "likes": 3,
     "private": false,
-    "downloads": 634,
+    "downloads": 716,
     "tags": [
       "pytorch",
       "llama",
@@ -385,7 +385,7 @@
     "id": "TheBloke/medalpaca-13B-GPTQ",
     "likes": 25,
     "private": false,
-    "downloads": 672,
+    "downloads": 752,
     "tags": [
       "transformers",
       "pytorch",
@@ -407,7 +407,7 @@
     "id": "TheBloke/wizardLM-7B-HF",
     "likes": 89,
     "private": false,
-    "downloads": 3130,
+    "downloads": 3220,
     "tags": [
       "pytorch",
       "llama",
@@ -439,7 +439,7 @@
     "id": "TheBloke/wizardLM-7B-GPTQ",
     "likes": 106,
     "private": false,
-    "downloads": 1785,
+    "downloads": 1751,
     "tags": [
       "safetensors",
       "llama",
@@ -458,7 +458,7 @@
     "id": "TheBloke/stable-vicuna-13B-HF",
     "likes": 95,
     "private": false,
-    "downloads": 2185,
+    "downloads": 2252,
     "tags": [
       "pytorch",
       "llama",
@@ -497,7 +497,7 @@
     "id": "TheBloke/stable-vicuna-13B-GPTQ",
     "likes": 215,
     "private": false,
-    "downloads": 465,
+    "downloads": 494,
     "tags": [
       "safetensors",
       "llama",
@@ -522,7 +522,7 @@
     "id": "TheBloke/OpenAssistant-SFT-7-Llama-30B-HF",
     "likes": 13,
     "private": false,
-    "downloads": 813,
+    "downloads": 898,
     "tags": [
       "pytorch",
       "llama",
@@ -588,7 +588,7 @@
     "id": "TheBloke/wizard-vicuna-13B-GPTQ",
     "likes": 99,
     "private": false,
-    "downloads": 1221,
+    "downloads": 1299,
     "tags": [
       "safetensors",
       "llama",
@@ -608,7 +608,7 @@
     "id": "TheBloke/wizard-vicuna-13B-HF",
     "likes": 48,
     "private": false,
-    "downloads": 876,
+    "downloads": 956,
     "tags": [
       "pytorch",
       "llama",
@@ -641,7 +641,7 @@
     "id": "TheBloke/WizardLM-7B-uncensored-GPTQ",
     "likes": 146,
     "private": false,
-    "downloads": 7898,
+    "downloads": 7838,
     "tags": [
       "safetensors",
       "llama",
@@ -661,7 +661,7 @@
     "id": "TheBloke/GPT4All-13B-snoozy-GPTQ",
     "likes": 27,
     "private": false,
-    "downloads": 122,
+    "downloads": 120,
     "tags": [
       "safetensors",
       "llama",
@@ -693,7 +693,7 @@
     "id": "TheBloke/gpt4-x-vicuna-13B-GPTQ",
     "likes": 34,
     "private": false,
-    "downloads": 258,
+    "downloads": 270,
     "tags": [
       "safetensors",
       "llama",
@@ -735,7 +735,7 @@
     "id": "TheBloke/dromedary-65b-lora-HF",
     "likes": 19,
     "private": false,
-    "downloads": 631,
+    "downloads": 713,
     "tags": [
       "pytorch",
       "llama",
@@ -808,7 +808,7 @@
     "id": "TheBloke/h2ogpt-oasst1-512-30B-HF",
     "likes": 2,
     "private": false,
-    "downloads": 659,
+    "downloads": 741,
     "tags": [
       "pytorch",
       "llama",
@@ -845,7 +845,7 @@
     "id": "TheBloke/gpt4-alpaca-lora_mlp-65B-HF",
     "likes": 7,
     "private": false,
-    "downloads": 676,
+    "downloads": 757,
     "tags": [
       "pytorch",
       "llama",
@@ -866,7 +866,7 @@
     "id": "TheBloke/gpt4-alpaca-lora_mlp-65B-GPTQ",
     "likes": 12,
     "private": false,
-    "downloads": 16493,
+    "downloads": 20766,
     "tags": [
       "safetensors",
       "llama",
@@ -900,7 +900,7 @@
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
     "likes": 226,
     "private": false,
-    "downloads": 8693,
+    "downloads": 8844,
     "tags": [
       "safetensors",
       "llama",
@@ -922,7 +922,7 @@
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-HF",
     "likes": 196,
     "private": false,
-    "downloads": 3573,
+    "downloads": 3621,
     "tags": [
       "pytorch",
       "llama",
@@ -964,7 +964,7 @@
     "id": "TheBloke/wizard-mega-13B-GPTQ",
     "likes": 101,
     "private": false,
-    "downloads": 958,
+    "downloads": 1037,
     "tags": [
       "safetensors",
       "llama",
@@ -1033,7 +1033,7 @@
     "id": "TheBloke/VicUnlocked-30B-LoRA-HF",
     "likes": 1,
     "private": false,
-    "downloads": 644,
+    "downloads": 726,
     "tags": [
       "pytorch",
       "llama",
@@ -1053,7 +1053,7 @@
     "id": "TheBloke/LLaMa-7B-GGML",
     "likes": 51,
     "private": false,
-    "downloads": 95,
+    "downloads": 87,
     "tags": [
       "llama",
       "transformers",
@@ -1069,7 +1069,7 @@
     "id": "TheBloke/LLaMa-13B-GGML",
     "likes": 18,
     "private": false,
-    "downloads": 31,
+    "downloads": 30,
     "tags": [
       "llama",
       "transformers",
@@ -1099,7 +1099,7 @@
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ",
     "likes": 64,
     "private": false,
-    "downloads": 351084,
+    "downloads": 367269,
     "tags": [
       "safetensors",
       "llama",
@@ -1134,7 +1134,7 @@
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-HF",
     "likes": 18,
     "private": false,
-    "downloads": 1540,
+    "downloads": 1524,
     "tags": [
       "pytorch",
       "llama",
@@ -1156,7 +1156,7 @@
     "id": "TheBloke/MPT-7B-GGML",
     "likes": 21,
     "private": false,
-    "downloads": 20,
+    "downloads": 19,
     "tags": [
       "mpt",
       "dataset:mc4",
@@ -1185,7 +1185,7 @@
     "id": "TheBloke/MPT-7B-Instruct-GGML",
     "likes": 26,
     "private": false,
-    "downloads": 32,
+    "downloads": 34,
     "tags": [
       "mpt",
       "dataset:mosaicml/dolly_hhrlhf",
@@ -1207,7 +1207,7 @@
     "id": "TheBloke/MPT-7B-Storywriter-GGML",
     "likes": 43,
     "private": false,
-    "downloads": 21,
+    "downloads": 23,
     "tags": [
       "mpt",
       "dataset:the_pile_books3",
@@ -1241,7 +1241,7 @@
     "id": "TheBloke/Manticore-13B-GPTQ",
     "likes": 36,
     "private": false,
-    "downloads": 53,
+    "downloads": 48,
     "tags": [
       "safetensors",
       "llama",
@@ -1300,7 +1300,7 @@
     "id": "TheBloke/WizardLM-30B-Uncensored-GPTQ",
     "likes": 99,
     "private": false,
-    "downloads": 6875,
+    "downloads": 6502,
     "tags": [
       "safetensors",
       "llama",
@@ -1339,7 +1339,7 @@
     "id": "TheBloke/airoboros-13B-HF",
     "likes": 11,
     "private": false,
-    "downloads": 657,
+    "downloads": 739,
     "tags": [
       "pytorch",
       "llama",
@@ -1358,7 +1358,7 @@
     "id": "TheBloke/manticore-13b-chat-pyg-GPTQ",
     "likes": 32,
     "private": false,
-    "downloads": 174,
+    "downloads": 158,
     "tags": [
       "safetensors",
       "llama",
@@ -1427,7 +1427,7 @@
     "id": "TheBloke/Project-Baize-v2-7B-GPTQ",
     "likes": 4,
     "private": false,
-    "downloads": 468,
+    "downloads": 550,
     "tags": [
       "safetensors",
       "llama",
@@ -1447,7 +1447,7 @@
     "id": "TheBloke/Project-Baize-v2-13B-GPTQ",
     "likes": 12,
     "private": false,
-    "downloads": 646,
+    "downloads": 728,
     "tags": [
       "safetensors",
       "llama",
@@ -1497,7 +1497,7 @@
     "id": "TheBloke/guanaco-13B-GPTQ",
     "likes": 29,
     "private": false,
-    "downloads": 64,
+    "downloads": 56,
     "tags": [
       "safetensors",
       "llama",
@@ -1518,7 +1518,7 @@
     "id": "TheBloke/guanaco-33B-GPTQ",
     "likes": 70,
     "private": false,
-    "downloads": 820,
+    "downloads": 897,
     "tags": [
       "safetensors",
       "llama",
@@ -1537,7 +1537,7 @@
     "id": "TheBloke/guanaco-65B-GPTQ",
     "likes": 247,
     "private": false,
-    "downloads": 690,
+    "downloads": 696,
     "tags": [
       "safetensors",
       "llama",
@@ -15993,7 +15993,7 @@
   {
     "_id": "64ea296ce74f54587cc51cf5",
     "id": "TheBloke/Genz-70b-GPTQ",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 1239,
     "tags": [
@@ -16035,9 +16035,9 @@
     "private": false,
     "downloads": 16,
     "tags": [
+      "transformers",
       "llama",
       "en",
-      "transformers",
       "llama-2",
       "instruct",
       "instruction",
@@ -16056,11 +16056,11 @@
     "private": false,
     "downloads": 100,
     "tags": [
+      "transformers",
       "safetensors",
       "llama",
       "text-generation",
       "en",
-      "transformers",
       "llama-2",
       "instruct",
       "instruction",
@@ -17169,7 +17169,7 @@
   {
     "_id": "64f0787aa8e82e0b85b503cd",
     "id": "TheBloke/MythoMax-L2-Kimiko-v2-13B-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -18409,7 +18409,7 @@
   {
     "_id": "64f69c38c3bdaab6f58e2b8c",
     "id": "TheBloke/MythoMax-L2-13B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -18441,7 +18441,7 @@
   {
     "_id": "64f6a23433753a192d84ca08",
     "id": "TheBloke/vicuna-13B-v1.5-16K-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20322,6 +20322,17 @@
       "safetensors",
       "falcon",
       "text-generation",
+      "en",
+      "de",
+      "es",
+      "fr",
+      "dataset:tiiuae/falcon-refinedweb",
+      "arxiv:1911.02150",
+      "arxiv:2005.14165",
+      "arxiv:2104.09864",
+      "arxiv:2205.14135",
+      "arxiv:2306.01116",
+      "license:unknown",
       "text-generation-inference",
       "region:us"
     ],
