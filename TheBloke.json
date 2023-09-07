@@ -20317,7 +20317,7 @@
   {
     "_id": "64f8ad3c29a9aa4778e7fdab",
     "id": "TheBloke/Falcon-180B-Chat-GPTQ",
-    "likes": 18,
+    "likes": 19,
     "private": false,
     "downloads": 33,
     "tags": [
@@ -20455,7 +20455,7 @@
   {
     "_id": "64f97e6a159055330801aec5",
     "id": "TheBloke/Falcon-180B-Chat-GGUF",
-    "likes": 11,
+    "likes": 14,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20533,8 +20533,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "alpaca",
+      "cot",
+      "vicuna",
+      "uncensored",
+      "merge",
+      "mix",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/13B-Thorns-L2-GPTQ"
   },
   {
@@ -20544,6 +20557,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "alpaca",
+      "cot",
+      "vicuna",
+      "uncensored",
+      "merge",
+      "mix",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/13B-Thorns-L2-GGUF"
