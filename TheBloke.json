@@ -3970,7 +3970,7 @@
   {
     "_id": "6489dec34344b9f97db273d9",
     "id": "TheBloke/WizardCoder-15B-1.0-GPTQ",
-    "likes": 150,
+    "likes": 151,
     "private": false,
     "downloads": 4774,
     "tags": [
@@ -17795,7 +17795,7 @@
   {
     "_id": "64f26d7c7fafa9a685fb585d",
     "id": "TheBloke/UndiMix-v2-13B-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -19670,7 +19670,7 @@
   {
     "_id": "64f7a5295515d7dcce860396",
     "id": "TheBloke/Pygmalion-2-13B-GPTQ",
-    "likes": 12,
+    "likes": 14,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20069,7 +20069,7 @@
   {
     "_id": "64f7e02a35a0a9fc542e1850",
     "id": "TheBloke/Luna-AI-Llama2-Uncensored-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20319,6 +20319,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "safetensors",
       "falcon",
       "text-generation",
       "text-generation-inference",
@@ -20385,7 +20386,7 @@
   {
     "_id": "64f8db3bb0f25f3fe3bdf596",
     "id": "TheBloke/llama2_70b_chat_uncensored-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20436,5 +20437,16 @@
       "region:us"
     ],
     "modelId": "TheBloke/Kimiko-7B-GGUF"
+  },
+  {
+    "_id": "64f97e6a159055330801aec5",
+    "id": "TheBloke/Falcon-180B-Chat-GGUF",
+    "likes": 2,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Falcon-180B-Chat-GGUF"
   }
 ]
