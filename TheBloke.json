@@ -17019,7 +17019,7 @@
   {
     "_id": "64ef6fa91df52444a5eeb749",
     "id": "TheBloke/Kimiko-v2-13B-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -18190,7 +18190,7 @@
   {
     "_id": "64f5fd954d3b1dd311d30e28",
     "id": "TheBloke/Llama-2-7B-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 31,
     "tags": [
@@ -18213,7 +18213,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7b-Chat-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 32,
     "tags": [
@@ -18236,7 +18236,7 @@
   {
     "_id": "64f611cf6ad07ea81779ca15",
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 23,
     "tags": [
@@ -19088,7 +19088,7 @@
   {
     "_id": "64f7451182673b2a07ae1103",
     "id": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -19361,7 +19361,7 @@
   {
     "_id": "64f76aa549282808834e53d5",
     "id": "TheBloke/llama-2-13B-Guanaco-QLoRA-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -19636,7 +19636,7 @@
   {
     "_id": "64f79fa6b095963b26f0a1c3",
     "id": "TheBloke/llama-2-7B-Guanaco-QLoRA-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -20314,12 +20314,17 @@
   {
     "_id": "64f8ad3c29a9aa4778e7fdab",
     "id": "TheBloke/Falcon-180B-Chat-GPTQ",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "falcon",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Falcon-180B-Chat-GPTQ"
   },
   {
