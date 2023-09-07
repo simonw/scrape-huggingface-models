@@ -10800,7 +10800,7 @@
   {
     "_id": "64c424a988373ea620003f06",
     "id": "TheBloke/StableBeluga-13B-GPTQ",
-    "likes": 31,
+    "likes": 32,
     "private": false,
     "downloads": 1884,
     "tags": [
@@ -18196,7 +18196,7 @@
   {
     "_id": "64f5fd954d3b1dd311d30e28",
     "id": "TheBloke/Llama-2-7B-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 92,
     "tags": [
@@ -18265,7 +18265,7 @@
   {
     "_id": "64f614a19c2aeb2a3dea1312",
     "id": "TheBloke/Llama-2-13B-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 37,
     "tags": [
@@ -20460,7 +20460,7 @@
   {
     "_id": "64f97e6a159055330801aec5",
     "id": "TheBloke/Falcon-180B-Chat-GGUF",
-    "likes": 23,
+    "likes": 24,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20575,5 +20575,27 @@
       "region:us"
     ],
     "modelId": "TheBloke/13B-Thorns-L2-GGUF"
+  },
+  {
+    "_id": "64fa1ebf4c8924c4fe4d4e7e",
+    "id": "TheBloke/Baichuan2-13B-Chat-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Baichuan2-13B-Chat-GPTQ"
+  },
+  {
+    "_id": "64fa1f18b8d50cebd60c6c8c",
+    "id": "TheBloke/Baichuan2-13B-Chat-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Baichuan2-13B-Chat-GGUF"
   }
 ]
