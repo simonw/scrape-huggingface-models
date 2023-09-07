@@ -10395,7 +10395,7 @@
   {
     "_id": "64be7edb4b4ff0d5096ef74b",
     "id": "TheBloke/airoboros-l2-70B-gpt4-1.4.1-GPTQ",
-    "likes": 51,
+    "likes": 52,
     "private": false,
     "downloads": 10827,
     "tags": [
@@ -20455,7 +20455,7 @@
   {
     "_id": "64f97e6a159055330801aec5",
     "id": "TheBloke/Falcon-180B-Chat-GGUF",
-    "likes": 9,
+    "likes": 11,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20525,5 +20525,27 @@
       "region:us"
     ],
     "modelId": "TheBloke/YuLan-Chat-2-13B-GGUF"
+  },
+  {
+    "_id": "64f9dba179f16350860a693c",
+    "id": "TheBloke/13B-Thorns-L2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/13B-Thorns-L2-GPTQ"
+  },
+  {
+    "_id": "64f9dd4e11dbf5e8148ca69b",
+    "id": "TheBloke/13B-Thorns-L2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/13B-Thorns-L2-GGUF"
   }
 ]
