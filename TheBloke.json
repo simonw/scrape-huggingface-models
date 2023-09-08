@@ -18289,7 +18289,7 @@
   {
     "_id": "64f61985e916843d8ebc5db8",
     "id": "TheBloke/Llama-2-70B-chat-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 46,
     "tags": [
@@ -19714,7 +19714,7 @@
   {
     "_id": "64f7a529d04a890f5353ad13",
     "id": "TheBloke/Pygmalion-2-13B-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 33,
     "tags": [
@@ -20476,7 +20476,7 @@
   {
     "_id": "64f97e6a159055330801aec5",
     "id": "TheBloke/Falcon-180B-Chat-GGUF",
-    "likes": 42,
+    "likes": 43,
     "private": false,
     "downloads": 23,
     "tags": [
@@ -20759,10 +20759,25 @@
   {
     "_id": "64fb0a84d82fc6977d6558a2",
     "id": "TheBloke/Falcon-180B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "falcon",
+      "en",
+      "de",
+      "es",
+      "fr",
+      "dataset:tiiuae/falcon-refinedweb",
+      "arxiv:1911.02150",
+      "arxiv:2101.00027",
+      "arxiv:2005.14165",
+      "arxiv:2104.09864",
+      "arxiv:2205.14135",
+      "arxiv:2306.01116",
+      "license:unknown",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Falcon-180B-GGUF"
