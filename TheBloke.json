@@ -7423,7 +7423,7 @@
   {
     "_id": "64a59b76c568c6ebe0f7440e",
     "id": "TheBloke/BLOOMChat-176B-v1-GPTQ",
-    "likes": 23,
+    "likes": 24,
     "private": false,
     "downloads": 38,
     "tags": [
@@ -9225,7 +9225,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 499,
+    "likes": 500,
     "private": false,
     "downloads": 7957,
     "tags": [
@@ -9381,7 +9381,7 @@
   {
     "_id": "64b72139a00eab5bcddae33e",
     "id": "TheBloke/Llama-2-70B-chat-GPTQ",
-    "likes": 173,
+    "likes": 174,
     "private": false,
     "downloads": 36695,
     "tags": [
@@ -10040,7 +10040,7 @@
       "self-instruct",
       "distillation",
       "synthetic instruction",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -10062,7 +10062,7 @@
       "self-instruct",
       "distillation",
       "synthetic instruction",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -12578,7 +12578,7 @@
   {
     "_id": "64d2a57f50310d7ad3899788",
     "id": "TheBloke/stablecode-completion-alpha-3b-4k-GGML",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 39,
     "tags": [
@@ -13114,7 +13114,7 @@
   {
     "_id": "64d5e2dcabf475a808a24d42",
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
-    "likes": 50,
+    "likes": 51,
     "private": false,
     "downloads": 63113,
     "tags": [
@@ -15303,7 +15303,7 @@
   {
     "_id": "64e7d00dae53e70cda1de235",
     "id": "TheBloke/CodeLlama-34B-Instruct-GGUF",
-    "likes": 43,
+    "likes": 44,
     "private": false,
     "downloads": 40,
     "tags": [
@@ -17254,7 +17254,7 @@
   {
     "_id": "64f0898fde8b758e17893577",
     "id": "TheBloke/Airoboros-L2-70B-2.1-Creative-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 50,
     "tags": [
@@ -18448,7 +18448,7 @@
   {
     "_id": "64f6a23433753a192d84ca08",
     "id": "TheBloke/vicuna-13B-v1.5-16K-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -18649,6 +18649,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "llama-2",
+      "self-instruct",
+      "distillation",
+      "synthetic instruction",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Nous-Hermes-Llama2-GGUF"
@@ -19332,7 +19341,7 @@
   {
     "_id": "64f7679782810661246cc68f",
     "id": "TheBloke/Synthia-13B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20752,5 +20761,16 @@
       "region:us"
     ],
     "modelId": "TheBloke/Falcon-180B-GGUF"
+  },
+  {
+    "_id": "64fb1676b961d0d12c7fce3c",
+    "id": "TheBloke/Chronos-Hermes-13b-v2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Chronos-Hermes-13b-v2-GGUF"
   }
 ]
