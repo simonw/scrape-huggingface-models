@@ -9225,7 +9225,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 500,
+    "likes": 501,
     "private": false,
     "downloads": 7957,
     "tags": [
@@ -10230,7 +10230,7 @@
   {
     "_id": "64bbf75286e7fb5b8a3f0388",
     "id": "TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GGML",
-    "likes": 35,
+    "likes": 36,
     "private": false,
     "downloads": 55,
     "tags": [
@@ -11776,7 +11776,7 @@
       "chatbot",
       "storywriting",
       "generalist-model",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -13482,7 +13482,7 @@
       "transformers",
       "llama",
       "dataset:rombodawg/LosslessMegaCodeTrainingV2_1m_Evol_Uncensored",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -13500,7 +13500,7 @@
       "llama",
       "text-generation",
       "dataset:rombodawg/LosslessMegaCodeTrainingV2_1m_Evol_Uncensored",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -15034,7 +15034,7 @@
   {
     "_id": "64e78d0b1703da9e63ecc64c",
     "id": "TheBloke/CodeLlama-7B-Python-GGUF",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 42,
     "tags": [
@@ -15138,7 +15138,7 @@
   {
     "_id": "64e7bdab9f8952a1c0ffbbb8",
     "id": "TheBloke/CodeLlama-13B-Python-GGUF",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 19,
     "tags": [
@@ -18220,7 +18220,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7b-Chat-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 107,
     "tags": [
@@ -20011,6 +20011,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "dataset:rombodawg/LosslessMegaCodeTrainingV2_1m_Evol_Uncensored",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/LosslessMegaCoder-Llama2-7B-Mini-GGUF"
@@ -20471,7 +20476,7 @@
   {
     "_id": "64f97e6a159055330801aec5",
     "id": "TheBloke/Falcon-180B-Chat-GGUF",
-    "likes": 41,
+    "likes": 42,
     "private": false,
     "downloads": 23,
     "tags": [
@@ -20769,6 +20774,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "llama-2",
+      "pytorch",
+      "chatbot",
+      "storywriting",
+      "generalist-model",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Chronos-Hermes-13b-v2-GGUF"
