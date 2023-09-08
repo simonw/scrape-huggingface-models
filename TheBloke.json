@@ -2372,7 +2372,7 @@
   {
     "_id": "647b3c28b31514a4a6d83660",
     "id": "TheBloke/Nous-Hermes-13B-GPTQ",
-    "likes": 143,
+    "likes": 144,
     "private": false,
     "downloads": 7176,
     "tags": [
@@ -18289,7 +18289,7 @@
   {
     "_id": "64f61985e916843d8ebc5db8",
     "id": "TheBloke/Llama-2-70B-chat-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 46,
     "tags": [
@@ -20476,7 +20476,7 @@
   {
     "_id": "64f97e6a159055330801aec5",
     "id": "TheBloke/Falcon-180B-Chat-GGUF",
-    "likes": 45,
+    "likes": 46,
     "private": false,
     "downloads": 23,
     "tags": [
@@ -20948,7 +20948,7 @@
   {
     "_id": "64fb950a60017eeec9905224",
     "id": "TheBloke/MythoMax-L2-33B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20967,8 +20967,27 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-2.2",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Spicyboros-7B-2.2-GPTQ"
+  },
+  {
+    "_id": "64fba4af365e3069d725742b",
+    "id": "TheBloke/MythoMax-L2-33B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MythoMax-L2-33B-GPTQ"
   }
 ]
