@@ -18,8 +18,8 @@ jobs:
       with:
         python-version: '3.11'
         cache: pip
-    - name: Install git-history
-      run: pip install git-history
+    - name: Install requirements
+      run: pip install -r requirements.txt
     - name: Scrape
       run: |        
         curl --request GET \
