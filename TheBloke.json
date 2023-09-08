@@ -9151,7 +9151,7 @@
   {
     "_id": "64b6c679d16e945399007406",
     "id": "TheBloke/Llama-2-7B-GPTQ",
-    "likes": 42,
+    "likes": 43,
     "private": false,
     "downloads": 9450,
     "tags": [
@@ -20717,8 +20717,29 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:Fredithefish/openassistant-guanaco-unfiltered",
+      "license:llama2",
+      "conversational",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "conversational",
     "modelId": "TheBloke/Guanaco-13B-Uncensored-GPTQ"
+  },
+  {
+    "_id": "64fae94f2d20ced4e9fb86bd",
+    "id": "TheBloke/Airoboros-L2-13B-2.1-YaRN-64K-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-13B-2.1-YaRN-64K-GPTQ"
   }
 ]
