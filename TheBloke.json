@@ -885,7 +885,7 @@
   {
     "_id": "645f47b66990e1208522b794",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GGML",
-    "likes": 183,
+    "likes": 184,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -1268,7 +1268,7 @@
   {
     "_id": "64677b44a48c2b6f0d60cedc",
     "id": "TheBloke/medalpaca-13B-GGML",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -11542,7 +11542,7 @@
   {
     "_id": "64cb5e618769a4019f982308",
     "id": "TheBloke/vicuna-13B-v1.5-16K-GGML",
-    "likes": 52,
+    "likes": 53,
     "private": false,
     "downloads": 176,
     "tags": [
@@ -11580,7 +11580,7 @@
   {
     "_id": "64cb603ff103036e23be94c9",
     "id": "TheBloke/vicuna-7B-v1.5-16K-GGML",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 27,
     "tags": [
@@ -18218,7 +18218,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7b-Chat-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 72,
     "tags": [
@@ -20460,7 +20460,7 @@
   {
     "_id": "64f97e6a159055330801aec5",
     "id": "TheBloke/Falcon-180B-Chat-GGUF",
-    "likes": 39,
+    "likes": 40,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20595,5 +20595,83 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Baichuan2-13B-Chat-GPTQ"
+  },
+  {
+    "_id": "64facfab0e486522f80e45e6",
+    "id": "TheBloke/Llama-2-PeanutButter_v19_R8-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:PeanutJar/PeanutButter-Train",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Llama-2-PeanutButter_v19_R8-7B-GPTQ"
+  },
+  {
+    "_id": "64facfc1fa64465422564a3e",
+    "id": "TheBloke/Llama-2-PeanutButter_v19_R8-7B-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:PeanutJar/PeanutButter-Train",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-PeanutButter_v19_R8-7B-GGUF"
+  },
+  {
+    "_id": "64fad258fa6446542256a42c",
+    "id": "TheBloke/Guanaco-7B-Uncensored-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:Fredithefish/openassistant-guanaco-unfiltered",
+      "license:llama2",
+      "conversational",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "conversational",
+    "modelId": "TheBloke/Guanaco-7B-Uncensored-GGUF"
+  },
+  {
+    "_id": "64fad53cbb362cbf2fdf43ce",
+    "id": "TheBloke/Guanaco-13B-Uncensored-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Guanaco-13B-Uncensored-GGUF"
+  },
+  {
+    "_id": "64fad64ad75293f417ca9554",
+    "id": "TheBloke/Guanaco-7B-Uncensored-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Guanaco-7B-Uncensored-GPTQ"
   }
 ]
