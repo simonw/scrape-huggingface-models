@@ -19841,7 +19841,7 @@
   {
     "_id": "64f7a62a6f5070e160b0c4f2",
     "id": "TheBloke/LlongOrca-7B-16K-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -20476,7 +20476,7 @@
   {
     "_id": "64f97e6a159055330801aec5",
     "id": "TheBloke/Falcon-180B-Chat-GGUF",
-    "likes": 44,
+    "likes": 45,
     "private": false,
     "downloads": 23,
     "tags": [
@@ -20903,6 +20903,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/COTHuginn-4.5-19B-GGUF"
@@ -20917,5 +20921,21 @@
       "region:us"
     ],
     "modelId": "TheBloke/COTHuginn-4.5-19B-GPTQ"
+  },
+  {
+    "_id": "64fb90af52992431a6eeec23",
+    "id": "TheBloke/Spicyboros-7B-2.2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "dataset:jondurbin/airoboros-2.2",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Spicyboros-7B-2.2-GGUF"
   }
 ]
