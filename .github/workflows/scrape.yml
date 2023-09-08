@@ -14,6 +14,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
+    - uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        cache: pip
+    - name: Install git-history
+      run: pip install git-history
     - name: Scrape
       run: |        
         curl --request GET \
@@ -28,3 +34,11 @@ jobs:
         git commit -m "${timestamp}" || exit 0
         git pull --rebase
         git push
+    - name: Generate history
+      run: |
+        git-history file history.db TheBloke.json --id id
+    - name: Upload as artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: history
+        path: history.db
