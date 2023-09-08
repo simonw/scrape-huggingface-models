@@ -11542,7 +11542,7 @@
   {
     "_id": "64cb5e618769a4019f982308",
     "id": "TheBloke/vicuna-13B-v1.5-16K-GGML",
-    "likes": 54,
+    "likes": 55,
     "private": false,
     "downloads": 176,
     "tags": [
@@ -20937,5 +20937,16 @@
       "region:us"
     ],
     "modelId": "TheBloke/Spicyboros-7B-2.2-GGUF"
+  },
+  {
+    "_id": "64fb950a60017eeec9905224",
+    "id": "TheBloke/MythoMax-L2-33B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MythoMax-L2-33B-GGUF"
   }
 ]
