@@ -4004,7 +4004,7 @@
   {
     "_id": "648a4e7afe11ebd748a8a4be",
     "id": "TheBloke/WizardLM-Uncensored-Falcon-40B-GGML",
-    "likes": 37,
+    "likes": 38,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -4020,7 +4020,7 @@
   {
     "_id": "648a4ed83688b02f2a6e3e93",
     "id": "TheBloke/falcon-40b-instruct-GGML",
-    "likes": 53,
+    "likes": 54,
     "private": false,
     "downloads": 27,
     "tags": [
@@ -4865,7 +4865,7 @@
   {
     "_id": "6492fbe70a1b4c70ee6871f8",
     "id": "TheBloke/falcon-7b-instruct-GGML",
-    "likes": 33,
+    "likes": 34,
     "private": false,
     "downloads": 217,
     "tags": [
@@ -6312,7 +6312,7 @@
   {
     "_id": "649c10dc3bdb0c1b2d03dfa3",
     "id": "TheBloke/airoboros-33B-gpt4-1-4-SuperHOT-8K-GPTQ",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 502,
     "tags": [
@@ -7335,7 +7335,7 @@
   {
     "_id": "64a4abf3143b1c7b58ff5384",
     "id": "TheBloke/falcon-40b-sft-mix-1226-GGML",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 16,
     "tags": [
@@ -11150,7 +11150,7 @@
       "transformers",
       "llama",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
-      "license:other",
+      "license:llama2",
       "has_space",
       "text-generation-inference",
       "region:us"
@@ -11169,7 +11169,7 @@
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -11185,8 +11185,8 @@
     "tags": [
       "transformers",
       "llama",
-      "dataset:jondurbin/airoboros-gpt4-2.0",
-      "license:other",
+      "dataset:jondurbin/airoboros-gpt4-m2.0",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -11203,8 +11203,8 @@
       "safetensors",
       "llama",
       "text-generation",
-      "dataset:jondurbin/airoboros-gpt4-2.0",
-      "license:other",
+      "dataset:jondurbin/airoboros-gpt4-m2.0",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -11221,7 +11221,7 @@
       "transformers",
       "llama",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -11239,7 +11239,7 @@
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -18482,7 +18482,7 @@
   {
     "_id": "64f6a7e501456607f6518b64",
     "id": "TheBloke/vicuna-7B-v1.5-16K-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -20476,7 +20476,7 @@
   {
     "_id": "64f97e6a159055330801aec5",
     "id": "TheBloke/Falcon-180B-Chat-GGUF",
-    "likes": 43,
+    "likes": 44,
     "private": false,
     "downloads": 23,
     "tags": [
@@ -20748,7 +20748,7 @@
   {
     "_id": "64fae94f2d20ced4e9fb86bd",
     "id": "TheBloke/Airoboros-L2-13B-2.1-YaRN-64K-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20757,6 +20757,8 @@
       "llama",
       "text-generation",
       "custom_code",
+      "dataset:jondurbin/airoboros-2.1",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -20832,8 +20834,45 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "dataset:jondurbin/airoboros-gpt4-m2.0",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/airoboros-l2-13b-gpt4-m2.0-GGUF"
+  },
+  {
+    "_id": "64fb78338c21ebb3db7f41ee",
+    "id": "TheBloke/airoboros-l2-7B-gpt4-2.0-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "dataset:jondurbin/airoboros-gpt4-m2.0",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/airoboros-l2-7B-gpt4-2.0-GGUF"
+  },
+  {
+    "_id": "64fb79caace5670c735b788e",
+    "id": "TheBloke/airoboros-l2-7B-gpt4-m2.0-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "dataset:jondurbin/airoboros-gpt4-m2.0",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/airoboros-l2-7B-gpt4-m2.0-GGUF"
   }
 ]
