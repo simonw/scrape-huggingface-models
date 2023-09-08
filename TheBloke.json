@@ -9127,7 +9127,7 @@
   {
     "_id": "64b6c6798f63c1ad2b13762a",
     "id": "TheBloke/Llama-2-7B-GGML",
-    "likes": 189,
+    "likes": 190,
     "private": false,
     "downloads": 1732,
     "tags": [
@@ -17176,7 +17176,7 @@
   {
     "_id": "64f0787aa8e82e0b85b503cd",
     "id": "TheBloke/MythoMax-L2-Kimiko-v2-13B-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -18448,7 +18448,7 @@
   {
     "_id": "64f6a23433753a192d84ca08",
     "id": "TheBloke/vicuna-13B-v1.5-16K-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -20462,7 +20462,7 @@
   {
     "_id": "64f97e6a159055330801aec5",
     "id": "TheBloke/Falcon-180B-Chat-GGUF",
-    "likes": 40,
+    "likes": 41,
     "private": false,
     "downloads": 23,
     "tags": [
@@ -20741,5 +20741,16 @@
       "region:us"
     ],
     "modelId": "TheBloke/Airoboros-L2-13B-2.1-YaRN-64K-GPTQ"
+  },
+  {
+    "_id": "64fb0a84d82fc6977d6558a2",
+    "id": "TheBloke/Falcon-180B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Falcon-180B-GGUF"
   }
 ]
