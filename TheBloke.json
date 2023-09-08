@@ -13114,7 +13114,7 @@
   {
     "_id": "64d5e2dcabf475a808a24d42",
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
-    "likes": 52,
+    "likes": 53,
     "private": false,
     "downloads": 63113,
     "tags": [
@@ -13381,7 +13381,7 @@
   {
     "_id": "64d7f1c7a146b1c0a696f54f",
     "id": "TheBloke/EverythingLM-13B-16K-GGML",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 11,
     "tags": [
@@ -20899,7 +20899,7 @@
   {
     "_id": "64fb8a5bb961d0d12c90ef20",
     "id": "TheBloke/COTHuginn-4.5-19B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20918,8 +20918,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/COTHuginn-4.5-19B-GPTQ"
   },
   {
@@ -20945,8 +20952,23 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/MythoMax-L2-33B-GGUF"
+  },
+  {
+    "_id": "64fb9df4f393f303700d4c0b",
+    "id": "TheBloke/Spicyboros-7B-2.2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Spicyboros-7B-2.2-GPTQ"
   }
 ]
