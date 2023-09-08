@@ -15843,7 +15843,6 @@
       "code",
       "license:llama2",
       "model-index",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -18922,7 +18921,7 @@
   {
     "_id": "64f72243d17cc5f6c35ebf8f",
     "id": "TheBloke/orca_mini_v3_7B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -18935,7 +18934,8 @@
       "license:llama2",
       "text-generation",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/orca_mini_v3_7B-GGUF"
