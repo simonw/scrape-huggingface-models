@@ -18220,7 +18220,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7b-Chat-GGUF",
-    "likes": 18,
+    "likes": 19,
     "private": false,
     "downloads": 139,
     "tags": [
@@ -18658,7 +18658,8 @@
       "synthetic instruction",
       "license:llama2",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/Nous-Hermes-Llama2-GGUF"
   },
