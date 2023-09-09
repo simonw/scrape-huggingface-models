@@ -9380,7 +9380,7 @@
   {
     "_id": "64b72139a00eab5bcddae33e",
     "id": "TheBloke/Llama-2-70B-chat-GPTQ",
-    "likes": 174,
+    "likes": 175,
     "private": false,
     "downloads": 36756,
     "tags": [
@@ -20595,7 +20595,7 @@
   {
     "_id": "64fa1ebf4c8924c4fe4d4e7e",
     "id": "TheBloke/Baichuan2-13B-Chat-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 33,
     "tags": [
@@ -20996,5 +20996,23 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MythoMax-L2-33B-GPTQ"
+  },
+  {
+    "_id": "64fc5ce8dc465697358b713a",
+    "id": "TheBloke/Guanaco-3B-Uncensored-v2-GGML",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gpt-neox",
+      "en",
+      "dataset:Fredithefish/openassistant-guanaco-unfiltered",
+      "license:apache-2.0",
+      "conversational",
+      "region:us"
+    ],
+    "pipeline_tag": "conversational",
+    "modelId": "TheBloke/Guanaco-3B-Uncensored-v2-GGML"
   }
 ]
