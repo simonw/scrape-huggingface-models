@@ -19816,7 +19816,7 @@
   {
     "_id": "64f7a58cbcf14b0c915ad636",
     "id": "TheBloke/Mythalion-13B-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 38,
     "tags": [
@@ -20338,7 +20338,7 @@
   {
     "_id": "64f8ad3c29a9aa4778e7fdab",
     "id": "TheBloke/Falcon-180B-Chat-GPTQ",
-    "likes": 24,
+    "likes": 25,
     "private": false,
     "downloads": 2955,
     "tags": [
@@ -20595,7 +20595,7 @@
   {
     "_id": "64fa1ebf4c8924c4fe4d4e7e",
     "id": "TheBloke/Baichuan2-13B-Chat-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 33,
     "tags": [
@@ -21022,8 +21022,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Uni-TianYan-70B-GPTQ"
   },
   {
