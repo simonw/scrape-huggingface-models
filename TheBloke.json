@@ -383,7 +383,7 @@
   {
     "_id": "644447c08f795c936d05471a",
     "id": "TheBloke/medalpaca-13B-GPTQ",
-    "likes": 25,
+    "likes": 26,
     "private": false,
     "downloads": 919,
     "tags": [
@@ -1267,7 +1267,7 @@
   {
     "_id": "64677b44a48c2b6f0d60cedc",
     "id": "TheBloke/medalpaca-13B-GGML",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -2031,7 +2031,7 @@
   {
     "_id": "64756943f9e3e0b312f9ac64",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GGML",
-    "likes": 104,
+    "likes": 105,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -10115,7 +10115,7 @@
   {
     "_id": "64bb0fee5ee4641b32d0bcd2",
     "id": "TheBloke/llama2_7b_chat_uncensored-GGML",
-    "likes": 85,
+    "likes": 86,
     "private": false,
     "downloads": 206,
     "tags": [
@@ -18220,7 +18220,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7b-Chat-GGUF",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 139,
     "tags": [
@@ -20982,7 +20982,7 @@
   {
     "_id": "64fba4af365e3069d725742b",
     "id": "TheBloke/MythoMax-L2-33B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -21033,6 +21033,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "arxiv:2306.02707",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Uni-TianYan-70B-GGUF"
