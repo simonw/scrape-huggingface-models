@@ -19765,7 +19765,7 @@
   {
     "_id": "64f7a55fe7584abc62396874",
     "id": "TheBloke/Pygmalion-2-7B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 16,
     "tags": [
@@ -20768,7 +20768,7 @@
   {
     "_id": "64fb0a84d82fc6977d6558a2",
     "id": "TheBloke/Falcon-180B-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -21065,5 +21065,16 @@
       "region:us"
     ],
     "modelId": "TheBloke/ORCA_LLaMA_70B_QLoRA-GGUF"
+  },
+  {
+    "_id": "64fcc97fd82fc6977d9e7cd5",
+    "id": "TheBloke/ORCA_LLaMA_70B_QLoRA-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/ORCA_LLaMA_70B_QLoRA-GPTQ"
   }
 ]
