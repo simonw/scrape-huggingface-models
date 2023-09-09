@@ -20671,7 +20671,7 @@
   {
     "_id": "64fad53cbb362cbf2fdf43ce",
     "id": "TheBloke/Guanaco-13B-Uncensored-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -21014,5 +21014,27 @@
     ],
     "pipeline_tag": "conversational",
     "modelId": "TheBloke/Guanaco-3B-Uncensored-v2-GGML"
+  },
+  {
+    "_id": "64fc8f30fa6446542290ef44",
+    "id": "TheBloke/Uni-TianYan-70B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Uni-TianYan-70B-GPTQ"
+  },
+  {
+    "_id": "64fc8fd99132c7f62a2801f9",
+    "id": "TheBloke/Uni-TianYan-70B-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Uni-TianYan-70B-GGUF"
   }
 ]
