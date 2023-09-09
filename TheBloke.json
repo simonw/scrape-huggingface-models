@@ -15223,7 +15223,7 @@
   {
     "_id": "64e7c2379f8952a1c0008ed1",
     "id": "TheBloke/CodeLlama-34B-GGUF",
-    "likes": 30,
+    "likes": 31,
     "private": false,
     "downloads": 32,
     "tags": [
@@ -15845,7 +15845,8 @@
       "license:llama2",
       "model-index",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/WizardCoder-Python-34B-V1.0-GGUF"
   },
