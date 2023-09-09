@@ -3822,7 +3822,7 @@
   {
     "_id": "648845cf6ab9e4baf519355a",
     "id": "TheBloke/chronos-hermes-13B-GPTQ",
-    "likes": 29,
+    "likes": 30,
     "private": false,
     "downloads": 202,
     "tags": [
@@ -21042,5 +21042,16 @@
       "region:us"
     ],
     "modelId": "TheBloke/Uni-TianYan-70B-GGUF"
+  },
+  {
+    "_id": "64fca89114636d417ac82d1b",
+    "id": "TheBloke/ORCA_LLaMA_70B_QLoRA-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/ORCA_LLaMA_70B_QLoRA-GGUF"
   }
 ]
