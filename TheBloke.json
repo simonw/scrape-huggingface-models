@@ -13312,7 +13312,7 @@
   {
     "_id": "64d7e1405e5f05485cfb67b5",
     "id": "TheBloke/OpenOrca-Platypus2-13B-GPTQ",
-    "likes": 37,
+    "likes": 38,
     "private": false,
     "downloads": 16161,
     "tags": [
@@ -15999,7 +15999,7 @@
   {
     "_id": "64ea296ce74f54587cc51cf5",
     "id": "TheBloke/Genz-70b-GPTQ",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 2048,
     "tags": [
@@ -20476,7 +20476,7 @@
   {
     "_id": "64f97e6a159055330801aec5",
     "id": "TheBloke/Falcon-180B-Chat-GGUF",
-    "likes": 51,
+    "likes": 52,
     "private": false,
     "downloads": 38,
     "tags": [
@@ -21050,6 +21050,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "arxiv:2306.02707",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/ORCA_LLaMA_70B_QLoRA-GGUF"
