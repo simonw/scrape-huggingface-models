@@ -1267,7 +1267,7 @@
   {
     "_id": "64677b44a48c2b6f0d60cedc",
     "id": "TheBloke/medalpaca-13B-GGML",
-    "likes": 14,
+    "likes": 13,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15093,7 +15093,7 @@
   {
     "_id": "64e7bc1129a548f66a1ddb15",
     "id": "TheBloke/CodeLlama-13B-Instruct-GGUF",
-    "likes": 33,
+    "likes": 34,
     "private": false,
     "downloads": 115,
     "tags": [
@@ -21073,8 +21073,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/ORCA_LLaMA_70B_QLoRA-GPTQ"
   }
 ]
