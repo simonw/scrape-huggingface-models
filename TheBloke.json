@@ -12622,7 +12622,7 @@
   {
     "_id": "64d2b3ba89a89bedda1a4fdb",
     "id": "TheBloke/stablecode-instruct-alpha-3b-GGML",
-    "likes": 39,
+    "likes": 40,
     "private": false,
     "downloads": 76,
     "tags": [
@@ -16935,7 +16935,7 @@
   {
     "_id": "64ef4eea76af29f31126c97c",
     "id": "TheBloke/Athena-v1-GGUF",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 169,
     "tags": [
@@ -18658,8 +18658,7 @@
       "synthetic instruction",
       "license:llama2",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "modelId": "TheBloke/Nous-Hermes-Llama2-GGUF"
   },
