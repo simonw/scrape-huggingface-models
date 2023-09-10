@@ -9224,7 +9224,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 511,
+    "likes": 512,
     "private": false,
     "downloads": 7777,
     "tags": [
@@ -11142,7 +11142,7 @@
   {
     "_id": "64c8504d120a85440bea848d",
     "id": "TheBloke/airoboros-l2-13b-gpt4-m2.0-GGML",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 264,
     "tags": [
@@ -11159,7 +11159,7 @@
   {
     "_id": "64c8504ecf159388b2d8387d",
     "id": "TheBloke/airoboros-l2-13b-gpt4-m2.0-GPTQ",
-    "likes": 23,
+    "likes": 24,
     "private": false,
     "downloads": 512,
     "tags": [
@@ -20339,7 +20339,7 @@
   {
     "_id": "64f8ad3c29a9aa4778e7fdab",
     "id": "TheBloke/Falcon-180B-Chat-GPTQ",
-    "likes": 27,
+    "likes": 28,
     "private": false,
     "downloads": 3151,
     "tags": [
@@ -20831,7 +20831,7 @@
   {
     "_id": "64fb754e67096272ae78cc36",
     "id": "TheBloke/airoboros-l2-13b-gpt4-m2.0-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -21122,7 +21122,7 @@
   {
     "_id": "64fdbabd60017eeec9d16133",
     "id": "TheBloke/Spicyboros-13B-2.2-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -21257,5 +21257,31 @@
       "region:us"
     ],
     "modelId": "TheBloke/MLewdBoros-L2-13B-GGUF"
+  },
+  {
+    "_id": "64fe30d352992431a63cf667",
+    "id": "TheBloke/ReMM-v2-L2-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/ReMM-v2-L2-13B-GGUF"
+  },
+  {
+    "_id": "64fe34cac367f7b1ca27a336",
+    "id": "TheBloke/Llama-2-13B-Ensemble-v5-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-13B-Ensemble-v5-GGUF"
   }
 ]
