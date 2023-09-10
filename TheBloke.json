@@ -21304,8 +21304,26 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/ReMM-v2-L2-13B-GPTQ"
+  },
+  {
+    "_id": "64fe42a62913f2fbc4d1f7e9",
+    "id": "TheBloke/Llama-2-13B-Ensemble-v5-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-13B-Ensemble-v5-GPTQ"
   }
 ]
