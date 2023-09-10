@@ -21237,8 +21237,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MLewdBoros-L2-13B-GPTQ"
   },
   {
@@ -21280,8 +21289,23 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Llama-2-13B-Ensemble-v5-GGUF"
+  },
+  {
+    "_id": "64fe37e29a6cb76e35f92977",
+    "id": "TheBloke/ReMM-v2-L2-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/ReMM-v2-L2-13B-GPTQ"
   }
 ]
