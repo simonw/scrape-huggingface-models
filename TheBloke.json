@@ -15314,7 +15314,8 @@
       "license:llama2",
       "text-generation",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-34B-Instruct-GGUF"
@@ -21129,6 +21130,9 @@
       "safetensors",
       "llama",
       "text-generation",
+      "dataset:jondurbin/airoboros-2.2",
+      "not-for-all-audiences",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -21178,8 +21182,24 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Tulpar-7B-v0-GGUF"
+  },
+  {
+    "_id": "64fdc6b04c8924c4fecad550",
+    "id": "TheBloke/Pygmalion-2-13B-SuperCOT-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Pygmalion-2-13B-SuperCOT-GPTQ"
   }
 ]
