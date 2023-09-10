@@ -1891,7 +1891,7 @@
   {
     "_id": "64733bb82a74fb43ccdaefef",
     "id": "TheBloke/Samantha-7B-GGML",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -21000,7 +21000,7 @@
   {
     "_id": "64fbded739d541478efe19b0",
     "id": "TheBloke/Falcon-180B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -21125,8 +21125,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Spicyboros-13B-2.2-GPTQ"
   },
   {
@@ -21145,5 +21151,35 @@
       "region:us"
     ],
     "modelId": "TheBloke/Spicyboros-13B-2.2-GGUF"
+  },
+  {
+    "_id": "64fdc032b60e2c9ddd574624",
+    "id": "TheBloke/Pygmalion-2-13B-SuperCOT-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "llama-2",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Pygmalion-2-13B-SuperCOT-GGUF"
+  },
+  {
+    "_id": "64fdc4b714636d417ae64d6c",
+    "id": "TheBloke/Tulpar-7B-v0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Tulpar-7B-v0-GGUF"
   }
 ]
