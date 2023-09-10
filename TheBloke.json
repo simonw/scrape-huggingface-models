@@ -11804,7 +11804,7 @@
   {
     "_id": "64cbe710e3cc4a476d801926",
     "id": "TheBloke/llama2_70b_chat_uncensored-GPTQ",
-    "likes": 34,
+    "likes": 35,
     "private": false,
     "downloads": 1522,
     "tags": [
@@ -16276,7 +16276,7 @@
   {
     "_id": "64eb5af6b96ff0e175550f31",
     "id": "TheBloke/CodeLlama-13B-oasst-sft-v10-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -16381,7 +16381,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 41,
+    "likes": 42,
     "private": false,
     "downloads": 29,
     "tags": [
@@ -21026,6 +21026,9 @@
       "safetensors",
       "llama",
       "text-generation",
+      "en",
+      "arxiv:2306.02707",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -21077,6 +21080,9 @@
       "safetensors",
       "llama",
       "text-generation",
+      "en",
+      "arxiv:2306.02707",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
