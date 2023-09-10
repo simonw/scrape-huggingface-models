@@ -18336,7 +18336,7 @@
   {
     "_id": "64f65d33a88ce22a102c0fb3",
     "id": "TheBloke/openchat_v3.2_super-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -19791,7 +19791,7 @@
   {
     "_id": "64f7a58c8a4c5c401d6b6328",
     "id": "TheBloke/Mythalion-13B-GPTQ",
-    "likes": 28,
+    "likes": 29,
     "private": false,
     "downloads": 490,
     "tags": [
@@ -21122,7 +21122,7 @@
   {
     "_id": "64fdbabd60017eeec9d16133",
     "id": "TheBloke/Spicyboros-13B-2.2-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -21218,8 +21218,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Tulpar-7B-v0-GPTQ"
   }
 ]
