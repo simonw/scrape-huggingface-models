@@ -15093,7 +15093,7 @@
   {
     "_id": "64e7bc1129a548f66a1ddb15",
     "id": "TheBloke/CodeLlama-13B-Instruct-GGUF",
-    "likes": 36,
+    "likes": 37,
     "private": false,
     "downloads": 116,
     "tags": [
@@ -19791,7 +19791,7 @@
   {
     "_id": "64f7a58c8a4c5c401d6b6328",
     "id": "TheBloke/Mythalion-13B-GPTQ",
-    "likes": 27,
+    "likes": 28,
     "private": false,
     "downloads": 490,
     "tags": [
@@ -19817,7 +19817,7 @@
   {
     "_id": "64f7a58cbcf14b0c915ad636",
     "id": "TheBloke/Mythalion-13B-GGUF",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 102,
     "tags": [
@@ -21198,8 +21198,28 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "llama-2",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Pygmalion-2-13B-SuperCOT-GPTQ"
+  },
+  {
+    "_id": "64fdd25a52992431a630e255",
+    "id": "TheBloke/Tulpar-7B-v0-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Tulpar-7B-v0-GPTQ"
   }
 ]
