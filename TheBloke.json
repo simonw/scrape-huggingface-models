@@ -1096,7 +1096,7 @@
   {
     "_id": "6465d98b9c627c78f8629e5d",
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ",
-    "likes": 67,
+    "likes": 68,
     "private": false,
     "downloads": 414556,
     "tags": [
@@ -18289,7 +18289,7 @@
   {
     "_id": "64f61985e916843d8ebc5db8",
     "id": "TheBloke/Llama-2-70B-chat-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 85,
     "tags": [
@@ -18312,7 +18312,7 @@
   {
     "_id": "64f62bf7376094fe6e13e61f",
     "id": "TheBloke/Llama-2-70B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -18731,7 +18731,7 @@
   {
     "_id": "64f6eefbb73dd5c3dfacc0c2",
     "id": "TheBloke/ReMM-SLERP-L2-13B-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -19635,7 +19635,7 @@
   {
     "_id": "64f78e065515d7dcce8242df",
     "id": "TheBloke/Samantha-1.1-70B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -19989,7 +19989,7 @@
   {
     "_id": "64f7c72a8a234f114e0fb07b",
     "id": "TheBloke/Chronos-70B-v2-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20047,7 +20047,7 @@
   {
     "_id": "64f7cc9b29a9aa4778c5997e",
     "id": "TheBloke/StableBeluga2-70B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20147,7 +20147,7 @@
   {
     "_id": "64f7f68e766ff9f3d28f9b02",
     "id": "TheBloke/orca_mini_v3_70B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -20187,7 +20187,7 @@
   {
     "_id": "64f81dd7766ff9f3d294d19d",
     "id": "TheBloke/airoboros-l2-70B-GPT4-2.0-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -20245,7 +20245,7 @@
   {
     "_id": "64f85b9c8a234f114e24910e",
     "id": "TheBloke/GodziLLa2-70B-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20322,7 +20322,7 @@
   {
     "_id": "64f89c95c29cdd96945b332b",
     "id": "TheBloke/airoboros-l2-70B-gpt4-1.4.1-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20366,7 +20366,7 @@
   {
     "_id": "64f8af1733fd3f0fcb793c92",
     "id": "TheBloke/Airoboros-L2-70B-GPT4-m2.0-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20382,7 +20382,7 @@
   {
     "_id": "64f8c21ad493d8b0d2be3556",
     "id": "TheBloke/WizardLM-70B-V1.0-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20400,7 +20400,7 @@
   {
     "_id": "64f8d55ea9b6fed18c84cce3",
     "id": "TheBloke/Llama-2-70B-OASST-1-200-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20441,7 +20441,7 @@
   {
     "_id": "64f8e72cf6b80fae5abd4c3c",
     "id": "TheBloke/llama-2-70b-Guanaco-QLoRA-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -20998,6 +20998,35 @@
     "modelId": "TheBloke/MythoMax-L2-33B-GPTQ"
   },
   {
+    "_id": "64fbded739d541478efe19b0",
+    "id": "TheBloke/Falcon-180B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "falcon",
+      "text-generation",
+      "en",
+      "de",
+      "es",
+      "fr",
+      "dataset:tiiuae/falcon-refinedweb",
+      "arxiv:1911.02150",
+      "arxiv:2101.00027",
+      "arxiv:2005.14165",
+      "arxiv:2104.09864",
+      "arxiv:2205.14135",
+      "arxiv:2306.01116",
+      "license:unknown",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Falcon-180B-GPTQ"
+  },
+  {
     "_id": "64fc5ce8dc465697358b713a",
     "id": "TheBloke/Guanaco-3B-Uncensored-v2-GGML",
     "likes": 3,
@@ -21088,5 +21117,33 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/ORCA_LLaMA_70B_QLoRA-GPTQ"
+  },
+  {
+    "_id": "64fdbabd60017eeec9d16133",
+    "id": "TheBloke/Spicyboros-13B-2.2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Spicyboros-13B-2.2-GPTQ"
+  },
+  {
+    "_id": "64fdbb064010eccccc609ea2",
+    "id": "TheBloke/Spicyboros-13B-2.2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "dataset:jondurbin/airoboros-2.2",
+      "not-for-all-audiences",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Spicyboros-13B-2.2-GGUF"
   }
 ]
