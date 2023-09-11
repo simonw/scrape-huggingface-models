@@ -19828,7 +19828,7 @@
   {
     "_id": "64f7a58cbcf14b0c915ad636",
     "id": "TheBloke/Mythalion-13B-GGUF",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 119,
     "tags": [
@@ -20488,7 +20488,7 @@
   {
     "_id": "64f97e6a159055330801aec5",
     "id": "TheBloke/Falcon-180B-Chat-GGUF",
-    "likes": 61,
+    "likes": 62,
     "private": false,
     "downloads": 74,
     "tags": [
@@ -21450,5 +21450,38 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Unholy-v1-12L-13B-GPTQ"
+  },
+  {
+    "_id": "64ff68bbefd273eec765be98",
+    "id": "TheBloke/Llama-2-70B-Ensemble-v5-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-70B-Ensemble-v5-GGUF"
+  },
+  {
+    "_id": "64ff691a1e14749e84d2c2d9",
+    "id": "TheBloke/Spicyboros-70B-2.2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Spicyboros-70B-2.2-GGUF"
+  },
+  {
+    "_id": "64ff6961cc88b84c069ac888",
+    "id": "TheBloke/Spicyboros-70B-2.2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Spicyboros-70B-2.2-GPTQ"
   }
 ]
