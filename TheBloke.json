@@ -11159,7 +11159,7 @@
   {
     "_id": "64c8504ecf159388b2d8387d",
     "id": "TheBloke/airoboros-l2-13b-gpt4-m2.0-GPTQ",
-    "likes": 24,
+    "likes": 25,
     "private": false,
     "downloads": 521,
     "tags": [
@@ -15789,7 +15789,7 @@
   {
     "_id": "64e9c5ba2beaa8c4104083e3",
     "id": "TheBloke/Phind-CodeLlama-34B-Python-v1-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 11,
     "tags": [
@@ -21133,7 +21133,7 @@
   {
     "_id": "64fdbabd60017eeec9d16133",
     "id": "TheBloke/Spicyboros-13B-2.2-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 43,
     "tags": [
@@ -21434,7 +21434,7 @@
   {
     "_id": "64fef2c03dea9c259294db85",
     "id": "TheBloke/Unholy-v1-12L-13B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -21491,8 +21491,12 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "safetensors",
       "llama",
       "text-generation",
+      "dataset:jondurbin/airoboros-2.2",
+      "not-for-all-audiences",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -21502,7 +21506,7 @@
   {
     "_id": "64ff7a2fa8e31c77227bfef0",
     "id": "TheBloke/Marcoroni-7b-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -21528,5 +21532,16 @@
       "region:us"
     ],
     "modelId": "TheBloke/Marcoroni-13B-GGUF"
+  },
+  {
+    "_id": "64ff9fea35ec97176275c87b",
+    "id": "TheBloke/Marcoroni-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Marcoroni-13B-GPTQ"
   }
 ]
