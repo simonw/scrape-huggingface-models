@@ -16362,7 +16362,7 @@
   {
     "_id": "64ed0427a79cf4a895eb53c9",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GPTQ",
-    "likes": 50,
+    "likes": 51,
     "private": false,
     "downloads": 3797,
     "tags": [
@@ -21490,8 +21490,13 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Spicyboros-70B-2.2-GPTQ"
   },
   {
