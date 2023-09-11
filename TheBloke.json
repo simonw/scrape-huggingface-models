@@ -2315,7 +2315,7 @@
   {
     "_id": "647b00b1e8b73330589b3c1e",
     "id": "TheBloke/based-30B-GGML",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -9344,7 +9344,7 @@
   {
     "_id": "64b6e916e16424ef9e032a2f",
     "id": "TheBloke/Llama-2-13B-Chat-fp16",
-    "likes": 50,
+    "likes": 51,
     "private": false,
     "downloads": 16422,
     "tags": [
@@ -18221,7 +18221,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7b-Chat-GGUF",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 221,
     "tags": [
@@ -21390,8 +21390,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Unholy-v1-10l-13B-GPTQ"
   },
   {
@@ -21410,5 +21419,16 @@
       "region:us"
     ],
     "modelId": "TheBloke/Unholy-v1-12L-13B-GGUF"
+  },
+  {
+    "_id": "64fef2c03dea9c259294db85",
+    "id": "TheBloke/Unholy-v1-12L-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Unholy-v1-12L-13B-GPTQ"
   }
 ]
