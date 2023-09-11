@@ -8610,7 +8610,7 @@
   {
     "_id": "64aad55c03835e13f9944d7e",
     "id": "TheBloke/openchat_v2-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -11541,7 +11541,7 @@
   {
     "_id": "64cb5e618769a4019f982308",
     "id": "TheBloke/vicuna-13B-v1.5-16K-GGML",
-    "likes": 55,
+    "likes": 56,
     "private": false,
     "downloads": 165,
     "tags": [
@@ -18337,7 +18337,7 @@
   {
     "_id": "64f65d33a88ce22a102c0fb3",
     "id": "TheBloke/openchat_v3.2_super-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -21473,6 +21473,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "dataset:jondurbin/airoboros-2.2",
+      "not-for-all-audiences",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Spicyboros-70B-2.2-GGUF"
@@ -21495,8 +21501,27 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Marcoroni-7b-GGUF"
+  },
+  {
+    "_id": "64ff7ae8e0c94282ab21d78a",
+    "id": "TheBloke/Marcoroni-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Marcoroni-13B-GGUF"
   }
 ]
