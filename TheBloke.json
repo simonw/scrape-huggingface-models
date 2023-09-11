@@ -21458,6 +21458,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Llama-2-70B-Ensemble-v5-GGUF"
@@ -21483,5 +21487,16 @@
       "region:us"
     ],
     "modelId": "TheBloke/Spicyboros-70B-2.2-GPTQ"
+  },
+  {
+    "_id": "64ff7a2fa8e31c77227bfef0",
+    "id": "TheBloke/Marcoroni-7b-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Marcoroni-7b-GGUF"
   }
 ]
