@@ -15012,7 +15012,7 @@
   {
     "_id": "64e78cdac3b2443fb30b9dda",
     "id": "TheBloke/CodeLlama-7B-Instruct-GGUF",
-    "likes": 34,
+    "likes": 35,
     "private": false,
     "downloads": 220,
     "tags": [
@@ -15093,7 +15093,7 @@
   {
     "_id": "64e7bc1129a548f66a1ddb15",
     "id": "TheBloke/CodeLlama-13B-Instruct-GGUF",
-    "likes": 40,
+    "likes": 41,
     "private": false,
     "downloads": 130,
     "tags": [
@@ -15137,7 +15137,7 @@
   {
     "_id": "64e7bdab9f8952a1c0ffbbb8",
     "id": "TheBloke/CodeLlama-13B-Python-GGUF",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 23,
     "tags": [
@@ -15242,7 +15242,7 @@
   {
     "_id": "64e7cc65e3953cd90bd5a2e6",
     "id": "TheBloke/CodeLlama-34B-Python-GGUF",
-    "likes": 25,
+    "likes": 26,
     "private": false,
     "downloads": 34,
     "tags": [
@@ -15302,7 +15302,7 @@
   {
     "_id": "64e7d00dae53e70cda1de235",
     "id": "TheBloke/CodeLlama-34B-Instruct-GGUF",
-    "likes": 51,
+    "likes": 52,
     "private": false,
     "downloads": 49,
     "tags": [
@@ -16936,7 +16936,7 @@
   {
     "_id": "64ef4eea76af29f31126c97c",
     "id": "TheBloke/Athena-v1-GGUF",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 239,
     "tags": [
@@ -18834,7 +18834,7 @@
   {
     "_id": "64f702cb61afe1d3356318fa",
     "id": "TheBloke/OpenBuddy-Llama2-70b-v10.1-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -21382,5 +21382,33 @@
       "region:us"
     ],
     "modelId": "TheBloke/Unholy-v1-10l-13B-GGUF"
+  },
+  {
+    "_id": "64fee7b0a10455384ebc8e20",
+    "id": "TheBloke/Unholy-v1-10l-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Unholy-v1-10l-13B-GPTQ"
+  },
+  {
+    "_id": "64fee9e4d8c6c30ec15697f5",
+    "id": "TheBloke/Unholy-v1-12L-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Unholy-v1-12L-13B-GGUF"
   }
 ]
