@@ -15012,7 +15012,7 @@
   {
     "_id": "64e78cdac3b2443fb30b9dda",
     "id": "TheBloke/CodeLlama-7B-Instruct-GGUF",
-    "likes": 33,
+    "likes": 34,
     "private": false,
     "downloads": 220,
     "tags": [
@@ -18244,7 +18244,7 @@
   {
     "_id": "64f611cf6ad07ea81779ca15",
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 127,
     "tags": [
@@ -18500,7 +18500,7 @@
   {
     "_id": "64f6a9796537390231ad3d1d",
     "id": "TheBloke/vicuna-7B-v1.5-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -21142,7 +21142,7 @@
   {
     "_id": "64fdbb064010eccccc609ea2",
     "id": "TheBloke/Spicyboros-13B-2.2-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -21340,8 +21340,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Nous-Hermes-13B-Code-GPTQ"
   },
   {
@@ -21366,6 +21373,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Unholy-v1-10l-13B-GGUF"
