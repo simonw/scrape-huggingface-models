@@ -1096,7 +1096,7 @@
   {
     "_id": "6465d98b9c627c78f8629e5d",
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ",
-    "likes": 69,
+    "likes": 70,
     "private": false,
     "downloads": 430268,
     "tags": [
@@ -1182,7 +1182,7 @@
   {
     "_id": "64665540e0fe831b4792e0b9",
     "id": "TheBloke/MPT-7B-Instruct-GGML",
-    "likes": 26,
+    "likes": 27,
     "private": false,
     "downloads": 34,
     "tags": [
@@ -3806,7 +3806,7 @@
   {
     "_id": "6488459d5d2e4cfaf36e5b4a",
     "id": "TheBloke/chronos-hermes-13B-GGML",
-    "likes": 29,
+    "likes": 30,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -10326,7 +10326,7 @@
   {
     "_id": "64be60105b8d826146f241c8",
     "id": "TheBloke/airoboros-l2-7b-gpt4-1.4.1-GGML",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 17,
     "tags": [
@@ -11764,7 +11764,7 @@
   {
     "_id": "64cbcb9d8256a8efea57b236",
     "id": "TheBloke/Chronos-Hermes-13B-v2-GGML",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 260,
     "tags": [
@@ -21427,8 +21427,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Unholy-v1-12L-13B-GPTQ"
   }
 ]
