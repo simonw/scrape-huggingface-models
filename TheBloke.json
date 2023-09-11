@@ -13291,7 +13291,7 @@
   {
     "_id": "64d74eda79d99b870053c362",
     "id": "TheBloke/Llama-2-13B-German-Assistant-v4-GPTQ",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 890,
     "tags": [
@@ -18259,7 +18259,8 @@
       "license:other",
       "text-generation",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-13B-chat-GGUF"
@@ -21364,7 +21365,7 @@
   {
     "_id": "64fed63dd8c6c30ec1542c7a",
     "id": "TheBloke/Nous-Hermes-13B-Code-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
