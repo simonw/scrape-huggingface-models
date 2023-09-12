@@ -18337,7 +18337,7 @@
   {
     "_id": "64f65d33a88ce22a102c0fb3",
     "id": "TheBloke/openchat_v3.2_super-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -19828,7 +19828,7 @@
   {
     "_id": "64f7a58cbcf14b0c915ad636",
     "id": "TheBloke/Mythalion-13B-GGUF",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 131,
     "tags": [
@@ -21365,7 +21365,7 @@
   {
     "_id": "64fed63dd8c6c30ec1542c7a",
     "id": "TheBloke/Nous-Hermes-13B-Code-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -21926,5 +21926,16 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Airoboros-L2-70b-2.2-GPTQ"
+  },
+  {
+    "_id": "6500dbd61e170b857453cc3b",
+    "id": "TheBloke/Euryale-L2-70B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Euryale-L2-70B-GPTQ"
   }
 ]
