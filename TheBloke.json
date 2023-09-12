@@ -21568,5 +21568,16 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Marcoroni-7b-GPTQ"
+  },
+  {
+    "_id": "64ffb7a0e3201fff8847aaf0",
+    "id": "TheBloke/Llama-2-70B-Ensemble-v5-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-70B-Ensemble-v5-GPTQ"
   }
 ]
