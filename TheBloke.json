@@ -21434,7 +21434,7 @@
   {
     "_id": "64fef2c03dea9c259294db85",
     "id": "TheBloke/Unholy-v1-12L-13B-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -21915,8 +21915,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-2.2",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Airoboros-L2-70b-2.2-GPTQ"
   }
 ]
