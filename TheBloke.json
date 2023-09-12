@@ -1050,7 +1050,7 @@
   {
     "_id": "6464cfa91054f08ddba6201f",
     "id": "TheBloke/LLaMa-7B-GGML",
-    "likes": 52,
+    "likes": 53,
     "private": false,
     "downloads": 75,
     "tags": [
@@ -10115,7 +10115,7 @@
   {
     "_id": "64bb0fee5ee4641b32d0bcd2",
     "id": "TheBloke/llama2_7b_chat_uncensored-GGML",
-    "likes": 87,
+    "likes": 88,
     "private": false,
     "downloads": 195,
     "tags": [
@@ -12453,7 +12453,7 @@
   {
     "_id": "64cf7bb2c0c627dfa7cd2c43",
     "id": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GGML",
-    "likes": 51,
+    "likes": 52,
     "private": false,
     "downloads": 261,
     "tags": [
@@ -13011,7 +13011,7 @@
   {
     "_id": "64d5615179d99b87001502e4",
     "id": "TheBloke/Platypus2-70B-Instruct-GPTQ",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 6019,
     "tags": [
@@ -18172,7 +18172,7 @@
   {
     "_id": "64f3050ceb5f2982081cb828",
     "id": "TheBloke/OpenBuddy-Llama2-13B-v11.1-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 37,
     "tags": [
@@ -18221,7 +18221,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7b-Chat-GGUF",
-    "likes": 28,
+    "likes": 29,
     "private": false,
     "downloads": 296,
     "tags": [
@@ -19092,7 +19092,7 @@
   {
     "_id": "64f7413ab7c50aef8391f646",
     "id": "TheBloke/Hermes-LLongMA-2-13B-8K-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -19777,7 +19777,7 @@
   {
     "_id": "64f7a55fe7584abc62396874",
     "id": "TheBloke/Pygmalion-2-7B-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 43,
     "tags": [
@@ -19828,7 +19828,7 @@
   {
     "_id": "64f7a58cbcf14b0c915ad636",
     "id": "TheBloke/Mythalion-13B-GGUF",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 131,
     "tags": [
@@ -21113,7 +21113,7 @@
   {
     "_id": "64fcc97fd82fc6977d9e7cd5",
     "id": "TheBloke/ORCA_LLaMA_70B_QLoRA-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 62,
     "tags": [
@@ -21704,8 +21704,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-2.2",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Airoboros-L2-7B-2.2-GPTQ"
   },
   {
@@ -21753,6 +21761,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "dataset:jondurbin/airoboros-2.2",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Airoboros-L2-13B-2.2-GGUF"
