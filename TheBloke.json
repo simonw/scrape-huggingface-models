@@ -15831,7 +15831,7 @@
   {
     "_id": "64e9e5316b9db55517b1d2a9",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GGUF",
-    "likes": 44,
+    "likes": 45,
     "private": false,
     "downloads": 76,
     "tags": [
@@ -20350,7 +20350,7 @@
   {
     "_id": "64f8ad3c29a9aa4778e7fdab",
     "id": "TheBloke/Falcon-180B-Chat-GPTQ",
-    "likes": 32,
+    "likes": 33,
     "private": false,
     "downloads": 3401,
     "tags": [
@@ -20488,7 +20488,7 @@
   {
     "_id": "64f97e6a159055330801aec5",
     "id": "TheBloke/Falcon-180B-Chat-GGUF",
-    "likes": 67,
+    "likes": 68,
     "private": false,
     "downloads": 82,
     "tags": [
@@ -21878,6 +21878,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Euryale-L2-70B-GGUF"
