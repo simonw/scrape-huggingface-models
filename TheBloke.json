@@ -9224,7 +9224,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 519,
+    "likes": 520,
     "private": false,
     "downloads": 8356,
     "tags": [
@@ -15053,7 +15053,7 @@
   {
     "_id": "64e78d117acd8971f2c6bbe6",
     "id": "TheBloke/CodeLlama-7B-GGUF",
-    "likes": 23,
+    "likes": 24,
     "private": false,
     "downloads": 147,
     "tags": [
@@ -15406,7 +15406,7 @@
   {
     "_id": "64e7dd67ce67a2e40563580b",
     "id": "TheBloke/CodeLlama-13B-GGML",
-    "likes": 27,
+    "likes": 28,
     "private": false,
     "downloads": 18,
     "tags": [
@@ -19802,7 +19802,7 @@
   {
     "_id": "64f7a58c8a4c5c401d6b6328",
     "id": "TheBloke/Mythalion-13B-GPTQ",
-    "likes": 29,
+    "likes": 30,
     "private": false,
     "downloads": 1036,
     "tags": [
@@ -21594,8 +21594,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "nl",
+      "dataset:BramVanroy/dutch_chat_datasets",
+      "generated_from_trainer",
+      "lora",
+      "adapters",
+      "license:cc-by-nc-sa-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-13B-Chat-Dutch-GPTQ"
   },
   {
@@ -21605,8 +21617,44 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "nl",
+      "dataset:BramVanroy/dutch_chat_datasets",
+      "generated_from_trainer",
+      "lora",
+      "adapters",
+      "license:cc-by-nc-sa-4.0",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Llama-2-13B-Chat-Dutch-GGUF"
+  },
+  {
+    "_id": "65005870ea5699b59a969510",
+    "id": "TheBloke/JanniesBasedLigma-L2-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/JanniesBasedLigma-L2-13B-GPTQ"
+  },
+  {
+    "_id": "6500587e1e14749e84f1ba37",
+    "id": "TheBloke/JanniesBasedLigma-L2-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/JanniesBasedLigma-L2-13B-GGUF"
   }
 ]
