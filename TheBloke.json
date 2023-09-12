@@ -15831,7 +15831,7 @@
   {
     "_id": "64e9e5316b9db55517b1d2a9",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GGUF",
-    "likes": 43,
+    "likes": 44,
     "private": false,
     "downloads": 76,
     "tags": [
@@ -16382,7 +16382,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 45,
+    "likes": 46,
     "private": false,
     "downloads": 38,
     "tags": [
@@ -19941,7 +19941,7 @@
   {
     "_id": "64f7bac9fbbfe40336117526",
     "id": "TheBloke/Llama-2-7B-32K-Instruct-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 38,
     "tags": [
@@ -21672,8 +21672,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "arxiv:2306.02707",
+      "Riiid",
+      "llama-2",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Sheep-Duck-Llama-2-70B-GGUF"
   },
   {
