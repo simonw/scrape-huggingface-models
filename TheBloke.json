@@ -9224,7 +9224,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 521,
+    "likes": 522,
     "private": false,
     "downloads": 8356,
     "tags": [
@@ -16382,7 +16382,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 47,
+    "likes": 48,
     "private": false,
     "downloads": 38,
     "tags": [
@@ -18221,7 +18221,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7b-Chat-GGUF",
-    "likes": 29,
+    "likes": 30,
     "private": false,
     "downloads": 296,
     "tags": [
@@ -19107,7 +19107,7 @@
   {
     "_id": "64f7451182673b2a07ae1103",
     "id": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -21693,8 +21693,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "arxiv:2306.02707",
+      "Riiid",
+      "llama-2",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Sheep-Duck-Llama-2-70B-GPTQ"
   },
   {
@@ -21727,6 +21738,8 @@
       "safetensors",
       "llama",
       "text-generation",
+      "dataset:jondurbin/airoboros-2.2",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -21756,6 +21769,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "dataset:jondurbin/airoboros-2.2",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Airoboros-L2-70b-2.2-GGUF"
@@ -21775,5 +21793,49 @@
       "region:us"
     ],
     "modelId": "TheBloke/Airoboros-L2-13B-2.2-GGUF"
+  },
+  {
+    "_id": "650097127804f04a16403ad7",
+    "id": "TheBloke/Spicyboros-c34b-2.2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Spicyboros-c34b-2.2-GGUF"
+  },
+  {
+    "_id": "65009884af1e4021438723c4",
+    "id": "TheBloke/Spicyboros-c34b-2.2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Spicyboros-c34b-2.2-GPTQ"
+  },
+  {
+    "_id": "650099eed522560505c5ba6f",
+    "id": "TheBloke/Llama-2-13B-Ensemble-v6-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-13B-Ensemble-v6-GGUF"
+  },
+  {
+    "_id": "65009a7705374ef773657936",
+    "id": "TheBloke/Llama-2-13B-Ensemble-v6-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-13B-Ensemble-v6-GPTQ"
   }
 ]
