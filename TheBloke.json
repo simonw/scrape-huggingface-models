@@ -9224,7 +9224,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 520,
+    "likes": 521,
     "private": false,
     "downloads": 8356,
     "tags": [
@@ -9273,7 +9273,7 @@
   {
     "_id": "64b6d3eeab056b63ede8a758",
     "id": "TheBloke/Llama-2-13B-chat-GGML",
-    "likes": 579,
+    "likes": 580,
     "private": false,
     "downloads": 4831,
     "tags": [
@@ -20019,7 +20019,7 @@
   {
     "_id": "64f7c8450590f3db1483fa41",
     "id": "TheBloke/LosslessMegaCoder-Llama2-7B-Mini-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -21696,5 +21696,65 @@
       "region:us"
     ],
     "modelId": "TheBloke/Sheep-Duck-Llama-2-70B-GPTQ"
+  },
+  {
+    "_id": "65008232d117b28d30ff058b",
+    "id": "TheBloke/Airoboros-L2-7B-2.2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-7B-2.2-GPTQ"
+  },
+  {
+    "_id": "65008291e0c94282ab4681ae",
+    "id": "TheBloke/Airoboros-L2-13B-2.2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-13B-2.2-GPTQ"
+  },
+  {
+    "_id": "65008360990aaba7bb481216",
+    "id": "TheBloke/Airoboros-L2-7B-2.2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "dataset:jondurbin/airoboros-2.2",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-7B-2.2-GGUF"
+  },
+  {
+    "_id": "650083a0cc88b84c06c3a509",
+    "id": "TheBloke/Airoboros-L2-70b-2.2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-70b-2.2-GGUF"
+  },
+  {
+    "_id": "6500853e7804f04a163db26a",
+    "id": "TheBloke/Airoboros-L2-13B-2.2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-13B-2.2-GGUF"
   }
 ]
