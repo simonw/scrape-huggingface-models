@@ -21041,7 +21041,7 @@
   {
     "_id": "64fc5ce8dc465697358b713a",
     "id": "TheBloke/Guanaco-3B-Uncensored-v2-GGML",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -21244,7 +21244,7 @@
   {
     "_id": "64fe2c7e0e486522f87861de",
     "id": "TheBloke/MLewdBoros-L2-13B-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -21434,7 +21434,7 @@
   {
     "_id": "64fef2c03dea9c259294db85",
     "id": "TheBloke/Unholy-v1-12L-13B-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -21597,5 +21597,16 @@
       "region:us"
     ],
     "modelId": "TheBloke/Llama-2-13B-Chat-Dutch-GPTQ"
+  },
+  {
+    "_id": "6500535bb213fc1f1de0c167",
+    "id": "TheBloke/Llama-2-13B-Chat-Dutch-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-13B-Chat-Dutch-GGUF"
   }
 ]
