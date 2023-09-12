@@ -21641,6 +21641,8 @@
       "safetensors",
       "llama",
       "text-generation",
+      "en",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -21673,5 +21675,16 @@
       "region:us"
     ],
     "modelId": "TheBloke/Sheep-Duck-Llama-2-70B-GGUF"
+  },
+  {
+    "_id": "6500637f4b7e0cd1b7d2654e",
+    "id": "TheBloke/Sheep-Duck-Llama-2-70B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Sheep-Duck-Llama-2-70B-GPTQ"
   }
 ]
