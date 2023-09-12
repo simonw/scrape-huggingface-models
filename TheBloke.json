@@ -9150,7 +9150,7 @@
   {
     "_id": "64b6c679d16e945399007406",
     "id": "TheBloke/Llama-2-7B-GPTQ",
-    "likes": 43,
+    "likes": 44,
     "private": false,
     "downloads": 10524,
     "tags": [
@@ -13113,7 +13113,7 @@
   {
     "_id": "64d5e2dcabf475a808a24d42",
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
-    "likes": 59,
+    "likes": 60,
     "private": false,
     "downloads": 85460,
     "tags": [
@@ -16617,7 +16617,7 @@
   {
     "_id": "64ee1440e608a2aa371e4620",
     "id": "TheBloke/Airoboros-L2-13B-2.1-GGUF",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 85,
     "tags": [
@@ -16936,7 +16936,7 @@
   {
     "_id": "64ef4eea76af29f31126c97c",
     "id": "TheBloke/Athena-v1-GGUF",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 271,
     "tags": [
@@ -20488,7 +20488,7 @@
   {
     "_id": "64f97e6a159055330801aec5",
     "id": "TheBloke/Falcon-180B-Chat-GGUF",
-    "likes": 66,
+    "likes": 67,
     "private": false,
     "downloads": 82,
     "tags": [
@@ -21264,7 +21264,7 @@
   {
     "_id": "64fe2c8b1ac56bee85de01ab",
     "id": "TheBloke/MLewdBoros-L2-13B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -21576,8 +21576,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-70B-Ensemble-v5-GPTQ"
   }
 ]
