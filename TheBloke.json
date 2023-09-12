@@ -10028,7 +10028,7 @@
   {
     "_id": "64baf98eaaccfd28b020975b",
     "id": "TheBloke/Nous-Hermes-Llama2-GGML",
-    "likes": 88,
+    "likes": 89,
     "private": false,
     "downloads": 281,
     "tags": [
@@ -20350,7 +20350,7 @@
   {
     "_id": "64f8ad3c29a9aa4778e7fdab",
     "id": "TheBloke/Falcon-180B-Chat-GPTQ",
-    "likes": 31,
+    "likes": 32,
     "private": false,
     "downloads": 3200,
     "tags": [
@@ -20488,7 +20488,7 @@
   {
     "_id": "64f97e6a159055330801aec5",
     "id": "TheBloke/Falcon-180B-Chat-GGUF",
-    "likes": 62,
+    "likes": 63,
     "private": false,
     "downloads": 74,
     "tags": [
@@ -21558,8 +21558,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Marcoroni-7b-GPTQ"
   }
 ]
