@@ -16382,7 +16382,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 48,
+    "likes": 49,
     "private": false,
     "downloads": 38,
     "tags": [
@@ -21454,7 +21454,7 @@
   {
     "_id": "64ff68bbefd273eec765be98",
     "id": "TheBloke/Llama-2-70B-Ensemble-v5-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -21486,7 +21486,7 @@
   {
     "_id": "64ff6961cc88b84c069ac888",
     "id": "TheBloke/Spicyboros-70B-2.2-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 23,
     "tags": [
@@ -21749,7 +21749,7 @@
   {
     "_id": "65008360990aaba7bb481216",
     "id": "TheBloke/Airoboros-L2-7B-2.2-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -21801,6 +21801,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "dataset:jondurbin/airoboros-2.2",
+      "not-for-all-audiences",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Spicyboros-c34b-2.2-GGUF"
@@ -21823,6 +21829,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Llama-2-13B-Ensemble-v6-GGUF"
@@ -21837,5 +21847,38 @@
       "region:us"
     ],
     "modelId": "TheBloke/Llama-2-13B-Ensemble-v6-GPTQ"
+  },
+  {
+    "_id": "65009d6635ec971762995446",
+    "id": "TheBloke/Euryale-Inverted-L2-70B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Euryale-Inverted-L2-70B-GGUF"
+  },
+  {
+    "_id": "6500a057696355700d97b6c5",
+    "id": "TheBloke/Euryale-L2-70B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Euryale-L2-70B-GGUF"
+  },
+  {
+    "_id": "6500a19a5d76377562be9812",
+    "id": "TheBloke/Airoboros-L2-70b-2.2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-70b-2.2-GPTQ"
   }
 ]
