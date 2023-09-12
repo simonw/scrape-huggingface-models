@@ -5088,7 +5088,7 @@
   {
     "_id": "6496005a90060ff18c284001",
     "id": "TheBloke/h2ogpt-gm-oasst1-en-2048-falcon-40b-v2-GGML",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -13113,7 +13113,7 @@
   {
     "_id": "64d5e2dcabf475a808a24d42",
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
-    "likes": 60,
+    "likes": 61,
     "private": false,
     "downloads": 85460,
     "tags": [
@@ -15157,7 +15157,7 @@
   {
     "_id": "64e7bf3b06954a8f4dd883da",
     "id": "TheBloke/CodeLlama-34B-Python-fp16",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 1372,
     "tags": [
@@ -21512,25 +21512,33 @@
     "tags": [
       "transformers",
       "llama",
+      "en",
+      "dataset:Open-Orca/OpenOrca",
       "license:cc-by-nc-4.0",
+      "text-generation",
       "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Marcoroni-7b-GGUF"
   },
   {
     "_id": "64ff7ae8e0c94282ab21d78a",
     "id": "TheBloke/Marcoroni-13B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 2,
     "tags": [
       "transformers",
       "llama",
+      "en",
+      "dataset:Open-Orca/OpenOrca",
       "license:cc-by-nc-4.0",
+      "text-generation",
       "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Marcoroni-13B-GGUF"
   },
   {
@@ -21544,6 +21552,8 @@
       "safetensors",
       "llama",
       "text-generation",
+      "en",
+      "dataset:Open-Orca/OpenOrca",
       "license:cc-by-nc-4.0",
       "text-generation-inference",
       "region:us"
@@ -21562,6 +21572,8 @@
       "safetensors",
       "llama",
       "text-generation",
+      "en",
+      "dataset:Open-Orca/OpenOrca",
       "license:cc-by-nc-4.0",
       "text-generation-inference",
       "region:us"
