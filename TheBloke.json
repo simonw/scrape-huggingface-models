@@ -19380,7 +19380,7 @@
   {
     "_id": "64f76aa549282808834e53d5",
     "id": "TheBloke/llama-2-13B-Guanaco-QLoRA-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -21844,8 +21844,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-13B-Ensemble-v6-GPTQ"
   },
   {
@@ -21855,6 +21862,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Euryale-Inverted-L2-70B-GGUF"
