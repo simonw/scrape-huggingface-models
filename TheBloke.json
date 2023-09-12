@@ -10342,7 +10342,7 @@
   {
     "_id": "64be60109f94ea25541911eb",
     "id": "TheBloke/airoboros-l2-7b-gpt4-1.4.1-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 276,
     "tags": [
@@ -18291,7 +18291,7 @@
   {
     "_id": "64f61985e916843d8ebc5db8",
     "id": "TheBloke/Llama-2-70B-chat-GGUF",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 95,
     "tags": [
@@ -21723,8 +21723,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Airoboros-L2-13B-2.2-GPTQ"
   },
   {
