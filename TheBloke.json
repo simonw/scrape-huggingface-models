@@ -18244,7 +18244,7 @@
   {
     "_id": "64f611cf6ad07ea81779ca15",
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 127,
     "tags": [
@@ -21540,8 +21540,26 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Marcoroni-13B-GPTQ"
+  },
+  {
+    "_id": "64ffab6296ec8a5218577a05",
+    "id": "TheBloke/Marcoroni-7b-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Marcoroni-7b-GPTQ"
   }
 ]
