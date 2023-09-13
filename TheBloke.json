@@ -10115,7 +10115,7 @@
   {
     "_id": "64bb0fee5ee4641b32d0bcd2",
     "id": "TheBloke/llama2_7b_chat_uncensored-GGML",
-    "likes": 88,
+    "likes": 89,
     "private": false,
     "downloads": 184,
     "tags": [
@@ -15222,7 +15222,7 @@
   {
     "_id": "64e7c2379f8952a1c0008ed1",
     "id": "TheBloke/CodeLlama-34B-GGUF",
-    "likes": 34,
+    "likes": 35,
     "private": false,
     "downloads": 39,
     "tags": [
@@ -18267,7 +18267,7 @@
   {
     "_id": "64f614a19c2aeb2a3dea1312",
     "id": "TheBloke/Llama-2-13B-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 79,
     "tags": [
@@ -18731,7 +18731,7 @@
   {
     "_id": "64f6eefbb73dd5c3dfacc0c2",
     "id": "TheBloke/ReMM-SLERP-L2-13B-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 589,
     "tags": [
@@ -19699,7 +19699,7 @@
   {
     "_id": "64f7a5295515d7dcce860396",
     "id": "TheBloke/Pygmalion-2-13B-GPTQ",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 331,
     "tags": [
@@ -19750,7 +19750,7 @@
   {
     "_id": "64f7a55f2f7d3d945cc6a646",
     "id": "TheBloke/Pygmalion-2-7B-GPTQ",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 181,
     "tags": [
@@ -20943,7 +20943,7 @@
   {
     "_id": "64fb90af52992431a6eeec23",
     "id": "TheBloke/Spicyboros-7B-2.2-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -22034,9 +22034,16 @@
     "tags": [
       "transformers",
       "llama",
+      "code",
+      "dataset:HuggingFaceH4/CodeAlpaca_20K",
+      "generated_from_trainer",
+      "coding",
+      "license:apache-2.0",
+      "text-generation",
       "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-Coder-7B-GGUF"
   }
 ]
