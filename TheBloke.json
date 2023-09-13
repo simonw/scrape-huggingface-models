@@ -9518,7 +9518,7 @@
   {
     "_id": "64b847a5126cfeb8fdc28475",
     "id": "TheBloke/Luna-AI-Llama2-Uncensored-GGML",
-    "likes": 102,
+    "likes": 103,
     "private": false,
     "downloads": 148,
     "tags": [
@@ -13830,7 +13830,7 @@
   {
     "_id": "64dca1948ce1a26b21814145",
     "id": "TheBloke/scarlett-33B-GGML",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -18034,7 +18034,7 @@
   {
     "_id": "64f2fd9cfb404f3b7d7bbd78",
     "id": "TheBloke/Speechless-Llama2-Hermes-Orca-Platypus-WizardLM-13B-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -21952,8 +21952,13 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Euryale-Inverted-L2-70B-GPTQ"
   }
 ]
