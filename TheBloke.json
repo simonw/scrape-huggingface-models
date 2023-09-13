@@ -2358,7 +2358,7 @@
   {
     "_id": "647b3c284d7c0c3fcccca656",
     "id": "TheBloke/Nous-Hermes-13B-GGML",
-    "likes": 80,
+    "likes": 81,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -4864,7 +4864,7 @@
   {
     "_id": "6492fbe70a1b4c70ee6871f8",
     "id": "TheBloke/falcon-7b-instruct-GGML",
-    "likes": 34,
+    "likes": 35,
     "private": false,
     "downloads": 238,
     "tags": [
@@ -13113,7 +13113,7 @@
   {
     "_id": "64d5e2dcabf475a808a24d42",
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
-    "likes": 62,
+    "likes": 63,
     "private": false,
     "downloads": 89174,
     "tags": [
@@ -22060,8 +22060,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code",
+      "dataset:HuggingFaceH4/CodeAlpaca_20K",
+      "generated_from_trainer",
+      "coding",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-Coder-7B-GPTQ"
   }
 ]
