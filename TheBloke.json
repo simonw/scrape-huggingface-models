@@ -18449,7 +18449,7 @@
   {
     "_id": "64f6a23433753a192d84ca08",
     "id": "TheBloke/vicuna-13B-v1.5-16K-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -21963,5 +21963,27 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Euryale-Inverted-L2-70B-GPTQ"
+  },
+  {
+    "_id": "6501b9a60cc65d59987f9e83",
+    "id": "TheBloke/Kuchiki-L2-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Kuchiki-L2-7B-GGUF"
+  },
+  {
+    "_id": "6501b9a878ee777360f917d9",
+    "id": "TheBloke/Kuchiki-L2-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Kuchiki-L2-7B-GPTQ"
   }
 ]
