@@ -10028,7 +10028,7 @@
   {
     "_id": "64baf98eaaccfd28b020975b",
     "id": "TheBloke/Nous-Hermes-Llama2-GGML",
-    "likes": 89,
+    "likes": 90,
     "private": false,
     "downloads": 278,
     "tags": [
@@ -21624,7 +21624,7 @@
   {
     "_id": "6500535bb213fc1f1de0c167",
     "id": "TheBloke/Llama-2-13B-Chat-Dutch-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -21987,8 +21987,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "llama2",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Kuchiki-L2-7B-GPTQ"
   },
   {
@@ -22005,5 +22013,16 @@
       "region:us"
     ],
     "modelId": "TheBloke/Llama2-Chat-AYT-13B-GGUF"
+  },
+  {
+    "_id": "6501c84820cfd12a88ad972b",
+    "id": "TheBloke/Llama2-Chat-AYT-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama2-Chat-AYT-13B-GPTQ"
   }
 ]
