@@ -9150,7 +9150,7 @@
   {
     "_id": "64b6c679d16e945399007406",
     "id": "TheBloke/Llama-2-7B-GPTQ",
-    "likes": 44,
+    "likes": 45,
     "private": false,
     "downloads": 10524,
     "tags": [
@@ -21953,8 +21953,11 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "safetensors",
       "llama",
       "text-generation",
+      "en",
+      "license:cc-by-nc-4.0",
       "text-generation-inference",
       "region:us"
     ],
