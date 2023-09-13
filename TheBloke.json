@@ -9224,7 +9224,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 523,
+    "likes": 524,
     "private": false,
     "downloads": 8560,
     "tags": [
@@ -15805,7 +15805,7 @@
   {
     "_id": "64e9e5008c523cced2035915",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GPTQ",
-    "likes": 43,
+    "likes": 44,
     "private": false,
     "downloads": 4859,
     "tags": [
@@ -18235,7 +18235,8 @@
       "license:other",
       "text-generation",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-7b-Chat-GGUF"
@@ -20943,7 +20944,7 @@
   {
     "_id": "64fb90af52992431a6eeec23",
     "id": "TheBloke/Spicyboros-7B-2.2-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -20959,7 +20960,7 @@
   {
     "_id": "64fb950a60017eeec9905224",
     "id": "TheBloke/MythoMax-L2-33B-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -21152,7 +21153,7 @@
   {
     "_id": "64fdbb064010eccccc609ea2",
     "id": "TheBloke/Spicyboros-13B-2.2-GGUF",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -21741,7 +21742,7 @@
   {
     "_id": "65008291e0c94282ab4681ae",
     "id": "TheBloke/Airoboros-L2-13B-2.2-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 21,
     "tags": [
@@ -21792,7 +21793,7 @@
   {
     "_id": "6500853e7804f04a163db26a",
     "id": "TheBloke/Airoboros-L2-13B-2.2-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 10,
     "tags": [
