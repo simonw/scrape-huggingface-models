@@ -437,7 +437,7 @@
   {
     "_id": "6448dce4d16a70c0158c4d5c",
     "id": "TheBloke/wizardLM-7B-GPTQ",
-    "likes": 106,
+    "likes": 105,
     "private": false,
     "downloads": 1746,
     "tags": [
@@ -553,7 +553,7 @@
   {
     "_id": "644d20d0fa94e93b0ec3ac1d",
     "id": "TheBloke/OpenAssistant-SFT-7-Llama-30B-GPTQ",
-    "likes": 35,
+    "likes": 34,
     "private": false,
     "downloads": 45,
     "tags": [
@@ -5308,7 +5308,7 @@
   {
     "_id": "6499821d3fbe693744758a7a",
     "id": "TheBloke/Guanaco-33B-SuperHOT-8K-GPTQ",
-    "likes": 18,
+    "likes": 17,
     "private": false,
     "downloads": 115,
     "tags": [
@@ -5340,7 +5340,7 @@
   {
     "_id": "64998c62d1f6a5a54b054d5e",
     "id": "TheBloke/WizardLM-33B-V1-0-Uncensored-SuperHOT-8K-GPTQ",
-    "likes": 83,
+    "likes": 82,
     "private": false,
     "downloads": 664,
     "tags": [
@@ -6311,7 +6311,7 @@
   {
     "_id": "649c10dc3bdb0c1b2d03dfa3",
     "id": "TheBloke/airoboros-33B-gpt4-1-4-SuperHOT-8K-GPTQ",
-    "likes": 24,
+    "likes": 23,
     "private": false,
     "downloads": 293,
     "tags": [
@@ -6389,7 +6389,7 @@
   {
     "_id": "649ca07f0c65a5d9697945a1",
     "id": "TheBloke/WizardLM-Uncensored-SuperCOT-StoryTelling-30B-SuperHOT-8K-GPTQ",
-    "likes": 33,
+    "likes": 32,
     "private": false,
     "downloads": 189,
     "tags": [
@@ -11248,7 +11248,7 @@
   {
     "_id": "64c8874d1f9614c3e8a301cc",
     "id": "TheBloke/airoboros-33B-GPT4-2.0-GPTQ",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 52,
     "tags": [
@@ -17254,7 +17254,7 @@
   {
     "_id": "64f0898fde8b758e17893577",
     "id": "TheBloke/Airoboros-L2-70B-2.1-Creative-GPTQ",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 125,
     "tags": [
@@ -17676,7 +17676,7 @@
   {
     "_id": "64f255e9246315a9456f567c",
     "id": "TheBloke/Airoboros-33B-2.1-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 55,
     "tags": [
@@ -18235,8 +18235,7 @@
       "license:other",
       "text-generation",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-7b-Chat-GGUF"
@@ -19980,7 +19979,7 @@
   {
     "_id": "64f7c72a6389380c776a06aa",
     "id": "TheBloke/Chronos-70B-v2-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 93,
     "tags": [
@@ -21911,7 +21910,7 @@
   {
     "_id": "6500a19a5d76377562be9812",
     "id": "TheBloke/Airoboros-L2-70b-2.2-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -22025,5 +22024,19 @@
       "region:us"
     ],
     "modelId": "TheBloke/Llama2-Chat-AYT-13B-GPTQ"
+  },
+  {
+    "_id": "6501e31c01030db3736c46fa",
+    "id": "TheBloke/Llama-2-Coder-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-Coder-7B-GGUF"
   }
 ]
