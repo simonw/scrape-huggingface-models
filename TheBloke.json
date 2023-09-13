@@ -22021,8 +22021,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama2-Chat-AYT-13B-GPTQ"
   },
   {
@@ -22045,5 +22052,16 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-Coder-7B-GGUF"
+  },
+  {
+    "_id": "6501f938d5b73a4c926db17e",
+    "id": "TheBloke/Llama-2-Coder-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-Coder-7B-GPTQ"
   }
 ]
