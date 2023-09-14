@@ -9224,7 +9224,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 524,
+    "likes": 525,
     "private": false,
     "downloads": 8560,
     "tags": [
@@ -13940,7 +13940,7 @@
   {
     "_id": "64dd2ebb2057a9cd9acda357",
     "id": "TheBloke/orca_mini_v3_70B-GPTQ",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 6266,
     "tags": [
@@ -16287,7 +16287,8 @@
       "dataset:shahules786/orca-best",
       "license:llama2",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/CodeLlama-13B-oasst-sft-v10-GGUF"
   },
@@ -16722,7 +16723,7 @@
   {
     "_id": "64ee69bb25d2bb76c07bfe52",
     "id": "TheBloke/Airoboros-L2-7B-2.1-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 161,
     "tags": [
@@ -20487,7 +20488,7 @@
   {
     "_id": "64f97e6a159055330801aec5",
     "id": "TheBloke/Falcon-180B-Chat-GGUF",
-    "likes": 75,
+    "likes": 76,
     "private": false,
     "downloads": 106,
     "tags": [
@@ -21679,7 +21680,7 @@
   {
     "_id": "650062504ebb666058804b6b",
     "id": "TheBloke/Sheep-Duck-Llama-2-70B-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -21760,7 +21761,7 @@
   {
     "_id": "65008360990aaba7bb481216",
     "id": "TheBloke/Airoboros-L2-7B-2.2-GGUF",
-    "likes": 6,
+    "likes": 5,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -21894,7 +21895,7 @@
   {
     "_id": "6500a057696355700d97b6c5",
     "id": "TheBloke/Euryale-L2-70B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
