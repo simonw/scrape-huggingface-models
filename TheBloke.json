@@ -20727,7 +20727,7 @@
   },
   {
     "_id": "64fad9a6da4429f25dd87709",
-    "id": "TheBloke/Airoboros-L2-13B-2.1-YaRN-64K-GGUF",
+    "id": "TheBloke/Airoboros-L2-13B-2_1-YaRN-64K-GGUF",
     "likes": 4,
     "private": false,
     "downloads": 9,
@@ -20739,7 +20739,7 @@
       "text-generation-inference",
       "region:us"
     ],
-    "modelId": "TheBloke/Airoboros-L2-13B-2.1-YaRN-64K-GGUF"
+    "modelId": "TheBloke/Airoboros-L2-13B-2_1-YaRN-64K-GGUF"
   },
   {
     "_id": "64fadde6b961d0d12c791762",
@@ -20764,8 +20764,8 @@
   },
   {
     "_id": "64fae94f2d20ced4e9fb86bd",
-    "id": "TheBloke/Airoboros-L2-13B-2.1-YaRN-64K-GPTQ",
-    "likes": 2,
+    "id": "TheBloke/Airoboros-L2-13B-2_1-YaRN-64K-GPTQ",
+    "likes": 3,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -20780,7 +20780,7 @@
       "region:us"
     ],
     "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/Airoboros-L2-13B-2.1-YaRN-64K-GPTQ"
+    "modelId": "TheBloke/Airoboros-L2-13B-2_1-YaRN-64K-GPTQ"
   },
   {
     "_id": "64fb0a84d82fc6977d6558a2",
@@ -21831,7 +21831,7 @@
   {
     "_id": "65009884af1e4021438723c4",
     "id": "TheBloke/Spicyboros-c34b-2.2-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 15,
     "tags": [
