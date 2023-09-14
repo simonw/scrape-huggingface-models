@@ -9453,7 +9453,7 @@
   {
     "_id": "64b748a6964f6e7bf3266155",
     "id": "TheBloke/Llama-2-70B-Chat-fp16",
-    "likes": 37,
+    "likes": 38,
     "private": false,
     "downloads": 2707,
     "tags": [
@@ -21175,7 +21175,7 @@
   {
     "_id": "64fdc032b60e2c9ddd574624",
     "id": "TheBloke/Pygmalion-2-13B-SuperCOT-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -21210,7 +21210,7 @@
   {
     "_id": "64fdc6b04c8924c4fecad550",
     "id": "TheBloke/Pygmalion-2-13B-SuperCOT-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 47,
     "tags": [
@@ -21685,7 +21685,7 @@
   {
     "_id": "650062504ebb666058804b6b",
     "id": "TheBloke/Sheep-Duck-Llama-2-70B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -22300,8 +22300,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Chinese-Alpaca-2-13B-GPTQ"
   },
   {
@@ -22311,8 +22317,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Chinese-Llama-2-13B-GPTQ"
   },
   {
