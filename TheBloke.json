@@ -9429,7 +9429,7 @@
   {
     "_id": "64b748a0509b109d0429d255",
     "id": "TheBloke/Llama-2-70B-fp16",
-    "likes": 33,
+    "likes": 34,
     "private": false,
     "downloads": 9451,
     "tags": [
@@ -18249,7 +18249,7 @@
   {
     "_id": "64f611cf6ad07ea81779ca15",
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 261,
     "tags": [
@@ -22394,8 +22394,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Chinese-Alpaca-2-7B-GPTQ"
   },
   {
@@ -22405,8 +22412,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Chinese-Llama-2-7B-GPTQ"
   }
 ]
