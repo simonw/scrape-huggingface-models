@@ -1050,7 +1050,7 @@
   {
     "_id": "6464cfa91054f08ddba6201f",
     "id": "TheBloke/LLaMa-7B-GGML",
-    "likes": 54,
+    "likes": 55,
     "private": false,
     "downloads": 79,
     "tags": [
@@ -17211,7 +17211,7 @@
   {
     "_id": "64f0787ba20e6096c6ab97f9",
     "id": "TheBloke/MythoMax-L2-Kimiko-v2-13B-GPTQ",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 258,
     "tags": [
@@ -19946,7 +19946,7 @@
   {
     "_id": "64f7bac9fbbfe40336117526",
     "id": "TheBloke/Llama-2-7B-32K-Instruct-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 50,
     "tags": [
@@ -20949,7 +20949,7 @@
   {
     "_id": "64fb90af52992431a6eeec23",
     "id": "TheBloke/Spicyboros-7B-2.2-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -22281,5 +22281,71 @@
       "region:us"
     ],
     "modelId": "TheBloke/Marcoroni-70B-GPTQ"
+  },
+  {
+    "_id": "6503435e55837b784f989319",
+    "id": "TheBloke/Chinese-Alpaca-2-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Chinese-Alpaca-2-7B-GGUF"
+  },
+  {
+    "_id": "650343a682691ea136f86814",
+    "id": "TheBloke/Chinese-Alpaca-2-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Chinese-Alpaca-2-13B-GPTQ"
+  },
+  {
+    "_id": "650343bf221035b9eef513c3",
+    "id": "TheBloke/Chinese-Llama-2-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Chinese-Llama-2-13B-GPTQ"
+  },
+  {
+    "_id": "650343f96c81feb4726ea3db",
+    "id": "TheBloke/Chinese-Llama-2-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Chinese-Llama-2-7B-GGUF"
+  },
+  {
+    "_id": "650343fe694f6b620fbddb14",
+    "id": "TheBloke/Chinese-Alpaca-2-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Chinese-Alpaca-2-13B-GGUF"
+  },
+  {
+    "_id": "65034404b96045f9180149f0",
+    "id": "TheBloke/Chinese-Llama-2-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Chinese-Llama-2-13B-GGUF"
   }
 ]
