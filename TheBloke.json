@@ -22270,5 +22270,16 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-7B-LoRA-Assemble-GPTQ"
+  },
+  {
+    "_id": "65032071c62f8710cd8e639b",
+    "id": "TheBloke/Llama-2-70B-LoRA-Assemble-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-70B-LoRA-Assemble-GPTQ"
   }
 ]
