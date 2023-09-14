@@ -18273,7 +18273,7 @@
   {
     "_id": "64f614a19c2aeb2a3dea1312",
     "id": "TheBloke/Llama-2-13B-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 83,
     "tags": [
@@ -21884,7 +21884,7 @@
   {
     "_id": "65009d6635ec971762995446",
     "id": "TheBloke/Euryale-Inverted-L2-70B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -22178,9 +22178,44 @@
     "tags": [
       "transformers",
       "llama",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Llama-2-13B-LoRA-Assemble-GGUF"
+  },
+  {
+    "_id": "6502e2be3a05fd436bc5ba07",
+    "id": "TheBloke/Llama-2-7B-LoRA-Assemble-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-7B-LoRA-Assemble-GGUF"
+  },
+  {
+    "_id": "6502e49089707f1823955100",
+    "id": "TheBloke/Pygmalion-2-13B-SuperCOT2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "llama-2",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Pygmalion-2-13B-SuperCOT2-GGUF"
   }
 ]
