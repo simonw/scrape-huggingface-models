@@ -2043,7 +2043,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 338,
+    "likes": 339,
     "private": false,
     "downloads": 7404,
     "tags": [
@@ -9248,7 +9248,7 @@
   {
     "_id": "64b6ce072edcb4a1aa820cbe",
     "id": "TheBloke/Llama-2-7b-Chat-GPTQ",
-    "likes": 127,
+    "likes": 128,
     "private": false,
     "downloads": 124263,
     "tags": [
@@ -9273,7 +9273,7 @@
   {
     "_id": "64b6d3eeab056b63ede8a758",
     "id": "TheBloke/Llama-2-13B-chat-GGML",
-    "likes": 581,
+    "likes": 582,
     "private": false,
     "downloads": 4827,
     "tags": [
@@ -22237,7 +22237,7 @@
   {
     "_id": "6502f15c2cec4c6d94f82b25",
     "id": "TheBloke/Marcoroni-70B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -22278,8 +22278,13 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Marcoroni-70B-GPTQ"
   },
   {
@@ -22304,6 +22309,7 @@
       "safetensors",
       "llama",
       "text-generation",
+      "license:apache-2.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -22321,6 +22327,7 @@
       "safetensors",
       "llama",
       "text-generation",
+      "license:apache-2.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -22345,6 +22352,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Chinese-Alpaca-2-13B-GGUF"
@@ -22359,5 +22370,27 @@
       "region:us"
     ],
     "modelId": "TheBloke/Chinese-Llama-2-13B-GGUF"
+  },
+  {
+    "_id": "65035b3100df6073ba682238",
+    "id": "TheBloke/Chinese-Alpaca-2-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Chinese-Alpaca-2-7B-GPTQ"
+  },
+  {
+    "_id": "65035b45c0620ed4bd0b7b4f",
+    "id": "TheBloke/Chinese-Llama-2-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Chinese-Llama-2-7B-GPTQ"
   }
 ]
