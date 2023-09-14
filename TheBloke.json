@@ -21549,7 +21549,7 @@
   {
     "_id": "64ff9fea35ec97176275c87b",
     "id": "TheBloke/Marcoroni-13B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -22241,8 +22241,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:Open-Orca/OpenOrca",
+      "license:cc-by-nc-4.0",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Marcoroni-70B-GGUF"
   },
   {
@@ -22252,8 +22260,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-7B-LoRA-Assemble-GPTQ"
   }
 ]
