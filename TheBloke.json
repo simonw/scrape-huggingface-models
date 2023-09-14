@@ -13494,7 +13494,7 @@
   {
     "_id": "64d9f41cac2f2c7ca3d33474",
     "id": "TheBloke/LosslessMegaCoder-Llama2-7B-Mini-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 257,
     "tags": [
@@ -16463,7 +16463,7 @@
   {
     "_id": "64edd9efd0a1f6024239cd1f",
     "id": "TheBloke/Samantha-1.11-13B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -18455,7 +18455,7 @@
   {
     "_id": "64f6a23433753a192d84ca08",
     "id": "TheBloke/vicuna-13B-v1.5-16K-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -22154,8 +22154,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "llama-2",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Pygmalion-2-13B-SuperCOT2-GPTQ"
   },
   {
@@ -22165,8 +22174,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-13B-LoRA-Assemble-GPTQ"
   },
   {
@@ -22217,5 +22233,27 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Pygmalion-2-13B-SuperCOT2-GGUF"
+  },
+  {
+    "_id": "6502f15c2cec4c6d94f82b25",
+    "id": "TheBloke/Marcoroni-70B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Marcoroni-70B-GGUF"
+  },
+  {
+    "_id": "6502f707cb1cf43486ed3292",
+    "id": "TheBloke/Llama-2-7B-LoRA-Assemble-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-7B-LoRA-Assemble-GPTQ"
   }
 ]
