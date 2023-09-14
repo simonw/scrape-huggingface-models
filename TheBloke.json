@@ -21138,7 +21138,7 @@
   {
     "_id": "64fdbabd60017eeec9d16133",
     "id": "TheBloke/Spicyboros-13B-2.2-GPTQ",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 174,
     "tags": [
@@ -21831,7 +21831,7 @@
   {
     "_id": "65009884af1e4021438723c4",
     "id": "TheBloke/Spicyboros-c34b-2.2-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 15,
     "tags": [
@@ -22150,7 +22150,7 @@
   {
     "_id": "6502df47d4b64cadd2e22b84",
     "id": "TheBloke/Pygmalion-2-13B-SuperCOT2-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -22422,5 +22422,27 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Chinese-Llama-2-7B-GPTQ"
+  },
+  {
+    "_id": "650380d1c0620ed4bd10ca72",
+    "id": "TheBloke/CodeFuse-CodeLlama-34B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/CodeFuse-CodeLlama-34B-GPTQ"
+  },
+  {
+    "_id": "65038100d25ce81dfccfbb9f",
+    "id": "TheBloke/CodeFuse-CodeLlama-34B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/CodeFuse-CodeLlama-34B-GGUF"
   }
 ]
