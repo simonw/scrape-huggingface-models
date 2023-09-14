@@ -22146,5 +22146,41 @@
       "region:us"
     ],
     "modelId": "TheBloke/BerrySauce-L2-13B-GGUF"
+  },
+  {
+    "_id": "6502df47d4b64cadd2e22b84",
+    "id": "TheBloke/Pygmalion-2-13B-SuperCOT2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Pygmalion-2-13B-SuperCOT2-GPTQ"
+  },
+  {
+    "_id": "6502df4ae9230a325e0d261e",
+    "id": "TheBloke/Llama-2-13B-LoRA-Assemble-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-13B-LoRA-Assemble-GPTQ"
+  },
+  {
+    "_id": "6502df56b1792803da7b7bbf",
+    "id": "TheBloke/Llama-2-13B-LoRA-Assemble-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-13B-LoRA-Assemble-GGUF"
   }
 ]
