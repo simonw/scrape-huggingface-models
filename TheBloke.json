@@ -658,7 +658,7 @@
   {
     "_id": "64551258f61f10d69dc80b21",
     "id": "TheBloke/GPT4All-13B-snoozy-GPTQ",
-    "likes": 27,
+    "likes": 28,
     "private": false,
     "downloads": 68,
     "tags": [
@@ -22441,6 +22441,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/CodeFuse-CodeLlama-34B-GGUF"
