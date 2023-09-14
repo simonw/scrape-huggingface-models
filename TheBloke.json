@@ -9224,7 +9224,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 525,
+    "likes": 526,
     "private": false,
     "downloads": 8560,
     "tags": [
@@ -21133,7 +21133,7 @@
   {
     "_id": "64fdbabd60017eeec9d16133",
     "id": "TheBloke/Spicyboros-13B-2.2-GPTQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 151,
     "tags": [
@@ -21434,7 +21434,7 @@
   {
     "_id": "64fef2c03dea9c259294db85",
     "id": "TheBloke/Unholy-v1-12L-13B-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -22075,5 +22075,53 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-Coder-7B-GPTQ"
+  },
+  {
+    "_id": "6502bc412f87793060d078b5",
+    "id": "TheBloke/AppleSauce-L2-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/AppleSauce-L2-13B-GPTQ"
+  },
+  {
+    "_id": "6502bc467764af3f3fc8558b",
+    "id": "TheBloke/BerrySauce-L2-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/BerrySauce-L2-13B-GPTQ"
+  },
+  {
+    "_id": "6502bccff10502379a8476c7",
+    "id": "TheBloke/AppleSauce-L2-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/AppleSauce-L2-13B-GGUF"
+  },
+  {
+    "_id": "6502bfe51a5924e2281bd3c0",
+    "id": "TheBloke/BerrySauce-L2-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/BerrySauce-L2-13B-GGUF"
   }
 ]
