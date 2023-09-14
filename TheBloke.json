@@ -5340,7 +5340,7 @@
   {
     "_id": "64998c62d1f6a5a54b054d5e",
     "id": "TheBloke/WizardLM-33B-V1-0-Uncensored-SuperHOT-8K-GPTQ",
-    "likes": 82,
+    "likes": 83,
     "private": false,
     "downloads": 655,
     "tags": [
@@ -20355,7 +20355,7 @@
   {
     "_id": "64f8ad3c29a9aa4778e7fdab",
     "id": "TheBloke/Falcon-180B-Chat-GPTQ",
-    "likes": 40,
+    "likes": 41,
     "private": false,
     "downloads": 4490,
     "tags": [
@@ -21138,7 +21138,7 @@
   {
     "_id": "64fdbabd60017eeec9d16133",
     "id": "TheBloke/Spicyboros-13B-2.2-GPTQ",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 174,
     "tags": [
@@ -21210,7 +21210,7 @@
   {
     "_id": "64fdc6b04c8924c4fecad550",
     "id": "TheBloke/Pygmalion-2-13B-SuperCOT-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 47,
     "tags": [
@@ -21782,7 +21782,7 @@
   {
     "_id": "650083a0cc88b84c06c3a509",
     "id": "TheBloke/Airoboros-L2-70b-2.2-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 43,
     "tags": [
@@ -22279,8 +22279,12 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "safetensors",
       "llama",
       "text-generation",
+      "en",
+      "dataset:Open-Orca/OpenOrca",
+      "license:cc-by-nc-4.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -22294,6 +22298,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Chinese-Alpaca-2-7B-GGUF"
@@ -22341,6 +22349,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Chinese-Llama-2-7B-GGUF"
@@ -22367,6 +22379,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Chinese-Llama-2-13B-GGUF"
