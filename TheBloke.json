@@ -3168,7 +3168,7 @@
   {
     "_id": "6482399d85ce4d2973ba5e93",
     "id": "TheBloke/starcoderplus-GPTQ",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 231,
     "tags": [
@@ -19872,8 +19872,7 @@
       "license:llama2",
       "text-generation",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/LlongOrca-7B-16K-GGUF"
@@ -20950,7 +20949,7 @@
   {
     "_id": "64fb90af52992431a6eeec23",
     "id": "TheBloke/Spicyboros-7B-2.2-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -21159,7 +21158,7 @@
   {
     "_id": "64fdbb064010eccccc609ea2",
     "id": "TheBloke/Spicyboros-13B-2.2-GGUF",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 33,
     "tags": [
@@ -21776,7 +21775,8 @@
       "dataset:jondurbin/airoboros-2.2",
       "license:llama2",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/Airoboros-L2-7B-2.2-GGUF"
   },
@@ -22512,8 +22512,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Synthia-70B-v1.2b-GPTQ"
   }
 ]
