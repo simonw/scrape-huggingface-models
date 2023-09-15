@@ -16003,7 +16003,7 @@
   {
     "_id": "64ea296ce74f54587cc51cf5",
     "id": "TheBloke/Genz-70b-GPTQ",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 5635,
     "tags": [
@@ -18202,7 +18202,7 @@
   {
     "_id": "64f5fd954d3b1dd311d30e28",
     "id": "TheBloke/Llama-2-7B-GGUF",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 346,
     "tags": [
@@ -21831,7 +21831,7 @@
   {
     "_id": "65009884af1e4021438723c4",
     "id": "TheBloke/Spicyboros-c34b-2.2-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 19,
     "tags": [
@@ -22463,8 +22463,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-70B-LoRA-Assemble-v3-GPTQ"
   },
   {
