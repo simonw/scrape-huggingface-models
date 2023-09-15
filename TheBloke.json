@@ -10117,7 +10117,7 @@
   {
     "_id": "64bb0fee5ee4641b32d0bcd2",
     "id": "TheBloke/llama2_7b_chat_uncensored-GGML",
-    "likes": 89,
+    "likes": 90,
     "private": false,
     "downloads": 175,
     "tags": [
@@ -11930,7 +11930,7 @@
   {
     "_id": "64ccc868bf67d9b76eabc9c4",
     "id": "TheBloke/MythoLogic-L2-13B-GGML",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 20,
     "tags": [
@@ -15119,7 +15119,7 @@
   {
     "_id": "64e7bd2c0937566207336662",
     "id": "TheBloke/CodeLlama-7B-Instruct-GPTQ",
-    "likes": 32,
+    "likes": 33,
     "private": false,
     "downloads": 5014,
     "tags": [
@@ -19873,7 +19873,8 @@
       "license:llama2",
       "text-generation",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/LlongOrca-7B-16K-GGUF"
