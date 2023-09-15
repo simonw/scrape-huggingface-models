@@ -14783,7 +14783,7 @@
   {
     "_id": "64e7164c3f5a5a3c9621a2cb",
     "id": "TheBloke/Nous-Hermes-Llama2-70B-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 565,
     "tags": [
@@ -22229,7 +22229,8 @@
       "license:llama2",
       "text-generation",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Pygmalion-2-13B-SuperCOT2-GGUF"
