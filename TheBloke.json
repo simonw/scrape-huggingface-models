@@ -2043,7 +2043,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 339,
+    "likes": 340,
     "private": false,
     "downloads": 7128,
     "tags": [
@@ -20964,21 +20964,6 @@
     "modelId": "TheBloke/Spicyboros-7B-2.2-GGUF"
   },
   {
-    "_id": "64fb950a60017eeec9905224",
-    "id": "TheBloke/MythoMax-L2-33B-GGUF",
-    "likes": 7,
-    "private": false,
-    "downloads": 9,
-    "tags": [
-      "transformers",
-      "llama",
-      "license:llama2",
-      "text-generation-inference",
-      "region:us"
-    ],
-    "modelId": "TheBloke/MythoMax-L2-33B-GGUF"
-  },
-  {
     "_id": "64fb9df4f393f303700d4c0b",
     "id": "TheBloke/Spicyboros-7B-2.2-GPTQ",
     "likes": 2,
@@ -20996,24 +20981,6 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Spicyboros-7B-2.2-GPTQ"
-  },
-  {
-    "_id": "64fba4af365e3069d725742b",
-    "id": "TheBloke/MythoMax-L2-33B-GPTQ",
-    "likes": 5,
-    "private": false,
-    "downloads": 71,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "llama",
-      "text-generation",
-      "license:llama2",
-      "text-generation-inference",
-      "region:us"
-    ],
-    "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/MythoMax-L2-33B-GPTQ"
   },
   {
     "_id": "64fbded739d541478efe19b0",
