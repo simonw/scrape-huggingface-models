@@ -18055,7 +18055,8 @@
       "license:llama2",
       "text-generation",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Speechless-Llama2-Hermes-Orca-Platypus-WizardLM-13B-GGUF"
@@ -19644,8 +19645,7 @@
       "license:llama2",
       "text-generation",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF"
@@ -19808,7 +19808,7 @@
   {
     "_id": "64f7a58c8a4c5c401d6b6328",
     "id": "TheBloke/Mythalion-13B-GPTQ",
-    "likes": 32,
+    "likes": 33,
     "private": false,
     "downloads": 1557,
     "tags": [
@@ -20786,7 +20786,7 @@
   {
     "_id": "64fb0a84d82fc6977d6558a2",
     "id": "TheBloke/Falcon-180B-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -22205,7 +22205,7 @@
   {
     "_id": "6502f15c2cec4c6d94f82b25",
     "id": "TheBloke/Marcoroni-70B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -22497,8 +22497,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/ChatAYT-Lora-Assamble-Marcoroni-GPTQ"
   },
   {
@@ -22523,8 +22530,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:Open-Orca/OpenOrca",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Luban-Marcoroni-13B-v3-GPTQ"
   }
 ]
