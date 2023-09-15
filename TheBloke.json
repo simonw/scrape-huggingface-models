@@ -18342,7 +18342,7 @@
   {
     "_id": "64f65d33a88ce22a102c0fb3",
     "id": "TheBloke/openchat_v3.2_super-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 15,
     "tags": [
@@ -19562,7 +19562,8 @@
       "license:llama2",
       "text-generation",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/LlongOrca-13B-16K-GGUF"
@@ -21775,8 +21776,7 @@
       "dataset:jondurbin/airoboros-2.2",
       "license:llama2",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "modelId": "TheBloke/Airoboros-L2-7B-2.2-GGUF"
   },
@@ -22516,6 +22516,7 @@
       "safetensors",
       "llama",
       "text-generation",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
