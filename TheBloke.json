@@ -8491,7 +8491,8 @@
     "tags": [
       "arxiv:2304.12244",
       "license:other",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/WizardLM-13B-V1-1-SuperHOT-8K-GGML"
   },
@@ -9248,7 +9249,7 @@
   {
     "_id": "64b6ce072edcb4a1aa820cbe",
     "id": "TheBloke/Llama-2-7b-Chat-GPTQ",
-    "likes": 129,
+    "likes": 130,
     "private": false,
     "downloads": 114713,
     "tags": [
@@ -13100,7 +13101,7 @@
   {
     "_id": "64d5e2dc3ca2924d6e61148a",
     "id": "TheBloke/MythoMax-L2-13B-GGML",
-    "likes": 67,
+    "likes": 66,
     "private": false,
     "downloads": 1251,
     "tags": [
@@ -19946,7 +19947,7 @@
   {
     "_id": "64f7bac9fbbfe40336117526",
     "id": "TheBloke/Llama-2-7B-32K-Instruct-GGUF",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 51,
     "tags": [
@@ -20493,7 +20494,7 @@
   {
     "_id": "64f97e6a159055330801aec5",
     "id": "TheBloke/Falcon-180B-Chat-GGUF",
-    "likes": 77,
+    "likes": 78,
     "private": false,
     "downloads": 133,
     "tags": [
@@ -22467,6 +22468,7 @@
       "safetensors",
       "llama",
       "text-generation",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
