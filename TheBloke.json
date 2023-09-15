@@ -18176,7 +18176,7 @@
   {
     "_id": "64f3050ceb5f2982081cb828",
     "id": "TheBloke/OpenBuddy-Llama2-13B-v11.1-GGUF",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 53,
     "tags": [
@@ -18249,7 +18249,7 @@
   {
     "_id": "64f611cf6ad07ea81779ca15",
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
-    "likes": 24,
+    "likes": 25,
     "private": false,
     "downloads": 318,
     "tags": [
@@ -19644,7 +19644,8 @@
       "license:llama2",
       "text-generation",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF"
@@ -19946,7 +19947,7 @@
   {
     "_id": "64f7bac9fbbfe40336117526",
     "id": "TheBloke/Llama-2-7B-32K-Instruct-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 51,
     "tags": [
@@ -22229,8 +22230,7 @@
       "license:llama2",
       "text-generation",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Pygmalion-2-13B-SuperCOT2-GGUF"
