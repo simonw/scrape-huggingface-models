@@ -1096,7 +1096,7 @@
   {
     "_id": "6465d98b9c627c78f8629e5d",
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ",
-    "likes": 72,
+    "likes": 73,
     "private": false,
     "downloads": 453158,
     "tags": [
@@ -1297,7 +1297,7 @@
   {
     "_id": "646b6683f85ebf65c52c7aa8",
     "id": "TheBloke/WizardLM-30B-Uncensored-GPTQ",
-    "likes": 99,
+    "likes": 100,
     "private": false,
     "downloads": 2697,
     "tags": [
@@ -8246,7 +8246,7 @@
   {
     "_id": "64a7418c8098b4e710f98977",
     "id": "TheBloke/WizardLM-7B-V1-0-Uncensored-SuperHOT-8K-GPTQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 496,
     "tags": [
@@ -8491,8 +8491,7 @@
     "tags": [
       "arxiv:2304.12244",
       "license:other",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "modelId": "TheBloke/WizardLM-13B-V1-1-SuperHOT-8K-GGML"
   },
