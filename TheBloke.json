@@ -18264,8 +18264,7 @@
       "license:other",
       "text-generation",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-13B-chat-GGUF"
@@ -18311,7 +18310,8 @@
       "license:other",
       "text-generation",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-70B-chat-GGUF"
@@ -21973,7 +21973,7 @@
   {
     "_id": "6501b9a60cc65d59987f9e83",
     "id": "TheBloke/Kuchiki-L2-7B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -21989,7 +21989,7 @@
   {
     "_id": "6501b9a878ee777360f917d9",
     "id": "TheBloke/Kuchiki-L2-7B-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 58,
     "tags": [
