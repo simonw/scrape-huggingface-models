@@ -19562,8 +19562,7 @@
       "license:llama2",
       "text-generation",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/LlongOrca-13B-16K-GGUF"
@@ -20889,7 +20888,8 @@
       "dataset:jondurbin/airoboros-gpt4-m2.0",
       "license:llama2",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/airoboros-l2-7B-gpt4-m2.0-GGUF"
   },
@@ -21139,7 +21139,7 @@
   {
     "_id": "64fdbabd60017eeec9d16133",
     "id": "TheBloke/Spicyboros-13B-2.2-GPTQ",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 187,
     "tags": [
@@ -21159,7 +21159,7 @@
   {
     "_id": "64fdbb064010eccccc609ea2",
     "id": "TheBloke/Spicyboros-13B-2.2-GGUF",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 33,
     "tags": [
@@ -21974,7 +21974,7 @@
   {
     "_id": "6501b9a60cc65d59987f9e83",
     "id": "TheBloke/Kuchiki-L2-7B-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -22522,5 +22522,49 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Synthia-70B-v1.2b-GPTQ"
+  },
+  {
+    "_id": "6504954ed5578ef7e2a76d28",
+    "id": "TheBloke/ChatAYT-Lora-Assamble-Marcoroni-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/ChatAYT-Lora-Assamble-Marcoroni-GPTQ"
+  },
+  {
+    "_id": "6504954f9622235d7d7cc7b6",
+    "id": "TheBloke/ChatAYT-Lora-Assamble-Marcoroni-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/ChatAYT-Lora-Assamble-Marcoroni-GGUF"
+  },
+  {
+    "_id": "6504956718f9c580cd7781f9",
+    "id": "TheBloke/Luban-Marcoroni-13B-v3-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Luban-Marcoroni-13B-v3-GGUF"
+  },
+  {
+    "_id": "65049568c3d1e53166915a59",
+    "id": "TheBloke/Luban-Marcoroni-13B-v3-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Luban-Marcoroni-13B-v3-GPTQ"
   }
 ]
