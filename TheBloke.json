@@ -18360,7 +18360,7 @@
   {
     "_id": "64f65d33aad4f0fee08b2457",
     "id": "TheBloke/openchat_v3.2_super-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -20888,8 +20888,7 @@
       "dataset:jondurbin/airoboros-gpt4-m2.0",
       "license:llama2",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "modelId": "TheBloke/airoboros-l2-7B-gpt4-m2.0-GGUF"
   },
@@ -21783,7 +21782,7 @@
   {
     "_id": "650083a0cc88b84c06c3a509",
     "id": "TheBloke/Airoboros-L2-70b-2.2-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 51,
     "tags": [
@@ -22541,6 +22540,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/ChatAYT-Lora-Assamble-Marcoroni-GGUF"
