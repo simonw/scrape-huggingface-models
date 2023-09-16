@@ -21715,7 +21715,7 @@
   {
     "_id": "65008291e0c94282ab4681ae",
     "id": "TheBloke/Airoboros-L2-13B-2.2-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 99,
     "tags": [
@@ -22526,7 +22526,7 @@
   {
     "_id": "65049568c3d1e53166915a59",
     "id": "TheBloke/Luban-Marcoroni-13B-v3-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -22659,5 +22659,27 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Kuchiki-1.1-L2-7B-GPTQ"
+  },
+  {
+    "_id": "65058806d3de67a546e44853",
+    "id": "TheBloke/Airoboros-c34B-2.2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-c34B-2.2-GPTQ"
+  },
+  {
+    "_id": "650588d000c9c9a77518950f",
+    "id": "TheBloke/Airoboros-c34B-2.2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-c34B-2.2-GGUF"
   }
 ]
