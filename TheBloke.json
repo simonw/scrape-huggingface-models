@@ -10049,7 +10049,7 @@
   {
     "_id": "64baf98faaccfd28b0209764",
     "id": "TheBloke/Nous-Hermes-Llama2-GPTQ",
-    "likes": 51,
+    "likes": 52,
     "private": false,
     "downloads": 4867,
     "tags": [
@@ -21217,7 +21217,7 @@
   {
     "_id": "64fe2c7e0e486522f87861de",
     "id": "TheBloke/MLewdBoros-L2-13B-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 31,
     "tags": [
@@ -21734,7 +21734,7 @@
   {
     "_id": "65008360990aaba7bb481216",
     "id": "TheBloke/Airoboros-L2-7B-2.2-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -22542,5 +22542,27 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Luban-Marcoroni-13B-v3-GPTQ"
+  },
+  {
+    "_id": "65054c4fdacc94cd6cdcd435",
+    "id": "TheBloke/OpenOrca_Stx-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/OpenOrca_Stx-GGUF"
+  },
+  {
+    "_id": "65054c50dacc94cd6cdcd46e",
+    "id": "TheBloke/OpenOrca_Stx-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/OpenOrca_Stx-GPTQ"
   }
 ]
