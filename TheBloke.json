@@ -720,7 +720,7 @@
   {
     "_id": "645687fb03625871eb77a634",
     "id": "TheBloke/h2ogpt-oasst1-512-30B-GGML",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -984,7 +984,7 @@
   {
     "_id": "6462a5458e12f9ab9998e2dd",
     "id": "TheBloke/WizardLM-13B-Uncensored-GGML",
-    "likes": 56,
+    "likes": 57,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15685,7 +15685,7 @@
   {
     "_id": "64e92fcc1dce571e8536a419",
     "id": "TheBloke/Llama2-70B-OASST-SFT-v10-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -19892,7 +19892,7 @@
   {
     "_id": "64f7a83f84b4837ae42dfc89",
     "id": "TheBloke/Llama2-13B-MegaCode2-OASST-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20418,7 +20418,7 @@
   {
     "_id": "64f8d55ea9b6fed18c84cce3",
     "id": "TheBloke/Llama-2-70B-OASST-1-200-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -22550,6 +22550,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "ja",
+      "dataset:snow_simplified_japanese_corpus",
+      "dataset:khalidalt/tydiqa-goldp",
+      "dataset:csebuetnlp/xlsum",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/OpenOrca_Stx-GGUF"
@@ -22564,5 +22572,36 @@
       "region:us"
     ],
     "modelId": "TheBloke/OpenOrca_Stx-GPTQ"
+  },
+  {
+    "_id": "65054d03a226ecc608b00269",
+    "id": "TheBloke/CalliopeDS-L2-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "arxiv:2306.01708",
+      "llama-2",
+      "license:agpl-3.0",
+      "text-generation",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/CalliopeDS-L2-13B-GGUF"
+  },
+  {
+    "_id": "65054d04d5578ef7e2be53fa",
+    "id": "TheBloke/CalliopeDS-L2-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/CalliopeDS-L2-13B-GPTQ"
   }
 ]
