@@ -15834,7 +15834,7 @@
   {
     "_id": "64e9e5316b9db55517b1d2a9",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GGUF",
-    "likes": 50,
+    "likes": 51,
     "private": false,
     "downloads": 84,
     "tags": [
@@ -16386,7 +16386,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 52,
+    "likes": 53,
     "private": false,
     "downloads": 48,
     "tags": [
@@ -18226,7 +18226,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7b-Chat-GGUF",
-    "likes": 34,
+    "likes": 35,
     "private": false,
     "downloads": 648,
     "tags": [
@@ -22868,6 +22868,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/MLewd-L2-Chat-13B-GGUF"
