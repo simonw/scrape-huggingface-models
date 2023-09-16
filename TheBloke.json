@@ -19529,7 +19529,7 @@
   {
     "_id": "64f7855eaca128077585d86b",
     "id": "TheBloke/WizardLM-1.0-Uncensored-CodeLlama-34B-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 254,
     "tags": [
@@ -22612,12 +22612,44 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "safetensors",
       "llama",
       "text-generation",
+      "en",
+      "arxiv:2306.01708",
+      "llama-2",
+      "license:agpl-3.0",
       "text-generation-inference",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CalliopeDS-L2-13B-GPTQ"
+  },
+  {
+    "_id": "6505633e14302b1d76902b3f",
+    "id": "TheBloke/Kuchiki-1.1-L2-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "llama2",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Kuchiki-1.1-L2-7B-GGUF"
+  },
+  {
+    "_id": "6505633fa61b2c010ed83cca",
+    "id": "TheBloke/Kuchiki-1.1-L2-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Kuchiki-1.1-L2-7B-GPTQ"
   }
 ]
