@@ -15077,7 +15077,7 @@
   {
     "_id": "64e7bafd0c47bf287ca550b8",
     "id": "TheBloke/CodeLlama-13B-GGUF",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 58,
     "tags": [
@@ -19706,7 +19706,7 @@
   {
     "_id": "64f7a5295515d7dcce860396",
     "id": "TheBloke/Pygmalion-2-13B-GPTQ",
-    "likes": 26,
+    "likes": 27,
     "private": false,
     "downloads": 374,
     "tags": [
@@ -22698,7 +22698,7 @@
   {
     "_id": "6505917d383b7e031f812147",
     "id": "TheBloke/Synthia-34B-v1.2-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -22713,7 +22713,7 @@
   {
     "_id": "6505a25fd8d96e913b190abf",
     "id": "TheBloke/Synthia-34B-v1.2-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -22775,6 +22775,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "zh",
+      "en",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/TigerBot-70B-Chat-GGUF"
@@ -22793,7 +22799,7 @@
   {
     "_id": "6505bf7a383b7e031f85c414",
     "id": "TheBloke/WizardCoder-Python-7B-V1.0-GGUF",
-    "likes": 0,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -22818,8 +22824,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2304.12244",
+      "arxiv:2306.08568",
+      "arxiv:2308.09583",
+      "arxiv:2303.08774",
+      "code",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/WizardCoder-Python-7B-V1.0-GPTQ"
   }
 ]
