@@ -22678,8 +22678,24 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "dataset:jondurbin/airoboros-2.2",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Airoboros-c34B-2.2-GGUF"
+  },
+  {
+    "_id": "6505917d383b7e031f812147",
+    "id": "TheBloke/Synthia-34B-v1.2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Synthia-34B-v1.2-GGUF"
   }
 ]
