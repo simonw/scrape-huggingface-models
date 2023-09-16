@@ -11161,7 +11161,7 @@
   {
     "_id": "64c8504ecf159388b2d8387d",
     "id": "TheBloke/airoboros-l2-13b-gpt4-m2.0-GPTQ",
-    "likes": 25,
+    "likes": 26,
     "private": false,
     "downloads": 502,
     "tags": [
@@ -22755,8 +22755,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "llama-2",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Pygmalion-2-13B-SuperCOT-weighed-GPTQ"
   },
   {
@@ -22769,5 +22778,48 @@
       "region:us"
     ],
     "modelId": "TheBloke/TigerBot-70B-Chat-GGUF"
+  },
+  {
+    "_id": "6505bf1a18f9c580cd9c50b3",
+    "id": "TheBloke/TigerBot-70B-Chat-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/TigerBot-70B-Chat-GPTQ"
+  },
+  {
+    "_id": "6505bf7a383b7e031f85c414",
+    "id": "TheBloke/WizardCoder-Python-7B-V1.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "arxiv:2304.12244",
+      "arxiv:2306.08568",
+      "arxiv:2308.09583",
+      "arxiv:2303.08774",
+      "code",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/WizardCoder-Python-7B-V1.0-GGUF"
+  },
+  {
+    "_id": "6505bf7c0761d34d28cf4c52",
+    "id": "TheBloke/WizardCoder-Python-7B-V1.0-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/WizardCoder-Python-7B-V1.0-GPTQ"
   }
 ]
