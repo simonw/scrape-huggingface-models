@@ -19706,7 +19706,7 @@
   {
     "_id": "64f7a5295515d7dcce860396",
     "id": "TheBloke/Pygmalion-2-13B-GPTQ",
-    "likes": 26,
+    "likes": 25,
     "private": false,
     "downloads": 374,
     "tags": [
@@ -21442,7 +21442,7 @@
   {
     "_id": "64ff691a1e14749e84d2c2d9",
     "id": "TheBloke/Spicyboros-70B-2.2-GGUF",
-    "likes": 6,
+    "likes": 5,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -22667,8 +22667,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-2.2",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Airoboros-c34B-2.2-GPTQ"
   },
   {
@@ -22701,5 +22709,16 @@
       "region:us"
     ],
     "modelId": "TheBloke/Synthia-34B-v1.2-GGUF"
+  },
+  {
+    "_id": "6505a25fd8d96e913b190abf",
+    "id": "TheBloke/Synthia-34B-v1.2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Synthia-34B-v1.2-GPTQ"
   }
 ]
