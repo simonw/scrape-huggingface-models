@@ -8060,8 +8060,7 @@
       "custom_code",
       "license:other",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/WizardLM-7B-V1-0-Uncensored-SuperHOT-8K-fp16"
@@ -8900,7 +8899,7 @@
   {
     "_id": "64b29490689a9a230135dbcc",
     "id": "TheBloke/h2ogpt-gm-oasst1-en-2048-falcon-7b-v3-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 103,
     "tags": [
@@ -22793,8 +22792,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "zh",
+      "en",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/TigerBot-70B-Chat-GPTQ"
   },
   {
