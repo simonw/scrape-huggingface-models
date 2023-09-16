@@ -11231,7 +11231,7 @@
   {
     "_id": "64c8768fe761f470611972e7",
     "id": "TheBloke/airoboros-l2-7B-gpt4-m2.0-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 168,
     "tags": [
@@ -21696,7 +21696,7 @@
   {
     "_id": "65008232d117b28d30ff058b",
     "id": "TheBloke/Airoboros-L2-7B-2.2-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 91,
     "tags": [
@@ -21799,7 +21799,7 @@
   {
     "_id": "65009884af1e4021438723c4",
     "id": "TheBloke/Spicyboros-c34b-2.2-GPTQ",
-    "likes": 6,
+    "likes": 5,
     "private": false,
     "downloads": 19,
     "tags": [
@@ -22694,6 +22694,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Synthia-34B-v1.2-GGUF"
