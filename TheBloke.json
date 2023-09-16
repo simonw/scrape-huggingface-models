@@ -884,7 +884,7 @@
   {
     "_id": "645f47b66990e1208522b794",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GGML",
-    "likes": 185,
+    "likes": 186,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -1096,7 +1096,7 @@
   {
     "_id": "6465d98b9c627c78f8629e5d",
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ",
-    "likes": 73,
+    "likes": 72,
     "private": false,
     "downloads": 453158,
     "tags": [
@@ -3822,7 +3822,7 @@
   {
     "_id": "648845cf6ab9e4baf519355a",
     "id": "TheBloke/chronos-hermes-13B-GPTQ",
-    "likes": 30,
+    "likes": 29,
     "private": false,
     "downloads": 167,
     "tags": [
@@ -9224,7 +9224,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 535,
+    "likes": 536,
     "private": false,
     "downloads": 8711,
     "tags": [
@@ -9297,7 +9297,7 @@
   {
     "_id": "64b6d9d4bb1d8f2832c8be93",
     "id": "TheBloke/Llama-2-13B-chat-GPTQ",
-    "likes": 248,
+    "likes": 247,
     "private": false,
     "downloads": 110811,
     "tags": [
@@ -10049,7 +10049,7 @@
   {
     "_id": "64baf98faaccfd28b0209764",
     "id": "TheBloke/Nous-Hermes-Llama2-GPTQ",
-    "likes": 52,
+    "likes": 51,
     "private": false,
     "downloads": 4867,
     "tags": [
@@ -19706,7 +19706,7 @@
   {
     "_id": "64f7a5295515d7dcce860396",
     "id": "TheBloke/Pygmalion-2-13B-GPTQ",
-    "likes": 25,
+    "likes": 26,
     "private": false,
     "downloads": 374,
     "tags": [
@@ -22717,8 +22717,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "custom_code",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Synthia-34B-v1.2-GPTQ"
   },
   {
