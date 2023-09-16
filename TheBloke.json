@@ -22569,8 +22569,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "ja",
+      "dataset:snow_simplified_japanese_corpus",
+      "dataset:khalidalt/tydiqa-goldp",
+      "dataset:csebuetnlp/xlsum",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/OpenOrca_Stx-GPTQ"
   },
   {
@@ -22600,8 +22611,13 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CalliopeDS-L2-13B-GPTQ"
   }
 ]
