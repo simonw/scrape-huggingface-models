@@ -8060,7 +8060,8 @@
       "custom_code",
       "license:other",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/WizardLM-7B-V1-0-Uncensored-SuperHOT-8K-fp16"
@@ -15266,7 +15267,7 @@
   {
     "_id": "64e7cd1f79630927bfe7bf37",
     "id": "TheBloke/CodeLlama-7B-Instruct-GGML",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 63,
     "tags": [
