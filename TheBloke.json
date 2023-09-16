@@ -2043,7 +2043,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 341,
+    "likes": 342,
     "private": false,
     "downloads": 7128,
     "tags": [
@@ -10842,7 +10842,7 @@
   {
     "_id": "64c4c285c097c6c2b39e4c56",
     "id": "TheBloke/MythoLogic-Mini-7B-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 59,
     "tags": [
@@ -12528,7 +12528,7 @@
   {
     "_id": "64d0a2739cff7382039881e8",
     "id": "TheBloke/Spring-Dragon-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 20,
     "tags": [
@@ -12626,7 +12626,7 @@
   {
     "_id": "64d2b3ba89a89bedda1a4fdb",
     "id": "TheBloke/stablecode-instruct-alpha-3b-GGML",
-    "likes": 40,
+    "likes": 41,
     "private": false,
     "downloads": 46,
     "tags": [
@@ -12867,7 +12867,7 @@
   {
     "_id": "64d4f2d9089bc502ce6cb1b6",
     "id": "TheBloke/Stable-Platypus2-13B-GPTQ",
-    "likes": 10,
+    "likes": 9,
     "private": false,
     "downloads": 518,
     "tags": [
@@ -16794,7 +16794,7 @@
   {
     "_id": "64ef0c4832b9d84c0d662e8a",
     "id": "TheBloke/Mythical-Destroyer-V2-L2-13B-GPTQ",
-    "likes": 4,
+    "likes": 3,
     "private": false,
     "downloads": 17,
     "tags": [
@@ -17211,7 +17211,7 @@
   {
     "_id": "64f0787ba20e6096c6ab97f9",
     "id": "TheBloke/MythoMax-L2-Kimiko-v2-13B-GPTQ",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 260,
     "tags": [
@@ -18320,7 +18320,7 @@
   {
     "_id": "64f62bf7376094fe6e13e61f",
     "id": "TheBloke/Llama-2-70B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -22587,7 +22587,7 @@
   {
     "_id": "65054d03a226ecc608b00269",
     "id": "TheBloke/CalliopeDS-L2-13B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -22720,5 +22720,46 @@
       "region:us"
     ],
     "modelId": "TheBloke/Synthia-34B-v1.2-GPTQ"
+  },
+  {
+    "_id": "6505b2e2fec2f376352057ee",
+    "id": "TheBloke/Pygmalion-2-13B-SuperCOT-weighed-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "llama-2",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Pygmalion-2-13B-SuperCOT-weighed-GGUF"
+  },
+  {
+    "_id": "6505b2e3c3d1e53166b22726",
+    "id": "TheBloke/Pygmalion-2-13B-SuperCOT-weighed-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Pygmalion-2-13B-SuperCOT-weighed-GPTQ"
+  },
+  {
+    "_id": "6505b62cd3de67a546e8a8d0",
+    "id": "TheBloke/TigerBot-70B-Chat-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/TigerBot-70B-Chat-GGUF"
   }
 ]
