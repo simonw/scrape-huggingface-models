@@ -18665,7 +18665,8 @@
       "synthetic instruction",
       "license:llama2",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/Nous-Hermes-Llama2-GGUF"
   },
