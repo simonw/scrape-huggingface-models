@@ -15306,7 +15306,7 @@
   {
     "_id": "64e7d00dae53e70cda1de235",
     "id": "TheBloke/CodeLlama-34B-Instruct-GGUF",
-    "likes": 56,
+    "likes": 57,
     "private": false,
     "downloads": 71,
     "tags": [
@@ -17547,7 +17547,7 @@
   {
     "_id": "64f19dcebfff8aeae0a13899",
     "id": "TheBloke/Yarn-Llama-2-13B-128K-GGUF",
-    "likes": 28,
+    "likes": 29,
     "private": false,
     "downloads": 90,
     "tags": [
@@ -18251,7 +18251,7 @@
   {
     "_id": "64f611cf6ad07ea81779ca15",
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
-    "likes": 29,
+    "likes": 30,
     "private": false,
     "downloads": 318,
     "tags": [
@@ -18298,7 +18298,7 @@
   {
     "_id": "64f61985e916843d8ebc5db8",
     "id": "TheBloke/Llama-2-70B-chat-GGUF",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 296,
     "tags": [
@@ -20403,7 +20403,7 @@
   {
     "_id": "64f8c21ad493d8b0d2be3556",
     "id": "TheBloke/WizardLM-70B-V1.0-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -20497,7 +20497,7 @@
   {
     "_id": "64f97e6a159055330801aec5",
     "id": "TheBloke/Falcon-180B-Chat-GGUF",
-    "likes": 81,
+    "likes": 82,
     "private": false,
     "downloads": 133,
     "tags": [
@@ -22883,6 +22883,7 @@
       "safetensors",
       "llama",
       "text-generation",
+      "license:cc-by-nc-4.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -22896,8 +22897,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "not-for-all-audiences",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Magpie-13B-GPTQ"
   },
   {
