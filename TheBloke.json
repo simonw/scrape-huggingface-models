@@ -18266,7 +18266,8 @@
       "license:other",
       "text-generation",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-13B-chat-GGUF"
@@ -21054,7 +21055,7 @@
   {
     "_id": "64fc8fd99132c7f62a2801f9",
     "id": "TheBloke/Uni-TianYan-70B-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -21429,7 +21430,7 @@
   {
     "_id": "64ff68bbefd273eec765be98",
     "id": "TheBloke/Llama-2-70B-Ensemble-v5-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -22878,8 +22879,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/ReMM-v2.1-L2-13B-GPTQ"
   },
   {
@@ -22911,6 +22918,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Llama-2-70B-LoRA-Assemble-v2-GGUF"
