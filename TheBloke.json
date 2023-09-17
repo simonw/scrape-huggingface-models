@@ -22892,5 +22892,27 @@
       "region:us"
     ],
     "modelId": "TheBloke/Magpie-13B-GPTQ"
+  },
+  {
+    "_id": "6507358daf387baff491d2f3",
+    "id": "TheBloke/Llama-2-70B-LoRA-Assemble-v2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-70B-LoRA-Assemble-v2-GPTQ"
+  },
+  {
+    "_id": "6507358fffc738079c8e9dbc",
+    "id": "TheBloke/Llama-2-70B-LoRA-Assemble-v2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-70B-LoRA-Assemble-v2-GGUF"
   }
 ]
