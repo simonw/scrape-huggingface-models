@@ -15326,7 +15326,7 @@
   {
     "_id": "64e7d2676e8d01b79993ca60",
     "id": "TheBloke/CodeLlama-7B-GGML",
-    "likes": 25,
+    "likes": 26,
     "private": false,
     "downloads": 61,
     "tags": [
@@ -18491,7 +18491,7 @@
   {
     "_id": "64f6a7e501456607f6518b64",
     "id": "TheBloke/vicuna-7B-v1.5-16K-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 11,
     "tags": [
@@ -22888,5 +22888,27 @@
       "region:us"
     ],
     "modelId": "TheBloke/MLewd-L2-Chat-13B-GGUF"
+  },
+  {
+    "_id": "65072ae1eac45ee2e41a02eb",
+    "id": "TheBloke/ReMM-v2.1-L2-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/ReMM-v2.1-L2-13B-GGUF"
+  },
+  {
+    "_id": "65072ae295c4559685271567",
+    "id": "TheBloke/ReMM-v2.1-L2-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/ReMM-v2.1-L2-13B-GPTQ"
   }
 ]
