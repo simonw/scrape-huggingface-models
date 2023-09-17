@@ -18842,7 +18842,7 @@
   {
     "_id": "64f702cb61afe1d3356318fa",
     "id": "TheBloke/OpenBuddy-Llama2-70b-v10.1-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -21444,7 +21444,7 @@
   {
     "_id": "64ff691a1e14749e84d2c2d9",
     "id": "TheBloke/Spicyboros-70B-2.2-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -22427,39 +22427,6 @@
     "modelId": "TheBloke/CodeFuse-CodeLlama-34B-GGUF"
   },
   {
-    "_id": "650414b80628d2cf59f0a5f5",
-    "id": "TheBloke/Llama-2-70B-LoRA-Assemble-v3-GPTQ",
-    "likes": 0,
-    "private": false,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "llama",
-      "text-generation",
-      "license:llama2",
-      "text-generation-inference",
-      "region:us"
-    ],
-    "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/Llama-2-70B-LoRA-Assemble-v3-GPTQ"
-  },
-  {
-    "_id": "6504176536bc34312195467a",
-    "id": "TheBloke/Llama-2-70B-LoRA-Assemble-v3-GGUF",
-    "likes": 0,
-    "private": false,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "llama",
-      "license:llama2",
-      "text-generation-inference",
-      "region:us"
-    ],
-    "modelId": "TheBloke/Llama-2-70B-LoRA-Assemble-v3-GGUF"
-  },
-  {
     "_id": "6504535ae8b265d6875024f6",
     "id": "TheBloke/Synthia-70B-v1.2b-GGUF",
     "likes": 1,
@@ -22896,6 +22863,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/ReMM-v2.1-L2-13B-GGUF"
@@ -22910,5 +22881,16 @@
       "region:us"
     ],
     "modelId": "TheBloke/ReMM-v2.1-L2-13B-GPTQ"
+  },
+  {
+    "_id": "65072b7e18f9c580cdc4aefa",
+    "id": "TheBloke/Magpie-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Magpie-13B-GPTQ"
   }
 ]
