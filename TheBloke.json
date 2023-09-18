@@ -919,7 +919,7 @@
   {
     "_id": "645f575325a4075bcf994ff6",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-HF",
-    "likes": 198,
+    "likes": 197,
     "private": false,
     "downloads": 3553,
     "tags": [
@@ -19126,7 +19126,8 @@
       "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
       "license:llama2",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GGUF"
   },
