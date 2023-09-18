@@ -8694,7 +8694,7 @@
   {
     "_id": "64abc16acbc2ba10ffdfbdba",
     "id": "TheBloke/Chronoboros-33B-GPTQ",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 960,
     "tags": [
@@ -19126,8 +19126,7 @@
       "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
       "license:llama2",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "modelId": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GGUF"
   },
@@ -21754,7 +21753,7 @@
   {
     "_id": "650083a0cc88b84c06c3a509",
     "id": "TheBloke/Airoboros-L2-70b-2.2-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 51,
     "tags": [
