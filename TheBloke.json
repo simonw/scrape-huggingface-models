@@ -15077,7 +15077,7 @@
   {
     "_id": "64e7bafd0c47bf287ca550b8",
     "id": "TheBloke/CodeLlama-13B-GGUF",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 58,
     "tags": [
@@ -21443,7 +21443,7 @@
   {
     "_id": "64ff691a1e14749e84d2c2d9",
     "id": "TheBloke/Spicyboros-70B-2.2-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -22956,5 +22956,29 @@
       "region:us"
     ],
     "modelId": "TheBloke/llama2_7b_chat_uncensored-GGUF"
+  },
+  {
+    "_id": "6508c16eabdde5290e606c80",
+    "id": "TheBloke/Llama-2-7b-Chat-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "arxiv:2307.09288",
+      "facebook",
+      "meta",
+      "pytorch",
+      "llama-2",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Llama-2-7b-Chat-AWQ"
   }
 ]
