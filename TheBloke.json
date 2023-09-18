@@ -15226,7 +15226,7 @@
   {
     "_id": "64e7c2379f8952a1c0008ed1",
     "id": "TheBloke/CodeLlama-34B-GGUF",
-    "likes": 37,
+    "likes": 38,
     "private": false,
     "downloads": 42,
     "tags": [
@@ -17598,7 +17598,7 @@
   {
     "_id": "64f1c8325b8a6a5d39d71701",
     "id": "TheBloke/Yarn-Llama-2-13B-128K-GPTQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 700,
     "tags": [
@@ -18218,8 +18218,7 @@
       "license:llama2",
       "text-generation",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-7B-GGUF"
@@ -19810,7 +19809,7 @@
   {
     "_id": "64f7a58c8a4c5c401d6b6328",
     "id": "TheBloke/Mythalion-13B-GPTQ",
-    "likes": 34,
+    "likes": 35,
     "private": false,
     "downloads": 1557,
     "tags": [
@@ -19836,7 +19835,7 @@
   {
     "_id": "64f7a58cbcf14b0c915ad636",
     "id": "TheBloke/Mythalion-13B-GGUF",
-    "likes": 26,
+    "likes": 27,
     "private": false,
     "downloads": 199,
     "tags": [
@@ -22892,7 +22891,7 @@
   {
     "_id": "65072b7e18f9c580cdc4aefa",
     "id": "TheBloke/Magpie-13B-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -22916,8 +22915,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-70B-LoRA-Assemble-v2-GPTQ"
   },
   {
