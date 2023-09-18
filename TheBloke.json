@@ -22940,5 +22940,21 @@
       "region:us"
     ],
     "modelId": "TheBloke/Llama-2-70B-LoRA-Assemble-v2-GGUF"
+  },
+  {
+    "_id": "6507fc50a226ecc608fa1425",
+    "id": "TheBloke/llama2_7b_chat_uncensored-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "dataset:ehartford/wizard_vicuna_70k_unfiltered",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/llama2_7b_chat_uncensored-GGUF"
   }
 ]
