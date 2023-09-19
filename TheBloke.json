@@ -12571,7 +12571,7 @@
       "llama",
       "text-generation",
       "en",
-      "license:llama2",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -13124,7 +13124,7 @@
       "llama",
       "text-generation",
       "en",
-      "license:llama2",
+      "license:other",
       "has_space",
       "text-generation-inference",
       "region:us"
@@ -14834,7 +14834,7 @@
       "dataset:LDJnr/Puffin",
       "llama-2",
       "sft",
-      "license:llama2",
+      "license:mit",
       "text-generation-inference",
       "region:us"
     ],
@@ -14874,7 +14874,7 @@
       "dataset:LDJnr/Puffin",
       "llama-2",
       "sft",
-      "license:llama2",
+      "license:mit",
       "text-generation-inference",
       "region:us"
     ],
@@ -18432,7 +18432,7 @@
       "transformers",
       "llama",
       "en",
-      "license:llama2",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -18448,7 +18448,7 @@
       "transformers",
       "llama",
       "en",
-      "license:llama2",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -24793,8 +24793,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "arxiv:2306.02707",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/ORCA_LLaMA_70B_QLoRA-AWQ"
   },
   {
@@ -24837,8 +24846,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "eng",
+      "dataset:LDJnr/Puffin",
+      "llama-2",
+      "sft",
+      "license:mit",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Nous-Puffin-70B-AWQ"
   },
   {
@@ -25011,8 +25031,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MythoMax-L2-13B-AWQ"
   },
   {
@@ -25022,8 +25050,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MythoMix-L2-13B-AWQ"
   },
   {
@@ -25033,8 +25069,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Spring-Dragon-AWQ"
   },
   {
@@ -25044,8 +25087,156 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Tulpar-7B-v0-AWQ"
+  },
+  {
+    "_id": "65094260f36bb51c500f64ce",
+    "id": "TheBloke/Athena-v1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Athena-v1-AWQ"
+  },
+  {
+    "_id": "650942f12e4bbde418f980de",
+    "id": "TheBloke/LoKuS-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/LoKuS-13B-AWQ"
+  },
+  {
+    "_id": "650943f0c19e5b4c8a3dbfa3",
+    "id": "TheBloke/Llama-2-70B-OASST-1-200-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-70B-OASST-1-200-AWQ"
+  },
+  {
+    "_id": "6509442cb44445e9b380ef19",
+    "id": "TheBloke/Airochronos-L2-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "llama-2",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Airochronos-L2-13B-AWQ"
+  },
+  {
+    "_id": "650944e4abdde5290e73555f",
+    "id": "TheBloke/llama2_70b_chat_uncensored-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/llama2_70b_chat_uncensored-AWQ"
+  },
+  {
+    "_id": "650945912c804aed59ca6d00",
+    "id": "TheBloke/Airolima-Chronos-Grad-L2-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "llama-2",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Airolima-Chronos-Grad-L2-13B-AWQ"
+  },
+  {
+    "_id": "65094626ce81b73e635914ae",
+    "id": "TheBloke/Chronoboros-Grad-L2-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "llama-2",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Chronoboros-Grad-L2-13B-AWQ"
+  },
+  {
+    "_id": "65094693e0850b3ff02ddd59",
+    "id": "TheBloke/Chronolima-Airo-Grad-L2-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Chronolima-Airo-Grad-L2-13B-AWQ"
+  },
+  {
+    "_id": "6509477a1ba21833b4bb40ff",
+    "id": "TheBloke/OpenOrca_Stx-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/OpenOrca_Stx-AWQ"
   }
 ]
