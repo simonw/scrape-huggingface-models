@@ -9678,7 +9678,7 @@
   {
     "_id": "64b94bc7047fa3db9433cd56",
     "id": "TheBloke/llama-2-13B-German-Assistant-v2-GGML",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 42,
     "tags": [
@@ -12394,7 +12394,7 @@
       "fr",
       "dataset:OpenAssistant/oasst1",
       "sft",
-      "license:llama2",
+      "license:apache-2.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -18250,7 +18250,7 @@
   {
     "_id": "64f611cf6ad07ea81779ca15",
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
-    "likes": 32,
+    "likes": 33,
     "private": false,
     "downloads": 318,
     "tags": [
@@ -19852,6 +19852,7 @@
       "instruct",
       "license:llama2",
       "text-generation",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -20432,7 +20433,7 @@
       "fr",
       "dataset:OpenAssistant/oasst1",
       "sft",
-      "license:llama2",
+      "license:apache-2.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -25142,8 +25143,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "de",
+      "es",
+      "fr",
+      "dataset:OpenAssistant/oasst1",
+      "sft",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-70B-OASST-1-200-AWQ"
   },
   {
@@ -25173,8 +25187,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:ehartford/wizard_vicuna_70k_unfiltered",
+      "arxiv:2305.14314",
+      "uncensored",
+      "wizard",
+      "vicuna",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/llama2_70b_chat_uncensored-AWQ"
   },
   {
@@ -25332,8 +25358,23 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:PygmalionAI/PIPPA",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:Norquinal/claude_multiround_chat_30k",
+      "dataset:jondurbin/airoboros-gpt4-1.4.1",
+      "dataset:databricks/databricks-dolly-15k",
+      "text generation",
+      "instruct",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Mythalion-13B-AWQ"
   },
   {
@@ -25343,8 +25384,135 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:PygmalionAI/PIPPA",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:Norquinal/claude_multiround_chat_30k",
+      "dataset:jondurbin/airoboros-gpt4-1.4.1",
+      "dataset:databricks/databricks-dolly-15k",
+      "text generation",
+      "instruct",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Pygmalion-2-13B-AWQ"
+  },
+  {
+    "_id": "650950027e0d56c27161ce54",
+    "id": "TheBloke/Pygmalion-2-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:PygmalionAI/PIPPA",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:Norquinal/claude_multiround_chat_30k",
+      "dataset:jondurbin/airoboros-gpt4-1.4.1",
+      "dataset:databricks/databricks-dolly-15k",
+      "text generation",
+      "instruct",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Pygmalion-2-7B-AWQ"
+  },
+  {
+    "_id": "650951fbad753305debdea5e",
+    "id": "TheBloke/Synthia-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "arxiv:2306.02707",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Synthia-13B-AWQ"
+  },
+  {
+    "_id": "65095355a2abcb18d62cb254",
+    "id": "TheBloke/GodziLLa2-70B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/GodziLLa2-70B-AWQ"
+  },
+  {
+    "_id": "65095391ad753305debe2244",
+    "id": "TheBloke/Synthia-34B-v1.2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Synthia-34B-v1.2-AWQ"
+  },
+  {
+    "_id": "6509550e1ba21833b4bd63f9",
+    "id": "TheBloke/Synthia-70B-v1.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Synthia-70B-v1.1-AWQ"
+  },
+  {
+    "_id": "650955f8b5a04c8675bb9976",
+    "id": "TheBloke/Synthia-70B-v1.2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Synthia-70B-v1.2-AWQ"
+  },
+  {
+    "_id": "6509571610173b169c3e8ce0",
+    "id": "TheBloke/Synthia-70B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Synthia-70B-AWQ"
+  },
+  {
+    "_id": "6509577fc9aa376f76b6828c",
+    "id": "TheBloke/Synthia-70B-v1.2b-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Synthia-70B-v1.2b-AWQ"
   }
 ]
