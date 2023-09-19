@@ -11425,7 +11425,7 @@
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
-      "license:llama2",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -12009,7 +12009,7 @@
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
-      "license:llama2",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -18297,7 +18297,7 @@
   {
     "_id": "64f61985e916843d8ebc5db8",
     "id": "TheBloke/Llama-2-70B-chat-GGUF",
-    "likes": 23,
+    "likes": 24,
     "private": false,
     "downloads": 296,
     "tags": [
@@ -20213,7 +20213,7 @@
       "transformers",
       "llama",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
-      "license:llama2",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -20392,7 +20392,7 @@
       "transformers",
       "llama",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
-      "license:llama2",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -22758,7 +22758,7 @@
   {
     "_id": "6505bf1a18f9c580cd9c50b3",
     "id": "TheBloke/TigerBot-70B-Chat-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -23895,8 +23895,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-2.1",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Airoboros-L2-70B-2.1-AWQ"
   },
   {
@@ -23906,8 +23914,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Airoboros-L2-70B-2.1-Creative-AWQ"
   },
   {
@@ -23917,8 +23932,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-gpt4-m2.0",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/airoboros-l2-70B-GPT4-2.0-AWQ"
   },
   {
@@ -23928,8 +23951,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-2.2",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Airoboros-L2-70b-2.2-AWQ"
   },
   {
@@ -23977,8 +24008,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-gpt4-m2.0",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Airoboros-L2-70B-GPT4-m2.0-AWQ"
   },
   {
@@ -24039,8 +24078,103 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-2.2",
+      "not-for-all-audiences",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Spicyboros-c34b-2.2-AWQ"
+  },
+  {
+    "_id": "65091bbd2257a3afbaca903c",
+    "id": "TheBloke/Dolphin-Llama2-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:ehartford/dolphin",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Dolphin-Llama2-7B-AWQ"
+  },
+  {
+    "_id": "65091cd56fb511ba9e744f7e",
+    "id": "TheBloke/Samantha-1.1-70B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Samantha-1.1-70B-AWQ"
+  },
+  {
+    "_id": "65091d4510173b169c3665d7",
+    "id": "TheBloke/Samantha-1.11-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Samantha-1.11-13B-AWQ"
+  },
+  {
+    "_id": "65091e536d2284f73233bbb0",
+    "id": "TheBloke/WizardLM-1.0-Uncensored-CodeLlama-34B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/WizardLM-1.0-Uncensored-CodeLlama-34B-AWQ"
+  },
+  {
+    "_id": "65091e567b68c4a6f660850e",
+    "id": "TheBloke/Samantha-1.11-CodeLlama-34B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Samantha-1.11-CodeLlama-34B-AWQ"
+  },
+  {
+    "_id": "65091e9469739cd31012b2bc",
+    "id": "TheBloke/Samantha-1.11-70B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Samantha-1.11-70B-AWQ"
+  },
+  {
+    "_id": "65091eae647a3ea442bb39cd",
+    "id": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-AWQ"
   }
 ]
