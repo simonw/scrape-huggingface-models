@@ -9394,7 +9394,7 @@
       "meta",
       "pytorch",
       "llama-2",
-      "license:other",
+      "license:llama2",
       "has_space",
       "text-generation-inference",
       "region:us"
@@ -9419,7 +9419,7 @@
       "meta",
       "pytorch",
       "llama-2",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -10097,7 +10097,7 @@
   {
     "_id": "64bb0fee1363b5c7996fc358",
     "id": "TheBloke/llama2_7b_chat_uncensored-GPTQ",
-    "likes": 47,
+    "likes": 48,
     "private": false,
     "downloads": 4439,
     "tags": [
@@ -10512,9 +10512,9 @@
       "arxiv:2306.08568",
       "arxiv:2308.09583",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/WizardLM-13B-V1.2-GPTQ"
@@ -11523,7 +11523,7 @@
   {
     "_id": "64cb5e611f8a37e3ed3e927a",
     "id": "TheBloke/vicuna-13B-v1.5-16K-GPTQ",
-    "likes": 24,
+    "likes": 25,
     "private": false,
     "downloads": 4135,
     "tags": [
@@ -15561,7 +15561,7 @@
   {
     "_id": "64e893eb0c2413c35722cff1",
     "id": "TheBloke/CodeLlama-34B-GPTQ",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 725,
     "tags": [
@@ -16311,7 +16311,9 @@
       "arxiv:2306.08568",
       "arxiv:2308.09583",
       "arxiv:2303.08774",
+      "code",
       "license:llama2",
+      "model-index",
       "has_space",
       "text-generation-inference",
       "region:us"
@@ -16357,9 +16359,9 @@
       "code",
       "license:llama2",
       "model-index",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "modelId": "TheBloke/WizardCoder-Python-13B-V1.0-GGUF"
   },
@@ -18309,11 +18311,11 @@
       "meta",
       "pytorch",
       "llama-2",
-      "license:other",
+      "license:llama2",
       "text-generation",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-70B-chat-GGUF"
@@ -18333,7 +18335,7 @@
       "meta",
       "pytorch",
       "llama-2",
-      "license:other",
+      "license:llama2",
       "text-generation",
       "text-generation-inference",
       "region:us"
@@ -20357,7 +20359,7 @@
   {
     "_id": "64f8ad3c29a9aa4778e7fdab",
     "id": "TheBloke/Falcon-180B-Chat-GPTQ",
-    "likes": 45,
+    "likes": 46,
     "private": false,
     "downloads": 5138,
     "tags": [
@@ -23123,8 +23125,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "arxiv:2307.09288",
+      "facebook",
+      "meta",
+      "pytorch",
+      "llama-2",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-70B-AWQ"
   },
   {
@@ -23134,8 +23149,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "arxiv:2307.09288",
+      "facebook",
+      "meta",
+      "pytorch",
+      "llama-2",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-70B-chat-AWQ"
   },
   {
@@ -23186,8 +23214,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code",
+      "arxiv:2308.12950",
+      "llama-2",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-34B-AWQ"
   },
   {
@@ -23259,8 +23297,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code",
+      "arxiv:2308.12950",
+      "llama-2",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-34B-Python-AWQ"
   },
   {
@@ -23322,8 +23370,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2304.12244",
+      "arxiv:2306.08568",
+      "arxiv:2308.09583",
+      "arxiv:2303.08774",
+      "code",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/WizardCoder-Python-7B-V1.0-AWQ"
   },
   {
@@ -23336,5 +23397,158 @@
       "region:us"
     ],
     "modelId": "TheBloke/WizardCoder-Python-34B-V1.0-AWQ"
+  },
+  {
+    "_id": "6508f0f6c19e5b4c8a30006a",
+    "id": "TheBloke/WizardCoder-Python-13B-V1.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2304.12244",
+      "arxiv:2306.08568",
+      "arxiv:2308.09583",
+      "arxiv:2303.08774",
+      "code",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/WizardCoder-Python-13B-V1.0-AWQ"
+  },
+  {
+    "_id": "6508f1a62257a3afbac45415",
+    "id": "TheBloke/WizardLM-13B-V1.2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2304.12244",
+      "arxiv:2306.08568",
+      "arxiv:2308.09583",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/WizardLM-13B-V1.2-AWQ"
+  },
+  {
+    "_id": "6508f511cc02352e1e022437",
+    "id": "TheBloke/WizardMath-7B-V1.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2304.12244",
+      "arxiv:2306.08568",
+      "arxiv:2308.09583",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/WizardMath-7B-V1.0-AWQ"
+  },
+  {
+    "_id": "6508f55261c4bb4636e226fe",
+    "id": "TheBloke/Camel-Platypus2-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:garage-bAInd/Open-Platypus",
+      "arxiv:2308.07317",
+      "arxiv:2307.09288",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Camel-Platypus2-13B-AWQ"
+  },
+  {
+    "_id": "6508f55bf99720fea119dc0b",
+    "id": "TheBloke/WizardMath-13B-V1.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2304.12244",
+      "arxiv:2306.08568",
+      "arxiv:2308.09583",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/WizardMath-13B-V1.0-AWQ"
+  },
+  {
+    "_id": "6508f6f5623330a3a50c7f65",
+    "id": "TheBloke/Camel-Platypus2-70B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Camel-Platypus2-70B-AWQ"
+  },
+  {
+    "_id": "6508f7b4cc02352e1e028d38",
+    "id": "TheBloke/Platypus2-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Platypus2-13B-AWQ"
+  },
+  {
+    "_id": "6508f866f36bb51c50044cec",
+    "id": "TheBloke/WizardLM-70B-V1.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/WizardLM-70B-V1.0-AWQ"
+  },
+  {
+    "_id": "6508f9534882fab5c49565a0",
+    "id": "TheBloke/WizardMath-70B-V1.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/WizardMath-70B-V1.0-AWQ"
   }
 ]
