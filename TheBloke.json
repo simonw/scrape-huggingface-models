@@ -9380,7 +9380,7 @@
   {
     "_id": "64b72139a00eab5bcddae33e",
     "id": "TheBloke/Llama-2-70B-chat-GPTQ",
-    "likes": 181,
+    "likes": 182,
     "private": false,
     "downloads": 38017,
     "tags": [
@@ -9405,7 +9405,7 @@
   {
     "_id": "64b72402fdb702b3d85cc9d2",
     "id": "TheBloke/Llama-2-70B-GPTQ",
-    "likes": 60,
+    "likes": 61,
     "private": false,
     "downloads": 234514,
     "tags": [
@@ -11733,7 +11733,7 @@
       "pytorch",
       "llama-2",
       "qCammel-70",
-      "license:llama2",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -13067,8 +13067,6 @@
       "safetensors",
       "llama",
       "text-generation",
-      "en",
-      "dataset:garage-bAInd/Open-Platypus",
       "arxiv:2308.07317",
       "arxiv:2307.09288",
       "license:llama2",
@@ -19236,7 +19234,7 @@
       "pytorch",
       "llama-2",
       "qCammel-70",
-      "license:llama2",
+      "license:other",
       "text-generation",
       "text-generation-inference",
       "region:us"
@@ -20199,7 +20197,7 @@
       "dataset:garage-bAInd/Open-Platypus",
       "arxiv:2308.07317",
       "arxiv:2307.09288",
-      "license:llama2",
+      "license:cc-by-nc-sa-4.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -23010,7 +23008,7 @@
   {
     "_id": "6508e3b0f36bb51c50017ebb",
     "id": "TheBloke/Llama-2-13B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -23601,8 +23599,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2304.12244",
+      "arxiv:2306.08568",
+      "arxiv:2308.09583",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/WizardMath-70B-V1.0-AWQ"
   },
   {
@@ -23726,8 +23734,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "arxiv:2305.12031",
+      "arxiv:2305.14314",
+      "arxiv:2302.70971",
+      "pytorch",
+      "llama-2",
+      "qCammel-70",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/qCammel-70-x-AWQ"
   },
   {
@@ -23757,8 +23779,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-2.1",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Airoboros-c34B-2.1-AWQ"
   },
   {
@@ -23768,8 +23798,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-2.2",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Airoboros-c34B-2.2-AWQ"
   },
   {
@@ -23779,8 +23817,177 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-2.1",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Airoboros-L2-13B-2.1-AWQ"
+  },
+  {
+    "_id": "650909927b68c4a6f65d70b2",
+    "id": "TheBloke/Airoboros-L2-13B-2.2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-2.2",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Airoboros-L2-13B-2.2-AWQ"
+  },
+  {
+    "_id": "650909b5ad753305deb2c9d6",
+    "id": "TheBloke/airoboros-l2-13b-gpt4-2.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-gpt4-2.0",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/airoboros-l2-13b-gpt4-2.0-AWQ"
+  },
+  {
+    "_id": "65090a5dac5108b93a6b7e08",
+    "id": "TheBloke/airoboros-l2-13b-gpt4-m2.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-gpt4-m2.0",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/airoboros-l2-13b-gpt4-m2.0-AWQ"
+  },
+  {
+    "_id": "65090c8d6d2284f732319b44",
+    "id": "TheBloke/Airoboros-L2-70B-2.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-70B-2.1-AWQ"
+  },
+  {
+    "_id": "65090c8fc9aa376f76ac15a9",
+    "id": "TheBloke/Airoboros-L2-70B-2.1-Creative-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-70B-2.1-Creative-AWQ"
+  },
+  {
+    "_id": "65090e343f8a38f0646fe9f8",
+    "id": "TheBloke/airoboros-l2-70B-GPT4-2.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/airoboros-l2-70B-GPT4-2.0-AWQ"
+  },
+  {
+    "_id": "65090e38b5a04c8675b09ff6",
+    "id": "TheBloke/Airoboros-L2-70b-2.2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-70b-2.2-AWQ"
+  },
+  {
+    "_id": "65090e3de37e4da53173ded0",
+    "id": "TheBloke/Airoboros-L2-7B-2.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-2.1",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Airoboros-L2-7B-2.1-AWQ"
+  },
+  {
+    "_id": "65090e7db5a04c8675b0abec",
+    "id": "TheBloke/Airoboros-L2-7B-2.2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-2.2",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Airoboros-L2-7B-2.2-AWQ"
+  },
+  {
+    "_id": "65090f08f99720fea11db2f2",
+    "id": "TheBloke/Airoboros-L2-70B-GPT4-m2.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-70B-GPT4-m2.0-AWQ"
+  },
+  {
+    "_id": "65091029e0850b3ff0265d41",
+    "id": "TheBloke/Spicyboros-13B-2.2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Spicyboros-13B-2.2-AWQ"
   }
 ]
