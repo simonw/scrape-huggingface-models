@@ -19205,7 +19205,7 @@
   {
     "_id": "64f753acb2d67ae715da263e",
     "id": "TheBloke/Llama-2-13B-German-Assistant-v4-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -20137,6 +20137,7 @@
       "transformers",
       "llama",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -26400,8 +26401,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Euryale-Inverted-L2-70B-AWQ"
   },
   {
@@ -26430,8 +26439,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Euryale-L2-70B-AWQ"
   },
   {
@@ -26614,8 +26631,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MythoMax-Kimiko-Mix-AWQ"
   },
   {
@@ -26654,8 +26678,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/ChatAYT-Lora-Assamble-Marcoroni-AWQ"
   },
   {
@@ -26665,8 +26696,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:Open-Orca/OpenOrca",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Luban-Marcoroni-13B-v3-AWQ"
   },
   {
@@ -26676,8 +26716,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Chronos-Beluga-v2-13B-AWQ"
   },
   {
@@ -26698,8 +26745,254 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Huginn-13B-AWQ"
+  },
+  {
+    "_id": "650988462257a3afbad9a46c",
+    "id": "TheBloke/Huginn-13B-v4.5-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Huginn-13B-v4.5-AWQ"
+  },
+  {
+    "_id": "6509892f5ac587b3f369b7ae",
+    "id": "TheBloke/Huginn-13B-v4-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Huginn-13B-v4-AWQ"
+  },
+  {
+    "_id": "6509898861c4bb4636f83330",
+    "id": "TheBloke/Huginn-22B-Prototype-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Huginn-22B-Prototype-AWQ"
+  },
+  {
+    "_id": "6509899a6fb511ba9e842a80",
+    "id": "TheBloke/Huginn-v3-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Huginn-v3-13B-AWQ"
+  },
+  {
+    "_id": "65098a675ac587b3f369e4d2",
+    "id": "TheBloke/Llama-2-7B-32K-Instruct-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "custom_code",
+      "en",
+      "dataset:togethercomputer/llama-instruct",
+      "arxiv:2307.03172",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Llama-2-7B-32K-Instruct-AWQ"
+  },
+  {
+    "_id": "65098b121b3694179dde970c",
+    "id": "TheBloke/TigerBot-70B-Chat-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/TigerBot-70B-Chat-AWQ"
+  },
+  {
+    "_id": "65098b99948ce5dce8ae07db",
+    "id": "TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-AWQ"
+  },
+  {
+    "_id": "65098c6ef37afbab0d3d5522",
+    "id": "TheBloke/AlpacaCielo-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/AlpacaCielo-13B-AWQ"
+  },
+  {
+    "_id": "65098c8dce83a0c12a883189",
+    "id": "TheBloke/AlpacaCielo2-7B-8K-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "custom_code",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/AlpacaCielo2-7B-8K-AWQ"
+  },
+  {
+    "_id": "65098ca7e64ee37323c02037",
+    "id": "TheBloke/EverythingLM-13B-16K-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:totally-not-an-llm/EverythingLM-data",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/EverythingLM-13B-16K-AWQ"
+  },
+  {
+    "_id": "65098cc1b44445e9b38b42ac",
+    "id": "TheBloke/EverythingLM-13b-V2-16K-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:totally-not-an-llm/EverythingLM-data-V2",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/EverythingLM-13b-V2-16K-AWQ"
+  },
+  {
+    "_id": "65098cf87b68c4a6f671ceff",
+    "id": "TheBloke/PuddleJumper-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/PuddleJumper-13B-AWQ"
+  },
+  {
+    "_id": "65098d91634e02df56b67746",
+    "id": "TheBloke/MLewd-L2-Chat-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MLewd-L2-Chat-13B-AWQ"
+  },
+  {
+    "_id": "65098e21ce81b73e6363d98c",
+    "id": "TheBloke/MLewdBoros-L2-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MLewdBoros-L2-13B-AWQ"
+  },
+  {
+    "_id": "65098e8961c4bb4636f8f71a",
+    "id": "TheBloke/MythoMax-L2-Kimiko-v2-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MythoMax-L2-Kimiko-v2-13B-AWQ"
+  },
+  {
+    "_id": "65098fe610173b169c459202",
+    "id": "TheBloke/Nous-Hermes-13B-Code-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Nous-Hermes-13B-Code-AWQ"
   }
 ]
