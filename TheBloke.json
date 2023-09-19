@@ -14886,7 +14886,7 @@
   {
     "_id": "64e77dd529a548f66a14ddde",
     "id": "TheBloke/CodeLlama-13B-fp16",
-    "likes": 64,
+    "likes": 65,
     "private": false,
     "downloads": 2331,
     "tags": [
@@ -15539,7 +15539,7 @@
   {
     "_id": "64e8786ad41a68b065c53e26",
     "id": "TheBloke/CodeLlama-34B-Python-GPTQ",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 350,
     "tags": [
@@ -17000,7 +17000,7 @@
       "llama",
       "en",
       "dataset:Open-Orca/OpenOrca",
-      "license:llama2",
+      "license:cc-by-nc-4.0",
       "text-generation",
       "text-generation-inference",
       "region:us"
@@ -17021,7 +17021,7 @@
       "text-generation",
       "en",
       "dataset:Open-Orca/OpenOrca",
-      "license:llama2",
+      "license:cc-by-nc-4.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -23036,8 +23036,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code",
+      "arxiv:2308.12950",
+      "llama-2",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-13B-Python-AWQ"
   },
   {
@@ -23047,8 +23057,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code",
+      "arxiv:2308.12950",
+      "llama-2",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-13B-Instruct-AWQ"
   },
   {
@@ -23058,8 +23078,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code",
+      "arxiv:2308.12950",
+      "llama-2",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-13B-AWQ"
   },
   {
@@ -23115,8 +23145,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:Open-Orca/OpenOrca",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Luban-13B-AWQ"
   },
   {
@@ -23126,8 +23165,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code",
+      "arxiv:2308.12950",
+      "llama-2",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-34B-Instruct-AWQ"
   },
   {
@@ -23140,5 +23189,152 @@
       "region:us"
     ],
     "modelId": "TheBloke/CodeLlama-34B-AWQ"
+  },
+  {
+    "_id": "6508ea9da2abcb18d61cfd43",
+    "id": "TheBloke/Marcoroni-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:Open-Orca/OpenOrca",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Marcoroni-13B-AWQ"
+  },
+  {
+    "_id": "6508ec463f8a38f0646ab76f",
+    "id": "TheBloke/CodeLlama-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code",
+      "arxiv:2308.12950",
+      "llama-2",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/CodeLlama-7B-AWQ"
+  },
+  {
+    "_id": "6508ec6c34993091319ed176",
+    "id": "TheBloke/CodeLlama-7B-Instruct-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code",
+      "arxiv:2308.12950",
+      "llama-2",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/CodeLlama-7B-Instruct-AWQ"
+  },
+  {
+    "_id": "6508ece134993091319ee661",
+    "id": "TheBloke/CodeLlama-34B-Python-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/CodeLlama-34B-Python-AWQ"
+  },
+  {
+    "_id": "6508ee72abdde5290e6615e8",
+    "id": "TheBloke/Marcoroni-70B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Marcoroni-70B-AWQ"
+  },
+  {
+    "_id": "6508ee8bf99720fea118fff7",
+    "id": "TheBloke/CodeLlama-7B-Python-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code",
+      "arxiv:2308.12950",
+      "llama-2",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/CodeLlama-7B-Python-AWQ"
+  },
+  {
+    "_id": "6508ee9b1b3694179dc72c65",
+    "id": "TheBloke/Marcoroni-7b-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:Open-Orca/OpenOrca",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Marcoroni-7b-AWQ"
+  },
+  {
+    "_id": "6508f0c07e0d56c271529d44",
+    "id": "TheBloke/WizardCoder-Python-7B-V1.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/WizardCoder-Python-7B-V1.0-AWQ"
+  },
+  {
+    "_id": "6508f0f161c4bb4636e19d6a",
+    "id": "TheBloke/WizardCoder-Python-34B-V1.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/WizardCoder-Python-34B-V1.0-AWQ"
   }
 ]
