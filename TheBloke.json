@@ -1096,7 +1096,7 @@
   {
     "_id": "6465d98b9c627c78f8629e5d",
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ",
-    "likes": 76,
+    "likes": 75,
     "private": false,
     "downloads": 453158,
     "tags": [
@@ -20958,6 +20958,7 @@
       "transformers",
       "llama",
       "dataset:jondurbin/airoboros-2.2",
+      "not-for-all-audiences",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -20976,6 +20977,7 @@
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-2.2",
+      "not-for-all-audiences",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -23986,8 +23988,59 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-2.2",
+      "not-for-all-audiences",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Spicyboros-13B-2.2-AWQ"
+  },
+  {
+    "_id": "650911b4c9aa376f76acd7ce",
+    "id": "TheBloke/Spicyboros-70B-2.2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Spicyboros-70B-2.2-AWQ"
+  },
+  {
+    "_id": "65091353d48ed98e639c0dce",
+    "id": "TheBloke/Spicyboros-7B-2.2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-2.2",
+      "not-for-all-audiences",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Spicyboros-7B-2.2-AWQ"
+  },
+  {
+    "_id": "65091597905c78a96a2602d5",
+    "id": "TheBloke/Spicyboros-c34b-2.2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Spicyboros-c34b-2.2-AWQ"
   }
 ]
