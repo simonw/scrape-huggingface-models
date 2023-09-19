@@ -16386,7 +16386,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 59,
+    "likes": 60,
     "private": false,
     "downloads": 48,
     "tags": [
@@ -19114,7 +19114,7 @@
   {
     "_id": "64f7451182673b2a07ae1103",
     "id": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GGUF",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 27,
     "tags": [
@@ -24127,8 +24127,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:ehartford/samantha-data",
+      "arxiv:2305.14314",
+      "arxiv:2205.14135",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Samantha-1.1-70B-AWQ"
   },
   {
@@ -24160,8 +24171,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/WizardLM-1.0-Uncensored-CodeLlama-34B-AWQ"
   },
   {
@@ -24171,8 +24191,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:ehartford/samantha-data",
+      "arxiv:2305.14314",
+      "arxiv:2205.14135",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Samantha-1.11-CodeLlama-34B-AWQ"
   },
   {
@@ -24264,8 +24295,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2307.09288",
+      "arxiv:2306.05685",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/vicuna-7B-v1.5-16K-AWQ"
   },
   {
@@ -24275,8 +24315,178 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2307.09288",
+      "arxiv:2306.05685",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/vicuna-7B-v1.5-AWQ"
+  },
+  {
+    "_id": "650926a17e0d56c2715aa9d6",
+    "id": "TheBloke/Vigogne-2-7B-Chat-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "fr",
+      "LLM",
+      "llama-2",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Vigogne-2-7B-Chat-AWQ"
+  },
+  {
+    "_id": "650926abd48ed98e639e9371",
+    "id": "TheBloke/Vigogne-2-13B-Instruct-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "fr",
+      "LLM",
+      "llama-2",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Vigogne-2-13B-Instruct-AWQ"
+  },
+  {
+    "_id": "650926f8abdde5290e6f1dba",
+    "id": "TheBloke/Vigogne-2-7B-Instruct-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "fr",
+      "LLM",
+      "llama-2",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Vigogne-2-7B-Instruct-AWQ"
+  },
+  {
+    "_id": "6509275ec9aa376f76af5646",
+    "id": "TheBloke/Magpie-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "not-for-all-audiences",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Magpie-13B-AWQ"
+  },
+  {
+    "_id": "650928eb61c4bb4636e9cb8a",
+    "id": "TheBloke/Llama-2-13B-Chat-Dutch-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "nl",
+      "dataset:BramVanroy/dutch_chat_datasets",
+      "generated_from_trainer",
+      "lora",
+      "adapters",
+      "license:cc-by-nc-sa-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Llama-2-13B-Chat-Dutch-AWQ"
+  },
+  {
+    "_id": "65092a1a2feb9570c5062a09",
+    "id": "TheBloke/Genz-70b-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Genz-70b-AWQ"
+  },
+  {
+    "_id": "65092aa610173b169c381eb4",
+    "id": "TheBloke/13B-Legerdemain-L2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/13B-Legerdemain-L2-AWQ"
+  },
+  {
+    "_id": "65092aab1b3694179dd0866d",
+    "id": "TheBloke/13B-Thorns-L2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/13B-Thorns-L2-AWQ"
+  },
+  {
+    "_id": "65092c05f6a2bf0be7ba6b98",
+    "id": "TheBloke/Chronorctypus-Limarobormes-13b-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Chronorctypus-Limarobormes-13b-AWQ"
+  },
+  {
+    "_id": "65092cd03f8a38f06473b443",
+    "id": "TheBloke/CodeFuse-CodeLlama-34B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/CodeFuse-CodeLlama-34B-AWQ"
   }
 ]
