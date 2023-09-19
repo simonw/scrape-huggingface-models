@@ -9297,7 +9297,7 @@
   {
     "_id": "64b6d9d4bb1d8f2832c8be93",
     "id": "TheBloke/Llama-2-13B-chat-GPTQ",
-    "likes": 253,
+    "likes": 254,
     "private": false,
     "downloads": 110811,
     "tags": [
@@ -13916,7 +13916,8 @@
       "dataset:jerryjalapeno/nart-100k-synthetic",
       "license:other",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/Carl-13B-GGML"
   },
