@@ -14773,7 +14773,7 @@
       "self-instruct",
       "distillation",
       "synthetic instruction",
-      "license:llama2",
+      "license:mit",
       "text-generation-inference",
       "region:us"
     ],
@@ -14795,7 +14795,7 @@
       "self-instruct",
       "distillation",
       "synthetic instruction",
-      "license:llama2",
+      "license:mit",
       "text-generation-inference",
       "region:us"
     ],
@@ -20361,7 +20361,7 @@
   {
     "_id": "64f8ad3c29a9aa4778e7fdab",
     "id": "TheBloke/Falcon-180B-Chat-GPTQ",
-    "likes": 46,
+    "likes": 47,
     "private": false,
     "downloads": 5138,
     "tags": [
@@ -24827,8 +24827,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "llama-2",
+      "self-instruct",
+      "distillation",
+      "synthetic instruction",
+      "license:mit",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Nous-Hermes-Llama2-70B-AWQ"
   },
   {
