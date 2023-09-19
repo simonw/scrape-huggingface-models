@@ -21988,6 +21988,7 @@
     "tags": [
       "transformers",
       "llama",
+      "arxiv:2306.02707",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -22005,6 +22006,7 @@
       "safetensors",
       "llama",
       "text-generation",
+      "arxiv:2306.02707",
       "license:llama2",
       "text-generation-inference",
       "region:us"
@@ -26160,8 +26162,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code llama",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Phind-CodeLlama-34B-Python-v1-AWQ"
   },
   {
@@ -26193,8 +26204,27 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2306.02707",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama2-Chat-AYT-13B-AWQ"
+  },
+  {
+    "_id": "650976c21aece923f2ea28ae",
+    "id": "TheBloke/Sheep-Duck-Llama-2-70B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Sheep-Duck-Llama-2-70B-AWQ"
   }
 ]
