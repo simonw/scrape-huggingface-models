@@ -4216,7 +4216,7 @@
   {
     "_id": "648cb123b750349d4a6ca95b",
     "id": "TheBloke/robin-13B-v2-fp16",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 1510,
     "tags": [
@@ -17069,7 +17069,7 @@
   {
     "_id": "64ef723c64b581f717251923",
     "id": "TheBloke/Kimiko-v2-13B-fp16",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 1269,
     "tags": [
@@ -17163,7 +17163,7 @@
   {
     "_id": "64efcd379e97aa906d92d5a5",
     "id": "TheBloke/fiction.live-Kimiko-V2-70B-fp16",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 5209,
     "tags": [
@@ -18041,7 +18041,7 @@
   {
     "_id": "64f2fd9cfb404f3b7d7bbd78",
     "id": "TheBloke/Speechless-Llama2-Hermes-Orca-Platypus-WizardLM-13B-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -19151,7 +19151,7 @@
   {
     "_id": "64f749997565a69eb67eeba7",
     "id": "TheBloke/Carl-Llama-2-13B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -27753,5 +27753,26 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/airoboros-l2-70B-gpt4-1.4.1-AWQ"
+  },
+  {
+    "_id": "650a0a562257a3afbaf0bda7",
+    "id": "TheBloke/13B-BlueMethod-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "alpaca",
+      "cot",
+      "vicuna",
+      "uncensored",
+      "merge",
+      "mix",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/13B-BlueMethod-GGUF"
   }
 ]
