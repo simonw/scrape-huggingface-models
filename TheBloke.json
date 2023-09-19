@@ -1267,7 +1267,7 @@
   {
     "_id": "64677b44a48c2b6f0d60cedc",
     "id": "TheBloke/medalpaca-13B-GGML",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -11484,7 +11484,7 @@
   {
     "_id": "64cacb3ad469fc2cf82ab221",
     "id": "TheBloke/Hermes-LLongMA-2-7B-8K-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 139,
     "tags": [
@@ -13560,7 +13560,7 @@
       "safetensors",
       "llama",
       "text-generation",
-      "license:llama2",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -19466,7 +19466,7 @@
     "tags": [
       "transformers",
       "llama",
-      "license:llama2",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -20310,7 +20310,7 @@
   {
     "_id": "64f88e4f67adddcb40bf4dec",
     "id": "TheBloke/Synthia-70B-v1.2-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -25473,8 +25473,23 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:mlabonne/guanaco-llama2-1k",
+      "arxiv:2009.03300",
+      "arxiv:1803.05457",
+      "arxiv:1905.07830",
+      "arxiv:2109.07958",
+      "merge",
+      "mix",
+      "cot",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/GodziLLa2-70B-AWQ"
   },
   {
@@ -25503,8 +25518,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "arxiv:2306.02707",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Synthia-70B-v1.1-AWQ"
   },
   {
@@ -25514,8 +25538,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Synthia-70B-v1.2-AWQ"
   },
   {
@@ -25618,8 +25649,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-Coder-7B-AWQ"
   },
   {
@@ -25629,8 +25666,70 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/llama2-22B-daydreamer-v2-AWQ"
+  },
+  {
+    "_id": "65096164f6a2bf0be7c29e12",
+    "id": "TheBloke/Llama2-22B-Daydreamer-v3-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama2-22B-Daydreamer-v3-AWQ"
+  },
+  {
+    "_id": "6509628d1aece923f2e74e0e",
+    "id": "TheBloke/Yarn-Llama-2-13B-128K-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Yarn-Llama-2-13B-128K-AWQ"
+  },
+  {
+    "_id": "650963372257a3afbad49cea",
+    "id": "TheBloke/Yarn-Llama-2-13B-64K-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Yarn-Llama-2-13B-64K-AWQ"
+  },
+  {
+    "_id": "65096452634e02df56b0f65a",
+    "id": "TheBloke/Yarn-Llama-2-7B-128K-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Yarn-Llama-2-7B-128K-AWQ"
+  },
+  {
+    "_id": "6509656de37e4da5317f9887",
+    "id": "TheBloke/Yarn-Llama-2-7B-64K-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Yarn-Llama-2-7B-64K-AWQ"
   }
 ]
