@@ -9224,7 +9224,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 537,
+    "likes": 538,
     "private": false,
     "downloads": 8711,
     "tags": [
@@ -9542,7 +9542,7 @@
       "safetensors",
       "llama",
       "text-generation",
-      "license:llama2",
+      "license:cc-by-sa-4.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -16298,7 +16298,7 @@
   {
     "_id": "64eb8a892800cf7e9cb2541b",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GPTQ",
-    "likes": 46,
+    "likes": 47,
     "private": false,
     "downloads": 4677,
     "tags": [
@@ -20121,7 +20121,7 @@
     "tags": [
       "transformers",
       "llama",
-      "license:llama2",
+      "license:cc-by-sa-4.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -22898,7 +22898,7 @@
   {
     "_id": "65072b7e18f9c580cdc4aefa",
     "id": "TheBloke/Magpie-13B-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -26280,8 +26280,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "arxiv:2306.02707",
+      "Riiid",
+      "llama-2",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Sheep-Duck-Llama-2-70B-AWQ"
   },
   {
@@ -26400,8 +26411,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/JanniesBasedLigma-L2-13B-AWQ"
   },
   {
@@ -26422,8 +26441,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Mythical-Destroyer-L2-13B-AWQ"
   },
   {
@@ -26433,8 +26460,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Mythical-Destroyer-V2-L2-13B-AWQ"
   },
   {
@@ -26444,8 +26479,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Stheno-Inverted-L2-13B-AWQ"
   },
   {
@@ -26455,8 +26498,208 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Stheno-L2-13B-AWQ"
+  },
+  {
+    "_id": "650981b91b3694179ddd4152",
+    "id": "TheBloke/AppleSauce-L2-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/AppleSauce-L2-13B-AWQ"
+  },
+  {
+    "_id": "65098251d48ed98e63ac7a5c",
+    "id": "TheBloke/BerrySauce-L2-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/BerrySauce-L2-13B-AWQ"
+  },
+  {
+    "_id": "650982abd26103b6eeb94aa9",
+    "id": "TheBloke/NewHope-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/NewHope-AWQ"
+  },
+  {
+    "_id": "650982f069739cd31020f109",
+    "id": "TheBloke/StableBeluga-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:conceptofmind/cot_submix_original",
+      "dataset:conceptofmind/flan2021_submix_original",
+      "dataset:conceptofmind/t0_submix_original",
+      "dataset:conceptofmind/niv2_submix_original",
+      "arxiv:2307.09288",
+      "arxiv:2306.02707",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/StableBeluga-13B-AWQ"
+  },
+  {
+    "_id": "650982f71b3694179ddd6d04",
+    "id": "TheBloke/StableBeluga-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:conceptofmind/cot_submix_original",
+      "dataset:conceptofmind/flan2021_submix_original",
+      "dataset:conceptofmind/t0_submix_original",
+      "dataset:conceptofmind/niv2_submix_original",
+      "arxiv:2307.09288",
+      "arxiv:2306.02707",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/StableBeluga-7B-AWQ"
+  },
+  {
+    "_id": "650985035ac587b3f3691f18",
+    "id": "TheBloke/MythoMax-Kimiko-Mix-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MythoMax-Kimiko-Mix-AWQ"
+  },
+  {
+    "_id": "65098531a0f81fbc0a758359",
+    "id": "TheBloke/Luna-AI-Llama2-Uncensored-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-sa-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Luna-AI-Llama2-Uncensored-AWQ"
+  },
+  {
+    "_id": "65098534ad753305dec5450e",
+    "id": "TheBloke/StableBeluga2-70B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/StableBeluga2-70B-AWQ"
+  },
+  {
+    "_id": "650985aa3f8a38f064814c2b",
+    "id": "TheBloke/ChatAYT-Lora-Assamble-Marcoroni-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/ChatAYT-Lora-Assamble-Marcoroni-AWQ"
+  },
+  {
+    "_id": "6509862ded23af2c5d1cc34c",
+    "id": "TheBloke/Luban-Marcoroni-13B-v3-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Luban-Marcoroni-13B-v3-AWQ"
+  },
+  {
+    "_id": "6509865b4afcb7378d3ed94e",
+    "id": "TheBloke/Chronos-Beluga-v2-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Chronos-Beluga-v2-13B-AWQ"
+  },
+  {
+    "_id": "6509870e3f8a38f0648183b9",
+    "id": "TheBloke/COTHuginn-4.5-19B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/COTHuginn-4.5-19B-AWQ"
+  },
+  {
+    "_id": "65098745d95f30b9dcd84b5c",
+    "id": "TheBloke/Huginn-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Huginn-13B-AWQ"
   }
 ]
