@@ -13028,7 +13028,7 @@
       "dataset:Open-Orca/OpenOrca",
       "arxiv:2308.07317",
       "arxiv:2307.09288",
-      "license:llama2",
+      "license:cc-by-nc-4.0",
       "has_space",
       "text-generation-inference",
       "region:us"
@@ -13168,7 +13168,7 @@
       "dataset:garage-bAInd/Open-Platypus",
       "arxiv:2308.07317",
       "arxiv:2307.09288",
-      "license:llama2",
+      "license:cc-by-nc-4.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -17600,7 +17600,7 @@
   {
     "_id": "64f1c8325b8a6a5d39d71701",
     "id": "TheBloke/Yarn-Llama-2-13B-128K-GPTQ",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 700,
     "tags": [
@@ -19980,7 +19980,7 @@
       "dataset:Open-Orca/OpenOrca",
       "arxiv:2308.07317",
       "arxiv:2307.09288",
-      "license:llama2",
+      "license:cc-by-nc-4.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -20301,7 +20301,7 @@
       "dataset:garage-bAInd/Open-Platypus",
       "arxiv:2308.07317",
       "arxiv:2307.09288",
-      "license:llama2",
+      "license:cc-by-nc-4.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -21802,7 +21802,7 @@
   {
     "_id": "65009884af1e4021438723c4",
     "id": "TheBloke/Spicyboros-c34b-2.2-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 19,
     "tags": [
@@ -23536,8 +23536,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:garage-bAInd/Open-Platypus",
+      "arxiv:2308.07317",
+      "arxiv:2307.09288",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Camel-Platypus2-70B-AWQ"
   },
   {
@@ -23569,8 +23580,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2304.12244",
+      "arxiv:2306.08568",
+      "arxiv:2308.09583",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/WizardLM-70B-V1.0-AWQ"
   },
   {
@@ -23591,8 +23612,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:garage-bAInd/Open-Platypus",
+      "dataset:Open-Orca/OpenOrca",
+      "arxiv:2308.07317",
+      "arxiv:2307.09288",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Platypus2-70B-Instruct-AWQ"
   },
   {
@@ -23624,8 +23657,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:garage-bAInd/Open-Platypus",
+      "arxiv:2308.07317",
+      "arxiv:2307.09288",
+      "license:cc-by-nc-sa-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Platypus2-70B-AWQ"
   },
   {
@@ -23716,5 +23760,27 @@
       "region:us"
     ],
     "modelId": "TheBloke/Airoboros-c34B-2.1-AWQ"
+  },
+  {
+    "_id": "6509066fc9aa376f76ab2ed1",
+    "id": "TheBloke/Airoboros-c34B-2.2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-c34B-2.2-AWQ"
+  },
+  {
+    "_id": "650907fed48ed98e639a564b",
+    "id": "TheBloke/Airoboros-L2-13B-2.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-13B-2.1-AWQ"
   }
 ]
