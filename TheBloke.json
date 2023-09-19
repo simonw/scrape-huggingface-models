@@ -27798,5 +27798,60 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/13B-BlueMethod-AWQ"
+  },
+  {
+    "_id": "650a1801ce81b73e637b9d76",
+    "id": "TheBloke/tulu-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:databricks/databricks-dolly-15k",
+      "dataset:OpenAssistant/oasst1",
+      "dataset:sahil2801/CodeAlpaca-20k",
+      "arxiv:2306.04751",
+      "arxiv:2302.13971",
+      "arxiv:2304.07327",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/tulu-13B-GGUF"
+  },
+  {
+    "_id": "650a1a00abdde5290e968ff8",
+    "id": "TheBloke/tulu-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/tulu-13B-AWQ"
+  },
+  {
+    "_id": "650a1b447b68c4a6f68c0a3b",
+    "id": "TheBloke/13B-Ouroboros-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/13B-Ouroboros-GGUF"
+  },
+  {
+    "_id": "650a1b4e1aece923f206d75a",
+    "id": "TheBloke/13B-Ouroboros-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/13B-Ouroboros-AWQ"
   }
 ]
