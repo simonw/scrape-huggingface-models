@@ -9297,7 +9297,7 @@
   {
     "_id": "64b6d9d4bb1d8f2832c8be93",
     "id": "TheBloke/Llama-2-13B-chat-GPTQ",
-    "likes": 252,
+    "likes": 253,
     "private": false,
     "downloads": 110811,
     "tags": [
@@ -9380,7 +9380,7 @@
   {
     "_id": "64b72139a00eab5bcddae33e",
     "id": "TheBloke/Llama-2-70B-chat-GPTQ",
-    "likes": 182,
+    "likes": 183,
     "private": false,
     "downloads": 38017,
     "tags": [
@@ -13859,7 +13859,7 @@
       "text-generation",
       "en",
       "dataset:jerryjalapeno/nart-100k-synthetic",
-      "license:llama2",
+      "license:cc-by-nc-nd-4.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -19158,7 +19158,7 @@
       "llama",
       "en",
       "dataset:jerryjalapeno/nart-100k-synthetic",
-      "license:llama2",
+      "license:cc-by-nc-nd-4.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -23695,8 +23695,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:jerryjalapeno/nart-100k-synthetic",
+      "license:cc-by-nc-nd-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Carl-Llama-2-13B-AWQ"
   },
   {
@@ -25683,6 +25692,11 @@
       "safetensors",
       "llama",
       "text-generation",
+      "code",
+      "dataset:HuggingFaceH4/CodeAlpaca_20K",
+      "generated_from_trainer",
+      "coding",
+      "license:apache-2.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -27614,5 +27628,20 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/huginnv1.2-AWQ"
+  },
+  {
+    "_id": "6509a5def9fb525b2f4d01e7",
+    "id": "TheBloke/AlpacaCielo-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/AlpacaCielo-13B-GGUF"
   }
 ]
