@@ -6931,7 +6931,7 @@
   {
     "_id": "649e5b15f140a4e8b567200b",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-SuperHOT-8K-GGML",
-    "likes": 56,
+    "likes": 57,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -12185,7 +12185,7 @@
       "text-generation",
       "en",
       "llama-2",
-      "license:llama2",
+      "license:agpl-3.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -12836,7 +12836,7 @@
       "dataset:psmathur/orca_mini_v1_dataset",
       "dataset:ehartford/dolphin",
       "arxiv:2306.02707",
-      "license:llama2",
+      "license:other",
       "has_space",
       "text-generation-inference",
       "region:us"
@@ -12923,7 +12923,7 @@
       "dataset:psmathur/orca_mini_v1_dataset",
       "dataset:ehartford/dolphin",
       "arxiv:2306.02707",
-      "license:llama2",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -18250,7 +18250,7 @@
   {
     "_id": "64f611cf6ad07ea81779ca15",
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
-    "likes": 31,
+    "likes": 32,
     "private": false,
     "downloads": 318,
     "tags": [
@@ -18951,11 +18951,11 @@
       "dataset:psmathur/orca_mini_v1_dataset",
       "dataset:ehartford/dolphin",
       "arxiv:2306.02707",
-      "license:llama2",
+      "license:other",
       "text-generation",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/orca_mini_v3_7B-GGUF"
@@ -19020,7 +19020,7 @@
       "dataset:psmathur/orca_mini_v1_dataset",
       "dataset:ehartford/dolphin",
       "arxiv:2306.02707",
-      "license:llama2",
+      "license:other",
       "text-generation",
       "text-generation-inference",
       "region:us"
@@ -19288,7 +19288,7 @@
       "llama",
       "en",
       "llama-2",
-      "license:llama2",
+      "license:agpl-3.0",
       "text-generation",
       "text-generation-inference",
       "region:us"
@@ -25224,8 +25224,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "llama-2",
+      "license:agpl-3.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Chronolima-Airo-Grad-L2-13B-AWQ"
   },
   {
@@ -25235,8 +25244,107 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "ja",
+      "dataset:snow_simplified_japanese_corpus",
+      "dataset:khalidalt/tydiqa-goldp",
+      "dataset:csebuetnlp/xlsum",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/OpenOrca_Stx-AWQ"
+  },
+  {
+    "_id": "6509496969739cd310191e0c",
+    "id": "TheBloke/orca_mini_v3_13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:psmathur/orca_mini_v1_dataset",
+      "dataset:ehartford/dolphin",
+      "arxiv:2306.02707",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/orca_mini_v3_13B-AWQ"
+  },
+  {
+    "_id": "65094997f36bb51c50103cb4",
+    "id": "TheBloke/model_007-70B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/model_007-70B-AWQ"
+  },
+  {
+    "_id": "65094aab7ee07e274b2e734e",
+    "id": "TheBloke/orca_mini_v3_70B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/orca_mini_v3_70B-AWQ"
+  },
+  {
+    "_id": "65094ab66fb511ba9e7acfca",
+    "id": "TheBloke/orca_mini_v3_7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:psmathur/orca_mini_v1_dataset",
+      "dataset:ehartford/dolphin",
+      "arxiv:2306.02707",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/orca_mini_v3_7B-AWQ"
+  },
+  {
+    "_id": "65094cce69739cd31019ab5f",
+    "id": "TheBloke/Mythalion-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Mythalion-13B-AWQ"
+  },
+  {
+    "_id": "65094ccfabdde5290e747cc8",
+    "id": "TheBloke/Pygmalion-2-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Pygmalion-2-13B-AWQ"
   }
 ]
