@@ -3545,7 +3545,7 @@
   {
     "_id": "6484fecd5816864bb483ab38",
     "id": "TheBloke/tulu-13B-GGML",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -11708,9 +11708,9 @@
       "arxiv:2307.09288",
       "arxiv:2306.05685",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/vicuna-13B-v1.5-GPTQ"
@@ -16158,7 +16158,7 @@
   {
     "_id": "64ea93ee4f3f7b0b84ae38c9",
     "id": "TheBloke/Airoboros-L2-70B-2.1-GGUF",
-    "likes": 22,
+    "likes": 21,
     "private": false,
     "downloads": 13,
     "tags": [
@@ -22843,7 +22843,7 @@
   {
     "_id": "65060b7c14302b1d76a394e9",
     "id": "TheBloke/MLewd-L2-Chat-13B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -22893,7 +22893,7 @@
   {
     "_id": "65072b7e18f9c580cdc4aefa",
     "id": "TheBloke/Magpie-13B-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -24047,8 +24047,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-2.2",
+      "not-for-all-audiences",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Spicyboros-70B-2.2-AWQ"
   },
   {
@@ -24129,8 +24138,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:ehartford/samantha-data",
+      "arxiv:2305.14314",
+      "arxiv:2205.14135",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Samantha-1.11-13B-AWQ"
   },
   {
@@ -24173,8 +24193,90 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-AWQ"
+  },
+  {
+    "_id": "6509216fc19e5b4c8a37f9ec",
+    "id": "TheBloke/vicuna-13B-v1.5-16K-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2307.09288",
+      "arxiv:2306.05685",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/vicuna-13B-v1.5-16K-AWQ"
+  },
+  {
+    "_id": "65092190f36bb51c500a1d55",
+    "id": "TheBloke/Chronos-70B-v2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Chronos-70B-v2-AWQ"
+  },
+  {
+    "_id": "650921fdf37afbab0d2e4388",
+    "id": "TheBloke/vicuna-13B-v1.5-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2307.09288",
+      "arxiv:2306.05685",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/vicuna-13B-v1.5-AWQ"
+  },
+  {
+    "_id": "6509248d6fb511ba9e75547d",
+    "id": "TheBloke/vicuna-7B-v1.5-16K-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/vicuna-7B-v1.5-16K-AWQ"
+  },
+  {
+    "_id": "6509250bf99720fea120d4c6",
+    "id": "TheBloke/vicuna-7B-v1.5-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/vicuna-7B-v1.5-AWQ"
   }
 ]
