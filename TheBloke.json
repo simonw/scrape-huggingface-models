@@ -2043,7 +2043,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 350,
+    "likes": 351,
     "private": false,
     "downloads": 7128,
     "tags": [
@@ -12073,7 +12073,7 @@
       "pytorch",
       "llama-2",
       "qCammel-13",
-      "license:llama2",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -12879,7 +12879,7 @@
       "dataset:garage-bAInd/Open-Platypus",
       "arxiv:2308.07317",
       "arxiv:2307.09288",
-      "license:llama2",
+      "license:cc-by-nc-sa-4.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -12964,7 +12964,7 @@
       "dataset:garage-bAInd/Open-Platypus",
       "arxiv:2308.07317",
       "arxiv:2307.09288",
-      "license:llama2",
+      "license:cc-by-nc-sa-4.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -15226,7 +15226,7 @@
   {
     "_id": "64e7c2379f8952a1c0008ed1",
     "id": "TheBloke/CodeLlama-34B-GGUF",
-    "likes": 39,
+    "likes": 40,
     "private": false,
     "downloads": 42,
     "tags": [
@@ -15246,7 +15246,7 @@
   {
     "_id": "64e7cc65e3953cd90bd5a2e6",
     "id": "TheBloke/CodeLlama-34B-Python-GGUF",
-    "likes": 28,
+    "likes": 29,
     "private": false,
     "downloads": 40,
     "tags": [
@@ -15847,9 +15847,9 @@
       "code",
       "license:llama2",
       "model-index",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "modelId": "TheBloke/WizardCoder-Python-34B-V1.0-GGUF"
   },
@@ -18575,7 +18575,7 @@
       "dataset:garage-bAInd/Open-Platypus",
       "arxiv:2308.07317",
       "arxiv:2307.09288",
-      "license:llama2",
+      "license:cc-by-nc-sa-4.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -18594,7 +18594,7 @@
       "dataset:garage-bAInd/Open-Platypus",
       "arxiv:2308.07317",
       "arxiv:2307.09288",
-      "license:llama2",
+      "license:cc-by-nc-sa-4.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -19075,7 +19075,7 @@
       "pytorch",
       "llama-2",
       "qCammel-13",
-      "license:llama2",
+      "license:other",
       "text-generation",
       "text-generation-inference",
       "region:us"
@@ -23318,8 +23318,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:Open-Orca/OpenOrca",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Marcoroni-70B-AWQ"
   },
   {
@@ -23394,8 +23403,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2304.12244",
+      "arxiv:2306.08568",
+      "arxiv:2308.09583",
+      "arxiv:2303.08774",
+      "code",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/WizardCoder-Python-34B-V1.0-AWQ"
   },
   {
@@ -23525,8 +23547,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:garage-bAInd/Open-Platypus",
+      "arxiv:2308.07317",
+      "arxiv:2307.09288",
+      "license:cc-by-nc-sa-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Platypus2-13B-AWQ"
   },
   {
@@ -23550,5 +23583,118 @@
       "region:us"
     ],
     "modelId": "TheBloke/WizardMath-70B-V1.0-AWQ"
+  },
+  {
+    "_id": "6508f9f17ee07e274b232019",
+    "id": "TheBloke/Platypus2-70B-Instruct-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Platypus2-70B-Instruct-AWQ"
+  },
+  {
+    "_id": "6508fa10e0850b3ff022c381",
+    "id": "TheBloke/Stable-Platypus2-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:garage-bAInd/Open-Platypus",
+      "arxiv:2308.07317",
+      "arxiv:2307.09288",
+      "license:cc-by-nc-sa-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Stable-Platypus2-13B-AWQ"
+  },
+  {
+    "_id": "6508fa4761c4bb4636e2f411",
+    "id": "TheBloke/Platypus2-70B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Platypus2-70B-AWQ"
+  },
+  {
+    "_id": "6508fad97e0d56c27153f2d9",
+    "id": "TheBloke/Carl-Llama-2-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Carl-Llama-2-13B-AWQ"
+  },
+  {
+    "_id": "6508fb0ead753305deb0ad39",
+    "id": "TheBloke/qCammel-13-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "arxiv:2305.12031",
+      "arxiv:2305.14314",
+      "arxiv:2302.13971",
+      "pytorch",
+      "llama-2",
+      "qCammel-13",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/qCammel-13-AWQ"
+  },
+  {
+    "_id": "6508fdb8647a3ea442b65ee3",
+    "id": "TheBloke/Baichuan2-13B-Chat-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Baichuan2-13B-Chat-AWQ"
+  },
+  {
+    "_id": "6508fe07b5a04c8675ad5081",
+    "id": "TheBloke/qCammel-70-x-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/qCammel-70-x-AWQ"
+  },
+  {
+    "_id": "6508fea1623330a3a50dd143",
+    "id": "TheBloke/Airoboros-L2-13B-2_1-YaRN-64K-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-13B-2_1-YaRN-64K-AWQ"
   }
 ]
