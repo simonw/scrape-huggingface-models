@@ -9262,7 +9262,7 @@
       "meta",
       "pytorch",
       "llama-2",
-      "license:other",
+      "license:llama2",
       "has_space",
       "text-generation-inference",
       "region:us"
@@ -10352,7 +10352,7 @@
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-1.4.1",
-      "license:llama2",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -10371,7 +10371,7 @@
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-1.4.1",
-      "license:llama2",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -18239,7 +18239,7 @@
       "meta",
       "pytorch",
       "llama-2",
-      "license:other",
+      "license:llama2",
       "text-generation",
       "has_space",
       "text-generation-inference",
@@ -18609,7 +18609,7 @@
       "transformers",
       "llama",
       "dataset:jondurbin/airoboros-gpt4-1.4.1",
-      "license:llama2",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -18625,7 +18625,7 @@
       "transformers",
       "llama",
       "dataset:jondurbin/airoboros-gpt4-1.4.1",
-      "license:llama2",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -21681,7 +21681,7 @@
   {
     "_id": "6500637f4b7e0cd1b7d2654e",
     "id": "TheBloke/Sheep-Duck-Llama-2-70B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -22982,7 +22982,7 @@
       "meta",
       "pytorch",
       "llama-2",
-      "license:other",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -27655,5 +27655,92 @@
       "region:us"
     ],
     "modelId": "TheBloke/AlpacaCielo-13B-GGUF"
+  },
+  {
+    "_id": "6509d23bce81b73e636f4e41",
+    "id": "TheBloke/airoboros-l2-13B-gpt4-1.4.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-gpt4-1.4.1",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/airoboros-l2-13B-gpt4-1.4.1-AWQ"
+  },
+  {
+    "_id": "6509d23cf75ac8c6f98859ab",
+    "id": "TheBloke/airoboros-l2-7b-gpt4-1.4.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-gpt4-1.4.1",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/airoboros-l2-7b-gpt4-1.4.1-AWQ"
+  },
+  {
+    "_id": "6509d251b5a04c8675cf15ff",
+    "id": "TheBloke/airoboros-l2-7B-gpt4-2.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-gpt4-m2.0",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/airoboros-l2-7B-gpt4-2.0-AWQ"
+  },
+  {
+    "_id": "6509d25ccc02352e1e232356",
+    "id": "TheBloke/airoboros-l2-7B-gpt4-m2.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-gpt4-m2.0",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/airoboros-l2-7B-gpt4-m2.0-AWQ"
+  },
+  {
+    "_id": "6509d3027e0d56c271771b8c",
+    "id": "TheBloke/airoboros-l2-70B-gpt4-1.4.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/airoboros-l2-70B-gpt4-1.4.1-AWQ"
   }
 ]
