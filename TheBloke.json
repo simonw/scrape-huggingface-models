@@ -13363,7 +13363,7 @@
   {
     "_id": "64d7f1c736b05ef8fff929f7",
     "id": "TheBloke/EverythingLM-13B-16K-GPTQ",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 1660,
     "tags": [
@@ -17188,7 +17188,7 @@
     "tags": [
       "transformers",
       "llama",
-      "license:llama2",
+      "license:cc-by-nc-4.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -17220,7 +17220,7 @@
       "safetensors",
       "llama",
       "text-generation",
-      "license:llama2",
+      "license:cc-by-nc-4.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -17799,7 +17799,7 @@
     "tags": [
       "transformers",
       "llama",
-      "license:llama2",
+      "license:cc-by-nc-4.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -17814,7 +17814,7 @@
     "tags": [
       "transformers",
       "llama",
-      "license:llama2",
+      "license:cc-by-nc-4.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -17884,7 +17884,7 @@
       "safetensors",
       "llama",
       "text-generation",
-      "license:llama2",
+      "license:cc-by-nc-4.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -17902,7 +17902,7 @@
       "safetensors",
       "llama",
       "text-generation",
-      "license:llama2",
+      "license:cc-by-nc-4.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -18749,7 +18749,7 @@
       "safetensors",
       "llama",
       "text-generation",
-      "license:llama2",
+      "license:cc-by-nc-4.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -18765,7 +18765,7 @@
     "tags": [
       "transformers",
       "llama",
-      "license:llama2",
+      "license:cc-by-nc-4.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -24464,7 +24464,7 @@
   {
     "_id": "65092a1a2feb9570c5062a09",
     "id": "TheBloke/Genz-70b-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -26063,7 +26063,7 @@
   {
     "_id": "65096eb910173b169c4176db",
     "id": "TheBloke/OpenBuddy-Llama2-13B-v11.1-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -26107,7 +26107,7 @@
   {
     "_id": "65096fd9ce81b73e635fa0d3",
     "id": "TheBloke/OpenBuddy-Llama2-70b-v10.1-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -26667,8 +26667,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:conceptofmind/cot_submix_original",
+      "dataset:conceptofmind/flan2021_submix_original",
+      "dataset:conceptofmind/t0_submix_original",
+      "dataset:conceptofmind/niv2_submix_original",
+      "arxiv:2307.09288",
+      "arxiv:2306.02707",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/StableBeluga2-70B-AWQ"
   },
   {
@@ -26947,8 +26961,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:totally-not-an-llm/EverythingLM-data-V2",
+      "dataset:garage-bAInd/Open-Platypus",
+      "dataset:Open-Orca/OpenOrca",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/PuddleJumper-13B-AWQ"
   },
   {
@@ -26958,8 +26982,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MLewd-L2-Chat-13B-AWQ"
   },
   {
@@ -26969,8 +27002,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MLewdBoros-L2-13B-AWQ"
   },
   {
@@ -26980,8 +27022,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MythoMax-L2-Kimiko-v2-13B-AWQ"
   },
   {
@@ -26991,8 +27040,255 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Nous-Hermes-13B-Code-AWQ"
+  },
+  {
+    "_id": "65099026c9aa376f76bdd744",
+    "id": "TheBloke/ReMM-SLERP-L2-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/ReMM-SLERP-L2-13B-AWQ"
+  },
+  {
+    "_id": "6509904d2c804aed59d47fbd",
+    "id": "TheBloke/ReMM-v2-L2-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/ReMM-v2-L2-13B-AWQ"
+  },
+  {
+    "_id": "650990e269739cd3102341e1",
+    "id": "TheBloke/ReMM-v2.1-L2-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/ReMM-v2.1-L2-13B-AWQ"
+  },
+  {
+    "_id": "6509915e647a3ea442cbed0c",
+    "id": "TheBloke/UndiMix-v1-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/UndiMix-v1-13B-AWQ"
+  },
+  {
+    "_id": "650991d7f37afbab0d3e038d",
+    "id": "TheBloke/UndiMix-v2-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/UndiMix-v2-13B-AWQ"
+  },
+  {
+    "_id": "6509931cf36bb51c501a9dda",
+    "id": "TheBloke/Unholy-v1-10l-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Unholy-v1-10l-13B-AWQ"
+  },
+  {
+    "_id": "650993a3f37afbab0d3e34fe",
+    "id": "TheBloke/Unholy-v1-12L-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Unholy-v1-12L-13B-AWQ"
+  },
+  {
+    "_id": "6509946f4afcb7378d409135",
+    "id": "TheBloke/Uni-TianYan-70B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Uni-TianYan-70B-AWQ"
+  },
+  {
+    "_id": "650994c14882fab5c4ab4121",
+    "id": "TheBloke/Speechless-Llama2-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Speechless-Llama2-13B-AWQ"
+  },
+  {
+    "_id": "650995372c804aed59d54b4e",
+    "id": "TheBloke/Speechless-Llama2-Hermes-Orca-Platypus-WizardLM-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Speechless-Llama2-Hermes-Orca-Platypus-WizardLM-13B-AWQ"
+  },
+  {
+    "_id": "6509953af6a2bf0be7c98080",
+    "id": "TheBloke/Trurl-2-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Trurl-2-13B-AWQ"
+  },
+  {
+    "_id": "6509953c2feb9570c5152624",
+    "id": "TheBloke/Upstage-Llama-2-70B-instruct-v2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Upstage-Llama-2-70B-instruct-v2-AWQ"
+  },
+  {
+    "_id": "65099649abdde5290e7f24a0",
+    "id": "TheBloke/Trurl-2-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Trurl-2-7B-AWQ"
+  },
+  {
+    "_id": "650996d21ba21833b4c75ad5",
+    "id": "TheBloke/Llama-2-13B-Ensemble-v5-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-13B-Ensemble-v5-AWQ"
+  },
+  {
+    "_id": "650996dc3f8a38f06483a45e",
+    "id": "TheBloke/Llama-2-13B-Ensemble-v6-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-13B-Ensemble-v6-AWQ"
+  },
+  {
+    "_id": "650996e6c19e5b4c8a4a6f93",
+    "id": "TheBloke/Llama-2-70B-Ensemble-v5-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-70B-Ensemble-v5-AWQ"
+  },
+  {
+    "_id": "6509971af36bb51c501b4818",
+    "id": "TheBloke/Firefly-Llama2-13B-v1.2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Firefly-Llama2-13B-v1.2-AWQ"
   }
 ]
