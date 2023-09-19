@@ -9248,7 +9248,7 @@
   {
     "_id": "64b6ce072edcb4a1aa820cbe",
     "id": "TheBloke/Llama-2-7b-Chat-GPTQ",
-    "likes": 132,
+    "likes": 133,
     "private": false,
     "downloads": 114713,
     "tags": [
@@ -14295,7 +14295,7 @@
   {
     "_id": "64e4671157d6d38e123e2da6",
     "id": "TheBloke/EverythingLM-13b-V2-16K-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 203,
     "tags": [
@@ -15890,7 +15890,7 @@
   {
     "_id": "64e9edbf5b8d8156f2b0110d",
     "id": "TheBloke/Zarafusionex-1.1-L2-7B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 28,
     "tags": [
@@ -26902,8 +26902,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/AlpacaCielo-13B-AWQ"
   },
   {
@@ -27197,8 +27204,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "arxiv:2306.02707",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Uni-TianYan-70B-AWQ"
   },
   {
@@ -27285,8 +27301,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "upstage",
+      "llama-2",
+      "instruct",
+      "instruction",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Upstage-Llama-2-70B-instruct-v2-AWQ"
   },
   {
@@ -27558,8 +27586,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Chinese-Llama-2-13B-AWQ"
   },
   {
@@ -27569,8 +27604,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/huginnv1.2-AWQ"
   }
 ]
