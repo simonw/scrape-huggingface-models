@@ -15561,7 +15561,7 @@
   {
     "_id": "64e893eb0c2413c35722cff1",
     "id": "TheBloke/CodeLlama-34B-GPTQ",
-    "likes": 15,
+    "likes": 14,
     "private": false,
     "downloads": 725,
     "tags": [
@@ -19575,7 +19575,7 @@
   {
     "_id": "64f78668aca1280775860431",
     "id": "TheBloke/OpenOrca-Platypus2-13B-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -27828,8 +27828,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:databricks/databricks-dolly-15k",
+      "dataset:OpenAssistant/oasst1",
+      "dataset:sahil2801/CodeAlpaca-20k",
+      "arxiv:2306.04751",
+      "arxiv:2302.13971",
+      "arxiv:2304.07327",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/tulu-13B-AWQ"
   },
   {
@@ -27839,8 +27853,29 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:anon8231489123/ShareGPT_Vicuna_unfiltered",
+      "dataset:jondurbin/airoboros-uncensored",
+      "alpaca",
+      "vicuna",
+      "uncensored",
+      "merge",
+      "mix",
+      "airoboros",
+      "openorca",
+      "orcamini",
+      "orca",
+      "instruct",
+      "mixtune",
+      "license:other",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/13B-Ouroboros-GGUF"
   },
   {
@@ -27850,8 +27885,184 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:anon8231489123/ShareGPT_Vicuna_unfiltered",
+      "dataset:jondurbin/airoboros-uncensored",
+      "alpaca",
+      "vicuna",
+      "uncensored",
+      "merge",
+      "mix",
+      "airoboros",
+      "openorca",
+      "orcamini",
+      "orca",
+      "instruct",
+      "mixtune",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/13B-Ouroboros-AWQ"
+  },
+  {
+    "_id": "650a1df9d48ed98e63c65f1e",
+    "id": "TheBloke/13B-Chimera-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/13B-Chimera-GGUF"
+  },
+  {
+    "_id": "650a1dfaf36bb51c5032793a",
+    "id": "TheBloke/13B-Chimera-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/13B-Chimera-AWQ"
+  },
+  {
+    "_id": "650a1dfb647a3ea442e40904",
+    "id": "TheBloke/13B-HyperMantis-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/13B-HyperMantis-GGUF"
+  },
+  {
+    "_id": "650a1e066fb511ba9e9e0c6f",
+    "id": "TheBloke/13B-HyperMantis-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/13B-HyperMantis-AWQ"
+  },
+  {
+    "_id": "650a1e07ad753305dedefc73",
+    "id": "TheBloke/chronos-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/chronos-13B-GGUF"
+  },
+  {
+    "_id": "650a1e07e0850b3ff04ed953",
+    "id": "TheBloke/chronos-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/chronos-13B-AWQ"
+  },
+  {
+    "_id": "650a1fddb48ff390664a5545",
+    "id": "TheBloke/30B-Epsilon-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/30B-Epsilon-GGUF"
+  },
+  {
+    "_id": "650a1fe8b44445e9b3a2face",
+    "id": "TheBloke/30B-Epsilon-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/30B-Epsilon-AWQ"
+  },
+  {
+    "_id": "650a206e61c4bb463611e2a4",
+    "id": "TheBloke/30B-Lazarus-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/30B-Lazarus-GGUF"
+  },
+  {
+    "_id": "650a20787b68c4a6f68cdb99",
+    "id": "TheBloke/30B-Lazarus-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/30B-Lazarus-AWQ"
+  },
+  {
+    "_id": "650a21c9f37afbab0d5728a7",
+    "id": "TheBloke/chronos-33b-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/chronos-33b-GGUF"
+  },
+  {
+    "_id": "650a21d3623330a3a5396968",
+    "id": "TheBloke/chronos-33b-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/chronos-33b-AWQ"
+  },
+  {
+    "_id": "650a22226fb511ba9e9eed08",
+    "id": "TheBloke/MythoBoros-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MythoBoros-13B-GGUF"
+  },
+  {
+    "_id": "650a222d1aece923f2081072",
+    "id": "TheBloke/MythoBoros-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MythoBoros-13B-AWQ"
   }
 ]
