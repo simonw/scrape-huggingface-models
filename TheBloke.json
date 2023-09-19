@@ -9175,7 +9175,7 @@
   {
     "_id": "64b6c9343d3bb8b1b5eb6aa0",
     "id": "TheBloke/Llama-2-13B-GPTQ",
-    "likes": 95,
+    "likes": 96,
     "private": false,
     "downloads": 10461,
     "tags": [
@@ -9297,7 +9297,7 @@
   {
     "_id": "64b6d9d4bb1d8f2832c8be93",
     "id": "TheBloke/Llama-2-13B-chat-GPTQ",
-    "likes": 251,
+    "likes": 252,
     "private": false,
     "downloads": 110811,
     "tags": [
@@ -9508,7 +9508,7 @@
       "dataset:LDJnr/Puffin",
       "llama-2",
       "sft",
-      "license:llama2",
+      "license:mit",
       "text-generation-inference",
       "region:us"
     ],
@@ -10062,7 +10062,7 @@
       "self-instruct",
       "distillation",
       "synthetic instruction",
-      "license:llama2",
+      "license:mit",
       "text-generation-inference",
       "region:us"
     ],
@@ -10651,7 +10651,7 @@
       "self-instruct",
       "distillation",
       "synthetic instruction",
-      "license:llama2",
+      "license:mit",
       "text-generation-inference",
       "region:us"
     ],
@@ -11349,7 +11349,7 @@
       "arxiv:2106.09685",
       "text-to-code",
       "multilingual-code-generation",
-      "license:llama2",
+      "license:openrail++",
       "text-generation-inference",
       "region:us"
     ],
@@ -11955,7 +11955,7 @@
       "text-generation",
       "en",
       "llama-2",
-      "license:llama2",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -13523,7 +13523,7 @@
       "dataset:rombodawg/Legacy_MegaCodeTraining200k",
       "text-to-code",
       "multilingual-code-generation",
-      "license:llama2",
+      "license:openrail++",
       "text-generation-inference",
       "region:us"
     ],
@@ -17304,7 +17304,7 @@
       "llama",
       "en",
       "llama-2",
-      "license:llama2",
+      "license:agpl-3.0",
       "text-generation",
       "text-generation-inference",
       "region:us"
@@ -17325,7 +17325,7 @@
       "text-generation",
       "en",
       "llama-2",
-      "license:llama2",
+      "license:agpl-3.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -18274,7 +18274,7 @@
   {
     "_id": "64f614a19c2aeb2a3dea1312",
     "id": "TheBloke/Llama-2-13B-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 87,
     "tags": [
@@ -18533,7 +18533,7 @@
       "llama",
       "en",
       "llama-2",
-      "license:llama2",
+      "license:other",
       "text-generation",
       "text-generation-inference",
       "region:us"
@@ -18644,7 +18644,7 @@
       "self-instruct",
       "distillation",
       "synthetic instruction",
-      "license:llama2",
+      "license:mit",
       "text-generation-inference",
       "region:us"
     ],
@@ -18664,7 +18664,8 @@
       "self-instruct",
       "distillation",
       "synthetic instruction",
-      "license:llama2",
+      "license:mit",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -18730,7 +18731,7 @@
       "dataset:LDJnr/Puffin",
       "llama-2",
       "sft",
-      "license:llama2",
+      "license:mit",
       "text-generation-inference",
       "region:us"
     ],
@@ -19175,7 +19176,7 @@
       "arxiv:2106.09685",
       "text-to-code",
       "multilingual-code-generation",
-      "license:llama2",
+      "license:openrail++",
       "text-generation-inference",
       "region:us"
     ],
@@ -19378,7 +19379,7 @@
       "dataset:rombodawg/Legacy_MegaCodeTraining200k",
       "text-to-code",
       "multilingual-code-generation",
-      "license:llama2",
+      "license:openrail++",
       "text-generation-inference",
       "region:us"
     ],
@@ -24462,8 +24463,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Genz-70b-AWQ"
   },
   {
@@ -24534,8 +24543,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeFuse-CodeLlama-34B-AWQ"
   },
   {
@@ -24604,8 +24620,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:rombodawg/Legacy_MegaCodeTraining200k",
+      "text-to-code",
+      "multilingual-code-generation",
+      "license:openrail++",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeUp-Alpha-13B-HF-AWQ"
   },
   {
@@ -24626,8 +24653,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "arxiv:2106.09685",
+      "text-to-code",
+      "multilingual-code-generation",
+      "license:openrail++",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeUp-Llama-2-13B-Chat-HF-AWQ"
   },
   {
@@ -24637,8 +24675,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "arxiv:2306.01708",
+      "llama-2",
+      "license:agpl-3.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CalliopeDS-L2-13B-AWQ"
   },
   {
@@ -24648,8 +24696,181 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "llama-2",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Chronohermes-Grad-L2-13B-AWQ"
+  },
+  {
+    "_id": "650933c269739cd31015c98f",
+    "id": "TheBloke/llama-2-13B-chat-limarp-v2-merged-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "llama-2",
+      "license:agpl-3.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/llama-2-13B-chat-limarp-v2-merged-AWQ"
+  },
+  {
+    "_id": "6509341c1ba21833b4b805bf",
+    "id": "TheBloke/Nous-Hermes-Llama-2-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "llama-2",
+      "self-instruct",
+      "distillation",
+      "synthetic instruction",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Nous-Hermes-Llama-2-7B-AWQ"
+  },
+  {
+    "_id": "650934751aece923f2e007cc",
+    "id": "TheBloke/Nous-Hermes-Llama2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "llama-2",
+      "self-instruct",
+      "distillation",
+      "synthetic instruction",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Nous-Hermes-Llama2-AWQ"
+  },
+  {
+    "_id": "650934a661c4bb4636ebe4b4",
+    "id": "TheBloke/ORCA_LLaMA_70B_QLoRA-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/ORCA_LLaMA_70B_QLoRA-AWQ"
+  },
+  {
+    "_id": "65093665cc02352e1e0bbd9c",
+    "id": "TheBloke/Nous-Hermes-Llama2-70B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Nous-Hermes-Llama2-70B-AWQ"
+  },
+  {
+    "_id": "6509371b69739cd31016599a",
+    "id": "TheBloke/Redmond-Puffin-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "eng",
+      "dataset:LDJnr/Puffin",
+      "llama-2",
+      "sft",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Redmond-Puffin-13B-AWQ"
+  },
+  {
+    "_id": "650937252c804aed59c89175",
+    "id": "TheBloke/Nous-Puffin-70B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Nous-Puffin-70B-AWQ"
+  },
+  {
+    "_id": "650937ba6fb511ba9e782c79",
+    "id": "TheBloke/llama-2-13B-German-Assistant-v2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "de",
+      "dataset:flozi00/conversations",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/llama-2-13B-German-Assistant-v2-AWQ"
+  },
+  {
+    "_id": "6509395b6fb511ba9e785b9a",
+    "id": "TheBloke/Llama-2-13B-German-Assistant-v4-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-13B-German-Assistant-v4-AWQ"
+  },
+  {
+    "_id": "65093a4e10173b169c3aa6ad",
+    "id": "TheBloke/Guanaco-13B-Uncensored-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Guanaco-13B-Uncensored-AWQ"
   }
 ]
