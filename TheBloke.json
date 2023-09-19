@@ -13954,7 +13954,7 @@
       "dataset:psmathur/orca_mini_v1_dataset",
       "dataset:ehartford/dolphin",
       "arxiv:2306.02707",
-      "license:llama2",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -20178,7 +20178,7 @@
       "dataset:psmathur/orca_mini_v1_dataset",
       "dataset:ehartford/dolphin",
       "arxiv:2306.02707",
-      "license:llama2",
+      "license:other",
       "text-generation",
       "text-generation-inference",
       "region:us"
@@ -25314,8 +25314,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/model_007-70B-AWQ"
   },
   {
@@ -25325,8 +25331,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:psmathur/orca_mini_v1_dataset",
+      "dataset:ehartford/dolphin",
+      "arxiv:2306.02707",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/orca_mini_v3_70B-AWQ"
   },
   {
@@ -25467,8 +25484,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "custom_code",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Synthia-34B-v1.2-AWQ"
   },
   {
@@ -25514,5 +25539,98 @@
       "region:us"
     ],
     "modelId": "TheBloke/Synthia-70B-v1.2b-AWQ"
+  },
+  {
+    "_id": "650958b4b44445e9b384119f",
+    "id": "TheBloke/Synthia-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Synthia-7B-AWQ"
+  },
+  {
+    "_id": "650959cb2feb9570c50d2a91",
+    "id": "TheBloke/llama-2-13B-Guanaco-QLoRA-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "llama-2",
+      "license:llama2",
+      "text-classification",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-classification",
+    "modelId": "TheBloke/llama-2-13B-Guanaco-QLoRA-AWQ"
+  },
+  {
+    "_id": "65095b0ef36bb51c5012f890",
+    "id": "TheBloke/llama-2-7B-Guanaco-QLoRA-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "llama-2",
+      "license:llama2",
+      "text-classification",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-classification",
+    "modelId": "TheBloke/llama-2-7B-Guanaco-QLoRA-AWQ"
+  },
+  {
+    "_id": "65095b56d95f30b9dcd2f5b2",
+    "id": "TheBloke/llama-2-70b-Guanaco-QLoRA-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/llama-2-70b-Guanaco-QLoRA-AWQ"
+  },
+  {
+    "_id": "65095ce33499309131af6713",
+    "id": "TheBloke/Llama-2-Coder-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-Coder-7B-AWQ"
+  },
+  {
+    "_id": "65095d31ac5108b93a789074",
+    "id": "TheBloke/llama2-22B-daydreamer-v2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/llama2-22B-daydreamer-v2-AWQ"
   }
 ]
