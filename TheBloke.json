@@ -10407,7 +10407,7 @@
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-1.4.1",
-      "license:llama2",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -20341,7 +20341,7 @@
       "transformers",
       "llama",
       "dataset:jondurbin/airoboros-gpt4-1.4.1",
-      "license:llama2",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -27728,8 +27728,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-gpt4-1.4.1",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/airoboros-l2-70B-gpt4-1.4.1-AWQ"
   }
 ]
