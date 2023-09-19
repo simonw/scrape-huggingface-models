@@ -18041,7 +18041,7 @@
   {
     "_id": "64f2fd9cfb404f3b7d7bbd78",
     "id": "TheBloke/Speechless-Llama2-Hermes-Orca-Platypus-WizardLM-13B-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -20168,7 +20168,7 @@
   {
     "_id": "64f7f68e766ff9f3d28f9b02",
     "id": "TheBloke/orca_mini_v3_70B-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -23693,8 +23693,28 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "custom_code",
+      "dataset:jondurbin/airoboros-2.1",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Airoboros-L2-13B-2_1-YaRN-64K-AWQ"
+  },
+  {
+    "_id": "6509029d1b3694179dca58f4",
+    "id": "TheBloke/Airoboros-c34B-2.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-c34B-2.1-AWQ"
   }
 ]
