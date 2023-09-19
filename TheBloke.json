@@ -27774,5 +27774,29 @@
       "region:us"
     ],
     "modelId": "TheBloke/13B-BlueMethod-GGUF"
+  },
+  {
+    "_id": "650a13b561c4bb4636100088",
+    "id": "TheBloke/13B-BlueMethod-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "alpaca",
+      "cot",
+      "vicuna",
+      "uncensored",
+      "merge",
+      "mix",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/13B-BlueMethod-AWQ"
   }
 ]
