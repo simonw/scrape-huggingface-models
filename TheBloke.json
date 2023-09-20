@@ -2364,7 +2364,7 @@
   {
     "_id": "647b3c28b31514a4a6d83660",
     "id": "TheBloke/Nous-Hermes-13B-GPTQ",
-    "likes": 145,
+    "likes": 146,
     "private": false,
     "downloads": 5974,
     "tags": [
@@ -3815,7 +3815,7 @@
   {
     "_id": "648845cf6ab9e4baf519355a",
     "id": "TheBloke/chronos-hermes-13B-GPTQ",
-    "likes": 30,
+    "likes": 31,
     "private": false,
     "downloads": 167,
     "tags": [
@@ -6341,7 +6341,7 @@
   {
     "_id": "649c96c01e502df8627f60d6",
     "id": "TheBloke/Manticore-13B-Chat-Pyg-Guanaco-SuperHOT-8K-GPTQ",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 1407,
     "tags": [
@@ -10042,7 +10042,7 @@
   {
     "_id": "64baf98faaccfd28b0209764",
     "id": "TheBloke/Nous-Hermes-Llama2-GPTQ",
-    "likes": 52,
+    "likes": 53,
     "private": false,
     "downloads": 4867,
     "tags": [
@@ -18213,7 +18213,8 @@
       "license:llama2",
       "text-generation",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-7B-GGUF"
@@ -20696,7 +20697,7 @@
   {
     "_id": "64fad64ad75293f417ca9554",
     "id": "TheBloke/Guanaco-7B-Uncensored-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 35,
     "tags": [
@@ -29659,6 +29660,7 @@
     "tags": [
       "transformers",
       "llama",
+      "arxiv:2303.17760",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -30470,8 +30472,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/LLaMA-65B-AWQ"
   },
   {
