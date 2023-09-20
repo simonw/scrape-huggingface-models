@@ -18863,7 +18863,7 @@
   {
     "_id": "64f702cb7c77bf9c8ab540f5",
     "id": "TheBloke/OpenBuddy-Llama2-70b-v10.1-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 72,
     "tags": [
@@ -19974,7 +19974,7 @@
   {
     "_id": "64f7c72a6389380c776a06aa",
     "id": "TheBloke/Chronos-70B-v2-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 97,
     "tags": [
@@ -29250,6 +29250,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/FashionGPT-70B-V1.1-GGUF"
@@ -30110,8 +30114,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/LLaMA-13b-AWQ"
   },
   {
@@ -30121,6 +30132,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/LLaMA-13b-GGUF"
@@ -30132,8 +30147,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "arxiv:2303.14070",
+      "medical",
+      "license:cc",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/medalpaca-13B-GGUF"
   },
   {
@@ -30234,6 +30258,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/LLaMA-30b-GGUF"
@@ -30256,6 +30284,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/LLaMA-7b-GGUF"
@@ -30267,8 +30299,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/LLaMA-7b-AWQ"
   },
   {
