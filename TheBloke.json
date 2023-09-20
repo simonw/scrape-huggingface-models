@@ -1861,10 +1861,7 @@
       "safetensors",
       "llama",
       "text-generation",
-      "en",
-      "dataset:gorilla-llm/APIBench",
       "arxiv:2305.15334",
-      "api",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -2223,6 +2220,7 @@
       "safetensors",
       "llama",
       "text-generation",
+      "lora",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -29161,8 +29159,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:ehartford/wizard_vicuna_70k_unfiltered",
+      "license:cc-by-nc-nd-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Uncensored-Frank-33b-GPTQ"
   },
   {
@@ -29745,6 +29752,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "dataset:bavest/fin-llama-dataset",
+      "finance",
+      "llm",
+      "trading",
+      "license:gpl",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/fin-llama-33B-GGUF"
@@ -29767,6 +29782,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/CAMEL-33B-Combined-Data-GGUF"
@@ -29778,8 +29797,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "lora",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Karen_theEditor_13B-AWQ"
   },
   {
@@ -29789,6 +29816,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "lora",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Karen_theEditor_13B-GGUF"
@@ -29800,6 +29832,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "arxiv:2305.15334",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/gorilla-7B-GGUF"
@@ -29811,8 +29848,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2305.15334",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/gorilla-7B-AWQ"
   },
   {
@@ -29836,5 +29881,143 @@
       "region:us"
     ],
     "modelId": "TheBloke/llama-30b-supercot-GGUF"
+  },
+  {
+    "_id": "650a504ef99720fea14ea249",
+    "id": "TheBloke/Chronoboros-33B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Chronoboros-33B-GGUF"
+  },
+  {
+    "_id": "650a5058cc02352e1e37aa76",
+    "id": "TheBloke/Chronoboros-33B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Chronoboros-33B-AWQ"
+  },
+  {
+    "_id": "650a50a3f99720fea14eabaf",
+    "id": "TheBloke/wizard-vicuna-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "causal-lm",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/wizard-vicuna-13B-GGUF"
+  },
+  {
+    "_id": "650a50a4b5a04c8675e3c0ec",
+    "id": "TheBloke/airochronos-33B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/airochronos-33B-AWQ"
+  },
+  {
+    "_id": "650a50ad5ac587b3f38a1c98",
+    "id": "TheBloke/wizard-vicuna-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/wizard-vicuna-13B-AWQ"
+  },
+  {
+    "_id": "650a50aef36bb51c50395453",
+    "id": "TheBloke/airochronos-33B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/airochronos-33B-GGUF"
+  },
+  {
+    "_id": "650a51bb6fb511ba9ea5ab99",
+    "id": "TheBloke/Vicuna-13B-CoT-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Vicuna-13B-CoT-GGUF"
+  },
+  {
+    "_id": "650a51c5ce83a0c12aa687c1",
+    "id": "TheBloke/Vicuna-13B-CoT-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Vicuna-13B-CoT-AWQ"
+  },
+  {
+    "_id": "650a532f61c4bb463619009b",
+    "id": "TheBloke/Vicuna-7B-CoT-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Vicuna-7B-CoT-AWQ"
+  },
+  {
+    "_id": "650a5339e0850b3ff055c675",
+    "id": "TheBloke/Vicuna-7B-CoT-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Vicuna-7B-CoT-GGUF"
+  },
+  {
+    "_id": "650a53f4ed23af2c5d3f622b",
+    "id": "TheBloke/FashionGPT-70B-V1.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/FashionGPT-70B-V1.1-GPTQ"
+  },
+  {
+    "_id": "650a53fe905c78a96a5681fe",
+    "id": "TheBloke/FashionGPT-70B-V1.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/FashionGPT-70B-V1.1-AWQ"
   }
 ]
