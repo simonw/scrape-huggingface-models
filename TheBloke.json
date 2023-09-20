@@ -30095,6 +30095,7 @@
       "safetensors",
       "llama",
       "text-generation",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
@@ -30667,5 +30668,27 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/tulu-7B-AWQ"
+  },
+  {
+    "_id": "650ad30a008f8c1261474dec",
+    "id": "TheBloke/ARIA-70B-V2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/ARIA-70B-V2-GPTQ"
+  },
+  {
+    "_id": "650ad315008f8c1261474f22",
+    "id": "TheBloke/ARIA-70B-V2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/ARIA-70B-V2-AWQ"
   }
 ]
