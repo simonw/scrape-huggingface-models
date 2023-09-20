@@ -1018,8 +1018,6 @@
       "llama",
       "text-generation",
       "dataset:gozfarb/ShareGPT_Vicuna_unfiltered",
-      "dataset:Aeala/ShareGPT_Vicuna_unfiltered",
-      "uncensored",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -30145,8 +30143,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "arxiv:2303.14070",
+      "medical",
+      "license:cc",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/medalpaca-13B-AWQ"
   },
   {
@@ -30156,6 +30164,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/GPlatty-30B-GGUF"
@@ -30167,8 +30180,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/GPlatty-30B-AWQ"
   },
   {
@@ -30178,6 +30199,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Platypus-30B-GGUF"
@@ -30189,8 +30215,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Platypus-30B-AWQ"
   },
   {
@@ -30244,8 +30278,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/WizardLM-Uncensored-SuperCOT-StoryTelling-30B-AWQ"
   },
   {
@@ -30255,6 +30296,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/WizardLM-Uncensored-SuperCOT-StoryTelling-30B-GGUF"
@@ -30277,8 +30322,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:gozfarb/ShareGPT_Vicuna_unfiltered",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/VicUnlocked-30B-LoRA-AWQ"
   },
   {
@@ -30288,6 +30341,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "dataset:gozfarb/ShareGPT_Vicuna_unfiltered",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/VicUnlocked-30B-LoRA-GGUF"
@@ -30299,8 +30357,25 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:QingyiSi/Alpaca-CoT",
+      "dataset:teknium/GPT4-LLM-Cleaned",
+      "dataset:teknium/GPTeacher-General-Instruct",
+      "dataset:metaeval/ScienceQA_text_only",
+      "dataset:hellaswag",
+      "dataset:openai/summarize_from_feedback",
+      "dataset:riddle_sense",
+      "dataset:gsm8k",
+      "dataset:OpenAssistant/oasst1",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/hippogriff-30b-chat-AWQ"
   },
   {
@@ -30321,8 +30396,24 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:QingyiSi/Alpaca-CoT",
+      "dataset:teknium/GPT4-LLM-Cleaned",
+      "dataset:teknium/GPTeacher-General-Instruct",
+      "dataset:metaeval/ScienceQA_text_only",
+      "dataset:hellaswag",
+      "dataset:openai/summarize_from_feedback",
+      "dataset:riddle_sense",
+      "dataset:gsm8k",
+      "dataset:OpenAssistant/oasst1",
+      "license:other",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/hippogriff-30b-chat-GGUF"
   },
   {
@@ -30343,8 +30434,27 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:anon8231489123/ShareGPT_Vicuna_unfiltered",
+      "dataset:ehartford/wizard_vicuna_70k_unfiltered",
+      "dataset:ehartford/WizardLM_alpaca_evol_instruct_70k_unfiltered",
+      "dataset:QingyiSi/Alpaca-CoT",
+      "dataset:teknium/GPT4-LLM-Cleaned",
+      "dataset:teknium/GPTeacher-General-Instruct",
+      "dataset:metaeval/ScienceQA_text_only",
+      "dataset:hellaswag",
+      "dataset:openai/summarize_from_feedback",
+      "dataset:riddle_sense",
+      "dataset:gsm8k",
+      "dataset:ewof/code-alpaca-instruct-unfiltered",
+      "license:other",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/manticore-13b-chat-pyg-GGUF"
   },
   {
@@ -30354,8 +30464,108 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:anon8231489123/ShareGPT_Vicuna_unfiltered",
+      "dataset:ehartford/wizard_vicuna_70k_unfiltered",
+      "dataset:ehartford/WizardLM_alpaca_evol_instruct_70k_unfiltered",
+      "dataset:QingyiSi/Alpaca-CoT",
+      "dataset:teknium/GPT4-LLM-Cleaned",
+      "dataset:teknium/GPTeacher-General-Instruct",
+      "dataset:metaeval/ScienceQA_text_only",
+      "dataset:hellaswag",
+      "dataset:openai/summarize_from_feedback",
+      "dataset:riddle_sense",
+      "dataset:gsm8k",
+      "dataset:ewof/code-alpaca-instruct-unfiltered",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/manticore-13b-chat-pyg-AWQ"
+  },
+  {
+    "_id": "650a5c3cd26103b6eedd1d01",
+    "id": "TheBloke/tulu-30B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/tulu-30B-AWQ"
+  },
+  {
+    "_id": "650a5c463f8a38f064a44dd4",
+    "id": "TheBloke/tulu-30B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:databricks/databricks-dolly-15k",
+      "dataset:OpenAssistant/oasst1",
+      "dataset:sahil2801/CodeAlpaca-20k",
+      "arxiv:2306.04751",
+      "arxiv:2302.13971",
+      "arxiv:2304.07327",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/tulu-30B-GGUF"
+  },
+  {
+    "_id": "650a5c547b68c4a6f6969a97",
+    "id": "TheBloke/tulu-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:databricks/databricks-dolly-15k",
+      "dataset:OpenAssistant/oasst1",
+      "dataset:sahil2801/CodeAlpaca-20k",
+      "arxiv:2306.04751",
+      "arxiv:2302.13971",
+      "arxiv:2304.07327",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/tulu-7B-GGUF"
+  },
+  {
+    "_id": "650a5c5ef02cb322e93b6f9a",
+    "id": "TheBloke/tulu-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:databricks/databricks-dolly-15k",
+      "dataset:OpenAssistant/oasst1",
+      "dataset:sahil2801/CodeAlpaca-20k",
+      "arxiv:2306.04751",
+      "arxiv:2302.13971",
+      "arxiv:2304.07327",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/tulu-7B-AWQ"
   }
 ]
