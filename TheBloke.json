@@ -20659,7 +20659,7 @@
   {
     "_id": "64fad258fa6446542256a42c",
     "id": "TheBloke/Guanaco-7B-Uncensored-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -21381,7 +21381,7 @@
   {
     "_id": "64fee9e4d8c6c30ec15697f5",
     "id": "TheBloke/Unholy-v1-12L-13B-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -30676,8 +30676,26 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "fr",
+      "en",
+      "arxiv:2307.09288",
+      "code",
+      "text-generation-inference",
+      "Meta ",
+      "facebook",
+      "pytorch",
+      "openassistant",
+      "data",
+      "education",
+      "languages",
+      "license:llama2",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/ARIA-70B-V2-GPTQ"
   },
   {
