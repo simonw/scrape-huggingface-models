@@ -6053,7 +6053,7 @@
   {
     "_id": "649aa5064360ed7ed8ca67b0",
     "id": "TheBloke/Chronos-Hermes-13B-SuperHOT-8K-fp16",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 372,
     "tags": [
@@ -30683,12 +30683,47 @@
   {
     "_id": "650ad315008f8c1261474f22",
     "id": "TheBloke/ARIA-70B-V2-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "fr",
+      "en",
+      "arxiv:2307.09288",
+      "code",
+      "text-generation-inference",
+      "Meta ",
+      "facebook",
+      "pytorch",
+      "openassistant",
+      "data",
+      "education",
+      "languages",
+      "license:llama2",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/ARIA-70B-V2-AWQ"
+  },
+  {
+    "_id": "650aed451ec9c93a4ed7c99f",
+    "id": "TheBloke/Falcon-180B-Chat-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "falcon",
+      "text-generation",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Falcon-180B-Chat-AWQ"
   }
 ]
