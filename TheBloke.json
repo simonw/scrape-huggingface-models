@@ -395,7 +395,7 @@
       "en",
       "arxiv:2303.14070",
       "medical",
-      "license:cc",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -593,6 +593,8 @@
       "safetensors",
       "llama",
       "text-generation",
+      "en",
+      "causal-lm",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -2296,7 +2298,7 @@
       "text-generation",
       "en",
       "dataset:ehartford/based",
-      "license:apache-2.0",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -2883,7 +2885,6 @@
       "safetensors",
       "llama",
       "text-generation",
-      "arxiv:2303.17760",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -3756,7 +3757,7 @@
       "finance",
       "llm",
       "trading",
-      "license:gpl",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -3859,7 +3860,7 @@
       "OpenAccess AI Collective",
       "MPT",
       "axolotl",
-      "license:apache-2.0",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -4325,7 +4326,7 @@
       "safetensors",
       "llama",
       "text-generation",
-      "license:cc-by-nc-4.0",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -4606,8 +4607,6 @@
       "safetensors",
       "llama",
       "text-generation",
-      "en",
-      "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -9218,7 +9217,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 539,
+    "likes": 540,
     "private": false,
     "downloads": 8711,
     "tags": [
@@ -28348,7 +28347,7 @@
       "text-generation",
       "en",
       "dataset:ehartford/based",
-      "license:apache-2.0",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -28366,7 +28365,7 @@
       "llama",
       "en",
       "dataset:ehartford/based",
-      "license:apache-2.0",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -29180,7 +29179,6 @@
       "safetensors",
       "llama",
       "text-generation",
-      "arxiv:2304.12244",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -29370,7 +29368,7 @@
       "OpenAccess AI Collective",
       "MPT",
       "axolotl",
-      "license:apache-2.0",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -29431,7 +29429,7 @@
       "OpenAccess AI Collective",
       "MPT",
       "axolotl",
-      "license:apache-2.0",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -29661,7 +29659,6 @@
     "tags": [
       "transformers",
       "llama",
-      "arxiv:2303.17760",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -29746,7 +29743,7 @@
       "safetensors",
       "llama",
       "text-generation",
-      "license:cc-by-nc-4.0",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -29766,7 +29763,7 @@
       "finance",
       "llm",
       "trading",
-      "license:gpl",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -29787,7 +29784,7 @@
       "finance",
       "llm",
       "trading",
-      "license:gpl",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -29803,7 +29800,7 @@
     "tags": [
       "transformers",
       "llama",
-      "license:cc-by-nc-4.0",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -30152,7 +30149,7 @@
       "en",
       "arxiv:2303.14070",
       "medical",
-      "license:cc",
+      "license:other",
       "text-generation",
       "text-generation-inference",
       "region:us"
@@ -30174,7 +30171,7 @@
       "en",
       "arxiv:2303.14070",
       "medical",
-      "license:cc",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -30273,8 +30270,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/LLaMA-30b-AWQ"
   },
   {
@@ -30424,6 +30428,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/LLaMA-65B-GGUF"
