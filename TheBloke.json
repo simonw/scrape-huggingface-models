@@ -20345,7 +20345,7 @@
   {
     "_id": "64f8ad3c29a9aa4778e7fdab",
     "id": "TheBloke/Falcon-180B-Chat-GPTQ",
-    "likes": 47,
+    "likes": 48,
     "private": false,
     "downloads": 5138,
     "tags": [
@@ -20483,7 +20483,7 @@
   {
     "_id": "64f97e6a159055330801aec5",
     "id": "TheBloke/Falcon-180B-Chat-GGUF",
-    "likes": 86,
+    "likes": 87,
     "private": false,
     "downloads": 133,
     "tags": [
@@ -20775,7 +20775,7 @@
   {
     "_id": "64fb0a84d82fc6977d6558a2",
     "id": "TheBloke/Falcon-180B-GGUF",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -20976,7 +20976,7 @@
   {
     "_id": "64fbded739d541478efe19b0",
     "id": "TheBloke/Falcon-180B-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -30822,8 +30822,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:TIGER-Lab/MathInstruct",
+      "arxiv:2309.05653",
+      "license:mit",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MAmmoTH-Coder-34B-AWQ"
   },
   {
@@ -30844,8 +30854,26 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:TIGER-Lab/MathInstruct",
+      "arxiv:2309.05653",
+      "license:mit",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/MAmmoTH-Coder-34B-GGUF"
+  },
+  {
+    "_id": "650b7622ba3bc3360656bbf2",
+    "id": "TheBloke/MAmmoTH-70B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MAmmoTH-70B-GGUF"
   }
 ]
