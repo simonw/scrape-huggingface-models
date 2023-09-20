@@ -9143,7 +9143,7 @@
   {
     "_id": "64b6c679d16e945399007406",
     "id": "TheBloke/Llama-2-7B-GPTQ",
-    "likes": 51,
+    "likes": 52,
     "private": false,
     "downloads": 10816,
     "tags": [
@@ -9217,7 +9217,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 540,
+    "likes": 541,
     "private": false,
     "downloads": 8711,
     "tags": [
@@ -9373,7 +9373,7 @@
   {
     "_id": "64b72139a00eab5bcddae33e",
     "id": "TheBloke/Llama-2-70B-chat-GPTQ",
-    "likes": 183,
+    "likes": 184,
     "private": false,
     "downloads": 38017,
     "tags": [
@@ -11163,7 +11163,7 @@
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
-      "license:llama2",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -11198,7 +11198,7 @@
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
-      "license:llama2",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -11233,7 +11233,7 @@
       "llama",
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
-      "license:llama2",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -20844,7 +20844,7 @@
       "transformers",
       "llama",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
-      "license:llama2",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -20860,7 +20860,7 @@
       "transformers",
       "llama",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
-      "license:llama2",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -20876,7 +20876,7 @@
       "transformers",
       "llama",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
-      "license:llama2",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
@@ -21433,7 +21433,7 @@
   {
     "_id": "64ff691a1e14749e84d2c2d9",
     "id": "TheBloke/Spicyboros-70B-2.2-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -30102,8 +30102,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/FashionGPT-70B-V1.1-AWQ"
   },
   {
@@ -30356,8 +30363,25 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "fr",
+      "en",
+      "arxiv:2307.09288",
+      "code",
+      "text-generation-inference",
+      "Meta ",
+      "facebook",
+      "pytorch",
+      "openassistant",
+      "data",
+      "education",
+      "languages",
+      "license:llama2",
+      "text-generation",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/ARIA-70B-V2-GGUF"
   },
   {
