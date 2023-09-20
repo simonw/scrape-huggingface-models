@@ -1634,9 +1634,6 @@
       "safetensors",
       "llama",
       "text-generation",
-      "arxiv:2305.14314",
-      "arxiv:2302.13971",
-      "arxiv:2304.07327",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -9594,7 +9591,7 @@
   {
     "_id": "64b87e0f894eb78e3948faf8",
     "id": "TheBloke/upstage-llama-30b-instruct-2048-GPTQ",
-    "likes": 23,
+    "likes": 24,
     "private": false,
     "downloads": 687,
     "tags": [
@@ -18229,7 +18226,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7b-Chat-GGUF",
-    "likes": 39,
+    "likes": 40,
     "private": false,
     "downloads": 648,
     "tags": [
@@ -21124,7 +21121,7 @@
   {
     "_id": "64fdbb064010eccccc609ea2",
     "id": "TheBloke/Spicyboros-13B-2.2-GGUF",
-    "likes": 18,
+    "likes": 19,
     "private": false,
     "downloads": 33,
     "tags": [
@@ -28687,6 +28684,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "dataset:ehartford/WizardLM_alpaca_evol_instruct_70k_unfiltered",
+      "uncensored",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/WizardLM-30B-uncensored-GGUF"
@@ -28735,6 +28738,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/WizardLM-33B-V1.0-Uncensored-GGUF"
@@ -28855,8 +28864,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/SuperPlatty-30B-AWQ"
   },
   {
@@ -28877,8 +28894,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/guanaco-33B-AWQ"
   },
   {
@@ -28888,8 +28912,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/guanaco-65B-AWQ"
   },
   {
@@ -28930,8 +28961,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:ehartford/wizard_vicuna_70k_unfiltered",
+      "license:cc-by-nc-nd-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Uncensored-Frank-13b-GPTQ"
   },
   {
@@ -28941,6 +28981,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/guanaco-7B-GGUF"
@@ -28970,6 +29014,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:ehartford/wizard_vicuna_70k_unfiltered",
+      "license:cc-by-nc-nd-4.0",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Uncensored-Frank-33b-GGUF"
@@ -28981,8 +29031,24 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:sciq",
+      "dataset:metaeval/ScienceQA_text_only",
+      "dataset:GAIR/lima",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:openbookqa",
+      "upstage",
+      "instruct",
+      "instruction",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/upstage-llama-30b-instruct-2048-AWQ"
   },
   {
@@ -29017,5 +29083,82 @@
       "region:us"
     ],
     "modelId": "TheBloke/Upstage-Llama1-65B-Instruct-AWQ"
+  },
+  {
+    "_id": "650a3d9eb48ff390664e9a9b",
+    "id": "TheBloke/Uncensored-Frank-33b-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Uncensored-Frank-33b-AWQ"
+  },
+  {
+    "_id": "650a3da97ee07e274b530c33",
+    "id": "TheBloke/Uncensored-Frank-33b-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Uncensored-Frank-33b-GPTQ"
+  },
+  {
+    "_id": "650a3e2f2257a3afbaf84777",
+    "id": "TheBloke/WizardLM-13B-1.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/WizardLM-13B-1.0-AWQ"
+  },
+  {
+    "_id": "650a3e3af02cb322e9370434",
+    "id": "TheBloke/WizardLM-13B-1.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/WizardLM-13B-1.0-GGUF"
+  },
+  {
+    "_id": "650a41482e4bbde41822f856",
+    "id": "TheBloke/WizardLM-13B-V1.1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/WizardLM-13B-V1.1-GGUF"
+  },
+  {
+    "_id": "650a4152647a3ea442e94137",
+    "id": "TheBloke/WizardLM-13B-V1.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/WizardLM-13B-V1.1-AWQ"
+  },
+  {
+    "_id": "650a41e57ee07e274b53a70c",
+    "id": "TheBloke/FashionGPT-70B-V1.1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/FashionGPT-70B-V1.1-GGUF"
   }
 ]
