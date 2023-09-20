@@ -1544,9 +1544,6 @@
       "safetensors",
       "llama",
       "text-generation",
-      "arxiv:2305.14314",
-      "arxiv:2302.13971",
-      "arxiv:2304.07327",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -2821,6 +2818,7 @@
       "safetensors",
       "llama",
       "text-generation",
+      "storywriting",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -9990,18 +9988,13 @@
       "llama",
       "text-generation",
       "en",
-      "dataset:sciq",
-      "dataset:metaeval/ScienceQA_text_only",
-      "dataset:GAIR/lima",
-      "dataset:Open-Orca/OpenOrca",
-      "dataset:openbookqa",
       "upstage",
       "instruct",
       "instruction",
       "license:other",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Upstage-Llama1-65B-Instruct-GPTQ"
@@ -28947,6 +28940,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/guanaco-65B-GGUF"
@@ -29101,8 +29098,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "upstage",
+      "instruct",
+      "instruction",
+      "license:other",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Upstage-Llama1-65B-Instruct-GGUF"
   },
   {
@@ -29112,8 +29119,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "upstage",
+      "instruct",
+      "instruction",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Upstage-Llama1-65B-Instruct-AWQ"
   },
   {
@@ -29123,8 +29141,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:ehartford/wizard_vicuna_70k_unfiltered",
+      "license:cc-by-nc-nd-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Uncensored-Frank-33b-AWQ"
   },
   {
@@ -29410,8 +29437,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:anon8231489123/ShareGPT_Vicuna_unfiltered",
+      "dataset:ehartford/wizard_vicuna_70k_unfiltered",
+      "dataset:ehartford/WizardLM_alpaca_evol_instruct_70k_unfiltered",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/wizard-mega-13B-AWQ"
   },
   {
@@ -29442,8 +29480,31 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:ehartford/WizardLM_alpaca_evol_instruct_70k_unfiltered",
+      "dataset:QingyiSi/Alpaca-CoT",
+      "dataset:teknium/GPTeacher-General-Instruct",
+      "dataset:metaeval/ScienceQA_text_only",
+      "dataset:hellaswag",
+      "dataset:openai/summarize_from_feedback",
+      "dataset:riddle_sense",
+      "dataset:gsm8k",
+      "dataset:camel-ai/math",
+      "dataset:camel-ai/biology",
+      "dataset:camel-ai/physics",
+      "dataset:camel-ai/chemistry",
+      "dataset:winglian/evals",
+      "OpenAccess AI Collective",
+      "MPT",
+      "axolotl",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/minotaur-13B-AWQ"
   },
   {
@@ -29464,8 +29525,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/llama-13b-supercot-AWQ"
   },
   {
@@ -29490,8 +29558,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "pytorch",
+      "chatbot",
+      "storywriting",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/chronos-hermes-13B-AWQ"
   },
   {
@@ -29501,8 +29579,262 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "pytorch",
+      "chatbot",
+      "storywriting",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/chronos-hermes-13B-GGUF"
+  },
+  {
+    "_id": "650a4ae31b3694179dfec482",
+    "id": "TheBloke/chronos-wizardlm-uc-scot-st-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "storywriting",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/chronos-wizardlm-uc-scot-st-13B-GGUF"
+  },
+  {
+    "_id": "650a4aedce81b73e63836114",
+    "id": "TheBloke/chronos-wizardlm-uc-scot-st-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "storywriting",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/chronos-wizardlm-uc-scot-st-13B-AWQ"
+  },
+  {
+    "_id": "650a4b48ed23af2c5d3e21d2",
+    "id": "TheBloke/CAMEL-13B-Combined-Data-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2303.17760",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/CAMEL-13B-Combined-Data-AWQ"
+  },
+  {
+    "_id": "650a4b49b44445e9b3a99ddf",
+    "id": "TheBloke/CAMEL-13B-Combined-Data-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "arxiv:2303.17760",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/CAMEL-13B-Combined-Data-GGUF"
+  },
+  {
+    "_id": "650a4bc610173b169c6588b8",
+    "id": "TheBloke/stable-vicuna-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/stable-vicuna-13B-AWQ"
+  },
+  {
+    "_id": "650a4bd01b3694179dfeeda4",
+    "id": "TheBloke/stable-vicuna-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:OpenAssistant/oasst1",
+      "dataset:nomic-ai/gpt4all_prompt_generations",
+      "dataset:tatsu-lab/alpaca",
+      "arxiv:2302.13971",
+      "causal-lm",
+      "license:cc-by-nc-sa-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/stable-vicuna-13B-GGUF"
+  },
+  {
+    "_id": "650a4be73449d9a49c2c288e",
+    "id": "TheBloke/CAMEL-13B-Role-Playing-Data-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "arxiv:2303.17760",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/CAMEL-13B-Role-Playing-Data-GGUF"
+  },
+  {
+    "_id": "650a4bf1f99720fea14e19e3",
+    "id": "TheBloke/CAMEL-13B-Role-Playing-Data-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2303.17760",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/CAMEL-13B-Role-Playing-Data-AWQ"
+  },
+  {
+    "_id": "650a4c062feb9570c532aac6",
+    "id": "TheBloke/CAMEL-33B-Combined-Data-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/CAMEL-33B-Combined-Data-AWQ"
+  },
+  {
+    "_id": "650a4c11d48ed98e63ce111d",
+    "id": "TheBloke/fin-llama-33B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/fin-llama-33B-GGUF"
+  },
+  {
+    "_id": "650a4c1bd48ed98e63ce12b1",
+    "id": "TheBloke/fin-llama-33B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/fin-llama-33B-AWQ"
+  },
+  {
+    "_id": "650a4cabe13ff962300eac74",
+    "id": "TheBloke/CAMEL-33B-Combined-Data-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/CAMEL-33B-Combined-Data-GGUF"
+  },
+  {
+    "_id": "650a4e9ea2abcb18d6547718",
+    "id": "TheBloke/Karen_theEditor_13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Karen_theEditor_13B-AWQ"
+  },
+  {
+    "_id": "650a4ea8634e02df56d4fa99",
+    "id": "TheBloke/Karen_theEditor_13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Karen_theEditor_13B-GGUF"
+  },
+  {
+    "_id": "650a4ee14882fab5c4ca7d65",
+    "id": "TheBloke/gorilla-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/gorilla-7B-GGUF"
+  },
+  {
+    "_id": "650a4eebce83a0c12aa62b4c",
+    "id": "TheBloke/gorilla-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/gorilla-7B-AWQ"
+  },
+  {
+    "_id": "650a4f85d26103b6eedb6a27",
+    "id": "TheBloke/llama-30b-supercot-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/llama-30b-supercot-AWQ"
+  },
+  {
+    "_id": "650a4f90e13ff962300f0c9d",
+    "id": "TheBloke/llama-30b-supercot-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/llama-30b-supercot-GGUF"
   }
 ]
