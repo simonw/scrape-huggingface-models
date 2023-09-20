@@ -9241,7 +9241,7 @@
   {
     "_id": "64b6ce072edcb4a1aa820cbe",
     "id": "TheBloke/Llama-2-7b-Chat-GPTQ",
-    "likes": 135,
+    "likes": 136,
     "private": false,
     "downloads": 114713,
     "tags": [
@@ -14235,7 +14235,7 @@
   {
     "_id": "64e3bd312fbf570ac7fc1215",
     "id": "TheBloke/L2-MythoMax22b-Instruct-Falseblock-GPTQ",
-    "likes": 8,
+    "likes": 7,
     "private": false,
     "downloads": 972,
     "tags": [
@@ -30767,10 +30767,14 @@
   {
     "_id": "650b5c6eaa87a69ea38a702e",
     "id": "TheBloke/Xwin-LM-13B-V0.1-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Xwin-LM-13B-V0.1-GGUF"
@@ -30789,12 +30793,19 @@
   {
     "_id": "650b5c9512c086ce18b436ba",
     "id": "TheBloke/Xwin-LM-13B-V0.1-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Xwin-LM-13B-V0.1-AWQ"
   }
 ]
