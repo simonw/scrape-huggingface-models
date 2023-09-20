@@ -16842,7 +16842,7 @@
   {
     "_id": "64ef1b4c8647a33e7573b04f",
     "id": "TheBloke/Huginn-13B-v4.5-GGUF",
-    "likes": 4,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -18246,7 +18246,7 @@
   {
     "_id": "64f611cf6ad07ea81779ca15",
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
-    "likes": 37,
+    "likes": 38,
     "private": false,
     "downloads": 318,
     "tags": [
@@ -30786,8 +30786,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Xwin-LM-13B-V0.1-GPTQ"
   },
   {
