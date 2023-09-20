@@ -5635,7 +5635,7 @@
   {
     "_id": "649a1e3e6fc61f56edbfe5e4",
     "id": "TheBloke/guanaco-13B-SuperHOT-8K-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 22,
     "tags": [
@@ -13117,7 +13117,7 @@
   {
     "_id": "64d5e2dcabf475a808a24d42",
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
-    "likes": 64,
+    "likes": 65,
     "private": false,
     "downloads": 96022,
     "tags": [
@@ -17214,7 +17214,7 @@
   {
     "_id": "64f0787ba20e6096c6ab97f9",
     "id": "TheBloke/MythoMax-L2-Kimiko-v2-13B-GPTQ",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 260,
     "tags": [
@@ -28458,6 +28458,13 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:ehartford/wizard_vicuna_70k_unfiltered",
+      "uncensored",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Wizard-Vicuna-30B-Uncensored-GGUF"
@@ -28469,8 +28476,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:ehartford/wizard_vicuna_70k_unfiltered",
+      "uncensored",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Wizard-Vicuna-30B-Uncensored-AWQ"
   },
   {
@@ -28500,8 +28517,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:ehartford/wizard_vicuna_70k_unfiltered",
+      "license:cc-by-nc-nd-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Uncensored-Frank-7B-GPTQ"
   },
   {
@@ -28641,8 +28667,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:ehartford/WizardLM_alpaca_evol_instruct_70k_unfiltered",
+      "uncensored",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/WizardLM-30B-uncensored-AWQ"
   },
   {
@@ -28711,8 +28746,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/WizardLM-33B-V1.0-Uncensored-AWQ"
   },
   {
@@ -28722,6 +28766,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:ehartford/wizard_vicuna_70k_unfiltered",
+      "license:cc-by-nc-nd-4.0",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Uncensored-Frank-13b-GGUF"
@@ -28733,6 +28783,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/WizardLM-7B-V1.0-Uncensored-GGUF"
@@ -28774,6 +28829,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/guanaco-13B-GGUF"
@@ -28799,5 +28858,164 @@
       "region:us"
     ],
     "modelId": "TheBloke/SuperPlatty-30B-AWQ"
+  },
+  {
+    "_id": "650a30b82feb9570c52ee8eb",
+    "id": "TheBloke/guanaco-33B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/guanaco-33B-GGUF"
+  },
+  {
+    "_id": "650a30c2d95f30b9dcf3cb82",
+    "id": "TheBloke/guanaco-33B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/guanaco-33B-AWQ"
+  },
+  {
+    "_id": "650a3165abdde5290e9a5bed",
+    "id": "TheBloke/guanaco-65B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/guanaco-65B-AWQ"
+  },
+  {
+    "_id": "650a316f6d2284f7325ec052",
+    "id": "TheBloke/guanaco-65B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/guanaco-65B-GGUF"
+  },
+  {
+    "_id": "650a3289623330a3a53c0740",
+    "id": "TheBloke/Uncensored-Frank-13b-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:ehartford/wizard_vicuna_70k_unfiltered",
+      "license:cc-by-nc-nd-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Uncensored-Frank-13b-AWQ"
+  },
+  {
+    "_id": "650a3289905c78a96a51d511",
+    "id": "TheBloke/Uncensored-Frank-13b-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Uncensored-Frank-13b-GPTQ"
+  },
+  {
+    "_id": "650a32db2257a3afbaf6c7ab",
+    "id": "TheBloke/guanaco-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/guanaco-7B-GGUF"
+  },
+  {
+    "_id": "650a32e6f02cb322e9356519",
+    "id": "TheBloke/guanaco-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/guanaco-7B-AWQ"
+  },
+  {
+    "_id": "650a3319abdde5290e9a93ca",
+    "id": "TheBloke/Uncensored-Frank-33b-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Uncensored-Frank-33b-GGUF"
+  },
+  {
+    "_id": "650a37b01aece923f20b1bc1",
+    "id": "TheBloke/upstage-llama-30b-instruct-2048-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/upstage-llama-30b-instruct-2048-AWQ"
+  },
+  {
+    "_id": "650a37ba6d2284f7325fa7b3",
+    "id": "TheBloke/upstage-llama-30b-instruct-2048-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/upstage-llama-30b-instruct-2048-GGUF"
+  },
+  {
+    "_id": "650a38b7d26103b6eed84a42",
+    "id": "TheBloke/Upstage-Llama1-65B-Instruct-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Upstage-Llama1-65B-Instruct-GGUF"
+  },
+  {
+    "_id": "650a38c1f02cb322e93639af",
+    "id": "TheBloke/Upstage-Llama1-65B-Instruct-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Upstage-Llama1-65B-Instruct-AWQ"
   }
 ]
