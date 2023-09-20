@@ -20976,7 +20976,7 @@
   {
     "_id": "64fbded739d541478efe19b0",
     "id": "TheBloke/Falcon-180B-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -30814,5 +30814,38 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Xwin-LM-13B-V0.1-AWQ"
+  },
+  {
+    "_id": "650b7124443b2a59d4d5633e",
+    "id": "TheBloke/MAmmoTH-Coder-34B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MAmmoTH-Coder-34B-AWQ"
+  },
+  {
+    "_id": "650b712ebe6db1ec212cf42f",
+    "id": "TheBloke/MAmmoTH-Coder-34B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MAmmoTH-Coder-34B-GPTQ"
+  },
+  {
+    "_id": "650b7177a27ba14323e5af95",
+    "id": "TheBloke/MAmmoTH-Coder-34B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MAmmoTH-Coder-34B-GGUF"
   }
 ]
