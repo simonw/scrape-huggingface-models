@@ -30744,5 +30744,57 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Falcon-180B-Chat-AWQ"
+  },
+  {
+    "_id": "650b5a19a74f76a6ac0e84fa",
+    "id": "TheBloke/StellarX-4B-V0.2-GPTQ",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "gpt_neox",
+      "text-generation",
+      "arxiv:2204.06745",
+      "license:cc-by-nc-sa-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/StellarX-4B-V0.2-GPTQ"
+  },
+  {
+    "_id": "650b5c6eaa87a69ea38a702e",
+    "id": "TheBloke/Xwin-LM-13B-V0.1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Xwin-LM-13B-V0.1-GGUF"
+  },
+  {
+    "_id": "650b5c8b012b87f7c9d5b6e8",
+    "id": "TheBloke/Xwin-LM-13B-V0.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Xwin-LM-13B-V0.1-GPTQ"
+  },
+  {
+    "_id": "650b5c9512c086ce18b436ba",
+    "id": "TheBloke/Xwin-LM-13B-V0.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Xwin-LM-13B-V0.1-AWQ"
   }
 ]
