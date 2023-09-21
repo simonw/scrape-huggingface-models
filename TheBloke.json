@@ -31113,8 +31113,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Buddy-7B-v0.2-GPTQ"
   },
   {
@@ -31146,8 +31153,24 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Airoboros-L2-70b-2.2.1-GGUF"
+  },
+  {
+    "_id": "650cc017cbd0c7d550c0fe43",
+    "id": "TheBloke/Airoboros-L2-70b-2.2.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-70b-2.2.1-AWQ"
   }
 ]
