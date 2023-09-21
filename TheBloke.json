@@ -15996,7 +15996,7 @@
   {
     "_id": "64ea296ce74f54587cc51cf5",
     "id": "TheBloke/Genz-70b-GPTQ",
-    "likes": 25,
+    "likes": 26,
     "private": false,
     "downloads": 5635,
     "tags": [
@@ -30938,7 +30938,7 @@
   {
     "_id": "650bf865dab7deefd4601b0f",
     "id": "TheBloke/Inkbot-13B-4k-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -30956,7 +30956,7 @@
   {
     "_id": "650bf86f11752eec307ce9f7",
     "id": "TheBloke/Inkbot-13B-4k-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -30974,7 +30974,7 @@
   {
     "_id": "650bf894dab7deefd460223a",
     "id": "TheBloke/Inkbot-13B-4k-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -31087,5 +31087,67 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Xwin-LM-70B-V0.1-AWQ"
+  },
+  {
+    "_id": "650cbbd0d231d98fc39bdb39",
+    "id": "TheBloke/Buddy-7B-v0.2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Buddy-7B-v0.2-AWQ"
+  },
+  {
+    "_id": "650cbbd0fb7a51088744dd05",
+    "id": "TheBloke/Buddy-7B-v0.2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Buddy-7B-v0.2-GPTQ"
+  },
+  {
+    "_id": "650cbbd3f1b6239760c74b24",
+    "id": "TheBloke/Airoboros-L2-70b-2.2.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-70b-2.2.1-GPTQ"
+  },
+  {
+    "_id": "650cbc09e2c7c01fc19cd65a",
+    "id": "TheBloke/Buddy-7B-v0.2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Buddy-7B-v0.2-GGUF"
+  },
+  {
+    "_id": "650cbdd8fc7c3a59dff5b4c2",
+    "id": "TheBloke/Airoboros-L2-70b-2.2.1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-70b-2.2.1-GGUF"
   }
 ]
