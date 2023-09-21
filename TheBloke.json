@@ -10042,7 +10042,7 @@
   {
     "_id": "64baf98faaccfd28b0209764",
     "id": "TheBloke/Nous-Hermes-Llama2-GPTQ",
-    "likes": 53,
+    "likes": 54,
     "private": false,
     "downloads": 4867,
     "tags": [
@@ -30921,8 +30921,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:TIGER-Lab/MathInstruct",
+      "arxiv:2309.05653",
+      "license:mit",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MAmmoTH-70B-GPTQ"
   }
 ]
