@@ -6341,7 +6341,7 @@
   {
     "_id": "649c96c01e502df8627f60d6",
     "id": "TheBloke/Manticore-13B-Chat-Pyg-Guanaco-SuperHOT-8K-GPTQ",
-    "likes": 16,
+    "likes": 15,
     "private": false,
     "downloads": 1407,
     "tags": [
@@ -9266,7 +9266,7 @@
   {
     "_id": "64b6d3eeab056b63ede8a758",
     "id": "TheBloke/Llama-2-13B-chat-GGML",
-    "likes": 583,
+    "likes": 584,
     "private": false,
     "downloads": 4712,
     "tags": [
@@ -19806,7 +19806,7 @@
   {
     "_id": "64f7a58c8a4c5c401d6b6328",
     "id": "TheBloke/Mythalion-13B-GPTQ",
-    "likes": 37,
+    "likes": 38,
     "private": false,
     "downloads": 1557,
     "tags": [
@@ -22436,7 +22436,7 @@
   {
     "_id": "6504535ca2b4f3c7f2a96f34",
     "id": "TheBloke/Synthia-70B-v1.2b-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -30847,6 +30847,10 @@
       "safetensors",
       "llama",
       "text-generation",
+      "en",
+      "dataset:TIGER-Lab/MathInstruct",
+      "arxiv:2309.05653",
+      "license:mit",
       "text-generation-inference",
       "region:us"
     ],
@@ -30888,5 +30892,27 @@
       "region:us"
     ],
     "modelId": "TheBloke/MAmmoTH-70B-GGUF"
+  },
+  {
+    "_id": "650b8256be6db1ec212f4b18",
+    "id": "TheBloke/MAmmoTH-70B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MAmmoTH-70B-AWQ"
+  },
+  {
+    "_id": "650b8260affb2713c2b3f3dc",
+    "id": "TheBloke/MAmmoTH-70B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MAmmoTH-70B-GPTQ"
   }
 ]
