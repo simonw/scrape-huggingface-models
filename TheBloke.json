@@ -899,7 +899,7 @@
   {
     "_id": "645f47cf6990e1208522b824",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
-    "likes": 231,
+    "likes": 232,
     "private": false,
     "downloads": 9344,
     "tags": [
@@ -9217,7 +9217,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 544,
+    "likes": 546,
     "private": false,
     "downloads": 8711,
     "tags": [
@@ -10835,7 +10835,7 @@
   {
     "_id": "64c4c285c097c6c2b39e4c56",
     "id": "TheBloke/MythoLogic-Mini-7B-GPTQ",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 59,
     "tags": [
@@ -31008,6 +31008,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Xwin-LM-70B-V0.1-GGUF"
@@ -31019,8 +31023,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Xwin-LM-7B-V0.1-AWQ"
   },
   {
@@ -31030,8 +31041,37 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Xwin-LM-7B-V0.1-GPTQ"
+  },
+  {
+    "_id": "650c03bf677f9e45963f00fb",
+    "id": "TheBloke/Xwin-LM-70B-V0.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Xwin-LM-70B-V0.1-GPTQ"
+  },
+  {
+    "_id": "650c03c9987b1ae4e520326f",
+    "id": "TheBloke/Xwin-LM-70B-V0.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Xwin-LM-70B-V0.1-AWQ"
   }
 ]
