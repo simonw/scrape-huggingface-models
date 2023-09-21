@@ -13333,7 +13333,7 @@
   {
     "_id": "64d7e1409a6a7ae984343660",
     "id": "TheBloke/OpenOrca-Platypus2-13B-GGML",
-    "likes": 52,
+    "likes": 51,
     "private": false,
     "downloads": 164,
     "tags": [
@@ -18222,7 +18222,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7b-Chat-GGUF",
-    "likes": 43,
+    "likes": 44,
     "private": false,
     "downloads": 648,
     "tags": [
@@ -20801,7 +20801,7 @@
   {
     "_id": "64fb1676b961d0d12c7fce3c",
     "id": "TheBloke/Chronos-Hermes-13b-v2-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 32,
     "tags": [
@@ -30352,7 +30352,7 @@
   {
     "_id": "650a592e19f6f953cb501ed2",
     "id": "TheBloke/WizardLM-Uncensored-SuperCOT-StoryTelling-30B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -31055,7 +31055,7 @@
   {
     "_id": "650c03bf677f9e45963f00fb",
     "id": "TheBloke/Xwin-LM-70B-V0.1-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -31070,8 +31070,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Xwin-LM-70B-V0.1-AWQ"
   }
 ]
