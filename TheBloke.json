@@ -19806,7 +19806,7 @@
   {
     "_id": "64f7a58c8a4c5c401d6b6328",
     "id": "TheBloke/Mythalion-13B-GPTQ",
-    "likes": 38,
+    "likes": 37,
     "private": false,
     "downloads": 1557,
     "tags": [
@@ -30900,8 +30900,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:TIGER-Lab/MathInstruct",
+      "arxiv:2309.05653",
+      "license:mit",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MAmmoTH-70B-AWQ"
   },
   {
