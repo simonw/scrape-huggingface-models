@@ -2035,7 +2035,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 352,
+    "likes": 353,
     "private": false,
     "downloads": 7128,
     "tags": [
@@ -5462,7 +5462,7 @@
   {
     "_id": "6499c4c193c480895d0a4a5a",
     "id": "TheBloke/chronos-33b-superhot-8k-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 16,
     "tags": [
@@ -10631,7 +10631,7 @@
   {
     "_id": "64c2c8575d95081bd2c69431",
     "id": "TheBloke/Nous-Hermes-Llama-2-7B-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 1304,
     "tags": [
@@ -21790,7 +21790,7 @@
   {
     "_id": "65009884af1e4021438723c4",
     "id": "TheBloke/Spicyboros-c34b-2.2-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 19,
     "tags": [
@@ -30934,5 +30934,41 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MAmmoTH-70B-GPTQ"
+  },
+  {
+    "_id": "650bf865dab7deefd4601b0f",
+    "id": "TheBloke/Inkbot-13B-4k-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Inkbot-13B-4k-GPTQ"
+  },
+  {
+    "_id": "650bf86f11752eec307ce9f7",
+    "id": "TheBloke/Inkbot-13B-4k-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Inkbot-13B-4k-AWQ"
+  },
+  {
+    "_id": "650bf894dab7deefd460223a",
+    "id": "TheBloke/Inkbot-13B-4k-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Inkbot-13B-4k-GGUF"
   }
 ]
