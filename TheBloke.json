@@ -899,7 +899,7 @@
   {
     "_id": "645f47cf6990e1208522b824",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
-    "likes": 230,
+    "likes": 231,
     "private": false,
     "downloads": 9344,
     "tags": [
@@ -28768,7 +28768,7 @@
   {
     "_id": "650a2d137ee07e274b50f7ac",
     "id": "TheBloke/Uncensored-Frank-13b-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -30942,8 +30942,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Inkbot-13B-4k-GPTQ"
   },
   {
@@ -30953,8 +30960,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Inkbot-13B-4k-AWQ"
   },
   {
@@ -30966,9 +30980,58 @@
     "tags": [
       "transformers",
       "llama",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Inkbot-13B-4k-GGUF"
+  },
+  {
+    "_id": "650bfac22ec41a31f322c1a5",
+    "id": "TheBloke/Xwin-LM-7B-V0.1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Xwin-LM-7B-V0.1-GGUF"
+  },
+  {
+    "_id": "650bfe3c78d2dfbad85e17a0",
+    "id": "TheBloke/Xwin-LM-70B-V0.1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Xwin-LM-70B-V0.1-GGUF"
+  },
+  {
+    "_id": "650bff438c70d4ad9e3036cc",
+    "id": "TheBloke/Xwin-LM-7B-V0.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Xwin-LM-7B-V0.1-AWQ"
+  },
+  {
+    "_id": "650bff4ea17882d7e093bb0b",
+    "id": "TheBloke/Xwin-LM-7B-V0.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Xwin-LM-7B-V0.1-GPTQ"
   }
 ]
