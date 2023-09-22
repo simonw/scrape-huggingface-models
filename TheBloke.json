@@ -26262,7 +26262,7 @@
   {
     "_id": "65097326cc02352e1e141e09",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -30003,7 +30003,7 @@
   {
     "_id": "650a50aef36bb51c50395453",
     "id": "TheBloke/airochronos-33B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -30767,7 +30767,7 @@
   {
     "_id": "650b5c6eaa87a69ea38a702e",
     "id": "TheBloke/Xwin-LM-13B-V0.1-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -30782,7 +30782,7 @@
   {
     "_id": "650b5c8b012b87f7c9d5b6e8",
     "id": "TheBloke/Xwin-LM-13B-V0.1-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -30989,7 +30989,7 @@
   {
     "_id": "650bfac22ec41a31f322c1a5",
     "id": "TheBloke/Xwin-LM-7B-V0.1-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -31131,8 +31131,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Airoboros-L2-70b-2.2.1-GPTQ"
   },
   {
