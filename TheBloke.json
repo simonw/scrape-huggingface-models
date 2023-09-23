@@ -9373,7 +9373,7 @@
   {
     "_id": "64b72139a00eab5bcddae33e",
     "id": "TheBloke/Llama-2-70B-chat-GPTQ",
-    "likes": 188,
+    "likes": 189,
     "private": false,
     "downloads": 38017,
     "tags": [
@@ -18222,7 +18222,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7b-Chat-GGUF",
-    "likes": 50,
+    "likes": 52,
     "private": false,
     "downloads": 648,
     "tags": [
@@ -20775,7 +20775,7 @@
   {
     "_id": "64fb0a84d82fc6977d6558a2",
     "id": "TheBloke/Falcon-180B-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -31146,7 +31146,7 @@
   {
     "_id": "650cbdd8fc7c3a59dff5b4c2",
     "id": "TheBloke/Airoboros-L2-70b-2.2.1-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -31615,8 +31615,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:TIGER-Lab/MathInstruct",
+      "arxiv:2309.05653",
+      "license:mit",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MAmmoTH-13B-GPTQ"
   },
   {
@@ -31657,5 +31667,65 @@
       "region:us"
     ],
     "modelId": "TheBloke/MAmmoTH-13B-GGUF"
+  },
+  {
+    "_id": "650f5e04544d7edd81373f2f",
+    "id": "TheBloke/MAmmoTH-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:TIGER-Lab/MathInstruct",
+      "arxiv:2309.05653",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/MAmmoTH-7B-GPTQ"
+  },
+  {
+    "_id": "650f5e048607fa78b02cedeb",
+    "id": "TheBloke/MAmmoTH-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:TIGER-Lab/MathInstruct",
+      "arxiv:2309.05653",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/MAmmoTH-7B-GGUF"
+  },
+  {
+    "_id": "650f5e0e544d7edd813740da",
+    "id": "TheBloke/MAmmoTH-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:TIGER-Lab/MathInstruct",
+      "arxiv:2309.05653",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/MAmmoTH-7B-AWQ"
   }
 ]
