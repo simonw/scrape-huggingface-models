@@ -31743,8 +31743,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Athena-v2-GPTQ"
   },
   {
@@ -31787,6 +31794,13 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "dataset:totally-not-an-llm/EverythingLM-data-V3",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:garage-bAInd/Open-Platypus",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/PuddleJumper-13B-V2-GGUF"
@@ -31798,8 +31812,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:totally-not-an-llm/EverythingLM-data-V3",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:garage-bAInd/Open-Platypus",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/PuddleJumper-13B-V2-AWQ"
   },
   {
@@ -31812,5 +31836,49 @@
       "region:us"
     ],
     "modelId": "TheBloke/PuddleJumper-13B-V2-GPTQ"
+  },
+  {
+    "_id": "650f69188d01590937d207e3",
+    "id": "TheBloke/MXLewd-L2-20B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/MXLewd-L2-20B-GGUF"
+  },
+  {
+    "_id": "650f692253b1e2d59e1e8e2f",
+    "id": "TheBloke/MXLewd-L2-20B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/MXLewd-L2-20B-AWQ"
+  },
+  {
+    "_id": "650f69eb8d01590937d2287d",
+    "id": "TheBloke/MXLewd-L2-20B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MXLewd-L2-20B-GPTQ"
   }
 ]
