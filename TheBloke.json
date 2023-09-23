@@ -2517,7 +2517,7 @@
   {
     "_id": "647c8e5360dfe0f35d51c6ba",
     "id": "TheBloke/airoboros-7b-gpt4-GGML",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -9119,7 +9119,7 @@
   {
     "_id": "64b6c6798f63c1ad2b13762a",
     "id": "TheBloke/Llama-2-7B-GGML",
-    "likes": 194,
+    "likes": 195,
     "private": false,
     "downloads": 1748,
     "tags": [
@@ -12283,7 +12283,7 @@
   {
     "_id": "64ce5b6c9cff7382034f7f6d",
     "id": "TheBloke/HermesLimaRP-L2-7B-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 117,
     "tags": [
@@ -12540,7 +12540,7 @@
   {
     "_id": "64d27f66afaeb11208e239a5",
     "id": "TheBloke/MythoMix-L2-13B-GGML",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 69,
     "tags": [
@@ -14756,7 +14756,7 @@
   {
     "_id": "64e711f614a7448ab95c7fc9",
     "id": "TheBloke/Nous-Hermes-Llama2-70B-GGUF",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -31037,7 +31037,7 @@
   {
     "_id": "650bff4ea17882d7e093bb0b",
     "id": "TheBloke/Xwin-LM-7B-V0.1-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -31527,7 +31527,7 @@
   {
     "_id": "650f4b6c544d7edd813533b9",
     "id": "TheBloke/EverythingLM-13B-V3-16K-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -31561,6 +31561,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/airoboros-l2-7B-2.2.1-GGUF"
@@ -31572,8 +31577,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/airoboros-l2-7B-2.2.1-AWQ"
   },
   {
@@ -31583,8 +31596,66 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/airoboros-l2-7B-2.2.1-GPTQ"
+  },
+  {
+    "_id": "650f570aed4cd83cd1235a01",
+    "id": "TheBloke/MAmmoTH-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MAmmoTH-13B-GPTQ"
+  },
+  {
+    "_id": "650f570bbe2dd282dcb37f93",
+    "id": "TheBloke/MAmmoTH-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:TIGER-Lab/MathInstruct",
+      "arxiv:2309.05653",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/MAmmoTH-13B-AWQ"
+  },
+  {
+    "_id": "650f57155877b1c07718d567",
+    "id": "TheBloke/MAmmoTH-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:TIGER-Lab/MathInstruct",
+      "arxiv:2309.05653",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/MAmmoTH-13B-GGUF"
   }
 ]
