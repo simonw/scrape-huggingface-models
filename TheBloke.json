@@ -31407,6 +31407,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/airoboros-c34b-2.2.1-GGUF"
@@ -31433,6 +31438,8 @@
       "safetensors",
       "llama",
       "text-generation",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
