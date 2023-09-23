@@ -405,7 +405,7 @@
   {
     "_id": "6448ceded16a70c0158ab35c",
     "id": "TheBloke/wizardLM-7B-HF",
-    "likes": 88,
+    "likes": 89,
     "private": false,
     "downloads": 4164,
     "tags": [
@@ -16361,7 +16361,7 @@
   {
     "_id": "64ed0427a79cf4a895eb53c9",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GPTQ",
-    "likes": 59,
+    "likes": 60,
     "private": false,
     "downloads": 4830,
     "tags": [
@@ -31531,8 +31531,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:totally-not-an-llm/EverythingLM-data-V3",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/EverythingLM-13B-V3-16K-GPTQ"
   },
   {
@@ -31727,5 +31735,82 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MAmmoTH-7B-AWQ"
+  },
+  {
+    "_id": "650f622bd3caed0dfe2e2f06",
+    "id": "TheBloke/Athena-v2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Athena-v2-GPTQ"
+  },
+  {
+    "_id": "650f622c1765bd51f4b9f6f6",
+    "id": "TheBloke/Athena-v2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Athena-v2-AWQ"
+  },
+  {
+    "_id": "650f6236a0f2ffbeca84c089",
+    "id": "TheBloke/Athena-v2-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Athena-v2-GGUF"
+  },
+  {
+    "_id": "650f67c4dba31194cb4bf263",
+    "id": "TheBloke/PuddleJumper-13B-V2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/PuddleJumper-13B-V2-GGUF"
+  },
+  {
+    "_id": "650f67ced3caed0dfe2ed792",
+    "id": "TheBloke/PuddleJumper-13B-V2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/PuddleJumper-13B-V2-AWQ"
+  },
+  {
+    "_id": "650f67d899fe56caa80f4e72",
+    "id": "TheBloke/PuddleJumper-13B-V2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/PuddleJumper-13B-V2-GPTQ"
   }
 ]
