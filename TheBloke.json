@@ -31313,7 +31313,7 @@
   {
     "_id": "650e2c27671604f140c01efd",
     "id": "TheBloke/ALMA-13B-Pretrain-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -31352,8 +31352,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2309.11674",
+      "license:mit",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/ALMA-13B-Pretrain-GPTQ"
   }
 ]
