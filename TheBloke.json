@@ -30782,7 +30782,7 @@
   {
     "_id": "650b5c8b012b87f7c9d5b6e8",
     "id": "TheBloke/Xwin-LM-13B-V0.1-GPTQ",
-    "likes": 10,
+    "likes": 9,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -31833,8 +31833,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:totally-not-an-llm/EverythingLM-data-V3",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:garage-bAInd/Open-Platypus",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/PuddleJumper-13B-V2-GPTQ"
   },
   {
@@ -31877,8 +31887,86 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MXLewd-L2-20B-GPTQ"
+  },
+  {
+    "_id": "650f7457d4e844fefdb51afc",
+    "id": "TheBloke/storytime-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/storytime-13B-GGUF"
+  },
+  {
+    "_id": "650f7461be2dd282dcb6edbb",
+    "id": "TheBloke/storytime-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/storytime-13B-AWQ"
+  },
+  {
+    "_id": "650f746c1765bd51f4bbeb5f",
+    "id": "TheBloke/storytime-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/storytime-13B-GPTQ"
+  },
+  {
+    "_id": "650f747811f3210cf7b386aa",
+    "id": "TheBloke/MXLewdMini-L2-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MXLewdMini-L2-13B-GGUF"
+  },
+  {
+    "_id": "650f7482f141bc34f92b471e",
+    "id": "TheBloke/MXLewdMini-L2-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MXLewdMini-L2-13B-AWQ"
+  },
+  {
+    "_id": "650f748d88cdfe73a86ff4c2",
+    "id": "TheBloke/MXLewdMini-L2-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MXLewdMini-L2-13B-GPTQ"
   }
 ]
