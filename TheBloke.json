@@ -13092,7 +13092,7 @@
   {
     "_id": "64d5e2dc3ca2924d6e61148a",
     "id": "TheBloke/MythoMax-L2-13B-GGML",
-    "likes": 67,
+    "likes": 68,
     "private": false,
     "downloads": 1251,
     "tags": [
@@ -13109,7 +13109,7 @@
   {
     "_id": "64d5e2dcabf475a808a24d42",
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
-    "likes": 65,
+    "likes": 66,
     "private": false,
     "downloads": 96022,
     "tags": [
@@ -30782,7 +30782,7 @@
   {
     "_id": "650b5c8b012b87f7c9d5b6e8",
     "id": "TheBloke/Xwin-LM-13B-V0.1-GPTQ",
-    "likes": 6,
+    "likes": 8,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -31177,5 +31177,183 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Airoboros-L2-70b-2.2.1-AWQ"
+  },
+  {
+    "_id": "650e2543871fed2307aea83f",
+    "id": "TheBloke/MLewd-ReMM-L2-Chat-20B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MLewd-ReMM-L2-Chat-20B-GPTQ"
+  },
+  {
+    "_id": "650e254c2a45730c3fccd4b8",
+    "id": "TheBloke/MLewd-ReMM-L2-Chat-20B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/MLewd-ReMM-L2-Chat-20B-GGUF"
+  },
+  {
+    "_id": "650e254e8607fa78b00ca897",
+    "id": "TheBloke/MLewd-ReMM-L2-Chat-20B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MLewd-ReMM-L2-Chat-20B-AWQ"
+  },
+  {
+    "_id": "650e26fa8f80c1165ccc1ceb",
+    "id": "TheBloke/MLewd-ReMM-L2-Chat-20B-Inverted-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MLewd-ReMM-L2-Chat-20B-Inverted-AWQ"
+  },
+  {
+    "_id": "650e2704469c325dc48e2c17",
+    "id": "TheBloke/MLewd-ReMM-L2-Chat-20B-Inverted-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MLewd-ReMM-L2-Chat-20B-Inverted-GPTQ"
+  },
+  {
+    "_id": "650e2790469c325dc48e3a1a",
+    "id": "TheBloke/MLewd-ReMM-L2-Chat-20B-Inverted-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/MLewd-ReMM-L2-Chat-20B-Inverted-GGUF"
+  },
+  {
+    "_id": "650e27bee14eeb01d4350561",
+    "id": "TheBloke/ALMA-7B-Pretrain-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2309.11674",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/ALMA-7B-Pretrain-GPTQ"
+  },
+  {
+    "_id": "650e27c881204fcae4df0fdb",
+    "id": "TheBloke/ALMA-7B-Pretrain-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2309.11674",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/ALMA-7B-Pretrain-AWQ"
+  },
+  {
+    "_id": "650e2a32dc509ae7d7a7e6d8",
+    "id": "TheBloke/ALMA-7B-Pretrain-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "arxiv:2309.11674",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/ALMA-7B-Pretrain-GGUF"
+  },
+  {
+    "_id": "650e2c27671604f140c01efd",
+    "id": "TheBloke/ALMA-13B-Pretrain-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "arxiv:2309.11674",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/ALMA-13B-Pretrain-GGUF"
+  },
+  {
+    "_id": "650e2c2e007ea5dd9dd6a1fc",
+    "id": "TheBloke/ALMA-13B-Pretrain-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2309.11674",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/ALMA-13B-Pretrain-AWQ"
+  },
+  {
+    "_id": "650e2c381765bd51f49597df",
+    "id": "TheBloke/ALMA-13B-Pretrain-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/ALMA-13B-Pretrain-GPTQ"
   }
 ]
