@@ -32162,8 +32162,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MetaMath-7B-V1.0-AWQ"
   },
   {
@@ -32173,8 +32180,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MetaMath-7B-V1.0-GPTQ"
   },
   {
@@ -32191,5 +32205,55 @@
       "region:us"
     ],
     "modelId": "TheBloke/MetaMath-7B-V1.0-GGUF"
+  },
+  {
+    "_id": "650fabb311f3210cf7b906a6",
+    "id": "TheBloke/Synthia-13B-v1.2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "arxiv:2306.02707",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Synthia-13B-v1.2-AWQ"
+  },
+  {
+    "_id": "650fabbe8f80c1165cf9edad",
+    "id": "TheBloke/Synthia-13B-v1.2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "arxiv:2306.02707",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Synthia-13B-v1.2-GGUF"
+  },
+  {
+    "_id": "650fabc888cdfe73a87559bd",
+    "id": "TheBloke/Synthia-13B-v1.2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Synthia-13B-v1.2-GPTQ"
   }
 ]
