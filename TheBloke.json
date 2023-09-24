@@ -14699,7 +14699,7 @@
   {
     "_id": "64e6673c0df4c63f21cb3933",
     "id": "TheBloke/PuddleJumper-13B-GGUF",
-    "likes": 19,
+    "likes": 18,
     "private": false,
     "downloads": 13,
     "tags": [
@@ -18172,7 +18172,7 @@
   {
     "_id": "64f3050ceb5f2982081cb828",
     "id": "TheBloke/OpenBuddy-Llama2-13B-v11.1-GGUF",
-    "likes": 16,
+    "likes": 15,
     "private": false,
     "downloads": 53,
     "tags": [
@@ -18578,7 +18578,7 @@
   {
     "_id": "64f6b6d929587d154184350c",
     "id": "TheBloke/Stable-Platypus2-13B-GGUF",
-    "likes": 2,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -19627,7 +19627,7 @@
   {
     "_id": "64f78ca5fe57e7455a7e6033",
     "id": "TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 18,
     "tags": [
@@ -30782,7 +30782,7 @@
   {
     "_id": "650b5c8b012b87f7c9d5b6e8",
     "id": "TheBloke/Xwin-LM-13B-V0.1-GPTQ",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -31790,7 +31790,7 @@
   {
     "_id": "650f67c4dba31194cb4bf263",
     "id": "TheBloke/PuddleJumper-13B-V2-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -32144,8 +32144,52 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MetaMath-70B-V1.0-GPTQ"
+  },
+  {
+    "_id": "650fa6e1e14eeb01d460a846",
+    "id": "TheBloke/MetaMath-7B-V1.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MetaMath-7B-V1.0-AWQ"
+  },
+  {
+    "_id": "650fa6eb55dc1e8417625e0c",
+    "id": "TheBloke/MetaMath-7B-V1.0-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MetaMath-7B-V1.0-GPTQ"
+  },
+  {
+    "_id": "650fa6f5007ea5dd9d00f685",
+    "id": "TheBloke/MetaMath-7B-V1.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/MetaMath-7B-V1.0-GGUF"
   }
 ]
