@@ -2035,7 +2035,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 358,
+    "likes": 360,
     "private": false,
     "downloads": 7128,
     "tags": [
@@ -32418,8 +32418,23 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "zh",
+      "en",
+      "fr",
+      "de",
+      "ja",
+      "ko",
+      "it",
+      "ru",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/openbuddy-llama2-34b-v11.1-bf16-AWQ"
   },
   {
@@ -32440,8 +32455,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "zh",
+      "en",
+      "fr",
+      "de",
+      "ja",
+      "ko",
+      "it",
+      "ru",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/openbuddy-llama2-34b-v11.1-bf16-GGUF"
   }
 ]
