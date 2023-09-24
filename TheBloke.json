@@ -9217,7 +9217,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 550,
+    "likes": 551,
     "private": false,
     "downloads": 8711,
     "tags": [
@@ -13009,7 +13009,7 @@
   {
     "_id": "64d5615179d99b87001502e4",
     "id": "TheBloke/Platypus2-70B-Instruct-GPTQ",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 8443,
     "tags": [
@@ -18769,7 +18769,7 @@
   {
     "_id": "64f6fae5b548e18c7f5d1492",
     "id": "TheBloke/WizardLM-13B-V1.2-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -22749,7 +22749,7 @@
   {
     "_id": "6505bf1a18f9c580cd9c50b3",
     "id": "TheBloke/TigerBot-70B-Chat-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -29207,7 +29207,7 @@
   {
     "_id": "650a41482e4bbde41822f856",
     "id": "TheBloke/WizardLM-13B-V1.1-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -32079,8 +32079,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:TIGER-Lab/MathInstruct",
+      "arxiv:2309.05653",
+      "license:mit",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MAmmoTH-Coder-13B-GPTQ"
   },
   {
