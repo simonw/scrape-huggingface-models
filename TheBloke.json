@@ -17656,7 +17656,7 @@
   {
     "_id": "64f255d94cbe1bb73d5ec86e",
     "id": "TheBloke/Airoboros-33B-2.1-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 35,
     "tags": [
@@ -17676,7 +17676,7 @@
   {
     "_id": "64f255e9246315a9456f567c",
     "id": "TheBloke/Airoboros-33B-2.1-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 55,
     "tags": [
@@ -32444,8 +32444,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/openbuddy-llama2-34b-v11.1-bf16-GPTQ"
   },
   {
