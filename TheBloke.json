@@ -17206,7 +17206,7 @@
   {
     "_id": "64f0787ba20e6096c6ab97f9",
     "id": "TheBloke/MythoMax-L2-Kimiko-v2-13B-GPTQ",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 260,
     "tags": [
@@ -22834,7 +22834,7 @@
   {
     "_id": "65060b7c14302b1d76a394e9",
     "id": "TheBloke/MLewd-L2-Chat-13B-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -32122,6 +32122,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/MetaMath-70B-V1.0-GGUF"
