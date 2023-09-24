@@ -11516,7 +11516,7 @@
   {
     "_id": "64cb5e611f8a37e3ed3e927a",
     "id": "TheBloke/vicuna-13B-v1.5-16K-GPTQ",
-    "likes": 26,
+    "likes": 27,
     "private": false,
     "downloads": 4135,
     "tags": [
@@ -15009,7 +15009,7 @@
   {
     "_id": "64e78cdac3b2443fb30b9dda",
     "id": "TheBloke/CodeLlama-7B-Instruct-GGUF",
-    "likes": 48,
+    "likes": 49,
     "private": false,
     "downloads": 306,
     "tags": [
@@ -18453,7 +18453,7 @@
   {
     "_id": "64f6a23433753a192d84ca08",
     "id": "TheBloke/vicuna-13B-v1.5-16K-GGUF",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 11,
     "tags": [
@@ -30800,7 +30800,7 @@
   {
     "_id": "650b5c9512c086ce18b436ba",
     "id": "TheBloke/Xwin-LM-13B-V0.1-AWQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -31757,7 +31757,7 @@
   {
     "_id": "650f622c1765bd51f4b9f6f6",
     "id": "TheBloke/Athena-v2-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -31970,7 +31970,7 @@
   {
     "_id": "650f7482f141bc34f92b471e",
     "id": "TheBloke/MXLewdMini-L2-13B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -32043,8 +32043,98 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MetaMath-13B-V1.0-GPTQ"
+  },
+  {
+    "_id": "650f8211e14eeb01d45bccd6",
+    "id": "TheBloke/MAmmoTH-Coder-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:TIGER-Lab/MathInstruct",
+      "arxiv:2309.05653",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/MAmmoTH-Coder-13B-GGUF"
+  },
+  {
+    "_id": "650f821b9d93eec4a7484565",
+    "id": "TheBloke/MAmmoTH-Coder-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MAmmoTH-Coder-13B-GPTQ"
+  },
+  {
+    "_id": "650f8225dcfa9d24c522f789",
+    "id": "TheBloke/MAmmoTH-Coder-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:TIGER-Lab/MathInstruct",
+      "arxiv:2309.05653",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/MAmmoTH-Coder-13B-AWQ"
+  },
+  {
+    "_id": "650f846e076b6734579d9284",
+    "id": "TheBloke/MetaMath-70B-V1.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MetaMath-70B-V1.0-AWQ"
+  },
+  {
+    "_id": "650f846e871fed2307d5f13a",
+    "id": "TheBloke/MetaMath-70B-V1.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MetaMath-70B-V1.0-GGUF"
+  },
+  {
+    "_id": "650f84789d93eec4a7487af8",
+    "id": "TheBloke/MetaMath-70B-V1.0-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MetaMath-70B-V1.0-GPTQ"
   }
 ]
