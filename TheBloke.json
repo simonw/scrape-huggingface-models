@@ -32323,5 +32323,52 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Synthia-7B-v1.2-GPTQ"
+  },
+  {
+    "_id": "650fb7116620b0c57e463aa8",
+    "id": "TheBloke/openbuddy-coder-34b-v11-bf16-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/openbuddy-coder-34b-v11-bf16-AWQ"
+  },
+  {
+    "_id": "650fb71b8f3228d807965416",
+    "id": "TheBloke/openbuddy-coder-34b-v11-bf16-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "zh",
+      "en",
+      "fr",
+      "de",
+      "ja",
+      "ko",
+      "it",
+      "ru",
+      "license:llama2",
+      "text-generation",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/openbuddy-coder-34b-v11-bf16-GGUF"
+  },
+  {
+    "_id": "650fb725463e7e33e9810090",
+    "id": "TheBloke/openbuddy-coder-34b-v11-bf16-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/openbuddy-coder-34b-v11-bf16-GPTQ"
   }
 ]
