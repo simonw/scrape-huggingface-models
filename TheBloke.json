@@ -2035,7 +2035,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 364,
+    "likes": 365,
     "private": false,
     "downloads": 7128,
     "tags": [
@@ -18453,7 +18453,7 @@
   {
     "_id": "64f6a23433753a192d84ca08",
     "id": "TheBloke/vicuna-13B-v1.5-16K-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 11,
     "tags": [
@@ -22769,7 +22769,7 @@
   {
     "_id": "6505bf7a383b7e031f85c414",
     "id": "TheBloke/WizardCoder-Python-7B-V1.0-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -32506,6 +32506,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "arxiv:2302.13971",
+      "arxiv:2306.05685",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/vicuna-33B-GGUF"
