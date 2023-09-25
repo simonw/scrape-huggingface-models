@@ -736,7 +736,7 @@
     "id": "TheBloke/dromedary-65b-lora-HF",
     "likes": 19,
     "private": false,
-    "downloads": 1510,
+    "downloads": 2481,
     "tags": [
       "transformers",
       "pytorch",
@@ -755,7 +755,7 @@
     "id": "TheBloke/h2ogpt-oasst1-512-30B-GPTQ",
     "likes": 5,
     "private": false,
-    "downloads": 28,
+    "downloads": 20,
     "tags": [
       "transformers",
       "safetensors",
@@ -809,7 +809,7 @@
     "id": "TheBloke/h2ogpt-oasst1-512-30B-HF",
     "likes": 2,
     "private": false,
-    "downloads": 1502,
+    "downloads": 2478,
     "tags": [
       "transformers",
       "pytorch",
@@ -846,7 +846,7 @@
     "id": "TheBloke/gpt4-alpaca-lora_mlp-65B-HF",
     "likes": 7,
     "private": false,
-    "downloads": 1858,
+    "downloads": 2921,
     "tags": [
       "transformers",
       "pytorch",
@@ -867,7 +867,7 @@
     "id": "TheBloke/gpt4-alpaca-lora_mlp-65B-GPTQ",
     "likes": 13,
     "private": false,
-    "downloads": 21624,
+    "downloads": 21651,
     "tags": [
       "transformers",
       "safetensors",
@@ -901,7 +901,7 @@
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
     "likes": 233,
     "private": false,
-    "downloads": 9344,
+    "downloads": 12301,
     "tags": [
       "transformers",
       "safetensors",
@@ -923,7 +923,7 @@
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-HF",
     "likes": 196,
     "private": false,
-    "downloads": 3553,
+    "downloads": 3990,
     "tags": [
       "transformers",
       "pytorch",
@@ -965,7 +965,7 @@
     "id": "TheBloke/wizard-mega-13B-GPTQ",
     "likes": 101,
     "private": false,
-    "downloads": 1787,
+    "downloads": 2567,
     "tags": [
       "transformers",
       "safetensors",
@@ -1013,7 +1013,7 @@
     "id": "TheBloke/VicUnlocked-30B-LoRA-GPTQ",
     "likes": 18,
     "private": false,
-    "downloads": 17,
+    "downloads": 23,
     "tags": [
       "transformers",
       "safetensors",
@@ -1032,7 +1032,7 @@
     "id": "TheBloke/VicUnlocked-30B-LoRA-HF",
     "likes": 1,
     "private": false,
-    "downloads": 1501,
+    "downloads": 2478,
     "tags": [
       "transformers",
       "pytorch",
@@ -1052,7 +1052,7 @@
     "id": "TheBloke/LLaMa-7B-GGML",
     "likes": 55,
     "private": false,
-    "downloads": 78,
+    "downloads": 64,
     "tags": [
       "transformers",
       "llama",
@@ -1068,7 +1068,7 @@
     "id": "TheBloke/LLaMa-13B-GGML",
     "likes": 19,
     "private": false,
-    "downloads": 32,
+    "downloads": 20,
     "tags": [
       "transformers",
       "llama",
@@ -1083,7 +1083,7 @@
     "id": "TheBloke/LLaMa-30B-GGML",
     "likes": 22,
     "private": false,
-    "downloads": 5,
+    "downloads": 8,
     "tags": [
       "transformers",
       "llama",
@@ -1098,7 +1098,7 @@
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ",
     "likes": 77,
     "private": false,
-    "downloads": 453158,
+    "downloads": 473646,
     "tags": [
       "transformers",
       "safetensors",
@@ -1133,7 +1133,7 @@
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-HF",
     "likes": 19,
     "private": false,
-    "downloads": 2209,
+    "downloads": 3237,
     "tags": [
       "transformers",
       "pytorch",
@@ -1184,7 +1184,7 @@
     "id": "TheBloke/MPT-7B-Instruct-GGML",
     "likes": 27,
     "private": false,
-    "downloads": 38,
+    "downloads": 27,
     "tags": [
       "transformers",
       "mpt",
@@ -1206,7 +1206,7 @@
     "id": "TheBloke/MPT-7B-Storywriter-GGML",
     "likes": 45,
     "private": false,
-    "downloads": 28,
+    "downloads": 25,
     "tags": [
       "transformers",
       "mpt",
@@ -1240,7 +1240,7 @@
     "id": "TheBloke/Manticore-13B-GPTQ",
     "likes": 36,
     "private": false,
-    "downloads": 50,
+    "downloads": 37,
     "tags": [
       "transformers",
       "safetensors",
@@ -1300,7 +1300,7 @@
     "id": "TheBloke/WizardLM-30B-Uncensored-GPTQ",
     "likes": 105,
     "private": false,
-    "downloads": 2697,
+    "downloads": 3251,
     "tags": [
       "transformers",
       "safetensors",
@@ -31936,7 +31936,7 @@
   {
     "_id": "650f746c1765bd51f4bbeb5f",
     "id": "TheBloke/storytime-13B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
