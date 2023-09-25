@@ -9527,7 +9527,7 @@
   {
     "_id": "64b847a62f796fffbbeccb7a",
     "id": "TheBloke/Luna-AI-Llama2-Uncensored-GPTQ",
-    "likes": 70,
+    "likes": 71,
     "private": false,
     "downloads": 763,
     "tags": [
@@ -16339,7 +16339,7 @@
   {
     "_id": "64eb8c012beaa8c4106ee91f",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GGUF",
-    "likes": 27,
+    "likes": 28,
     "private": false,
     "downloads": 95,
     "tags": [
@@ -20114,7 +20114,7 @@
   {
     "_id": "64f7e1e52003abb61b01850e",
     "id": "TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -32487,5 +32487,27 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/openbuddy-llama2-34b-v11.1-bf16-GGUF"
+  },
+  {
+    "_id": "6511ae6d446eba391ba97bec",
+    "id": "TheBloke/vicuna-33B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/vicuna-33B-AWQ"
+  },
+  {
+    "_id": "6511ae8b5b4590211de0a25a",
+    "id": "TheBloke/vicuna-33B-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/vicuna-33B-GGUF"
   }
 ]
