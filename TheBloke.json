@@ -37,7 +37,7 @@
     "id": "TheBloke/koala-7B-GPTQ",
     "likes": 31,
     "private": false,
-    "downloads": 42,
+    "downloads": 35,
     "tags": [
       "transformers",
       "safetensors",
@@ -55,7 +55,7 @@
     "id": "TheBloke/koala-7B-HF",
     "likes": 18,
     "private": false,
-    "downloads": 1587,
+    "downloads": 2698,
     "tags": [
       "transformers",
       "pytorch",
@@ -79,7 +79,7 @@
     "id": "TheBloke/koala-13B-HF",
     "likes": 40,
     "private": false,
-    "downloads": 2688,
+    "downloads": 3441,
     "tags": [
       "transformers",
       "pytorch",
@@ -103,7 +103,7 @@
     "id": "TheBloke/koala-13B-GPTQ",
     "likes": 38,
     "private": false,
-    "downloads": 27,
+    "downloads": 24,
     "tags": [
       "transformers",
       "pytorch",
@@ -146,7 +146,7 @@
     "id": "TheBloke/galpaca-30B-GPTQ",
     "likes": 49,
     "private": false,
-    "downloads": 72,
+    "downloads": 76,
     "tags": [
       "transformers",
       "opt",
@@ -166,7 +166,7 @@
     "id": "TheBloke/vicuna-7B-v0-GPTQ",
     "likes": 15,
     "private": false,
-    "downloads": 239,
+    "downloads": 91,
     "tags": [
       "transformers",
       "pytorch",
@@ -185,7 +185,7 @@
     "id": "TheBloke/vicuna-13B-1.1-GPTQ",
     "likes": 205,
     "private": false,
-    "downloads": 379,
+    "downloads": 365,
     "tags": [
       "transformers",
       "llama",
@@ -203,7 +203,7 @@
     "id": "TheBloke/vicuna-7B-1.1-GPTQ",
     "likes": 57,
     "private": false,
-    "downloads": 87,
+    "downloads": 37,
     "tags": [
       "transformers",
       "llama",
@@ -9446,7 +9446,7 @@
   {
     "_id": "64b748a6964f6e7bf3266155",
     "id": "TheBloke/Llama-2-70B-Chat-fp16",
-    "likes": 38,
+    "likes": 39,
     "private": false,
     "downloads": 2817,
     "tags": [
@@ -20659,7 +20659,7 @@
   {
     "_id": "64fad258fa6446542256a42c",
     "id": "TheBloke/Guanaco-7B-Uncensored-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -22388,7 +22388,7 @@
   {
     "_id": "650380d1c0620ed4bd10ca72",
     "id": "TheBloke/CodeFuse-CodeLlama-34B-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -24332,7 +24332,7 @@
   {
     "_id": "6509250bf99720fea120d4c6",
     "id": "TheBloke/vicuna-7B-v1.5-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -26262,7 +26262,7 @@
   {
     "_id": "65097326cc02352e1e141e09",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-AWQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -28487,7 +28487,7 @@
   {
     "_id": "650a2986ce83a0c12aa11ec9",
     "id": "TheBloke/Uncensored-Frank-7B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -30053,7 +30053,7 @@
   {
     "_id": "650a532f61c4bb463619009b",
     "id": "TheBloke/Vicuna-7B-CoT-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
