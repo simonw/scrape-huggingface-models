@@ -439,7 +439,7 @@
     "id": "TheBloke/wizardLM-7B-GPTQ",
     "likes": 104,
     "private": false,
-    "downloads": 1838,
+    "downloads": 1561,
     "tags": [
       "transformers",
       "safetensors",
@@ -458,7 +458,7 @@
     "id": "TheBloke/stable-vicuna-13B-HF",
     "likes": 95,
     "private": false,
-    "downloads": 2917,
+    "downloads": 3896,
     "tags": [
       "transformers",
       "pytorch",
@@ -497,7 +497,7 @@
     "id": "TheBloke/stable-vicuna-13B-GPTQ",
     "likes": 215,
     "private": false,
-    "downloads": 516,
+    "downloads": 392,
     "tags": [
       "transformers",
       "safetensors",
@@ -522,7 +522,7 @@
     "id": "TheBloke/OpenAssistant-SFT-7-Llama-30B-HF",
     "likes": 13,
     "private": false,
-    "downloads": 1625,
+    "downloads": 2615,
     "tags": [
       "transformers",
       "pytorch",
@@ -555,7 +555,7 @@
     "id": "TheBloke/OpenAssistant-SFT-7-Llama-30B-GPTQ",
     "likes": 34,
     "private": false,
-    "downloads": 45,
+    "downloads": 8,
     "tags": [
       "transformers",
       "safetensors",
@@ -587,7 +587,7 @@
     "id": "TheBloke/wizard-vicuna-13B-GPTQ",
     "likes": 99,
     "private": false,
-    "downloads": 2121,
+    "downloads": 2640,
     "tags": [
       "transformers",
       "safetensors",
@@ -608,7 +608,7 @@
     "id": "TheBloke/wizard-vicuna-13B-HF",
     "likes": 48,
     "private": false,
-    "downloads": 1731,
+    "downloads": 2581,
     "tags": [
       "transformers",
       "pytorch",
@@ -641,7 +641,7 @@
     "id": "TheBloke/WizardLM-7B-uncensored-GPTQ",
     "likes": 149,
     "private": false,
-    "downloads": 6300,
+    "downloads": 5392,
     "tags": [
       "transformers",
       "safetensors",
@@ -662,7 +662,7 @@
     "id": "TheBloke/GPT4All-13B-snoozy-GPTQ",
     "likes": 28,
     "private": false,
-    "downloads": 68,
+    "downloads": 46,
     "tags": [
       "transformers",
       "safetensors",
@@ -694,7 +694,7 @@
     "id": "TheBloke/gpt4-x-vicuna-13B-GPTQ",
     "likes": 34,
     "private": false,
-    "downloads": 281,
+    "downloads": 229,
     "tags": [
       "transformers",
       "safetensors",
@@ -2035,7 +2035,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 366,
+    "likes": 367,
     "private": false,
     "downloads": 7128,
     "tags": [
@@ -14988,7 +14988,7 @@
   {
     "_id": "64e786abb81ed1012fc43070",
     "id": "TheBloke/CodeLlama-7B-fp16",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 1654,
     "tags": [
