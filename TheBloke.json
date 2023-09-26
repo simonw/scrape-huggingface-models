@@ -18779,7 +18779,8 @@
       "arxiv:2308.09583",
       "license:llama2",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/WizardLM-13B-V1.2-GGUF"
   },
