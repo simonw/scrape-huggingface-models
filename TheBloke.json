@@ -32586,14 +32586,23 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "gpt_bigcode",
+      "text-generation",
+      "code",
+      "en",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/sqlcoder-GPTQ"
   },
   {
     "_id": "6513f263cc7684c9e422acef",
     "id": "TheBloke/sqlcoder-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -32607,5 +32616,49 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/sqlcoder-GGUF"
+  },
+  {
+    "_id": "65140976463a06ab1c5d13ca",
+    "id": "TheBloke/Qwen-14B-Chat-GPTQ",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Qwen-14B-Chat-GPTQ"
+  },
+  {
+    "_id": "65140cda51c0141fa86b7d8b",
+    "id": "TheBloke/U-Amethyst-20B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/U-Amethyst-20B-GGUF"
+  },
+  {
+    "_id": "65140ce4a4f26dcd601a2c82",
+    "id": "TheBloke/U-Amethyst-20B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/U-Amethyst-20B-AWQ"
+  },
+  {
+    "_id": "65140ceedbb1fb6b0495f86f",
+    "id": "TheBloke/U-Amethyst-20B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/U-Amethyst-20B-GPTQ"
   }
 ]
