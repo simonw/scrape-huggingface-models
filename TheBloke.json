@@ -392,9 +392,9 @@
       "safetensors",
       "llama",
       "text-generation",
+      "medical",
       "en",
       "arxiv:2303.14070",
-      "medical",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -593,8 +593,8 @@
       "safetensors",
       "llama",
       "text-generation",
-      "en",
       "causal-lm",
+      "en",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -647,8 +647,8 @@
       "safetensors",
       "llama",
       "text-generation",
-      "dataset:ehartford/WizardLM_alpaca_evol_instruct_70k_unfiltered",
       "uncensored",
+      "dataset:ehartford/WizardLM_alpaca_evol_instruct_70k_unfiltered",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -907,9 +907,9 @@
       "safetensors",
       "llama",
       "text-generation",
+      "uncensored",
       "en",
       "dataset:ehartford/wizard_vicuna_70k_unfiltered",
-      "uncensored",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -1104,9 +1104,9 @@
       "safetensors",
       "llama",
       "text-generation",
+      "uncensored",
       "en",
       "dataset:ehartford/wizard_vicuna_70k_unfiltered",
-      "uncensored",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -1306,8 +1306,8 @@
       "safetensors",
       "llama",
       "text-generation",
-      "dataset:ehartford/WizardLM_alpaca_evol_instruct_70k_unfiltered",
       "uncensored",
+      "dataset:ehartford/WizardLM_alpaca_evol_instruct_70k_unfiltered",
       "license:other",
       "has_space",
       "text-generation-inference",
@@ -31004,7 +31004,7 @@
   {
     "_id": "650bfe3c78d2dfbad85e17a0",
     "id": "TheBloke/Xwin-LM-70B-V0.1-GGUF",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 23,
     "tags": [
@@ -32620,7 +32620,7 @@
   {
     "_id": "65140976463a06ab1c5d13ca",
     "id": "TheBloke/Qwen-14B-Chat-GPTQ",
-    "likes": 2,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -32668,12 +32668,21 @@
   {
     "_id": "65140ceedbb1fb6b0495f86f",
     "id": "TheBloke/U-Amethyst-20B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/U-Amethyst-20B-GPTQ"
   }
 ]
