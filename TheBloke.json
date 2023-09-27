@@ -21228,7 +21228,7 @@
   {
     "_id": "64fe2c8b1ac56bee85de01ab",
     "id": "TheBloke/MLewdBoros-L2-13B-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 60,
     "tags": [
@@ -31055,7 +31055,7 @@
   {
     "_id": "650c03bf677f9e45963f00fb",
     "id": "TheBloke/Xwin-LM-70B-V0.1-GPTQ",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 1055,
     "tags": [
@@ -32524,5 +32524,59 @@
       "region:us"
     ],
     "modelId": "TheBloke/vicuna-33B-GGUF"
+  },
+  {
+    "_id": "6513ea60584d106e62968bf3",
+    "id": "TheBloke/law-LLM-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "arxiv:2309.09530",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/law-LLM-GGUF"
+  },
+  {
+    "_id": "6513ea6ab7994cff61f3dd5b",
+    "id": "TheBloke/law-LLM-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2309.09530",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/law-LLM-AWQ"
+  },
+  {
+    "_id": "6513ea746de9c503f31117d1",
+    "id": "TheBloke/law-LLM-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2309.09530",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/law-LLM-GPTQ"
   }
 ]
