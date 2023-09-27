@@ -19111,7 +19111,7 @@
   {
     "_id": "64f7451182673b2a07ae1103",
     "id": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GGUF",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 69,
     "tags": [
@@ -22937,7 +22937,7 @@
   {
     "_id": "6507fc50a226ecc608fa1425",
     "id": "TheBloke/llama2_7b_chat_uncensored-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 22,
     "tags": [
@@ -27271,7 +27271,7 @@
   {
     "_id": "650995372c804aed59d54b4e",
     "id": "TheBloke/Speechless-Llama2-Hermes-Orca-Platypus-WizardLM-13B-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -32597,8 +32597,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "starcoder",
+      "code",
+      "text-generation",
+      "en",
+      "license:other",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/sqlcoder-GGUF"
   }
 ]
