@@ -9337,7 +9337,7 @@
   {
     "_id": "64b6e916e16424ef9e032a2f",
     "id": "TheBloke/Llama-2-13B-Chat-fp16",
-    "likes": 52,
+    "likes": 53,
     "private": false,
     "downloads": 12537,
     "tags": [
@@ -22199,7 +22199,7 @@
   {
     "_id": "6502f15c2cec4c6d94f82b25",
     "id": "TheBloke/Marcoroni-70B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 11,
     "tags": [
@@ -30018,7 +30018,7 @@
   {
     "_id": "650a51bb6fb511ba9ea5ab99",
     "id": "TheBloke/Vicuna-13B-CoT-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -32620,7 +32620,7 @@
   {
     "_id": "65140976463a06ab1c5d13ca",
     "id": "TheBloke/Qwen-14B-Chat-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -32635,6 +32635,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/U-Amethyst-20B-GGUF"
@@ -32646,8 +32652,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/U-Amethyst-20B-AWQ"
   },
   {
