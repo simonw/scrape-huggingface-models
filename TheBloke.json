@@ -37,7 +37,7 @@
     "id": "TheBloke/koala-7B-GPTQ",
     "likes": 31,
     "private": false,
-    "downloads": 35,
+    "downloads": 30,
     "tags": [
       "transformers",
       "safetensors",
@@ -55,7 +55,7 @@
     "id": "TheBloke/koala-7B-HF",
     "likes": 18,
     "private": false,
-    "downloads": 2698,
+    "downloads": 2802,
     "tags": [
       "transformers",
       "pytorch",
@@ -79,7 +79,7 @@
     "id": "TheBloke/koala-13B-HF",
     "likes": 40,
     "private": false,
-    "downloads": 3441,
+    "downloads": 3669,
     "tags": [
       "transformers",
       "pytorch",
@@ -103,7 +103,7 @@
     "id": "TheBloke/koala-13B-GPTQ",
     "likes": 38,
     "private": false,
-    "downloads": 24,
+    "downloads": 25,
     "tags": [
       "transformers",
       "pytorch",
@@ -166,7 +166,7 @@
     "id": "TheBloke/vicuna-7B-v0-GPTQ",
     "likes": 16,
     "private": false,
-    "downloads": 91,
+    "downloads": 77,
     "tags": [
       "transformers",
       "pytorch",
@@ -185,7 +185,7 @@
     "id": "TheBloke/vicuna-13B-1.1-GPTQ",
     "likes": 205,
     "private": false,
-    "downloads": 365,
+    "downloads": 484,
     "tags": [
       "transformers",
       "llama",
@@ -220,7 +220,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-30b-HF",
     "likes": 9,
     "private": false,
-    "downloads": 2499,
+    "downloads": 2632,
     "tags": [
       "transformers",
       "pytorch",
@@ -244,7 +244,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-30B-GPTQ",
     "likes": 19,
     "private": false,
-    "downloads": 908,
+    "downloads": 920,
     "tags": [
       "transformers",
       "pytorch",
@@ -287,7 +287,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-13B-HF",
     "likes": 4,
     "private": false,
-    "downloads": 2530,
+    "downloads": 2662,
     "tags": [
       "transformers",
       "pytorch",
@@ -311,7 +311,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-13B-GPTQ",
     "likes": 17,
     "private": false,
-    "downloads": 29,
+    "downloads": 25,
     "tags": [
       "transformers",
       "pytorch",
@@ -2035,7 +2035,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 369,
+    "likes": 368,
     "private": false,
     "downloads": 6993,
     "tags": [
@@ -15995,7 +15995,7 @@
   {
     "_id": "64ea296ce74f54587cc51cf5",
     "id": "TheBloke/Genz-70b-GPTQ",
-    "likes": 27,
+    "likes": 28,
     "private": false,
     "downloads": 10136,
     "tags": [
@@ -16380,7 +16380,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 65,
+    "likes": 66,
     "private": false,
     "downloads": 112,
     "tags": [
@@ -18428,7 +18428,6 @@
       "llama",
       "en",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -29303,7 +29302,7 @@
   {
     "_id": "650a4466623330a3a53e7102",
     "id": "TheBloke/wizardLM-7B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -31148,7 +31147,7 @@
   {
     "_id": "650cbdd8fc7c3a59dff5b4c2",
     "id": "TheBloke/Airoboros-L2-70b-2.2.1-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -31405,7 +31404,7 @@
   {
     "_id": "650f243c9060fe790101b236",
     "id": "TheBloke/airoboros-c34b-2.2.1-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -31478,7 +31477,7 @@
   {
     "_id": "650f4a7bdc509ae7d7c8521d",
     "id": "TheBloke/airoboros-l2-13B-2.2.1-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -31567,7 +31566,7 @@
   {
     "_id": "650f52c1544d7edd813609da",
     "id": "TheBloke/airoboros-l2-7B-2.2.1-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -32026,7 +32025,7 @@
   {
     "_id": "650f7b7edcfa9d24c5225505",
     "id": "TheBloke/MetaMath-13B-V1.0-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
