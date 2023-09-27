@@ -14234,7 +14234,7 @@
   {
     "_id": "64e3bd312fbf570ac7fc1215",
     "id": "TheBloke/L2-MythoMax22b-Instruct-Falseblock-GPTQ",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 45,
     "tags": [
@@ -17929,7 +17929,7 @@
   {
     "_id": "64f2fd9c6b9ab81c9710c3e2",
     "id": "TheBloke/Speechless-Llama2-Hermes-Orca-Platypus-WizardLM-13B-GPTQ",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 2533,
     "tags": [
@@ -32415,7 +32415,7 @@
   {
     "_id": "65100430d3caed0dfe40a958",
     "id": "TheBloke/openbuddy-llama2-34b-v11.1-bf16-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -32441,7 +32441,7 @@
   {
     "_id": "6510043bd4e844fefdc5ce9b",
     "id": "TheBloke/openbuddy-llama2-34b-v11.1-bf16-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 121,
     "tags": [
@@ -32707,7 +32707,7 @@
   {
     "_id": "65145063a18b3317c352bc2a",
     "id": "TheBloke/Marcoroni-70B-v1-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -32726,8 +32726,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Marcoroni-70B-v1-GPTQ"
   },
   {
@@ -32913,7 +32920,7 @@
   {
     "_id": "65148287463c4fd767f76cb6",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
