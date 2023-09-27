@@ -662,7 +662,7 @@
     "id": "TheBloke/GPT4All-13B-snoozy-GPTQ",
     "likes": 28,
     "private": false,
-    "downloads": 46,
+    "downloads": 40,
     "tags": [
       "transformers",
       "safetensors",
@@ -694,7 +694,7 @@
     "id": "TheBloke/gpt4-x-vicuna-13B-GPTQ",
     "likes": 35,
     "private": false,
-    "downloads": 229,
+    "downloads": 221,
     "tags": [
       "transformers",
       "safetensors",
@@ -736,7 +736,7 @@
     "id": "TheBloke/dromedary-65b-lora-HF",
     "likes": 19,
     "private": false,
-    "downloads": 2481,
+    "downloads": 2612,
     "tags": [
       "transformers",
       "pytorch",
@@ -809,7 +809,7 @@
     "id": "TheBloke/h2ogpt-oasst1-512-30B-HF",
     "likes": 2,
     "private": false,
-    "downloads": 2478,
+    "downloads": 2610,
     "tags": [
       "transformers",
       "pytorch",
@@ -846,7 +846,7 @@
     "id": "TheBloke/gpt4-alpaca-lora_mlp-65B-HF",
     "likes": 7,
     "private": false,
-    "downloads": 2921,
+    "downloads": 3054,
     "tags": [
       "transformers",
       "pytorch",
@@ -867,7 +867,7 @@
     "id": "TheBloke/gpt4-alpaca-lora_mlp-65B-GPTQ",
     "likes": 13,
     "private": false,
-    "downloads": 21651,
+    "downloads": 21649,
     "tags": [
       "transformers",
       "safetensors",
@@ -901,7 +901,7 @@
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
     "likes": 234,
     "private": false,
-    "downloads": 12301,
+    "downloads": 12587,
     "tags": [
       "transformers",
       "safetensors",
@@ -923,7 +923,7 @@
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-HF",
     "likes": 196,
     "private": false,
-    "downloads": 3990,
+    "downloads": 4121,
     "tags": [
       "transformers",
       "pytorch",
@@ -965,7 +965,7 @@
     "id": "TheBloke/wizard-mega-13B-GPTQ",
     "likes": 101,
     "private": false,
-    "downloads": 2567,
+    "downloads": 2701,
     "tags": [
       "transformers",
       "safetensors",
@@ -9373,7 +9373,7 @@
   {
     "_id": "64b72139a00eab5bcddae33e",
     "id": "TheBloke/Llama-2-70B-chat-GPTQ",
-    "likes": 192,
+    "likes": 193,
     "private": false,
     "downloads": 40842,
     "tags": [
@@ -32718,5 +32718,22 @@
       "region:us"
     ],
     "modelId": "TheBloke/Marcoroni-70B-v1-GPTQ"
+  },
+  {
+    "_id": "65145594e31c0e2e3dfabe9a",
+    "id": "TheBloke/Mistral-7B-v0.1-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "pretrained",
+      "text-generation",
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Mistral-7B-v0.1-GGUF"
   }
 ]
