@@ -10493,7 +10493,7 @@
   {
     "_id": "64c049e38e26122543591e2c",
     "id": "TheBloke/WizardLM-13B-V1.2-GPTQ",
-    "likes": 28,
+    "likes": 29,
     "private": false,
     "downloads": 4155,
     "tags": [
@@ -15049,7 +15049,7 @@
   {
     "_id": "64e78d117acd8971f2c6bbe6",
     "id": "TheBloke/CodeLlama-7B-GGUF",
-    "likes": 26,
+    "likes": 27,
     "private": false,
     "downloads": 256,
     "tags": [
@@ -31004,7 +31004,7 @@
   {
     "_id": "650bfe3c78d2dfbad85e17a0",
     "id": "TheBloke/Xwin-LM-70B-V0.1-GGUF",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 23,
     "tags": [
@@ -32578,5 +32578,27 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/law-LLM-GPTQ"
+  },
+  {
+    "_id": "6513f259a76fd5945b3efd33",
+    "id": "TheBloke/sqlcoder-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/sqlcoder-GPTQ"
+  },
+  {
+    "_id": "6513f263cc7684c9e422acef",
+    "id": "TheBloke/sqlcoder-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/sqlcoder-GGUF"
   }
 ]
