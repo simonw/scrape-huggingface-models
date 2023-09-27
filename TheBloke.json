@@ -17175,7 +17175,7 @@
   {
     "_id": "64f0787aa8e82e0b85b503cd",
     "id": "TheBloke/MythoMax-L2-Kimiko-v2-13B-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 125,
     "tags": [
@@ -18245,7 +18245,7 @@
   {
     "_id": "64f611cf6ad07ea81779ca15",
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
-    "likes": 46,
+    "likes": 47,
     "private": false,
     "downloads": 821,
     "tags": [
@@ -32494,7 +32494,7 @@
     "id": "TheBloke/vicuna-33B-AWQ",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 8,
     "tags": [
       "transformers",
       "safetensors",
@@ -32514,7 +32514,7 @@
     "id": "TheBloke/vicuna-33B-GGUF",
     "likes": 4,
     "private": false,
-    "downloads": 0,
+    "downloads": 2,
     "tags": [
       "transformers",
       "llama",
@@ -32566,7 +32566,7 @@
     "id": "TheBloke/law-LLM-GPTQ",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 8,
     "tags": [
       "transformers",
       "safetensors",
@@ -32585,7 +32585,7 @@
     "id": "TheBloke/sqlcoder-GPTQ",
     "likes": 1,
     "private": false,
-    "downloads": 0,
+    "downloads": 11,
     "tags": [
       "transformers",
       "safetensors",
@@ -32605,7 +32605,7 @@
     "id": "TheBloke/sqlcoder-GGUF",
     "likes": 2,
     "private": false,
-    "downloads": 0,
+    "downloads": 6,
     "tags": [
       "transformers",
       "starcoder",
@@ -32735,7 +32735,7 @@
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
     "likes": 10,
     "private": false,
-    "downloads": 0,
+    "downloads": 116,
     "tags": [
       "transformers",
       "mistral",
@@ -32801,9 +32801,9 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 13,
+    "likes": 15,
     "private": false,
-    "downloads": 0,
+    "downloads": 9,
     "tags": [
       "transformers",
       "mistral",
@@ -32820,7 +32820,7 @@
     "id": "TheBloke/openbuddy-openllama-7B-v12-bf16-GPTQ",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 1,
     "tags": [
       "transformers",
       "safetensors",
@@ -32846,7 +32846,7 @@
     "id": "TheBloke/openbuddy-openllama-7B-v12-bf16-GGUF",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 1,
     "tags": [
       "transformers",
       "llama",
@@ -32897,7 +32897,7 @@
     "id": "TheBloke/Mistral-7B-v0.1-AWQ",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 1,
     "tags": [
       "transformers",
       "safetensors",
