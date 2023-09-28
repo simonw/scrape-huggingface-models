@@ -201,7 +201,7 @@
   {
     "_id": "6437304d3cb6c4b570797361",
     "id": "TheBloke/vicuna-7B-1.1-GPTQ",
-    "likes": 57,
+    "likes": 58,
     "private": false,
     "downloads": 37,
     "tags": [
@@ -2035,7 +2035,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 368,
+    "likes": 369,
     "private": false,
     "downloads": 7396,
     "tags": [
@@ -6859,7 +6859,7 @@
   {
     "_id": "649e3023eae65e9a5d1c4cc3",
     "id": "TheBloke/Pygmalion-13B-SuperHOT-8K-GGML",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -17929,7 +17929,7 @@
   {
     "_id": "64f2fd9c6b9ab81c9710c3e2",
     "id": "TheBloke/Speechless-Llama2-Hermes-Orca-Platypus-WizardLM-13B-GPTQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 2533,
     "tags": [
@@ -32632,7 +32632,7 @@
   {
     "_id": "65140cda51c0141fa86b7d8b",
     "id": "TheBloke/U-Amethyst-20B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -33056,8 +33056,27 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "custom_code",
+      "en",
+      "de",
+      "dataset:LeoLM/OpenSchnabeltier",
+      "dataset:OpenAssistant/OASST-DE",
+      "dataset:FreedomIntelligence/alpaca-gpt4-deutsch",
+      "dataset:FreedomIntelligence/evol-instruct-deutsch",
+      "dataset:LeoLM/German_Poems",
+      "dataset:LeoLM/German_Songs",
+      "dataset:garage-bAInd/Open-Platypus",
+      "dataset:WizardLM/WizardLM_evol_instruct_70k",
+      "dataset:bjoernp/oasst25-08-23-filtered",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/leo-hessianai-13B-chat-bilingual-AWQ"
   },
   {
