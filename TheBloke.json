@@ -1182,7 +1182,7 @@
   {
     "_id": "64665540e0fe831b4792e0b9",
     "id": "TheBloke/MPT-7B-Instruct-GGML",
-    "likes": 27,
+    "likes": 28,
     "private": false,
     "downloads": 27,
     "tags": [
@@ -9217,7 +9217,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 558,
+    "likes": 559,
     "private": false,
     "downloads": 7835,
     "tags": [
@@ -16338,7 +16338,7 @@
   {
     "_id": "64eb8c012beaa8c4106ee91f",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GGUF",
-    "likes": 28,
+    "likes": 29,
     "private": false,
     "downloads": 121,
     "tags": [
@@ -32809,7 +32809,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 55,
+    "likes": 56,
     "private": false,
     "downloads": 193,
     "tags": [
@@ -33523,5 +33523,43 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/leo-hessianai-7B-GPTQ"
+  },
+  {
+    "_id": "6515ff5b7f18cec973af0828",
+    "id": "TheBloke/Mistral-7B-Instruct-v0.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "finetuned",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Mistral-7B-Instruct-v0.1-GPTQ"
+  },
+  {
+    "_id": "6515ffbc3e5a12e0ceaefd75",
+    "id": "TheBloke/Mistral-7B-v0.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "pretrained",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Mistral-7B-v0.1-GPTQ"
   }
 ]
