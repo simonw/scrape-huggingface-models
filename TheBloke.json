@@ -2364,7 +2364,7 @@
   {
     "_id": "647b3c28b31514a4a6d83660",
     "id": "TheBloke/Nous-Hermes-13B-GPTQ",
-    "likes": 146,
+    "likes": 147,
     "private": false,
     "downloads": 2926,
     "tags": [
@@ -9337,7 +9337,7 @@
   {
     "_id": "64b6e916e16424ef9e032a2f",
     "id": "TheBloke/Llama-2-13B-Chat-fp16",
-    "likes": 54,
+    "likes": 53,
     "private": false,
     "downloads": 10898,
     "tags": [
@@ -33032,7 +33032,7 @@
   {
     "_id": "65154bf07b9e3e2aeeebb5c0",
     "id": "TheBloke/Emerhyst-20B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -33114,8 +33114,74 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "custom_code",
+      "en",
+      "de",
+      "dataset:LeoLM/OpenSchnabeltier",
+      "dataset:OpenAssistant/OASST-DE",
+      "dataset:FreedomIntelligence/alpaca-gpt4-deutsch",
+      "dataset:FreedomIntelligence/evol-instruct-deutsch",
+      "dataset:LeoLM/German_Poems",
+      "dataset:LeoLM/German_Songs",
+      "dataset:garage-bAInd/Open-Platypus",
+      "dataset:WizardLM/WizardLM_evol_instruct_70k",
+      "dataset:bjoernp/oasst25-08-23-filtered",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/leo-hessianai-13B-chat-bilingual-GPTQ"
+  },
+  {
+    "_id": "6515700c29f25f659b66f3c1",
+    "id": "TheBloke/leo-hessianai-13B-chat-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/leo-hessianai-13B-chat-GPTQ"
+  },
+  {
+    "_id": "651570169d3b940a900bb730",
+    "id": "TheBloke/leo-hessianai-13B-chat-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "text-generation",
+      "en",
+      "de",
+      "dataset:LeoLM/OpenSchnabeltier",
+      "dataset:OpenAssistant/OASST-DE",
+      "dataset:FreedomIntelligence/alpaca-gpt4-deutsch",
+      "dataset:FreedomIntelligence/evol-instruct-deutsch",
+      "dataset:LeoLM/German_Poems",
+      "dataset:LeoLM/German_Songs",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/leo-hessianai-13B-chat-GGUF"
+  },
+  {
+    "_id": "65157020fdaa3c14820c7299",
+    "id": "TheBloke/leo-hessianai-13B-chat-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/leo-hessianai-13B-chat-AWQ"
   }
 ]
