@@ -32942,8 +32942,45 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Emerhyst-13B-AWQ"
+  },
+  {
+    "_id": "651543ff9150875c4c01a760",
+    "id": "TheBloke/Emerhyst-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Emerhyst-13B-GPTQ"
+  },
+  {
+    "_id": "6515441db339549616d83e99",
+    "id": "TheBloke/Emerhyst-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Emerhyst-13B-GGUF"
   }
 ]
