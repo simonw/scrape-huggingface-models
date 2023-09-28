@@ -25382,7 +25382,7 @@
   {
     "_id": "65094cce69739cd31019ab5f",
     "id": "TheBloke/Mythalion-13B-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 58,
     "tags": [
@@ -32808,7 +32808,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 41,
+    "likes": 43,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -33144,8 +33144,24 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "custom_code",
+      "en",
+      "de",
+      "dataset:LeoLM/OpenSchnabeltier",
+      "dataset:OpenAssistant/OASST-DE",
+      "dataset:FreedomIntelligence/alpaca-gpt4-deutsch",
+      "dataset:FreedomIntelligence/evol-instruct-deutsch",
+      "dataset:LeoLM/German_Poems",
+      "dataset:LeoLM/German_Songs",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/leo-hessianai-13B-chat-GPTQ"
   },
   {
@@ -33199,5 +33215,38 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/leo-hessianai-13B-chat-AWQ"
+  },
+  {
+    "_id": "65158162da8a3d7cdd804261",
+    "id": "TheBloke/leo-hessianai-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/leo-hessianai-13B-GGUF"
+  },
+  {
+    "_id": "6515816ca546159af975a179",
+    "id": "TheBloke/leo-hessianai-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/leo-hessianai-13B-GPTQ"
+  },
+  {
+    "_id": "65158176c2aedaa7e68a4aff",
+    "id": "TheBloke/leo-hessianai-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/leo-hessianai-13B-AWQ"
   }
 ]
