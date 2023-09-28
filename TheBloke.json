@@ -20077,7 +20077,7 @@
   {
     "_id": "64f7cf200590f3db14851f22",
     "id": "TheBloke/Upstage-Llama-2-70B-instruct-v2-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 244,
     "tags": [
@@ -32740,7 +32740,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 116,
     "tags": [
@@ -32808,7 +32808,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 37,
+    "likes": 39,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -33048,5 +33048,55 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Emerhyst-20B-GPTQ"
+  },
+  {
+    "_id": "65155bdda4543257f7aa8c1b",
+    "id": "TheBloke/leo-hessianai-13B-chat-bilingual-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/leo-hessianai-13B-chat-bilingual-AWQ"
+  },
+  {
+    "_id": "65155be7bdeba50196314660",
+    "id": "TheBloke/leo-hessianai-13B-chat-bilingual-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "text-generation",
+      "en",
+      "de",
+      "dataset:LeoLM/OpenSchnabeltier",
+      "dataset:OpenAssistant/OASST-DE",
+      "dataset:FreedomIntelligence/alpaca-gpt4-deutsch",
+      "dataset:FreedomIntelligence/evol-instruct-deutsch",
+      "dataset:LeoLM/German_Poems",
+      "dataset:LeoLM/German_Songs",
+      "dataset:garage-bAInd/Open-Platypus",
+      "dataset:WizardLM/WizardLM_evol_instruct_70k",
+      "dataset:bjoernp/oasst25-08-23-filtered",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/leo-hessianai-13B-chat-bilingual-GGUF"
+  },
+  {
+    "_id": "65155bf2cd5e6f5c227ed888",
+    "id": "TheBloke/leo-hessianai-13B-chat-bilingual-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/leo-hessianai-13B-chat-bilingual-GPTQ"
   }
 ]
