@@ -30802,7 +30802,7 @@
   {
     "_id": "650b5c9512c086ce18b436ba",
     "id": "TheBloke/Xwin-LM-13B-V0.1-AWQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 165,
     "tags": [
@@ -32741,7 +32741,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 34,
+    "likes": 35,
     "private": false,
     "downloads": 336,
     "tags": [
@@ -32750,6 +32750,7 @@
       "pretrained",
       "text-generation",
       "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
@@ -32818,6 +32819,7 @@
       "finetuned",
       "text-generation",
       "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
@@ -32913,6 +32915,7 @@
       "text-generation",
       "pretrained",
       "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
@@ -32931,6 +32934,7 @@
       "text-generation",
       "finetuned",
       "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
@@ -33561,5 +33565,43 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Mistral-7B-v0.1-GPTQ"
+  },
+  {
+    "_id": "6516059d18cfed0d30cfab00",
+    "id": "TheBloke/NexusRaven-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/NexusRaven-13B-AWQ"
+  },
+  {
+    "_id": "651605a7b2d07d0b83ded084",
+    "id": "TheBloke/NexusRaven-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/NexusRaven-13B-GPTQ"
+  },
+  {
+    "_id": "651605b15671e6529662d1e0",
+    "id": "TheBloke/NexusRaven-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "arxiv:2308.12950",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/NexusRaven-13B-GGUF"
   }
 ]
