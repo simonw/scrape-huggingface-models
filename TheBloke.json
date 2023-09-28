@@ -12817,7 +12817,7 @@
   {
     "_id": "64d4b803abf475a808759c19",
     "id": "TheBloke/orca_mini_v3_7B-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 3482,
     "tags": [
@@ -13108,7 +13108,7 @@
   {
     "_id": "64d5e2dcabf475a808a24d42",
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
-    "likes": 68,
+    "likes": 69,
     "private": false,
     "downloads": 173290,
     "tags": [
@@ -31202,7 +31202,7 @@
   {
     "_id": "650e254c2a45730c3fccd4b8",
     "id": "TheBloke/MLewd-ReMM-L2-Chat-20B-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 41,
     "tags": [
@@ -32621,7 +32621,7 @@
   {
     "_id": "65140976463a06ab1c5d13ca",
     "id": "TheBloke/Qwen-14B-Chat-GPTQ",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -32740,7 +32740,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 18,
+    "likes": 19,
     "private": false,
     "downloads": 116,
     "tags": [
@@ -32808,7 +32808,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 33,
+    "likes": 34,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -32934,5 +32934,16 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ"
+  },
+  {
+    "_id": "651541ca1e8f1aaa766ef50f",
+    "id": "TheBloke/Emerhyst-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Emerhyst-13B-AWQ"
   }
 ]
