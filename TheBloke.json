@@ -15089,7 +15089,7 @@
   {
     "_id": "64e7bc1129a548f66a1ddb15",
     "id": "TheBloke/CodeLlama-13B-Instruct-GGUF",
-    "likes": 51,
+    "likes": 52,
     "private": false,
     "downloads": 319,
     "tags": [
@@ -29302,7 +29302,7 @@
   {
     "_id": "650a4466623330a3a53e7102",
     "id": "TheBloke/wizardLM-7B-GGUF",
-    "likes": 1,
+    "likes": 0,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -32808,7 +32808,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 43,
+    "likes": 45,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -33223,8 +33223,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "text-generation",
+      "en",
+      "de",
+      "dataset:oscar-corpus/OSCAR-2301",
+      "dataset:wikipedia",
+      "dataset:bjoernp/tagesschau-2018-2023",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/leo-hessianai-13B-GGUF"
   },
   {
@@ -33245,8 +33256,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "custom_code",
+      "en",
+      "de",
+      "dataset:oscar-corpus/OSCAR-2301",
+      "dataset:wikipedia",
+      "dataset:bjoernp/tagesschau-2018-2023",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/leo-hessianai-13B-AWQ"
   }
 ]
