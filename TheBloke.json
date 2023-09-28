@@ -736,7 +736,7 @@
     "id": "TheBloke/dromedary-65b-lora-HF",
     "likes": 19,
     "private": false,
-    "downloads": 2612,
+    "downloads": 2633,
     "tags": [
       "transformers",
       "pytorch",
@@ -755,7 +755,7 @@
     "id": "TheBloke/h2ogpt-oasst1-512-30B-GPTQ",
     "likes": 5,
     "private": false,
-    "downloads": 20,
+    "downloads": 24,
     "tags": [
       "transformers",
       "safetensors",
@@ -809,7 +809,7 @@
     "id": "TheBloke/h2ogpt-oasst1-512-30B-HF",
     "likes": 2,
     "private": false,
-    "downloads": 2610,
+    "downloads": 2630,
     "tags": [
       "transformers",
       "pytorch",
@@ -846,7 +846,7 @@
     "id": "TheBloke/gpt4-alpaca-lora_mlp-65B-HF",
     "likes": 7,
     "private": false,
-    "downloads": 3054,
+    "downloads": 3127,
     "tags": [
       "transformers",
       "pytorch",
@@ -901,7 +901,7 @@
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
     "likes": 235,
     "private": false,
-    "downloads": 12587,
+    "downloads": 12291,
     "tags": [
       "transformers",
       "safetensors",
@@ -923,7 +923,7 @@
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-HF",
     "likes": 196,
     "private": false,
-    "downloads": 4121,
+    "downloads": 4128,
     "tags": [
       "transformers",
       "pytorch",
@@ -965,7 +965,7 @@
     "id": "TheBloke/wizard-mega-13B-GPTQ",
     "likes": 102,
     "private": false,
-    "downloads": 2701,
+    "downloads": 2718,
     "tags": [
       "transformers",
       "safetensors",
@@ -1032,7 +1032,7 @@
     "id": "TheBloke/VicUnlocked-30B-LoRA-HF",
     "likes": 1,
     "private": false,
-    "downloads": 2610,
+    "downloads": 2630,
     "tags": [
       "transformers",
       "pytorch",
@@ -1052,7 +1052,7 @@
     "id": "TheBloke/LLaMa-7B-GGML",
     "likes": 55,
     "private": false,
-    "downloads": 69,
+    "downloads": 70,
     "tags": [
       "transformers",
       "llama",
@@ -1083,7 +1083,7 @@
     "id": "TheBloke/LLaMa-30B-GGML",
     "likes": 22,
     "private": false,
-    "downloads": 9,
+    "downloads": 12,
     "tags": [
       "transformers",
       "llama",
@@ -1098,7 +1098,7 @@
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ",
     "likes": 79,
     "private": false,
-    "downloads": 462495,
+    "downloads": 457362,
     "tags": [
       "transformers",
       "safetensors",
@@ -1133,7 +1133,7 @@
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-HF",
     "likes": 19,
     "private": false,
-    "downloads": 3358,
+    "downloads": 3359,
     "tags": [
       "transformers",
       "pytorch",
@@ -1206,7 +1206,7 @@
     "id": "TheBloke/MPT-7B-Storywriter-GGML",
     "likes": 45,
     "private": false,
-    "downloads": 23,
+    "downloads": 25,
     "tags": [
       "transformers",
       "mpt",
@@ -1240,7 +1240,7 @@
     "id": "TheBloke/Manticore-13B-GPTQ",
     "likes": 36,
     "private": false,
-    "downloads": 37,
+    "downloads": 36,
     "tags": [
       "transformers",
       "safetensors",
@@ -18221,7 +18221,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7b-Chat-GGUF",
-    "likes": 58,
+    "likes": 59,
     "private": false,
     "downloads": 1788,
     "tags": [
@@ -30336,7 +30336,7 @@
   {
     "_id": "650a592d6fb511ba9ea69c6e",
     "id": "TheBloke/WizardLM-Uncensored-SuperCOT-StoryTelling-30B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -30397,7 +30397,7 @@
   {
     "_id": "650a596fd48ed98e63d02379",
     "id": "TheBloke/VicUnlocked-30B-LoRA-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -32493,7 +32493,7 @@
   {
     "_id": "6511ae6d446eba391ba97bec",
     "id": "TheBloke/vicuna-33B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -32741,7 +32741,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 25,
+    "likes": 26,
     "private": false,
     "downloads": 116,
     "tags": [
@@ -32809,7 +32809,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 47,
+    "likes": 49,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -32921,7 +32921,7 @@
   {
     "_id": "65148287463c4fd767f76cb6",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
-    "likes": 5,
+    "likes": 7,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -33111,7 +33111,7 @@
   {
     "_id": "65155bf2cd5e6f5c227ed888",
     "id": "TheBloke/leo-hessianai-13B-chat-bilingual-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -33407,8 +33407,24 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "custom_code",
+      "en",
+      "de",
+      "dataset:LeoLM/OpenSchnabeltier",
+      "dataset:OpenAssistant/OASST-DE",
+      "dataset:FreedomIntelligence/alpaca-gpt4-deutsch",
+      "dataset:FreedomIntelligence/evol-instruct-deutsch",
+      "dataset:LeoLM/German_Poems",
+      "dataset:LeoLM/German_Songs",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/leo-hessianai-7B-chat-GPTQ"
   },
   {
@@ -33437,5 +33453,62 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/leo-hessianai-7B-chat-AWQ"
+  },
+  {
+    "_id": "6515a896966dae9d5ca82573",
+    "id": "TheBloke/leo-hessianai-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "text-generation",
+      "en",
+      "de",
+      "dataset:oscar-corpus/OSCAR-2301",
+      "dataset:wikipedia",
+      "dataset:bjoernp/tagesschau-2018-2023",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/leo-hessianai-7B-GGUF"
+  },
+  {
+    "_id": "6515a8a026224cf8b1e5c4d9",
+    "id": "TheBloke/leo-hessianai-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "custom_code",
+      "en",
+      "de",
+      "dataset:oscar-corpus/OSCAR-2301",
+      "dataset:wikipedia",
+      "dataset:bjoernp/tagesschau-2018-2023",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/leo-hessianai-7B-AWQ"
+  },
+  {
+    "_id": "6515a8aa966dae9d5ca8290e",
+    "id": "TheBloke/leo-hessianai-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/leo-hessianai-7B-GPTQ"
   }
 ]
