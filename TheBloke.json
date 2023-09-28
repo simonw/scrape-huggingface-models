@@ -32810,7 +32810,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 56,
+    "likes": 57,
     "private": false,
     "downloads": 193,
     "tags": [
@@ -32905,7 +32905,7 @@
   {
     "_id": "65148276ac849a6655d267e9",
     "id": "TheBloke/Mistral-7B-v0.1-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 109,
     "tags": [
@@ -32924,7 +32924,7 @@
   {
     "_id": "65148287463c4fd767f76cb6",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 69,
     "tags": [
@@ -33569,12 +33569,20 @@
   {
     "_id": "6516059d18cfed0d30cfab00",
     "id": "TheBloke/NexusRaven-13B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2308.12950",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/NexusRaven-13B-AWQ"
   },
   {
