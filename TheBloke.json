@@ -30768,7 +30768,7 @@
   {
     "_id": "650b5c6eaa87a69ea38a702e",
     "id": "TheBloke/Xwin-LM-13B-V0.1-GGUF",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 20,
     "tags": [
@@ -32740,7 +32740,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 116,
     "tags": [
@@ -32808,7 +32808,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 36,
+    "likes": 37,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -33016,8 +33016,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Emerhyst-20B-AWQ"
   },
   {
@@ -33027,8 +33036,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Emerhyst-20B-GPTQ"
   }
 ]
