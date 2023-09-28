@@ -146,7 +146,7 @@
     "id": "TheBloke/galpaca-30B-GPTQ",
     "likes": 49,
     "private": false,
-    "downloads": 76,
+    "downloads": 75,
     "tags": [
       "transformers",
       "opt",
@@ -166,7 +166,7 @@
     "id": "TheBloke/vicuna-7B-v0-GPTQ",
     "likes": 16,
     "private": false,
-    "downloads": 77,
+    "downloads": 74,
     "tags": [
       "transformers",
       "pytorch",
@@ -185,7 +185,7 @@
     "id": "TheBloke/vicuna-13B-1.1-GPTQ",
     "likes": 205,
     "private": false,
-    "downloads": 484,
+    "downloads": 481,
     "tags": [
       "transformers",
       "llama",
@@ -203,7 +203,7 @@
     "id": "TheBloke/vicuna-7B-1.1-GPTQ",
     "likes": 58,
     "private": false,
-    "downloads": 37,
+    "downloads": 38,
     "tags": [
       "transformers",
       "llama",
@@ -220,7 +220,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-30b-HF",
     "likes": 9,
     "private": false,
-    "downloads": 2632,
+    "downloads": 2651,
     "tags": [
       "transformers",
       "pytorch",
@@ -287,7 +287,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-13B-HF",
     "likes": 4,
     "private": false,
-    "downloads": 2662,
+    "downloads": 2680,
     "tags": [
       "transformers",
       "pytorch",
@@ -311,7 +311,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-13B-GPTQ",
     "likes": 17,
     "private": false,
-    "downloads": 25,
+    "downloads": 24,
     "tags": [
       "transformers",
       "pytorch",
@@ -335,7 +335,7 @@
     "id": "TheBloke/alpaca-lora-65B-HF",
     "likes": 3,
     "private": false,
-    "downloads": 2598,
+    "downloads": 2617,
     "tags": [
       "transformers",
       "pytorch",
@@ -354,7 +354,7 @@
     "id": "TheBloke/alpaca-lora-65B-GPTQ",
     "likes": 29,
     "private": false,
-    "downloads": 28,
+    "downloads": 26,
     "tags": [
       "transformers",
       "pytorch",
@@ -15049,7 +15049,7 @@
   {
     "_id": "64e78d117acd8971f2c6bbe6",
     "id": "TheBloke/CodeLlama-7B-GGUF",
-    "likes": 27,
+    "likes": 28,
     "private": false,
     "downloads": 349,
     "tags": [
@@ -18197,7 +18197,7 @@
   {
     "_id": "64f5fd954d3b1dd311d30e28",
     "id": "TheBloke/Llama-2-7B-GGUF",
-    "likes": 28,
+    "likes": 29,
     "private": false,
     "downloads": 611,
     "tags": [
@@ -22003,7 +22003,7 @@
   {
     "_id": "6501e31c01030db3736c46fa",
     "id": "TheBloke/Llama-2-Coder-7B-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 13,
     "tags": [
@@ -31005,7 +31005,7 @@
   {
     "_id": "650bfe3c78d2dfbad85e17a0",
     "id": "TheBloke/Xwin-LM-70B-V0.1-GGUF",
-    "likes": 24,
+    "likes": 25,
     "private": false,
     "downloads": 33,
     "tags": [
@@ -32740,7 +32740,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 23,
+    "likes": 25,
     "private": false,
     "downloads": 116,
     "tags": [
@@ -33351,8 +33351,60 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "custom_code",
+      "en",
+      "de",
+      "dataset:LeoLM/OpenSchnabeltier",
+      "dataset:OpenAssistant/OASST-DE",
+      "dataset:FreedomIntelligence/alpaca-gpt4-deutsch",
+      "dataset:FreedomIntelligence/evol-instruct-deutsch",
+      "dataset:LeoLM/German_Poems",
+      "dataset:LeoLM/German_Songs",
+      "dataset:garage-bAInd/Open-Platypus",
+      "dataset:WizardLM/WizardLM_evol_instruct_70k",
+      "dataset:bjoernp/oasst25-08-23-filtered",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/leo-hessianai-7B-chat-bilingual-GPTQ"
+  },
+  {
+    "_id": "65159d427a07d71e9c5a9010",
+    "id": "TheBloke/leo-hessianai-7B-chat-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/leo-hessianai-7B-chat-GGUF"
+  },
+  {
+    "_id": "65159d4c6137c317300289cf",
+    "id": "TheBloke/leo-hessianai-7B-chat-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/leo-hessianai-7B-chat-GPTQ"
+  },
+  {
+    "_id": "65159d571e7b9224c9cb5657",
+    "id": "TheBloke/leo-hessianai-7B-chat-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/leo-hessianai-7B-chat-AWQ"
   }
 ]
