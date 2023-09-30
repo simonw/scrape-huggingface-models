@@ -6380,7 +6380,7 @@
   {
     "_id": "649ca07f0c65a5d9697945a1",
     "id": "TheBloke/WizardLM-Uncensored-SuperCOT-StoryTelling-30B-SuperHOT-8K-GPTQ",
-    "likes": 36,
+    "likes": 37,
     "private": false,
     "downloads": 200,
     "tags": [
@@ -12101,7 +12101,7 @@
   {
     "_id": "64cd0e3a28c08a0dcfa5f693",
     "id": "TheBloke/13B-Legerdemain-L2-GGML",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -31203,7 +31203,7 @@
   {
     "_id": "650e254c2a45730c3fccd4b8",
     "id": "TheBloke/MLewd-ReMM-L2-Chat-20B-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 51,
     "tags": [
@@ -33968,5 +33968,42 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Kimiko-Mistral-7B-fp16"
+  },
+  {
+    "_id": "651860e2a1a5e5d6179e1ab6",
+    "id": "TheBloke/Megamix-A1-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Megamix-A1-13B-GPTQ"
+  },
+  {
+    "_id": "651860ecb447213cb528f867",
+    "id": "TheBloke/Megamix-A1-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Megamix-A1-13B-GGUF"
+  },
+  {
+    "_id": "651860f6819b712bdee9a46a",
+    "id": "TheBloke/Megamix-A1-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Megamix-A1-13B-AWQ"
   }
 ]
