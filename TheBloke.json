@@ -1096,7 +1096,7 @@
   {
     "_id": "6465d98b9c627c78f8629e5d",
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ",
-    "likes": 81,
+    "likes": 82,
     "private": false,
     "downloads": 432183,
     "tags": [
@@ -15899,7 +15899,7 @@
   {
     "_id": "64e9ee15f72e054cab39fd71",
     "id": "TheBloke/Synthia-70B-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -15995,7 +15995,7 @@
   {
     "_id": "64ea296ce74f54587cc51cf5",
     "id": "TheBloke/Genz-70b-GPTQ",
-    "likes": 28,
+    "likes": 29,
     "private": false,
     "downloads": 11008,
     "tags": [
@@ -33624,7 +33624,7 @@
   {
     "_id": "65170566fff98a48b2a649f7",
     "id": "TheBloke/Synthia-7B-v1.3-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -33843,8 +33843,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "endpoints_compatible",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Pandalyst_13B_V1.0-GPTQ"
   },
   {
