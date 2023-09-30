@@ -9119,7 +9119,7 @@
   {
     "_id": "64b6c6798f63c1ad2b13762a",
     "id": "TheBloke/Llama-2-7B-GGML",
-    "likes": 196,
+    "likes": 197,
     "private": false,
     "downloads": 1275,
     "tags": [
@@ -33775,5 +33775,55 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/samantha-mistral-instruct-7B-AWQ"
+  },
+  {
+    "_id": "6518249520b18e99b46876a0",
+    "id": "TheBloke/Pandalyst-7B-V1.1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "code",
+      "en",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Pandalyst-7B-V1.1-GGUF"
+  },
+  {
+    "_id": "6518249f16f0c073c58f1d19",
+    "id": "TheBloke/Pandalyst-7B-V1.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code",
+      "en",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Pandalyst-7B-V1.1-AWQ"
+  },
+  {
+    "_id": "651824a90d365fb776fcb95b",
+    "id": "TheBloke/Pandalyst-7B-V1.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Pandalyst-7B-V1.1-GPTQ"
   }
 ]
