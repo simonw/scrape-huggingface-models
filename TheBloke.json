@@ -18357,7 +18357,7 @@
   {
     "_id": "64f65d33aad4f0fee08b2457",
     "id": "TheBloke/openchat_v3.2_super-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -34027,8 +34027,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MegaMix-S1-13B-GPTQ"
   },
   {
@@ -34038,8 +34045,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MegaMix-S1-13B-AWQ"
   },
   {
@@ -34056,5 +34070,42 @@
       "region:us"
     ],
     "modelId": "TheBloke/MegaMix-S1-13B-GGUF"
+  },
+  {
+    "_id": "65186f6a2d69a6fd7efa1926",
+    "id": "TheBloke/MegaMix-T1-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/MegaMix-T1-13B-GGUF"
+  },
+  {
+    "_id": "65186f74ce732bf33a3ca532",
+    "id": "TheBloke/MegaMix-T1-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MegaMix-T1-13B-GPTQ"
+  },
+  {
+    "_id": "65186f7e493fe76b25cff616",
+    "id": "TheBloke/MegaMix-T1-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MegaMix-T1-13B-AWQ"
   }
 ]
