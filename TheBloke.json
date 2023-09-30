@@ -32820,7 +32820,8 @@
       "text-generation",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF"
@@ -32905,7 +32906,7 @@
   {
     "_id": "65148276ac849a6655d267e9",
     "id": "TheBloke/Mistral-7B-v0.1-AWQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 294,
     "tags": [
@@ -33550,7 +33551,7 @@
   {
     "_id": "6515ffbc3e5a12e0ceaefd75",
     "id": "TheBloke/Mistral-7B-v0.1-GPTQ",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 239,
     "tags": [
