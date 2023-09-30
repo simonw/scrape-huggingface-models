@@ -33681,8 +33681,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/samantha-mistral-7B-GPTQ"
   },
   {
@@ -33717,5 +33724,49 @@
       "region:us"
     ],
     "modelId": "TheBloke/samantha-mistral-7B-GGUF"
+  },
+  {
+    "_id": "651812aa593b3af312119873",
+    "id": "TheBloke/samantha-mistral-instruct-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/samantha-mistral-instruct-7B-GPTQ"
+  },
+  {
+    "_id": "651812aa593b3af31211987d",
+    "id": "TheBloke/samantha-mistral-instruct-7B-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/samantha-mistral-instruct-7B-GGUF"
+  },
+  {
+    "_id": "651812b4ee8c603b702b2b48",
+    "id": "TheBloke/samantha-mistral-instruct-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/samantha-mistral-instruct-7B-AWQ"
   }
 ]
