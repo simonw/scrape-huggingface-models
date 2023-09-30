@@ -2035,7 +2035,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 369,
+    "likes": 370,
     "private": false,
     "downloads": 7571,
     "tags": [
@@ -33779,7 +33779,7 @@
   {
     "_id": "6518249520b18e99b46876a0",
     "id": "TheBloke/Pandalyst-7B-V1.1-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -33822,8 +33822,58 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code",
+      "en",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Pandalyst-7B-V1.1-GPTQ"
+  },
+  {
+    "_id": "651830b8107446b24c8d991b",
+    "id": "TheBloke/Pandalyst_13B_V1.0-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Pandalyst_13B_V1.0-GPTQ"
+  },
+  {
+    "_id": "651830c266096ebbfefdd268",
+    "id": "TheBloke/Pandalyst_13B_V1.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Pandalyst_13B_V1.0-AWQ"
+  },
+  {
+    "_id": "651830cd4fadbeb643d1188d",
+    "id": "TheBloke/Pandalyst_13B_V1.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "code",
+      "en",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Pandalyst_13B_V1.0-GGUF"
   }
 ]
