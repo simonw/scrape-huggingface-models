@@ -2416,7 +2416,7 @@
   {
     "_id": "647c535783c62f324912f729",
     "id": "TheBloke/airoboros-13b-gpt4-fp16",
-    "likes": 3,
+    "likes": 2,
     "private": false,
     "downloads": 49,
     "tags": [
@@ -32810,7 +32810,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 93,
+    "likes": 94,
     "private": false,
     "downloads": 406,
     "tags": [
@@ -33532,7 +33532,7 @@
   {
     "_id": "6515ff5b7f18cec973af0828",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GPTQ",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 350,
     "tags": [
@@ -33895,5 +33895,70 @@
       "region:us"
     ],
     "modelId": "TheBloke/Pandalyst_13B_V1.0-GGUF"
+  },
+  {
+    "_id": "651848c6107446b24c9028a1",
+    "id": "TheBloke/Kimiko-Mistral-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "generated_from_trainer",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Kimiko-Mistral-7B-AWQ"
+  },
+  {
+    "_id": "651848d0684223da599fd97f",
+    "id": "TheBloke/Kimiko-Mistral-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "generated_from_trainer",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Kimiko-Mistral-7B-GGUF"
+  },
+  {
+    "_id": "651849d8819b712bdee6f950",
+    "id": "TheBloke/Kimiko-Mistral-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Kimiko-Mistral-7B-GPTQ"
+  },
+  {
+    "_id": "65184b1c69c938b3d6048f85",
+    "id": "TheBloke/Kimiko-Mistral-7B-fp16",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "pytorch",
+      "mistral",
+      "text-generation",
+      "generated_from_trainer",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Kimiko-Mistral-7B-fp16"
   }
 ]
