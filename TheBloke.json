@@ -9217,7 +9217,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 561,
+    "likes": 562,
     "private": false,
     "downloads": 7308,
     "tags": [
@@ -32810,7 +32810,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 91,
+    "likes": 92,
     "private": false,
     "downloads": 406,
     "tags": [
@@ -33854,8 +33854,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code",
+      "en",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Pandalyst_13B_V1.0-AWQ"
   },
   {
