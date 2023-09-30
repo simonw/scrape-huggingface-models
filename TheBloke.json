@@ -9217,7 +9217,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 562,
+    "likes": 563,
     "private": false,
     "downloads": 7308,
     "tags": [
@@ -23392,7 +23392,7 @@
   {
     "_id": "6508f0f161c4bb4636e19d6a",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 42,
     "tags": [
@@ -32810,7 +32810,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 95,
+    "likes": 96,
     "private": false,
     "downloads": 406,
     "tags": [
@@ -33677,7 +33677,7 @@
   {
     "_id": "6517f136819b712bdedd954c",
     "id": "TheBloke/samantha-mistral-7B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -33779,7 +33779,7 @@
   {
     "_id": "6518249520b18e99b46876a0",
     "id": "TheBloke/Pandalyst-7B-V1.1-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -33976,8 +33976,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Megamix-A1-13B-GPTQ"
   },
   {
@@ -34002,8 +34009,52 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Megamix-A1-13B-AWQ"
+  },
+  {
+    "_id": "6518683bf7724d9aee6261c2",
+    "id": "TheBloke/MegaMix-S1-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MegaMix-S1-13B-GPTQ"
+  },
+  {
+    "_id": "65186846186bc3b69965823a",
+    "id": "TheBloke/MegaMix-S1-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MegaMix-S1-13B-AWQ"
+  },
+  {
+    "_id": "65186850fff98a48b2d0b5eb",
+    "id": "TheBloke/MegaMix-S1-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/MegaMix-S1-13B-GGUF"
   }
 ]
