@@ -18197,7 +18197,7 @@
   {
     "_id": "64f5fd954d3b1dd311d30e28",
     "id": "TheBloke/Llama-2-7B-GGUF",
-    "likes": 32,
+    "likes": 33,
     "private": false,
     "downloads": 635,
     "tags": [
@@ -19111,7 +19111,7 @@
   {
     "_id": "64f7451182673b2a07ae1103",
     "id": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GGUF",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 82,
     "tags": [
@@ -31777,7 +31777,7 @@
   {
     "_id": "650f6236a0f2ffbeca84c089",
     "id": "TheBloke/Athena-v2-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 18,
     "tags": [
@@ -32206,7 +32206,7 @@
   {
     "_id": "650fa6f5007ea5dd9d00f685",
     "id": "TheBloke/MetaMath-7B-V1.0-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -32604,7 +32604,7 @@
   {
     "_id": "6513f263cc7684c9e422acef",
     "id": "TheBloke/sqlcoder-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -32741,7 +32741,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 63,
+    "likes": 64,
     "private": false,
     "downloads": 456,
     "tags": [
@@ -32810,7 +32810,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 99,
+    "likes": 100,
     "private": false,
     "downloads": 537,
     "tags": [
@@ -34140,6 +34140,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/sheep-duck-llama-2-70B-v1.1-GGUF"
