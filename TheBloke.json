@@ -10065,7 +10065,7 @@
   {
     "_id": "64bb0dafd1c7b6d8488775c3",
     "id": "TheBloke/StableBeluga2-70B-GPTQ",
-    "likes": 83,
+    "likes": 84,
     "private": false,
     "downloads": 1924,
     "tags": [
@@ -20483,7 +20483,7 @@
   {
     "_id": "64f97e6a159055330801aec5",
     "id": "TheBloke/Falcon-180B-Chat-GGUF",
-    "likes": 94,
+    "likes": 95,
     "private": false,
     "downloads": 277,
     "tags": [
@@ -31351,7 +31351,7 @@
   {
     "_id": "650e2c27671604f140c01efd",
     "id": "TheBloke/ALMA-13B-Pretrain-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -33173,7 +33173,7 @@
   {
     "_id": "651570169d3b940a900bb730",
     "id": "TheBloke/leo-hessianai-13B-chat-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -33746,7 +33746,7 @@
   {
     "_id": "651812aa593b3af31211987d",
     "id": "TheBloke/samantha-mistral-instruct-7B-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -33918,7 +33918,7 @@
   {
     "_id": "651848d0684223da599fd97f",
     "id": "TheBloke/Kimiko-Mistral-7B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -34185,17 +34185,6 @@
     "modelId": "TheBloke/lince-zero-GPTQ"
   },
   {
-    "_id": "6519609f493fe76b25e97680",
-    "id": "TheBloke/lince-zero-AWQ",
-    "likes": 0,
-    "private": false,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "modelId": "TheBloke/lince-zero-AWQ"
-  },
-  {
     "_id": "651960a04fadbeb643f2b51d",
     "id": "TheBloke/lince-zero-GGUF",
     "likes": 1,
@@ -34300,16 +34289,5 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/UltraRM-13B-AWQ"
-  },
-  {
-    "_id": "65196e4a757417990d39301a",
-    "id": "TheBloke/UltraRM-13B-GGUF",
-    "likes": 0,
-    "private": false,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "modelId": "TheBloke/UltraRM-13B-GGUF"
   }
 ]
