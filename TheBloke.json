@@ -18032,7 +18032,7 @@
   {
     "_id": "64f2fd9cfb404f3b7d7bbd78",
     "id": "TheBloke/Speechless-Llama2-Hermes-Orca-Platypus-WizardLM-13B-GGUF",
-    "likes": 27,
+    "likes": 28,
     "private": false,
     "downloads": 81,
     "tags": [
@@ -32669,7 +32669,7 @@
   {
     "_id": "65140ceedbb1fb6b0495f86f",
     "id": "TheBloke/U-Amethyst-20B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -33037,7 +33037,7 @@
   {
     "_id": "65154bf07b9e3e2aeeebb5c0",
     "id": "TheBloke/Emerhyst-20B-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 27,
     "tags": [
@@ -34383,8 +34383,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "facebook",
+      "meta",
+      "pytorch",
+      "llama-2",
+      "german",
+      "deutsch",
+      "de",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/em_german_13b_v01-GPTQ"
   },
   {
