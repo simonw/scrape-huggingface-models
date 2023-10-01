@@ -15421,7 +15421,7 @@
   {
     "_id": "64e7ea351a6fd0c6f2552016",
     "id": "TheBloke/CodeLlama-7B-GPTQ",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 8592,
     "tags": [
@@ -16360,7 +16360,7 @@
   {
     "_id": "64ed0427a79cf4a895eb53c9",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GPTQ",
-    "likes": 62,
+    "likes": 63,
     "private": false,
     "downloads": 6259,
     "tags": [
@@ -18221,7 +18221,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7b-Chat-GGUF",
-    "likes": 65,
+    "likes": 66,
     "private": false,
     "downloads": 2057,
     "tags": [
@@ -22836,7 +22836,7 @@
   {
     "_id": "65060b7c14302b1d76a394e9",
     "id": "TheBloke/MLewd-L2-Chat-13B-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 27,
     "tags": [
@@ -32741,7 +32741,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 64,
+    "likes": 65,
     "private": false,
     "downloads": 456,
     "tags": [
@@ -32810,7 +32810,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 100,
+    "likes": 99,
     "private": false,
     "downloads": 537,
     "tags": [
@@ -34191,21 +34191,35 @@
   {
     "_id": "651960a04fadbeb643f2b51d",
     "id": "TheBloke/lince-zero-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "falcon",
+      "text-generation",
+      "es",
+      "dataset:tatsu-lab/alpaca",
+      "dataset:databricks/databricks-dolly-15k",
+      "arxiv:1910.09700",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/lince-zero-GGUF"
   },
   {
     "_id": "651961a5593b3af312355be7",
     "id": "TheBloke/MythoMakiseMerged-13B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/MythoMakiseMerged-13B-GGUF"
@@ -34217,8 +34231,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MythoMakiseMerged-13B-AWQ"
   },
   {
@@ -34228,8 +34249,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MythoMakiseMerged-13B-GPTQ"
   }
 ]
