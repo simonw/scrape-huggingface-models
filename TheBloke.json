@@ -26382,7 +26382,7 @@
   {
     "_id": "65097c2f5ac587b3f367fe0f",
     "id": "TheBloke/Pygmalion-2-13B-SuperCOT-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -32740,7 +32740,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 67,
+    "likes": 68,
     "private": false,
     "downloads": 456,
     "tags": [
@@ -34433,8 +34433,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "facebook",
+      "meta",
+      "pytorch",
+      "llama-2",
+      "german",
+      "deutsch",
+      "text-generation",
+      "de",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/em_german_70b_v01-GGUF"
   },
   {
