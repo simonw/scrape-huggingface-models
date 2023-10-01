@@ -15008,7 +15008,7 @@
   {
     "_id": "64e78cdac3b2443fb30b9dda",
     "id": "TheBloke/CodeLlama-7B-Instruct-GGUF",
-    "likes": 50,
+    "likes": 51,
     "private": false,
     "downloads": 505,
     "tags": [
@@ -15089,7 +15089,7 @@
   {
     "_id": "64e7bc1129a548f66a1ddb15",
     "id": "TheBloke/CodeLlama-13B-Instruct-GGUF",
-    "likes": 53,
+    "likes": 54,
     "private": false,
     "downloads": 317,
     "tags": [
@@ -33934,7 +33934,7 @@
   {
     "_id": "651849d8819b712bdee6f950",
     "id": "TheBloke/Kimiko-Mistral-7B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 32,
     "tags": [
@@ -34165,5 +34165,71 @@
       "region:us"
     ],
     "modelId": "TheBloke/sheep-duck-llama-2-70B-v1.1-GPTQ"
+  },
+  {
+    "_id": "6519609e4fadbeb643f2b4df",
+    "id": "TheBloke/lince-zero-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/lince-zero-GPTQ"
+  },
+  {
+    "_id": "6519609f493fe76b25e97680",
+    "id": "TheBloke/lince-zero-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/lince-zero-AWQ"
+  },
+  {
+    "_id": "651960a04fadbeb643f2b51d",
+    "id": "TheBloke/lince-zero-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/lince-zero-GGUF"
+  },
+  {
+    "_id": "651961a5593b3af312355be7",
+    "id": "TheBloke/MythoMakiseMerged-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MythoMakiseMerged-13B-GGUF"
+  },
+  {
+    "_id": "651961b066074c092611b5ec",
+    "id": "TheBloke/MythoMakiseMerged-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MythoMakiseMerged-13B-AWQ"
+  },
+  {
+    "_id": "651961ba4fadbeb643f2ce03",
+    "id": "TheBloke/MythoMakiseMerged-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MythoMakiseMerged-13B-GPTQ"
   }
 ]
