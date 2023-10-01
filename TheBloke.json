@@ -33624,7 +33624,7 @@
   {
     "_id": "65170566fff98a48b2a649f7",
     "id": "TheBloke/Synthia-7B-v1.3-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -34162,8 +34162,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "endpoints_compatible",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/sheep-duck-llama-2-70B-v1.1-GPTQ"
   },
   {
@@ -34259,5 +34266,38 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MythoMakiseMerged-13B-GPTQ"
+  },
+  {
+    "_id": "65196e364b98526886883123",
+    "id": "TheBloke/UltraRM-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/UltraRM-13B-GPTQ"
+  },
+  {
+    "_id": "65196e4015e21edaf7dbe091",
+    "id": "TheBloke/UltraRM-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/UltraRM-13B-AWQ"
+  },
+  {
+    "_id": "65196e4a757417990d39301a",
+    "id": "TheBloke/UltraRM-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/UltraRM-13B-GGUF"
   }
 ]
