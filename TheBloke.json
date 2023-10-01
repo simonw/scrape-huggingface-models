@@ -9217,7 +9217,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 565,
+    "likes": 566,
     "private": false,
     "downloads": 7152,
     "tags": [
@@ -32809,7 +32809,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 99,
+    "likes": 100,
     "private": false,
     "downloads": 537,
     "tags": [
@@ -34179,8 +34179,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "falcon",
+      "text-generation",
+      "custom_code",
+      "es",
+      "dataset:tatsu-lab/alpaca",
+      "dataset:databricks/databricks-dolly-15k",
+      "arxiv:1910.09700",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/lince-zero-GPTQ"
   },
   {
@@ -34288,5 +34300,56 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/UltraRM-13B-AWQ"
+  },
+  {
+    "_id": "651992342d69a6fd7e193f21",
+    "id": "TheBloke/UltraLM-13B-v2.0-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/UltraLM-13B-v2.0-GPTQ"
+  },
+  {
+    "_id": "65199234ed0bef1df00a9a62",
+    "id": "TheBloke/UltraLM-13B-v2.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/UltraLM-13B-v2.0-GGUF"
+  },
+  {
+    "_id": "6519923e4b985268868baecd",
+    "id": "TheBloke/UltraLM-13B-v2.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/UltraLM-13B-v2.0-AWQ"
   }
 ]
