@@ -899,7 +899,7 @@
   {
     "_id": "645f47cf6990e1208522b824",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
-    "likes": 236,
+    "likes": 237,
     "private": false,
     "downloads": 11978,
     "tags": [
@@ -9168,7 +9168,7 @@
   {
     "_id": "64b6c9343d3bb8b1b5eb6aa0",
     "id": "TheBloke/Llama-2-13B-GPTQ",
-    "likes": 97,
+    "likes": 98,
     "private": false,
     "downloads": 13250,
     "tags": [
@@ -15298,7 +15298,7 @@
   {
     "_id": "64e7d00dae53e70cda1de235",
     "id": "TheBloke/CodeLlama-34B-Instruct-GGUF",
-    "likes": 63,
+    "likes": 64,
     "private": false,
     "downloads": 136,
     "tags": [
@@ -18244,7 +18244,7 @@
   {
     "_id": "64f611cf6ad07ea81779ca15",
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
-    "likes": 54,
+    "likes": 55,
     "private": false,
     "downloads": 962,
     "tags": [
@@ -34252,7 +34252,7 @@
   {
     "_id": "651961ba4fadbeb643f2ce03",
     "id": "TheBloke/MythoMakiseMerged-13B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -34359,8 +34359,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "facebook",
+      "meta",
+      "pytorch",
+      "llama-2",
+      "german",
+      "deutsch",
+      "text-generation",
+      "de",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/em_german_13b_v01-GGUF"
   },
   {
@@ -34381,8 +34394,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "facebook",
+      "meta",
+      "pytorch",
+      "llama-2",
+      "german",
+      "deutsch",
+      "de",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/em_german_13b_v01-AWQ"
   }
 ]
