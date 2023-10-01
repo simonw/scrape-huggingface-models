@@ -9290,7 +9290,7 @@
   {
     "_id": "64b6d9d4bb1d8f2832c8be93",
     "id": "TheBloke/Llama-2-13B-chat-GPTQ",
-    "likes": 269,
+    "likes": 270,
     "private": false,
     "downloads": 105749,
     "tags": [
@@ -16232,7 +16232,7 @@
   {
     "_id": "64eb5af601df1b139e83d0d7",
     "id": "TheBloke/CodeLlama-13B-oasst-sft-v10-GPTQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 107,
     "tags": [
@@ -16291,7 +16291,7 @@
   {
     "_id": "64eb8a892800cf7e9cb2541b",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GPTQ",
-    "likes": 52,
+    "likes": 53,
     "private": false,
     "downloads": 35742,
     "tags": [
@@ -17237,7 +17237,7 @@
   {
     "_id": "64f08973baf704ad6a4e17c6",
     "id": "TheBloke/Airoboros-L2-70B-2.1-Creative-GGML",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -34351,5 +34351,38 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/UltraLM-13B-v2.0-AWQ"
+  },
+  {
+    "_id": "6519df070e3a5553d4b7ce22",
+    "id": "TheBloke/em_german_13b_v01-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/em_german_13b_v01-GGUF"
+  },
+  {
+    "_id": "6519df11049f79e53cc77b41",
+    "id": "TheBloke/em_german_13b_v01-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/em_german_13b_v01-GPTQ"
+  },
+  {
+    "_id": "6519df1b8876a95d5a65ae4c",
+    "id": "TheBloke/em_german_13b_v01-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/em_german_13b_v01-AWQ"
   }
 ]
