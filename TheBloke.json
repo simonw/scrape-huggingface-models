@@ -17654,7 +17654,7 @@
   {
     "_id": "64f255d94cbe1bb73d5ec86e",
     "id": "TheBloke/Airoboros-33B-2.1-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 69,
     "tags": [
@@ -18387,7 +18387,7 @@
   {
     "_id": "64f69434ef2049bdac3d7f55",
     "id": "TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -20295,7 +20295,7 @@
   {
     "_id": "64f88e4f67adddcb40bf4dec",
     "id": "TheBloke/Synthia-70B-v1.2-GGUF",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 135,
     "tags": [
@@ -31182,7 +31182,7 @@
   {
     "_id": "650e2543871fed2307aea83f",
     "id": "TheBloke/MLewd-ReMM-L2-Chat-20B-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 96,
     "tags": [
@@ -32583,7 +32583,7 @@
   {
     "_id": "6513f259a76fd5945b3efd33",
     "id": "TheBloke/sqlcoder-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 54,
     "tags": [
@@ -33623,7 +33623,7 @@
   {
     "_id": "65170566fff98a48b2a649f7",
     "id": "TheBloke/Synthia-7B-v1.3-GGUF",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -34425,5 +34425,38 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/em_german_13b_v01-AWQ"
+  },
+  {
+    "_id": "6519ef8a69c938b3d635ab66",
+    "id": "TheBloke/em_german_70b_v01-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/em_german_70b_v01-GGUF"
+  },
+  {
+    "_id": "6519eff50d365fb776324228",
+    "id": "TheBloke/em_german_70b_v01-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/em_german_70b_v01-GPTQ"
+  },
+  {
+    "_id": "6519efff15e21edaf7ecc990",
+    "id": "TheBloke/em_german_70b_v01-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/em_german_70b_v01-AWQ"
   }
 ]
