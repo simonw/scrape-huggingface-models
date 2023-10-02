@@ -32740,7 +32740,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 70,
+    "likes": 71,
     "private": false,
     "downloads": 515,
     "tags": [
@@ -34596,8 +34596,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "dataset:Open-Orca/OpenOrca",
+      "arxiv:2306.02707",
+      "arxiv:2301.13688",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Mistral-7B-OpenOrca-GPTQ"
   },
   {
@@ -34632,5 +34643,16 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Inkbot-13B-8k-0.2-AWQ"
+  },
+  {
+    "_id": "651ae37ccc1c891376b3f0b7",
+    "id": "TheBloke/Inkbot-13B-8k-0.2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Inkbot-13B-8k-0.2-GPTQ"
   }
 ]
