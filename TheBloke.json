@@ -10272,7 +10272,7 @@
   {
     "_id": "64bd283bae436c88130e6b5e",
     "id": "TheBloke/Llama-2-70B-Chat-GGML",
-    "likes": 150,
+    "likes": 151,
     "private": false,
     "downloads": 319,
     "tags": [
@@ -34457,8 +34457,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "facebook",
+      "meta",
+      "pytorch",
+      "llama-2",
+      "german",
+      "deutsch",
+      "de",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/em_german_70b_v01-GPTQ"
   },
   {
@@ -34563,7 +34577,7 @@
   {
     "_id": "651ad365bec377c8b849e5e9",
     "id": "TheBloke/Mistral-7B-OpenOrca-AWQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -34585,7 +34599,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -34606,7 +34620,7 @@
   {
     "_id": "651ad379eb6c502094708828",
     "id": "TheBloke/Mistral-7B-OpenOrca-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
