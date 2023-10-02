@@ -34545,5 +34545,48 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/em_german_7b_v01-GPTQ"
+  },
+  {
+    "_id": "651ad365bec377c8b849e5e9",
+    "id": "TheBloke/Mistral-7B-OpenOrca-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Mistral-7B-OpenOrca-AWQ"
+  },
+  {
+    "_id": "651ad36f85985c338b5cf207",
+    "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "text-generation",
+      "en",
+      "dataset:Open-Orca/OpenOrca",
+      "arxiv:2306.02707",
+      "arxiv:2301.13688",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Mistral-7B-OpenOrca-GGUF"
+  },
+  {
+    "_id": "651ad379eb6c502094708828",
+    "id": "TheBloke/Mistral-7B-OpenOrca-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Mistral-7B-OpenOrca-GPTQ"
   }
 ]
