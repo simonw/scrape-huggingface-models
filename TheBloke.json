@@ -1096,7 +1096,7 @@
   {
     "_id": "6465d98b9c627c78f8629e5d",
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ",
-    "likes": 83,
+    "likes": 84,
     "private": false,
     "downloads": 398998,
     "tags": [
@@ -34697,6 +34697,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "llama-2",
+      "sft",
+      "eng",
+      "dataset:LDJnr/LessWrong-Amplify-Instruct",
+      "dataset:LDJnr/Pure-Dove",
+      "dataset:LDJnr/Verified-Camel",
+      "license:mit",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Nous-Capybara-7B-GGUF"
@@ -34708,8 +34718,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "llama-2",
+      "sft",
+      "eng",
+      "dataset:LDJnr/LessWrong-Amplify-Instruct",
+      "dataset:LDJnr/Pure-Dove",
+      "dataset:LDJnr/Verified-Camel",
+      "license:mit",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Nous-Capybara-7B-GPTQ"
   },
   {
@@ -34719,8 +34742,54 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "llama-2",
+      "sft",
+      "eng",
+      "dataset:LDJnr/LessWrong-Amplify-Instruct",
+      "dataset:LDJnr/Pure-Dove",
+      "dataset:LDJnr/Verified-Camel",
+      "license:mit",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Nous-Capybara-7B-AWQ"
+  },
+  {
+    "_id": "651b43c9f9dd34ee028a7769",
+    "id": "TheBloke/dolphin-2.0-mistral-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/dolphin-2.0-mistral-7B-GGUF"
+  },
+  {
+    "_id": "651b43d479d3b8bfd74e107f",
+    "id": "TheBloke/dolphin-2.0-mistral-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/dolphin-2.0-mistral-7B-AWQ"
+  },
+  {
+    "_id": "651b43de76b52f45a597735d",
+    "id": "TheBloke/dolphin-2.0-mistral-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/dolphin-2.0-mistral-7B-GPTQ"
   }
 ]
