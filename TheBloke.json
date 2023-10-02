@@ -4855,7 +4855,7 @@
   {
     "_id": "6492fbe70a1b4c70ee6871f8",
     "id": "TheBloke/falcon-7b-instruct-GGML",
-    "likes": 38,
+    "likes": 39,
     "private": false,
     "downloads": 218,
     "tags": [
@@ -15995,7 +15995,7 @@
   {
     "_id": "64ea296ce74f54587cc51cf5",
     "id": "TheBloke/Genz-70b-GPTQ",
-    "likes": 30,
+    "likes": 31,
     "private": false,
     "downloads": 10931,
     "tags": [
@@ -34675,7 +34675,7 @@
   {
     "_id": "651ae37ccc1c891376b3f0b7",
     "id": "TheBloke/Inkbot-13B-8k-0.2-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -34766,6 +34766,13 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "mistral",
+      "en",
+      "dataset:ehartford/dolphin",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/dolphin-2.0-mistral-7B-GGUF"
@@ -34777,8 +34784,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "dataset:ehartford/dolphin",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/dolphin-2.0-mistral-7B-AWQ"
   },
   {
