@@ -33623,7 +33623,7 @@
   {
     "_id": "65170566fff98a48b2a649f7",
     "id": "TheBloke/Synthia-7B-v1.3-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 13,
     "tags": [
@@ -33727,7 +33727,7 @@
   {
     "_id": "651812aa593b3af312119873",
     "id": "TheBloke/samantha-mistral-instruct-7B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -34614,7 +34614,7 @@
   {
     "_id": "651ad59ecd08536ba4c807ce",
     "id": "TheBloke/Inkbot-13B-8k-0.2-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -34651,8 +34651,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Inkbot-13B-8k-0.2-GPTQ"
   }
 ]
