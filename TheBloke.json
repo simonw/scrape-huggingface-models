@@ -18220,7 +18220,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7b-Chat-GGUF",
-    "likes": 67,
+    "likes": 68,
     "private": false,
     "downloads": 2057,
     "tags": [
@@ -32740,7 +32740,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 68,
+    "likes": 69,
     "private": false,
     "downloads": 456,
     "tags": [
@@ -34528,8 +34528,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "facebook",
+      "meta",
+      "pytorch",
+      "llama-2",
+      "german",
+      "deutsch",
+      "de",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/em_german_7b_v01-GPTQ"
   }
 ]
