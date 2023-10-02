@@ -16291,7 +16291,7 @@
   {
     "_id": "64eb8a892800cf7e9cb2541b",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GPTQ",
-    "likes": 53,
+    "likes": 54,
     "private": false,
     "downloads": 35742,
     "tags": [
@@ -32809,7 +32809,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 102,
+    "likes": 103,
     "private": false,
     "downloads": 537,
     "tags": [
@@ -34471,5 +34471,65 @@
       "region:us"
     ],
     "modelId": "TheBloke/em_german_70b_v01-AWQ"
+  },
+  {
+    "_id": "651a09d666096ebbfe33e99b",
+    "id": "TheBloke/em_german_7b_v01-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "facebook",
+      "meta",
+      "pytorch",
+      "llama-2",
+      "german",
+      "deutsch",
+      "text-generation",
+      "de",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/em_german_7b_v01-GGUF"
+  },
+  {
+    "_id": "651a09e0c5585714bd1ef39a",
+    "id": "TheBloke/em_german_7b_v01-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "facebook",
+      "meta",
+      "pytorch",
+      "llama-2",
+      "german",
+      "deutsch",
+      "de",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/em_german_7b_v01-AWQ"
+  },
+  {
+    "_id": "651a09ea20b18e99b4a124a1",
+    "id": "TheBloke/em_german_7b_v01-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/em_german_7b_v01-GPTQ"
   }
 ]
