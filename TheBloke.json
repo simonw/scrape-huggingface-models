@@ -32924,7 +32924,7 @@
   {
     "_id": "65148287463c4fd767f76cb6",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 241,
     "tags": [
@@ -34549,18 +34549,29 @@
   {
     "_id": "651ad365bec377c8b849e5e9",
     "id": "TheBloke/Mistral-7B-OpenOrca-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "dataset:Open-Orca/OpenOrca",
+      "arxiv:2306.02707",
+      "arxiv:2301.13688",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Mistral-7B-OpenOrca-AWQ"
   },
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 0,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -34588,5 +34599,38 @@
       "region:us"
     ],
     "modelId": "TheBloke/Mistral-7B-OpenOrca-GPTQ"
+  },
+  {
+    "_id": "651ad59ecd08536ba4c807ce",
+    "id": "TheBloke/Inkbot-13B-8k-0.2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Inkbot-13B-8k-0.2-GGUF"
+  },
+  {
+    "_id": "651ad5a82930812657aea5fe",
+    "id": "TheBloke/Inkbot-13B-8k-0.2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Inkbot-13B-8k-0.2-AWQ"
   }
 ]
