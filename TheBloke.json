@@ -16291,7 +16291,7 @@
   {
     "_id": "64eb8a892800cf7e9cb2541b",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GPTQ",
-    "likes": 54,
+    "likes": 55,
     "private": false,
     "downloads": 35893,
     "tags": [
@@ -20837,7 +20837,7 @@
   {
     "_id": "64fb754e67096272ae78cc36",
     "id": "TheBloke/airoboros-l2-13b-gpt4-m2.0-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 15,
     "tags": [
@@ -22835,7 +22835,7 @@
   {
     "_id": "65060b7c14302b1d76a394e9",
     "id": "TheBloke/MLewd-L2-Chat-13B-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 27,
     "tags": [
@@ -34599,7 +34599,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -34689,5 +34689,38 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Inkbot-13B-8k-0.2-GPTQ"
+  },
+  {
+    "_id": "651b3e866c8f1e8ec09b3cfd",
+    "id": "TheBloke/Nous-Capybara-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Nous-Capybara-7B-GGUF"
+  },
+  {
+    "_id": "651b3e90ac77b16bc75914da",
+    "id": "TheBloke/Nous-Capybara-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Nous-Capybara-7B-GPTQ"
+  },
+  {
+    "_id": "651b3e9acd08536ba4db03b3",
+    "id": "TheBloke/Nous-Capybara-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Nous-Capybara-7B-AWQ"
   }
 ]
