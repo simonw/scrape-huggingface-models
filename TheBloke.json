@@ -34599,7 +34599,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -34762,7 +34762,7 @@
   {
     "_id": "651b43c9f9dd34ee028a7769",
     "id": "TheBloke/dolphin-2.0-mistral-7B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -34805,8 +34805,36 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "dataset:ehartford/dolphin",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/dolphin-2.0-mistral-7B-GPTQ"
+  },
+  {
+    "_id": "651b50a9b6109ba14026ff19",
+    "id": "TheBloke/Nous-Hermes-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "self-instruct",
+      "distillation",
+      "en",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Nous-Hermes-13B-GGUF"
   }
 ]
