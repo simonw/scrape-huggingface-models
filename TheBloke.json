@@ -12807,7 +12807,6 @@
       "dataset:ehartford/dolphin",
       "arxiv:2306.02707",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -32669,7 +32668,7 @@
   {
     "_id": "65140ceedbb1fb6b0495f86f",
     "id": "TheBloke/U-Amethyst-20B-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -34599,7 +34598,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -34620,7 +34619,7 @@
   {
     "_id": "651ad379eb6c502094708828",
     "id": "TheBloke/Mistral-7B-OpenOrca-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -34801,7 +34800,7 @@
   {
     "_id": "651b43de76b52f45a597735d",
     "id": "TheBloke/dolphin-2.0-mistral-7B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
