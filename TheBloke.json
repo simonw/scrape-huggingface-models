@@ -19955,7 +19955,7 @@
   {
     "_id": "64f7bd67bcf14b0c915de50a",
     "id": "TheBloke/Platypus2-70B-Instruct-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 114,
     "tags": [
@@ -31184,7 +31184,7 @@
   {
     "_id": "650e2543871fed2307aea83f",
     "id": "TheBloke/MLewd-ReMM-L2-Chat-20B-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 121,
     "tags": [
@@ -32742,7 +32742,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 76,
+    "likes": 77,
     "private": false,
     "downloads": 593,
     "tags": [
@@ -35089,5 +35089,67 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/TinyLlama-1.1B-intermediate-step-480k-1T-AWQ"
+  },
+  {
+    "_id": "651c8d15b2d77f1f94c9c4a7",
+    "id": "TheBloke/airoboros-mistral2.2-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "llama-2",
+      "instruct",
+      "finetune",
+      "alpaca",
+      "gpt4",
+      "synthetic data",
+      "distillation",
+      "en",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/airoboros-mistral2.2-7B-GGUF"
+  },
+  {
+    "_id": "651c8d1fb2d77f1f94c9c73e",
+    "id": "TheBloke/airoboros-mistral2.2-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "llama-2",
+      "instruct",
+      "finetune",
+      "alpaca",
+      "gpt4",
+      "synthetic data",
+      "distillation",
+      "en",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/airoboros-mistral2.2-7B-AWQ"
+  },
+  {
+    "_id": "651c8d292345626833b8c19d",
+    "id": "TheBloke/airoboros-mistral2.2-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/airoboros-mistral2.2-7B-GPTQ"
   }
 ]
