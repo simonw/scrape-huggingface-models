@@ -563,6 +563,7 @@
       "text-generation",
       "arxiv:2304.07327",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -34600,7 +34601,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 48,
+    "likes": 49,
     "private": false,
     "downloads": 34,
     "tags": [
