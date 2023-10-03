@@ -32760,7 +32760,7 @@
   {
     "_id": "65146270463c4fd767f2e372",
     "id": "TheBloke/Athena-v3-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 31,
     "tags": [
@@ -34886,7 +34886,7 @@
   {
     "_id": "651bf48063cd12f4ba8db2f5",
     "id": "TheBloke/TinyLlama-1.1B-Chat-v0.3-GGUF",
-    "likes": 0,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -34900,5 +34900,64 @@
       "region:us"
     ],
     "modelId": "TheBloke/TinyLlama-1.1B-Chat-v0.3-GGUF"
+  },
+  {
+    "_id": "651bf69adea81981d50c791b",
+    "id": "TheBloke/TinyLlama-1.1B-python-v0.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:cerebras/SlimPajama-627B",
+      "dataset:bigcode/starcoderdata",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/TinyLlama-1.1B-python-v0.1-GPTQ"
+  },
+  {
+    "_id": "651bf6a4fb8e5721f7033b7f",
+    "id": "TheBloke/TinyLlama-1.1B-python-v0.1-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "tinyllama",
+      "en",
+      "dataset:cerebras/SlimPajama-627B",
+      "dataset:bigcode/starcoderdata",
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "modelId": "TheBloke/TinyLlama-1.1B-python-v0.1-GGUF"
+  },
+  {
+    "_id": "651bf6ae8447a7bf17f17134",
+    "id": "TheBloke/TinyLlama-1.1B-python-v0.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:cerebras/SlimPajama-627B",
+      "dataset:bigcode/starcoderdata",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/TinyLlama-1.1B-python-v0.1-AWQ"
   }
 ]
