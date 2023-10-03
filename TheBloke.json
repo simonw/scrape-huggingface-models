@@ -9073,7 +9073,7 @@
   {
     "_id": "64b576b30eda977859c6896e",
     "id": "TheBloke/Replit-Code-Instruct-Glaive-GGML",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -12619,7 +12619,7 @@
   {
     "_id": "64d2b3ba89a89bedda1a4fdb",
     "id": "TheBloke/stablecode-instruct-alpha-3b-GGML",
-    "likes": 41,
+    "likes": 42,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -15269,7 +15269,8 @@
       "arxiv:2308.12950",
       "license:llama2",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-7B-Instruct-GGML"
@@ -15825,7 +15826,7 @@
   {
     "_id": "64e9e5316b9db55517b1d2a9",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GGUF",
-    "likes": 56,
+    "likes": 57,
     "private": false,
     "downloads": 101,
     "tags": [
@@ -34303,7 +34304,7 @@
   {
     "_id": "651992342d69a6fd7e193f21",
     "id": "TheBloke/UltraLM-13B-v2.0-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 17,
     "tags": [
@@ -34598,7 +34599,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 24,
+    "likes": 25,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -34692,7 +34693,7 @@
   {
     "_id": "651b3e866c8f1e8ec09b3cfd",
     "id": "TheBloke/Nous-Capybara-7B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
