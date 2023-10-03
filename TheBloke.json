@@ -34601,7 +34601,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 43,
+    "likes": 46,
     "private": false,
     "downloads": 34,
     "tags": [
@@ -34764,7 +34764,7 @@
   {
     "_id": "651b43c9f9dd34ee028a7769",
     "id": "TheBloke/dolphin-2.0-mistral-7B-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -34963,7 +34963,7 @@
   {
     "_id": "651c4058e648c876f13cf776",
     "id": "TheBloke/em_german_mistral_v01-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -34990,19 +34990,88 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "pytorch",
+      "llama",
+      "llama-2",
+      "german",
+      "deutsch",
+      "de",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/em_german_mistral_v01-GPTQ"
   },
   {
     "_id": "651c406c09e70aeed2335a37",
     "id": "TheBloke/em_german_mistral_v01-AWQ",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "pytorch",
+      "llama",
+      "llama-2",
+      "german",
+      "deutsch",
+      "de",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/em_german_mistral_v01-AWQ"
+  },
+  {
+    "_id": "651c4a05b61dff6c00b4ca5a",
+    "id": "TheBloke/TinyLlama-1.1B-intermediate-step-480k-1T-GGUF",
     "likes": 0,
     "private": false,
     "downloads": 0,
     "tags": [
       "region:us"
     ],
-    "modelId": "TheBloke/em_german_mistral_v01-AWQ"
+    "modelId": "TheBloke/TinyLlama-1.1B-intermediate-step-480k-1T-GGUF"
+  },
+  {
+    "_id": "651c4a0fd55ccd5e5d59e95d",
+    "id": "TheBloke/TinyLlama-1.1B-intermediate-step-480k-1T-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/TinyLlama-1.1B-intermediate-step-480k-1T-GPTQ"
+  },
+  {
+    "_id": "651c4a19723fb688fb8bfb8c",
+    "id": "TheBloke/TinyLlama-1.1B-intermediate-step-480k-1T-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:cerebras/SlimPajama-627B",
+      "dataset:bigcode/starcoderdata",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/TinyLlama-1.1B-intermediate-step-480k-1T-AWQ"
   }
 ]
