@@ -15270,8 +15270,7 @@
       "arxiv:2308.12950",
       "license:llama2",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeLlama-7B-Instruct-GGML"
@@ -18487,7 +18486,7 @@
   {
     "_id": "64f6a7e501456607f6518b64",
     "id": "TheBloke/vicuna-7B-v1.5-16K-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 39,
     "tags": [
@@ -32623,7 +32622,7 @@
   {
     "_id": "65140976463a06ab1c5d13ca",
     "id": "TheBloke/Qwen-14B-Chat-GPTQ",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -32811,7 +32810,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 122,
+    "likes": 124,
     "private": false,
     "downloads": 910,
     "tags": [
@@ -34579,7 +34578,7 @@
   {
     "_id": "651ad365bec377c8b849e5e9",
     "id": "TheBloke/Mistral-7B-OpenOrca-AWQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 82,
     "tags": [
@@ -34622,7 +34621,7 @@
   {
     "_id": "651ad379eb6c502094708828",
     "id": "TheBloke/Mistral-7B-OpenOrca-GPTQ",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 99,
     "tags": [
