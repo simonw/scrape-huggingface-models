@@ -5917,7 +5917,7 @@
   {
     "_id": "649a5dcd96d5747b35e30c6f",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-SuperHOT-8K-GPTQ",
-    "likes": 85,
+    "likes": 86,
     "private": false,
     "downloads": 1099,
     "tags": [
@@ -19112,7 +19112,7 @@
   {
     "_id": "64f7451182673b2a07ae1103",
     "id": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GGUF",
-    "likes": 24,
+    "likes": 25,
     "private": false,
     "downloads": 87,
     "tags": [
@@ -33552,7 +33552,7 @@
   {
     "_id": "6515ffbc3e5a12e0ceaefd75",
     "id": "TheBloke/Mistral-7B-v0.1-GPTQ",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 543,
     "tags": [
@@ -34601,7 +34601,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 42,
+    "likes": 43,
     "private": false,
     "downloads": 34,
     "tags": [
@@ -34925,7 +34925,7 @@
   {
     "_id": "651bf6a4fb8e5721f7033b7f",
     "id": "TheBloke/TinyLlama-1.1B-python-v0.1-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -34959,5 +34959,50 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/TinyLlama-1.1B-python-v0.1-AWQ"
+  },
+  {
+    "_id": "651c4058e648c876f13cf776",
+    "id": "TheBloke/em_german_mistral_v01-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "pytorch",
+      "llama",
+      "llama-2",
+      "german",
+      "deutsch",
+      "text-generation",
+      "de",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/em_german_mistral_v01-GGUF"
+  },
+  {
+    "_id": "651c4062f7d1cf0dbaa07460",
+    "id": "TheBloke/em_german_mistral_v01-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/em_german_mistral_v01-GPTQ"
+  },
+  {
+    "_id": "651c406c09e70aeed2335a37",
+    "id": "TheBloke/em_german_mistral_v01-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/em_german_mistral_v01-AWQ"
   }
 ]
