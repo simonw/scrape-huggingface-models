@@ -12432,7 +12432,7 @@
   {
     "_id": "64cf7bb2484264a3b3e2553e",
     "id": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GPTQ",
-    "likes": 46,
+    "likes": 47,
     "private": false,
     "downloads": 7703,
     "tags": [
@@ -13108,7 +13108,7 @@
   {
     "_id": "64d5e2dcabf475a808a24d42",
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
-    "likes": 72,
+    "likes": 73,
     "private": false,
     "downloads": 172319,
     "tags": [
@@ -16647,7 +16647,7 @@
   {
     "_id": "64ee1f06d5f28998110eb9a3",
     "id": "TheBloke/Airoboros-L2-13B-2.1-GPTQ",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 3207,
     "tags": [
@@ -17490,7 +17490,7 @@
   {
     "_id": "64f19abf082efb37fb18168a",
     "id": "TheBloke/Yarn-Llama-2-7B-128K-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 44,
     "tags": [
@@ -18284,7 +18284,8 @@
       "arxiv:2307.09288",
       "license:llama2",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-13B-GGUF"
@@ -34837,5 +34838,67 @@
       "region:us"
     ],
     "modelId": "TheBloke/Nous-Hermes-13B-GGUF"
+  },
+  {
+    "_id": "651bf46cca84a54d9cf6e50a",
+    "id": "TheBloke/TinyLlama-1.1B-Chat-v0.3-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:cerebras/SlimPajama-627B",
+      "dataset:bigcode/starcoderdata",
+      "dataset:OpenAssistant/oasst_top1_2023-08-25",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/TinyLlama-1.1B-Chat-v0.3-GPTQ"
+  },
+  {
+    "_id": "651bf4763fa6c4e1829124ee",
+    "id": "TheBloke/TinyLlama-1.1B-Chat-v0.3-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:cerebras/SlimPajama-627B",
+      "dataset:bigcode/starcoderdata",
+      "dataset:OpenAssistant/oasst_top1_2023-08-25",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/TinyLlama-1.1B-Chat-v0.3-AWQ"
+  },
+  {
+    "_id": "651bf48063cd12f4ba8db2f5",
+    "id": "TheBloke/TinyLlama-1.1B-Chat-v0.3-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "tinyllama",
+      "en",
+      "dataset:cerebras/SlimPajama-627B",
+      "dataset:bigcode/starcoderdata",
+      "dataset:OpenAssistant/oasst_top1_2023-08-25",
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "modelId": "TheBloke/TinyLlama-1.1B-Chat-v0.3-GGUF"
   }
 ]
