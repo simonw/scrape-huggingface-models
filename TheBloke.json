@@ -20941,7 +20941,7 @@
   {
     "_id": "64fb90af52992431a6eeec23",
     "id": "TheBloke/Spicyboros-7B-2.2-GGUF",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 18,
     "tags": [
@@ -34614,7 +34614,8 @@
       "arxiv:2301.13688",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Mistral-7B-OpenOrca-GGUF"
