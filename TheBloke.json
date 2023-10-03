@@ -553,7 +553,7 @@
   {
     "_id": "644d20d0fa94e93b0ec3ac1d",
     "id": "TheBloke/OpenAssistant-SFT-7-Llama-30B-GPTQ",
-    "likes": 34,
+    "likes": 35,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -9217,7 +9217,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 570,
+    "likes": 571,
     "private": false,
     "downloads": 7039,
     "tags": [
@@ -15008,7 +15008,7 @@
   {
     "_id": "64e78cdac3b2443fb30b9dda",
     "id": "TheBloke/CodeLlama-7B-Instruct-GGUF",
-    "likes": 51,
+    "likes": 52,
     "private": false,
     "downloads": 527,
     "tags": [
@@ -15218,7 +15218,7 @@
   {
     "_id": "64e7c2379f8952a1c0008ed1",
     "id": "TheBloke/CodeLlama-34B-GGUF",
-    "likes": 43,
+    "likes": 44,
     "private": false,
     "downloads": 54,
     "tags": [
@@ -32811,7 +32811,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 121,
+    "likes": 122,
     "private": false,
     "downloads": 910,
     "tags": [
@@ -34601,7 +34601,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 46,
+    "likes": 47,
     "private": false,
     "downloads": 34,
     "tags": [
@@ -34622,7 +34622,7 @@
   {
     "_id": "651ad379eb6c502094708828",
     "id": "TheBloke/Mistral-7B-OpenOrca-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 99,
     "tags": [
@@ -34824,7 +34824,7 @@
   {
     "_id": "651b50a9b6109ba14026ff19",
     "id": "TheBloke/Nous-Hermes-13B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -35038,6 +35038,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "tinyllama",
+      "en",
+      "dataset:cerebras/SlimPajama-627B",
+      "dataset:bigcode/starcoderdata",
+      "license:apache-2.0",
       "region:us"
     ],
     "modelId": "TheBloke/TinyLlama-1.1B-intermediate-step-480k-1T-GGUF"
@@ -35049,8 +35055,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:cerebras/SlimPajama-627B",
+      "dataset:bigcode/starcoderdata",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/TinyLlama-1.1B-intermediate-step-480k-1T-GPTQ"
   },
   {
