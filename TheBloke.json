@@ -35198,5 +35198,38 @@
       "region:us"
     ],
     "modelId": "TheBloke/CodeFuse-13B-AWQ"
+  },
+  {
+    "_id": "651d4c7f3c457a94d1e696d3",
+    "id": "TheBloke/Dans-AdventurousWinds-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Dans-AdventurousWinds-7B-AWQ"
+  },
+  {
+    "_id": "651d4c89e578c49f189d7ade",
+    "id": "TheBloke/Dans-AdventurousWinds-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Dans-AdventurousWinds-7B-GPTQ"
+  },
+  {
+    "_id": "651d4d1c40009318a844ed93",
+    "id": "TheBloke/Dans-AdventurousWinds-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Dans-AdventurousWinds-7B-GGUF"
   }
 ]
