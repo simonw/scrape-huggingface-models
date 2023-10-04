@@ -31280,7 +31280,7 @@
   {
     "_id": "650e2790469c325dc48e3a1a",
     "id": "TheBloke/MLewd-ReMM-L2-Chat-20B-Inverted-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 11,
     "tags": [
@@ -35095,7 +35095,7 @@
   {
     "_id": "651c8d15b2d77f1f94c9c4a7",
     "id": "TheBloke/airoboros-mistral2.2-7B-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -35339,5 +35339,59 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Mistralic-7B-1-AWQ"
+  },
+  {
+    "_id": "651d7d598c7923c229dbfd29",
+    "id": "TheBloke/Llama-2-7B-vietnamese-20k-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "text-generation",
+      "llama-2",
+      "llama-2-7B",
+      "llama2-vietnamese",
+      "vietnamese",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Llama-2-7B-vietnamese-20k-GGUF"
+  },
+  {
+    "_id": "651d7d5999b198681d490343",
+    "id": "TheBloke/Llama-2-7B-vietnamese-20k-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "llama-2",
+      "llama-2-7B",
+      "llama2-vietnamese",
+      "vietnamese",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Llama-2-7B-vietnamese-20k-AWQ"
+  },
+  {
+    "_id": "651d7d634ab1ff8146e647cf",
+    "id": "TheBloke/Llama-2-7B-vietnamese-20k-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama-2-7B-vietnamese-20k-GPTQ"
   }
 ]
