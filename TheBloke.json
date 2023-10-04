@@ -16380,7 +16380,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 69,
+    "likes": 70,
     "private": false,
     "downloads": 213,
     "tags": [
@@ -26264,7 +26264,7 @@
   {
     "_id": "65097326cc02352e1e141e09",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-AWQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 615,
     "tags": [
@@ -32810,7 +32810,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 132,
+    "likes": 134,
     "private": false,
     "downloads": 1054,
     "tags": [
@@ -33173,7 +33173,7 @@
   {
     "_id": "651570169d3b940a900bb730",
     "id": "TheBloke/leo-hessianai-13B-chat-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -35095,7 +35095,7 @@
   {
     "_id": "651c8d15b2d77f1f94c9c4a7",
     "id": "TheBloke/airoboros-mistral2.2-7B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -35228,6 +35228,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "mistral",
+      "en",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Dans-AdventurousWinds-7B-GGUF"
