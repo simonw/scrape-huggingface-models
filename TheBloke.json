@@ -32810,7 +32810,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 134,
+    "likes": 135,
     "private": false,
     "downloads": 1054,
     "tags": [
@@ -35290,8 +35290,48 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Dans-TotSirocco-7B-GPTQ"
+  },
+  {
+    "_id": "651d69a0878d9cd77b7f116e",
+    "id": "TheBloke/Mistralic-7B-1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Mistralic-7B-1-GGUF"
+  },
+  {
+    "_id": "651d69aa3dde844712297a23",
+    "id": "TheBloke/Mistralic-7B-1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Mistralic-7B-1-GPTQ"
+  },
+  {
+    "_id": "651d69b46880e64c9e6c28f8",
+    "id": "TheBloke/Mistralic-7B-1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Mistralic-7B-1-AWQ"
   }
 ]
