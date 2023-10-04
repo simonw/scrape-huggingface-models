@@ -15239,7 +15239,7 @@
   {
     "_id": "64e7cc65e3953cd90bd5a2e6",
     "id": "TheBloke/CodeLlama-34B-Python-GGUF",
-    "likes": 29,
+    "likes": 30,
     "private": false,
     "downloads": 36,
     "tags": [
@@ -18452,7 +18452,7 @@
   {
     "_id": "64f6a23433753a192d84ca08",
     "id": "TheBloke/vicuna-13B-v1.5-16K-GGUF",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 64,
     "tags": [
@@ -34600,7 +34600,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 62,
+    "likes": 63,
     "private": false,
     "downloads": 95,
     "tags": [
@@ -34645,7 +34645,7 @@
   {
     "_id": "651ad59ecd08536ba4c807ce",
     "id": "TheBloke/Inkbot-13B-8k-0.2-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -35217,8 +35217,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Dans-AdventurousWinds-7B-GPTQ"
   },
   {
@@ -35235,5 +35242,38 @@
       "region:us"
     ],
     "modelId": "TheBloke/Dans-AdventurousWinds-7B-GGUF"
+  },
+  {
+    "_id": "651d5d9462725aaf2b61636a",
+    "id": "TheBloke/Dans-TotSirocco-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Dans-TotSirocco-7B-AWQ"
+  },
+  {
+    "_id": "651d5d9eff8745149ae4a368",
+    "id": "TheBloke/Dans-TotSirocco-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Dans-TotSirocco-7B-GGUF"
+  },
+  {
+    "_id": "651d5da8468bdb8b9cd639eb",
+    "id": "TheBloke/Dans-TotSirocco-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Dans-TotSirocco-7B-GPTQ"
   }
 ]
