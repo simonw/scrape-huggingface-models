@@ -9374,7 +9374,7 @@
   {
     "_id": "64b72139a00eab5bcddae33e",
     "id": "TheBloke/Llama-2-70B-chat-GPTQ",
-    "likes": 196,
+    "likes": 197,
     "private": false,
     "downloads": 67524,
     "tags": [
@@ -28587,7 +28587,7 @@
   {
     "_id": "650a29bc7ee07e274b50b59e",
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 17,
     "tags": [
@@ -32810,7 +32810,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 135,
+    "likes": 136,
     "private": false,
     "downloads": 1054,
     "tags": [
@@ -33624,7 +33624,7 @@
   {
     "_id": "65170566fff98a48b2a649f7",
     "id": "TheBloke/Synthia-7B-v1.3-GGUF",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 39,
     "tags": [
@@ -34578,7 +34578,7 @@
   {
     "_id": "651ad365bec377c8b849e5e9",
     "id": "TheBloke/Mistral-7B-OpenOrca-AWQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 348,
     "tags": [
@@ -35308,6 +35308,9 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "mistral",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Mistralic-7B-1-GGUF"
