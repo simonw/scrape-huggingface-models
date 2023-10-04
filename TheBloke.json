@@ -10066,7 +10066,7 @@
   {
     "_id": "64bb0dafd1c7b6d8488775c3",
     "id": "TheBloke/StableBeluga2-70B-GPTQ",
-    "likes": 86,
+    "likes": 87,
     "private": false,
     "downloads": 2168,
     "tags": [
@@ -32810,7 +32810,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 136,
+    "likes": 137,
     "private": false,
     "downloads": 1054,
     "tags": [
@@ -33624,7 +33624,7 @@
   {
     "_id": "65170566fff98a48b2a649f7",
     "id": "TheBloke/Synthia-7B-v1.3-GGUF",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 39,
     "tags": [
@@ -33657,7 +33657,7 @@
   {
     "_id": "6517e3ce107446b24c852140",
     "id": "TheBloke/Synthia-7B-v1.3-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 236,
     "tags": [
@@ -34600,7 +34600,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 64,
+    "likes": 65,
     "private": false,
     "downloads": 95,
     "tags": [
@@ -35421,8 +35421,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Amethyst-13B-Mistral-AWQ"
   },
   {
@@ -35449,8 +35458,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Amethyst-13B-Mistral-GPTQ"
   }
 ]
