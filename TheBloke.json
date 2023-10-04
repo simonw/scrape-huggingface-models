@@ -9291,7 +9291,7 @@
   {
     "_id": "64b6d9d4bb1d8f2832c8be93",
     "id": "TheBloke/Llama-2-13B-chat-GPTQ",
-    "likes": 273,
+    "likes": 274,
     "private": false,
     "downloads": 105240,
     "tags": [
@@ -31075,7 +31075,7 @@
   {
     "_id": "650c03c9987b1ae4e520326f",
     "id": "TheBloke/Xwin-LM-70B-V0.1-AWQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 721,
     "tags": [
@@ -34622,7 +34622,7 @@
   {
     "_id": "651ad379eb6c502094708828",
     "id": "TheBloke/Mistral-7B-OpenOrca-GPTQ",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 278,
     "tags": [
@@ -35206,8 +35206,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Dans-AdventurousWinds-7B-AWQ"
   },
   {
@@ -35250,8 +35257,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Dans-TotSirocco-7B-AWQ"
   },
   {
@@ -35261,6 +35275,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "mistral",
+      "en",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Dans-TotSirocco-7B-GGUF"
