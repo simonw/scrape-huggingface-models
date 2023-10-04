@@ -34898,7 +34898,8 @@
       "dataset:bigcode/starcoderdata",
       "dataset:OpenAssistant/oasst_top1_2023-08-25",
       "license:apache-2.0",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/TinyLlama-1.1B-Chat-v0.3-GGUF"
   },
