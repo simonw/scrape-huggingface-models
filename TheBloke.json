@@ -9512,7 +9512,7 @@
   {
     "_id": "64b847a5126cfeb8fdc28475",
     "id": "TheBloke/Luna-AI-Llama2-Uncensored-GGML",
-    "likes": 113,
+    "likes": 114,
     "private": false,
     "downloads": 179,
     "tags": [
@@ -18292,7 +18292,7 @@
   {
     "_id": "64f61985e916843d8ebc5db8",
     "id": "TheBloke/Llama-2-70B-chat-GGUF",
-    "likes": 34,
+    "likes": 35,
     "private": false,
     "downloads": 456,
     "tags": [
@@ -34600,7 +34600,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 63,
+    "likes": 64,
     "private": false,
     "downloads": 95,
     "tags": [
@@ -35318,7 +35318,7 @@
   {
     "_id": "651d69aa3dde844712297a23",
     "id": "TheBloke/Mistralic-7B-1-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -35413,5 +35413,44 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-7B-vietnamese-20k-GPTQ"
+  },
+  {
+    "_id": "651da0f5601547ed179e4378",
+    "id": "TheBloke/Amethyst-13B-Mistral-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Amethyst-13B-Mistral-AWQ"
+  },
+  {
+    "_id": "651da0ff301b7bb5c4112da9",
+    "id": "TheBloke/Amethyst-13B-Mistral-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Amethyst-13B-Mistral-GGUF"
+  },
+  {
+    "_id": "651da10a3a7bb55303518003",
+    "id": "TheBloke/Amethyst-13B-Mistral-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Amethyst-13B-Mistral-GPTQ"
   }
 ]
