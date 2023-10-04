@@ -34622,7 +34622,7 @@
   {
     "_id": "651ad379eb6c502094708828",
     "id": "TheBloke/Mistral-7B-OpenOrca-GPTQ",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 278,
     "tags": [
@@ -35095,7 +35095,7 @@
   {
     "_id": "651c8d15b2d77f1f94c9c4a7",
     "id": "TheBloke/airoboros-mistral2.2-7B-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -35330,8 +35330,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Mistralic-7B-1-AWQ"
   }
 ]
