@@ -17498,7 +17498,7 @@
   {
     "_id": "64f19abfedbb00f5fd9f0b0b",
     "id": "TheBloke/Yarn-Llama-2-7B-128K-GGML",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 72,
     "tags": [
@@ -35540,5 +35540,27 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CollectiveCognition-v1.1-Mistral-7B-AWQ"
+  },
+  {
+    "_id": "651f3a6c8ed730cc00752bae",
+    "id": "TheBloke/airoboros-l2-7B-3.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/airoboros-l2-7B-3.0-GGUF"
+  },
+  {
+    "_id": "651f3a76d55b43b07992769b",
+    "id": "TheBloke/airoboros-l2-7B-3.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/airoboros-l2-7B-3.0-AWQ"
   }
 ]
