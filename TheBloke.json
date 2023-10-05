@@ -18033,7 +18033,7 @@
   {
     "_id": "64f2fd9cfb404f3b7d7bbd78",
     "id": "TheBloke/Speechless-Llama2-Hermes-Orca-Platypus-WizardLM-13B-GGUF",
-    "likes": 32,
+    "likes": 33,
     "private": false,
     "downloads": 100,
     "tags": [
@@ -19121,7 +19121,8 @@
       "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
       "license:llama2",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GGUF"
   },
@@ -31203,7 +31204,7 @@
   {
     "_id": "650e254c2a45730c3fccd4b8",
     "id": "TheBloke/MLewd-ReMM-L2-Chat-20B-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 87,
     "tags": [
@@ -34600,7 +34601,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 67,
+    "likes": 68,
     "private": false,
     "downloads": 95,
     "tags": [
