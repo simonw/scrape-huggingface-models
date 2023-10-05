@@ -11369,7 +11369,7 @@
   {
     "_id": "64ca43645dd611556251c1a6",
     "id": "TheBloke/OpenAssistant-Llama2-13B-Orca-v2-8K-3166-GGML",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -17920,7 +17920,7 @@
   {
     "_id": "64f2fd9c6b9ab81c9710c3e2",
     "id": "TheBloke/Speechless-Llama2-Hermes-Orca-Platypus-WizardLM-13B-GPTQ",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 12398,
     "tags": [
@@ -35548,6 +35548,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "dataset:jondurbin/airoboros-3.0",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/airoboros-l2-7B-3.0-GGUF"
@@ -35562,5 +35567,101 @@
       "region:us"
     ],
     "modelId": "TheBloke/airoboros-l2-7B-3.0-AWQ"
+  },
+  {
+    "_id": "651f3acd22aeffca25f14a13",
+    "id": "TheBloke/airoboros-l2-13B-3.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "dataset:jondurbin/airoboros-3.0",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/airoboros-l2-13B-3.0-GGUF"
+  },
+  {
+    "_id": "651f3acd98759d6ec34c8071",
+    "id": "TheBloke/airoboros-l2-13B-3.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-3.0",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/airoboros-l2-13B-3.0-AWQ"
+  },
+  {
+    "_id": "651f3ad71719ac0cec2c8891",
+    "id": "TheBloke/airoboros-l2-13B-3.0-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-3.0",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/airoboros-l2-13B-3.0-GPTQ"
+  },
+  {
+    "_id": "651f3b27372c0f3dc7f4fa3e",
+    "id": "TheBloke/llama-2-7B-Arguments-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/llama-2-7B-Arguments-GGUF"
+  },
+  {
+    "_id": "651f3d1ad55b43b07992bb2d",
+    "id": "TheBloke/airoboros-m-7B-3.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "dataset:jondurbin/airoboros-3.0",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/airoboros-m-7B-3.0-GGUF"
+  },
+  {
+    "_id": "651f422ca2ef3eb14d3345e2",
+    "id": "TheBloke/airoboros-l2-7B-3.0-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/airoboros-l2-7B-3.0-GPTQ"
   }
 ]
