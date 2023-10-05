@@ -15135,7 +15135,7 @@
   {
     "_id": "64e7bc1129a548f66a1ddb15",
     "id": "TheBloke/CodeLlama-13B-Instruct-GGUF",
-    "likes": 54,
+    "likes": 55,
     "private": false,
     "downloads": 323,
     "tags": [
@@ -18248,7 +18248,7 @@
   {
     "_id": "64f5fd954d3b1dd311d30e28",
     "id": "TheBloke/Llama-2-7B-GGUF",
-    "likes": 34,
+    "likes": 35,
     "private": false,
     "downloads": 732,
     "tags": [
@@ -18320,7 +18320,7 @@
   {
     "_id": "64f614a19c2aeb2a3dea1312",
     "id": "TheBloke/Llama-2-13B-GGUF",
-    "likes": 18,
+    "likes": 19,
     "private": false,
     "downloads": 244,
     "tags": [
@@ -32882,7 +32882,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 146,
+    "likes": 147,
     "private": false,
     "downloads": 1226,
     "tags": [
@@ -34651,7 +34651,7 @@
   {
     "_id": "651ad365bec377c8b849e5e9",
     "id": "TheBloke/Mistral-7B-OpenOrca-AWQ",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 630,
     "tags": [
@@ -34673,7 +34673,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 72,
+    "likes": 73,
     "private": false,
     "downloads": 159,
     "tags": [
@@ -35550,8 +35550,24 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "mistral-7b",
+      "instruct",
+      "finetune",
+      "gpt4",
+      "synthetic data",
+      "distillation",
+      "sharegpt",
+      "en",
+      "dataset:CollectiveCognition/chats-data-2023-09-27",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CollectiveCognition-v1.1-Mistral-7B-GPTQ"
   },
   {
