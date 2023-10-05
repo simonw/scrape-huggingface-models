@@ -1105,7 +1105,7 @@
   {
     "_id": "6465d98b9c627c78f8629e5d",
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ",
-    "likes": 88,
+    "likes": 89,
     "private": false,
     "downloads": 350834,
     "tags": [
@@ -35564,8 +35564,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-3.0",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/airoboros-l2-7B-3.0-AWQ"
   },
   {
@@ -35660,8 +35668,38 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-3.0",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/airoboros-l2-7B-3.0-GPTQ"
+  },
+  {
+    "_id": "651f4634d575498321520975",
+    "id": "TheBloke/airoboros-m-7B-3.0-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/airoboros-m-7B-3.0-GPTQ"
+  },
+  {
+    "_id": "651f463e0bb29b2f4ecb5f13",
+    "id": "TheBloke/airoboros-m-7B-3.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/airoboros-m-7B-3.0-AWQ"
   }
 ]
