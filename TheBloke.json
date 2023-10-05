@@ -33604,7 +33604,7 @@
   {
     "_id": "6515ff5b7f18cec973af0828",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GPTQ",
-    "likes": 24,
+    "likes": 25,
     "private": false,
     "downloads": 4013,
     "tags": [
@@ -35542,5 +35542,67 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Amethyst-13B-Mistral-GPTQ"
+  },
+  {
+    "_id": "651ee0fe4ae83c6592acd026",
+    "id": "TheBloke/CollectiveCognition-v1.1-Mistral-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/CollectiveCognition-v1.1-Mistral-7B-GPTQ"
+  },
+  {
+    "_id": "651ee10822aeffca25e5b9f6",
+    "id": "TheBloke/CollectiveCognition-v1.1-Mistral-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "mistral-7b",
+      "instruct",
+      "finetune",
+      "gpt4",
+      "synthetic data",
+      "distillation",
+      "sharegpt",
+      "en",
+      "dataset:CollectiveCognition/chats-data-2023-09-27",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/CollectiveCognition-v1.1-Mistral-7B-GGUF"
+  },
+  {
+    "_id": "651ee112b54adab2d4354cc9",
+    "id": "TheBloke/CollectiveCognition-v1.1-Mistral-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "mistral-7b",
+      "instruct",
+      "finetune",
+      "gpt4",
+      "synthetic data",
+      "distillation",
+      "sharegpt",
+      "en",
+      "dataset:CollectiveCognition/chats-data-2023-09-27",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/CollectiveCognition-v1.1-Mistral-7B-AWQ"
   }
 ]
