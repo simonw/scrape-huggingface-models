@@ -18453,7 +18453,8 @@
       "arxiv:2306.05685",
       "license:llama2",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/vicuna-13B-v1.5-16K-GGUF"
   },
@@ -19165,7 +19166,8 @@
       "arxiv:2106.09685",
       "license:openrail++",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/CodeUp-Llama-2-13B-Chat-HF-GGUF"
   },
@@ -22823,7 +22825,7 @@
   {
     "_id": "65060b7c14302b1d76a394e9",
     "id": "TheBloke/MLewd-L2-Chat-13B-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 36,
     "tags": [
@@ -34613,7 +34615,7 @@
   {
     "_id": "651ad379eb6c502094708828",
     "id": "TheBloke/Mistral-7B-OpenOrca-GPTQ",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 834,
     "tags": [
@@ -35491,7 +35493,7 @@
   {
     "_id": "651ee10822aeffca25e5b9f6",
     "id": "TheBloke/CollectiveCognition-v1.1-Mistral-7B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
