@@ -907,7 +907,7 @@
   {
     "_id": "645f47cf6990e1208522b824",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
-    "likes": 239,
+    "likes": 240,
     "private": false,
     "downloads": 11592,
     "tags": [
@@ -1105,7 +1105,7 @@
   {
     "_id": "6465d98b9c627c78f8629e5d",
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ",
-    "likes": 89,
+    "likes": 90,
     "private": false,
     "downloads": 350834,
     "tags": [
@@ -2045,7 +2045,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 377,
+    "likes": 378,
     "private": false,
     "downloads": 8942,
     "tags": [
@@ -9513,7 +9513,7 @@
   {
     "_id": "64b847a5126cfeb8fdc28475",
     "id": "TheBloke/Luna-AI-Llama2-Uncensored-GGML",
-    "likes": 114,
+    "likes": 115,
     "private": false,
     "downloads": 180,
     "tags": [
@@ -35579,7 +35579,7 @@
   {
     "_id": "651f3acd22aeffca25f14a13",
     "id": "TheBloke/airoboros-l2-13B-3.0-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -35687,8 +35687,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "dataset:jondurbin/airoboros-3.0",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/airoboros-m-7B-3.0-GPTQ"
   },
   {
@@ -35698,8 +35706,38 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "dataset:jondurbin/airoboros-3.0",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/airoboros-m-7B-3.0-AWQ"
+  },
+  {
+    "_id": "651f5212063e54a50cb3b120",
+    "id": "TheBloke/llama-2-7B-Arguments-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/llama-2-7B-Arguments-AWQ"
+  },
+  {
+    "_id": "651f521c873d1f6e40801c8e",
+    "id": "TheBloke/llama-2-7B-Arguments-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/llama-2-7B-Arguments-GPTQ"
   }
 ]
