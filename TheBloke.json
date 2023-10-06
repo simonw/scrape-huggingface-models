@@ -9242,7 +9242,7 @@
   {
     "_id": "64b6ce072edcb4a1aa820cbe",
     "id": "TheBloke/Llama-2-7b-Chat-GPTQ",
-    "likes": 149,
+    "likes": 148,
     "private": false,
     "downloads": 85783,
     "tags": [
@@ -11149,7 +11149,7 @@
   {
     "_id": "64c8504ecf159388b2d8387d",
     "id": "TheBloke/airoboros-l2-13b-gpt4-m2.0-GPTQ",
-    "likes": 26,
+    "likes": 27,
     "private": false,
     "downloads": 422,
     "tags": [
@@ -11219,7 +11219,7 @@
   {
     "_id": "64c8768fe761f470611972e7",
     "id": "TheBloke/airoboros-l2-7B-gpt4-m2.0-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 212,
     "tags": [
@@ -19748,7 +19748,7 @@
   {
     "_id": "64f7a55f2f7d3d945cc6a646",
     "id": "TheBloke/Pygmalion-2-7B-GPTQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 1422,
     "tags": [
@@ -33617,7 +33617,7 @@
   {
     "_id": "65170566fff98a48b2a649f7",
     "id": "TheBloke/Synthia-7B-v1.3-GGUF",
-    "likes": 24,
+    "likes": 25,
     "private": false,
     "downloads": 64,
     "tags": [
@@ -34594,7 +34594,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 79,
+    "likes": 80,
     "private": false,
     "downloads": 274,
     "tags": [
@@ -35410,7 +35410,7 @@
   {
     "_id": "651da0f5601547ed179e4378",
     "id": "TheBloke/Amethyst-13B-Mistral-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 15,
     "tags": [
@@ -35447,7 +35447,7 @@
   {
     "_id": "651da10a3a7bb55303518003",
     "id": "TheBloke/Amethyst-13B-Mistral-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 50,
     "tags": [
@@ -35795,8 +35795,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/UndiMix-v4-13B-GPTQ"
   }
 ]
