@@ -9367,7 +9367,8 @@
       "text-generation",
       "endpoints_compatible",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama-2-7B-fp16"
@@ -33706,7 +33707,7 @@
   {
     "_id": "6517f14a3fe8cc63b4ac56f6",
     "id": "TheBloke/samantha-mistral-7B-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 8,
     "tags": [
