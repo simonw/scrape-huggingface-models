@@ -9144,7 +9144,7 @@
   {
     "_id": "64b6c679d16e945399007406",
     "id": "TheBloke/Llama-2-7B-GPTQ",
-    "likes": 57,
+    "likes": 58,
     "private": false,
     "downloads": 16747,
     "tags": [
@@ -9513,7 +9513,7 @@
   {
     "_id": "64b847a5126cfeb8fdc28475",
     "id": "TheBloke/Luna-AI-Llama2-Uncensored-GGML",
-    "likes": 115,
+    "likes": 116,
     "private": false,
     "downloads": 180,
     "tags": [
@@ -34615,7 +34615,7 @@
   {
     "_id": "651ad379eb6c502094708828",
     "id": "TheBloke/Mistral-7B-OpenOrca-GPTQ",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 834,
     "tags": [
@@ -35725,8 +35725,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/llama-2-7B-Arguments-AWQ"
   },
   {
@@ -35736,8 +35743,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/llama-2-7B-Arguments-GPTQ"
   }
 ]
