@@ -1311,7 +1311,7 @@
   {
     "_id": "646b6683f85ebf65c52c7aa8",
     "id": "TheBloke/WizardLM-30B-Uncensored-GPTQ",
-    "likes": 105,
+    "likes": 106,
     "private": false,
     "downloads": 3576,
     "tags": [
@@ -9267,7 +9267,7 @@
   {
     "_id": "64b6d3eeab056b63ede8a758",
     "id": "TheBloke/Llama-2-13B-chat-GGML",
-    "likes": 601,
+    "likes": 602,
     "private": false,
     "downloads": 2190,
     "tags": [
@@ -21885,7 +21885,7 @@
   {
     "_id": "6500dbd61e170b857453cc3b",
     "id": "TheBloke/Euryale-L2-70B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -34585,7 +34585,8 @@
       "arxiv:2301.13688",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Mistral-7B-OpenOrca-AWQ"
