@@ -435,6 +435,7 @@
     "downloads": 0,
     "tags": [
       "license:other",
+      "has_space",
       "region:us"
     ],
     "modelId": "TheBloke/wizardLM-7B-GGML"
@@ -493,6 +494,7 @@
     "tags": [
       "arxiv:2302.13971",
       "license:other",
+      "has_space",
       "region:us"
     ],
     "modelId": "TheBloke/stable-vicuna-13B-GGML"
@@ -515,6 +517,7 @@
       "dataset:tatsu-lab/alpaca",
       "arxiv:2302.13971",
       "license:cc-by-nc-sa-4.0",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -568,6 +571,7 @@
       "text-generation",
       "arxiv:2304.07327",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -1001,6 +1005,7 @@
     "downloads": 0,
     "tags": [
       "license:other",
+      "has_space",
       "region:us"
     ],
     "modelId": "TheBloke/WizardLM-13B-Uncensored-GGML"
@@ -1067,6 +1072,7 @@
       "transformers",
       "llama",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -1629,6 +1635,7 @@
       "transformers",
       "llama",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -1646,6 +1653,7 @@
       "llama",
       "text-generation",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -1839,6 +1847,7 @@
     "tags": [
       "arxiv:2305.15334",
       "license:other",
+      "has_space",
       "region:us"
     ],
     "modelId": "TheBloke/gorilla-7B-GGML"
@@ -1932,6 +1941,7 @@
     "downloads": 0,
     "tags": [
       "license:other",
+      "has_space",
       "region:us"
     ],
     "modelId": "TheBloke/chronos-13B-GGML"
@@ -1944,6 +1954,7 @@
     "downloads": 0,
     "tags": [
       "license:other",
+      "has_space",
       "region:us"
     ],
     "modelId": "TheBloke/samantha-13B-GGML"
@@ -1992,6 +2003,7 @@
       "text-generation",
       "en",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -2694,6 +2706,7 @@
     "downloads": 0,
     "tags": [
       "license:other",
+      "has_space",
       "region:us"
     ],
     "modelId": "TheBloke/Selfee-13B-GGML"
@@ -3277,6 +3290,7 @@
       "arxiv:2305.06161",
       "license:bigcode-openrail-m",
       "model-index",
+      "has_space",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
@@ -3719,6 +3733,7 @@
       "en",
       "dataset:ehartford/samantha-data",
       "license:other",
+      "has_space",
       "region:us"
     ],
     "modelId": "TheBloke/samantha-1.1-llama-33B-GGML"
@@ -4322,6 +4337,7 @@
       "dataset:WizardLM/WizardLM_evol_instruct_70k",
       "arxiv:2304.12244",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -4520,6 +4536,7 @@
       "arxiv:2302.13971",
       "arxiv:2306.05685",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -4536,6 +4553,7 @@
       "arxiv:2302.13971",
       "arxiv:2306.05685",
       "license:other",
+      "has_space",
       "region:us"
     ],
     "modelId": "TheBloke/vicuna-7B-v1.3-GGML"
@@ -4914,6 +4932,7 @@
       "llama",
       "text-generation",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -5016,6 +5035,7 @@
       "arxiv:2205.14135",
       "arxiv:2108.12409",
       "license:cc-by-sa-3.0",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -5146,6 +5166,7 @@
       "en",
       "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
       "license:other",
+      "has_space",
       "region:us"
     ],
     "modelId": "TheBloke/WizardLM-33B-V1.0-Uncensored-GGML"
@@ -5353,6 +5374,7 @@
       "text-generation",
       "custom_code",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -5385,6 +5407,7 @@
       "text-generation",
       "custom_code",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -5462,6 +5485,7 @@
       "chatbot",
       "storywriting",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -5936,6 +5960,7 @@
       "text-generation",
       "custom_code",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -6640,6 +6665,7 @@
     "downloads": 0,
     "tags": [
       "license:other",
+      "has_space",
       "region:us"
     ],
     "modelId": "TheBloke/airoboros-65B-gpt4-1.4-GGML"
@@ -7245,6 +7271,7 @@
       "text-generation",
       "en",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -7279,6 +7306,7 @@
       "arxiv:2306.02707",
       "arxiv:2304.12244",
       "license:cc-by-nc-sa-4.0",
+      "has_space",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
@@ -7775,6 +7803,7 @@
       "text-generation",
       "custom_code",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -8251,6 +8280,7 @@
       "text-generation",
       "custom_code",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -8319,6 +8349,7 @@
       "text-generation",
       "en",
       "license:other",
+      "has_space",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
@@ -8369,7 +8400,7 @@
   {
     "_id": "64a80b0df152bba4b54c40c3",
     "id": "TheBloke/WizardLM-13B-V1-0-Uncensored-SuperHOT-8K-GGML",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -8886,6 +8917,7 @@
       "en",
       "dataset:OpenAssistant/oasst1",
       "license:apache-2.0",
+      "has_space",
       "region:us"
     ],
     "modelId": "TheBloke/h2ogpt-gm-oasst1-en-2048-falcon-7b-v3-GGML"
@@ -9366,6 +9398,7 @@
       "llama",
       "text-generation",
       "endpoints_compatible",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -9520,6 +9553,7 @@
       "transformers",
       "llama",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -9577,6 +9611,7 @@
       "text-classification",
       "en",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -9646,6 +9681,7 @@
       "text-classification",
       "en",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -9799,6 +9835,7 @@
       "manticore",
       "hippogriff",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -10159,6 +10196,7 @@
       "arxiv:2302.13971",
       "arxiv:2306.05685",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -10284,6 +10322,7 @@
       "en",
       "arxiv:2307.09288",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -10455,6 +10494,7 @@
       "dataset:atom-in-the-universe/fanfics-10k-50k",
       "arxiv:2306.02707",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -11125,6 +11165,7 @@
       "llama",
       "dataset:jondurbin/airoboros-gpt4-2.0",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -11141,6 +11182,7 @@
       "llama",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -11502,6 +11544,7 @@
       "storywriting",
       "generalist-model",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -11539,6 +11582,7 @@
       "arxiv:2307.09288",
       "arxiv:2306.05685",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -11658,6 +11702,7 @@
       "arxiv:2307.09288",
       "arxiv:2306.05685",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -12152,6 +12197,7 @@
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -12357,6 +12403,7 @@
       "fr",
       "dataset:OpenAssistant/oasst1",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -12841,6 +12888,7 @@
       "arxiv:2308.07317",
       "arxiv:2307.09288",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -13088,6 +13136,7 @@
       "llama",
       "en",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -13106,6 +13155,7 @@
       "text-generation",
       "en",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -13696,6 +13746,7 @@
       "transformers",
       "llama",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -13974,6 +14025,7 @@
       "llama",
       "text-generation",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -14068,6 +14120,7 @@
       "text-generation",
       "llama2",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -14176,6 +14229,7 @@
       "dataset:togethercomputer/llama-instruct",
       "arxiv:2307.03172",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -14945,6 +14999,7 @@
       "custom_code",
       "license:llama2",
       "endpoints_compatible",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -14967,6 +15022,7 @@
       "custom_code",
       "license:llama2",
       "endpoints_compatible",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -15202,6 +15258,7 @@
       "custom_code",
       "license:llama2",
       "endpoints_compatible",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -16299,6 +16356,7 @@
       "arxiv:2303.08774",
       "license:llama2",
       "model-index",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -16321,6 +16379,7 @@
       "arxiv:2303.08774",
       "license:llama2",
       "model-index",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -17657,6 +17716,7 @@
       "custom_code",
       "dataset:jondurbin/airoboros-2.1",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -18339,6 +18399,7 @@
       "llama",
       "text-generation",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -18452,9 +18513,9 @@
       "arxiv:2307.09288",
       "arxiv:2306.05685",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "modelId": "TheBloke/vicuna-13B-v1.5-16K-GGUF"
   },
@@ -18652,6 +18713,7 @@
       "synthetic instruction",
       "en",
       "license:mit",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -19165,9 +19227,9 @@
       "en",
       "arxiv:2106.09685",
       "license:openrail++",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "modelId": "TheBloke/CodeUp-Llama-2-13B-Chat-HF-GGUF"
   },
@@ -19576,6 +19638,7 @@
       "arxiv:2306.02707",
       "arxiv:2301.13688",
       "license:cc-by-nc-4.0",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -19714,6 +19777,7 @@
       "dataset:jondurbin/airoboros-gpt4-1.4.1",
       "dataset:databricks/databricks-dolly-15k",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -19841,6 +19905,7 @@
       "dataset:jondurbin/airoboros-gpt4-1.4.1",
       "dataset:databricks/databricks-dolly-15k",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -19918,6 +19983,7 @@
       "arxiv:2307.09288",
       "arxiv:2306.02707",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -19937,6 +20003,7 @@
       "dataset:togethercomputer/llama-instruct",
       "arxiv:2307.03172",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -20112,6 +20179,7 @@
       "transformers",
       "llama",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -20310,6 +20378,7 @@
       "llama",
       "text-generation",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -20354,6 +20423,7 @@
       "arxiv:2205.14135",
       "arxiv:2306.01116",
       "license:unknown",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -20490,6 +20560,7 @@
       "arxiv:2205.14135",
       "arxiv:2306.01116",
       "license:unknown",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -20851,6 +20922,7 @@
       "llama",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -20920,6 +20992,7 @@
       "llama",
       "text-generation",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -21024,6 +21097,7 @@
       "en",
       "arxiv:2306.02707",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -21078,6 +21152,7 @@
       "en",
       "arxiv:2306.02707",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -21098,6 +21173,7 @@
       "not-for-all-audiences",
       "dataset:jondurbin/airoboros-2.2",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -21310,6 +21386,7 @@
       "llama",
       "text-generation",
       "license:cc-by-nc-4.0",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -21362,6 +21439,7 @@
       "not-for-all-audiences",
       "nsfw",
       "license:cc-by-nc-4.0",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -21547,6 +21625,7 @@
       "llama",
       "text-generation",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -21688,6 +21767,7 @@
       "text-generation",
       "dataset:jondurbin/airoboros-2.2",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -21707,6 +21787,7 @@
       "text-generation",
       "dataset:jondurbin/airoboros-2.2",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -31896,7 +31977,7 @@
   {
     "_id": "650f7457d4e844fefdb51afc",
     "id": "TheBloke/storytime-13B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -33535,6 +33616,7 @@
       "text-generation",
       "finetuned",
       "license:apache-2.0",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -34628,6 +34710,7 @@
       "arxiv:2306.02707",
       "arxiv:2301.13688",
       "license:apache-2.0",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -35493,7 +35576,7 @@
   {
     "_id": "651ee10822aeffca25e5b9f6",
     "id": "TheBloke/CollectiveCognition-v1.1-Mistral-7B-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -35640,6 +35723,7 @@
       "transformers",
       "llama",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
