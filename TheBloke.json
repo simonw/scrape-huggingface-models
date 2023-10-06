@@ -35754,5 +35754,49 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/llama-2-7B-Arguments-GPTQ"
+  },
+  {
+    "_id": "65205b83389ef6864d80d847",
+    "id": "TheBloke/UndiMix-v4-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/UndiMix-v4-13B-AWQ"
+  },
+  {
+    "_id": "65205b8d739dd2070b62ba6e",
+    "id": "TheBloke/UndiMix-v4-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/UndiMix-v4-13B-GGUF"
+  },
+  {
+    "_id": "65205b976b01183a67a9b549",
+    "id": "TheBloke/UndiMix-v4-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/UndiMix-v4-13B-GPTQ"
   }
 ]
