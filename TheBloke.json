@@ -15795,7 +15795,7 @@
   {
     "_id": "64e9e5008c523cced2035915",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GPTQ",
-    "likes": 54,
+    "likes": 55,
     "private": false,
     "downloads": 4383,
     "tags": [
@@ -32804,7 +32804,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 159,
+    "likes": 160,
     "private": false,
     "downloads": 1538,
     "tags": [
@@ -35808,5 +35808,38 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/UndiMix-v4-13B-GPTQ"
+  },
+  {
+    "_id": "65218f23d65824bda78eab7f",
+    "id": "TheBloke/Mistral-Trismegistus-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Mistral-Trismegistus-7B-GGUF"
+  },
+  {
+    "_id": "65218f246b01183a67cc1347",
+    "id": "TheBloke/Mistral-Trismegistus-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Mistral-Trismegistus-7B-GPTQ"
+  },
+  {
+    "_id": "65218f249334173c62632825",
+    "id": "TheBloke/Mistral-Trismegistus-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Mistral-Trismegistus-7B-AWQ"
   }
 ]
