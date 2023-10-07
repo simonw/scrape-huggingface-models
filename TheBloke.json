@@ -18237,7 +18237,7 @@
   {
     "_id": "64f611cf6ad07ea81779ca15",
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
-    "likes": 58,
+    "likes": 59,
     "private": false,
     "downloads": 1162,
     "tags": [
@@ -34572,7 +34572,7 @@
   {
     "_id": "651ad365bec377c8b849e5e9",
     "id": "TheBloke/Mistral-7B-OpenOrca-AWQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 1040,
     "tags": [
@@ -35743,7 +35743,7 @@
   {
     "_id": "651f521c873d1f6e40801c8e",
     "id": "TheBloke/llama-2-7B-Arguments-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 49,
     "tags": [
@@ -35838,8 +35838,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "mistral-7b",
+      "instruct",
+      "finetune",
+      "gpt4",
+      "synthetic data",
+      "distillation",
+      "en",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Mistral-Trismegistus-7B-GPTQ"
   },
   {
