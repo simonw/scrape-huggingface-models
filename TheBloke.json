@@ -10792,7 +10792,7 @@
   {
     "_id": "64c424a988373ea620003f06",
     "id": "TheBloke/StableBeluga-13B-GPTQ",
-    "likes": 32,
+    "likes": 33,
     "private": false,
     "downloads": 459,
     "tags": [
@@ -19563,7 +19563,7 @@
   {
     "_id": "64f78668aca1280775860431",
     "id": "TheBloke/OpenOrca-Platypus2-13B-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 54,
     "tags": [
@@ -32735,7 +32735,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 88,
+    "likes": 89,
     "private": false,
     "downloads": 837,
     "tags": [
@@ -34617,7 +34617,7 @@
   {
     "_id": "651ad379eb6c502094708828",
     "id": "TheBloke/Mistral-7B-OpenOrca-GPTQ",
-    "likes": 31,
+    "likes": 32,
     "private": false,
     "downloads": 1663,
     "tags": [
@@ -34771,7 +34771,8 @@
       "dataset:jondurbin/airoboros-2.2.1",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/dolphin-2.0-mistral-7B-GGUF"
   },
@@ -35449,7 +35450,7 @@
   {
     "_id": "651da10a3a7bb55303518003",
     "id": "TheBloke/Amethyst-13B-Mistral-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 88,
     "tags": [
