@@ -35882,5 +35882,49 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Mistral-Trismegistus-7B-AWQ"
+  },
+  {
+    "_id": "6522d567971e5c13701e0ea0",
+    "id": "TheBloke/sheep-duck-llama-2-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/sheep-duck-llama-2-13B-AWQ"
+  },
+  {
+    "_id": "6522d567a56398128b58d8f0",
+    "id": "TheBloke/sheep-duck-llama-2-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/sheep-duck-llama-2-13B-GGUF"
+  },
+  {
+    "_id": "6522d571a7716548c5d96fb7",
+    "id": "TheBloke/sheep-duck-llama-2-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/sheep-duck-llama-2-13B-GPTQ"
   }
 ]
