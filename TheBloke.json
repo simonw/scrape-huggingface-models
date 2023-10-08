@@ -18823,7 +18823,8 @@
       "llama",
       "license:llama2",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/Firefly-Llama2-13B-v1.2-GGUF"
   },
@@ -32665,7 +32666,7 @@
   {
     "_id": "65140ceedbb1fb6b0495f86f",
     "id": "TheBloke/U-Amethyst-20B-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 166,
     "tags": [
@@ -32805,7 +32806,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 163,
+    "likes": 164,
     "private": false,
     "downloads": 1604,
     "tags": [
@@ -33527,7 +33528,7 @@
   {
     "_id": "6515ff5b7f18cec973af0828",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GPTQ",
-    "likes": 32,
+    "likes": 33,
     "private": false,
     "downloads": 5614,
     "tags": [
@@ -33546,7 +33547,7 @@
   {
     "_id": "6515ffbc3e5a12e0ceaefd75",
     "id": "TheBloke/Mistral-7B-v0.1-GPTQ",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 1290,
     "tags": [
@@ -34596,7 +34597,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 91,
+    "likes": 92,
     "private": false,
     "downloads": 419,
     "tags": [
@@ -35812,7 +35813,7 @@
   {
     "_id": "65218f23d65824bda78eab7f",
     "id": "TheBloke/Mistral-Trismegistus-7B-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 6,
     "tags": [
