@@ -30535,7 +30535,8 @@
       "dataset:ewof/code-alpaca-instruct-unfiltered",
       "license:other",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/manticore-13b-chat-pyg-GGUF"
@@ -30763,7 +30764,7 @@
   {
     "_id": "650b5c6eaa87a69ea38a702e",
     "id": "TheBloke/Xwin-LM-13B-V0.1-GGUF",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 68,
     "tags": [
