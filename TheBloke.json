@@ -19104,7 +19104,7 @@
   {
     "_id": "64f7451182673b2a07ae1103",
     "id": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GGUF",
-    "likes": 28,
+    "likes": 29,
     "private": false,
     "downloads": 104,
     "tags": [
@@ -20381,7 +20381,7 @@
   {
     "_id": "64f8c21ad493d8b0d2be3556",
     "id": "TheBloke/WizardLM-70B-V1.0-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -31002,7 +31002,7 @@
   {
     "_id": "650bfe3c78d2dfbad85e17a0",
     "id": "TheBloke/Xwin-LM-70B-V0.1-GGUF",
-    "likes": 32,
+    "likes": 33,
     "private": false,
     "downloads": 99,
     "tags": [
@@ -34597,7 +34597,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 92,
+    "likes": 93,
     "private": false,
     "downloads": 419,
     "tags": [
@@ -35923,8 +35923,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "endpoints_compatible",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/sheep-duck-llama-2-13B-GPTQ"
   }
 ]
