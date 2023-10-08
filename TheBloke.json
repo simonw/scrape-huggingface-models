@@ -15212,7 +15212,7 @@
   {
     "_id": "64e7c2379f8952a1c0008ed1",
     "id": "TheBloke/CodeLlama-34B-GGUF",
-    "likes": 44,
+    "likes": 45,
     "private": false,
     "downloads": 52,
     "tags": [
@@ -35927,11 +35927,44 @@
       "safetensors",
       "llama",
       "text-generation",
-      "endpoints_compatible",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/sheep-duck-llama-2-13B-GPTQ"
+  },
+  {
+    "_id": "6522e53f706c755148b22c2f",
+    "id": "TheBloke/Llama2-chat-AYB-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama2-chat-AYB-13B-GGUF"
+  },
+  {
+    "_id": "6522e53ffb5b5f51e6058634",
+    "id": "TheBloke/Llama2-chat-AYB-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama2-chat-AYB-13B-AWQ"
+  },
+  {
+    "_id": "6522e5492a16045c0966662b",
+    "id": "TheBloke/Llama2-chat-AYB-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Llama2-chat-AYB-13B-GPTQ"
   }
 ]
