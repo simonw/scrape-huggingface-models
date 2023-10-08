@@ -31053,7 +31053,7 @@
   {
     "_id": "650c03bf677f9e45963f00fb",
     "id": "TheBloke/Xwin-LM-70B-V0.1-GPTQ",
-    "likes": 28,
+    "likes": 29,
     "private": false,
     "downloads": 2602,
     "tags": [
@@ -32526,7 +32526,7 @@
   {
     "_id": "6513ea60584d106e62968bf3",
     "id": "TheBloke/law-LLM-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -34139,7 +34139,7 @@
   {
     "_id": "65193caf70694414236dcbde",
     "id": "TheBloke/sheep-duck-llama-2-70B-v1.1-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -35550,7 +35550,7 @@
   {
     "_id": "651f3a6c8ed730cc00752bae",
     "id": "TheBloke/airoboros-l2-7B-3.0-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -35999,7 +35999,7 @@
       "safetensors",
       "llama",
       "text-generation",
-      "endpoints_compatible",
+      "license:cc-by-nc-4.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -36038,5 +36038,38 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Athena-v4-AWQ"
+  },
+  {
+    "_id": "65233873cfbef01dc7c02d38",
+    "id": "TheBloke/PsyMedRP-v1-20B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/PsyMedRP-v1-20B-GGUF"
+  },
+  {
+    "_id": "652338742d3ba46ccd2624da",
+    "id": "TheBloke/PsyMedRP-v1-20B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/PsyMedRP-v1-20B-AWQ"
+  },
+  {
+    "_id": "6523387e2d3ba46ccd262673",
+    "id": "TheBloke/PsyMedRP-v1-20B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/PsyMedRP-v1-20B-GPTQ"
   }
 ]
