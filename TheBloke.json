@@ -20337,7 +20337,7 @@
   {
     "_id": "64f8ad3c29a9aa4778e7fdab",
     "id": "TheBloke/Falcon-180B-Chat-GPTQ",
-    "likes": 56,
+    "likes": 57,
     "private": false,
     "downloads": 27344,
     "tags": [
@@ -35987,5 +35987,49 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Llama2-chat-AYB-13B-GPTQ"
+  },
+  {
+    "_id": "652328bdef81ce01a4868d6d",
+    "id": "TheBloke/Athena-v4-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Athena-v4-GPTQ"
+  },
+  {
+    "_id": "652328be706c755148b93eb3",
+    "id": "TheBloke/Athena-v4-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Athena-v4-GGUF"
+  },
+  {
+    "_id": "652328c8e3419abdcf8eb5c8",
+    "id": "TheBloke/Athena-v4-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Athena-v4-AWQ"
   }
 ]
