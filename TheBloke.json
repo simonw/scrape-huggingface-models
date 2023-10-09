@@ -20475,7 +20475,7 @@
   {
     "_id": "64f97e6a159055330801aec5",
     "id": "TheBloke/Falcon-180B-Chat-GGUF",
-    "likes": 98,
+    "likes": 99,
     "private": false,
     "downloads": 321,
     "tags": [
@@ -34597,7 +34597,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 97,
+    "likes": 98,
     "private": false,
     "downloads": 567,
     "tags": [
@@ -36094,5 +36094,38 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/PsyMedRP-v1-20B-GPTQ"
+  },
+  {
+    "_id": "6523d684d6ecb59a1b497049",
+    "id": "TheBloke/Ziya-Coding-34B-v1.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Ziya-Coding-34B-v1.0-AWQ"
+  },
+  {
+    "_id": "6523d68fab14165941296471",
+    "id": "TheBloke/Ziya-Coding-34B-v1.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Ziya-Coding-34B-v1.0-GGUF"
+  },
+  {
+    "_id": "6523d699a9a710554b02a6af",
+    "id": "TheBloke/Ziya-Coding-34B-v1.0-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Ziya-Coding-34B-v1.0-GPTQ"
   }
 ]
