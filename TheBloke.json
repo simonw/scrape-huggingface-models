@@ -5926,7 +5926,7 @@
   {
     "_id": "649a5dcd96d5747b35e30c6f",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-SuperHOT-8K-GPTQ",
-    "likes": 88,
+    "likes": 89,
     "private": false,
     "downloads": 997,
     "tags": [
@@ -34193,7 +34193,7 @@
   {
     "_id": "651960a04fadbeb643f2b51d",
     "id": "TheBloke/lince-zero-GGUF",
-    "likes": 3,
+    "likes": 2,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -36145,7 +36145,10 @@
       "safetensors",
       "llama",
       "text-generation",
-      "endpoints_compatible",
+      "zh",
+      "en",
+      "arxiv:2210.08590",
+      "license:gpl-3.0",
       "text-generation-inference",
       "region:us"
     ],
