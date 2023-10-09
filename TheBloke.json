@@ -19699,7 +19699,7 @@
   {
     "_id": "64f7a5295515d7dcce860396",
     "id": "TheBloke/Pygmalion-2-13B-GPTQ",
-    "likes": 31,
+    "likes": 32,
     "private": false,
     "downloads": 1508,
     "tags": [
@@ -36087,7 +36087,9 @@
       "safetensors",
       "llama",
       "text-generation",
-      "endpoints_compatible",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
       "text-generation-inference",
       "region:us"
     ],
