@@ -18453,7 +18453,6 @@
       "arxiv:2307.09288",
       "arxiv:2306.05685",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -19167,7 +19166,6 @@
       "en",
       "arxiv:2106.09685",
       "license:openrail++",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -26258,7 +26256,7 @@
   {
     "_id": "65097326cc02352e1e141e09",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-AWQ",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 668,
     "tags": [
@@ -36058,7 +36056,7 @@
   {
     "_id": "652338742d3ba46ccd2624da",
     "id": "TheBloke/PsyMedRP-v1-20B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
