@@ -9242,7 +9242,7 @@
   {
     "_id": "64b6ce072edcb4a1aa820cbe",
     "id": "TheBloke/Llama-2-7b-Chat-GPTQ",
-    "likes": 149,
+    "likes": 150,
     "private": false,
     "downloads": 88328,
     "tags": [
@@ -12698,7 +12698,7 @@
   {
     "_id": "64d3ac24bcab89854afe8215",
     "id": "TheBloke/WizardLM-70B-V1.0-GPTQ",
-    "likes": 25,
+    "likes": 26,
     "private": false,
     "downloads": 4299,
     "tags": [
@@ -32735,7 +32735,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 93,
+    "likes": 94,
     "private": false,
     "downloads": 933,
     "tags": [
@@ -36100,8 +36100,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "zh",
+      "en",
+      "arxiv:2210.08590",
+      "license:gpl-3.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Ziya-Coding-34B-v1.0-AWQ"
   },
   {
