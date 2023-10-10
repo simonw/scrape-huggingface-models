@@ -14999,7 +14999,7 @@
   {
     "_id": "64e78cdac3b2443fb30b9dda",
     "id": "TheBloke/CodeLlama-7B-Instruct-GGUF",
-    "likes": 61,
+    "likes": 62,
     "private": false,
     "downloads": 448,
     "tags": [
@@ -15020,7 +15020,7 @@
   {
     "_id": "64e78d0b1703da9e63ecc64c",
     "id": "TheBloke/CodeLlama-7B-Python-GGUF",
-    "likes": 28,
+    "likes": 29,
     "private": false,
     "downloads": 134,
     "tags": [
@@ -17167,7 +17167,7 @@
   {
     "_id": "64f0787aa8e82e0b85b503cd",
     "id": "TheBloke/MythoMax-L2-Kimiko-v2-13B-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 188,
     "tags": [
@@ -32804,7 +32804,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 172,
+    "likes": 173,
     "private": false,
     "downloads": 1851,
     "tags": [
@@ -36186,8 +36186,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "pytorch",
+      "german",
+      "deutsch",
+      "leolm",
+      "de",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/em_german_leo_mistral-GPTQ"
   },
   {
