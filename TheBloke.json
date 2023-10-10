@@ -32805,7 +32805,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 173,
+    "likes": 174,
     "private": false,
     "downloads": 1851,
     "tags": [
@@ -34573,7 +34573,7 @@
   {
     "_id": "651ad365bec377c8b849e5e9",
     "id": "TheBloke/Mistral-7B-OpenOrca-AWQ",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 1544,
     "tags": [
@@ -34595,7 +34595,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 108,
+    "likes": 109,
     "private": false,
     "downloads": 654,
     "tags": [
@@ -34617,7 +34617,7 @@
   {
     "_id": "651ad379eb6c502094708828",
     "id": "TheBloke/Mistral-7B-OpenOrca-GPTQ",
-    "likes": 43,
+    "likes": 44,
     "private": false,
     "downloads": 2676,
     "tags": [
@@ -36207,8 +36207,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "mistral",
+      "pytorch",
+      "german",
+      "deutsch",
+      "leolm",
+      "text-generation",
+      "de",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/em_german_leo_mistral-GGUF"
   },
   {
