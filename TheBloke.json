@@ -34883,7 +34883,7 @@
   {
     "_id": "651bf48063cd12f4ba8db2f5",
     "id": "TheBloke/TinyLlama-1.1B-Chat-v0.3-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 30,
     "tags": [
@@ -36155,5 +36155,38 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Ziya-Coding-34B-v1.0-GPTQ"
+  },
+  {
+    "_id": "65252a619738afe5c0253231",
+    "id": "TheBloke/em_german_leo_mistral-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/em_german_leo_mistral-AWQ"
+  },
+  {
+    "_id": "65252a61be2b695d217895f3",
+    "id": "TheBloke/em_german_leo_mistral-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/em_german_leo_mistral-GPTQ"
+  },
+  {
+    "_id": "65252a6b9e4a6675fe888d34",
+    "id": "TheBloke/em_german_leo_mistral-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/em_german_leo_mistral-GGUF"
   }
 ]
