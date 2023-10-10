@@ -32736,7 +32736,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 96,
+    "likes": 97,
     "private": false,
     "downloads": 970,
     "tags": [
@@ -34586,7 +34586,6 @@
       "arxiv:2306.02707",
       "arxiv:2301.13688",
       "license:apache-2.0",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -34969,8 +34968,6 @@
       "transformers",
       "mistral",
       "pytorch",
-      "llama",
-      "llama-2",
       "german",
       "deutsch",
       "text-generation",
@@ -36160,7 +36157,7 @@
   {
     "_id": "65252a619738afe5c0253231",
     "id": "TheBloke/em_german_leo_mistral-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -36183,7 +36180,7 @@
   {
     "_id": "65252a61be2b695d217895f3",
     "id": "TheBloke/em_german_leo_mistral-GPTQ",
-    "likes": 0,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -36206,7 +36203,7 @@
   {
     "_id": "65252a6b9e4a6675fe888d34",
     "id": "TheBloke/em_german_leo_mistral-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -36243,8 +36240,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "gpt_bigcode",
+      "text-generation",
+      "code",
+      "en",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/sqlcoder2-GPTQ"
   }
 ]
