@@ -35389,7 +35389,7 @@
   {
     "_id": "651d7d634ab1ff8146e647cf",
     "id": "TheBloke/Llama-2-7B-vietnamese-20k-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -36263,5 +36263,80 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/sqlcoder2-GPTQ"
+  },
+  {
+    "_id": "652614830b43fbfc410fd459",
+    "id": "TheBloke/Tinyllama-2-1b-miniguanaco-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Tinyllama-2-1b-miniguanaco-GPTQ"
+  },
+  {
+    "_id": "65261483bda6113c956c3d5a",
+    "id": "TheBloke/Tinyllama-2-1b-miniguanaco-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Tinyllama-2-1b-miniguanaco-GGUF"
+  },
+  {
+    "_id": "6526148dc0dcf4cffe6d20ec",
+    "id": "TheBloke/Tinyllama-2-1b-miniguanaco-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Tinyllama-2-1b-miniguanaco-AWQ"
+  },
+  {
+    "_id": "652615d40c3abf6c7b93c00c",
+    "id": "TheBloke/zephyr-7B-alpha-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/zephyr-7B-alpha-AWQ"
+  },
+  {
+    "_id": "652615d43177c2a79493a6b9",
+    "id": "TheBloke/zephyr-7B-alpha-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "generated_from_trainer",
+      "en",
+      "dataset:stingning/ultrachat",
+      "dataset:openbmb/UltraFeedback",
+      "arxiv:2305.18290",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/zephyr-7B-alpha-GGUF"
+  },
+  {
+    "_id": "652615dffa9f6e5694a1f7a0",
+    "id": "TheBloke/zephyr-7B-alpha-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/zephyr-7B-alpha-GPTQ"
   }
 ]
