@@ -36323,7 +36323,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -36453,8 +36453,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:garage-bAInd/Open-Platypus",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/tinyllama-1.1b-chat-v0.3_platypus-GPTQ"
   },
   {
@@ -36467,5 +36476,49 @@
       "region:us"
     ],
     "modelId": "TheBloke/tinyllama-1.1b-chat-v0.3_platypus-GGUF"
+  },
+  {
+    "_id": "652627aab017be1fc1ab24df",
+    "id": "TheBloke/UndiMix-v3-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/UndiMix-v3-13B-GGUF"
+  },
+  {
+    "_id": "652627b4c6a6a53e2e834d03",
+    "id": "TheBloke/UndiMix-v3-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/UndiMix-v3-13B-AWQ"
+  },
+  {
+    "_id": "652627bf904f30580f515028",
+    "id": "TheBloke/UndiMix-v3-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/UndiMix-v3-13B-GPTQ"
   }
 ]
