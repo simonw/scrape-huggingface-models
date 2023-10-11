@@ -9291,7 +9291,7 @@
   {
     "_id": "64b6d9d4bb1d8f2832c8be93",
     "id": "TheBloke/Llama-2-13B-chat-GPTQ",
-    "likes": 279,
+    "likes": 280,
     "private": false,
     "downloads": 119321,
     "tags": [
@@ -9635,7 +9635,7 @@
   {
     "_id": "64b9291ccbb0af9bfb2fffb8",
     "id": "TheBloke/llama-2-13B-Guanaco-QLoRA-GPTQ",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 45,
     "tags": [
@@ -19167,8 +19167,7 @@
       "arxiv:2106.09685",
       "license:openrail++",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "modelId": "TheBloke/CodeUp-Llama-2-13B-Chat-HF-GGUF"
   },
@@ -19800,7 +19799,7 @@
   {
     "_id": "64f7a58c8a4c5c401d6b6328",
     "id": "TheBloke/Mythalion-13B-GPTQ",
-    "likes": 42,
+    "likes": 43,
     "private": false,
     "downloads": 6667,
     "tags": [
@@ -19826,7 +19825,7 @@
   {
     "_id": "64f7a58cbcf14b0c915ad636",
     "id": "TheBloke/Mythalion-13B-GGUF",
-    "likes": 37,
+    "likes": 38,
     "private": false,
     "downloads": 341,
     "tags": [
@@ -20876,7 +20875,7 @@
   {
     "_id": "64fb89247021123688c7ec13",
     "id": "TheBloke/Guanaco-3B-Uncensored-v2-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 1547,
     "tags": [
@@ -32920,7 +32919,7 @@
   {
     "_id": "65148287463c4fd767f76cb6",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 923,
     "tags": [
@@ -36324,7 +36323,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -36532,7 +36531,7 @@
   {
     "_id": "652653590aaab896facf71a0",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
