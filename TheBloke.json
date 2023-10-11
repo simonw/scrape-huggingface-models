@@ -35650,7 +35650,7 @@
   {
     "_id": "651f3d1ad55b43b07992bb2d",
     "id": "TheBloke/airoboros-m-7B-3.0-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -36301,7 +36301,7 @@
   {
     "_id": "652615d40c3abf6c7b93c00c",
     "id": "TheBloke/zephyr-7B-alpha-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -36324,7 +36324,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 10,
+    "likes": 13,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -36344,7 +36344,7 @@
   {
     "_id": "652615dffa9f6e5694a1f7a0",
     "id": "TheBloke/zephyr-7B-alpha-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -36528,5 +36528,45 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/UndiMix-v3-13B-GPTQ"
+  },
+  {
+    "_id": "652653590aaab896facf71a0",
+    "id": "TheBloke/dolphin-2.1-mistral-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "en",
+      "dataset:ehartford/dolphin",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/dolphin-2.1-mistral-7B-GGUF"
+  },
+  {
+    "_id": "6526547f095931e1067d674f",
+    "id": "TheBloke/dolphin-2.1-mistral-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/dolphin-2.1-mistral-7B-GPTQ"
+  },
+  {
+    "_id": "652654dd8a21d8f14adcc200",
+    "id": "TheBloke/dolphin-2.1-mistral-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/dolphin-2.1-mistral-7B-AWQ"
   }
 ]
