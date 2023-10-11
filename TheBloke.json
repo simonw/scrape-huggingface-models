@@ -18495,7 +18495,7 @@
   {
     "_id": "64f6a9796537390231ad3d1d",
     "id": "TheBloke/vicuna-7B-v1.5-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 32,
     "tags": [
@@ -32735,7 +32735,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 102,
+    "likes": 103,
     "private": false,
     "downloads": 1024,
     "tags": [
@@ -36654,7 +36654,17 @@
       "safetensors",
       "mistral",
       "text-generation",
-      "endpoints_compatible",
+      "en",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:LDJnr/LessWrong-Amplify-Instruct",
+      "dataset:LDJnr/Pure-Dove",
+      "dataset:LDJnr/Verified-Camel",
+      "dataset:PygmalionAI/PIPPA",
+      "dataset:meta-math/MetaMathQA",
+      "dataset:riddle_sense",
+      "arxiv:2306.02707",
+      "arxiv:2301.13688",
+      "license:apache-2.0",
       "text-generation-inference",
       "region:us"
     ],
