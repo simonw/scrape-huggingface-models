@@ -15080,7 +15080,7 @@
   {
     "_id": "64e7bc1129a548f66a1ddb15",
     "id": "TheBloke/CodeLlama-13B-Instruct-GGUF",
-    "likes": 61,
+    "likes": 62,
     "private": false,
     "downloads": 340,
     "tags": [
@@ -32736,7 +32736,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 97,
+    "likes": 98,
     "private": false,
     "downloads": 970,
     "tags": [
@@ -33527,7 +33527,7 @@
   {
     "_id": "6515ff5b7f18cec973af0828",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GPTQ",
-    "likes": 35,
+    "likes": 36,
     "private": false,
     "downloads": 6623,
     "tags": [
@@ -36300,18 +36300,30 @@
   {
     "_id": "652615d40c3abf6c7b93c00c",
     "id": "TheBloke/zephyr-7B-alpha-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "generated_from_trainer",
+      "en",
+      "dataset:stingning/ultrachat",
+      "dataset:openbmb/UltraFeedback",
+      "arxiv:2305.18290",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/zephyr-7B-alpha-AWQ"
   },
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
