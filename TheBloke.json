@@ -31933,7 +31933,7 @@
   {
     "_id": "650f746c1765bd51f4bbeb5f",
     "id": "TheBloke/storytime-13B-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 189,
     "tags": [
@@ -36347,8 +36347,125 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "generated_from_trainer",
+      "en",
+      "dataset:stingning/ultrachat",
+      "dataset:openbmb/UltraFeedback",
+      "arxiv:2305.18290",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/zephyr-7B-alpha-GPTQ"
+  },
+  {
+    "_id": "6526233fb5cccc82eab67931",
+    "id": "TheBloke/TinyLlama-1.1B-1T-OpenOrca-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:bigcode/starcoderdata",
+      "dataset:cerebras/SlimPajama-627B",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/TinyLlama-1.1B-1T-OpenOrca-GGUF"
+  },
+  {
+    "_id": "6526234a0251cee15a68528c",
+    "id": "TheBloke/TinyLlama-1.1B-1T-OpenOrca-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:bigcode/starcoderdata",
+      "dataset:cerebras/SlimPajama-627B",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/TinyLlama-1.1B-1T-OpenOrca-AWQ"
+  },
+  {
+    "_id": "65262354f06ac0cf9a8ff025",
+    "id": "TheBloke/TinyLlama-1.1B-1T-OpenOrca-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:bigcode/starcoderdata",
+      "dataset:cerebras/SlimPajama-627B",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/TinyLlama-1.1B-1T-OpenOrca-GPTQ"
+  },
+  {
+    "_id": "652625232ceb2f426c495ee9",
+    "id": "TheBloke/tinyllama-1.1b-chat-v0.3_platypus-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:garage-bAInd/Open-Platypus",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/tinyllama-1.1b-chat-v0.3_platypus-AWQ"
+  },
+  {
+    "_id": "65262523f06ac0cf9a905736",
+    "id": "TheBloke/tinyllama-1.1b-chat-v0.3_platypus-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/tinyllama-1.1b-chat-v0.3_platypus-GPTQ"
+  },
+  {
+    "_id": "6526252d904f30580f50d176",
+    "id": "TheBloke/tinyllama-1.1b-chat-v0.3_platypus-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/tinyllama-1.1b-chat-v0.3_platypus-GGUF"
   }
 ]
