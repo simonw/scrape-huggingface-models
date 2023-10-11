@@ -3975,7 +3975,7 @@
   {
     "_id": "6489dec34344b9f97db273d9",
     "id": "TheBloke/WizardCoder-15B-1.0-GPTQ",
-    "likes": 158,
+    "likes": 159,
     "private": false,
     "downloads": 1714,
     "tags": [
@@ -18261,7 +18261,7 @@
   {
     "_id": "64f614a19c2aeb2a3dea1312",
     "id": "TheBloke/Llama-2-13B-GGUF",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 206,
     "tags": [
@@ -32736,7 +32736,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 98,
+    "likes": 99,
     "private": false,
     "downloads": 970,
     "tags": [
@@ -34760,7 +34760,7 @@
   {
     "_id": "651b43c9f9dd34ee028a7769",
     "id": "TheBloke/dolphin-2.0-mistral-7B-GGUF",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 17,
     "tags": [
@@ -35495,7 +35495,7 @@
   {
     "_id": "651ee10822aeffca25e5b9f6",
     "id": "TheBloke/CollectiveCognition-v1.1-Mistral-7B-GGUF",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -35874,7 +35874,8 @@
       "en",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Mistral-Trismegistus-7B-AWQ"
@@ -36323,7 +36324,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
