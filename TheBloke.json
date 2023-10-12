@@ -36920,11 +36920,47 @@
       "safetensors",
       "llama",
       "text-generation",
-      "endpoints_compatible",
+      "chat",
+      "roleplay",
+      "storywriting",
+      "license:cc-by-nc-4.0",
       "text-generation-inference",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/chronos007-70B-GPTQ"
+  },
+  {
+    "_id": "6528114db794fe3d06556d97",
+    "id": "TheBloke/FashionGPT-70B-v1.2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/FashionGPT-70B-v1.2-AWQ"
+  },
+  {
+    "_id": "65281157c0a5afef6931c877",
+    "id": "TheBloke/FashionGPT-70B-v1.2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/FashionGPT-70B-v1.2-GGUF"
+  },
+  {
+    "_id": "652811614126af677af43241",
+    "id": "TheBloke/FashionGPT-70B-v1.2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/FashionGPT-70B-v1.2-GPTQ"
   }
 ]
