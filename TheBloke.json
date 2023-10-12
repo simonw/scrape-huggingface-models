@@ -18412,7 +18412,7 @@
   {
     "_id": "64f69c38c3bdaab6f58e2b8c",
     "id": "TheBloke/MythoMax-L2-13B-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 137,
     "tags": [
@@ -23381,7 +23381,7 @@
   {
     "_id": "6508f0f161c4bb4636e19d6a",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-AWQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 195,
     "tags": [
@@ -23579,7 +23579,7 @@
   {
     "_id": "6508f9534882fab5c49565a0",
     "id": "TheBloke/WizardMath-70B-V1.0-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -36548,7 +36548,7 @@
   {
     "_id": "6526547f095931e1067d674f",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -36669,5 +36669,53 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/jackalope-7B-GPTQ"
+  },
+  {
+    "_id": "65276b359040bfac67fc96c5",
+    "id": "TheBloke/ZephRP-m7b-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "text-generation",
+      "en",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/ZephRP-m7b-GGUF"
+  },
+  {
+    "_id": "65276b3f00b4f7f2e84f6dfa",
+    "id": "TheBloke/ZephRP-m7b-GPTQ",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/ZephRP-m7b-GPTQ"
+  },
+  {
+    "_id": "65276b492051c0d15e52647b",
+    "id": "TheBloke/ZephRP-m7b-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/ZephRP-m7b-AWQ"
   }
 ]
