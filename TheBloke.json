@@ -23103,7 +23103,7 @@
   {
     "_id": "6508e5d8634e02df56a031e1",
     "id": "TheBloke/Llama-2-70B-AWQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 846,
     "tags": [
@@ -33912,7 +33912,7 @@
   {
     "_id": "651848d0684223da599fd97f",
     "id": "TheBloke/Kimiko-Mistral-7B-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -36224,7 +36224,7 @@
   {
     "_id": "65254d75965d12744137c618",
     "id": "TheBloke/sqlcoder2-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -36916,8 +36916,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "endpoints_compatible",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/chronos007-70B-GPTQ"
   }
 ]
