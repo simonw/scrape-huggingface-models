@@ -4543,7 +4543,7 @@
   {
     "_id": "648f8b48e8a1900eb631f2a2",
     "id": "TheBloke/baichuan-7B-GPTQ",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -11794,7 +11794,7 @@
   {
     "_id": "64cbe710e3cc4a476d801926",
     "id": "TheBloke/llama2_70b_chat_uncensored-GPTQ",
-    "likes": 42,
+    "likes": 43,
     "private": false,
     "downloads": 447,
     "tags": [
@@ -36019,7 +36019,7 @@
   {
     "_id": "652328c8e3419abdcf8eb5c8",
     "id": "TheBloke/Athena-v4-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 436,
     "tags": [
@@ -36228,8 +36228,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "starcoder",
+      "code",
+      "text-generation",
+      "en",
+      "license:other",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/sqlcoder2-GGUF"
   },
   {
@@ -36322,7 +36329,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 32,
+    "likes": 33,
     "private": false,
     "downloads": 10,
     "tags": [
