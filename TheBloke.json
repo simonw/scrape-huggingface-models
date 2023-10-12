@@ -5926,7 +5926,7 @@
   {
     "_id": "649a5dcd96d5747b35e30c6f",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-SuperHOT-8K-GPTQ",
-    "likes": 89,
+    "likes": 90,
     "private": false,
     "downloads": 1164,
     "tags": [
@@ -18163,7 +18163,7 @@
   {
     "_id": "64f3050ceb5f2982081cb828",
     "id": "TheBloke/OpenBuddy-Llama2-13B-v11.1-GGUF",
-    "likes": 17,
+    "likes": 16,
     "private": false,
     "downloads": 50,
     "tags": [
@@ -19927,7 +19927,7 @@
   {
     "_id": "64f7bac9fbbfe40336117526",
     "id": "TheBloke/Llama-2-7B-32K-Instruct-GGUF",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 190,
     "tags": [
@@ -36537,7 +36537,7 @@
   {
     "_id": "652653590aaab896facf71a0",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GGUF",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -36736,7 +36736,7 @@
   {
     "_id": "6527764534bf5ece73d12f73",
     "id": "TheBloke/ANIMA-Phi-Neptune-Mistral-7B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -36826,8 +36826,34 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "mistral",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/samantha-1.2-mistral-7B-GGUF"
+  },
+  {
+    "_id": "6527a6e9d82f71e8fcab5447",
+    "id": "TheBloke/samantha-1.2-mistral-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/samantha-1.2-mistral-7B-AWQ"
+  },
+  {
+    "_id": "6527a6f3e6778f9935bce123",
+    "id": "TheBloke/samantha-1.2-mistral-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/samantha-1.2-mistral-7B-GPTQ"
   }
 ]
