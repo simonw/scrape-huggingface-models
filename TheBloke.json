@@ -9218,7 +9218,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 584,
+    "likes": 585,
     "private": false,
     "downloads": 6060,
     "tags": [
@@ -32804,7 +32804,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 177,
+    "likes": 178,
     "private": false,
     "downloads": 2200,
     "tags": [
@@ -36329,7 +36329,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 37,
+    "likes": 38,
     "private": false,
     "downloads": 42,
     "tags": [
@@ -36944,10 +36944,14 @@
   {
     "_id": "65281157c0a5afef6931c877",
     "id": "TheBloke/FashionGPT-70B-v1.2-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/FashionGPT-70B-v1.2-GGUF"
