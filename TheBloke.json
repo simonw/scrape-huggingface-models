@@ -18189,7 +18189,7 @@
   {
     "_id": "64f5fd954d3b1dd311d30e28",
     "id": "TheBloke/Llama-2-7B-GGUF",
-    "likes": 41,
+    "likes": 42,
     "private": false,
     "downloads": 707,
     "tags": [
@@ -36733,6 +36733,23 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "adapter-transformers",
+      "chemistry",
+      "biology",
+      "climate",
+      "science",
+      "philosophy",
+      "nature",
+      "ecology",
+      "biomimicry",
+      "fauna",
+      "flora",
+      "dataset:Severian/Biomimicry",
+      "dataset:emrgnt-cmplxty/sciphi-textbooks-are-all-you-need",
+      "dataset:fmars/wiki_stem",
+      "dataset:fblgit/tree-of-knowledge",
+      "dataset:Severian/Bio-Design-Process",
+      "license:mit",
       "region:us"
     ],
     "modelId": "TheBloke/ANIMA-Phi-Neptune-Mistral-7B-GGUF"
@@ -36744,6 +36761,24 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "adapter-transformers",
+      "safetensors",
+      "chemistry",
+      "biology",
+      "climate",
+      "science",
+      "philosophy",
+      "nature",
+      "ecology",
+      "biomimicry",
+      "fauna",
+      "flora",
+      "dataset:Severian/Biomimicry",
+      "dataset:emrgnt-cmplxty/sciphi-textbooks-are-all-you-need",
+      "dataset:fmars/wiki_stem",
+      "dataset:fblgit/tree-of-knowledge",
+      "dataset:Severian/Bio-Design-Process",
+      "license:mit",
       "region:us"
     ],
     "modelId": "TheBloke/ANIMA-Phi-Neptune-Mistral-7B-AWQ"
