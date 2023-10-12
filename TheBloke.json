@@ -20473,7 +20473,7 @@
   {
     "_id": "64f97e6a159055330801aec5",
     "id": "TheBloke/Falcon-180B-Chat-GGUF",
-    "likes": 100,
+    "likes": 101,
     "private": false,
     "downloads": 284,
     "tags": [
@@ -36970,8 +36970,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/FashionGPT-70B-v1.2-GPTQ"
   }
 ]
