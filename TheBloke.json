@@ -6684,7 +6684,7 @@
   {
     "_id": "649df5cdab373ff26abd4822",
     "id": "TheBloke/UltraLM-13B-GPTQ",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 20,
     "tags": [
@@ -35429,7 +35429,7 @@
   {
     "_id": "651da0ff301b7bb5c4112da9",
     "id": "TheBloke/Amethyst-13B-Mistral-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -36818,5 +36818,16 @@
       "region:us"
     ],
     "modelId": "TheBloke/ANIMA-Phi-Neptune-Mistral-7B-GPTQ"
+  },
+  {
+    "_id": "65279e4c68608eb5bbc8ffe9",
+    "id": "TheBloke/samantha-1.2-mistral-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/samantha-1.2-mistral-7B-GGUF"
   }
 ]
