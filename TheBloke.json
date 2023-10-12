@@ -34572,7 +34572,7 @@
   {
     "_id": "651ad365bec377c8b849e5e9",
     "id": "TheBloke/Mistral-7B-OpenOrca-AWQ",
-    "likes": 18,
+    "likes": 19,
     "private": false,
     "downloads": 1746,
     "tags": [
@@ -36790,6 +36790,24 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "adapter-transformers",
+      "safetensors",
+      "chemistry",
+      "biology",
+      "climate",
+      "science",
+      "philosophy",
+      "nature",
+      "ecology",
+      "biomimicry",
+      "fauna",
+      "flora",
+      "dataset:Severian/Biomimicry",
+      "dataset:emrgnt-cmplxty/sciphi-textbooks-are-all-you-need",
+      "dataset:fmars/wiki_stem",
+      "dataset:fblgit/tree-of-knowledge",
+      "dataset:Severian/Bio-Design-Process",
+      "license:mit",
       "region:us"
     ],
     "modelId": "TheBloke/ANIMA-Phi-Neptune-Mistral-7B-GPTQ"
