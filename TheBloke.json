@@ -35409,7 +35409,7 @@
   {
     "_id": "651da0f5601547ed179e4378",
     "id": "TheBloke/Amethyst-13B-Mistral-AWQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 1196,
     "tags": [
@@ -36736,7 +36736,7 @@
   {
     "_id": "6527764534bf5ece73d12f73",
     "id": "TheBloke/ANIMA-Phi-Neptune-Mistral-7B-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -36877,8 +36877,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "chat",
+      "roleplay",
+      "storywriting",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/chronos007-70B-AWQ"
   },
   {
