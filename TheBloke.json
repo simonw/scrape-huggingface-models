@@ -36736,7 +36736,7 @@
   {
     "_id": "6527764534bf5ece73d12f73",
     "id": "TheBloke/ANIMA-Phi-Neptune-Mistral-7B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -36869,5 +36869,38 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/samantha-1.2-mistral-7B-GPTQ"
+  },
+  {
+    "_id": "6527bf861eb78901534e511a",
+    "id": "TheBloke/chronos007-70B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/chronos007-70B-AWQ"
+  },
+  {
+    "_id": "6527bf910ae663e384eca333",
+    "id": "TheBloke/chronos007-70B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/chronos007-70B-GGUF"
+  },
+  {
+    "_id": "6527bf9bd7bedf9045c46961",
+    "id": "TheBloke/chronos007-70B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/chronos007-70B-GPTQ"
   }
 ]
