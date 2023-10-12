@@ -36329,7 +36329,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 35,
+    "likes": 36,
     "private": false,
     "downloads": 42,
     "tags": [
@@ -36372,7 +36372,7 @@
   {
     "_id": "6526233fb5cccc82eab67931",
     "id": "TheBloke/TinyLlama-1.1B-1T-OpenOrca-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -36537,7 +36537,7 @@
   {
     "_id": "652653590aaab896facf71a0",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 11,
     "tags": [
@@ -36888,6 +36888,13 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "chat",
+      "roleplay",
+      "storywriting",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/chronos007-70B-GGUF"
