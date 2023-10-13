@@ -4444,7 +4444,7 @@
   {
     "_id": "648efb5f25a12e220db955f9",
     "id": "TheBloke/WizardLM-7B-V1.0-Uncensored-GGML",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -19562,7 +19562,7 @@
   {
     "_id": "64f78668aca1280775860431",
     "id": "TheBloke/OpenOrca-Platypus2-13B-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 51,
     "tags": [
@@ -37041,8 +37041,86 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "llama-2",
+      "code",
+      "en",
+      "dataset:jondurbin/airoboros-2.2",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:garage-bAInd/Open-Platypus",
+      "dataset:WizardLM/WizardLM_evol_instruct_V2_196k",
+      "dataset:TokenBender/python_eval_instruct_51k",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/speechless-code-mistral-7B-v1.0-GPTQ"
+  },
+  {
+    "_id": "6528e88dd63c4798ed82805b",
+    "id": "TheBloke/CollectiveCognition-v1-Mistral-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "mistral-7b",
+      "instruct",
+      "finetune",
+      "gpt4",
+      "synthetic data",
+      "distillation",
+      "sharegpt",
+      "en",
+      "dataset:CollectiveCognition/chats-data-2023-09-27",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/CollectiveCognition-v1-Mistral-7B-AWQ"
+  },
+  {
+    "_id": "6528e8970b44378dcc5ae28f",
+    "id": "TheBloke/CollectiveCognition-v1-Mistral-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/CollectiveCognition-v1-Mistral-7B-GPTQ"
+  },
+  {
+    "_id": "6528e8a236b7c441d33a459d",
+    "id": "TheBloke/CollectiveCognition-v1-Mistral-7B-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "mistral-7b",
+      "instruct",
+      "finetune",
+      "gpt4",
+      "synthetic data",
+      "distillation",
+      "sharegpt",
+      "en",
+      "dataset:CollectiveCognition/chats-data-2023-09-27",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/CollectiveCognition-v1-Mistral-7B-GGUF"
   }
 ]
