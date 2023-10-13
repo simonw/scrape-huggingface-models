@@ -9120,7 +9120,7 @@
   {
     "_id": "64b6c6798f63c1ad2b13762a",
     "id": "TheBloke/Llama-2-7B-GGML",
-    "likes": 198,
+    "likes": 199,
     "private": false,
     "downloads": 887,
     "tags": [
@@ -15292,7 +15292,7 @@
   {
     "_id": "64e7d00dae53e70cda1de235",
     "id": "TheBloke/CodeLlama-34B-Instruct-GGUF",
-    "likes": 65,
+    "likes": 66,
     "private": false,
     "downloads": 136,
     "tags": [
@@ -36736,7 +36736,7 @@
   {
     "_id": "6527764534bf5ece73d12f73",
     "id": "TheBloke/ANIMA-Phi-Neptune-Mistral-7B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -36980,5 +36980,38 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/FashionGPT-70B-v1.2-GPTQ"
+  },
+  {
+    "_id": "6528dead1ce90a096149ec45",
+    "id": "TheBloke/speechless-code-mistral-7B-v1.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/speechless-code-mistral-7B-v1.0-GGUF"
+  },
+  {
+    "_id": "6528deb79903f7a1c907897f",
+    "id": "TheBloke/speechless-code-mistral-7B-v1.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/speechless-code-mistral-7B-v1.0-AWQ"
+  },
+  {
+    "_id": "6528dec18297110ffe461397",
+    "id": "TheBloke/speechless-code-mistral-7B-v1.0-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/speechless-code-mistral-7B-v1.0-GPTQ"
   }
 ]
