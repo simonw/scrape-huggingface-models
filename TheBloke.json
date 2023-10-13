@@ -22379,7 +22379,7 @@
   {
     "_id": "650380d1c0620ed4bd10ca72",
     "id": "TheBloke/CodeFuse-CodeLlama-34B-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 43,
     "tags": [
@@ -36329,7 +36329,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 41,
+    "likes": 42,
     "private": false,
     "downloads": 42,
     "tags": [
@@ -36984,7 +36984,7 @@
   {
     "_id": "6528dead1ce90a096149ec45",
     "id": "TheBloke/speechless-code-mistral-7B-v1.0-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -37149,5 +37149,69 @@
       "region:us"
     ],
     "modelId": "TheBloke/speechless-codellama-34b-v2.0-GPTQ"
+  },
+  {
+    "_id": "6528f3af4638938a727237ea",
+    "id": "TheBloke/speechless-tora-code-7B-v1.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "llama-2",
+      "code",
+      "text-generation",
+      "en",
+      "dataset:jondurbin/airoboros-2.2",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:garage-bAInd/Open-Platypus",
+      "dataset:WizardLM/WizardLM_evol_instruct_V2_196k",
+      "dataset:TokenBender/python_eval_instruct_51k",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/speechless-tora-code-7B-v1.0-GGUF"
+  },
+  {
+    "_id": "6528f3b97149f9d196a06694",
+    "id": "TheBloke/speechless-tora-code-7B-v1.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "llama-2",
+      "code",
+      "en",
+      "dataset:jondurbin/airoboros-2.2",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:garage-bAInd/Open-Platypus",
+      "dataset:WizardLM/WizardLM_evol_instruct_V2_196k",
+      "dataset:TokenBender/python_eval_instruct_51k",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/speechless-tora-code-7B-v1.0-AWQ"
+  },
+  {
+    "_id": "6528f3c41ddb701dc2ddb013",
+    "id": "TheBloke/speechless-tora-code-7B-v1.0-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/speechless-tora-code-7B-v1.0-GPTQ"
   }
 ]
