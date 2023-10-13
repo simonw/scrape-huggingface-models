@@ -1005,7 +1005,6 @@
     "downloads": 0,
     "tags": [
       "license:other",
-      "has_space",
       "region:us"
     ],
     "modelId": "TheBloke/WizardLM-13B-Uncensored-GGML"
@@ -4337,7 +4336,6 @@
       "dataset:WizardLM/WizardLM_evol_instruct_70k",
       "arxiv:2304.12244",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -5166,7 +5164,6 @@
       "en",
       "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
       "license:other",
-      "has_space",
       "region:us"
     ],
     "modelId": "TheBloke/WizardLM-33B-V1.0-Uncensored-GGML"
@@ -5374,7 +5371,6 @@
       "text-generation",
       "custom_code",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -5407,7 +5403,6 @@
       "text-generation",
       "custom_code",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -5485,7 +5480,6 @@
       "chatbot",
       "storywriting",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -6665,7 +6659,6 @@
     "downloads": 0,
     "tags": [
       "license:other",
-      "has_space",
       "region:us"
     ],
     "modelId": "TheBloke/airoboros-65B-gpt4-1.4-GGML"
@@ -7271,7 +7264,6 @@
       "text-generation",
       "en",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -11544,7 +11536,6 @@
       "storywriting",
       "generalist-model",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -12888,7 +12879,6 @@
       "arxiv:2308.07317",
       "arxiv:2307.09288",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -13136,7 +13126,6 @@
       "llama",
       "en",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -13746,7 +13735,6 @@
       "transformers",
       "llama",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -15258,7 +15246,6 @@
       "custom_code",
       "license:llama2",
       "endpoints_compatible",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -15851,7 +15838,7 @@
   {
     "_id": "64e9e5008c523cced2035915",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GPTQ",
-    "likes": 55,
+    "likes": 56,
     "private": false,
     "downloads": 2359,
     "tags": [
@@ -16007,7 +15994,7 @@
   {
     "_id": "64ea007fe8dd717fd3ef297c",
     "id": "TheBloke/Phind-CodeLlama-34B-Python-v1-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 180,
     "tags": [
@@ -16379,7 +16366,6 @@
       "arxiv:2303.08774",
       "license:llama2",
       "model-index",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -18712,7 +18698,6 @@
       "synthetic instruction",
       "en",
       "license:mit",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -29346,7 +29331,6 @@
       "arxiv:2306.08568",
       "arxiv:2308.09583",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -32817,7 +32801,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 106,
+    "likes": 107,
     "private": false,
     "downloads": 1370,
     "tags": [
@@ -36625,7 +36609,7 @@
   {
     "_id": "652653590aaab896facf71a0",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GGUF",
-    "likes": 18,
+    "likes": 19,
     "private": false,
     "downloads": 16,
     "tags": [
@@ -37321,7 +37305,7 @@
   {
     "_id": "65291a244d7cf551ac495f29",
     "id": "TheBloke/speechless-codellama-34b-v2.0-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
