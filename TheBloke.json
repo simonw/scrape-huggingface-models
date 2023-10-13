@@ -9218,7 +9218,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 586,
+    "likes": 587,
     "private": false,
     "downloads": 6060,
     "tags": [
@@ -36988,8 +36988,23 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "mistral",
+      "llama-2",
+      "code",
+      "text-generation",
+      "en",
+      "dataset:jondurbin/airoboros-2.2",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:garage-bAInd/Open-Platypus",
+      "dataset:WizardLM/WizardLM_evol_instruct_V2_196k",
+      "dataset:TokenBender/python_eval_instruct_51k",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/speechless-code-mistral-7B-v1.0-GGUF"
   },
   {
@@ -36999,8 +37014,24 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "llama-2",
+      "code",
+      "en",
+      "dataset:jondurbin/airoboros-2.2",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:garage-bAInd/Open-Platypus",
+      "dataset:WizardLM/WizardLM_evol_instruct_V2_196k",
+      "dataset:TokenBender/python_eval_instruct_51k",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/speechless-code-mistral-7B-v1.0-AWQ"
   },
   {
