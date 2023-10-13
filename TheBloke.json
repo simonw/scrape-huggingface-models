@@ -36342,7 +36342,8 @@
       "arxiv:2305.18290",
       "license:cc-by-nc-4.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/zephyr-7B-alpha-GGUF"
   },
@@ -36384,7 +36385,8 @@
       "dataset:cerebras/SlimPajama-627B",
       "license:other",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/TinyLlama-1.1B-1T-OpenOrca-GGUF"
   },
@@ -37210,8 +37212,24 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "llama-2",
+      "code",
+      "en",
+      "dataset:jondurbin/airoboros-2.2",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:garage-bAInd/Open-Platypus",
+      "dataset:WizardLM/WizardLM_evol_instruct_V2_196k",
+      "dataset:TokenBender/python_eval_instruct_51k",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/speechless-tora-code-7B-v1.0-GPTQ"
   },
   {
@@ -37221,8 +37239,23 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "llama-2",
+      "code",
+      "text-generation",
+      "en",
+      "dataset:jondurbin/airoboros-2.2",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:garage-bAInd/Open-Platypus",
+      "dataset:WizardLM/WizardLM_evol_instruct_V2_196k",
+      "arxiv:2308.12950",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/speechless-codellama-34b-v2.0-GGUF"
   },
   {
