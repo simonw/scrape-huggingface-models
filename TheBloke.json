@@ -33618,7 +33618,7 @@
   {
     "_id": "65170566fff98a48b2a649f7",
     "id": "TheBloke/Synthia-7B-v1.3-GGUF",
-    "likes": 26,
+    "likes": 27,
     "private": false,
     "downloads": 145,
     "tags": [
@@ -34921,7 +34921,7 @@
   {
     "_id": "651bf6a4fb8e5721f7033b7f",
     "id": "TheBloke/TinyLlama-1.1B-python-v0.1-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 11,
     "tags": [
@@ -36284,7 +36284,7 @@
   {
     "_id": "65261483bda6113c956c3d5a",
     "id": "TheBloke/Tinyllama-2-1b-miniguanaco-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -37213,5 +37213,27 @@
       "region:us"
     ],
     "modelId": "TheBloke/speechless-tora-code-7B-v1.0-GPTQ"
+  },
+  {
+    "_id": "65291a244d7cf551ac495f29",
+    "id": "TheBloke/speechless-codellama-34b-v2.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/speechless-codellama-34b-v2.0-GGUF"
+  },
+  {
+    "_id": "65291a2e9474946b8545b350",
+    "id": "TheBloke/speechless-codellama-34b-v2.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/speechless-codellama-34b-v2.0-AWQ"
   }
 ]
