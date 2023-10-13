@@ -15292,7 +15292,7 @@
   {
     "_id": "64e7d00dae53e70cda1de235",
     "id": "TheBloke/CodeLlama-34B-Instruct-GGUF",
-    "likes": 66,
+    "likes": 67,
     "private": false,
     "downloads": 128,
     "tags": [
@@ -37265,8 +37265,24 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "llama-2",
+      "code",
+      "en",
+      "dataset:jondurbin/airoboros-2.2",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:garage-bAInd/Open-Platypus",
+      "dataset:WizardLM/WizardLM_evol_instruct_V2_196k",
+      "arxiv:2308.12950",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/speechless-codellama-34b-v2.0-AWQ"
   }
 ]
