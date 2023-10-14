@@ -35495,7 +35495,7 @@
   {
     "_id": "651ee10822aeffca25e5b9f6",
     "id": "TheBloke/CollectiveCognition-v1.1-Mistral-7B-GGUF",
-    "likes": 26,
+    "likes": 27,
     "private": false,
     "downloads": 35,
     "tags": [
@@ -36559,7 +36559,7 @@
   {
     "_id": "652653590aaab896facf71a0",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GGUF",
-    "likes": 28,
+    "likes": 29,
     "private": false,
     "downloads": 26,
     "tags": [
@@ -37608,5 +37608,91 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/tora-13B-v1.0-AWQ"
+  },
+  {
+    "_id": "652af5e5caddc9e608f9d97d",
+    "id": "TheBloke/tora-70B-v1.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "code",
+      "math",
+      "text-generation",
+      "en",
+      "dataset:gsm8k",
+      "dataset:competition_math",
+      "arxiv:2309.17452",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/tora-70B-v1.0-GGUF"
+  },
+  {
+    "_id": "652af5ef375b3a8bc1687243",
+    "id": "TheBloke/tora-70B-v1.0-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/tora-70B-v1.0-GPTQ"
+  },
+  {
+    "_id": "652af5f93b5997ed7194437b",
+    "id": "TheBloke/tora-70B-v1.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/tora-70B-v1.0-AWQ"
+  },
+  {
+    "_id": "652af9acb20d50044709391b",
+    "id": "TheBloke/SauerkrautLM-7B-v1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/SauerkrautLM-7B-v1-AWQ"
+  },
+  {
+    "_id": "652af9b6f0e232695dc266cc",
+    "id": "TheBloke/SauerkrautLM-7B-v1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/SauerkrautLM-7B-v1-GPTQ"
+  },
+  {
+    "_id": "652af9c13a416e1f21a6296b",
+    "id": "TheBloke/SauerkrautLM-7B-v1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "text-generation",
+      "de",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/SauerkrautLM-7B-v1-GGUF"
   }
 ]
