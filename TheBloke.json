@@ -21530,8 +21530,7 @@
       "dataset:Open-Orca/OpenOrca",
       "license:cc-by-nc-4.0",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Marcoroni-7b-GPTQ"
@@ -33538,8 +33537,7 @@
       "finetuned",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Mistral-7B-Instruct-v0.1-GPTQ"
