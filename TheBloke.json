@@ -10892,7 +10892,6 @@
       "arxiv:2307.09288",
       "arxiv:2306.02707",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -11568,7 +11567,7 @@
   {
     "_id": "64cb603ff103036e23be94c9",
     "id": "TheBloke/vicuna-7B-v1.5-16K-GGML",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -19825,7 +19824,7 @@
   {
     "_id": "64f7a58cbcf14b0c915ad636",
     "id": "TheBloke/Mythalion-13B-GGUF",
-    "likes": 41,
+    "likes": 42,
     "private": false,
     "downloads": 360,
     "tags": [
@@ -19919,7 +19918,8 @@
       "arxiv:2306.02707",
       "license:llama2",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/StableBeluga-7B-GGUF"
@@ -28403,7 +28403,7 @@
   {
     "_id": "650a276ad26103b6eed600e5",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 45,
     "tags": [
