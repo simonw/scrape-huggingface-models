@@ -10090,7 +10090,7 @@
   {
     "_id": "64bb0fee1363b5c7996fc358",
     "id": "TheBloke/llama2_7b_chat_uncensored-GPTQ",
-    "likes": 52,
+    "likes": 53,
     "private": false,
     "downloads": 5555,
     "tags": [
@@ -11325,7 +11325,7 @@
   {
     "_id": "64c975441c25d2c581c51fda",
     "id": "TheBloke/CodeUp-Llama-2-13B-Chat-HF-GPTQ",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 278,
     "tags": [
@@ -11793,7 +11793,7 @@
   {
     "_id": "64cbe710e3cc4a476d801926",
     "id": "TheBloke/llama2_70b_chat_uncensored-GPTQ",
-    "likes": 43,
+    "likes": 44,
     "private": false,
     "downloads": 369,
     "tags": [
@@ -18212,7 +18212,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7b-Chat-GGUF",
-    "likes": 85,
+    "likes": 86,
     "private": false,
     "downloads": 3530,
     "tags": [
@@ -19519,7 +19519,7 @@
   {
     "_id": "64f7855eaca128077585d86b",
     "id": "TheBloke/WizardLM-1.0-Uncensored-CodeLlama-34B-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 219,
     "tags": [
@@ -32736,7 +32736,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 107,
+    "likes": 108,
     "private": false,
     "downloads": 1599,
     "tags": [
@@ -37164,7 +37164,7 @@
   {
     "_id": "6528f015578679aac7a4a425",
     "id": "TheBloke/speechless-codellama-34b-v2.0-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -37639,8 +37639,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code",
+      "math",
+      "en",
+      "dataset:gsm8k",
+      "dataset:competition_math",
+      "arxiv:2309.17452",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/tora-70B-v1.0-GPTQ"
   },
   {
@@ -37729,7 +37742,7 @@
   {
     "_id": "652b01aca2d97e682b3369b0",
     "id": "TheBloke/SauerkrautLM-3B-v1-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -37842,8 +37855,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "text-generation",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/genz-13B-v2-GGUF"
   },
   {
@@ -37853,8 +37873,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/genz-13B-v2-AWQ"
   },
   {
@@ -37864,8 +37892,61 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/genz-13B-v2-GPTQ"
+  },
+  {
+    "_id": "652b24531aeebac333e1a57a",
+    "id": "TheBloke/tora-7B-v1.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "code",
+      "math",
+      "text-generation",
+      "en",
+      "dataset:gsm8k",
+      "dataset:competition_math",
+      "arxiv:2309.17452",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/tora-7B-v1.0-GGUF"
+  },
+  {
+    "_id": "652b2453caddc9e608fe8f1a",
+    "id": "TheBloke/tora-7B-v1.0-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/tora-7B-v1.0-GPTQ"
+  },
+  {
+    "_id": "652b245df6390fe048e5fd14",
+    "id": "TheBloke/tora-7B-v1.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/tora-7B-v1.0-AWQ"
   }
 ]
