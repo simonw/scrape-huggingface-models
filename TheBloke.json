@@ -21530,7 +21530,8 @@
       "dataset:Open-Orca/OpenOrca",
       "license:cc-by-nc-4.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Marcoroni-7b-GPTQ"
@@ -32664,7 +32665,7 @@
   {
     "_id": "65140ceedbb1fb6b0495f86f",
     "id": "TheBloke/U-Amethyst-20B-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 222,
     "tags": [
@@ -33526,7 +33527,7 @@
   {
     "_id": "6515ff5b7f18cec973af0828",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GPTQ",
-    "likes": 40,
+    "likes": 41,
     "private": false,
     "downloads": 9501,
     "tags": [
@@ -33537,7 +33538,8 @@
       "finetuned",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Mistral-7B-Instruct-v0.1-GPTQ"
