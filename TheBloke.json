@@ -16284,7 +16284,7 @@
   {
     "_id": "64eb8a892800cf7e9cb2541b",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GPTQ",
-    "likes": 62,
+    "likes": 63,
     "private": false,
     "downloads": 35260,
     "tags": [
@@ -16925,7 +16925,7 @@
   {
     "_id": "64ef4eea76af29f31126c97c",
     "id": "TheBloke/Athena-v1-GGUF",
-    "likes": 23,
+    "likes": 24,
     "private": false,
     "downloads": 291,
     "tags": [
@@ -17146,7 +17146,7 @@
   {
     "_id": "64efcd379e97aa906d92d5a5",
     "id": "TheBloke/fiction.live-Kimiko-V2-70B-fp16",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 3978,
     "tags": [
@@ -36278,8 +36278,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Tinyllama-2-1b-miniguanaco-GPTQ"
   },
   {
@@ -36289,6 +36296,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Tinyllama-2-1b-miniguanaco-GGUF"
@@ -36300,8 +36311,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Tinyllama-2-1b-miniguanaco-AWQ"
   },
   {
@@ -36915,7 +36933,7 @@
   {
     "_id": "6527bf9bd7bedf9045c46961",
     "id": "TheBloke/chronos007-70B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -37301,5 +37319,71 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/speechless-codellama-34b-v2.0-AWQ"
+  },
+  {
+    "_id": "652abeef62a488518973d10a",
+    "id": "TheBloke/ShiningValiant-1.2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/ShiningValiant-1.2-GGUF"
+  },
+  {
+    "_id": "652abef9aba3aefb7db1e2e7",
+    "id": "TheBloke/ShiningValiant-1.2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/ShiningValiant-1.2-GPTQ"
+  },
+  {
+    "_id": "652abf04f0e232695dbc7494",
+    "id": "TheBloke/ShiningValiant-1.2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/ShiningValiant-1.2-AWQ"
+  },
+  {
+    "_id": "652ac29662a48851897453af",
+    "id": "TheBloke/SauerkrautLM-13B-v1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/SauerkrautLM-13B-v1-GGUF"
+  },
+  {
+    "_id": "652ac2a04d0eef4a2b069735",
+    "id": "TheBloke/SauerkrautLM-13B-v1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/SauerkrautLM-13B-v1-GPTQ"
+  },
+  {
+    "_id": "652ac2aab20d50044702d9af",
+    "id": "TheBloke/SauerkrautLM-13B-v1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/SauerkrautLM-13B-v1-AWQ"
   }
 ]
