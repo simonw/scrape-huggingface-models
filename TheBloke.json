@@ -10253,7 +10253,7 @@
   {
     "_id": "64bce77a8496ee0fb6ee5350",
     "id": "TheBloke/Dolphin-Llama-13B-GPTQ",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 76,
     "tags": [
@@ -35932,7 +35932,7 @@
   {
     "_id": "6522e53f706c755148b22c2f",
     "id": "TheBloke/Llama2-chat-AYB-13B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 23,
     "tags": [
@@ -35967,7 +35967,7 @@
   {
     "_id": "6522e5492a16045c0966662b",
     "id": "TheBloke/Llama2-chat-AYB-13B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 58,
     "tags": [
@@ -36319,7 +36319,7 @@
       "dataset:stingning/ultrachat",
       "dataset:openbmb/UltraFeedback",
       "arxiv:2305.18290",
-      "license:cc-by-nc-4.0",
+      "license:mit",
       "text-generation-inference",
       "region:us"
     ],
@@ -36329,7 +36329,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 48,
+    "likes": 49,
     "private": false,
     "downloads": 73,
     "tags": [
@@ -36340,7 +36340,7 @@
       "dataset:stingning/ultrachat",
       "dataset:openbmb/UltraFeedback",
       "arxiv:2305.18290",
-      "license:cc-by-nc-4.0",
+      "license:mit",
       "has_space",
       "text-generation-inference",
       "region:us"
@@ -36363,7 +36363,7 @@
       "dataset:stingning/ultrachat",
       "dataset:openbmb/UltraFeedback",
       "arxiv:2305.18290",
-      "license:cc-by-nc-4.0",
+      "license:mit",
       "text-generation-inference",
       "region:us"
     ],
