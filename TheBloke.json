@@ -36349,7 +36349,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 54,
+    "likes": 55,
     "private": false,
     "downloads": 105,
     "tags": [
@@ -37322,17 +37322,6 @@
     "modelId": "TheBloke/speechless-codellama-34b-v2.0-AWQ"
   },
   {
-    "_id": "652abeef62a488518973d10a",
-    "id": "TheBloke/ShiningValiant-1.2-GGUF",
-    "likes": 0,
-    "private": false,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "modelId": "TheBloke/ShiningValiant-1.2-GGUF"
-  },
-  {
     "_id": "652abef9aba3aefb7db1e2e7",
     "id": "TheBloke/ShiningValiant-1.2-GPTQ",
     "likes": 0,
@@ -37469,8 +37458,62 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2309.11674",
+      "license:mit",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/ALMA-13B-GPTQ"
+  },
+  {
+    "_id": "652adb5dff2202020e981883",
+    "id": "TheBloke/ALMA-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/ALMA-7B-GPTQ"
+  },
+  {
+    "_id": "652adb681198736f31f991b4",
+    "id": "TheBloke/ALMA-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "arxiv:2309.11674",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/ALMA-7B-GGUF"
+  },
+  {
+    "_id": "652adb724267f8c80250538a",
+    "id": "TheBloke/ALMA-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2309.11674",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/ALMA-7B-AWQ"
   }
 ]
