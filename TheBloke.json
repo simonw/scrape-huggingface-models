@@ -37697,7 +37697,7 @@
   {
     "_id": "652af9c13a416e1f21a6296b",
     "id": "TheBloke/SauerkrautLM-7B-v1-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -37716,7 +37716,7 @@
   {
     "_id": "652b01aca2d97e682b3369b0",
     "id": "TheBloke/SauerkrautLM-3B-v1-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -37750,8 +37750,50 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "de",
+      "en",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/SauerkrautLM-3B-v1-GPTQ"
+  },
+  {
+    "_id": "652b10b4680fa36b3bfcb2b0",
+    "id": "TheBloke/SauerkrautLM-7B-v1-mistral-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/SauerkrautLM-7B-v1-mistral-AWQ"
+  },
+  {
+    "_id": "652b10be4d8e7e7646ef41fb",
+    "id": "TheBloke/SauerkrautLM-7B-v1-mistral-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/SauerkrautLM-7B-v1-mistral-GGUF"
+  },
+  {
+    "_id": "652b10be90e317f243815cf1",
+    "id": "TheBloke/SauerkrautLM-7B-v1-mistral-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/SauerkrautLM-7B-v1-mistral-GPTQ"
   }
 ]
