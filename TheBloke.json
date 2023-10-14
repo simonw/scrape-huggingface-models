@@ -33538,7 +33538,8 @@
       "finetuned",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Mistral-7B-Instruct-v0.1-GPTQ"
@@ -36757,7 +36758,7 @@
   {
     "_id": "6527764534bf5ece73d12f73",
     "id": "TheBloke/ANIMA-Phi-Neptune-Mistral-7B-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -37356,7 +37357,7 @@
   {
     "_id": "652ac29662a48851897453af",
     "id": "TheBloke/SauerkrautLM-13B-v1-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -37379,8 +37380,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "de",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/SauerkrautLM-13B-v1-GPTQ"
   },
   {
@@ -37402,5 +37412,38 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/SauerkrautLM-13B-v1-AWQ"
+  },
+  {
+    "_id": "652ad0c7ff2202020e96f237",
+    "id": "TheBloke/ALMA-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/ALMA-13B-GGUF"
+  },
+  {
+    "_id": "652ad0c8880d145ed564677a",
+    "id": "TheBloke/ALMA-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/ALMA-13B-AWQ"
+  },
+  {
+    "_id": "652ad0d2802e3d1a4fa9079c",
+    "id": "TheBloke/ALMA-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/ALMA-13B-GPTQ"
   }
 ]
