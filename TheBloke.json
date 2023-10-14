@@ -8460,7 +8460,7 @@
   {
     "_id": "64a8476931f620201db7b98b",
     "id": "TheBloke/WizardLM-13B-V1-1-SuperHOT-8K-GPTQ",
-    "likes": 44,
+    "likes": 45,
     "private": false,
     "downloads": 3217,
     "tags": [
@@ -36349,7 +36349,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 59,
+    "likes": 60,
     "private": false,
     "downloads": 105,
     "tags": [
@@ -36844,7 +36844,7 @@
   {
     "_id": "65279e4c68608eb5bbc8ffe9",
     "id": "TheBloke/samantha-1.2-mistral-7B-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -36877,7 +36877,7 @@
   {
     "_id": "6527a6f3e6778f9935bce123",
     "id": "TheBloke/samantha-1.2-mistral-7B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 13,
     "tags": [
@@ -37650,8 +37650,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code",
+      "math",
+      "en",
+      "dataset:gsm8k",
+      "dataset:competition_math",
+      "arxiv:2309.17452",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/tora-70B-v1.0-AWQ"
   },
   {
@@ -37770,8 +37783,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "de",
+      "en",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/SauerkrautLM-7B-v1-mistral-AWQ"
   },
   {
@@ -37781,8 +37803,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "mistral",
+      "text-generation",
+      "de",
+      "en",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/SauerkrautLM-7B-v1-mistral-GGUF"
   },
   {
