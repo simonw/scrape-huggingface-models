@@ -32804,7 +32804,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 182,
+    "likes": 183,
     "private": false,
     "downloads": 2460,
     "tags": [
@@ -37148,8 +37148,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "endpoints_compatible",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/speechless-codellama-34b-v2.0-GPTQ"
   },
   {
