@@ -36293,7 +36293,7 @@
   {
     "_id": "65261483bda6113c956c3d5a",
     "id": "TheBloke/Tinyllama-2-1b-miniguanaco-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -36559,7 +36559,7 @@
   {
     "_id": "652653590aaab896facf71a0",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GGUF",
-    "likes": 27,
+    "likes": 28,
     "private": false,
     "downloads": 26,
     "tags": [
@@ -37350,8 +37350,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "shining-valiant",
+      "valiant",
+      "valiant-labs",
+      "llama-2",
+      "llama-2-chat",
+      "70b",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/ShiningValiant-1.2-AWQ"
   },
   {
@@ -37420,6 +37434,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "arxiv:2309.11674",
+      "license:mit",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/ALMA-13B-GGUF"
@@ -37431,8 +37450,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2309.11674",
+      "license:mit",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/ALMA-13B-AWQ"
   },
   {
