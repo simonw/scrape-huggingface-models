@@ -31070,7 +31070,7 @@
   {
     "_id": "650c03c9987b1ae4e520326f",
     "id": "TheBloke/Xwin-LM-70B-V0.1-AWQ",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 1015,
     "tags": [
@@ -37822,8 +37822,50 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "de",
+      "en",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/SauerkrautLM-7B-v1-mistral-GPTQ"
+  },
+  {
+    "_id": "652b1c662ecb5062d6afed59",
+    "id": "TheBloke/genz-13B-v2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/genz-13B-v2-GGUF"
+  },
+  {
+    "_id": "652b1c701aeebac333e0a5e1",
+    "id": "TheBloke/genz-13B-v2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/genz-13B-v2-AWQ"
+  },
+  {
+    "_id": "652b1c7aaba3aefb7dbb44c2",
+    "id": "TheBloke/genz-13B-v2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/genz-13B-v2-GPTQ"
   }
 ]
