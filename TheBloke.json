@@ -6388,7 +6388,7 @@
   {
     "_id": "649ca07f0c65a5d9697945a1",
     "id": "TheBloke/WizardLM-Uncensored-SuperCOT-StoryTelling-30B-SuperHOT-8K-GPTQ",
-    "likes": 39,
+    "likes": 40,
     "private": false,
     "downloads": 125,
     "tags": [
@@ -19938,7 +19938,8 @@
       "arxiv:2307.03172",
       "license:llama2",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/Llama-2-7B-32K-Instruct-GGUF"
   },
@@ -36329,7 +36330,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 50,
+    "likes": 51,
     "private": false,
     "downloads": 105,
     "tags": [
@@ -36557,7 +36558,7 @@
   {
     "_id": "6526547f095931e1067d674f",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 290,
     "tags": [
@@ -37093,7 +37094,7 @@
   {
     "_id": "6528e8970b44378dcc5ae28f",
     "id": "TheBloke/CollectiveCognition-v1-Mistral-7B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 4,
     "tags": [
