@@ -36349,7 +36349,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 57,
+    "likes": 59,
     "private": false,
     "downloads": 105,
     "tags": [
@@ -37393,7 +37393,7 @@
   {
     "_id": "652ac2a04d0eef4a2b069735",
     "id": "TheBloke/SauerkrautLM-13B-v1-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -37661,8 +37661,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "de",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/SauerkrautLM-7B-v1-AWQ"
   },
   {
@@ -37672,8 +37681,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "de",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/SauerkrautLM-7B-v1-GPTQ"
   },
   {
@@ -37694,5 +37712,46 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/SauerkrautLM-7B-v1-GGUF"
+  },
+  {
+    "_id": "652b01aca2d97e682b3369b0",
+    "id": "TheBloke/SauerkrautLM-3B-v1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "text-generation",
+      "de",
+      "en",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/SauerkrautLM-3B-v1-GGUF"
+  },
+  {
+    "_id": "652b01b63b5997ed71957aab",
+    "id": "TheBloke/SauerkrautLM-3B-v1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/SauerkrautLM-3B-v1-AWQ"
+  },
+  {
+    "_id": "652b01c066313ebb61929f43",
+    "id": "TheBloke/SauerkrautLM-3B-v1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/SauerkrautLM-3B-v1-GPTQ"
   }
 ]
