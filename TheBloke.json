@@ -34760,7 +34760,7 @@
   {
     "_id": "651b43c9f9dd34ee028a7769",
     "id": "TheBloke/dolphin-2.0-mistral-7B-GGUF",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 25,
     "tags": [
@@ -36349,7 +36349,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 55,
+    "likes": 56,
     "private": false,
     "downloads": 105,
     "tags": [
@@ -37328,8 +37328,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "shining-valiant",
+      "valiant",
+      "valiant-labs",
+      "llama-2",
+      "llama-2-chat",
+      "70b",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/ShiningValiant-1.2-GPTQ"
   },
   {
@@ -37360,7 +37374,7 @@
   {
     "_id": "652ac29662a48851897453af",
     "id": "TheBloke/SauerkrautLM-13B-v1-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -37379,7 +37393,7 @@
   {
     "_id": "652ac2a04d0eef4a2b069735",
     "id": "TheBloke/SauerkrautLM-13B-v1-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -37399,7 +37413,7 @@
   {
     "_id": "652ac2aab20d50044702d9af",
     "id": "TheBloke/SauerkrautLM-13B-v1-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -37435,7 +37449,7 @@
   {
     "_id": "652ad0c8880d145ed564677a",
     "id": "TheBloke/ALMA-13B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -37523,5 +37537,50 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/ALMA-7B-AWQ"
+  },
+  {
+    "_id": "652aec4cf120598322786ae3",
+    "id": "TheBloke/tora-13B-v1.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "code",
+      "math",
+      "text-generation",
+      "en",
+      "dataset:gsm8k",
+      "dataset:competition_math",
+      "arxiv:2309.17452",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/tora-13B-v1.0-GGUF"
+  },
+  {
+    "_id": "652aec56c543a08aa9f2dc6f",
+    "id": "TheBloke/tora-13B-v1.0-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/tora-13B-v1.0-GPTQ"
+  },
+  {
+    "_id": "652aec604267f8c802523f3d",
+    "id": "TheBloke/tora-13B-v1.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/tora-13B-v1.0-AWQ"
   }
 ]
