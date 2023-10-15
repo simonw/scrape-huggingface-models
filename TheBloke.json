@@ -17566,7 +17566,7 @@
   {
     "_id": "64f1a2eedcdd48d279defc89",
     "id": "TheBloke/Yarn-Llama-2-13B-64K-GGUF",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 40,
     "tags": [
@@ -28404,7 +28404,7 @@
   {
     "_id": "650a276ad26103b6eed600e5",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 50,
     "tags": [
@@ -38180,7 +38180,7 @@
   {
     "_id": "652b3835ff2202020ea12a31",
     "id": "TheBloke/Xwin-LM-13B-v0.2-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -38198,7 +38198,7 @@
   {
     "_id": "652b383fc3cba555d5506c84",
     "id": "TheBloke/Xwin-LM-13B-v0.2-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -38678,8 +38678,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Mistral-11B-OmniMix-AWQ"
   },
   {
@@ -38689,6 +38696,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "mistral",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Mistral-11B-OmniMix-GGUF"
