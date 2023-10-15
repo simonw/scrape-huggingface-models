@@ -33877,7 +33877,7 @@
   {
     "_id": "651830cd4fadbeb643d1188d",
     "id": "TheBloke/Pandalyst_13B_V1.0-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -34861,7 +34861,7 @@
   {
     "_id": "651bf4763fa6c4e1829124ee",
     "id": "TheBloke/TinyLlama-1.1B-Chat-v0.3-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 65,
     "tags": [
@@ -36598,7 +36598,7 @@
   {
     "_id": "652654dd8a21d8f14adcc200",
     "id": "TheBloke/dolphin-2.1-mistral-7B-AWQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 217,
     "tags": [
@@ -38113,8 +38113,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code",
+      "math",
+      "en",
+      "dataset:gsm8k",
+      "dataset:competition_math",
+      "arxiv:2309.17452",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/tora-code-34b-v1.0-AWQ"
   },
   {
@@ -38150,5 +38163,56 @@
       "region:us"
     ],
     "modelId": "TheBloke/tora-code-34b-v1.0-GPTQ"
+  },
+  {
+    "_id": "652b3835ff2202020ea12a31",
+    "id": "TheBloke/Xwin-LM-13B-v0.2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "endpoints_compatible",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Xwin-LM-13B-v0.2-GPTQ"
+  },
+  {
+    "_id": "652b383fc3cba555d5506c84",
+    "id": "TheBloke/Xwin-LM-13B-v0.2-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Xwin-LM-13B-v0.2-GGUF"
+  },
+  {
+    "_id": "652b3849b118f26df743c1e3",
+    "id": "TheBloke/Xwin-LM-13B-v0.2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Xwin-LM-13B-v0.2-AWQ"
   }
 ]
