@@ -26257,7 +26257,7 @@
   {
     "_id": "65097326cc02352e1e141e09",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-AWQ",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 926,
     "tags": [
@@ -37934,8 +37934,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code",
+      "math",
+      "en",
+      "dataset:gsm8k",
+      "dataset:competition_math",
+      "arxiv:2309.17452",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/tora-7B-v1.0-GPTQ"
   },
   {
@@ -37945,8 +37958,129 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code",
+      "math",
+      "en",
+      "dataset:gsm8k",
+      "dataset:competition_math",
+      "arxiv:2309.17452",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/tora-7B-v1.0-AWQ"
+  },
+  {
+    "_id": "652b26d2789d84df6f0ffe0e",
+    "id": "TheBloke/Mistral-11B-CC-Air-RP-GPTQ",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Mistral-11B-CC-Air-RP-GPTQ"
+  },
+  {
+    "_id": "652b26dc7c5365f2d10e875a",
+    "id": "TheBloke/Mistral-11B-CC-Air-RP-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "not-for-all-audiences",
+      "nsfw",
+      "pretrained",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Mistral-11B-CC-Air-RP-GGUF"
+  },
+  {
+    "_id": "652b26e6a21958f7db57b2da",
+    "id": "TheBloke/Mistral-11B-CC-Air-RP-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "pretrained",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Mistral-11B-CC-Air-RP-AWQ"
+  },
+  {
+    "_id": "652b2931880d145ed56d015f",
+    "id": "TheBloke/tora-code-13B-v1.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code",
+      "math",
+      "en",
+      "dataset:gsm8k",
+      "dataset:competition_math",
+      "arxiv:2309.17452",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/tora-code-13B-v1.0-AWQ"
+  },
+  {
+    "_id": "652b293b5aec376f5513061e",
+    "id": "TheBloke/tora-code-13B-v1.0-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/tora-code-13B-v1.0-GPTQ"
+  },
+  {
+    "_id": "652b293bd50c9382fb3d4f95",
+    "id": "TheBloke/tora-code-13B-v1.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "code",
+      "math",
+      "text-generation",
+      "en",
+      "dataset:gsm8k",
+      "dataset:competition_math",
+      "arxiv:2309.17452",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/tora-code-13B-v1.0-GGUF"
   }
 ]
