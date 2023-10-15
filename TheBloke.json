@@ -632,7 +632,7 @@
   {
     "_id": "6454b656d55525a4feddd5e3",
     "id": "TheBloke/WizardLM-7B-uncensored-GGML",
-    "likes": 106,
+    "likes": 107,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20225,7 +20225,7 @@
   {
     "_id": "64f844d082673b2a07d4b49d",
     "id": "TheBloke/WizardMath-70B-V1.0-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -20380,7 +20380,7 @@
   {
     "_id": "64f8c21ad493d8b0d2be3556",
     "id": "TheBloke/WizardLM-70B-V1.0-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -32736,7 +32736,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 108,
+    "likes": 109,
     "private": false,
     "downloads": 1653,
     "tags": [
@@ -34821,7 +34821,7 @@
   {
     "_id": "651b50a9b6109ba14026ff19",
     "id": "TheBloke/Nous-Hermes-13B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 11,
     "tags": [
@@ -38608,7 +38608,7 @@
   {
     "_id": "652c2b7dc59e682042f530dc",
     "id": "TheBloke/Airoboros-M-7B-3.1-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -38659,5 +38659,38 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Airoboros-M-7B-3.1-GPTQ"
+  },
+  {
+    "_id": "652c57d9703b3743c273cfde",
+    "id": "TheBloke/Mistral-11B-OmniMix-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Mistral-11B-OmniMix-GPTQ"
+  },
+  {
+    "_id": "652c57ed4d8e7e7646115e93",
+    "id": "TheBloke/Mistral-11B-OmniMix-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Mistral-11B-OmniMix-AWQ"
+  },
+  {
+    "_id": "652c5b64ec10d7e48109c91e",
+    "id": "TheBloke/Mistral-11B-OmniMix-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Mistral-11B-OmniMix-GGUF"
   }
 ]
