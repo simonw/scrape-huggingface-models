@@ -36293,7 +36293,7 @@
   {
     "_id": "65261483bda6113c956c3d5a",
     "id": "TheBloke/Tinyllama-2-1b-miniguanaco-GGUF",
-    "likes": 2,
+    "likes": 1,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -38435,7 +38435,7 @@
   {
     "_id": "652bc0b24267f8c8026984e1",
     "id": "TheBloke/airoboros-l2-13B-3.1-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -38455,8 +38455,49 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-3.1",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/airoboros-l2-13B-3.1-GPTQ"
+  },
+  {
+    "_id": "652bcb1d60e7067305b08469",
+    "id": "TheBloke/LongAlpaca-70B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/LongAlpaca-70B-GGUF"
+  },
+  {
+    "_id": "652bcb27f6390fe048f58e8c",
+    "id": "TheBloke/LongAlpaca-70B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/LongAlpaca-70B-AWQ"
+  },
+  {
+    "_id": "652bcb326f88e29851b18d0f",
+    "id": "TheBloke/LongAlpaca-70B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/LongAlpaca-70B-GPTQ"
   }
 ]
