@@ -21924,7 +21924,7 @@
   {
     "_id": "6501b9a60cc65d59987f9e83",
     "id": "TheBloke/Kuchiki-L2-7B-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 273,
     "tags": [
@@ -36349,7 +36349,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 65,
+    "likes": 66,
     "private": false,
     "downloads": 142,
     "tags": [
@@ -38387,7 +38387,9 @@
       "safetensors",
       "llama",
       "text-generation",
-      "endpoints_compatible",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -38410,5 +38412,27 @@
       "region:us"
     ],
     "modelId": "TheBloke/Xwin-MLewd-13B-v0.2-GGUF"
+  },
+  {
+    "_id": "652bc0b20ab8936887ab8203",
+    "id": "TheBloke/airoboros-l2-13B-3.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/airoboros-l2-13B-3.1-AWQ"
+  },
+  {
+    "_id": "652bc0b24267f8c8026984e1",
+    "id": "TheBloke/airoboros-l2-13B-3.1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/airoboros-l2-13B-3.1-GGUF"
   }
 ]
