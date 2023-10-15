@@ -16606,7 +16606,7 @@
   {
     "_id": "64ee1440e608a2aa371e4620",
     "id": "TheBloke/Airoboros-L2-13B-2.1-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 119,
     "tags": [
@@ -20091,7 +20091,7 @@
   {
     "_id": "64f7e02a35a0a9fc542e1850",
     "id": "TheBloke/Luna-AI-Llama2-Uncensored-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 19,
     "tags": [
@@ -36349,7 +36349,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 67,
+    "likes": 68,
     "private": false,
     "downloads": 142,
     "tags": [
@@ -36559,7 +36559,7 @@
   {
     "_id": "652653590aaab896facf71a0",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GGUF",
-    "likes": 30,
+    "likes": 31,
     "private": false,
     "downloads": 68,
     "tags": [
@@ -38499,5 +38499,27 @@
       "region:us"
     ],
     "modelId": "TheBloke/LongAlpaca-70B-GPTQ"
+  },
+  {
+    "_id": "652bd2cfc543a08aa90d41a2",
+    "id": "TheBloke/llava-v1.5-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/llava-v1.5-13B-AWQ"
+  },
+  {
+    "_id": "652bd2f960e7067305b18dee",
+    "id": "TheBloke/llava-v1.5-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/llava-v1.5-13B-GPTQ"
   }
 ]
