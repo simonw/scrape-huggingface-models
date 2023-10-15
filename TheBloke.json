@@ -37683,7 +37683,7 @@
   {
     "_id": "652af9acb20d50044709391b",
     "id": "TheBloke/SauerkrautLM-7B-v1-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -37703,7 +37703,7 @@
   {
     "_id": "652af9b6f0e232695dc266cc",
     "id": "TheBloke/SauerkrautLM-7B-v1-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 16,
     "tags": [
@@ -37723,7 +37723,7 @@
   {
     "_id": "652af9c13a416e1f21a6296b",
     "id": "TheBloke/SauerkrautLM-7B-v1-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -37761,7 +37761,7 @@
   {
     "_id": "652b01b63b5997ed71957aab",
     "id": "TheBloke/SauerkrautLM-3B-v1-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -37772,7 +37772,7 @@
   {
     "_id": "652b01c066313ebb61929f43",
     "id": "TheBloke/SauerkrautLM-3B-v1-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -37792,7 +37792,7 @@
   {
     "_id": "652b10b4680fa36b3bfcb2b0",
     "id": "TheBloke/SauerkrautLM-7B-v1-mistral-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -37812,7 +37812,7 @@
   {
     "_id": "652b10be4d8e7e7646ef41fb",
     "id": "TheBloke/SauerkrautLM-7B-v1-mistral-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -37831,7 +37831,7 @@
   {
     "_id": "652b10be90e317f243815cf1",
     "id": "TheBloke/SauerkrautLM-7B-v1-mistral-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -38470,10 +38470,15 @@
   {
     "_id": "652bcb1d60e7067305b08469",
     "id": "TheBloke/LongAlpaca-70B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "arxiv:2309.12307",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/LongAlpaca-70B-GGUF"
@@ -38507,8 +38512,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/llava-v1.5-13B-AWQ"
   },
   {
