@@ -5113,7 +5113,7 @@
   {
     "_id": "6496a2dee6692d367653c4fa",
     "id": "TheBloke/h2ogpt-gm-oasst1-en-2048-falcon-40b-v2-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 366,
     "tags": [
@@ -36559,7 +36559,7 @@
   {
     "_id": "652653590aaab896facf71a0",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GGUF",
-    "likes": 31,
+    "likes": 32,
     "private": false,
     "downloads": 68,
     "tags": [
@@ -38534,7 +38534,7 @@
   {
     "_id": "652bd2f960e7067305b18dee",
     "id": "TheBloke/llava-v1.5-13B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -38556,8 +38556,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/SynthIA-7B-v1.5-GPTQ"
   },
   {
@@ -38585,8 +38593,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/SynthIA-7B-v1.5-AWQ"
   }
 ]
