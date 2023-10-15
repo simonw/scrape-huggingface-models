@@ -37812,7 +37812,7 @@
   {
     "_id": "652b10be4d8e7e7646ef41fb",
     "id": "TheBloke/SauerkrautLM-7B-v1-mistral-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -37851,7 +37851,7 @@
   {
     "_id": "652b1c662ecb5062d6afed59",
     "id": "TheBloke/genz-13B-v2-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -37982,8 +37982,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "pretrained",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Mistral-11B-CC-Air-RP-GPTQ"
   },
   {
@@ -38056,8 +38066,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code",
+      "math",
+      "en",
+      "dataset:gsm8k",
+      "dataset:competition_math",
+      "arxiv:2309.17452",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/tora-code-13B-v1.0-GPTQ"
   },
   {
@@ -38082,5 +38105,50 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/tora-code-13B-v1.0-GGUF"
+  },
+  {
+    "_id": "652b3285703b3743c253fad3",
+    "id": "TheBloke/tora-code-34b-v1.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/tora-code-34b-v1.0-AWQ"
+  },
+  {
+    "_id": "652b32901198736f3101e6a2",
+    "id": "TheBloke/tora-code-34b-v1.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "code",
+      "math",
+      "text-generation",
+      "en",
+      "dataset:gsm8k",
+      "dataset:competition_math",
+      "arxiv:2309.17452",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/tora-code-34b-v1.0-GGUF"
+  },
+  {
+    "_id": "652b329ae0f39e3bae490534",
+    "id": "TheBloke/tora-code-34b-v1.0-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/tora-code-34b-v1.0-GPTQ"
   }
 ]
