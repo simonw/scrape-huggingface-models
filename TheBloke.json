@@ -21531,7 +21531,8 @@
       "dataset:Open-Orca/OpenOrca",
       "license:cc-by-nc-4.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Marcoroni-7b-GPTQ"
@@ -38175,7 +38176,7 @@
       "safetensors",
       "llama",
       "text-generation",
-      "endpoints_compatible",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
