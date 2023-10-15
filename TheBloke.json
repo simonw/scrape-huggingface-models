@@ -36349,7 +36349,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 61,
+    "likes": 62,
     "private": false,
     "downloads": 105,
     "tags": [
@@ -38198,7 +38198,7 @@
   {
     "_id": "652b383fc3cba555d5506c84",
     "id": "TheBloke/Xwin-LM-13B-v0.2-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -38340,8 +38340,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "stellar-bright",
+      "llama-2",
+      "llama-2-chat",
+      "70b",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/StellarBright-GPTQ"
   }
 ]
