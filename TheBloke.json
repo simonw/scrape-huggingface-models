@@ -21531,8 +21531,7 @@
       "dataset:Open-Orca/OpenOrca",
       "license:cc-by-nc-4.0",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Marcoroni-7b-GPTQ"
@@ -38161,8 +38160,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code",
+      "math",
+      "en",
+      "dataset:gsm8k",
+      "dataset:competition_math",
+      "arxiv:2309.17452",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/tora-code-34b-v1.0-GPTQ"
   },
   {
@@ -38215,5 +38227,50 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Xwin-LM-13B-v0.2-AWQ"
+  },
+  {
+    "_id": "652b4865f0e232695dcb2b7f",
+    "id": "TheBloke/tora-code-7B-v1.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "code",
+      "math",
+      "text-generation",
+      "en",
+      "dataset:gsm8k",
+      "dataset:competition_math",
+      "arxiv:2309.17452",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/tora-code-7B-v1.0-GGUF"
+  },
+  {
+    "_id": "652b486f6cdea40585f886d0",
+    "id": "TheBloke/tora-code-7B-v1.0-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/tora-code-7B-v1.0-GPTQ"
+  },
+  {
+    "_id": "652b4879a21958f7db5ba8b6",
+    "id": "TheBloke/tora-code-7B-v1.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/tora-code-7B-v1.0-AWQ"
   }
 ]
