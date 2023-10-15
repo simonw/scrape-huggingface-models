@@ -9376,7 +9376,7 @@
   {
     "_id": "64b72139a00eab5bcddae33e",
     "id": "TheBloke/Llama-2-70B-chat-GPTQ",
-    "likes": 205,
+    "likes": 206,
     "private": false,
     "downloads": 115313,
     "tags": [
@@ -36370,7 +36370,7 @@
   {
     "_id": "652615dffa9f6e5694a1f7a0",
     "id": "TheBloke/zephyr-7B-alpha-GPTQ",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 1635,
     "tags": [
@@ -38505,7 +38505,7 @@
   {
     "_id": "652bcb326f88e29851b18d0f",
     "id": "TheBloke/LongAlpaca-70B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -38648,8 +38648,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "dataset:jondurbin/airoboros-3.1",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Airoboros-M-7B-3.1-GPTQ"
   }
 ]
