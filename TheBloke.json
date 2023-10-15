@@ -38133,7 +38133,7 @@
   {
     "_id": "652b32901198736f3101e6a2",
     "id": "TheBloke/tora-code-34b-v1.0-GGUF",
-    "likes": 0,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -38198,7 +38198,7 @@
   {
     "_id": "652b383fc3cba555d5506c84",
     "id": "TheBloke/Xwin-LM-13B-v0.2-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -38302,7 +38302,7 @@
   {
     "_id": "652b4f30789d84df6f13c904",
     "id": "TheBloke/StellarBright-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -38317,8 +38317,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "stellar-bright",
+      "llama-2",
+      "llama-2-chat",
+      "70b",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/StellarBright-AWQ"
   },
   {
