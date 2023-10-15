@@ -36349,7 +36349,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 66,
+    "likes": 67,
     "private": false,
     "downloads": 142,
     "tags": [
@@ -36844,7 +36844,7 @@
   {
     "_id": "65279e4c68608eb5bbc8ffe9",
     "id": "TheBloke/samantha-1.2-mistral-7B-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -38359,7 +38359,7 @@
   {
     "_id": "652babc0aba3aefb7dcb3e51",
     "id": "TheBloke/Xwin-MLewd-13B-v0.2-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -38420,19 +38420,43 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-3.1",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/airoboros-l2-13B-3.1-AWQ"
   },
   {
     "_id": "652bc0b24267f8c8026984e1",
     "id": "TheBloke/airoboros-l2-13B-3.1-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "dataset:jondurbin/airoboros-3.1",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/airoboros-l2-13B-3.1-GGUF"
+  },
+  {
+    "_id": "652bc0bc2aa5b27c77e69625",
+    "id": "TheBloke/airoboros-l2-13B-3.1-GPTQ",
     "likes": 0,
     "private": false,
     "downloads": 0,
     "tags": [
       "region:us"
     ],
-    "modelId": "TheBloke/airoboros-l2-13B-3.1-GGUF"
+    "modelId": "TheBloke/airoboros-l2-13B-3.1-GPTQ"
   }
 ]
