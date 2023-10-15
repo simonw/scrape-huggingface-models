@@ -907,7 +907,7 @@
   {
     "_id": "645f47cf6990e1208522b824",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
-    "likes": 242,
+    "likes": 243,
     "private": false,
     "downloads": 11793,
     "tags": [
@@ -1105,7 +1105,7 @@
   {
     "_id": "6465d98b9c627c78f8629e5d",
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ",
-    "likes": 95,
+    "likes": 96,
     "private": false,
     "downloads": 204610,
     "tags": [
@@ -10109,7 +10109,7 @@
   {
     "_id": "64bb0fee5ee4641b32d0bcd2",
     "id": "TheBloke/llama2_7b_chat_uncensored-GGML",
-    "likes": 91,
+    "likes": 92,
     "private": false,
     "downloads": 154,
     "tags": [
@@ -38258,8 +38258,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code",
+      "math",
+      "en",
+      "dataset:gsm8k",
+      "dataset:competition_math",
+      "arxiv:2309.17452",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/tora-code-7B-v1.0-GPTQ"
   },
   {
@@ -38269,8 +38282,54 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code",
+      "math",
+      "en",
+      "dataset:gsm8k",
+      "dataset:competition_math",
+      "arxiv:2309.17452",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/tora-code-7B-v1.0-AWQ"
+  },
+  {
+    "_id": "652b4f30789d84df6f13c904",
+    "id": "TheBloke/StellarBright-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/StellarBright-GGUF"
+  },
+  {
+    "_id": "652b4f3acaddc9e6080307b9",
+    "id": "TheBloke/StellarBright-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/StellarBright-AWQ"
+  },
+  {
+    "_id": "652b4f3af120598322824f60",
+    "id": "TheBloke/StellarBright-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/StellarBright-GPTQ"
   }
 ]
