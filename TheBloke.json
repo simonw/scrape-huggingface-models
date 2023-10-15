@@ -19681,7 +19681,7 @@
   {
     "_id": "64f7a18229a9aa4778bf76c5",
     "id": "TheBloke/Llama2-22B-Daydreamer-v3-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -22413,7 +22413,7 @@
   {
     "_id": "6504535ae8b265d6875024f6",
     "id": "TheBloke/Synthia-70B-v1.2b-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 55,
     "tags": [
@@ -35431,7 +35431,7 @@
   {
     "_id": "651da0ff301b7bb5c4112da9",
     "id": "TheBloke/Amethyst-13B-Mistral-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 19,
     "tags": [
@@ -38516,7 +38516,7 @@
   {
     "_id": "652bd2cfc543a08aa90d41a2",
     "id": "TheBloke/llava-v1.5-13B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -38534,7 +38534,7 @@
   {
     "_id": "652bd2f960e7067305b18dee",
     "id": "TheBloke/llava-v1.5-13B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -38604,5 +38604,52 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/SynthIA-7B-v1.5-AWQ"
+  },
+  {
+    "_id": "652c2b7dc59e682042f530dc",
+    "id": "TheBloke/Airoboros-M-7B-3.1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "dataset:jondurbin/airoboros-3.1",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us",
+      "has_space"
+    ],
+    "modelId": "TheBloke/Airoboros-M-7B-3.1-GGUF"
+  },
+  {
+    "_id": "652c2b87c6857682d3fe24bd",
+    "id": "TheBloke/Airoboros-M-7B-3.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "dataset:jondurbin/airoboros-3.1",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Airoboros-M-7B-3.1-AWQ"
+  },
+  {
+    "_id": "652c2b911aeebac333fd2064",
+    "id": "TheBloke/Airoboros-M-7B-3.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-M-7B-3.1-GPTQ"
   }
 ]
