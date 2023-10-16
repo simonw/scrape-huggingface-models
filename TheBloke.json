@@ -34779,7 +34779,7 @@
   {
     "_id": "651b43d479d3b8bfd74e107f",
     "id": "TheBloke/dolphin-2.0-mistral-7B-AWQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 400,
     "tags": [
@@ -34800,7 +34800,7 @@
   {
     "_id": "651b43de76b52f45a597735d",
     "id": "TheBloke/dolphin-2.0-mistral-7B-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 678,
     "tags": [
@@ -36598,7 +36598,7 @@
   {
     "_id": "652654dd8a21d8f14adcc200",
     "id": "TheBloke/dolphin-2.1-mistral-7B-AWQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 252,
     "tags": [
@@ -38520,8 +38520,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2309.12307",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/LongAlpaca-70B-GPTQ"
   },
   {
