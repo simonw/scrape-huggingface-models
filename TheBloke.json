@@ -32805,7 +32805,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 188,
+    "likes": 189,
     "private": false,
     "downloads": 3029,
     "tags": [
@@ -39083,8 +39083,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "endpoints_compatible",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Leo-Mistral-Hessianai-7B-Chat-GPTQ"
   }
 ]
