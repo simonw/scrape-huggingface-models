@@ -37322,6 +37322,78 @@
     "modelId": "TheBloke/speechless-codellama-34b-v2.0-AWQ"
   },
   {
+    "_id": "652a4a91c59e682042c1b91f",
+    "id": "TheBloke/OpenHermes-2-Mistral-7B-GGUF",
+    "likes": 2,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "instruct",
+      "finetune",
+      "chatml",
+      "gpt4",
+      "synthetic data",
+      "distillation",
+      "en",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/OpenHermes-2-Mistral-7B-GGUF"
+  },
+  {
+    "_id": "652a4a9b0ab893688781137e",
+    "id": "TheBloke/OpenHermes-2-Mistral-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "instruct",
+      "finetune",
+      "chatml",
+      "gpt4",
+      "synthetic data",
+      "distillation",
+      "en",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/OpenHermes-2-Mistral-7B-AWQ"
+  },
+  {
+    "_id": "652a4aa5c59e682042c1bb5c",
+    "id": "TheBloke/OpenHermes-2-Mistral-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "instruct",
+      "finetune",
+      "chatml",
+      "gpt4",
+      "synthetic data",
+      "distillation",
+      "en",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/OpenHermes-2-Mistral-7B-GPTQ"
+  },
+  {
     "_id": "652abef9aba3aefb7db1e2e7",
     "id": "TheBloke/ShiningValiant-1.2-GPTQ",
     "likes": 0,
@@ -38390,7 +38462,7 @@
   {
     "_id": "652babc0d50c9382fb4ba4ec",
     "id": "TheBloke/Xwin-MLewd-13B-v0.2-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 11,
     "tags": [
@@ -39072,8 +39144,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "mistral",
+      "text-generation",
+      "en",
+      "de",
+      "dataset:LeoLM/OpenSchnabeltier",
+      "dataset:OpenAssistant/OASST-DE",
+      "dataset:FreedomIntelligence/alpaca-gpt4-deutsch",
+      "dataset:FreedomIntelligence/evol-instruct-deutsch",
+      "dataset:LeoLM/German_Poems",
+      "dataset:LeoLM/German_Songs",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Leo-Mistral-Hessianai-7B-Chat-GGUF"
   },
   {
