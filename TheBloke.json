@@ -18162,7 +18162,7 @@
   {
     "_id": "64f3050ceb5f2982081cb828",
     "id": "TheBloke/OpenBuddy-Llama2-13B-v11.1-GGUF",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 29,
     "tags": [
@@ -32463,7 +32463,7 @@
   {
     "_id": "651004458c4b535a97fc9af9",
     "id": "TheBloke/openbuddy-llama2-34b-v11.1-bf16-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -38813,8 +38813,56 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "zh",
+      "en",
+      "fr",
+      "de",
+      "ja",
+      "ko",
+      "it",
+      "ru",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/openbuddy-mistral-7B-v13-GPTQ"
+  },
+  {
+    "_id": "652d0beda4ab23d7efddf975",
+    "id": "TheBloke/openbuddy-llama2-70B-v13-base-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/openbuddy-llama2-70B-v13-base-GGUF"
+  },
+  {
+    "_id": "652d0bf7f14b3a0fda8f8e03",
+    "id": "TheBloke/openbuddy-llama2-70B-v13-base-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/openbuddy-llama2-70B-v13-base-GPTQ"
+  },
+  {
+    "_id": "652d0c0103fdab13ae74dcf9",
+    "id": "TheBloke/openbuddy-llama2-70B-v13-base-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/openbuddy-llama2-70B-v13-base-AWQ"
   }
 ]
