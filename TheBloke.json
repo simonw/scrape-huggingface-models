@@ -9291,7 +9291,7 @@
   {
     "_id": "64b6d9d4bb1d8f2832c8be93",
     "id": "TheBloke/Llama-2-13B-chat-GPTQ",
-    "likes": 284,
+    "likes": 285,
     "private": false,
     "downloads": 102553,
     "tags": [
@@ -32805,7 +32805,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 189,
+    "likes": 190,
     "private": false,
     "downloads": 3029,
     "tags": [
@@ -36350,7 +36350,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 71,
+    "likes": 72,
     "private": false,
     "downloads": 199,
     "tags": [
@@ -39087,7 +39087,15 @@
       "safetensors",
       "mistral",
       "text-generation",
-      "endpoints_compatible",
+      "en",
+      "de",
+      "dataset:LeoLM/OpenSchnabeltier",
+      "dataset:OpenAssistant/OASST-DE",
+      "dataset:FreedomIntelligence/alpaca-gpt4-deutsch",
+      "dataset:FreedomIntelligence/evol-instruct-deutsch",
+      "dataset:LeoLM/German_Poems",
+      "dataset:LeoLM/German_Songs",
+      "license:apache-2.0",
       "text-generation-inference",
       "region:us"
     ],
