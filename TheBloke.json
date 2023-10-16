@@ -3975,7 +3975,7 @@
   {
     "_id": "6489dec34344b9f97db273d9",
     "id": "TheBloke/WizardCoder-15B-1.0-GPTQ",
-    "likes": 159,
+    "likes": 158,
     "private": false,
     "downloads": 1208,
     "tags": [
@@ -12126,7 +12126,7 @@
   {
     "_id": "64cd1781437d76991bcc5935",
     "id": "TheBloke/Airoboros-65B-GPT4-m2.0-GGML",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -18236,7 +18236,7 @@
   {
     "_id": "64f611cf6ad07ea81779ca15",
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
-    "likes": 67,
+    "likes": 68,
     "private": false,
     "downloads": 1125,
     "tags": [
@@ -28443,7 +28443,7 @@
   {
     "_id": "650a288fce81b73e637e3216",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GGUF",
-    "likes": 7,
+    "likes": 6,
     "private": false,
     "downloads": 19,
     "tags": [
@@ -32805,7 +32805,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 189,
+    "likes": 188,
     "private": false,
     "downloads": 3029,
     "tags": [
@@ -33527,7 +33527,7 @@
   {
     "_id": "6515ff5b7f18cec973af0828",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GPTQ",
-    "likes": 42,
+    "likes": 41,
     "private": false,
     "downloads": 11905,
     "tags": [
@@ -34618,7 +34618,7 @@
   {
     "_id": "651ad379eb6c502094708828",
     "id": "TheBloke/Mistral-7B-OpenOrca-GPTQ",
-    "likes": 55,
+    "likes": 54,
     "private": false,
     "downloads": 6618,
     "tags": [
@@ -38863,8 +38863,23 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "zh",
+      "en",
+      "fr",
+      "de",
+      "ja",
+      "ko",
+      "it",
+      "ru",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/openbuddy-llama2-70B-v13-base-GPTQ"
   },
   {
@@ -38892,5 +38907,52 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/openbuddy-llama2-70B-v13-base-AWQ"
+  },
+  {
+    "_id": "652d3986e24524c69d2874fe",
+    "id": "TheBloke/openbuddy-mistral-7B-v13-base-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "text-generation",
+      "zh",
+      "en",
+      "fr",
+      "de",
+      "ja",
+      "ko",
+      "it",
+      "ru",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/openbuddy-mistral-7B-v13-base-GGUF"
+  },
+  {
+    "_id": "652d3990b399166c641be51b",
+    "id": "TheBloke/openbuddy-mistral-7B-v13-base-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/openbuddy-mistral-7B-v13-base-AWQ"
+  },
+  {
+    "_id": "652d399a9e28b3ce9b4f7530",
+    "id": "TheBloke/openbuddy-mistral-7B-v13-base-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/openbuddy-mistral-7B-v13-base-GPTQ"
   }
 ]
