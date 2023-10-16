@@ -186,7 +186,7 @@
   {
     "_id": "64372a4fa1010492a8a5874c",
     "id": "TheBloke/vicuna-13B-1.1-GPTQ",
-    "likes": 206,
+    "likes": 207,
     "private": false,
     "downloads": 456,
     "tags": [
@@ -36577,7 +36577,7 @@
   {
     "_id": "6526547f095931e1067d674f",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GPTQ",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 988,
     "tags": [
@@ -38619,7 +38619,7 @@
   {
     "_id": "652c2b7dc59e682042f530dc",
     "id": "TheBloke/Airoboros-M-7B-3.1-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -38729,8 +38729,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "shining-valiant",
+      "valiant",
+      "valiant-labs",
+      "llama-2",
+      "llama-2-chat",
+      "70b",
+      "text-generation",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/ShiningValiant-1.2-GGUF"
   }
 ]
