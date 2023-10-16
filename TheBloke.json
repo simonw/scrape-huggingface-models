@@ -1105,7 +1105,7 @@
   {
     "_id": "6465d98b9c627c78f8629e5d",
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ",
-    "likes": 97,
+    "likes": 98,
     "private": false,
     "downloads": 178841,
     "tags": [
@@ -15039,7 +15039,7 @@
   {
     "_id": "64e78d117acd8971f2c6bbe6",
     "id": "TheBloke/CodeLlama-7B-GGUF",
-    "likes": 34,
+    "likes": 35,
     "private": false,
     "downloads": 270,
     "tags": [
@@ -32628,7 +32628,7 @@
   {
     "_id": "65140cda51c0141fa86b7d8b",
     "id": "TheBloke/U-Amethyst-20B-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 29,
     "tags": [
@@ -32645,7 +32645,7 @@
   {
     "_id": "65140ce4a4f26dcd601a2c82",
     "id": "TheBloke/U-Amethyst-20B-AWQ",
-    "likes": 1,
+    "likes": 0,
     "private": false,
     "downloads": 74,
     "tags": [
@@ -36405,7 +36405,6 @@
       "dataset:bigcode/starcoderdata",
       "dataset:cerebras/SlimPajama-627B",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -38839,8 +38838,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "text-generation",
+      "zh",
+      "en",
+      "fr",
+      "de",
+      "ja",
+      "ko",
+      "it",
+      "ru",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/openbuddy-llama2-70B-v13-base-GGUF"
   },
   {
