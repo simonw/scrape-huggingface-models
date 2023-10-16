@@ -36350,7 +36350,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 69,
+    "likes": 70,
     "private": false,
     "downloads": 199,
     "tags": [
@@ -36371,7 +36371,7 @@
   {
     "_id": "652615dffa9f6e5694a1f7a0",
     "id": "TheBloke/zephyr-7B-alpha-GPTQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 2148,
     "tags": [
@@ -38757,7 +38757,7 @@
   {
     "_id": "652cfc2ac3cba555d587674a",
     "id": "TheBloke/openbuddy-mistral-7B-v13-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -38966,8 +38966,56 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "zh",
+      "en",
+      "fr",
+      "de",
+      "ja",
+      "ko",
+      "it",
+      "ru",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/openbuddy-mistral-7B-v13-base-GPTQ"
+  },
+  {
+    "_id": "652d4a01e316ff79c20a7f23",
+    "id": "TheBloke/Airoboros-L2-70B-3.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-70B-3.1-GPTQ"
+  },
+  {
+    "_id": "652d4a0b6a41c1d38e284adf",
+    "id": "TheBloke/Airoboros-L2-70B-3.1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-70B-3.1-GGUF"
+  },
+  {
+    "_id": "652d4a16d3b2cb2e37ac3291",
+    "id": "TheBloke/Airoboros-L2-70B-3.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-70B-3.1-AWQ"
   }
 ]
