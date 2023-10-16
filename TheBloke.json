@@ -10426,7 +10426,7 @@
   {
     "_id": "64bed6e9b8e9fe84f11e025a",
     "id": "TheBloke/AlpacaCielo-13B-GGML",
-    "likes": 18,
+    "likes": 19,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -14163,7 +14163,7 @@
   {
     "_id": "64e35618a88a63300b9447db",
     "id": "TheBloke/Llama-2-7B-32K-Instruct-GPTQ",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 85176,
     "tags": [
@@ -15059,7 +15059,7 @@
   {
     "_id": "64e7bafd0c47bf287ca550b8",
     "id": "TheBloke/CodeLlama-13B-GGUF",
-    "likes": 25,
+    "likes": 26,
     "private": false,
     "downloads": 78,
     "tags": [
@@ -15079,7 +15079,7 @@
   {
     "_id": "64e7bc1129a548f66a1ddb15",
     "id": "TheBloke/CodeLlama-13B-Instruct-GGUF",
-    "likes": 63,
+    "likes": 65,
     "private": false,
     "downloads": 307,
     "tags": [
@@ -34761,7 +34761,7 @@
   {
     "_id": "651b43c9f9dd34ee028a7769",
     "id": "TheBloke/dolphin-2.0-mistral-7B-GGUF",
-    "likes": 18,
+    "likes": 19,
     "private": false,
     "downloads": 48,
     "tags": [
@@ -35299,7 +35299,7 @@
   {
     "_id": "651d69a0878d9cd77b7f116e",
     "id": "TheBloke/Mistralic-7B-1-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 29,
     "tags": [
@@ -38535,7 +38535,7 @@
   {
     "_id": "652bd2cfc543a08aa90d41a2",
     "id": "TheBloke/llava-v1.5-13B-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -38718,7 +38718,7 @@
   {
     "_id": "652c5b64ec10d7e48109c91e",
     "id": "TheBloke/Mistral-11B-OmniMix-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 17,
     "tags": [
@@ -38988,7 +38988,7 @@
   {
     "_id": "652d4a01e316ff79c20a7f23",
     "id": "TheBloke/Airoboros-L2-70B-3.1-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -39003,6 +39003,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "dataset:jondurbin/airoboros-3.1",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Airoboros-L2-70B-3.1-GGUF"
