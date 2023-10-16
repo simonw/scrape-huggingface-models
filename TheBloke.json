@@ -38410,7 +38410,7 @@
   {
     "_id": "652babcaff2202020eae716d",
     "id": "TheBloke/Xwin-MLewd-13B-v0.2-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -38992,14 +38992,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-3.1",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Airoboros-L2-70B-3.1-GPTQ"
   },
   {
     "_id": "652d4a0b6a41c1d38e284adf",
     "id": "TheBloke/Airoboros-L2-70B-3.1-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -39030,5 +39038,53 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Airoboros-L2-70B-3.1-AWQ"
+  },
+  {
+    "_id": "652d776b51e6916c5f6c31b7",
+    "id": "TheBloke/Leo-Mistral-Hessianai-7B-Chat-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "de",
+      "dataset:LeoLM/OpenSchnabeltier",
+      "dataset:OpenAssistant/OASST-DE",
+      "dataset:FreedomIntelligence/alpaca-gpt4-deutsch",
+      "dataset:FreedomIntelligence/evol-instruct-deutsch",
+      "dataset:LeoLM/German_Poems",
+      "dataset:LeoLM/German_Songs",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Leo-Mistral-Hessianai-7B-Chat-AWQ"
+  },
+  {
+    "_id": "652d776b5a4c91c68639299e",
+    "id": "TheBloke/Leo-Mistral-Hessianai-7B-Chat-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Leo-Mistral-Hessianai-7B-Chat-GGUF"
+  },
+  {
+    "_id": "652d776b730a226dabdb6f7b",
+    "id": "TheBloke/Leo-Mistral-Hessianai-7B-Chat-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Leo-Mistral-Hessianai-7B-Chat-GPTQ"
   }
 ]
