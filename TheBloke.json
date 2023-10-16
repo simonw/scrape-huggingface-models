@@ -7287,7 +7287,7 @@
   {
     "_id": "64a3d3cfd9dd1da35094df58",
     "id": "TheBloke/orca_mini_v2_7B-GPTQ",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 3074,
     "tags": [
@@ -11629,7 +11629,7 @@
   {
     "_id": "64cb7460a257a3212cf4f270",
     "id": "TheBloke/vicuna-7B-v1.5-GPTQ",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 19603,
     "tags": [
@@ -20996,7 +20996,7 @@
   {
     "_id": "64fc5ce8dc465697358b713a",
     "id": "TheBloke/Guanaco-3B-Uncensored-v2-GGML",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 30,
     "tags": [
@@ -32901,7 +32901,7 @@
   {
     "_id": "65148276ac849a6655d267e9",
     "id": "TheBloke/Mistral-7B-v0.1-AWQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 910,
     "tags": [
@@ -34596,7 +34596,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 133,
+    "likes": 134,
     "private": false,
     "downloads": 1017,
     "tags": [
@@ -38370,7 +38370,7 @@
   {
     "_id": "652babc0aba3aefb7dcb3e51",
     "id": "TheBloke/Xwin-MLewd-13B-v0.2-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -38553,7 +38553,7 @@
   {
     "_id": "652bd2f960e7067305b18dee",
     "id": "TheBloke/llava-v1.5-13B-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 42,
     "tags": [
@@ -38874,8 +38874,23 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "zh",
+      "en",
+      "fr",
+      "de",
+      "ja",
+      "ko",
+      "it",
+      "ru",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/openbuddy-llama2-70B-v13-base-AWQ"
   }
 ]
