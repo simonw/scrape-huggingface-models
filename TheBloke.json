@@ -8548,7 +8548,7 @@
   {
     "_id": "64aa86fe329f5e6e78152451",
     "id": "TheBloke/orca_mini_v2_13b-GGML",
-    "likes": 24,
+    "likes": 23,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20474,7 +20474,7 @@
   {
     "_id": "64f97e6a159055330801aec5",
     "id": "TheBloke/Falcon-180B-Chat-GGUF",
-    "likes": 101,
+    "likes": 102,
     "private": false,
     "downloads": 242,
     "tags": [
@@ -38306,8 +38306,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "stellar-bright",
+      "llama-2",
+      "llama-2-chat",
+      "70b",
+      "text-generation",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/StellarBright-GGUF"
   },
   {
@@ -38663,7 +38674,7 @@
   {
     "_id": "652c57d9703b3743c273cfde",
     "id": "TheBloke/Mistral-11B-OmniMix-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -38710,5 +38721,16 @@
       "region:us"
     ],
     "modelId": "TheBloke/Mistral-11B-OmniMix-GGUF"
+  },
+  {
+    "_id": "652c7c6b703b3743c278341d",
+    "id": "TheBloke/ShiningValiant-1.2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/ShiningValiant-1.2-GGUF"
   }
 ]
