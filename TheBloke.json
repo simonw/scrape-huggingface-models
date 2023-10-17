@@ -10042,7 +10042,7 @@
   {
     "_id": "64baf98faaccfd28b0209764",
     "id": "TheBloke/Nous-Hermes-Llama2-GPTQ",
-    "likes": 54,
+    "likes": 55,
     "private": false,
     "downloads": 2273,
     "tags": [
@@ -36558,7 +36558,7 @@
   {
     "_id": "652653590aaab896facf71a0",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GGUF",
-    "likes": 41,
+    "likes": 42,
     "private": false,
     "downloads": 92,
     "tags": [
@@ -39421,7 +39421,7 @@
   {
     "_id": "652ee610c22d404ebf8e81a9",
     "id": "TheBloke/Mistral-7B-Phibrarian-32K-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -39538,8 +39538,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "math",
+      "reasoning",
+      "en",
+      "dataset:EleutherAI/proof-pile-2",
+      "arxiv:2310.10631",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/llemma_34b-AWQ"
   },
   {
