@@ -9218,7 +9218,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 591,
+    "likes": 592,
     "private": false,
     "downloads": 5627,
     "tags": [
@@ -39425,8 +39425,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Mistral-7B-Phibrarian-32K-AWQ"
   },
   {
@@ -39467,8 +39474,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "math",
+      "reasoning",
+      "en",
+      "dataset:EleutherAI/proof-pile-2",
+      "arxiv:2310.10631",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/llemma_7b-AWQ"
   },
   {
@@ -39478,8 +39497,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "math",
+      "reasoning",
+      "en",
+      "dataset:EleutherAI/proof-pile-2",
+      "arxiv:2310.10631",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/llemma_7b-GPTQ"
   }
 ]
