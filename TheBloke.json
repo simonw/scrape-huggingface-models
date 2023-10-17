@@ -32804,7 +32804,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 193,
+    "likes": 194,
     "private": false,
     "downloads": 3252,
     "tags": [
@@ -36618,7 +36618,7 @@
   {
     "_id": "65266322372fb24ede776b99",
     "id": "TheBloke/jackalope-7B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -39549,6 +39549,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "math",
+      "reasoning",
+      "en",
+      "dataset:EleutherAI/proof-pile-2",
+      "arxiv:2310.10631",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/llemma_34b-GGUF"
