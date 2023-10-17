@@ -37323,7 +37323,7 @@
   {
     "_id": "652a4a91c59e682042c1b91f",
     "id": "TheBloke/OpenHermes-2-Mistral-7B-GGUF",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 13,
     "tags": [
@@ -39402,5 +39402,84 @@
       "region:us"
     ],
     "modelId": "TheBloke/Thespis-13B-v0.3-GGUF"
+  },
+  {
+    "_id": "652ee61057a8ba396c6b369e",
+    "id": "TheBloke/Mistral-7B-Phibrarian-32K-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Mistral-7B-Phibrarian-32K-GGUF"
+  },
+  {
+    "_id": "652ee610c22d404ebf8e81a9",
+    "id": "TheBloke/Mistral-7B-Phibrarian-32K-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Mistral-7B-Phibrarian-32K-AWQ"
+  },
+  {
+    "_id": "652ee610d8fadff4cecfb929",
+    "id": "TheBloke/Mistral-7B-Phibrarian-32K-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Mistral-7B-Phibrarian-32K-GPTQ"
+  },
+  {
+    "_id": "652ee6a717d03c316f67823a",
+    "id": "TheBloke/llemma_7b-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "math",
+      "reasoning",
+      "en",
+      "dataset:EleutherAI/proof-pile-2",
+      "arxiv:2310.10631",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/llemma_7b-GGUF"
+  },
+  {
+    "_id": "652ee6a7354dd7e9391b209a",
+    "id": "TheBloke/llemma_7b-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/llemma_7b-AWQ"
+  },
+  {
+    "_id": "652ee6a7ed5d17edd77f0def",
+    "id": "TheBloke/llemma_7b-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/llemma_7b-GPTQ"
   }
 ]
