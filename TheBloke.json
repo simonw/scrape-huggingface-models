@@ -16225,7 +16225,7 @@
   {
     "_id": "64eb5af601df1b139e83d0d7",
     "id": "TheBloke/CodeLlama-13B-oasst-sft-v10-GPTQ",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 19,
     "tags": [
@@ -16265,7 +16265,7 @@
   {
     "_id": "64eb5af6b96ff0e175550f31",
     "id": "TheBloke/CodeLlama-13B-oasst-sft-v10-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -37323,7 +37323,7 @@
   {
     "_id": "652a4a91c59e682042c1b91f",
     "id": "TheBloke/OpenHermes-2-Mistral-7B-GGUF",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 13,
     "tags": [
@@ -39338,8 +39338,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code",
+      "en",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Pandalyst-7B-v1.2-AWQ"
   },
   {
@@ -39381,7 +39391,7 @@
   {
     "_id": "652ec008a0f516a99dde2ef0",
     "id": "TheBloke/Thespis-13B-v0.3-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
