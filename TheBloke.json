@@ -18236,7 +18236,7 @@
   {
     "_id": "64f611cf6ad07ea81779ca15",
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
-    "likes": 68,
+    "likes": 69,
     "private": false,
     "downloads": 1160,
     "tags": [
@@ -36559,7 +36559,7 @@
   {
     "_id": "652653590aaab896facf71a0",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GGUF",
-    "likes": 40,
+    "likes": 41,
     "private": false,
     "downloads": 92,
     "tags": [
@@ -37396,7 +37396,7 @@
   {
     "_id": "652abef9aba3aefb7db1e2e7",
     "id": "TheBloke/ShiningValiant-1.2-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -39262,8 +39262,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "dataset:jondurbin/airoboros-3.1",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Airoboros-M-7B-3.1.1-GPTQ"
   },
   {
