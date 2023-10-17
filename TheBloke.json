@@ -907,7 +907,7 @@
   {
     "_id": "645f47cf6990e1208522b824",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
-    "likes": 243,
+    "likes": 244,
     "private": false,
     "downloads": 12184,
     "tags": [
@@ -39368,8 +39368,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Thespis-13B-v0.3-GPTQ"
   },
   {
