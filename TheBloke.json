@@ -32804,7 +32804,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 192,
+    "likes": 193,
     "private": false,
     "downloads": 3252,
     "tags": [
@@ -39443,8 +39443,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Mistral-7B-Phibrarian-32K-GPTQ"
   },
   {
@@ -39512,5 +39519,38 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/llemma_7b-GPTQ"
+  },
+  {
+    "_id": "652efc6015cc118ad13d4700",
+    "id": "TheBloke/llemma_34b-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/llemma_34b-GPTQ"
+  },
+  {
+    "_id": "652efc607a8c08f81e5dec22",
+    "id": "TheBloke/llemma_34b-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/llemma_34b-AWQ"
+  },
+  {
+    "_id": "652efc607b0079ff035f95c6",
+    "id": "TheBloke/llemma_34b-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/llemma_34b-GGUF"
   }
 ]
