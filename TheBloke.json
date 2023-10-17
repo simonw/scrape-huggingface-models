@@ -9951,7 +9951,7 @@
   {
     "_id": "64bae83f4b4ff0d50909acc5",
     "id": "TheBloke/llama-2-70b-Guanaco-QLoRA-fp16",
-    "likes": 54,
+    "likes": 55,
     "private": false,
     "downloads": 3630,
     "tags": [
@@ -39292,5 +39292,55 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Airoboros-M-7B-3.1.1-AWQ"
+  },
+  {
+    "_id": "652e9c62177bc5784f91f223",
+    "id": "TheBloke/Pandalyst-7B-v1.2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code",
+      "en",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Pandalyst-7B-v1.2-GPTQ"
+  },
+  {
+    "_id": "652e9c6267acb68b9f94ef46",
+    "id": "TheBloke/Pandalyst-7B-v1.2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "code",
+      "en",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Pandalyst-7B-v1.2-GGUF"
+  },
+  {
+    "_id": "652e9c62f08bb52d99541734",
+    "id": "TheBloke/Pandalyst-7B-v1.2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Pandalyst-7B-v1.2-AWQ"
   }
 ]
