@@ -39457,7 +39457,7 @@
   {
     "_id": "652ee6a717d03c316f67823a",
     "id": "TheBloke/llemma_7b-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -39527,8 +39527,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "math",
+      "reasoning",
+      "en",
+      "dataset:EleutherAI/proof-pile-2",
+      "arxiv:2310.10631",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/llemma_34b-GPTQ"
   },
   {
