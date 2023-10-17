@@ -32805,7 +32805,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 191,
+    "likes": 192,
     "private": false,
     "downloads": 3252,
     "tags": [
@@ -37324,7 +37324,7 @@
   {
     "_id": "652a4a91c59e682042c1b91f",
     "id": "TheBloke/OpenHermes-2-Mistral-7B-GGUF",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 13,
     "tags": [
@@ -39342,5 +39342,49 @@
       "region:us"
     ],
     "modelId": "TheBloke/Pandalyst-7B-v1.2-AWQ"
+  },
+  {
+    "_id": "652ec00817d03c316f618204",
+    "id": "TheBloke/Thespis-13B-v0.3-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Thespis-13B-v0.3-AWQ"
+  },
+  {
+    "_id": "652ec008262ab88f12288f63",
+    "id": "TheBloke/Thespis-13B-v0.3-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Thespis-13B-v0.3-GPTQ"
+  },
+  {
+    "_id": "652ec008a0f516a99dde2ef0",
+    "id": "TheBloke/Thespis-13B-v0.3-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Thespis-13B-v0.3-GGUF"
   }
 ]
