@@ -19502,7 +19502,7 @@
   {
     "_id": "64f7855ea05ed443071357f2",
     "id": "TheBloke/WizardLM-1.0-Uncensored-CodeLlama-34B-GGUF",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -33526,7 +33526,7 @@
   {
     "_id": "6515ff5b7f18cec973af0828",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GPTQ",
-    "likes": 45,
+    "likes": 46,
     "private": false,
     "downloads": 14886,
     "tags": [
@@ -36576,7 +36576,7 @@
   {
     "_id": "6526547f095931e1067d674f",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GPTQ",
-    "likes": 18,
+    "likes": 19,
     "private": false,
     "downloads": 1874,
     "tags": [
@@ -39922,5 +39922,49 @@
       "region:us"
     ],
     "modelId": "TheBloke/PsyMedRP-v1-13B-GGUF"
+  },
+  {
+    "_id": "653061df0c648fc3953a7cc0",
+    "id": "TheBloke/SlimOpenOrca-Mistral-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/SlimOpenOrca-Mistral-7B-GPTQ"
+  },
+  {
+    "_id": "653061df3976e5f4411d5dda",
+    "id": "TheBloke/SlimOpenOrca-Mistral-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/SlimOpenOrca-Mistral-7B-AWQ"
+  },
+  {
+    "_id": "653061df3b51002a47a3ee90",
+    "id": "TheBloke/SlimOpenOrca-Mistral-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/SlimOpenOrca-Mistral-7B-GGUF"
   }
 ]
