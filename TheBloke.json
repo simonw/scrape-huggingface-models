@@ -18212,7 +18212,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7b-Chat-GGUF",
-    "likes": 91,
+    "likes": 92,
     "private": false,
     "downloads": 3608,
     "tags": [
@@ -39688,8 +39688,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Euryale-1.3-L2-70B-GPTQ"
   },
   {
@@ -39813,8 +39821,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Xwin-LM-7B-V0.2-AWQ"
   },
   {
@@ -39824,6 +39839,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Xwin-LM-7B-V0.2-GGUF"
@@ -39835,8 +39854,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Xwin-LM-7B-V0.2-GPTQ"
   }
 ]
