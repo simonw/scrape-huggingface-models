@@ -10942,7 +10942,7 @@
   {
     "_id": "64c54e612d07296c7e324f14",
     "id": "TheBloke/Vigogne-2-7B-Instruct-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 180,
     "tags": [
@@ -32735,7 +32735,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 114,
+    "likes": 115,
     "private": false,
     "downloads": 1850,
     "tags": [
@@ -32804,7 +32804,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 197,
+    "likes": 198,
     "private": false,
     "downloads": 3448,
     "tags": [
@@ -34617,7 +34617,7 @@
   {
     "_id": "651ad379eb6c502094708828",
     "id": "TheBloke/Mistral-7B-OpenOrca-GPTQ",
-    "likes": 58,
+    "likes": 59,
     "private": false,
     "downloads": 12667,
     "tags": [
@@ -39751,5 +39751,38 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/rpguild-chatml-13B-GPTQ"
+  },
+  {
+    "_id": "652fd0df17a853e9bd1f0eda",
+    "id": "TheBloke/Airoboros-L2-13B-3.1.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-13B-3.1.1-GPTQ"
+  },
+  {
+    "_id": "652fd0dfb49135da7663513b",
+    "id": "TheBloke/Airoboros-L2-13B-3.1.1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-13B-3.1.1-GGUF"
+  },
+  {
+    "_id": "652fd0e0c0fa0aaf983988e4",
+    "id": "TheBloke/Airoboros-L2-13B-3.1.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-13B-3.1.1-AWQ"
   }
 ]
