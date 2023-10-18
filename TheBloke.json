@@ -1105,7 +1105,7 @@
   {
     "_id": "6465d98b9c627c78f8629e5d",
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ",
-    "likes": 101,
+    "likes": 102,
     "private": false,
     "downloads": 148151,
     "tags": [
@@ -9338,7 +9338,7 @@
   {
     "_id": "64b6e916e16424ef9e032a2f",
     "id": "TheBloke/Llama-2-13B-Chat-fp16",
-    "likes": 56,
+    "likes": 57,
     "private": false,
     "downloads": 4430,
     "tags": [
@@ -18260,7 +18260,7 @@
   {
     "_id": "64f614a19c2aeb2a3dea1312",
     "id": "TheBloke/Llama-2-13B-GGUF",
-    "likes": 23,
+    "likes": 24,
     "private": false,
     "downloads": 205,
     "tags": [
@@ -39664,6 +39664,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Euryale-1.3-L2-70B-GGUF"
