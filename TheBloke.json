@@ -907,7 +907,7 @@
   {
     "_id": "645f47cf6990e1208522b824",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
-    "likes": 244,
+    "likes": 245,
     "private": false,
     "downloads": 12550,
     "tags": [
@@ -1105,7 +1105,7 @@
   {
     "_id": "6465d98b9c627c78f8629e5d",
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ",
-    "likes": 102,
+    "likes": 103,
     "private": false,
     "downloads": 148151,
     "tags": [
@@ -10109,7 +10109,7 @@
   {
     "_id": "64bb0fee5ee4641b32d0bcd2",
     "id": "TheBloke/llama2_7b_chat_uncensored-GGML",
-    "likes": 92,
+    "likes": 93,
     "private": false,
     "downloads": 159,
     "tags": [
@@ -36349,7 +36349,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 83,
+    "likes": 84,
     "private": false,
     "downloads": 307,
     "tags": [
@@ -39864,5 +39864,44 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Xwin-LM-7B-V0.2-GPTQ"
+  },
+  {
+    "_id": "652fea248aac6529c4c56375",
+    "id": "TheBloke/PsyMedRP-v1-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/PsyMedRP-v1-13B-GPTQ"
+  },
+  {
+    "_id": "652fea24c5745652a8fff7f8",
+    "id": "TheBloke/PsyMedRP-v1-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/PsyMedRP-v1-13B-AWQ"
+  },
+  {
+    "_id": "652fea24f5d2684611762f16",
+    "id": "TheBloke/PsyMedRP-v1-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/PsyMedRP-v1-13B-GGUF"
   }
 ]
