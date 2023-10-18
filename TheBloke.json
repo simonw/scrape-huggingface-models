@@ -36576,7 +36576,7 @@
   {
     "_id": "6526547f095931e1067d674f",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GPTQ",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 1874,
     "tags": [
@@ -39683,5 +39683,45 @@
       "region:us"
     ],
     "modelId": "TheBloke/Euryale-1.3-L2-70B-GPTQ"
+  },
+  {
+    "_id": "652fb15c177bc5784fbac90b",
+    "id": "TheBloke/rpguild-chatml-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "roleplay",
+      "en",
+      "dataset:chargoddard/rpguild",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/rpguild-chatml-13B-GGUF"
+  },
+  {
+    "_id": "652fb15c5d91b1c295954189",
+    "id": "TheBloke/rpguild-chatml-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/rpguild-chatml-13B-AWQ"
+  },
+  {
+    "_id": "652fb15cabc673c420685d7b",
+    "id": "TheBloke/rpguild-chatml-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/rpguild-chatml-13B-GPTQ"
   }
 ]
