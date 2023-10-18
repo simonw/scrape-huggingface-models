@@ -32735,7 +32735,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 113,
+    "likes": 114,
     "private": false,
     "downloads": 1850,
     "tags": [
@@ -39653,8 +39653,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Euryale-1.3-L2-70B-AWQ"
   },
   {
