@@ -39406,7 +39406,7 @@
   {
     "_id": "652ee61057a8ba396c6b369e",
     "id": "TheBloke/Mistral-7B-Phibrarian-32K-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -39709,8 +39709,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "roleplay",
+      "en",
+      "dataset:chargoddard/rpguild",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/rpguild-chatml-13B-AWQ"
   },
   {
@@ -39720,8 +39730,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "roleplay",
+      "en",
+      "dataset:chargoddard/rpguild",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/rpguild-chatml-13B-GPTQ"
   }
 ]
