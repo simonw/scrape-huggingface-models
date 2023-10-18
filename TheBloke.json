@@ -4680,7 +4680,7 @@
   {
     "_id": "6491a32bfdf05bda5998de49",
     "id": "TheBloke/baichuan-vicuna-7B-GGML",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20592,7 +20592,7 @@
   {
     "_id": "64fa1ebf4c8924c4fe4d4e7e",
     "id": "TheBloke/Baichuan2-13B-Chat-GPTQ",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 77,
     "tags": [
@@ -36349,7 +36349,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 84,
+    "likes": 85,
     "private": false,
     "downloads": 307,
     "tags": [
@@ -39226,7 +39226,7 @@
   {
     "_id": "652e49b1a3da41257d70f9e5",
     "id": "TheBloke/Mistral-7B-Code-16K-qlora-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -39782,7 +39782,7 @@
   {
     "_id": "652fd0dfb49135da7663513b",
     "id": "TheBloke/Airoboros-L2-13B-3.1.1-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -39872,8 +39872,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/PsyMedRP-v1-13B-GPTQ"
   },
   {
@@ -39883,8 +39892,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/PsyMedRP-v1-13B-AWQ"
   },
   {
