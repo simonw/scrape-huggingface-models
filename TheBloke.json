@@ -15291,7 +15291,7 @@
   {
     "_id": "64e7d00dae53e70cda1de235",
     "id": "TheBloke/CodeLlama-34B-Instruct-GGUF",
-    "likes": 69,
+    "likes": 70,
     "private": false,
     "downloads": 225,
     "tags": [
@@ -38805,7 +38805,7 @@
   {
     "_id": "652c7c6b703b3743c278341d",
     "id": "TheBloke/ShiningValiant-1.2-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -39783,7 +39783,7 @@
   {
     "_id": "652fd0dfb49135da7663513b",
     "id": "TheBloke/Airoboros-L2-13B-3.1.1-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -39962,7 +39962,7 @@
   {
     "_id": "653061df3b51002a47a3ee90",
     "id": "TheBloke/SlimOpenOrca-Mistral-7B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -39973,5 +39973,42 @@
       "region:us"
     ],
     "modelId": "TheBloke/SlimOpenOrca-Mistral-7B-GGUF"
+  },
+  {
+    "_id": "65310b2133d693dfd39750ce",
+    "id": "TheBloke/MistralLite-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/MistralLite-7B-GGUF"
+  },
+  {
+    "_id": "65310b21b5672703b2ea0634",
+    "id": "TheBloke/MistralLite-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MistralLite-7B-AWQ"
+  },
+  {
+    "_id": "65310b21d780e9ba741c4b3c",
+    "id": "TheBloke/MistralLite-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MistralLite-7B-GPTQ"
   }
 ]
