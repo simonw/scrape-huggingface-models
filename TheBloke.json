@@ -6388,7 +6388,7 @@
   {
     "_id": "649ca07f0c65a5d9697945a1",
     "id": "TheBloke/WizardLM-Uncensored-SuperCOT-StoryTelling-30B-SuperHOT-8K-GPTQ",
-    "likes": 40,
+    "likes": 39,
     "private": false,
     "downloads": 82,
     "tags": [
@@ -36349,7 +36349,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 86,
+    "likes": 87,
     "private": false,
     "downloads": 307,
     "tags": [
@@ -39590,7 +39590,7 @@
   {
     "_id": "652f9882329f988fe2f5150a",
     "id": "TheBloke/Dans-AdventurousWinds-Mk2-7B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -39930,8 +39930,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/SlimOpenOrca-Mistral-7B-GPTQ"
   },
   {
