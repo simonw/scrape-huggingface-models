@@ -20490,6 +20490,7 @@
       "arxiv:2205.14135",
       "arxiv:2306.01116",
       "license:unknown",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -39977,7 +39978,7 @@
   {
     "_id": "65310b2133d693dfd39750ce",
     "id": "TheBloke/MistralLite-7B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -39992,12 +39993,19 @@
   {
     "_id": "65310b21b5672703b2ea0634",
     "id": "TheBloke/MistralLite-7B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MistralLite-7B-AWQ"
   },
   {
