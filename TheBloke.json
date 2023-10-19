@@ -9951,7 +9951,7 @@
   {
     "_id": "64bae83f4b4ff0d50909acc5",
     "id": "TheBloke/llama-2-70b-Guanaco-QLoRA-fp16",
-    "likes": 55,
+    "likes": 56,
     "private": false,
     "downloads": 3814,
     "tags": [
@@ -16371,7 +16371,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 77,
+    "likes": 78,
     "private": false,
     "downloads": 181,
     "tags": [
@@ -36350,7 +36350,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 87,
+    "likes": 88,
     "private": false,
     "downloads": 324,
     "tags": [
@@ -39978,7 +39978,7 @@
   {
     "_id": "65310b2133d693dfd39750ce",
     "id": "TheBloke/MistralLite-7B-GGUF",
-    "likes": 1,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -40015,8 +40015,83 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MistralLite-7B-GPTQ"
+  },
+  {
+    "_id": "6531181618cba8dff4076e43",
+    "id": "TheBloke/Mistral-Pygmalion-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "Mistral",
+      "Pygmalion",
+      "llama-2",
+      "llama-2-7b",
+      "en",
+      "license:cc-by-nc-nd-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Mistral-Pygmalion-7B-GPTQ"
+  },
+  {
+    "_id": "65311816b5672703b2ebdb66",
+    "id": "TheBloke/Mistral-Pygmalion-7B-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "Mistral",
+      "Pygmalion",
+      "llama-2",
+      "llama-2-7b",
+      "text-generation",
+      "en",
+      "license:cc-by-nc-nd-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Mistral-Pygmalion-7B-GGUF"
+  },
+  {
+    "_id": "65311816b6111192a5643a62",
+    "id": "TheBloke/Mistral-Pygmalion-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "Mistral",
+      "Pygmalion",
+      "llama-2",
+      "llama-2-7b",
+      "en",
+      "license:cc-by-nc-nd-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Mistral-Pygmalion-7B-AWQ"
   }
 ]
