@@ -36350,7 +36350,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 88,
+    "likes": 89,
     "private": false,
     "downloads": 324,
     "tags": [
@@ -37388,8 +37388,7 @@
       "en",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/OpenHermes-2-Mistral-7B-GPTQ"
