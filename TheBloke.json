@@ -15502,7 +15502,7 @@
   {
     "_id": "64e85bb1e6a52fff352d606f",
     "id": "TheBloke/CodeLlama-34B-Instruct-GPTQ",
-    "likes": 39,
+    "likes": 40,
     "private": false,
     "downloads": 153766,
     "tags": [
@@ -16284,7 +16284,7 @@
   {
     "_id": "64eb8a892800cf7e9cb2541b",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GPTQ",
-    "likes": 63,
+    "likes": 64,
     "private": false,
     "downloads": 34577,
     "tags": [
@@ -20792,7 +20792,7 @@
   {
     "_id": "64fb1676b961d0d12c7fce3c",
     "id": "TheBloke/Chronos-Hermes-13b-v2-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -33527,7 +33527,7 @@
   {
     "_id": "6515ff5b7f18cec973af0828",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GPTQ",
-    "likes": 47,
+    "likes": 48,
     "private": false,
     "downloads": 16076,
     "tags": [
@@ -36350,7 +36350,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 90,
+    "likes": 92,
     "private": false,
     "downloads": 324,
     "tags": [
@@ -40092,5 +40092,51 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Mistral-Pygmalion-7B-AWQ"
+  },
+  {
+    "_id": "65315c5069fffcfe153fa31f",
+    "id": "TheBloke/Airoboros-M-7B-3.1.2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "dataset:jondurbin/airoboros-3.1",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Airoboros-M-7B-3.1.2-AWQ"
+  },
+  {
+    "_id": "65315c50dca7bb4209c78529",
+    "id": "TheBloke/Airoboros-M-7B-3.1.2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-M-7B-3.1.2-GPTQ"
+  },
+  {
+    "_id": "65315c50e810c9214031a121",
+    "id": "TheBloke/Airoboros-M-7B-3.1.2-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "dataset:jondurbin/airoboros-3.1",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-M-7B-3.1.2-GGUF"
   }
 ]
