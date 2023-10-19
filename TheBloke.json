@@ -15039,7 +15039,7 @@
   {
     "_id": "64e78d117acd8971f2c6bbe6",
     "id": "TheBloke/CodeLlama-7B-GGUF",
-    "likes": 39,
+    "likes": 40,
     "private": false,
     "downloads": 270,
     "tags": [
@@ -33527,7 +33527,7 @@
   {
     "_id": "6515ff5b7f18cec973af0828",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GPTQ",
-    "likes": 48,
+    "likes": 49,
     "private": false,
     "downloads": 16076,
     "tags": [
@@ -40119,8 +40119,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "dataset:jondurbin/airoboros-3.1",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Airoboros-M-7B-3.1.2-GPTQ"
   },
   {
