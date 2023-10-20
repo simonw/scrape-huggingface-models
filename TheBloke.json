@@ -15988,7 +15988,7 @@
   {
     "_id": "64ea296ce74f54587cc51cf5",
     "id": "TheBloke/Genz-70b-GPTQ",
-    "likes": 34,
+    "likes": 35,
     "private": false,
     "downloads": 6624,
     "tags": [
@@ -39984,7 +39984,8 @@
       "mistral",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/MistralLite-7B-GGUF"
   },
