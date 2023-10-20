@@ -2045,7 +2045,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 384,
+    "likes": 385,
     "private": false,
     "downloads": 13317,
     "tags": [
@@ -9291,7 +9291,7 @@
   {
     "_id": "64b6d9d4bb1d8f2832c8be93",
     "id": "TheBloke/Llama-2-13B-chat-GPTQ",
-    "likes": 286,
+    "likes": 287,
     "private": false,
     "downloads": 97345,
     "tags": [
@@ -15351,7 +15351,7 @@
   {
     "_id": "64e7d76dade5964ec6d2481f",
     "id": "TheBloke/CodeLlama-7B-Python-GPTQ",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 614,
     "tags": [
@@ -15524,7 +15524,7 @@
   {
     "_id": "64e8786ad41a68b065c53e26",
     "id": "TheBloke/CodeLlama-34B-Python-GPTQ",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 145,
     "tags": [
@@ -15794,7 +15794,7 @@
   {
     "_id": "64e9e5008c523cced2035915",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GPTQ",
-    "likes": 56,
+    "likes": 57,
     "private": false,
     "downloads": 2005,
     "tags": [
@@ -20090,7 +20090,7 @@
   {
     "_id": "64f7e02a35a0a9fc542e1850",
     "id": "TheBloke/Luna-AI-Llama2-Uncensored-GGUF",
-    "likes": 7,
+    "likes": 6,
     "private": false,
     "downloads": 18,
     "tags": [
@@ -36349,7 +36349,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 92,
+    "likes": 94,
     "private": false,
     "downloads": 351,
     "tags": [
@@ -38845,7 +38845,8 @@
       "ru",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/openbuddy-mistral-7B-v13-GGUF"
@@ -39992,7 +39993,7 @@
   {
     "_id": "65310b21b5672703b2ea0634",
     "id": "TheBloke/MistralLite-7B-AWQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -40154,8 +40155,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "endpoints_compatible",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Arithmo-Mistral-7B-GPTQ"
   },
   {
