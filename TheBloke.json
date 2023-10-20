@@ -38624,7 +38624,7 @@
   {
     "_id": "652bd2f960e7067305b18dee",
     "id": "TheBloke/llava-v1.5-13B-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 74,
     "tags": [
@@ -39993,7 +39993,7 @@
   {
     "_id": "65310b21b5672703b2ea0634",
     "id": "TheBloke/MistralLite-7B-AWQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -40159,7 +40159,10 @@
       "safetensors",
       "mistral",
       "text-generation",
-      "endpoints_compatible",
+      "Mathematical Reasoning",
+      "en",
+      "dataset:akjindal53244/Arithmo-Data",
+      "license:apache-2.0",
       "text-generation-inference",
       "region:us"
     ],
