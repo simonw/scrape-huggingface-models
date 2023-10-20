@@ -24651,7 +24651,7 @@
   {
     "_id": "6509302461c4bb4636eb233f",
     "id": "TheBloke/CodeUp-Llama-2-13B-Chat-HF-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 19,
     "tags": [
@@ -32920,7 +32920,7 @@
   {
     "_id": "65148287463c4fd767f76cb6",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 2027,
     "tags": [
@@ -36987,7 +36987,7 @@
   {
     "_id": "652811614126af677af43241",
     "id": "TheBloke/FashionGPT-70B-v1.2-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -40207,5 +40207,110 @@
       "region:us"
     ],
     "modelId": "TheBloke/Arithmo-Mistral-7B-GGUF"
+  },
+  {
+    "_id": "6532fb6e1995cee54adb1156",
+    "id": "TheBloke/agentlm-70B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/agentlm-70B-AWQ"
+  },
+  {
+    "_id": "6532fb6e438f63b08e2496e6",
+    "id": "TheBloke/agentlm-70B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/agentlm-70B-GPTQ"
+  },
+  {
+    "_id": "6532fb6ecbf3b6035cd6ee8a",
+    "id": "TheBloke/agentlm-70B-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/agentlm-70B-GGUF"
+  },
+  {
+    "_id": "6532fe2b3588c5d739d28d17",
+    "id": "TheBloke/agentlm-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/agentlm-13B-AWQ"
+  },
+  {
+    "_id": "6532fe2bdc1c6f1ed7ce21d8",
+    "id": "TheBloke/agentlm-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "dataset:THUDM/AgentInstruct",
+      "arxiv:2310.12823",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/agentlm-13B-GGUF"
+  },
+  {
+    "_id": "6532fe2bfb5f3048f52a309c",
+    "id": "TheBloke/agentlm-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/agentlm-13B-GPTQ"
+  },
+  {
+    "_id": "6532ff883588c5d739d2c0e6",
+    "id": "TheBloke/CodeBooga-34B-v0.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/CodeBooga-34B-v0.1-AWQ"
+  },
+  {
+    "_id": "6532ff883e385cfc601254ad",
+    "id": "TheBloke/CodeBooga-34B-v0.1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/CodeBooga-34B-v0.1-GGUF"
+  },
+  {
+    "_id": "6532ff88badc49780744753a",
+    "id": "TheBloke/CodeBooga-34B-v0.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/CodeBooga-34B-v0.1-GPTQ"
   }
 ]
