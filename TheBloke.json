@@ -36370,7 +36370,7 @@
   {
     "_id": "652615dffa9f6e5694a1f7a0",
     "id": "TheBloke/zephyr-7B-alpha-GPTQ",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 5590,
     "tags": [
@@ -39391,7 +39391,7 @@
   {
     "_id": "652ec008a0f516a99dde2ef0",
     "id": "TheBloke/Thespis-13B-v0.3-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -40164,14 +40164,24 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "Mathematical Reasoning",
+      "en",
+      "dataset:akjindal53244/Arithmo-Data",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Arithmo-Mistral-7B-AWQ"
   },
   {
     "_id": "65324859548eae0c990cb4c9",
     "id": "TheBloke/Arithmo-Mistral-7B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
