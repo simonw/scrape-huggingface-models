@@ -16388,7 +16388,7 @@
   {
     "_id": "64edd2c360f6345da710a5d9",
     "id": "TheBloke/Lemur-70B-Chat-v1-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -21068,7 +21068,7 @@
   {
     "_id": "64fcc97fd82fc6977d9e7cd5",
     "id": "TheBloke/ORCA_LLaMA_70B_QLoRA-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 76,
     "tags": [
@@ -40237,6 +40237,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "dataset:THUDM/AgentInstruct",
+      "arxiv:2310.12823",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/agentlm-70B-GGUF"
@@ -40248,8 +40254,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:THUDM/AgentInstruct",
+      "arxiv:2310.12823",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/agentlm-13B-AWQ"
   },
   {
@@ -40276,8 +40291,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:THUDM/AgentInstruct",
+      "arxiv:2310.12823",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/agentlm-13B-GPTQ"
   },
   {
@@ -40298,6 +40322,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/CodeBooga-34B-v0.1-GGUF"
