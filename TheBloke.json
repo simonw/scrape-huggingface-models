@@ -35581,7 +35581,7 @@
   {
     "_id": "651f3acd22aeffca25f14a13",
     "id": "TheBloke/airoboros-l2-13B-3.0-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 19,
     "tags": [
@@ -37362,7 +37362,8 @@
       "en",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/OpenHermes-2-Mistral-7B-AWQ"
@@ -38587,7 +38588,7 @@
   {
     "_id": "652bcb326f88e29851b18d0f",
     "id": "TheBloke/LongAlpaca-70B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 10,
     "tags": [
