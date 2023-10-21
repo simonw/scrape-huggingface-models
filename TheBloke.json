@@ -16284,7 +16284,7 @@
   {
     "_id": "64eb8a892800cf7e9cb2541b",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GPTQ",
-    "likes": 65,
+    "likes": 66,
     "private": false,
     "downloads": 30015,
     "tags": [
@@ -18236,7 +18236,7 @@
   {
     "_id": "64f611cf6ad07ea81779ca15",
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
-    "likes": 70,
+    "likes": 71,
     "private": false,
     "downloads": 1206,
     "tags": [
@@ -33547,7 +33547,7 @@
   {
     "_id": "6515ffbc3e5a12e0ceaefd75",
     "id": "TheBloke/Mistral-7B-v0.1-GPTQ",
-    "likes": 18,
+    "likes": 19,
     "private": false,
     "downloads": 2839,
     "tags": [
@@ -34596,7 +34596,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 143,
+    "likes": 144,
     "private": false,
     "downloads": 1247,
     "tags": [
@@ -37346,7 +37346,7 @@
   {
     "_id": "652a4a9b0ab893688781137e",
     "id": "TheBloke/OpenHermes-2-Mistral-7B-AWQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 359,
     "tags": [
@@ -38588,7 +38588,7 @@
   {
     "_id": "652bcb326f88e29851b18d0f",
     "id": "TheBloke/LongAlpaca-70B-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -40152,7 +40152,7 @@
   {
     "_id": "65324859005c969984e8aca4",
     "id": "TheBloke/Arithmo-Mistral-7B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -40252,7 +40252,7 @@
   {
     "_id": "6532fb6ecbf3b6035cd6ee8a",
     "id": "TheBloke/agentlm-70B-GGUF",
-    "likes": 4,
+    "likes": 6,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -40289,7 +40289,7 @@
   {
     "_id": "6532fe2bdc1c6f1ed7ce21d8",
     "id": "TheBloke/agentlm-13B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -40359,7 +40359,7 @@
   {
     "_id": "6532ff88badc49780744753a",
     "id": "TheBloke/CodeBooga-34B-v0.1-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -40437,7 +40437,7 @@
   {
     "_id": "653334f8d434308ba429cf30",
     "id": "TheBloke/agentlm-7B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -40622,8 +40622,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-3.1",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Airoboros-L2-70B-3.1.2-AWQ"
   },
   {
@@ -40660,8 +40668,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-3.1",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Airoboros-c34B-3.1.2-GPTQ"
   },
   {
