@@ -18283,7 +18283,7 @@
   {
     "_id": "64f61985e916843d8ebc5db8",
     "id": "TheBloke/Llama-2-70B-chat-GGUF",
-    "likes": 41,
+    "likes": 42,
     "private": false,
     "downloads": 326,
     "tags": [
@@ -36426,7 +36426,8 @@
       "dataset:cerebras/SlimPajama-627B",
       "license:other",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/TinyLlama-1.1B-1T-OpenOrca-AWQ"
@@ -37345,7 +37346,7 @@
   {
     "_id": "652a4a9b0ab893688781137e",
     "id": "TheBloke/OpenHermes-2-Mistral-7B-AWQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 268,
     "tags": [
