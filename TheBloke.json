@@ -12460,7 +12460,7 @@
   {
     "_id": "64d09aa04e3372f9ebb67e22",
     "id": "TheBloke/Dolphin-Llama2-7B-GPTQ",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 279,
     "tags": [
@@ -15819,7 +15819,7 @@
   {
     "_id": "64e9e5316b9db55517b1d2a9",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GGUF",
-    "likes": 63,
+    "likes": 64,
     "private": false,
     "downloads": 50,
     "tags": [
@@ -31178,7 +31178,7 @@
   {
     "_id": "650e2543871fed2307aea83f",
     "id": "TheBloke/MLewd-ReMM-L2-Chat-20B-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 335,
     "tags": [
@@ -36559,7 +36559,7 @@
   {
     "_id": "652653590aaab896facf71a0",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GGUF",
-    "likes": 48,
+    "likes": 50,
     "private": false,
     "downloads": 121,
     "tags": [
@@ -36577,7 +36577,7 @@
   {
     "_id": "6526547f095931e1067d674f",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GPTQ",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 2608,
     "tags": [
@@ -39978,7 +39978,7 @@
   {
     "_id": "65310b2133d693dfd39750ce",
     "id": "TheBloke/MistralLite-7B-GGUF",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -40399,8 +40399,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code",
+      "arxiv:1910.09700",
+      "license:other",
+      "model-index",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/vicuna-33B-coder-AWQ"
   },
   {
@@ -40410,8 +40420,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code",
+      "arxiv:1910.09700",
+      "license:other",
+      "model-index",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/vicuna-33B-coder-GPTQ"
   },
   {
@@ -40521,5 +40541,44 @@
       "region:us"
     ],
     "modelId": "TheBloke/MistralMakise-Merged-13B-GGUF"
+  },
+  {
+    "_id": "65339f726054952c5a2866ce",
+    "id": "TheBloke/MLewdBoros-LRPSGPT-2Char-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/MLewdBoros-LRPSGPT-2Char-13B-GGUF"
+  },
+  {
+    "_id": "65339f72fca2c10e43d814a4",
+    "id": "TheBloke/MLewdBoros-LRPSGPT-2Char-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MLewdBoros-LRPSGPT-2Char-13B-AWQ"
+  },
+  {
+    "_id": "65339f73a920f387807a5b27",
+    "id": "TheBloke/MLewdBoros-LRPSGPT-2Char-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MLewdBoros-LRPSGPT-2Char-13B-GPTQ"
   }
 ]
