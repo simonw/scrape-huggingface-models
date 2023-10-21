@@ -16371,7 +16371,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 79,
+    "likes": 80,
     "private": false,
     "downloads": 183,
     "tags": [
@@ -37612,7 +37612,7 @@
   {
     "_id": "652aec4cf120598322786ae3",
     "id": "TheBloke/tora-13B-v1.0-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -40215,8 +40215,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:THUDM/AgentInstruct",
+      "arxiv:2310.12823",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/agentlm-70B-AWQ"
   },
   {
@@ -40233,7 +40242,7 @@
   {
     "_id": "6532fb6ecbf3b6035cd6ee8a",
     "id": "TheBloke/agentlm-70B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -40344,8 +40353,48 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeBooga-34B-v0.1-GPTQ"
+  },
+  {
+    "_id": "6533206302d1ecd54542adb9",
+    "id": "TheBloke/vicuna-33B-coder-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/vicuna-33B-coder-GGUF"
+  },
+  {
+    "_id": "653320636141b3927abfe796",
+    "id": "TheBloke/vicuna-33B-coder-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/vicuna-33B-coder-AWQ"
+  },
+  {
+    "_id": "65332063b66f4bf689d817e2",
+    "id": "TheBloke/vicuna-33B-coder-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/vicuna-33B-coder-GPTQ"
   }
 ]
