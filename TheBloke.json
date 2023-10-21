@@ -40598,5 +40598,81 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MLewdBoros-LRPSGPT-2Char-13B-GPTQ"
+  },
+  {
+    "_id": "6533c00c575cd7a77515ce6a",
+    "id": "TheBloke/Airoboros-L2-70B-3.1.2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "dataset:jondurbin/airoboros-3.1",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-70B-3.1.2-GGUF"
+  },
+  {
+    "_id": "6533c00c9860c1cb37bff2ac",
+    "id": "TheBloke/Airoboros-L2-70B-3.1.2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-70B-3.1.2-AWQ"
+  },
+  {
+    "_id": "6533c00ccbf3b6035cee9535",
+    "id": "TheBloke/Airoboros-L2-70B-3.1.2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-L2-70B-3.1.2-GPTQ"
+  },
+  {
+    "_id": "6533c088ae42162a1ecd9d4a",
+    "id": "TheBloke/Airoboros-c34B-3.1.2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "dataset:jondurbin/airoboros-3.1",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-c34B-3.1.2-GGUF"
+  },
+  {
+    "_id": "6533c088ae42162a1ecd9d4b",
+    "id": "TheBloke/Airoboros-c34B-3.1.2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-c34B-3.1.2-GPTQ"
+  },
+  {
+    "_id": "6533c088b3852ed1ceadd6b8",
+    "id": "TheBloke/Airoboros-c34B-3.1.2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-c34B-3.1.2-AWQ"
   }
 ]
