@@ -37323,7 +37323,7 @@
   {
     "_id": "652a4a91c59e682042c1b91f",
     "id": "TheBloke/OpenHermes-2-Mistral-7B-GGUF",
-    "likes": 32,
+    "likes": 33,
     "private": false,
     "downloads": 36,
     "tags": [
@@ -37345,7 +37345,7 @@
   {
     "_id": "652a4a9b0ab893688781137e",
     "id": "TheBloke/OpenHermes-2-Mistral-7B-AWQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 268,
     "tags": [
@@ -37370,7 +37370,7 @@
   {
     "_id": "652a4aa5c59e682042c1bb5c",
     "id": "TheBloke/OpenHermes-2-Mistral-7B-GPTQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 793,
     "tags": [
@@ -40488,8 +40488,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MistralMakise-Merged-13B-GPTQ"
   },
   {
