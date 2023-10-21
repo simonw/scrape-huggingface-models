@@ -40430,8 +40430,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:THUDM/AgentInstruct",
+      "arxiv:2310.12823",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/agentlm-7B-GPTQ"
   },
   {
@@ -40453,5 +40462,49 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/agentlm-7B-AWQ"
+  },
+  {
+    "_id": "65333a4035ad8b9e58aa7ea1",
+    "id": "TheBloke/MistralMakise-Merged-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/MistralMakise-Merged-13B-AWQ"
+  },
+  {
+    "_id": "65333a4035ad8b9e58aa7ea3",
+    "id": "TheBloke/MistralMakise-Merged-13B-GPTQ",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MistralMakise-Merged-13B-GPTQ"
+  },
+  {
+    "_id": "65333a40484d775cb0a4efae",
+    "id": "TheBloke/MistralMakise-Merged-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/MistralMakise-Merged-13B-GGUF"
   }
 ]
