@@ -33742,7 +33742,7 @@
   {
     "_id": "651812aa593b3af31211987d",
     "id": "TheBloke/samantha-mistral-instruct-7B-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 36,
     "tags": [
@@ -37371,7 +37371,7 @@
   {
     "_id": "652a4aa5c59e682042c1bb5c",
     "id": "TheBloke/OpenHermes-2-Mistral-7B-GPTQ",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 903,
     "tags": [
@@ -40671,8 +40671,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:jondurbin/airoboros-3.1",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Airoboros-c34B-3.1.2-AWQ"
   }
 ]
