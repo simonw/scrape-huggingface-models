@@ -5394,7 +5394,7 @@
   {
     "_id": "6499bf25159d8c6d349513c7",
     "id": "TheBloke/airoboros-33B-gpt4-1.4-GPTQ",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 237,
     "tags": [
@@ -15039,7 +15039,7 @@
   {
     "_id": "64e78d117acd8971f2c6bbe6",
     "id": "TheBloke/CodeLlama-7B-GGUF",
-    "likes": 40,
+    "likes": 41,
     "private": false,
     "downloads": 263,
     "tags": [
@@ -39079,7 +39079,7 @@
   {
     "_id": "652d4a0b6a41c1d38e284adf",
     "id": "TheBloke/Airoboros-L2-70B-3.1-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -40193,7 +40193,7 @@
   {
     "_id": "65324859548eae0c990cb4c9",
     "id": "TheBloke/Arithmo-Mistral-7B-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -40311,14 +40311,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/CodeBooga-34B-v0.1-AWQ"
   },
   {
     "_id": "6532ff883e385cfc601254ad",
     "id": "TheBloke/CodeBooga-34B-v0.1-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
