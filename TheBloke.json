@@ -5394,7 +5394,7 @@
   {
     "_id": "6499bf25159d8c6d349513c7",
     "id": "TheBloke/airoboros-33B-gpt4-1.4-GPTQ",
-    "likes": 23,
+    "likes": 22,
     "private": false,
     "downloads": 237,
     "tags": [
@@ -28404,7 +28404,7 @@
   {
     "_id": "650a276ad26103b6eed600e5",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GGUF",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 53,
     "tags": [
@@ -28443,7 +28443,7 @@
   {
     "_id": "650a288fce81b73e637e3216",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 114,
     "tags": [
@@ -40235,8 +40235,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:THUDM/AgentInstruct",
+      "arxiv:2310.12823",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/agentlm-70B-GPTQ"
   },
   {
@@ -40396,5 +40405,53 @@
       "region:us"
     ],
     "modelId": "TheBloke/vicuna-33B-coder-GPTQ"
+  },
+  {
+    "_id": "653334f8d434308ba429cf30",
+    "id": "TheBloke/agentlm-7B-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "dataset:THUDM/AgentInstruct",
+      "arxiv:2310.12823",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/agentlm-7B-GGUF"
+  },
+  {
+    "_id": "653334f96141b3927ac22f7e",
+    "id": "TheBloke/agentlm-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/agentlm-7B-GPTQ"
+  },
+  {
+    "_id": "653334f99ded17e619998fa1",
+    "id": "TheBloke/agentlm-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:THUDM/AgentInstruct",
+      "arxiv:2310.12823",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/agentlm-7B-AWQ"
   }
 ]
