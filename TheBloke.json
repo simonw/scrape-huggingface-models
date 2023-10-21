@@ -13294,7 +13294,7 @@
   {
     "_id": "64d7e1405e5f05485cfb67b5",
     "id": "TheBloke/OpenOrca-Platypus2-13B-GPTQ",
-    "likes": 49,
+    "likes": 50,
     "private": false,
     "downloads": 7254,
     "tags": [
@@ -37362,8 +37362,7 @@
       "en",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/OpenHermes-2-Mistral-7B-AWQ"
@@ -40344,7 +40343,7 @@
   {
     "_id": "6532ff883e385cfc601254ad",
     "id": "TheBloke/CodeBooga-34B-v0.1-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
