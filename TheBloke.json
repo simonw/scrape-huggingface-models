@@ -221,7 +221,7 @@
   {
     "_id": "64395fe0a6b2f278af7155b2",
     "id": "TheBloke/gpt4-alpaca-lora-30b-HF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 3874,
     "tags": [
@@ -32996,7 +32996,7 @@
   {
     "_id": "65154bdcfccbf319e632623f",
     "id": "TheBloke/Emerhyst-20B-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 43,
     "tags": [
@@ -37371,7 +37371,7 @@
   {
     "_id": "652a4aa5c59e682042c1bb5c",
     "id": "TheBloke/OpenHermes-2-Mistral-7B-GPTQ",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 1111,
     "tags": [
@@ -40194,7 +40194,7 @@
   {
     "_id": "65324859548eae0c990cb4c9",
     "id": "TheBloke/Arithmo-Mistral-7B-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -40757,5 +40757,57 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/LLaMA2-13B-Tiefighter-GPTQ"
+  },
+  {
+    "_id": "6535434f25a58aec65b0beba",
+    "id": "TheBloke/CausalLM-14B-AWQ",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "llama2",
+      "en",
+      "zh",
+      "dataset:JosephusCheung/GuanacoDataset",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:stingning/ultrachat",
+      "dataset:meta-math/MetaMathQA",
+      "dataset:liuhaotian/LLaVA-Instruct-150K",
+      "dataset:jondurbin/airoboros-3.1",
+      "dataset:WizardLM/WizardLM_evol_instruct_V2_196k",
+      "dataset:RyokoAI/ShareGPT52K",
+      "dataset:RyokoAI/Fandom23K",
+      "dataset:milashkaarshif/MoeGirlPedia_wikitext_raw_archive",
+      "dataset:wikipedia",
+      "dataset:wiki_lingua",
+      "dataset:fnlp/moss-003-sft-data",
+      "dataset:garage-bAInd/Open-Platypus",
+      "dataset:LDJnr/Puffin",
+      "dataset:openbmb/llava_zh",
+      "dataset:BAAI/COIG",
+      "dataset:TigerResearch/tigerbot-zhihu-zh-10k",
+      "dataset:liwu/MNBVC",
+      "dataset:teknium/openhermes",
+      "license:wtfpl",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/CausalLM-14B-AWQ"
+  },
+  {
+    "_id": "6535434f392f3bcb326e2e70",
+    "id": "TheBloke/CausalLM-14B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/CausalLM-14B-GPTQ"
   }
 ]
