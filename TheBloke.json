@@ -907,7 +907,7 @@
   {
     "_id": "645f47cf6990e1208522b824",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
-    "likes": 248,
+    "likes": 249,
     "private": false,
     "downloads": 12567,
     "tags": [
@@ -37324,7 +37324,7 @@
   {
     "_id": "652a4a91c59e682042c1b91f",
     "id": "TheBloke/OpenHermes-2-Mistral-7B-GGUF",
-    "likes": 38,
+    "likes": 39,
     "private": false,
     "downloads": 44,
     "tags": [
@@ -39978,7 +39978,7 @@
   {
     "_id": "65310b2133d693dfd39750ce",
     "id": "TheBloke/MistralLite-7B-GGUF",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -40194,7 +40194,7 @@
   {
     "_id": "65324859548eae0c990cb4c9",
     "id": "TheBloke/Arithmo-Mistral-7B-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -40761,7 +40761,7 @@
   {
     "_id": "6535434f25a58aec65b0beba",
     "id": "TheBloke/CausalLM-14B-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -40802,7 +40802,7 @@
   {
     "_id": "6535434f392f3bcb326e2e70",
     "id": "TheBloke/CausalLM-14B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -40843,7 +40843,7 @@
   {
     "_id": "65354dada2c81a3d29a30494",
     "id": "TheBloke/CausalLM-14B-GGUF",
-    "likes": 1,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -40883,7 +40883,7 @@
   {
     "_id": "65354f239860c1cb37ed08c3",
     "id": "TheBloke/CausalLM-7B-GGUF",
-    "likes": 1,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -40924,7 +40924,7 @@
   {
     "_id": "6535524b484d775cb0dfeb8c",
     "id": "TheBloke/CausalLM-7B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -40966,7 +40966,7 @@
   {
     "_id": "6535524bc7530aa27fc5a3d5",
     "id": "TheBloke/CausalLM-7B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -41081,14 +41081,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Mistral-7B-SciPhi-32k-GPTQ"
   },
   {
     "_id": "65356259dea545ecdaac8f83",
     "id": "TheBloke/Mistral-7B-SciPhi-32k-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -41117,5 +41124,35 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Mistral-7B-SciPhi-32k-AWQ"
+  },
+  {
+    "_id": "6535701231e73689f32323a3",
+    "id": "TheBloke/SynthIA-7B-v2.0-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/SynthIA-7B-v2.0-GPTQ"
+  },
+  {
+    "_id": "653570126e86d670ffc14530",
+    "id": "TheBloke/SynthIA-7B-v2.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/SynthIA-7B-v2.0-AWQ"
   }
 ]
