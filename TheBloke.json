@@ -18188,7 +18188,7 @@
   {
     "_id": "64f5fd954d3b1dd311d30e28",
     "id": "TheBloke/Llama-2-7B-GGUF",
-    "likes": 48,
+    "likes": 49,
     "private": false,
     "downloads": 765,
     "tags": [
@@ -20766,7 +20766,7 @@
   {
     "_id": "64fb0a84d82fc6977d6558a2",
     "id": "TheBloke/Falcon-180B-GGUF",
-    "likes": 18,
+    "likes": 19,
     "private": false,
     "downloads": 24,
     "tags": [
@@ -40802,7 +40802,7 @@
   {
     "_id": "6535434f392f3bcb326e2e70",
     "id": "TheBloke/CausalLM-14B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -40843,7 +40843,7 @@
   {
     "_id": "65354dada2c81a3d29a30494",
     "id": "TheBloke/CausalLM-14B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -41030,8 +41030,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Thespis-13B-v0.4-GPTQ"
   },
   {
@@ -41056,8 +41063,59 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Thespis-13B-v0.4-AWQ"
+  },
+  {
+    "_id": "653562596e86d670ffbfce52",
+    "id": "TheBloke/Mistral-7B-SciPhi-32k-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Mistral-7B-SciPhi-32k-GPTQ"
+  },
+  {
+    "_id": "65356259dea545ecdaac8f83",
+    "id": "TheBloke/Mistral-7B-SciPhi-32k-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Mistral-7B-SciPhi-32k-GGUF"
+  },
+  {
+    "_id": "65356259ed74ace633b961ae",
+    "id": "TheBloke/Mistral-7B-SciPhi-32k-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Mistral-7B-SciPhi-32k-AWQ"
   }
 ]
