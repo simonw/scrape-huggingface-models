@@ -5926,7 +5926,7 @@
   {
     "_id": "649a5dcd96d5747b35e30c6f",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-SuperHOT-8K-GPTQ",
-    "likes": 90,
+    "likes": 91,
     "private": false,
     "downloads": 1538,
     "tags": [
@@ -12547,7 +12547,7 @@
   {
     "_id": "64d27f66c76d716b0eb9112c",
     "id": "TheBloke/MythoMix-L2-13B-GPTQ",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 360,
     "tags": [
@@ -21006,8 +21006,7 @@
       "en",
       "dataset:Fredithefish/openassistant-guanaco-unfiltered",
       "license:apache-2.0",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "conversational",
     "modelId": "TheBloke/Guanaco-3B-Uncensored-v2-GGML"
