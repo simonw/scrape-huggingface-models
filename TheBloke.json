@@ -14164,7 +14164,7 @@
   {
     "_id": "64e35618a88a63300b9447db",
     "id": "TheBloke/Llama-2-7B-32K-Instruct-GPTQ",
-    "likes": 18,
+    "likes": 19,
     "private": false,
     "downloads": 222158,
     "tags": [
@@ -18237,7 +18237,7 @@
   {
     "_id": "64f611cf6ad07ea81779ca15",
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
-    "likes": 75,
+    "likes": 77,
     "private": false,
     "downloads": 1153,
     "tags": [
@@ -41164,5 +41164,49 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/SynthIA-7B-v2.0-AWQ"
+  },
+  {
+    "_id": "6537e73728002e2b40c70740",
+    "id": "TheBloke/HornyEchidna-13B-v0.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/HornyEchidna-13B-v0.1-GPTQ"
+  },
+  {
+    "_id": "6537e7379bcf319f5ab6dde1",
+    "id": "TheBloke/HornyEchidna-13B-v0.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/HornyEchidna-13B-v0.1-AWQ"
+  },
+  {
+    "_id": "6537e737bf583ce1f31f523a",
+    "id": "TheBloke/HornyEchidna-13B-v0.1-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/HornyEchidna-13B-v0.1-GGUF"
   }
 ]
