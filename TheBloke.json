@@ -41172,8 +41172,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/HornyEchidna-13B-v0.1-GPTQ"
   },
   {
@@ -41208,5 +41215,57 @@
       "region:us"
     ],
     "modelId": "TheBloke/HornyEchidna-13B-v0.1-GGUF"
+  },
+  {
+    "_id": "6537eea361d44e23f3c29aa6",
+    "id": "TheBloke/Vigostral-7B-Chat-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "LLM",
+      "finetuned",
+      "fr",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Vigostral-7B-Chat-AWQ"
+  },
+  {
+    "_id": "6537eea3a5ab055cf2bcc17a",
+    "id": "TheBloke/Vigostral-7B-Chat-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "LLM",
+      "finetuned",
+      "text-generation",
+      "fr",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Vigostral-7B-Chat-GGUF"
+  },
+  {
+    "_id": "6537eea3bf790526ef20f75f",
+    "id": "TheBloke/Vigostral-7B-Chat-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Vigostral-7B-Chat-GPTQ"
   }
 ]
