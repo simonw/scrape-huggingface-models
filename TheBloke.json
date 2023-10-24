@@ -14142,7 +14142,7 @@
   {
     "_id": "64e3133f2fbff6ed9cf6f355",
     "id": "TheBloke/Samantha-1.1-70B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -41010,7 +41010,7 @@
   {
     "_id": "6535537d3da0ff3c70abedd7",
     "id": "TheBloke/SynthIA-7B-v2.0-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -41264,8 +41264,51 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "LLM",
+      "finetuned",
+      "fr",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Vigostral-7B-Chat-GPTQ"
+  },
+  {
+    "_id": "6537f942a5ab055cf2be6972",
+    "id": "TheBloke/Augmental-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Augmental-13B-GGUF"
+  },
+  {
+    "_id": "6537f942bd5cd5a1ceb980bf",
+    "id": "TheBloke/Augmental-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Augmental-13B-AWQ"
+  },
+  {
+    "_id": "6537f942be39573b3b115896",
+    "id": "TheBloke/Augmental-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Augmental-13B-GPTQ"
   }
 ]
