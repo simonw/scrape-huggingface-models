@@ -3297,7 +3297,8 @@
       "license:bigcode-openrail-m",
       "endpoints_compatible",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/starchat-beta-GPTQ"
@@ -9376,7 +9377,7 @@
   {
     "_id": "64b72139a00eab5bcddae33e",
     "id": "TheBloke/Llama-2-70B-chat-GPTQ",
-    "likes": 211,
+    "likes": 212,
     "private": false,
     "downloads": 115567,
     "tags": [
@@ -34618,7 +34619,7 @@
   {
     "_id": "651ad379eb6c502094708828",
     "id": "TheBloke/Mistral-7B-OpenOrca-GPTQ",
-    "likes": 61,
+    "likes": 62,
     "private": false,
     "downloads": 17773,
     "tags": [
@@ -36559,7 +36560,7 @@
   {
     "_id": "652653590aaab896facf71a0",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GGUF",
-    "likes": 67,
+    "likes": 68,
     "private": false,
     "downloads": 336,
     "tags": [
@@ -36577,7 +36578,7 @@
   {
     "_id": "6526547f095931e1067d674f",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GPTQ",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 3025,
     "tags": [
@@ -38462,7 +38463,7 @@
   {
     "_id": "652babc0d50c9382fb4ba4ec",
     "id": "TheBloke/Xwin-MLewd-13B-v0.2-GPTQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 736,
     "tags": [
@@ -40030,7 +40031,7 @@
   {
     "_id": "6531181618cba8dff4076e43",
     "id": "TheBloke/Mistral-Pygmalion-7B-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 37,
     "tags": [
@@ -41096,7 +41097,7 @@
   {
     "_id": "65356259dea545ecdaac8f83",
     "id": "TheBloke/Mistral-7B-SciPhi-32k-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
