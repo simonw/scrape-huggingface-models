@@ -19937,9 +19937,9 @@
       "dataset:togethercomputer/llama-instruct",
       "arxiv:2307.03172",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "modelId": "TheBloke/Llama-2-7B-32K-Instruct-GGUF"
   },
@@ -33528,7 +33528,7 @@
   {
     "_id": "6515ff5b7f18cec973af0828",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GPTQ",
-    "likes": 49,
+    "likes": 50,
     "private": false,
     "downloads": 20144,
     "tags": [
