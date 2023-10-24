@@ -18189,7 +18189,7 @@
   {
     "_id": "64f5fd954d3b1dd311d30e28",
     "id": "TheBloke/Llama-2-7B-GGUF",
-    "likes": 52,
+    "likes": 51,
     "private": false,
     "downloads": 764,
     "tags": [
@@ -41314,7 +41314,7 @@
   {
     "_id": "6537f942be39573b3b115896",
     "id": "TheBloke/Augmental-13B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -41322,7 +41322,7 @@
       "safetensors",
       "llama",
       "text-generation",
-      "endpoints_compatible",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
