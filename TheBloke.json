@@ -32629,7 +32629,7 @@
   {
     "_id": "65140cda51c0141fa86b7d8b",
     "id": "TheBloke/U-Amethyst-20B-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 29,
     "tags": [
@@ -41285,6 +41285,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Augmental-13B-GGUF"
@@ -41296,8 +41300,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Augmental-13B-AWQ"
   },
   {
@@ -41307,8 +41318,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "endpoints_compatible",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Augmental-13B-GPTQ"
   }
 ]
