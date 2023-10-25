@@ -5674,7 +5674,7 @@
   {
     "_id": "649a217a74485a2285a5764b",
     "id": "TheBloke/Nous-Hermes-13B-SuperHOT-8K-GPTQ",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 218,
     "tags": [
@@ -40844,7 +40844,7 @@
   {
     "_id": "65354dada2c81a3d29a30494",
     "id": "TheBloke/CausalLM-14B-GGUF",
-    "likes": 22,
+    "likes": 24,
     "private": false,
     "downloads": 11,
     "tags": [
@@ -41328,5 +41328,38 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Augmental-13B-GPTQ"
+  },
+  {
+    "_id": "6539729dc8ff1384e32b2ae1",
+    "id": "TheBloke/Dolphin-2.1-70B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Dolphin-2.1-70B-GPTQ"
+  },
+  {
+    "_id": "6539729dd1ca3238d0d74d76",
+    "id": "TheBloke/Dolphin-2.1-70B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Dolphin-2.1-70B-GGUF"
+  },
+  {
+    "_id": "6539729e913294ff66da124f",
+    "id": "TheBloke/Dolphin-2.1-70B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Dolphin-2.1-70B-AWQ"
   }
 ]
