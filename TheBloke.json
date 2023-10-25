@@ -41347,6 +41347,13 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:ehartford/dolphin",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Dolphin-2.1-70B-GGUF"
@@ -41361,5 +41368,16 @@
       "region:us"
     ],
     "modelId": "TheBloke/Dolphin-2.1-70B-AWQ"
+  },
+  {
+    "_id": "65397910b6553f924e3bf4c4",
+    "id": "TheBloke/SynthIA-70B-v1.5-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/SynthIA-70B-v1.5-GGUF"
   }
 ]
