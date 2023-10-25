@@ -34597,7 +34597,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 149,
+    "likes": 150,
     "private": false,
     "downloads": 1369,
     "tags": [
@@ -37347,7 +37347,7 @@
   {
     "_id": "652a4a9b0ab893688781137e",
     "id": "TheBloke/OpenHermes-2-Mistral-7B-AWQ",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 953,
     "tags": [
@@ -41336,8 +41336,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:ehartford/dolphin",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Dolphin-2.1-70B-GPTQ"
   },
   {
@@ -41423,5 +41433,27 @@
       "region:us"
     ],
     "modelId": "TheBloke/Cat-13B-0.5-GGUF"
+  },
+  {
+    "_id": "6539a19b821b9e4a34acc6be",
+    "id": "TheBloke/Cat-13B-0.5-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Cat-13B-0.5-AWQ"
+  },
+  {
+    "_id": "6539a19b9d66a6c3040d4870",
+    "id": "TheBloke/Cat-13B-0.5-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Cat-13B-0.5-GPTQ"
   }
 ]
