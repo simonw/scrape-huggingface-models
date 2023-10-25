@@ -41376,8 +41376,23 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/SynthIA-70B-v1.5-GGUF"
+  },
+  {
+    "_id": "653980d40da86d726c8765e9",
+    "id": "TheBloke/lzlv_70B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/lzlv_70B-GGUF"
   }
 ]
