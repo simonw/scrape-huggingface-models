@@ -32902,7 +32902,7 @@
   {
     "_id": "65148276ac849a6655d267e9",
     "id": "TheBloke/Mistral-7B-v0.1-AWQ",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 1255,
     "tags": [
@@ -41441,8 +41441,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Cat-13B-0.5-AWQ"
   },
   {
@@ -41452,8 +41459,37 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Cat-13B-0.5-GPTQ"
+  },
+  {
+    "_id": "6539aa2b19c3ef6679742fb0",
+    "id": "TheBloke/lzlv_70B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/lzlv_70B-AWQ"
+  },
+  {
+    "_id": "6539aa2be279d2fc80bd8595",
+    "id": "TheBloke/lzlv_70B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/lzlv_70B-GPTQ"
   }
 ]
