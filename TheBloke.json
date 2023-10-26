@@ -11794,7 +11794,7 @@
   {
     "_id": "64cbe710e3cc4a476d801926",
     "id": "TheBloke/llama2_70b_chat_uncensored-GPTQ",
-    "likes": 47,
+    "likes": 48,
     "private": false,
     "downloads": 785,
     "tags": [
@@ -34822,7 +34822,7 @@
   {
     "_id": "651b50a9b6109ba14026ff19",
     "id": "TheBloke/Nous-Hermes-13B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 21,
     "tags": [
@@ -41477,8 +41477,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/lzlv_70B-AWQ"
   },
   {
