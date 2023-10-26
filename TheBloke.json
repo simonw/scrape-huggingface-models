@@ -16535,7 +16535,7 @@
   {
     "_id": "64edfa6219527b8d28182221",
     "id": "TheBloke/Lemur-70B-Chat-v1-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 5494,
     "tags": [
@@ -32921,7 +32921,7 @@
   {
     "_id": "65148287463c4fd767f76cb6",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
-    "likes": 23,
+    "likes": 24,
     "private": false,
     "downloads": 2644,
     "tags": [
@@ -40099,7 +40099,7 @@
   {
     "_id": "65315c5069fffcfe153fa31f",
     "id": "TheBloke/Airoboros-M-7B-3.1.2-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 35,
     "tags": [
@@ -41495,8 +41495,37 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/lzlv_70B-GPTQ"
+  },
+  {
+    "_id": "6539d8f9899a7547c97fff27",
+    "id": "TheBloke/SynthIA-70B-v1.5-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/SynthIA-70B-v1.5-AWQ"
+  },
+  {
+    "_id": "6539d8f9fc8dea94ef70d3f8",
+    "id": "TheBloke/SynthIA-70B-v1.5-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/SynthIA-70B-v1.5-GPTQ"
   }
 ]
