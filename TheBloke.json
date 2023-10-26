@@ -37325,7 +37325,7 @@
   {
     "_id": "652a4a91c59e682042c1b91f",
     "id": "TheBloke/OpenHermes-2-Mistral-7B-GGUF",
-    "likes": 52,
+    "likes": 53,
     "private": false,
     "downloads": 77,
     "tags": [
@@ -41531,8 +41531,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/SynthIA-70B-v1.5-GPTQ"
   }
 ]
