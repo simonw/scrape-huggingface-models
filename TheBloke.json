@@ -16372,7 +16372,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 88,
+    "likes": 89,
     "private": false,
     "downloads": 159,
     "tags": [
@@ -36578,7 +36578,7 @@
   {
     "_id": "6526547f095931e1067d674f",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GPTQ",
-    "likes": 23,
+    "likes": 24,
     "private": false,
     "downloads": 3693,
     "tags": [
@@ -41545,7 +41545,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 5,
+    "likes": 7,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -41566,12 +41566,25 @@
   {
     "_id": "653bb81b8502e1fd87503201",
     "id": "TheBloke/zephyr-7B-beta-GPTQ",
-    "likes": 1,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "generated_from_trainer",
+      "en",
+      "dataset:HuggingFaceH4/ultrachat_200k",
+      "dataset:HuggingFaceH4/ultrafeedback_binarized",
+      "arxiv:2305.18290",
+      "arxiv:2310.16944",
+      "license:mit",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/zephyr-7B-beta-GPTQ"
   },
   {
