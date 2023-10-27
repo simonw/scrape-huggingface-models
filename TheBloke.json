@@ -19103,7 +19103,7 @@
   {
     "_id": "64f7451182673b2a07ae1103",
     "id": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GGUF",
-    "likes": 34,
+    "likes": 35,
     "private": false,
     "downloads": 66,
     "tags": [
@@ -41168,7 +41168,7 @@
   {
     "_id": "6537e73728002e2b40c70740",
     "id": "TheBloke/HornyEchidna-13B-v0.1-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 13,
     "tags": [
@@ -41566,7 +41566,7 @@
   {
     "_id": "653bb81b8502e1fd87503201",
     "id": "TheBloke/zephyr-7B-beta-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -41765,8 +41765,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MistRP-Airoboros-7B-GPTQ"
   },
   {
@@ -41788,5 +41797,27 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MistRP-Airoboros-7B-AWQ"
+  },
+  {
+    "_id": "653c3e182fe16c9434992028",
+    "id": "TheBloke/med42-70B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/med42-70B-AWQ"
+  },
+  {
+    "_id": "653c3e18ec992c5c20404ef7",
+    "id": "TheBloke/med42-70B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/med42-70B-GPTQ"
   }
 ]
