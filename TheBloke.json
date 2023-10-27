@@ -9377,7 +9377,7 @@
   {
     "_id": "64b72139a00eab5bcddae33e",
     "id": "TheBloke/Llama-2-70B-chat-GPTQ",
-    "likes": 214,
+    "likes": 215,
     "private": false,
     "downloads": 113752,
     "tags": [
@@ -15795,7 +15795,7 @@
   {
     "_id": "64e9e5008c523cced2035915",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GPTQ",
-    "likes": 59,
+    "likes": 60,
     "private": false,
     "downloads": 1727,
     "tags": [
@@ -16372,7 +16372,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 89,
+    "likes": 90,
     "private": false,
     "downloads": 159,
     "tags": [
@@ -36350,7 +36350,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 107,
+    "likes": 106,
     "private": false,
     "downloads": 607,
     "tags": [
@@ -41722,12 +41722,23 @@
   {
     "_id": "653c289eaa1f487614a2785c",
     "id": "TheBloke/med42-70B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "m42",
+      "health",
+      "healthcare",
+      "clinical-llm",
+      "text-generation",
+      "en",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/med42-70B-GGUF"
   },
   {
@@ -41765,8 +41776,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MistRP-Airoboros-7B-AWQ"
   }
 ]
