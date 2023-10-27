@@ -996,7 +996,7 @@
   {
     "_id": "6462a5458e12f9ab9998e2dd",
     "id": "TheBloke/WizardLM-13B-Uncensored-GGML",
-    "likes": 56,
+    "likes": 57,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -1833,7 +1833,7 @@
   {
     "_id": "6472aae80211f852700f7714",
     "id": "TheBloke/gorilla-7B-GGML",
-    "likes": 43,
+    "likes": 44,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -32806,7 +32806,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 221,
+    "likes": 222,
     "private": false,
     "downloads": 5594,
     "tags": [
@@ -33605,7 +33605,7 @@
   {
     "_id": "651605b15671e6529662d1e0",
     "id": "TheBloke/NexusRaven-13B-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 13,
     "tags": [
@@ -41618,8 +41618,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Nete-13B-AWQ"
   },
   {
@@ -41646,8 +41655,54 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Nete-13B-GPTQ"
+  },
+  {
+    "_id": "653c16cd20b98be8afaf2ce2",
+    "id": "TheBloke/AshhLimaRP-Mistral-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/AshhLimaRP-Mistral-7B-GGUF"
+  },
+  {
+    "_id": "653c16cd82357f614da38877",
+    "id": "TheBloke/AshhLimaRP-Mistral-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/AshhLimaRP-Mistral-7B-GPTQ"
+  },
+  {
+    "_id": "653c16cdc865cd67eeaafed7",
+    "id": "TheBloke/AshhLimaRP-Mistral-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/AshhLimaRP-Mistral-7B-AWQ"
   }
 ]
