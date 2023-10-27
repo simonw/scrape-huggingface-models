@@ -34597,7 +34597,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 152,
+    "likes": 153,
     "private": false,
     "downloads": 1654,
     "tags": [
@@ -41701,8 +41701,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/AshhLimaRP-Mistral-7B-AWQ"
   }
 ]
