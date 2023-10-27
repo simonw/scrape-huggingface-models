@@ -41566,7 +41566,7 @@
   {
     "_id": "653bb81b8502e1fd87503201",
     "id": "TheBloke/zephyr-7B-beta-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -41610,5 +41610,44 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/zephyr-7B-beta-AWQ"
+  },
+  {
+    "_id": "653c0b0aa3ad95ac0d043e93",
+    "id": "TheBloke/Nete-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Nete-13B-AWQ"
+  },
+  {
+    "_id": "653c0b0ac865cd67eea93bd4",
+    "id": "TheBloke/Nete-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Nete-13B-GGUF"
+  },
+  {
+    "_id": "653c0b0bb110c9180d6aabb2",
+    "id": "TheBloke/Nete-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Nete-13B-GPTQ"
   }
 ]
