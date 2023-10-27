@@ -645,7 +645,7 @@
   {
     "_id": "6454b9c0f61f10d69dbfd49f",
     "id": "TheBloke/WizardLM-7B-uncensored-GPTQ",
-    "likes": 154,
+    "likes": 155,
     "private": false,
     "downloads": 6607,
     "tags": [
@@ -16372,7 +16372,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 86,
+    "likes": 87,
     "private": false,
     "downloads": 159,
     "tags": [
@@ -18213,7 +18213,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7b-Chat-GGUF",
-    "likes": 103,
+    "likes": 104,
     "private": false,
     "downloads": 4130,
     "tags": [
@@ -26258,7 +26258,7 @@
   {
     "_id": "65097326cc02352e1e141e09",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-AWQ",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 977,
     "tags": [
@@ -32561,7 +32561,7 @@
   {
     "_id": "6513ea746de9c503f31117d1",
     "id": "TheBloke/law-LLM-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 74,
     "tags": [
@@ -39979,7 +39979,7 @@
   {
     "_id": "65310b2133d693dfd39750ce",
     "id": "TheBloke/MistralLite-7B-GGUF",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 32,
     "tags": [
@@ -40438,7 +40438,7 @@
   {
     "_id": "653334f8d434308ba429cf30",
     "id": "TheBloke/agentlm-7B-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 18,
     "tags": [
@@ -41332,7 +41332,7 @@
   {
     "_id": "6539729dc8ff1384e32b2ae1",
     "id": "TheBloke/Dolphin-2.1-70B-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -41491,7 +41491,7 @@
   {
     "_id": "6539aa2be279d2fc80bd8595",
     "id": "TheBloke/lzlv_70B-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 56,
     "tags": [
@@ -41541,5 +41541,61 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/SynthIA-70B-v1.5-GPTQ"
+  },
+  {
+    "_id": "653bb81b7f5fc9ccb1617aa3",
+    "id": "TheBloke/zephyr-7B-beta-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "generated_from_trainer",
+      "en",
+      "dataset:HuggingFaceH4/ultrachat_200k",
+      "dataset:HuggingFaceH4/ultrafeedback_binarized",
+      "arxiv:2305.18290",
+      "arxiv:2310.16944",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/zephyr-7B-beta-GGUF"
+  },
+  {
+    "_id": "653bb81b8502e1fd87503201",
+    "id": "TheBloke/zephyr-7B-beta-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/zephyr-7B-beta-GPTQ"
+  },
+  {
+    "_id": "653bb81bea8b6b5fe3a67097",
+    "id": "TheBloke/zephyr-7B-beta-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "generated_from_trainer",
+      "en",
+      "dataset:HuggingFaceH4/ultrachat_200k",
+      "dataset:HuggingFaceH4/ultrafeedback_binarized",
+      "arxiv:2305.18290",
+      "arxiv:2310.16944",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/zephyr-7B-beta-AWQ"
   }
 ]
