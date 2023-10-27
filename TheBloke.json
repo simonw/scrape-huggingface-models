@@ -18284,7 +18284,7 @@
   {
     "_id": "64f61985e916843d8ebc5db8",
     "id": "TheBloke/Llama-2-70B-chat-GGUF",
-    "likes": 45,
+    "likes": 46,
     "private": false,
     "downloads": 311,
     "tags": [
@@ -40744,7 +40744,7 @@
   {
     "_id": "6534e9dfdc1c6f1ed7081308",
     "id": "TheBloke/LLaMA2-13B-Tiefighter-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 35,
     "tags": [
@@ -41545,7 +41545,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -41690,8 +41690,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/AshhLimaRP-Mistral-7B-GPTQ"
   },
   {
@@ -41711,5 +41718,55 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/AshhLimaRP-Mistral-7B-AWQ"
+  },
+  {
+    "_id": "653c289eaa1f487614a2785c",
+    "id": "TheBloke/med42-70B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/med42-70B-GGUF"
+  },
+  {
+    "_id": "653c29eeec992c5c203da236",
+    "id": "TheBloke/MistRP-Airoboros-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/MistRP-Airoboros-7B-GGUF"
+  },
+  {
+    "_id": "653c2b955e4f2c3e884b629a",
+    "id": "TheBloke/MistRP-Airoboros-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MistRP-Airoboros-7B-GPTQ"
+  },
+  {
+    "_id": "653c2b959e84d1e8b63bc0f6",
+    "id": "TheBloke/MistRP-Airoboros-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MistRP-Airoboros-7B-AWQ"
   }
 ]
