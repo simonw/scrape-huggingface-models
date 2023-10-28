@@ -21089,7 +21089,7 @@
   {
     "_id": "64fdbabd60017eeec9d16133",
     "id": "TheBloke/Spicyboros-13B-2.2-GPTQ",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 138,
     "tags": [
@@ -36580,7 +36580,7 @@
   {
     "_id": "6526547f095931e1067d674f",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GPTQ",
-    "likes": 25,
+    "likes": 26,
     "private": false,
     "downloads": 3782,
     "tags": [
@@ -42437,8 +42437,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "dataset:Norquinal/claude_multiround_chat_1k",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Mistral-7B-Claude-Chat-AWQ"
   }
 ]
