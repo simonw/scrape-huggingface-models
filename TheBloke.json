@@ -41494,7 +41494,7 @@
   {
     "_id": "6539aa2be279d2fc80bd8595",
     "id": "TheBloke/lzlv_70B-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 56,
     "tags": [
@@ -41548,7 +41548,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 39,
+    "likes": 41,
     "private": false,
     "downloads": 17,
     "tags": [
@@ -41570,7 +41570,7 @@
   {
     "_id": "653bb81b8502e1fd87503201",
     "id": "TheBloke/zephyr-7B-beta-GPTQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 119,
     "tags": [
@@ -42151,7 +42151,7 @@
   {
     "_id": "653cffef06a7bb4b1d6574f3",
     "id": "TheBloke/Mistral-7B-codealpaca-lora-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -42248,7 +42248,7 @@
   {
     "_id": "653d14da2fe16c9434b35fa4",
     "id": "TheBloke/Echidna-13B-v0.3-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -42267,8 +42267,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Echidna-13B-v0.3-GPTQ"
   },
   {
@@ -42288,5 +42295,48 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Echidna-13B-v0.3-AWQ"
+  },
+  {
+    "_id": "653d5af56d28265c85b4934e",
+    "id": "TheBloke/japanese-stablelm-instruct-gamma-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/japanese-stablelm-instruct-gamma-7B-GPTQ"
+  },
+  {
+    "_id": "653d5af5aa1f487614c8aebb",
+    "id": "TheBloke/japanese-stablelm-instruct-gamma-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/japanese-stablelm-instruct-gamma-7B-AWQ"
+  },
+  {
+    "_id": "653d5af5b16f657d28cd138e",
+    "id": "TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "japanese-stablelm",
+      "causal-lm",
+      "text-generation",
+      "ja",
+      "arxiv:2310.06825",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF"
   }
 ]
