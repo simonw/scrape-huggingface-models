@@ -20877,7 +20877,7 @@
   {
     "_id": "64fb89247021123688c7ec13",
     "id": "TheBloke/Guanaco-3B-Uncensored-v2-GPTQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 4387,
     "tags": [
@@ -42234,6 +42234,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Echidna-13B-v0.3-GGUF"
