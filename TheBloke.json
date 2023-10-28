@@ -37327,7 +37327,7 @@
   {
     "_id": "652a4a91c59e682042c1b91f",
     "id": "TheBloke/OpenHermes-2-Mistral-7B-GGUF",
-    "likes": 57,
+    "likes": 58,
     "private": false,
     "downloads": 90,
     "tags": [
@@ -40847,7 +40847,7 @@
   {
     "_id": "65354dada2c81a3d29a30494",
     "id": "TheBloke/CausalLM-14B-GGUF",
-    "likes": 36,
+    "likes": 37,
     "private": false,
     "downloads": 36,
     "tags": [
@@ -41871,7 +41871,7 @@
   {
     "_id": "653cb71f48e79d7e63b280c8",
     "id": "TheBloke/Lewd-Sydney-20B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -42155,8 +42155,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "code",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Mistral-7B-codealpaca-lora-GPTQ"
   },
   {
@@ -42188,5 +42196,27 @@
       "region:us"
     ],
     "modelId": "TheBloke/SauerkrautLM-70B-v1-GGUF"
+  },
+  {
+    "_id": "653d0d2b89f7466f2c915807",
+    "id": "TheBloke/SauerkrautLM-70B-v1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/SauerkrautLM-70B-v1-AWQ"
+  },
+  {
+    "_id": "653d0d2b89f7466f2c91580b",
+    "id": "TheBloke/SauerkrautLM-70B-v1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/SauerkrautLM-70B-v1-GPTQ"
   }
 ]
