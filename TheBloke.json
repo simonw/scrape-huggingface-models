@@ -36351,7 +36351,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 109,
+    "likes": 110,
     "private": false,
     "downloads": 657,
     "tags": [
@@ -41548,7 +41548,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 34,
+    "likes": 35,
     "private": false,
     "downloads": 17,
     "tags": [
@@ -41690,7 +41690,7 @@
   {
     "_id": "653c16cd82357f614da38877",
     "id": "TheBloke/AshhLimaRP-Mistral-7B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -42166,8 +42166,27 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "code",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Mistral-7B-codealpaca-lora-AWQ"
+  },
+  {
+    "_id": "653d0773885338b011c68860",
+    "id": "TheBloke/SauerkrautLM-70B-v1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/SauerkrautLM-70B-v1-GGUF"
   }
 ]
