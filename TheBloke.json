@@ -42314,8 +42314,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "japanese-stablelm",
+      "causal-lm",
+      "ja",
+      "arxiv:2310.06825",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/japanese-stablelm-instruct-gamma-7B-AWQ"
   },
   {
