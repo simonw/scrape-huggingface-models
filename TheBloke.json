@@ -9377,7 +9377,7 @@
   {
     "_id": "64b72139a00eab5bcddae33e",
     "id": "TheBloke/Llama-2-70B-chat-GPTQ",
-    "likes": 215,
+    "likes": 216,
     "private": false,
     "downloads": 113070,
     "tags": [
@@ -10354,7 +10354,7 @@
   {
     "_id": "64be69f0afd1e46c5531b913",
     "id": "TheBloke/airoboros-l2-13B-gpt4-1.4.1-GPTQ",
-    "likes": 23,
+    "likes": 24,
     "private": false,
     "downloads": 3419,
     "tags": [
@@ -38628,7 +38628,7 @@
   {
     "_id": "652bd2f960e7067305b18dee",
     "id": "TheBloke/llava-v1.5-13B-GPTQ",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 669,
     "tags": [
@@ -39966,7 +39966,7 @@
   {
     "_id": "653061df3b51002a47a3ee90",
     "id": "TheBloke/SlimOpenOrca-Mistral-7B-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 15,
     "tags": [
@@ -39981,7 +39981,7 @@
   {
     "_id": "65310b2133d693dfd39750ce",
     "id": "TheBloke/MistralLite-7B-GGUF",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 42,
     "tags": [
@@ -41548,7 +41548,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 33,
+    "likes": 34,
     "private": false,
     "downloads": 17,
     "tags": [
@@ -42137,8 +42137,37 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "license:mit",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Mistral_7B_Dolphin2.1_LIMA0.5-GPTQ"
+  },
+  {
+    "_id": "653cffef06a7bb4b1d6574f3",
+    "id": "TheBloke/Mistral-7B-codealpaca-lora-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Mistral-7B-codealpaca-lora-GPTQ"
+  },
+  {
+    "_id": "653cffefb16f657d28c12619",
+    "id": "TheBloke/Mistral-7B-codealpaca-lora-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Mistral-7B-codealpaca-lora-AWQ"
   }
 ]
