@@ -55,7 +55,7 @@
     "id": "TheBloke/koala-7B-HF",
     "likes": 18,
     "private": false,
-    "downloads": 4352,
+    "downloads": 4365,
     "tags": [
       "transformers",
       "pytorch",
@@ -80,7 +80,7 @@
     "id": "TheBloke/koala-13B-HF",
     "likes": 40,
     "private": false,
-    "downloads": 4940,
+    "downloads": 4874,
     "tags": [
       "transformers",
       "pytorch",
@@ -169,7 +169,7 @@
     "id": "TheBloke/vicuna-7B-v0-GPTQ",
     "likes": 16,
     "private": false,
-    "downloads": 39,
+    "downloads": 34,
     "tags": [
       "transformers",
       "pytorch",
@@ -36351,7 +36351,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 108,
+    "likes": 109,
     "private": false,
     "downloads": 607,
     "tags": [
@@ -40847,7 +40847,7 @@
   {
     "_id": "65354dada2c81a3d29a30494",
     "id": "TheBloke/CausalLM-14B-GGUF",
-    "likes": 34,
+    "likes": 35,
     "private": false,
     "downloads": 23,
     "tags": [
@@ -41855,8 +41855,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Lewd-Sydney-20B-AWQ"
   },
   {
@@ -41883,8 +41892,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "endpoints_compatible",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Lewd-Sydney-20B-GPTQ"
   },
   {
@@ -41948,6 +41964,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Echidna-13B-v0.2-GGUF"
