@@ -40847,7 +40847,7 @@
   {
     "_id": "65354dada2c81a3d29a30494",
     "id": "TheBloke/CausalLM-14B-GGUF",
-    "likes": 37,
+    "likes": 38,
     "private": false,
     "downloads": 36,
     "tags": [
@@ -42278,8 +42278,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Echidna-13B-v0.3-AWQ"
   }
 ]
