@@ -41548,7 +41548,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 31,
+    "likes": 33,
     "private": false,
     "downloads": 17,
     "tags": [
@@ -41871,7 +41871,7 @@
   {
     "_id": "653cb71f48e79d7e63b280c8",
     "id": "TheBloke/Lewd-Sydney-20B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -41908,7 +41908,7 @@
   {
     "_id": "653cbaf889b0d6172934f454",
     "id": "TheBloke/Gale-medium-init-3B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -41922,7 +41922,7 @@
   {
     "_id": "653cbbf3ceb0a0f6ce02fc67",
     "id": "TheBloke/openbuddy-mistral-7B-v13.1-GGUF",
-    "likes": 0,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -42093,8 +42093,52 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "zh",
+      "en",
+      "fr",
+      "de",
+      "ja",
+      "ko",
+      "it",
+      "ru",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/openbuddy-mistral-7B-v13.1-GPTQ"
+  },
+  {
+    "_id": "653ced60885338b011c419f6",
+    "id": "TheBloke/Mistral_7B_Dolphin2.1_LIMA0.5-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Mistral_7B_Dolphin2.1_LIMA0.5-AWQ"
+  },
+  {
+    "_id": "653ced609107029eb008217e",
+    "id": "TheBloke/Mistral_7B_Dolphin2.1_LIMA0.5-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Mistral_7B_Dolphin2.1_LIMA0.5-GPTQ"
   }
 ]
