@@ -2045,7 +2045,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 394,
+    "likes": 395,
     "private": false,
     "downloads": 14485,
     "tags": [
@@ -19825,7 +19825,7 @@
   {
     "_id": "64f7a58cbcf14b0c915ad636",
     "id": "TheBloke/Mythalion-13B-GGUF",
-    "likes": 45,
+    "likes": 46,
     "private": false,
     "downloads": 315,
     "tags": [
@@ -34597,7 +34597,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 153,
+    "likes": 154,
     "private": false,
     "downloads": 1654,
     "tags": [
@@ -41559,7 +41559,8 @@
       "arxiv:2310.16944",
       "license:mit",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/zephyr-7B-beta-GGUF"
   },
