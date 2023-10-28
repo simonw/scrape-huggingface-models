@@ -36561,7 +36561,7 @@
   {
     "_id": "652653590aaab896facf71a0",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GGUF",
-    "likes": 75,
+    "likes": 76,
     "private": false,
     "downloads": 405,
     "tags": [
@@ -42212,8 +42212,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "de",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/SauerkrautLM-70B-v1-AWQ"
   },
   {
@@ -42230,7 +42239,7 @@
   {
     "_id": "653d14da2fe16c9434b35fa4",
     "id": "TheBloke/Echidna-13B-v0.3-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
