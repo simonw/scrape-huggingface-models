@@ -21410,7 +21410,7 @@
   {
     "_id": "64ff68bbefd273eec765be98",
     "id": "TheBloke/Llama-2-70B-Ensemble-v5-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -23174,7 +23174,7 @@
   {
     "_id": "6508e8385ac587b3f3528a94",
     "id": "TheBloke/CodeLlama-34B-Instruct-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 329,
     "tags": [
@@ -36206,7 +36206,7 @@
   {
     "_id": "65252a6b9e4a6675fe888d34",
     "id": "TheBloke/em_german_leo_mistral-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 28,
     "tags": [
@@ -41871,7 +41871,7 @@
   {
     "_id": "653cb71f48e79d7e63b280c8",
     "id": "TheBloke/Lewd-Sydney-20B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -42303,8 +42303,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "japanese-stablelm",
+      "causal-lm",
+      "ja",
+      "arxiv:2310.06825",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/japanese-stablelm-instruct-gamma-7B-GPTQ"
   },
   {
@@ -42349,5 +42360,27 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF"
+  },
+  {
+    "_id": "653d6e513bd6135805266678",
+    "id": "TheBloke/stockmark-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/stockmark-13B-AWQ"
+  },
+  {
+    "_id": "653d6e513fc9c706fa729a2c",
+    "id": "TheBloke/stockmark-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/stockmark-13B-GPTQ"
   }
 ]
