@@ -2375,7 +2375,7 @@
   {
     "_id": "647b3c28b31514a4a6d83660",
     "id": "TheBloke/Nous-Hermes-13B-GPTQ",
-    "likes": 151,
+    "likes": 152,
     "private": false,
     "downloads": 2532,
     "tags": [
@@ -32738,7 +32738,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 133,
+    "likes": 134,
     "private": false,
     "downloads": 3279,
     "tags": [
@@ -36351,7 +36351,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 107,
+    "likes": 108,
     "private": false,
     "downloads": 607,
     "tags": [
@@ -37327,7 +37327,7 @@
   {
     "_id": "652a4a91c59e682042c1b91f",
     "id": "TheBloke/OpenHermes-2-Mistral-7B-GGUF",
-    "likes": 56,
+    "likes": 57,
     "private": false,
     "downloads": 82,
     "tags": [
@@ -41410,7 +41410,7 @@
   {
     "_id": "653980d40da86d726c8765e9",
     "id": "TheBloke/lzlv_70B-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -41548,7 +41548,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 28,
+    "likes": 30,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -41886,5 +41886,70 @@
       "region:us"
     ],
     "modelId": "TheBloke/Lewd-Sydney-20B-GPTQ"
+  },
+  {
+    "_id": "653cbaf889b0d6172934f454",
+    "id": "TheBloke/Gale-medium-init-3B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Gale-medium-init-3B-GGUF"
+  },
+  {
+    "_id": "653cbbf3ceb0a0f6ce02fc67",
+    "id": "TheBloke/openbuddy-mistral-7B-v13.1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "text-generation",
+      "zh",
+      "en",
+      "fr",
+      "de",
+      "ja",
+      "ko",
+      "it",
+      "ru",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/openbuddy-mistral-7B-v13.1-GGUF"
+  },
+  {
+    "_id": "653cbd2c8a67c542eed596a7",
+    "id": "TheBloke/Mistral_7B_Dolphin2.1_LIMA0.5-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Mistral_7B_Dolphin2.1_LIMA0.5-GGUF"
+  },
+  {
+    "_id": "653cc18306a7bb4b1d5de89e",
+    "id": "TheBloke/Echidna-13B-v0.2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Echidna-13B-v0.2-GGUF"
   }
 ]
