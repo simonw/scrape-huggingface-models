@@ -10023,7 +10023,7 @@
   {
     "_id": "64baf98eaaccfd28b020975b",
     "id": "TheBloke/Nous-Hermes-Llama2-GGML",
-    "likes": 95,
+    "likes": 96,
     "private": false,
     "downloads": 40,
     "tags": [
@@ -41545,7 +41545,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 20,
+    "likes": 22,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -41567,7 +41567,7 @@
   {
     "_id": "653bb81b8502e1fd87503201",
     "id": "TheBloke/zephyr-7B-beta-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -41806,8 +41806,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "m42",
+      "health",
+      "healthcare",
+      "clinical-llm",
+      "en",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/med42-70B-AWQ"
   },
   {
