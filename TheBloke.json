@@ -18461,7 +18461,7 @@
   {
     "_id": "64f6a51bda8bcca7aaa18084",
     "id": "TheBloke/vicuna-13B-v1.5-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 11,
     "tags": [
@@ -39213,7 +39213,7 @@
   {
     "_id": "652e49b15a13506b080f01c1",
     "id": "TheBloke/Mistral-7B-Code-16K-qlora-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 93,
     "tags": [
@@ -41570,7 +41570,7 @@
   {
     "_id": "653bb81b8502e1fd87503201",
     "id": "TheBloke/zephyr-7B-beta-GPTQ",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 119,
     "tags": [
@@ -42011,7 +42011,7 @@
   {
     "_id": "653ccce8b424289c5f3b3a35",
     "id": "TheBloke/Mistral-7B-codealpaca-lora-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -42151,7 +42151,7 @@
   {
     "_id": "653cffef06a7bb4b1d6574f3",
     "id": "TheBloke/Mistral-7B-codealpaca-lora-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -42170,7 +42170,7 @@
   {
     "_id": "653cffefb16f657d28c12619",
     "id": "TheBloke/Mistral-7B-codealpaca-lora-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -42193,8 +42193,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "text-generation",
+      "de",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/SauerkrautLM-70B-v1-GGUF"
   },
   {
@@ -42218,5 +42226,16 @@
       "region:us"
     ],
     "modelId": "TheBloke/SauerkrautLM-70B-v1-GPTQ"
+  },
+  {
+    "_id": "653d14da2fe16c9434b35fa4",
+    "id": "TheBloke/Echidna-13B-v0.3-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Echidna-13B-v0.3-GGUF"
   }
 ]
