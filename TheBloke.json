@@ -39981,7 +39981,7 @@
   {
     "_id": "65310b2133d693dfd39750ce",
     "id": "TheBloke/MistralLite-7B-GGUF",
-    "likes": 23,
+    "likes": 24,
     "private": false,
     "downloads": 42,
     "tags": [
@@ -40714,7 +40714,7 @@
   {
     "_id": "6534e9dfb3852ed1ced0f830",
     "id": "TheBloke/LLaMA2-13B-Tiefighter-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 29,
     "tags": [
@@ -41548,7 +41548,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 43,
+    "likes": 44,
     "private": false,
     "downloads": 17,
     "tags": [
@@ -42263,7 +42263,7 @@
   {
     "_id": "653d4aef059fdd2587d065e2",
     "id": "TheBloke/Echidna-13B-v0.3-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -42402,5 +42402,43 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/stockmark-13B-GPTQ"
+  },
+  {
+    "_id": "653d91f43fc9c706fa770402",
+    "id": "TheBloke/Mistral-7B-Claude-Chat-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "dataset:Norquinal/claude_multiround_chat_1k",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Mistral-7B-Claude-Chat-GGUF"
+  },
+  {
+    "_id": "653d91f489b0d617294fc9cd",
+    "id": "TheBloke/Mistral-7B-Claude-Chat-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Mistral-7B-Claude-Chat-GPTQ"
+  },
+  {
+    "_id": "653d91f4cbc8ae32a5e766d7",
+    "id": "TheBloke/Mistral-7B-Claude-Chat-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Mistral-7B-Claude-Chat-AWQ"
   }
 ]
