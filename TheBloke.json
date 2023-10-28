@@ -11531,7 +11531,7 @@
   {
     "_id": "64cb5e618769a4019f982308",
     "id": "TheBloke/vicuna-13B-v1.5-16K-GGML",
-    "likes": 57,
+    "likes": 58,
     "private": false,
     "downloads": 45,
     "tags": [
@@ -31145,7 +31145,7 @@
   {
     "_id": "650cbdd8fc7c3a59dff5b4c2",
     "id": "TheBloke/Airoboros-L2-70b-2.2.1-GGUF",
-    "likes": 7,
+    "likes": 6,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -39673,7 +39673,7 @@
   {
     "_id": "652fa3cb5d91b1c2959392b6",
     "id": "TheBloke/Euryale-1.3-L2-70B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -40714,7 +40714,7 @@
   {
     "_id": "6534e9dfb3852ed1ced0f830",
     "id": "TheBloke/LLaMA2-13B-Tiefighter-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 29,
     "tags": [
@@ -40729,7 +40729,7 @@
   {
     "_id": "6534e9dfc7530aa27fbaa288",
     "id": "TheBloke/LLaMA2-13B-Tiefighter-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 904,
     "tags": [
@@ -41548,7 +41548,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 42,
+    "likes": 43,
     "private": false,
     "downloads": 17,
     "tags": [
@@ -41871,7 +41871,7 @@
   {
     "_id": "653cb71f48e79d7e63b280c8",
     "id": "TheBloke/Lewd-Sydney-20B-GGUF",
-    "likes": 5,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -42299,7 +42299,7 @@
   {
     "_id": "653d5af56d28265c85b4934e",
     "id": "TheBloke/japanese-stablelm-instruct-gamma-7B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -42364,23 +42364,43 @@
   {
     "_id": "653d6e513bd6135805266678",
     "id": "TheBloke/stockmark-13B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "japanese",
+      "llama-2",
+      "ja",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/stockmark-13B-AWQ"
   },
   {
     "_id": "653d6e513fc9c706fa729a2c",
     "id": "TheBloke/stockmark-13B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "japanese",
+      "llama-2",
+      "ja",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/stockmark-13B-GPTQ"
   }
 ]
