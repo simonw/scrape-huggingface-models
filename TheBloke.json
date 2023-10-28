@@ -31200,7 +31200,7 @@
   {
     "_id": "650e254c2a45730c3fccd4b8",
     "id": "TheBloke/MLewd-ReMM-L2-Chat-20B-GGUF",
-    "likes": 18,
+    "likes": 19,
     "private": false,
     "downloads": 274,
     "tags": [
@@ -41871,7 +41871,7 @@
   {
     "_id": "653cb71f48e79d7e63b280c8",
     "id": "TheBloke/Lewd-Sydney-20B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -42232,8 +42232,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "de",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/SauerkrautLM-70B-v1-GPTQ"
   },
   {
@@ -42250,5 +42259,27 @@
       "region:us"
     ],
     "modelId": "TheBloke/Echidna-13B-v0.3-GGUF"
+  },
+  {
+    "_id": "653d4aef059fdd2587d065e2",
+    "id": "TheBloke/Echidna-13B-v0.3-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Echidna-13B-v0.3-GPTQ"
+  },
+  {
+    "_id": "653d4aef77c2f094529e4135",
+    "id": "TheBloke/Echidna-13B-v0.3-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Echidna-13B-v0.3-AWQ"
   }
 ]
