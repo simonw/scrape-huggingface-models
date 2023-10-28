@@ -36571,7 +36571,8 @@
       "dataset:jondurbin/airoboros-2.2.1",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/dolphin-2.1-mistral-7B-GGUF"
   },
@@ -41545,7 +41546,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 0,
     "tags": [
