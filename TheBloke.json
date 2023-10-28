@@ -22776,7 +22776,8 @@
       "license:llama2",
       "model-index",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/WizardCoder-Python-7B-V1.0-GGUF"
   },
@@ -40449,7 +40450,8 @@
       "arxiv:2310.12823",
       "license:llama2",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/agentlm-7B-GGUF"
   },
@@ -41845,5 +41847,44 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/med42-70B-GPTQ"
+  },
+  {
+    "_id": "653cb71f3ea696d4633a65fa",
+    "id": "TheBloke/Lewd-Sydney-20B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Lewd-Sydney-20B-AWQ"
+  },
+  {
+    "_id": "653cb71f48e79d7e63b280c8",
+    "id": "TheBloke/Lewd-Sydney-20B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Lewd-Sydney-20B-GGUF"
+  },
+  {
+    "_id": "653cb71fcd52f28849bc7ffb",
+    "id": "TheBloke/Lewd-Sydney-20B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Lewd-Sydney-20B-GPTQ"
   }
 ]
