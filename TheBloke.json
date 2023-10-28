@@ -41568,7 +41568,7 @@
   {
     "_id": "653bb81b8502e1fd87503201",
     "id": "TheBloke/zephyr-7B-beta-GPTQ",
-    "likes": 8,
+    "likes": 10,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -41653,7 +41653,7 @@
   {
     "_id": "653c0b0bb110c9180d6aabb2",
     "id": "TheBloke/Nete-13B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -41763,7 +41763,7 @@
   {
     "_id": "653c2b955e4f2c3e884b629a",
     "id": "TheBloke/MistRP-Airoboros-7B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -41830,8 +41830,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "m42",
+      "health",
+      "healthcare",
+      "clinical-llm",
+      "en",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/med42-70B-GPTQ"
   }
 ]
