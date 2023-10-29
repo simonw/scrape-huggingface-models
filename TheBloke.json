@@ -32738,7 +32738,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 136,
+    "likes": 137,
     "private": false,
     "downloads": 3096,
     "tags": [
@@ -41171,7 +41171,7 @@
   {
     "_id": "6537e73728002e2b40c70740",
     "id": "TheBloke/HornyEchidna-13B-v0.1-GPTQ",
-    "likes": 8,
+    "likes": 7,
     "private": false,
     "downloads": 23,
     "tags": [
@@ -42891,6 +42891,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "llm",
+      "llama2",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Free_Sydney_V2_13B-GGUF"
@@ -42902,8 +42908,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "llm",
+      "llama2",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Free_Sydney_V2_13B-AWQ"
   }
 ]
