@@ -16352,7 +16352,7 @@
   {
     "_id": "64ed0427a79cf4a895eb53c9",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GPTQ",
-    "likes": 71,
+    "likes": 72,
     "private": false,
     "downloads": 1506,
     "tags": [
@@ -41548,7 +41548,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 54,
+    "likes": 55,
     "private": false,
     "downloads": 55,
     "tags": [
@@ -42652,7 +42652,7 @@
   {
     "_id": "653e610aceb0a0f6ce31ca58",
     "id": "TheBloke/Nous-Capybara-7B-v1.9-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -42828,7 +42828,7 @@
   {
     "_id": "653e93525e4f2c3e8897f426",
     "id": "TheBloke/AquilaChat2-34B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -42838,5 +42838,16 @@
       "region:us"
     ],
     "modelId": "TheBloke/AquilaChat2-34B-GGUF"
+  },
+  {
+    "_id": "653ea97977c2f09452c56843",
+    "id": "TheBloke/Airoboros-180B-2.2.1-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-180B-2.2.1-GGUF"
   }
 ]
