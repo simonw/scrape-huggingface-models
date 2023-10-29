@@ -9195,7 +9195,7 @@
   {
     "_id": "64b6c934d16e94539900ca73",
     "id": "TheBloke/Llama-2-13B-GGML",
-    "likes": 164,
+    "likes": 165,
     "private": false,
     "downloads": 209,
     "tags": [
@@ -9292,7 +9292,7 @@
   {
     "_id": "64b6d9d4bb1d8f2832c8be93",
     "id": "TheBloke/Llama-2-13B-chat-GPTQ",
-    "likes": 293,
+    "likes": 294,
     "private": false,
     "downloads": 97953,
     "tags": [
@@ -11307,7 +11307,7 @@
   {
     "_id": "64c9754329d2f65419ec05e2",
     "id": "TheBloke/CodeUp-Llama-2-13B-Chat-HF-GGML",
-    "likes": 26,
+    "likes": 27,
     "private": false,
     "downloads": 16,
     "tags": [
@@ -18237,7 +18237,7 @@
   {
     "_id": "64f611cf6ad07ea81779ca15",
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
-    "likes": 81,
+    "likes": 82,
     "private": false,
     "downloads": 1106,
     "tags": [
@@ -32738,7 +32738,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 134,
+    "likes": 135,
     "private": false,
     "downloads": 3096,
     "tags": [
@@ -42849,12 +42849,23 @@
   {
     "_id": "653ea97977c2f09452c56843",
     "id": "TheBloke/Airoboros-180B-2.2.1-GGUF",
-    "likes": 1,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
       "region:us"
     ],
     "modelId": "TheBloke/Airoboros-180B-2.2.1-GGUF"
+  },
+  {
+    "_id": "653eba5a4a52f10eaf73c092",
+    "id": "TheBloke/Airoboros-180B-2.2.1-AWQ",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Airoboros-180B-2.2.1-AWQ"
   }
 ]
