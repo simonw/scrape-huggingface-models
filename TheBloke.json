@@ -2375,7 +2375,7 @@
   {
     "_id": "647b3c28b31514a4a6d83660",
     "id": "TheBloke/Nous-Hermes-13B-GPTQ",
-    "likes": 152,
+    "likes": 153,
     "private": false,
     "downloads": 2400,
     "tags": [
@@ -30515,7 +30515,7 @@
   {
     "_id": "650a5a053449d9a49c2df045",
     "id": "TheBloke/manticore-13b-chat-pyg-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 16,
     "tags": [
@@ -37963,7 +37963,7 @@
   {
     "_id": "652b1c7aaba3aefb7dbb44c2",
     "id": "TheBloke/genz-13B-v2-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 35,
     "tags": [
@@ -39768,7 +39768,7 @@
   {
     "_id": "652fd0df17a853e9bd1f0eda",
     "id": "TheBloke/Airoboros-L2-13B-3.1.1-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 84,
     "tags": [
@@ -40534,7 +40534,7 @@
   {
     "_id": "65333a40484d775cb0a4efae",
     "id": "TheBloke/MistralMakise-Merged-13B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -42263,7 +42263,7 @@
   {
     "_id": "653d4aef059fdd2587d065e2",
     "id": "TheBloke/Echidna-13B-v0.3-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -42697,7 +42697,7 @@
   {
     "_id": "653e650d3fc9c706fa903537",
     "id": "TheBloke/Athnete-13B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -42803,8 +42803,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "aquila",
+      "text-generation",
+      "custom_code",
+      "license:other",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/AquilaChat2-34B-16K-AWQ"
   },
   {
