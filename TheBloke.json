@@ -33622,7 +33622,7 @@
   {
     "_id": "65170566fff98a48b2a649f7",
     "id": "TheBloke/Synthia-7B-v1.3-GGUF",
-    "likes": 31,
+    "likes": 32,
     "private": false,
     "downloads": 208,
     "tags": [
@@ -42697,7 +42697,7 @@
   {
     "_id": "653e650d3fc9c706fa903537",
     "id": "TheBloke/Athnete-13B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -42828,8 +42828,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "aquila",
+      "text-generation",
+      "custom_code",
+      "license:other",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/AquilaChat2-34B-16K-GPTQ"
   },
   {
@@ -42920,5 +42927,30 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Free_Sydney_V2_13B-AWQ"
+  },
+  {
+    "_id": "653ed42bc2307cc4489b069e",
+    "id": "TheBloke/SciPhi-Mistral-7B-32k-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/SciPhi-Mistral-7B-32k-GGUF"
+  },
+  {
+    "_id": "653ed42bcd52f28849fcad5d",
+    "id": "TheBloke/SciPhi-Mistral-7B-32k-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/SciPhi-Mistral-7B-32k-AWQ"
   }
 ]
