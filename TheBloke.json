@@ -35450,7 +35450,7 @@
   {
     "_id": "651da10a3a7bb55303518003",
     "id": "TheBloke/Amethyst-13B-Mistral-GPTQ",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 390,
     "tags": [
@@ -37374,7 +37374,7 @@
   {
     "_id": "652a4aa5c59e682042c1bb5c",
     "id": "TheBloke/OpenHermes-2-Mistral-7B-GPTQ",
-    "likes": 18,
+    "likes": 19,
     "private": false,
     "downloads": 2480,
     "tags": [
@@ -42620,8 +42620,26 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Athnete-13B-AWQ"
+  },
+  {
+    "_id": "653e59c4afcd26e2cbcdc893",
+    "id": "TheBloke/Augmental-13B-v1.50_B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Augmental-13B-v1.50_B-GPTQ"
   }
 ]
