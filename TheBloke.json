@@ -42719,8 +42719,32 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "sft",
+      "StableLM",
+      "eng",
+      "dataset:LDJnr/LessWrong-Amplify-Instruct",
+      "dataset:LDJnr/Pure-Dove",
+      "dataset:LDJnr/Verified-Camel",
+      "license:mit",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Nous-Capybara-7B-v1.9-GPTQ"
+  },
+  {
+    "_id": "653e8316284fa7923cd03ebe",
+    "id": "TheBloke/Nous-Capybara-3B-v1.9-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Nous-Capybara-3B-v1.9-GPTQ"
   }
 ]
