@@ -22667,7 +22667,7 @@
   {
     "_id": "6505a25fd8d96e913b190abf",
     "id": "TheBloke/Synthia-34B-v1.2-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -40847,7 +40847,7 @@
   {
     "_id": "65354dada2c81a3d29a30494",
     "id": "TheBloke/CausalLM-14B-GGUF",
-    "likes": 40,
+    "likes": 41,
     "private": false,
     "downloads": 38,
     "tags": [
@@ -42464,8 +42464,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Mistral-ClaudeLimaRP-v3-7B-GPTQ"
   },
   {
