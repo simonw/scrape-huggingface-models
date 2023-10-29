@@ -22808,7 +22808,7 @@
   {
     "_id": "65060b7b6ba49887d3ff30b6",
     "id": "TheBloke/MLewd-L2-Chat-13B-GPTQ",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 499,
     "tags": [
@@ -34620,7 +34620,7 @@
   {
     "_id": "651ad379eb6c502094708828",
     "id": "TheBloke/Mistral-7B-OpenOrca-GPTQ",
-    "likes": 68,
+    "likes": 69,
     "private": false,
     "downloads": 19950,
     "tags": [
@@ -35413,7 +35413,7 @@
   {
     "_id": "651da0f5601547ed179e4378",
     "id": "TheBloke/Amethyst-13B-Mistral-AWQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 1305,
     "tags": [
@@ -36580,7 +36580,7 @@
   {
     "_id": "6526547f095931e1067d674f",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GPTQ",
-    "likes": 26,
+    "likes": 27,
     "private": false,
     "downloads": 3880,
     "tags": [
@@ -36601,7 +36601,7 @@
   {
     "_id": "652654dd8a21d8f14adcc200",
     "id": "TheBloke/dolphin-2.1-mistral-7B-AWQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 957,
     "tags": [
@@ -37374,7 +37374,7 @@
   {
     "_id": "652a4aa5c59e682042c1bb5c",
     "id": "TheBloke/OpenHermes-2-Mistral-7B-GPTQ",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 2480,
     "tags": [
@@ -40033,7 +40033,7 @@
   {
     "_id": "6531181618cba8dff4076e43",
     "id": "TheBloke/Mistral-Pygmalion-7B-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 83,
     "tags": [
@@ -40078,7 +40078,7 @@
   {
     "_id": "65311816b6111192a5643a62",
     "id": "TheBloke/Mistral-Pygmalion-7B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 72,
     "tags": [
@@ -40347,7 +40347,7 @@
   {
     "_id": "6532ff883e385cfc601254ad",
     "id": "TheBloke/CodeBooga-34B-v0.1-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -41548,7 +41548,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 52,
+    "likes": 53,
     "private": false,
     "downloads": 55,
     "tags": [
@@ -41570,7 +41570,7 @@
   {
     "_id": "653bb81b8502e1fd87503201",
     "id": "TheBloke/zephyr-7B-beta-GPTQ",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 350,
     "tags": [
@@ -41594,7 +41594,7 @@
   {
     "_id": "653bb81bea8b6b5fe3a67097",
     "id": "TheBloke/zephyr-7B-beta-AWQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 306,
     "tags": [
@@ -42759,5 +42759,38 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Nous-Capybara-3B-v1.9-GPTQ"
+  },
+  {
+    "_id": "653e8a4ae337eff8f50df51a",
+    "id": "TheBloke/AquilaChat2-34B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/AquilaChat2-34B-GPTQ"
+  },
+  {
+    "_id": "653e8ad2ca6e5875c4dae256",
+    "id": "TheBloke/AquilaChat2-34B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/AquilaChat2-34B-AWQ"
+  },
+  {
+    "_id": "653e8e84ca6e5875c4db8045",
+    "id": "TheBloke/AquilaChat2-34B-16K-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/AquilaChat2-34B-16K-GGUF"
   }
 ]
