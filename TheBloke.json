@@ -42601,7 +42601,7 @@
   {
     "_id": "653e51d1ec992c5c208233e2",
     "id": "TheBloke/Athnete-13B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -42638,8 +42638,71 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Augmental-13B-v1.50_B-GPTQ"
+  },
+  {
+    "_id": "653e610aceb0a0f6ce31ca58",
+    "id": "TheBloke/Nous-Capybara-7B-v1.9-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "sft",
+      "StableLM",
+      "eng",
+      "dataset:LDJnr/LessWrong-Amplify-Instruct",
+      "dataset:LDJnr/Pure-Dove",
+      "dataset:LDJnr/Verified-Camel",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Nous-Capybara-7B-v1.9-GGUF"
+  },
+  {
+    "_id": "653e61433ea696d463695771",
+    "id": "TheBloke/Nous-Capybara-7B-v1.9-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "sft",
+      "StableLM",
+      "eng",
+      "dataset:LDJnr/LessWrong-Amplify-Instruct",
+      "dataset:LDJnr/Pure-Dove",
+      "dataset:LDJnr/Verified-Camel",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Nous-Capybara-7B-v1.9-AWQ"
+  },
+  {
+    "_id": "653e650d3fc9c706fa903537",
+    "id": "TheBloke/Athnete-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Athnete-13B-GPTQ"
   }
 ]
