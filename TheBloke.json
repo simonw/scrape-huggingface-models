@@ -41548,7 +41548,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 51,
+    "likes": 52,
     "private": false,
     "downloads": 55,
     "tags": [
@@ -42460,7 +42460,7 @@
   {
     "_id": "653e259f3479e9ebbe44b389",
     "id": "TheBloke/Mistral-ClaudeLimaRP-v3-7B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -42513,5 +42513,79 @@
       "region:us"
     ],
     "modelId": "TheBloke/Mistral-ClaudeLimaRP-v3-7B-GGUF"
+  },
+  {
+    "_id": "653e4e129c7bf38da2b73a80",
+    "id": "TheBloke/Augmental-13B-v1.50_A-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Augmental-13B-v1.50_A-GGUF"
+  },
+  {
+    "_id": "653e4e129d02096061c6be58",
+    "id": "TheBloke/Augmental-13B-v1.50_A-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Augmental-13B-v1.50_A-AWQ"
+  },
+  {
+    "_id": "653e4e12eefdcdc9fd95b423",
+    "id": "TheBloke/Augmental-13B-v1.50_A-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Augmental-13B-v1.50_A-GPTQ"
+  },
+  {
+    "_id": "653e4ed22dedebcbb794ba65",
+    "id": "TheBloke/Augmental-13B-v1.50_B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Augmental-13B-v1.50_B-GGUF"
+  },
+  {
+    "_id": "653e50d3ec992c5c2082109f",
+    "id": "TheBloke/Augmental-13B-v1.50_B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Augmental-13B-v1.50_B-AWQ"
+  },
+  {
+    "_id": "653e51d1ec992c5c208233e2",
+    "id": "TheBloke/Athnete-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Athnete-13B-GGUF"
   }
 ]
