@@ -1127,7 +1127,7 @@
   {
     "_id": "6465d990e0fe831b4789b356",
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GGML",
-    "likes": 79,
+    "likes": 80,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -42536,8 +42536,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Augmental-13B-v1.50_A-AWQ"
   },
   {
@@ -42547,8 +42554,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Augmental-13B-v1.50_A-GPTQ"
   },
   {
@@ -42573,8 +42587,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Augmental-13B-v1.50_B-AWQ"
   },
   {
@@ -42584,8 +42605,23 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Athnete-13B-GGUF"
+  },
+  {
+    "_id": "653e557c48e79d7e63e18988",
+    "id": "TheBloke/Athnete-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Athnete-13B-AWQ"
   }
 ]
