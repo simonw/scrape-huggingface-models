@@ -42299,7 +42299,7 @@
   {
     "_id": "653d5af56d28265c85b4934e",
     "id": "TheBloke/japanese-stablelm-instruct-gamma-7B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -42789,8 +42789,47 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "aquila",
+      "license:other",
       "region:us"
     ],
     "modelId": "TheBloke/AquilaChat2-34B-16K-GGUF"
+  },
+  {
+    "_id": "653e9237ec992c5c20897c96",
+    "id": "TheBloke/AquilaChat2-34B-16K-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/AquilaChat2-34B-16K-AWQ"
+  },
+  {
+    "_id": "653e9325059fdd2587f88072",
+    "id": "TheBloke/AquilaChat2-34B-16K-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/AquilaChat2-34B-16K-GPTQ"
+  },
+  {
+    "_id": "653e93525e4f2c3e8897f426",
+    "id": "TheBloke/AquilaChat2-34B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "aquila",
+      "license:other",
+      "region:us"
+    ],
+    "modelId": "TheBloke/AquilaChat2-34B-GGUF"
   }
 ]
