@@ -41548,7 +41548,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 57,
+    "likes": 58,
     "private": false,
     "downloads": 55,
     "tags": [
@@ -42860,6 +42860,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "falcon",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Airoboros-180B-2.2.1-GGUF"
@@ -42878,7 +42883,7 @@
   {
     "_id": "653ec791885338b011fb463b",
     "id": "TheBloke/Scarlett-7B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -42949,8 +42954,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/SciPhi-Mistral-7B-32k-AWQ"
   }
 ]
