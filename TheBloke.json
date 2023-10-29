@@ -9268,7 +9268,7 @@
   {
     "_id": "64b6d3eeab056b63ede8a758",
     "id": "TheBloke/Llama-2-13B-chat-GGML",
-    "likes": 618,
+    "likes": 619,
     "private": false,
     "downloads": 1665,
     "tags": [
@@ -34598,7 +34598,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 156,
+    "likes": 157,
     "private": false,
     "downloads": 1692,
     "tags": [
@@ -37327,7 +37327,7 @@
   {
     "_id": "652a4a91c59e682042c1b91f",
     "id": "TheBloke/OpenHermes-2-Mistral-7B-GGUF",
-    "likes": 58,
+    "likes": 59,
     "private": false,
     "downloads": 90,
     "tags": [
@@ -40847,7 +40847,7 @@
   {
     "_id": "65354dada2c81a3d29a30494",
     "id": "TheBloke/CausalLM-14B-GGUF",
-    "likes": 39,
+    "likes": 40,
     "private": false,
     "downloads": 36,
     "tags": [
@@ -41207,7 +41207,7 @@
   {
     "_id": "6537e737bf583ce1f31f523a",
     "id": "TheBloke/HornyEchidna-13B-v0.1-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -42406,7 +42406,7 @@
   {
     "_id": "653d91f43fc9c706fa770402",
     "id": "TheBloke/Mistral-7B-Claude-Chat-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -42426,8 +42426,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "dataset:Norquinal/claude_multiround_chat_1k",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Mistral-7B-Claude-Chat-GPTQ"
   },
   {
