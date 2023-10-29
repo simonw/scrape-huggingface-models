@@ -16330,7 +16330,7 @@
   {
     "_id": "64eb8c012beaa8c4106ee91f",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GGUF",
-    "likes": 30,
+    "likes": 31,
     "private": false,
     "downloads": 40,
     "tags": [
@@ -42701,8 +42701,26 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Athnete-13B-GPTQ"
+  },
+  {
+    "_id": "653e7056b16f657d28ee6cc3",
+    "id": "TheBloke/Nous-Capybara-7B-v1.9-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Nous-Capybara-7B-v1.9-GPTQ"
   }
 ]
