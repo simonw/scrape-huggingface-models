@@ -5946,7 +5946,7 @@
   {
     "_id": "649a5dcde6a46226024d8141",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-SuperHOT-8K-fp16",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 25,
     "tags": [
@@ -42743,8 +42743,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "stablelm_epoch",
+      "text-generation",
+      "sft",
+      "StableLM",
+      "custom_code",
+      "eng",
+      "dataset:LDJnr/LessWrong-Amplify-Instruct",
+      "dataset:LDJnr/Pure-Dove",
+      "dataset:LDJnr/Verified-Camel",
+      "license:mit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Nous-Capybara-3B-v1.9-GPTQ"
   }
 ]
