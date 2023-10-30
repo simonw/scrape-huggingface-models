@@ -18213,7 +18213,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7b-Chat-GGUF",
-    "likes": 108,
+    "likes": 109,
     "private": false,
     "downloads": 4034,
     "tags": [
@@ -36593,7 +36593,7 @@
   {
     "_id": "6526547f095931e1067d674f",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GPTQ",
-    "likes": 28,
+    "likes": 29,
     "private": false,
     "downloads": 3946,
     "tags": [
@@ -41561,7 +41561,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 67,
+    "likes": 68,
     "private": false,
     "downloads": 108,
     "tags": [
@@ -42146,7 +42146,7 @@
   {
     "_id": "653ced609107029eb008217e",
     "id": "TheBloke/Mistral_7B_Dolphin2.1_LIMA0.5-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -43269,8 +43269,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Uncensored-Jordan-33B-AWQ"
   },
   {
@@ -43280,8 +43288,50 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "endpoints_compatible",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Uncensored-Jordan-13B-GPTQ"
+  },
+  {
+    "_id": "6540239a4a482890007dfe67",
+    "id": "TheBloke/Uncensored-Jordan-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Uncensored-Jordan-7B-GGUF"
+  },
+  {
+    "_id": "6540239acdc9c22e35a34cbd",
+    "id": "TheBloke/Uncensored-Jordan-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Uncensored-Jordan-7B-AWQ"
   }
 ]
