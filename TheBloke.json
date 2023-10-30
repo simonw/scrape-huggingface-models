@@ -9439,7 +9439,7 @@
       "pytorch",
       "llama-2",
       "en",
-      "license:other",
+      "license:llama2",
       "has_space",
       "text-generation-inference",
       "region:us"
@@ -13097,7 +13097,7 @@
   {
     "_id": "64d5e2dcabf475a808a24d42",
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
-    "likes": 82,
+    "likes": 83,
     "private": false,
     "downloads": 47856,
     "tags": [
@@ -42652,7 +42652,7 @@
   {
     "_id": "653e610aceb0a0f6ce31ca58",
     "id": "TheBloke/Nous-Capybara-7B-v1.9-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
