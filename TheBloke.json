@@ -907,7 +907,7 @@
   {
     "_id": "645f47cf6990e1208522b824",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
-    "likes": 254,
+    "likes": 255,
     "private": false,
     "downloads": 13429,
     "tags": [
@@ -1105,7 +1105,7 @@
   {
     "_id": "6465d98b9c627c78f8629e5d",
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ",
-    "likes": 109,
+    "likes": 110,
     "private": false,
     "downloads": 8333,
     "tags": [
@@ -43163,8 +43163,27 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Thespis-13B-v0.5-GPTQ"
+  },
+  {
+    "_id": "65400219b3f9aad245bb8059",
+    "id": "TheBloke/Nethena-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Nethena-13B-GPTQ"
   }
 ]
