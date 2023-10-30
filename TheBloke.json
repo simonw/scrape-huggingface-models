@@ -37,7 +37,7 @@
     "id": "TheBloke/koala-7B-GPTQ",
     "likes": 31,
     "private": false,
-    "downloads": 46,
+    "downloads": 45,
     "tags": [
       "transformers",
       "safetensors",
@@ -55,7 +55,7 @@
     "id": "TheBloke/koala-7B-HF",
     "likes": 18,
     "private": false,
-    "downloads": 4396,
+    "downloads": 4445,
     "tags": [
       "transformers",
       "pytorch",
@@ -80,7 +80,7 @@
     "id": "TheBloke/koala-13B-HF",
     "likes": 40,
     "private": false,
-    "downloads": 4798,
+    "downloads": 4793,
     "tags": [
       "transformers",
       "pytorch",
@@ -105,7 +105,7 @@
     "id": "TheBloke/koala-13B-GPTQ",
     "likes": 37,
     "private": false,
-    "downloads": 153,
+    "downloads": 152,
     "tags": [
       "transformers",
       "pytorch",
@@ -148,7 +148,7 @@
     "id": "TheBloke/galpaca-30B-GPTQ",
     "likes": 49,
     "private": false,
-    "downloads": 1,
+    "downloads": 0,
     "tags": [
       "transformers",
       "opt",
@@ -169,7 +169,7 @@
     "id": "TheBloke/vicuna-7B-v0-GPTQ",
     "likes": 16,
     "private": false,
-    "downloads": 34,
+    "downloads": 57,
     "tags": [
       "transformers",
       "pytorch",
@@ -188,7 +188,7 @@
     "id": "TheBloke/vicuna-13B-1.1-GPTQ",
     "likes": 207,
     "private": false,
-    "downloads": 189,
+    "downloads": 172,
     "tags": [
       "transformers",
       "llama",
@@ -206,7 +206,7 @@
     "id": "TheBloke/vicuna-7B-1.1-GPTQ",
     "likes": 58,
     "private": false,
-    "downloads": 212,
+    "downloads": 213,
     "tags": [
       "transformers",
       "llama",
@@ -223,7 +223,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-30b-HF",
     "likes": 10,
     "private": false,
-    "downloads": 4340,
+    "downloads": 4381,
     "tags": [
       "transformers",
       "pytorch",
@@ -248,7 +248,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-30B-GPTQ",
     "likes": 20,
     "private": false,
-    "downloads": 30,
+    "downloads": 29,
     "tags": [
       "transformers",
       "pytorch",
@@ -291,7 +291,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-13B-HF",
     "likes": 4,
     "private": false,
-    "downloads": 4357,
+    "downloads": 4401,
     "tags": [
       "transformers",
       "pytorch",
@@ -316,7 +316,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-13B-GPTQ",
     "likes": 18,
     "private": false,
-    "downloads": 16,
+    "downloads": 15,
     "tags": [
       "transformers",
       "pytorch",
@@ -340,7 +340,7 @@
     "id": "TheBloke/alpaca-lora-65B-HF",
     "likes": 3,
     "private": false,
-    "downloads": 4345,
+    "downloads": 4393,
     "tags": [
       "transformers",
       "pytorch",
@@ -359,7 +359,7 @@
     "id": "TheBloke/alpaca-lora-65B-GPTQ",
     "likes": 29,
     "private": false,
-    "downloads": 1,
+    "downloads": 0,
     "tags": [
       "transformers",
       "pytorch",
@@ -390,7 +390,7 @@
     "id": "TheBloke/medalpaca-13B-GPTQ",
     "likes": 28,
     "private": false,
-    "downloads": 4402,
+    "downloads": 4450,
     "tags": [
       "transformers",
       "pytorch",
@@ -412,7 +412,7 @@
     "id": "TheBloke/wizardLM-7B-HF",
     "likes": 89,
     "private": false,
-    "downloads": 6867,
+    "downloads": 6926,
     "tags": [
       "transformers",
       "pytorch",
@@ -444,7 +444,7 @@
     "id": "TheBloke/wizardLM-7B-GPTQ",
     "likes": 104,
     "private": false,
-    "downloads": 1012,
+    "downloads": 1003,
     "tags": [
       "transformers",
       "safetensors",
@@ -42299,7 +42299,7 @@
   {
     "_id": "653d5af56d28265c85b4934e",
     "id": "TheBloke/japanese-stablelm-instruct-gamma-7B-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -42343,7 +42343,7 @@
   {
     "_id": "653d5af5b16f657d28cd138e",
     "id": "TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -42385,7 +42385,7 @@
   {
     "_id": "653d6e513fc9c706fa729a2c",
     "id": "TheBloke/stockmark-13B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
