@@ -1567,7 +1567,7 @@
   {
     "_id": "646f9011150f4cab862f3860",
     "id": "TheBloke/guanaco-65B-GGML",
-    "likes": 99,
+    "likes": 100,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -41348,7 +41348,7 @@
   {
     "_id": "6539729dc8ff1384e32b2ae1",
     "id": "TheBloke/Dolphin-2.1-70B-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 33,
     "tags": [
@@ -43178,7 +43178,7 @@
   {
     "_id": "65400219b3f9aad245bb8059",
     "id": "TheBloke/Nethena-13B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -43211,8 +43211,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "license:cc-by-nc-nd-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Uncensored-Jordan-13B-AWQ"
   },
   {
@@ -43230,5 +43238,32 @@
       "region:us"
     ],
     "modelId": "TheBloke/Uncensored-Jordan-13B-GGUF"
+  },
+  {
+    "_id": "654015d99ec3b70cc63ab319",
+    "id": "TheBloke/Uncensored-Jordan-33B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Uncensored-Jordan-33B-GGUF"
+  },
+  {
+    "_id": "654015d9a3839006573ff78b",
+    "id": "TheBloke/Uncensored-Jordan-33B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Uncensored-Jordan-33B-AWQ"
   }
 ]
