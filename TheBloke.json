@@ -41561,7 +41561,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 66,
+    "likes": 67,
     "private": false,
     "downloads": 108,
     "tags": [
@@ -42895,7 +42895,7 @@
   {
     "_id": "653ec791885338b011fb463b",
     "id": "TheBloke/Scarlett-7B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -43182,8 +43182,26 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Nethena-13B-GPTQ"
+  },
+  {
+    "_id": "65400d71cdc9c22e35a001a3",
+    "id": "TheBloke/Nethena-20B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Nethena-20B-GPTQ"
   }
 ]
