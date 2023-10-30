@@ -32623,8 +32623,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "qwen",
+      "text-generation",
+      "custom_code",
+      "zh",
+      "en",
+      "arxiv:2309.16609",
+      "arxiv:2305.08322",
+      "arxiv:2009.03300",
+      "arxiv:2305.05280",
+      "arxiv:2210.03629",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Qwen-14B-Chat-GPTQ"
   },
   {
@@ -36228,7 +36241,7 @@
   {
     "_id": "65254d75965d12744137c618",
     "id": "TheBloke/sqlcoder2-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 43,
     "tags": [
@@ -42151,7 +42164,7 @@
   {
     "_id": "653cffef06a7bb4b1d6574f3",
     "id": "TheBloke/Mistral-7B-codealpaca-lora-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -42652,7 +42665,7 @@
   {
     "_id": "653e610aceb0a0f6ce31ca58",
     "id": "TheBloke/Nous-Capybara-7B-v1.9-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -43065,8 +43078,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Thespis-13B-v0.5-AWQ"
   },
   {
@@ -43076,8 +43097,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Nethena-13B-AWQ"
   },
   {
@@ -43094,5 +43122,38 @@
       "region:us"
     ],
     "modelId": "TheBloke/Nethena-13B-GGUF"
+  },
+  {
+    "_id": "653ff5757857a3efd43ddaa9",
+    "id": "TheBloke/Nethena-20B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Nethena-20B-AWQ"
+  },
+  {
+    "_id": "653ff57579be1a74387cd213",
+    "id": "TheBloke/Nethena-20B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Nethena-20B-GGUF"
+  },
+  {
+    "_id": "653ff79e001b872f8fbbf2f7",
+    "id": "TheBloke/Thespis-13B-v0.5-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Thespis-13B-v0.5-GPTQ"
   }
 ]
