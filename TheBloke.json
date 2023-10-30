@@ -40847,7 +40847,7 @@
   {
     "_id": "65354dada2c81a3d29a30494",
     "id": "TheBloke/CausalLM-14B-GGUF",
-    "likes": 44,
+    "likes": 47,
     "private": false,
     "downloads": 38,
     "tags": [
@@ -41570,7 +41570,7 @@
   {
     "_id": "653bb81b8502e1fd87503201",
     "id": "TheBloke/zephyr-7B-beta-GPTQ",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 350,
     "tags": [
@@ -42089,7 +42089,7 @@
   {
     "_id": "653cdba9c2307cc44862efde",
     "id": "TheBloke/openbuddy-mistral-7B-v13.1-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -42422,7 +42422,7 @@
   {
     "_id": "653d91f489b0d617294fc9cd",
     "id": "TheBloke/Mistral-7B-Claude-Chat-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 48,
     "tags": [
@@ -42767,8 +42767,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "aquila",
+      "text-generation",
+      "custom_code",
+      "license:other",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/AquilaChat2-34B-GPTQ"
   },
   {
@@ -42963,5 +42970,16 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/SciPhi-Mistral-7B-32k-AWQ"
+  },
+  {
+    "_id": "653f0f34aa1f487614fd67b8",
+    "id": "TheBloke/Free_Sydney_V2_13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Free_Sydney_V2_13B-GPTQ"
   }
 ]
