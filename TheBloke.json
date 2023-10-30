@@ -41548,7 +41548,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 59,
+    "likes": 60,
     "private": false,
     "downloads": 55,
     "tags": [
@@ -42883,8 +42883,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "falcon",
+      "text-generation",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Airoboros-180B-2.2.1-AWQ"
   },
   {
