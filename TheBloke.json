@@ -18189,7 +18189,7 @@
   {
     "_id": "64f5fd954d3b1dd311d30e28",
     "id": "TheBloke/Llama-2-7B-GGUF",
-    "likes": 54,
+    "likes": 55,
     "private": false,
     "downloads": 863,
     "tags": [
@@ -19927,7 +19927,7 @@
   {
     "_id": "64f7bac9fbbfe40336117526",
     "id": "TheBloke/Llama-2-7B-32K-Instruct-GGUF",
-    "likes": 30,
+    "likes": 31,
     "private": false,
     "downloads": 401,
     "tags": [
@@ -28445,7 +28445,7 @@
   {
     "_id": "650a288fce81b73e637e3216",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 118,
     "tags": [
@@ -32807,7 +32807,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 226,
+    "likes": 227,
     "private": false,
     "downloads": 5620,
     "tags": [
@@ -42861,25 +42861,9 @@
     "modelId": "TheBloke/AquilaChat2-34B-GGUF"
   },
   {
-    "_id": "653ea97977c2f09452c56843",
-    "id": "TheBloke/Airoboros-180B-2.2.1-GGUF",
-    "likes": 4,
-    "private": false,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "falcon",
-      "dataset:jondurbin/airoboros-2.2.1",
-      "license:other",
-      "text-generation-inference",
-      "region:us"
-    ],
-    "modelId": "TheBloke/Airoboros-180B-2.2.1-GGUF"
-  },
-  {
     "_id": "653eba5a4a52f10eaf73c092",
     "id": "TheBloke/Airoboros-180B-2.2.1-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
