@@ -9145,7 +9145,7 @@
   {
     "_id": "64b6c679d16e945399007406",
     "id": "TheBloke/Llama-2-7B-GPTQ",
-    "likes": 62,
+    "likes": 63,
     "private": false,
     "downloads": 12160,
     "tags": [
@@ -15629,7 +15629,7 @@
   {
     "_id": "64e90e5e5ba66cfe775bbbe9",
     "id": "TheBloke/Samantha-1.11-CodeLlama-34B-GPTQ",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 142,
     "tags": [
@@ -19927,7 +19927,7 @@
   {
     "_id": "64f7bac9fbbfe40336117526",
     "id": "TheBloke/Llama-2-7B-32K-Instruct-GGUF",
-    "likes": 31,
+    "likes": 32,
     "private": false,
     "downloads": 390,
     "tags": [
@@ -34620,7 +34620,7 @@
   {
     "_id": "651ad379eb6c502094708828",
     "id": "TheBloke/Mistral-7B-OpenOrca-GPTQ",
-    "likes": 71,
+    "likes": 72,
     "private": false,
     "downloads": 20722,
     "tags": [
@@ -37327,7 +37327,7 @@
   {
     "_id": "652a4a91c59e682042c1b91f",
     "id": "TheBloke/OpenHermes-2-Mistral-7B-GGUF",
-    "likes": 60,
+    "likes": 61,
     "private": false,
     "downloads": 107,
     "tags": [
@@ -39231,7 +39231,7 @@
   {
     "_id": "652e49b1a3da41257d70f9e5",
     "id": "TheBloke/Mistral-7B-Code-16K-qlora-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 18,
     "tags": [
@@ -39411,7 +39411,7 @@
   {
     "_id": "652ee61057a8ba396c6b369e",
     "id": "TheBloke/Mistral-7B-Phibrarian-32K-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 15,
     "tags": [
@@ -42935,7 +42935,7 @@
   {
     "_id": "653ed42bc2307cc4489b069e",
     "id": "TheBloke/SciPhi-Mistral-7B-32k-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -43088,8 +43088,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "dataset:ehartford/dolphin",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/dolphin-2.2-mistral-7B-GPTQ"
   }
 ]
