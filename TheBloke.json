@@ -43342,8 +43342,27 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Uncensored-Jordan-33B-GPTQ"
+  },
+  {
+    "_id": "65403c35001b872f8fc6c1ac",
+    "id": "TheBloke/Uncensored-Jordan-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Uncensored-Jordan-7B-GPTQ"
   }
 ]
