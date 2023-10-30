@@ -2375,7 +2375,7 @@
   {
     "_id": "647b3c28b31514a4a6d83660",
     "id": "TheBloke/Nous-Hermes-13B-GPTQ",
-    "likes": 153,
+    "likes": 154,
     "private": false,
     "downloads": 2216,
     "tags": [
@@ -2769,7 +2769,7 @@
   {
     "_id": "6480099486888bbffbe72d31",
     "id": "TheBloke/chronos-33b-GPTQ",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -3813,7 +3813,7 @@
   {
     "_id": "6488459d5d2e4cfaf36e5b4a",
     "id": "TheBloke/chronos-hermes-13B-GGML",
-    "likes": 30,
+    "likes": 29,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -5395,7 +5395,7 @@
   {
     "_id": "6499bf25159d8c6d349513c7",
     "id": "TheBloke/airoboros-33B-gpt4-1.4-GPTQ",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 220,
     "tags": [
@@ -43292,7 +43292,8 @@
       "safetensors",
       "llama",
       "text-generation",
-      "endpoints_compatible",
+      "en",
+      "license:cc-by-nc-nd-4.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -43333,5 +43334,16 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Uncensored-Jordan-7B-AWQ"
+  },
+  {
+    "_id": "65402a0f8470d708977cfadf",
+    "id": "TheBloke/Uncensored-Jordan-33B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Uncensored-Jordan-33B-GPTQ"
   }
 ]
