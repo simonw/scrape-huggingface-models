@@ -22828,7 +22828,7 @@
   {
     "_id": "65060b7c14302b1d76a394e9",
     "id": "TheBloke/MLewd-L2-Chat-13B-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -27015,7 +27015,7 @@
   {
     "_id": "65098d91634e02df56b67746",
     "id": "TheBloke/MLewd-L2-Chat-13B-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 623,
     "tags": [
@@ -39475,7 +39475,7 @@
   {
     "_id": "652ee6a717d03c316f67823a",
     "id": "TheBloke/llemma_7b-GGUF",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -43200,8 +43200,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Nethena-20B-GPTQ"
   },
   {
@@ -43265,5 +43272,16 @@
       "region:us"
     ],
     "modelId": "TheBloke/Uncensored-Jordan-33B-AWQ"
+  },
+  {
+    "_id": "65401ee13f7da011a3e15344",
+    "id": "TheBloke/Uncensored-Jordan-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Uncensored-Jordan-13B-GPTQ"
   }
 ]
