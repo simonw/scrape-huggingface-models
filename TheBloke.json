@@ -28674,7 +28674,7 @@
   {
     "_id": "650a2b912e4bbde4181f360d",
     "id": "TheBloke/WizardLM-30B-uncensored-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -42876,7 +42876,7 @@
   {
     "_id": "653eba5a4a52f10eaf73c092",
     "id": "TheBloke/Airoboros-180B-2.2.1-AWQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -43058,7 +43058,7 @@
   {
     "_id": "653fed90733c1ce6a6d4b114",
     "id": "TheBloke/Thespis-13B-v0.5-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -43203,5 +43203,32 @@
       "region:us"
     ],
     "modelId": "TheBloke/Nethena-20B-GPTQ"
+  },
+  {
+    "_id": "65400f9899994de29b5dd6d8",
+    "id": "TheBloke/Uncensored-Jordan-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Uncensored-Jordan-13B-AWQ"
+  },
+  {
+    "_id": "65400f98ce1bab50537029f5",
+    "id": "TheBloke/Uncensored-Jordan-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "license:cc-by-nc-nd-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Uncensored-Jordan-13B-GGUF"
   }
 ]
