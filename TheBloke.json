@@ -18213,7 +18213,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7b-Chat-GGUF",
-    "likes": 106,
+    "likes": 107,
     "private": false,
     "downloads": 4046,
     "tags": [
@@ -42978,8 +42978,28 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "llm",
+      "llama2",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Free_Sydney_V2_13B-GPTQ"
+  },
+  {
+    "_id": "653f1968afcd26e2cbe7f358",
+    "id": "TheBloke/SciPhi-Mistral-7B-32k-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/SciPhi-Mistral-7B-32k-GPTQ"
   }
 ]
