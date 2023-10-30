@@ -34620,7 +34620,7 @@
   {
     "_id": "651ad379eb6c502094708828",
     "id": "TheBloke/Mistral-7B-OpenOrca-GPTQ",
-    "likes": 70,
+    "likes": 71,
     "private": false,
     "downloads": 20722,
     "tags": [
@@ -43020,5 +43020,55 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Akins-3B-GPTQ"
+  },
+  {
+    "_id": "653fa093baf4643d2b0806d1",
+    "id": "TheBloke/Marx-3B-v3-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Marx-3B-v3-GPTQ"
+  },
+  {
+    "_id": "653fa0d07147f9b4f43e8602",
+    "id": "TheBloke/dolphin-2.2-mistral-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "en",
+      "dataset:ehartford/dolphin",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/dolphin-2.2-mistral-7B-GGUF"
+  },
+  {
+    "_id": "653fa0f8d017f57ff02866c4",
+    "id": "TheBloke/dolphin-2.2-mistral-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "dataset:ehartford/dolphin",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/dolphin-2.2-mistral-7B-AWQ"
   }
 ]
