@@ -18929,7 +18929,7 @@
   {
     "_id": "64f72243d17cc5f6c35ebf8f",
     "id": "TheBloke/orca_mini_v3_7B-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 20,
     "tags": [
@@ -32527,7 +32527,7 @@
   {
     "_id": "6513ea60584d106e62968bf3",
     "id": "TheBloke/law-LLM-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -41739,7 +41739,7 @@
   {
     "_id": "653c289eaa1f487614a2785c",
     "id": "TheBloke/med42-70B-GGUF",
-    "likes": 7,
+    "likes": 9,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -42948,7 +42948,7 @@
   {
     "_id": "653ed42bc2307cc4489b069e",
     "id": "TheBloke/SciPhi-Mistral-7B-32k-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -43130,8 +43130,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Nethena-20B-AWQ"
   },
   {
@@ -43141,6 +43148,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Nethena-20B-GGUF"
