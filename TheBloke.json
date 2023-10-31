@@ -43376,7 +43376,7 @@
   {
     "_id": "65403e7339948eb634bfcdff",
     "id": "TheBloke/dolphin-2.2.1-mistral-7B-GGUF",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -43436,7 +43436,7 @@
   {
     "_id": "65411a8c3a60baceec7b6139",
     "id": "TheBloke/Nethena-MLewd-Xwin-23B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -43607,12 +43607,28 @@
   {
     "_id": "654172512274785dbbc9b4c6",
     "id": "TheBloke/Skywork-13B-base-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
       "region:us"
     ],
     "modelId": "TheBloke/Skywork-13B-base-GPTQ"
+  },
+  {
+    "_id": "65417c962274785dbbcb559b",
+    "id": "TheBloke/Skywork-13B-base-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "skywork",
+      "arxiv:2310.19341",
+      "arxiv:2310.16713",
+      "license:other",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Skywork-13B-base-GGUF"
   }
 ]
