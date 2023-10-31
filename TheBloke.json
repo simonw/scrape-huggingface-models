@@ -2045,7 +2045,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 396,
+    "likes": 397,
     "private": false,
     "downloads": 15481,
     "tags": [
@@ -19946,7 +19946,7 @@
   {
     "_id": "64f7bd67bcf14b0c915de50a",
     "id": "TheBloke/Platypus2-70B-Instruct-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -43453,7 +43453,7 @@
   {
     "_id": "65411a8c992b1c560ee888a7",
     "id": "TheBloke/Nethena-MLewd-Xwin-23B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -43531,8 +43531,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "dataset:meta-math/MetaMathQA",
+      "arxiv:2309.12284",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/MetaMath-Mistral-7B-GPTQ"
   },
   {
@@ -43574,5 +43583,16 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Xwin-MLewd-7B-V0.2-AWQ"
+  },
+  {
+    "_id": "65413d91963de845c7d543b3",
+    "id": "TheBloke/Xwin-MLewd-7B-V0.2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Xwin-MLewd-7B-V0.2-GPTQ"
   }
 ]
