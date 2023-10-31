@@ -32619,7 +32619,7 @@
   {
     "_id": "65140976463a06ab1c5d13ca",
     "id": "TheBloke/Qwen-14B-Chat-GPTQ",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -34316,7 +34316,7 @@
   {
     "_id": "651992342d69a6fd7e193f21",
     "id": "TheBloke/UltraLM-13B-v2.0-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 285,
     "tags": [
@@ -43196,7 +43196,7 @@
   {
     "_id": "65400d71cdc9c22e35a001a3",
     "id": "TheBloke/Nethena-20B-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -43468,8 +43468,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Nethena-MLewd-Xwin-23B-AWQ"
   },
   {
