@@ -40727,7 +40727,7 @@
   {
     "_id": "6534e9dfb3852ed1ced0f830",
     "id": "TheBloke/LLaMA2-13B-Tiefighter-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 34,
     "tags": [
@@ -43603,5 +43603,16 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Xwin-MLewd-7B-V0.2-GPTQ"
+  },
+  {
+    "_id": "654172512274785dbbc9b4c6",
+    "id": "TheBloke/Skywork-13B-base-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Skywork-13B-base-GPTQ"
   }
 ]
