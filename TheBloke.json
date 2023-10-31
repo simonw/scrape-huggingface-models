@@ -30265,7 +30265,7 @@
   {
     "_id": "650a581dc2d4c8fc37b710ba",
     "id": "TheBloke/LLaMA-30b-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -38221,7 +38221,7 @@
   {
     "_id": "652b32901198736f3101e6a2",
     "id": "TheBloke/tora-code-34b-v1.0-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -42356,7 +42356,7 @@
   {
     "_id": "653d5af5b16f657d28cd138e",
     "id": "TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -43419,8 +43419,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "dataset:ehartford/dolphin",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/dolphin-2.2.1-mistral-7B-GPTQ"
   }
 ]
