@@ -43436,7 +43436,7 @@
   {
     "_id": "65411a8c3a60baceec7b6139",
     "id": "TheBloke/Nethena-MLewd-Xwin-23B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -43457,8 +43457,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Nethena-MLewd-Xwin-23B-GPTQ"
   },
   {
@@ -43484,7 +43493,7 @@
   {
     "_id": "65411a9aa369c0007508ce7b",
     "id": "TheBloke/MetaMath-Mistral-7B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -43514,5 +43523,56 @@
       "region:us"
     ],
     "modelId": "TheBloke/Xwin-MLewd-7B-V0.2-GGUF"
+  },
+  {
+    "_id": "65412e15271d3bc4d7062b70",
+    "id": "TheBloke/MetaMath-Mistral-7B-GPTQ",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/MetaMath-Mistral-7B-GPTQ"
+  },
+  {
+    "_id": "65412e15982a6531599e02e5",
+    "id": "TheBloke/MetaMath-Mistral-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "dataset:meta-math/MetaMathQA",
+      "arxiv:2309.12284",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/MetaMath-Mistral-7B-AWQ"
+  },
+  {
+    "_id": "65412ed15e57c42622d8581a",
+    "id": "TheBloke/Xwin-MLewd-7B-V0.2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Xwin-MLewd-7B-V0.2-AWQ"
   }
 ]
