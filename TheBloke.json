@@ -32820,7 +32820,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 230,
+    "likes": 231,
     "private": false,
     "downloads": 5659,
     "tags": [
@@ -40778,7 +40778,7 @@
   {
     "_id": "6535434f25a58aec65b0beba",
     "id": "TheBloke/CausalLM-14B-AWQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 171,
     "tags": [
@@ -43432,5 +43432,78 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/dolphin-2.2.1-mistral-7B-GPTQ"
+  },
+  {
+    "_id": "65411a8c3a60baceec7b6139",
+    "id": "TheBloke/Nethena-MLewd-Xwin-23B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Nethena-MLewd-Xwin-23B-GGUF"
+  },
+  {
+    "_id": "65411a8c992b1c560ee888a7",
+    "id": "TheBloke/Nethena-MLewd-Xwin-23B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Nethena-MLewd-Xwin-23B-GPTQ"
+  },
+  {
+    "_id": "65411a8ceddfff043556ae36",
+    "id": "TheBloke/Nethena-MLewd-Xwin-23B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Nethena-MLewd-Xwin-23B-AWQ"
+  },
+  {
+    "_id": "65411a9aa369c0007508ce7b",
+    "id": "TheBloke/MetaMath-Mistral-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "dataset:meta-math/MetaMathQA",
+      "arxiv:2309.12284",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/MetaMath-Mistral-7B-GGUF"
+  },
+  {
+    "_id": "65411b1797949fd2306ebe89",
+    "id": "TheBloke/Xwin-MLewd-7B-V0.2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Xwin-MLewd-7B-V0.2-GGUF"
   }
 ]
