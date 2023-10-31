@@ -34611,7 +34611,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 161,
+    "likes": 162,
     "private": false,
     "downloads": 1981,
     "tags": [
@@ -43357,7 +43357,7 @@
   {
     "_id": "65403c35001b872f8fc6c1ac",
     "id": "TheBloke/Uncensored-Jordan-7B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -43611,8 +43611,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "skywork",
+      "text-generation",
+      "custom_code",
+      "arxiv:2310.19341",
+      "arxiv:2310.16713",
+      "license:other",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Skywork-13B-base-GPTQ"
   },
   {
