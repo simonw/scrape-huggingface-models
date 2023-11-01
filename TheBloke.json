@@ -14078,7 +14078,7 @@
   {
     "_id": "64e27666384b85306bb9663c",
     "id": "TheBloke/LlongOrca-13B-16K-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 609,
     "tags": [
@@ -32510,7 +32510,7 @@
   {
     "_id": "6511ae8b5b4590211de0a25a",
     "id": "TheBloke/vicuna-33B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -32751,7 +32751,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 144,
+    "likes": 145,
     "private": false,
     "downloads": 3164,
     "tags": [
@@ -43698,14 +43698,59 @@
     "modelId": "TheBloke/Amethyst-13B-AWQ"
   },
   {
-    "_id": "65427e98b94aba949a59ecac",
-    "id": "TheBloke/BlueLM-7B-Chat-32K-GPTQ",
+    "_id": "654282a67b8e48539ac41c13",
+    "id": "TheBloke/vietnamese-llama2-7B-40GB-GPTQ",
     "likes": 0,
     "private": false,
     "downloads": 0,
     "tags": [
       "region:us"
     ],
-    "modelId": "TheBloke/BlueLM-7B-Chat-32K-GPTQ"
+    "modelId": "TheBloke/vietnamese-llama2-7B-40GB-GPTQ"
+  },
+  {
+    "_id": "654282a6ad865d6231bb156a",
+    "id": "TheBloke/vietnamese-llama2-7B-40GB-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "vi",
+      "en",
+      "dataset:vietgpt/wikipedia_vi",
+      "dataset:wikipedia",
+      "dataset:pg19",
+      "dataset:mc4",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/vietnamese-llama2-7B-40GB-GGUF"
+  },
+  {
+    "_id": "654282a6e48d91b869319f94",
+    "id": "TheBloke/vietnamese-llama2-7B-40GB-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "vi",
+      "en",
+      "dataset:vietgpt/wikipedia_vi",
+      "dataset:wikipedia",
+      "dataset:pg19",
+      "dataset:mc4",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/vietnamese-llama2-7B-40GB-AWQ"
   }
 ]
