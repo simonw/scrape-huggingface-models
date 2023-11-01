@@ -21425,7 +21425,7 @@
   {
     "_id": "64ff691a1e14749e84d2c2d9",
     "id": "TheBloke/Spicyboros-70B-2.2-GGUF",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -41184,7 +41184,7 @@
   {
     "_id": "6537e73728002e2b40c70740",
     "id": "TheBloke/HornyEchidna-13B-v0.1-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 34,
     "tags": [
@@ -43376,7 +43376,7 @@
   {
     "_id": "65403e7339948eb634bfcdff",
     "id": "TheBloke/dolphin-2.2.1-mistral-7B-GGUF",
-    "likes": 26,
+    "likes": 25,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -43765,5 +43765,49 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/vietnamese-llama2-7B-40GB-AWQ"
+  },
+  {
+    "_id": "6542b27c8caf77017826c032",
+    "id": "TheBloke/SciPhi-Self-RAG-Mistral-7B-32k-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/SciPhi-Self-RAG-Mistral-7B-32k-GGUF"
+  },
+  {
+    "_id": "6542b27cd0f52498c69eb1f3",
+    "id": "TheBloke/SciPhi-Self-RAG-Mistral-7B-32k-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/SciPhi-Self-RAG-Mistral-7B-32k-AWQ"
+  },
+  {
+    "_id": "6542b27ce5309ae0a1c66ce2",
+    "id": "TheBloke/SciPhi-Self-RAG-Mistral-7B-32k-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/SciPhi-Self-RAG-Mistral-7B-32k-GPTQ"
   }
 ]
