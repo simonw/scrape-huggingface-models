@@ -16352,7 +16352,7 @@
   {
     "_id": "64ed0427a79cf4a895eb53c9",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GPTQ",
-    "likes": 74,
+    "likes": 75,
     "private": false,
     "downloads": 1341,
     "tags": [
@@ -39157,7 +39157,7 @@
   {
     "_id": "652d776b5a4c91c68639299e",
     "id": "TheBloke/Leo-Mistral-Hessianai-7B-Chat-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 15,
     "tags": [
@@ -43704,8 +43704,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "vi",
+      "en",
+      "dataset:vietgpt/wikipedia_vi",
+      "dataset:wikipedia",
+      "dataset:pg19",
+      "dataset:mc4",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/vietnamese-llama2-7B-40GB-GPTQ"
   },
   {
