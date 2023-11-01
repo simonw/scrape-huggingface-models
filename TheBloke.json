@@ -17567,7 +17567,7 @@
   {
     "_id": "64f1a2eedcdd48d279defc89",
     "id": "TheBloke/Yarn-Llama-2-13B-64K-GGUF",
-    "likes": 18,
+    "likes": 19,
     "private": false,
     "downloads": 36,
     "tags": [
@@ -43696,5 +43696,16 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Amethyst-13B-AWQ"
+  },
+  {
+    "_id": "65427e98b94aba949a59ecac",
+    "id": "TheBloke/BlueLM-7B-Chat-32K-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/BlueLM-7B-Chat-32K-GPTQ"
   }
 ]
