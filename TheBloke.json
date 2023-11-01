@@ -37362,7 +37362,7 @@
   {
     "_id": "652a4a9b0ab893688781137e",
     "id": "TheBloke/OpenHermes-2-Mistral-7B-AWQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 2402,
     "tags": [
@@ -43816,5 +43816,38 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/SciPhi-Self-RAG-Mistral-7B-32k-GPTQ"
+  },
+  {
+    "_id": "6542dcf22cfe8660a38853a5",
+    "id": "TheBloke/openbuddy-llama2-70B-v13.2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/openbuddy-llama2-70B-v13.2-AWQ"
+  },
+  {
+    "_id": "6542dcf2d292675f2927e369",
+    "id": "TheBloke/openbuddy-llama2-70B-v13.2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/openbuddy-llama2-70B-v13.2-GGUF"
+  },
+  {
+    "_id": "6542dcf2ff2ffbf417551c33",
+    "id": "TheBloke/openbuddy-llama2-70B-v13.2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/openbuddy-llama2-70B-v13.2-GPTQ"
   }
 ]
