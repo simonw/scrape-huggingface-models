@@ -44159,8 +44159,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "custom_code",
+      "en",
+      "dataset:emozilla/yarn-train-tokenized-16k-mistral",
+      "arxiv:2309.00071",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Yarn-Mistral-7B-64k-GPTQ"
   }
 ]
