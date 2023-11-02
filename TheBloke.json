@@ -34611,7 +34611,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 162,
+    "likes": 163,
     "private": false,
     "downloads": 2004,
     "tags": [
@@ -43861,7 +43861,7 @@
       "safetensors",
       "llama",
       "text-generation",
-      "endpoints_compatible",
+      "license:llama2",
       "text-generation-inference",
       "region:us"
     ],
