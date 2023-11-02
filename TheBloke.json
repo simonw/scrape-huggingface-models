@@ -38550,7 +38550,7 @@
   {
     "_id": "652bc0bc2aa5b27c77e69625",
     "id": "TheBloke/airoboros-l2-13B-3.1-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -40375,7 +40375,7 @@
   {
     "_id": "6532ff88badc49780744753a",
     "id": "TheBloke/CodeBooga-34B-v0.1-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 224,
     "tags": [
@@ -43967,7 +43967,7 @@
   {
     "_id": "6543cac6b4a3f3a2f464858a",
     "id": "TheBloke/openchat_3.5-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -43987,7 +43987,7 @@
   {
     "_id": "6543cac6e9e8e72d2acd55c4",
     "id": "TheBloke/openchat_3.5-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44004,12 +44004,44 @@
   {
     "_id": "6543cda9998b3248a1fedce8",
     "id": "TheBloke/Yarn-Mistral-7B-128k-GGUF",
+    "likes": 3,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "dataset:emozilla/yarn-train-tokenized-16k-mistral",
+      "arxiv:2309.00071",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Yarn-Mistral-7B-128k-GGUF"
+  },
+  {
+    "_id": "6543d0d65b5d9185ba107c8b",
+    "id": "TheBloke/Yarn-Mistral-7B-64k-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "dataset:emozilla/yarn-train-tokenized-16k-mistral",
+      "arxiv:2309.00071",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Yarn-Mistral-7B-64k-GGUF"
+  },
+  {
+    "_id": "6543d13832c0afe208b83bcf",
+    "id": "TheBloke/Yarn-Mistral-7B-64k-AWQ",
     "likes": 0,
     "private": false,
     "downloads": 0,
     "tags": [
       "region:us"
     ],
-    "modelId": "TheBloke/Yarn-Mistral-7B-128k-GGUF"
+    "modelId": "TheBloke/Yarn-Mistral-7B-64k-AWQ"
   }
 ]
