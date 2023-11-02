@@ -152,7 +152,7 @@
   },
   {
     "_id": "64372a4fa1010492a8a5874c",
-    "id": "TheBloke/vicuna-13B-1.1-GPTQ",
+    "id": "TheBloke/Vicuna-13B-1.1-GPTQ",
     "likes": 207,
     "private": false,
     "downloads": 195,
@@ -166,7 +166,7 @@
       "region:us"
     ],
     "pipeline_tag": "conversational",
-    "modelId": "TheBloke/vicuna-13B-1.1-GPTQ"
+    "modelId": "TheBloke/Vicuna-13B-1.1-GPTQ"
   },
   {
     "_id": "6437304d3cb6c4b570797361",
@@ -1697,7 +1697,7 @@
   },
   {
     "_id": "6471c74483da304b49d85a2f",
-    "id": "TheBloke/falcon-7b-instruct-GPTQ",
+    "id": "TheBloke/Falcon-7B-Instruct-GPTQ",
     "likes": 60,
     "private": false,
     "downloads": 10557,
@@ -1718,7 +1718,7 @@
       "region:us"
     ],
     "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/falcon-7b-instruct-GPTQ"
+    "modelId": "TheBloke/Falcon-7B-Instruct-GPTQ"
   },
   {
     "_id": "6471c82a97a75cc77aa6cb70",
@@ -2807,7 +2807,7 @@
   },
   {
     "_id": "6480bc6e9aafd41918ac651a",
-    "id": "TheBloke/vicuna-13b-1.1-GGML",
+    "id": "TheBloke/Vicuna-13B-1.1-GGML",
     "likes": 6,
     "private": false,
     "downloads": 0,
@@ -2815,7 +2815,7 @@
       "license:other",
       "region:us"
     ],
-    "modelId": "TheBloke/vicuna-13b-1.1-GGML"
+    "modelId": "TheBloke/Vicuna-13B-1.1-GGML"
   },
   {
     "_id": "6480c9849aafd41918ad49aa",
@@ -3742,7 +3742,7 @@
   },
   {
     "_id": "648726529919ff50b4052c78",
-    "id": "TheBloke/llama-65B-GGML",
+    "id": "TheBloke/LLaMa-65B-GGML",
     "likes": 24,
     "private": false,
     "downloads": 0,
@@ -3753,7 +3753,7 @@
       "text-generation-inference",
       "region:us"
     ],
-    "modelId": "TheBloke/llama-65B-GGML"
+    "modelId": "TheBloke/LLaMa-65B-GGML"
   },
   {
     "_id": "6488459d5d2e4cfaf36e5b4a",
@@ -4812,7 +4812,7 @@
   },
   {
     "_id": "6492fbe70a1b4c70ee6871f8",
-    "id": "TheBloke/falcon-7b-instruct-GGML",
+    "id": "TheBloke/Falcon-7B-Instruct-GGML",
     "likes": 40,
     "private": false,
     "downloads": 149,
@@ -4827,11 +4827,10 @@
       "arxiv:2104.09864",
       "arxiv:2306.01116",
       "license:apache-2.0",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
-    "modelId": "TheBloke/falcon-7b-instruct-GGML"
+    "modelId": "TheBloke/Falcon-7B-Instruct-GGML"
   },
   {
     "_id": "6492fbfab7cc4dea7a5dc5fa",
@@ -8899,7 +8898,7 @@
   },
   {
     "_id": "64b2a94b520fa3a154cd1eb5",
-    "id": "TheBloke/LLaMA-65B-GPTQ",
+    "id": "TheBloke/LLaMa-65B-GPTQ",
     "likes": 4,
     "private": false,
     "downloads": 18,
@@ -8913,7 +8912,7 @@
       "region:us"
     ],
     "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/LLaMA-65B-GPTQ"
+    "modelId": "TheBloke/LLaMa-65B-GPTQ"
   },
   {
     "_id": "64b2d09535c2e9909c4c9e69",
@@ -9163,7 +9162,7 @@
   },
   {
     "_id": "64b6ce072a8e3cd59df98e98",
-    "id": "TheBloke/Llama-2-7b-Chat-GGML",
+    "id": "TheBloke/Llama-2-7B-Chat-GGML",
     "likes": 607,
     "private": false,
     "downloads": 5669,
@@ -9178,15 +9177,16 @@
       "en",
       "arxiv:2307.09288",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/Llama-2-7b-Chat-GGML"
+    "modelId": "TheBloke/Llama-2-7B-Chat-GGML"
   },
   {
     "_id": "64b6ce072edcb4a1aa820cbe",
-    "id": "TheBloke/Llama-2-7b-Chat-GPTQ",
+    "id": "TheBloke/Llama-2-7B-Chat-GPTQ",
     "likes": 164,
     "private": false,
     "downloads": 115391,
@@ -9202,12 +9202,11 @@
       "en",
       "arxiv:2307.09288",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/Llama-2-7b-Chat-GPTQ"
+    "modelId": "TheBloke/Llama-2-7B-Chat-GPTQ"
   },
   {
     "_id": "64b6d3eeab056b63ede8a758",
@@ -10473,7 +10472,7 @@
   },
   {
     "_id": "64c0d79ea20269b8bd897534",
-    "id": "TheBloke/Llama-2-7b-chat-fp16",
+    "id": "TheBloke/Llama-2-7B-Chat-fp16",
     "likes": 22,
     "private": false,
     "downloads": 4530,
@@ -10488,12 +10487,11 @@
       "llama-2",
       "en",
       "arxiv:2307.09288",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/Llama-2-7b-chat-fp16"
+    "modelId": "TheBloke/Llama-2-7B-Chat-fp16"
   },
   {
     "_id": "64c2ab7c06e4cde70416a4f4",
@@ -18155,7 +18153,7 @@
   },
   {
     "_id": "64f60811b8cc49b414fe5cdf",
-    "id": "TheBloke/Llama-2-7b-Chat-GGUF",
+    "id": "TheBloke/Llama-2-7B-Chat-GGUF",
     "likes": 117,
     "private": false,
     "downloads": 4182,
@@ -18170,12 +18168,11 @@
       "en",
       "arxiv:2307.09288",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/Llama-2-7b-Chat-GGUF"
+    "modelId": "TheBloke/Llama-2-7B-Chat-GGUF"
   },
   {
     "_id": "64f611cf6ad07ea81779ca15",
@@ -22888,7 +22885,7 @@
   },
   {
     "_id": "6508c16eabdde5290e606c80",
-    "id": "TheBloke/Llama-2-7b-Chat-AWQ",
+    "id": "TheBloke/Llama-2-7B-Chat-AWQ",
     "likes": 2,
     "private": false,
     "downloads": 8334,
@@ -22908,7 +22905,7 @@
       "region:us"
     ],
     "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/Llama-2-7b-Chat-AWQ"
+    "modelId": "TheBloke/Llama-2-7B-Chat-AWQ"
   },
   {
     "_id": "6508df7ac19e5b4c8a2d8552",
@@ -28615,7 +28612,7 @@
   },
   {
     "_id": "650a2b912e4bbde4181f360d",
-    "id": "TheBloke/WizardLM-30B-uncensored-GGUF",
+    "id": "TheBloke/WizardLM-30B-Uncensored-GGUF",
     "likes": 2,
     "private": false,
     "downloads": 4,
@@ -28628,7 +28625,7 @@
       "text-generation-inference",
       "region:us"
     ],
-    "modelId": "TheBloke/WizardLM-30B-uncensored-GGUF"
+    "modelId": "TheBloke/WizardLM-30B-Uncensored-GGUF"
   },
   {
     "_id": "650a2c082257a3afbaf5dc63",
@@ -40291,7 +40288,7 @@
   {
     "_id": "6532ff883e385cfc601254ad",
     "id": "TheBloke/CodeBooga-34B-v0.1-GGUF",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -43963,14 +43960,16 @@
   {
     "_id": "6543cda9998b3248a1fedce8",
     "id": "TheBloke/Yarn-Mistral-7B-128k-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 0,
     "tags": [
       "transformers",
       "mistral",
+      "en",
       "dataset:emozilla/yarn-train-tokenized-16k-mistral",
       "arxiv:2309.00071",
+      "license:apache-2.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -43985,8 +43984,10 @@
     "tags": [
       "transformers",
       "mistral",
+      "en",
       "dataset:emozilla/yarn-train-tokenized-16k-mistral",
       "arxiv:2309.00071",
+      "license:apache-2.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -44004,8 +44005,10 @@
       "mistral",
       "text-generation",
       "custom_code",
+      "en",
       "dataset:emozilla/yarn-train-tokenized-16k-mistral",
       "arxiv:2309.00071",
+      "license:apache-2.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -44024,8 +44027,10 @@
       "mistral",
       "text-generation",
       "custom_code",
+      "en",
       "dataset:emozilla/yarn-train-tokenized-16k-mistral",
       "arxiv:2309.00071",
+      "license:apache-2.0",
       "text-generation-inference",
       "region:us"
     ],
@@ -44081,7 +44086,7 @@
   {
     "_id": "654418242996405c238f5eea",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44107,8 +44112,55 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "instruct",
+      "finetune",
+      "chatml",
+      "gpt4",
+      "synthetic data",
+      "distillation",
+      "en",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/OpenHermes-2.5-Mistral-7B-GPTQ"
+  },
+  {
+    "_id": "65442601fc182f71e17d2f82",
+    "id": "TheBloke/Yarn-Mistral-7B-128k-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "custom_code",
+      "en",
+      "dataset:emozilla/yarn-train-tokenized-16k-mistral",
+      "arxiv:2309.00071",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Yarn-Mistral-7B-128k-GPTQ"
+  },
+  {
+    "_id": "6544295f1fbb9024028e4ad2",
+    "id": "TheBloke/Yarn-Mistral-7B-64k-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Yarn-Mistral-7B-64k-GPTQ"
   }
 ]
