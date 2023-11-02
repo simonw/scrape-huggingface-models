@@ -20021,7 +20021,7 @@
   {
     "_id": "64f7c866b2d67ae715ec6858",
     "id": "TheBloke/StableBeluga-13B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -34611,7 +34611,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 164,
+    "likes": 165,
     "private": false,
     "downloads": 2025,
     "tags": [
@@ -41561,7 +41561,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 86,
+    "likes": 88,
     "private": false,
     "downloads": 324,
     "tags": [
@@ -41607,7 +41607,7 @@
   {
     "_id": "653bb81bea8b6b5fe3a67097",
     "id": "TheBloke/zephyr-7B-beta-AWQ",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 759,
     "tags": [
@@ -43949,14 +43949,27 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "japanese-stablelm",
+      "causal-lm",
+      "ja",
+      "dataset:kunishou/hh-rlhf-49k-ja",
+      "dataset:kunishou/databricks-dolly-15k-ja",
+      "dataset:kunishou/oasst1-89k-ja",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/japanese-stablelm-instruct-beta-70B-AWQ"
   },
   {
     "_id": "6543c413fcb96b8b484c2df2",
     "id": "TheBloke/japanese-stablelm-instruct-beta-70B-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -43987,7 +44000,7 @@
   {
     "_id": "6543cac6e9e8e72d2acd55c4",
     "id": "TheBloke/openchat_3.5-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44004,7 +44017,7 @@
   {
     "_id": "6543cda9998b3248a1fedce8",
     "id": "TheBloke/Yarn-Mistral-7B-128k-GGUF",
-    "likes": 3,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44040,8 +44053,28 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "custom_code",
+      "dataset:emozilla/yarn-train-tokenized-16k-mistral",
+      "arxiv:2309.00071",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Yarn-Mistral-7B-64k-AWQ"
+  },
+  {
+    "_id": "6543e26c40ddcc1c6f1d2eb1",
+    "id": "TheBloke/Yarn-Mistral-7B-128k-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Yarn-Mistral-7B-128k-AWQ"
   }
 ]
