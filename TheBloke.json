@@ -40375,7 +40375,7 @@
   {
     "_id": "6532ff88badc49780744753a",
     "id": "TheBloke/CodeBooga-34B-v0.1-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 224,
     "tags": [
@@ -44073,8 +44073,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "custom_code",
+      "dataset:emozilla/yarn-train-tokenized-16k-mistral",
+      "arxiv:2309.00071",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Yarn-Mistral-7B-128k-AWQ"
   }
 ]
