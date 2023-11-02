@@ -42356,7 +42356,7 @@
   {
     "_id": "653d5af5b16f657d28cd138e",
     "id": "TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -42513,7 +42513,7 @@
   {
     "_id": "653e259faabbf15fc74b5aea",
     "id": "TheBloke/Mistral-ClaudeLimaRP-v3-7B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -43415,7 +43415,7 @@
   {
     "_id": "654042284a4828900083688a",
     "id": "TheBloke/dolphin-2.2.1-mistral-7B-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 120,
     "tags": [
@@ -43857,8 +43857,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "endpoints_compatible",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/openbuddy-llama2-70B-v13.2-GPTQ"
   }
 ]
