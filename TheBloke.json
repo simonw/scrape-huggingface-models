@@ -9218,7 +9218,7 @@
   },
   {
     "_id": "64b6ce072a8e3cd59df98e98",
-    "id": "TheBloke/Llama-2-7B-Chat-GGML",
+    "id": "TheBloke/Llama-2-7b-Chat-GGML",
     "likes": 607,
     "private": false,
     "downloads": 5669,
@@ -9233,12 +9233,11 @@
       "en",
       "arxiv:2307.09288",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/Llama-2-7B-Chat-GGML"
+    "modelId": "TheBloke/Llama-2-7b-Chat-GGML"
   },
   {
     "_id": "64b6ce072edcb4a1aa820cbe",
@@ -37847,17 +37846,6 @@
     "modelId": "TheBloke/SauerkrautLM-3B-v1-GGUF"
   },
   {
-    "_id": "652b01b63b5997ed71957aab",
-    "id": "TheBloke/SauerkrautLM-3B-v1-AWQ",
-    "likes": 1,
-    "private": false,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "modelId": "TheBloke/SauerkrautLM-3B-v1-AWQ"
-  },
-  {
     "_id": "652b01c066313ebb61929f43",
     "id": "TheBloke/SauerkrautLM-3B-v1-GPTQ",
     "likes": 2,
@@ -44108,8 +44096,76 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "arxiv:2309.11235",
+      "arxiv:2303.08774",
+      "arxiv:2212.10560",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/openchat_3.5-GPTQ"
+  },
+  {
+    "_id": "65441824276a59f143ebfe1e",
+    "id": "TheBloke/OpenHermes-2.5-Mistral-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "instruct",
+      "finetune",
+      "chatml",
+      "gpt4",
+      "synthetic data",
+      "distillation",
+      "en",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/OpenHermes-2.5-Mistral-7B-AWQ"
+  },
+  {
+    "_id": "654418242996405c238f5eea",
+    "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "instruct",
+      "finetune",
+      "chatml",
+      "gpt4",
+      "synthetic data",
+      "distillation",
+      "en",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF"
+  },
+  {
+    "_id": "6544182490538a2742671abe",
+    "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/OpenHermes-2.5-Mistral-7B-GPTQ"
   }
 ]
