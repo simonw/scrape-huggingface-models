@@ -43111,7 +43111,7 @@
   {
     "_id": "653feeecce1bab50536aa88b",
     "id": "TheBloke/Nethena-13B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -43835,6 +43835,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/openbuddy-llama2-70B-v13.2-GGUF"
