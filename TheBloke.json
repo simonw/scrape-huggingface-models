@@ -1637,7 +1637,7 @@
   {
     "_id": "646fc238bc42f4b00233f214",
     "id": "TheBloke/guanaco-7B-GPTQ",
-    "likes": 26,
+    "likes": 27,
     "private": false,
     "downloads": 156,
     "tags": [
@@ -2033,7 +2033,7 @@
   {
     "_id": "64756943f9e3e0b312f9ac64",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GGML",
-    "likes": 110,
+    "likes": 111,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -9243,7 +9243,7 @@
   {
     "_id": "64b6ce072edcb4a1aa820cbe",
     "id": "TheBloke/Llama-2-7b-Chat-GPTQ",
-    "likes": 163,
+    "likes": 164,
     "private": false,
     "downloads": 115391,
     "tags": [
@@ -16352,7 +16352,7 @@
   {
     "_id": "64ed0427a79cf4a895eb53c9",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GPTQ",
-    "likes": 76,
+    "likes": 78,
     "private": false,
     "downloads": 1223,
     "tags": [
@@ -16372,7 +16372,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 99,
+    "likes": 100,
     "private": false,
     "downloads": 81,
     "tags": [
@@ -36270,7 +36270,7 @@
   {
     "_id": "65254d7f9e4a6675fe8d0139",
     "id": "TheBloke/sqlcoder2-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 510,
     "tags": [
@@ -43969,12 +43969,25 @@
   {
     "_id": "6543c413fcb96b8b484c2df2",
     "id": "TheBloke/japanese-stablelm-instruct-beta-70B-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "japanese-stablelm",
+      "causal-lm",
+      "ja",
+      "dataset:kunishou/hh-rlhf-49k-ja",
+      "dataset:kunishou/databricks-dolly-15k-ja",
+      "dataset:kunishou/oasst1-89k-ja",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/japanese-stablelm-instruct-beta-70B-GPTQ"
   },
   {
@@ -43989,6 +44002,7 @@
       "mistral",
       "text-generation",
       "arxiv:2309.11235",
+      "arxiv:2303.08774",
       "arxiv:2212.10560",
       "license:apache-2.0",
       "text-generation-inference",
@@ -44000,13 +44014,14 @@
   {
     "_id": "6543cac6e9e8e72d2acd55c4",
     "id": "TheBloke/openchat_3.5-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 0,
     "tags": [
       "transformers",
       "mistral",
       "arxiv:2309.11235",
+      "arxiv:2303.08774",
       "arxiv:2212.10560",
       "license:apache-2.0",
       "text-generation-inference",
@@ -44017,7 +44032,7 @@
   {
     "_id": "6543cda9998b3248a1fedce8",
     "id": "TheBloke/Yarn-Mistral-7B-128k-GGUF",
-    "likes": 7,
+    "likes": 9,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44033,7 +44048,7 @@
   {
     "_id": "6543d0d65b5d9185ba107c8b",
     "id": "TheBloke/Yarn-Mistral-7B-64k-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44069,7 +44084,7 @@
   {
     "_id": "6543e26c40ddcc1c6f1d2eb1",
     "id": "TheBloke/Yarn-Mistral-7B-128k-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44085,5 +44100,16 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Yarn-Mistral-7B-128k-AWQ"
+  },
+  {
+    "_id": "654400c726612e546995f213",
+    "id": "TheBloke/openchat_3.5-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/openchat_3.5-GPTQ"
   }
 ]
