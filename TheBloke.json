@@ -1,38 +1,5 @@
 [
   {
-    "_id": "642ec2fca9194f489e1cef6e",
-    "id": "TheBloke/koala-7b-ggml-unquantized",
-    "likes": 11,
-    "private": false,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "koala",
-      "ShareGPT",
-      "llama",
-      "gptq",
-      "text-generation",
-      "dataset:RyokoAI/ShareGPT52K",
-      "dataset:Hello-SimpleAI/HC3",
-      "license:other",
-      "region:us"
-    ],
-    "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/koala-7b-ggml-unquantized"
-  },
-  {
-    "_id": "642f4a8228a26b5c89b2a6eb",
-    "id": "TheBloke/llama-13b",
-    "likes": 16,
-    "private": false,
-    "downloads": 0,
-    "tags": [
-      "license:other",
-      "region:us"
-    ],
-    "modelId": "TheBloke/llama-13b"
-  },
-  {
     "_id": "642fcbb5bd622dfbdf4857de",
     "id": "TheBloke/koala-7B-GPTQ",
     "likes": 31,
@@ -1780,20 +1747,19 @@
   },
   {
     "_id": "6472218c0211f8527003d4af",
-    "id": "TheBloke/wizardLM-13B-1.0-GGML",
+    "id": "TheBloke/WizardLM-13B-1.0-GGML",
     "likes": 24,
     "private": false,
     "downloads": 0,
     "tags": [
       "license:other",
-      "has_space",
       "region:us"
     ],
-    "modelId": "TheBloke/wizardLM-13B-1.0-GGML"
+    "modelId": "TheBloke/WizardLM-13B-1.0-GGML"
   },
   {
     "_id": "64722bc20211f8527005ccac",
-    "id": "TheBloke/wizardLM-13B-1.0-GPTQ",
+    "id": "TheBloke/WizardLM-13B-1.0-GPTQ",
     "likes": 20,
     "private": false,
     "downloads": 37,
@@ -1808,11 +1774,11 @@
       "region:us"
     ],
     "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/wizardLM-13B-1.0-GPTQ"
+    "modelId": "TheBloke/WizardLM-13B-1.0-GPTQ"
   },
   {
     "_id": "64722efbc27f74a0eba6182d",
-    "id": "TheBloke/wizardLM-13B-1.0-fp16",
+    "id": "TheBloke/WizardLM-13B-1.0-fp16",
     "likes": 10,
     "private": false,
     "downloads": 4951,
@@ -1823,12 +1789,11 @@
       "text-generation",
       "arxiv:2304.12244",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/wizardLM-13B-1.0-fp16"
+    "modelId": "TheBloke/WizardLM-13B-1.0-fp16"
   },
   {
     "_id": "6472aae80211f852700f7714",
@@ -1938,7 +1903,7 @@
   },
   {
     "_id": "6473cb2863001a0002d17a40",
-    "id": "TheBloke/samantha-13B-GGML",
+    "id": "TheBloke/Samantha-13B-GGML",
     "likes": 14,
     "private": false,
     "downloads": 0,
@@ -1946,11 +1911,11 @@
       "license:other",
       "region:us"
     ],
-    "modelId": "TheBloke/samantha-13B-GGML"
+    "modelId": "TheBloke/Samantha-13B-GGML"
   },
   {
     "_id": "6473d0686cff2f86720b62b5",
-    "id": "TheBloke/samantha-13B-GPTQ",
+    "id": "TheBloke/Samantha-13B-GPTQ",
     "likes": 6,
     "private": false,
     "downloads": 181,
@@ -1965,7 +1930,7 @@
       "region:us"
     ],
     "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/samantha-13B-GPTQ"
+    "modelId": "TheBloke/Samantha-13B-GPTQ"
   },
   {
     "_id": "647470e9f9e3e0b312e8ac3d",
@@ -2600,26 +2565,6 @@
     "modelId": "TheBloke/llama-13b-supercot-GGML"
   },
   {
-    "_id": "647e370832c471a7fa95697d",
-    "id": "TheBloke/landmark-attention-llama7b-fp16",
-    "likes": 8,
-    "private": false,
-    "downloads": 4951,
-    "tags": [
-      "transformers",
-      "pytorch",
-      "llama",
-      "text-generation",
-      "license:other",
-      "endpoints_compatible",
-      "has_space",
-      "text-generation-inference",
-      "region:us"
-    ],
-    "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/landmark-attention-llama7b-fp16"
-  },
-  {
     "_id": "647e66bb32c471a7fa9aa519",
     "id": "TheBloke/Planner-7B-GGML",
     "likes": 8,
@@ -2670,7 +2615,7 @@
   },
   {
     "_id": "647f03972a7bcaa3079bbb3a",
-    "id": "TheBloke/selfee-13b-fp16",
+    "id": "TheBloke/Selfee-13B-fp16",
     "likes": 5,
     "private": false,
     "downloads": 5,
@@ -2684,7 +2629,7 @@
       "region:us"
     ],
     "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/selfee-13b-fp16"
+    "modelId": "TheBloke/Selfee-13B-fp16"
   },
   {
     "_id": "647f09449c310244579c4d15",
@@ -8972,7 +8917,7 @@
   },
   {
     "_id": "64b2d09535c2e9909c4c9e69",
-    "id": "TheBloke/LLaMA-13b-GPTQ",
+    "id": "TheBloke/LLaMa-13B-GPTQ",
     "likes": 4,
     "private": false,
     "downloads": 260,
@@ -8986,11 +8931,11 @@
       "region:us"
     ],
     "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/LLaMA-13b-GPTQ"
+    "modelId": "TheBloke/LLaMa-13B-GPTQ"
   },
   {
     "_id": "64b2d78ed52d67c01cd2ce07",
-    "id": "TheBloke/LLaMA-30b-GPTQ",
+    "id": "TheBloke/LLaMa-30B-GPTQ",
     "likes": 4,
     "private": false,
     "downloads": 215,
@@ -9004,11 +8949,11 @@
       "region:us"
     ],
     "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/LLaMA-30b-GPTQ"
+    "modelId": "TheBloke/LLaMa-30B-GPTQ"
   },
   {
     "_id": "64b2e24765a7e15eacdd72c4",
-    "id": "TheBloke/LLaMA-7b-GPTQ",
+    "id": "TheBloke/LLaMa-7B-GPTQ",
     "likes": 3,
     "private": false,
     "downloads": 677,
@@ -9022,7 +8967,7 @@
       "region:us"
     ],
     "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/LLaMA-7b-GPTQ"
+    "modelId": "TheBloke/LLaMa-7B-GPTQ"
   },
   {
     "_id": "64b51795094a60c78b2c208c",
@@ -9375,7 +9320,7 @@
   },
   {
     "_id": "64b72139a00eab5bcddae33e",
-    "id": "TheBloke/Llama-2-70B-chat-GPTQ",
+    "id": "TheBloke/Llama-2-70B-Chat-GPTQ",
     "likes": 217,
     "private": false,
     "downloads": 108587,
@@ -9391,12 +9336,11 @@
       "en",
       "arxiv:2307.09288",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/Llama-2-70B-chat-GPTQ"
+    "modelId": "TheBloke/Llama-2-70B-Chat-GPTQ"
   },
   {
     "_id": "64b72402fdb702b3d85cc9d2",
@@ -18282,7 +18226,7 @@
   },
   {
     "_id": "64f61985e916843d8ebc5db8",
-    "id": "TheBloke/Llama-2-70B-chat-GGUF",
+    "id": "TheBloke/Llama-2-70B-Chat-GGUF",
     "likes": 47,
     "private": false,
     "downloads": 333,
@@ -18297,12 +18241,11 @@
       "en",
       "arxiv:2307.09288",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/Llama-2-70B-chat-GGUF"
+    "modelId": "TheBloke/Llama-2-70B-Chat-GGUF"
   },
   {
     "_id": "64f62bf7376094fe6e13e61f",
@@ -23128,7 +23071,7 @@
   },
   {
     "_id": "6508e5f8c9aa376f76a6c256",
-    "id": "TheBloke/Llama-2-70B-chat-AWQ",
+    "id": "TheBloke/Llama-2-70B-Chat-AWQ",
     "likes": 6,
     "private": false,
     "downloads": 11873,
@@ -23148,7 +23091,7 @@
       "region:us"
     ],
     "pipeline_tag": "text-generation",
-    "modelId": "TheBloke/Llama-2-70B-chat-AWQ"
+    "modelId": "TheBloke/Llama-2-70B-Chat-AWQ"
   },
   {
     "_id": "6508e775623330a3a50a284f",
@@ -41549,7 +41492,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 88,
+    "likes": 89,
     "private": false,
     "downloads": 324,
     "tags": [
@@ -44002,7 +43945,7 @@
   {
     "_id": "6543cac6e9e8e72d2acd55c4",
     "id": "TheBloke/openchat_3.5-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44020,7 +43963,7 @@
   {
     "_id": "6543cda9998b3248a1fedce8",
     "id": "TheBloke/Yarn-Mistral-7B-128k-GGUF",
-    "likes": 12,
+    "likes": 15,
     "private": false,
     "downloads": 0,
     "tags": [
