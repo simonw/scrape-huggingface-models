@@ -38569,7 +38569,7 @@
   {
     "_id": "652bd2f960e7067305b18dee",
     "id": "TheBloke/llava-v1.5-13B-GPTQ",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 787,
     "tags": [
@@ -44102,7 +44102,8 @@
       "en",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF"
   },
