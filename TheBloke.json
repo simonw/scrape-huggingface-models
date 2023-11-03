@@ -43850,7 +43850,7 @@
   {
     "_id": "6543c4132996405c237b7eb8",
     "id": "TheBloke/japanese-stablelm-instruct-beta-70B-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -43873,7 +43873,7 @@
   {
     "_id": "6543c413998b3248a1fcd9b6",
     "id": "TheBloke/japanese-stablelm-instruct-beta-70B-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -43897,7 +43897,7 @@
   {
     "_id": "6543c413fcb96b8b484c2df2",
     "id": "TheBloke/japanese-stablelm-instruct-beta-70B-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -43960,7 +43960,7 @@
   {
     "_id": "6543cda9998b3248a1fedce8",
     "id": "TheBloke/Yarn-Mistral-7B-128k-GGUF",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44173,5 +44173,97 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Yarn-Mistral-7B-64k-GPTQ"
+  },
+  {
+    "_id": "65443e981fbb902402931d13",
+    "id": "TheBloke/Thespis-Mistral-7B-v0.5-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Thespis-Mistral-7B-v0.5-GPTQ"
+  },
+  {
+    "_id": "65443e9832c0afe208cccf7d",
+    "id": "TheBloke/Thespis-Mistral-7B-v0.5-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "not-for-all-audiences",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Thespis-Mistral-7B-v0.5-GGUF"
+  },
+  {
+    "_id": "65443e986f7fb5b3547b9e6a",
+    "id": "TheBloke/Thespis-Mistral-7B-v0.5-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "not-for-all-audiences",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Thespis-Mistral-7B-v0.5-AWQ"
+  },
+  {
+    "_id": "654441002996405c23973e45",
+    "id": "TheBloke/Utopia-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Utopia-13B-AWQ"
+  },
+  {
+    "_id": "65444100b4c6738b45d9d2b2",
+    "id": "TheBloke/Utopia-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Utopia-13B-GGUF"
+  },
+  {
+    "_id": "654442f01fbb90240293f322",
+    "id": "TheBloke/calm2-7B-chat-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/calm2-7B-chat-GGUF"
+  },
+  {
+    "_id": "654442f0893aec5da960ba51",
+    "id": "TheBloke/calm2-7B-chat-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/calm2-7B-chat-AWQ"
   }
 ]
