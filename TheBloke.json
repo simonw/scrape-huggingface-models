@@ -43953,7 +43953,8 @@
       "arxiv:2212.10560",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/openchat_3.5-GGUF"
   },
@@ -44018,7 +44019,7 @@
   {
     "_id": "6543e26c40ddcc1c6f1d2eb1",
     "id": "TheBloke/Yarn-Mistral-7B-128k-AWQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
