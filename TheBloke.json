@@ -32759,7 +32759,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 234,
+    "likes": 235,
     "private": false,
     "downloads": 5543,
     "tags": [
@@ -43942,7 +43942,7 @@
   {
     "_id": "6543cac6e9e8e72d2acd55c4",
     "id": "TheBloke/openchat_3.5-GGUF",
-    "likes": 18,
+    "likes": 19,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44087,7 +44087,7 @@
   {
     "_id": "654418242996405c238f5eea",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44183,8 +44183,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "not-for-all-audiences",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Thespis-Mistral-7B-v0.5-GPTQ"
   },
   {
@@ -44299,5 +44306,16 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/japanese-stablelm-instruct-beta-7B-GGUF"
+  },
+  {
+    "_id": "6544cc0146dbdeca34f1de0e",
+    "id": "TheBloke/japanese-stablelm-instruct-beta-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/japanese-stablelm-instruct-beta-7B-GPTQ"
   }
 ]
