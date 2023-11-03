@@ -40747,7 +40747,7 @@
   {
     "_id": "6535434f392f3bcb326e2e70",
     "id": "TheBloke/CausalLM-14B-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 441,
     "tags": [
@@ -41489,7 +41489,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 89,
+    "likes": 90,
     "private": false,
     "downloads": 324,
     "tags": [
@@ -43304,7 +43304,7 @@
   {
     "_id": "65403e7339948eb634bfcdff",
     "id": "TheBloke/dolphin-2.2.1-mistral-7B-GGUF",
-    "likes": 30,
+    "likes": 31,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -44225,8 +44225,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Utopia-13B-AWQ"
   },
   {
@@ -44265,5 +44272,52 @@
       "region:us"
     ],
     "modelId": "TheBloke/calm2-7B-chat-AWQ"
+  },
+  {
+    "_id": "6544471ff0d77ba425dfa59a",
+    "id": "TheBloke/japanese-stablelm-instruct-beta-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "japanese-stablelm",
+      "causal-lm",
+      "ja",
+      "dataset:kunishou/hh-rlhf-49k-ja",
+      "dataset:kunishou/databricks-dolly-15k-ja",
+      "dataset:kunishou/oasst1-89k-ja",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/japanese-stablelm-instruct-beta-7B-AWQ"
+  },
+  {
+    "_id": "6544471ffcb96b8b48663e0c",
+    "id": "TheBloke/japanese-stablelm-instruct-beta-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "japanese-stablelm",
+      "causal-lm",
+      "text-generation",
+      "ja",
+      "dataset:kunishou/hh-rlhf-49k-ja",
+      "dataset:kunishou/databricks-dolly-15k-ja",
+      "dataset:kunishou/oasst1-89k-ja",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/japanese-stablelm-instruct-beta-7B-GGUF"
   }
 ]
