@@ -4,7 +4,7 @@
     "id": "TheBloke/koala-7B-GPTQ",
     "likes": 31,
     "private": false,
-    "downloads": 27,
+    "downloads": 42,
     "tags": [
       "transformers",
       "safetensors",
@@ -22,7 +22,7 @@
     "id": "TheBloke/koala-7B-HF",
     "likes": 18,
     "private": false,
-    "downloads": 5080,
+    "downloads": 5267,
     "tags": [
       "transformers",
       "pytorch",
@@ -47,7 +47,7 @@
     "id": "TheBloke/koala-13B-HF",
     "likes": 40,
     "private": false,
-    "downloads": 5278,
+    "downloads": 5512,
     "tags": [
       "transformers",
       "pytorch",
@@ -72,7 +72,7 @@
     "id": "TheBloke/koala-13B-GPTQ",
     "likes": 37,
     "private": false,
-    "downloads": 152,
+    "downloads": 145,
     "tags": [
       "transformers",
       "pytorch",
@@ -136,7 +136,7 @@
     "id": "TheBloke/vicuna-7B-v0-GPTQ",
     "likes": 16,
     "private": false,
-    "downloads": 52,
+    "downloads": 51,
     "tags": [
       "transformers",
       "pytorch",
@@ -155,7 +155,7 @@
     "id": "TheBloke/Vicuna-13B-1.1-GPTQ",
     "likes": 207,
     "private": false,
-    "downloads": 190,
+    "downloads": 203,
     "tags": [
       "transformers",
       "llama",
@@ -173,7 +173,7 @@
     "id": "TheBloke/vicuna-7B-1.1-GPTQ",
     "likes": 58,
     "private": false,
-    "downloads": 222,
+    "downloads": 224,
     "tags": [
       "transformers",
       "llama",
@@ -190,7 +190,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-30b-HF",
     "likes": 10,
     "private": false,
-    "downloads": 5059,
+    "downloads": 5249,
     "tags": [
       "transformers",
       "pytorch",
@@ -258,7 +258,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-13B-HF",
     "likes": 4,
     "private": false,
-    "downloads": 5068,
+    "downloads": 5254,
     "tags": [
       "transformers",
       "pytorch",
@@ -307,7 +307,7 @@
     "id": "TheBloke/alpaca-lora-65B-HF",
     "likes": 3,
     "private": false,
-    "downloads": 5056,
+    "downloads": 5245,
     "tags": [
       "transformers",
       "pytorch",
@@ -41488,7 +41488,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 97,
+    "likes": 98,
     "private": false,
     "downloads": 387,
     "tags": [
@@ -43978,7 +43978,7 @@
   {
     "_id": "6543d0d65b5d9185ba107c8b",
     "id": "TheBloke/Yarn-Mistral-7B-64k-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -44156,7 +44156,7 @@
   {
     "_id": "6544295f1fbb9024028e4ad2",
     "id": "TheBloke/Yarn-Mistral-7B-64k-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 23,
     "tags": [
