@@ -36323,7 +36323,7 @@
   {
     "_id": "652615dffa9f6e5694a1f7a0",
     "id": "TheBloke/zephyr-7B-alpha-GPTQ",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 12155,
     "tags": [
@@ -44345,7 +44345,7 @@
   {
     "_id": "6546a6d649feb5082b4622e1",
     "id": "TheBloke/Yi-34B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44427,5 +44427,27 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Naberius-7B-AWQ"
+  },
+  {
+    "_id": "6546bfe04d1931dc93eacb63",
+    "id": "TheBloke/deepseek-coder-33B-instruct-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/deepseek-coder-33B-instruct-GGUF"
+  },
+  {
+    "_id": "6546bfe06c818bb7b5ab8251",
+    "id": "TheBloke/deepseek-coder-33B-instruct-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/deepseek-coder-33B-instruct-AWQ"
   }
 ]
