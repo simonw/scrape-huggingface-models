@@ -32689,7 +32689,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 147,
+    "likes": 148,
     "private": false,
     "downloads": 3093,
     "tags": [
@@ -44087,7 +44087,7 @@
   {
     "_id": "654418242996405c238f5eea",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
-    "likes": 26,
+    "likes": 28,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -44370,7 +44370,7 @@
   {
     "_id": "6546a9f02119c8bdf26a5425",
     "id": "TheBloke/Naberius-7B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44403,8 +44403,29 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "llama",
+      "uncensored",
+      "merge",
+      "mix",
+      "slerp",
+      "spherical linear interpolation merge",
+      "hermes",
+      "openhermes",
+      "dolphin",
+      "zephyr",
+      "naberius",
+      "7b",
+      "llama2",
+      "en",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Naberius-7B-AWQ"
   }
 ]
