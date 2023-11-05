@@ -44674,8 +44674,26 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/deepseek-coder-6.7B-base-GPTQ"
+  },
+  {
+    "_id": "65476ad9e49bd8d58e61263c",
+    "id": "TheBloke/deepseek-coder-6.7B-instruct-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/deepseek-coder-6.7B-instruct-GPTQ"
   }
 ]
