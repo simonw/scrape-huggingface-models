@@ -874,7 +874,7 @@
   {
     "_id": "645f47cf6990e1208522b824",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
-    "likes": 255,
+    "likes": 256,
     "private": false,
     "downloads": 17462,
     "tags": [
@@ -15612,7 +15612,7 @@
   {
     "_id": "64e92fcc1dce571e8536a419",
     "id": "TheBloke/Llama2-70B-OASST-SFT-v10-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -19042,7 +19042,7 @@
   {
     "_id": "64f7451182673b2a07ae1103",
     "id": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GGUF",
-    "likes": 36,
+    "likes": 37,
     "private": false,
     "downloads": 60,
     "tags": [
@@ -40972,7 +40972,7 @@
   {
     "_id": "65355afc02d1ecd54583e5e7",
     "id": "TheBloke/Thespis-13B-v0.4-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 16,
     "tags": [
@@ -44548,8 +44548,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/deepseek-coder-33B-base-AWQ"
   },
   {
@@ -44577,8 +44584,37 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/deepseek-coder-1.3b-base-GPTQ"
+  },
+  {
+    "_id": "6547195700ca373b7d271228",
+    "id": "TheBloke/deepseek-coder-1.3b-instruct-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/deepseek-coder-1.3b-instruct-GPTQ"
+  },
+  {
+    "_id": "65471971407bb19ff5808356",
+    "id": "TheBloke/deepseek-coder-6.7B-base-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/deepseek-coder-6.7B-base-AWQ"
   }
 ]
