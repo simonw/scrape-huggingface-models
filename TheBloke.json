@@ -32854,7 +32854,7 @@
   {
     "_id": "65148276ac849a6655d267e9",
     "id": "TheBloke/Mistral-7B-v0.1-AWQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 1305,
     "tags": [
@@ -44542,5 +44542,23 @@
       "region:us"
     ],
     "modelId": "TheBloke/deepseek-coder-33B-base-AWQ"
+  },
+  {
+    "_id": "654707bfb6a8bd2c90498343",
+    "id": "TheBloke/deepseek-coder-6.7B-instruct-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/deepseek-coder-6.7B-instruct-AWQ"
   }
 ]
