@@ -9163,7 +9163,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 613,
+    "likes": 614,
     "private": false,
     "downloads": 5609,
     "tags": [
@@ -44354,7 +44354,7 @@
   {
     "_id": "6546a6d649feb5082b4622e1",
     "id": "TheBloke/Yi-34B-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44372,7 +44372,7 @@
   {
     "_id": "6546a6d65cd5692b3ab16e09",
     "id": "TheBloke/Yi-34B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44458,7 +44458,7 @@
   {
     "_id": "6546bfe06c818bb7b5ab8251",
     "id": "TheBloke/deepseek-coder-33B-instruct-AWQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44544,7 +44544,7 @@
   {
     "_id": "654707756507968374716b17",
     "id": "TheBloke/deepseek-coder-33B-base-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44598,7 +44598,7 @@
   {
     "_id": "6547195700ca373b7d271228",
     "id": "TheBloke/deepseek-coder-1.3b-instruct-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44616,7 +44616,7 @@
   {
     "_id": "65471971407bb19ff5808356",
     "id": "TheBloke/deepseek-coder-6.7B-base-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44634,7 +44634,7 @@
   {
     "_id": "65471f9349feb5082b590d21",
     "id": "TheBloke/deepseek-coder-33B-base-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44652,7 +44652,7 @@
   {
     "_id": "6547412196c46859c2f8d3be",
     "id": "TheBloke/deepseek-coder-33B-instruct-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44660,11 +44660,22 @@
       "safetensors",
       "llama",
       "text-generation",
-      "endpoints_compatible",
+      "license:other",
       "text-generation-inference",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/deepseek-coder-33B-instruct-GPTQ"
+  },
+  {
+    "_id": "6547631b10d47c1f77e9cf13",
+    "id": "TheBloke/deepseek-coder-6.7B-base-GPTQ",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/deepseek-coder-6.7B-base-GPTQ"
   }
 ]
