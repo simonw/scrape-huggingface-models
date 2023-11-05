@@ -28999,7 +28999,7 @@
   {
     "_id": "650a37ba6d2284f7325fa7b3",
     "id": "TheBloke/upstage-llama-30b-instruct-2048-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -43942,7 +43942,7 @@
   {
     "_id": "6543cac6e9e8e72d2acd55c4",
     "id": "TheBloke/openchat_3.5-GGUF",
-    "likes": 36,
+    "likes": 37,
     "private": false,
     "downloads": 32,
     "tags": [
@@ -43979,7 +43979,7 @@
   {
     "_id": "6543d0d65b5d9185ba107c8b",
     "id": "TheBloke/Yarn-Mistral-7B-64k-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 31,
     "tags": [
@@ -44087,7 +44087,7 @@
   {
     "_id": "654418242996405c238f5eea",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
-    "likes": 28,
+    "likes": 29,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -44471,8 +44471,29 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "llama",
+      "uncensored",
+      "merge",
+      "mix",
+      "slerp",
+      "spherical linear interpolation merge",
+      "hermes",
+      "openhermes",
+      "dolphin",
+      "zephyr",
+      "naberius",
+      "7b",
+      "llama2",
+      "en",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Naberius-7B-GPTQ"
   }
 ]
