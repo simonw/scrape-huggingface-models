@@ -1496,7 +1496,7 @@
   {
     "_id": "646f7790d1f1b73079e79a94",
     "id": "TheBloke/guanaco-33B-GPTQ",
-    "likes": 74,
+    "likes": 75,
     "private": false,
     "downloads": 5311,
     "tags": [
@@ -44438,7 +44438,7 @@
   {
     "_id": "6546bfe04d1931dc93eacb63",
     "id": "TheBloke/deepseek-coder-33B-instruct-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44495,5 +44495,52 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Naberius-7B-GPTQ"
+  },
+  {
+    "_id": "654705e78767484a0531ddbc",
+    "id": "TheBloke/deepseek-coder-1.3b-instruct-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/deepseek-coder-1.3b-instruct-AWQ"
+  },
+  {
+    "_id": "6547064a51c10a6f8b090de4",
+    "id": "TheBloke/deepseek-coder-1.3b-base-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/deepseek-coder-1.3b-base-AWQ"
+  },
+  {
+    "_id": "654707756507968374716b17",
+    "id": "TheBloke/deepseek-coder-33B-base-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/deepseek-coder-33B-base-AWQ"
   }
 ]
