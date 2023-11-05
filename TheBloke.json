@@ -18400,7 +18400,7 @@
   {
     "_id": "64f6a51bda8bcca7aaa18084",
     "id": "TheBloke/vicuna-13B-v1.5-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -44349,8 +44349,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "Yi",
+      "text-generation",
+      "custom_code",
+      "license:other",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Yi-34B-GPTQ"
   },
   {
@@ -44431,7 +44438,7 @@
   {
     "_id": "6546bfe04d1931dc93eacb63",
     "id": "TheBloke/deepseek-coder-33B-instruct-GGUF",
-    "likes": 3,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44446,8 +44453,26 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/deepseek-coder-33B-instruct-AWQ"
+  },
+  {
+    "_id": "6546da93b6cf806280d84eb2",
+    "id": "TheBloke/Naberius-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Naberius-7B-GPTQ"
   }
 ]
