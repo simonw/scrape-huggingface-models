@@ -43343,7 +43343,7 @@
   {
     "_id": "654042284a4828900083688a",
     "id": "TheBloke/dolphin-2.2.1-mistral-7B-GPTQ",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 1665,
     "tags": [
@@ -44447,7 +44447,7 @@
   {
     "_id": "6546bfe04d1931dc93eacb63",
     "id": "TheBloke/deepseek-coder-33B-instruct-GGUF",
-    "likes": 18,
+    "likes": 19,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44709,7 +44709,7 @@
   {
     "_id": "65479565407bb19ff594d5bd",
     "id": "TheBloke/deepseek-coder-1.3b-instruct-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44765,7 +44765,7 @@
   {
     "_id": "65479a438767484a0548595b",
     "id": "TheBloke/deepseek-coder-6.7B-instruct-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44825,5 +44825,66 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/deepseek-coder-5.7bmqa-base-AWQ"
+  },
+  {
+    "_id": "6547cd39470b4b8b3ff6f085",
+    "id": "TheBloke/calm2-7B-chat-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "japanese",
+      "causal-lm",
+      "ja",
+      "en",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/calm2-7B-chat-GGUF"
+  },
+  {
+    "_id": "6547cd39f104457da144cac9",
+    "id": "TheBloke/calm2-7B-chat-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/calm2-7B-chat-AWQ"
+  },
+  {
+    "_id": "6547cd3a6070dd5df78169b3",
+    "id": "TheBloke/calm2-7B-chat-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/calm2-7B-chat-GPTQ"
+  },
+  {
+    "_id": "6547cedac1949364697099b0",
+    "id": "TheBloke/stockmark-13B-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "japanese",
+      "llama-2",
+      "text-generation",
+      "ja",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/stockmark-13B-GGUF"
   }
 ]
