@@ -15444,7 +15444,7 @@
   {
     "_id": "64e85bb1e6a52fff352d606f",
     "id": "TheBloke/CodeLlama-34B-Instruct-GPTQ",
-    "likes": 50,
+    "likes": 51,
     "private": false,
     "downloads": 512472,
     "tags": [
@@ -15488,7 +15488,7 @@
   {
     "_id": "64e893eb0c2413c35722cff1",
     "id": "TheBloke/CodeLlama-34B-GPTQ",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 293,
     "tags": [
@@ -42240,7 +42240,7 @@
   {
     "_id": "653d5af56d28265c85b4934e",
     "id": "TheBloke/japanese-stablelm-instruct-gamma-7B-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 111,
     "tags": [
@@ -43897,7 +43897,7 @@
   {
     "_id": "6543c413fcb96b8b484c2df2",
     "id": "TheBloke/japanese-stablelm-instruct-beta-70B-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 115,
     "tags": [
@@ -44447,7 +44447,7 @@
   {
     "_id": "6546bfe04d1931dc93eacb63",
     "id": "TheBloke/deepseek-coder-33B-instruct-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44688,12 +44688,19 @@
   {
     "_id": "65476ad9e49bd8d58e61263c",
     "id": "TheBloke/deepseek-coder-6.7B-instruct-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/deepseek-coder-6.7B-instruct-GPTQ"
   }
 ]
