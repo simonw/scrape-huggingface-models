@@ -9163,7 +9163,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 614,
+    "likes": 615,
     "private": false,
     "downloads": 5478,
     "tags": [
@@ -9320,7 +9320,7 @@
   {
     "_id": "64b72139a00eab5bcddae33e",
     "id": "TheBloke/Llama-2-70B-Chat-GPTQ",
-    "likes": 217,
+    "likes": 218,
     "private": false,
     "downloads": 75696,
     "tags": [
@@ -41489,7 +41489,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 102,
+    "likes": 103,
     "private": false,
     "downloads": 511,
     "tags": [
@@ -44135,7 +44135,7 @@
   {
     "_id": "65442601fc182f71e17d2f82",
     "id": "TheBloke/Yarn-Mistral-7B-128k-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 62,
     "tags": [
@@ -44875,8 +44875,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "japanese",
+      "causal-lm",
+      "ja",
+      "en",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/calm2-7B-chat-GPTQ"
   },
   {
