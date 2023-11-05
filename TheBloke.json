@@ -27256,7 +27256,7 @@
   {
     "_id": "6509953c2feb9570c5152624",
     "id": "TheBloke/Upstage-Llama-2-70B-instruct-v2-AWQ",
-    "likes": 1,
+    "likes": 0,
     "private": false,
     "downloads": 2718,
     "tags": [
@@ -43961,7 +43961,7 @@
   {
     "_id": "6543cda9998b3248a1fedce8",
     "id": "TheBloke/Yarn-Mistral-7B-128k-GGUF",
-    "likes": 54,
+    "likes": 55,
     "private": false,
     "downloads": 44,
     "tags": [
@@ -44656,8 +44656,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "endpoints_compatible",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/deepseek-coder-33B-instruct-GPTQ"
   }
 ]
