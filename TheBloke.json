@@ -2010,7 +2010,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 401,
+    "likes": 402,
     "private": false,
     "downloads": 15751,
     "tags": [
@@ -18177,7 +18177,7 @@
   {
     "_id": "64f611cf6ad07ea81779ca15",
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
-    "likes": 84,
+    "likes": 85,
     "private": false,
     "downloads": 1143,
     "tags": [
@@ -32758,7 +32758,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 237,
+    "likes": 238,
     "private": false,
     "downloads": 5428,
     "tags": [
@@ -39922,7 +39922,7 @@
   {
     "_id": "65310b2133d693dfd39750ce",
     "id": "TheBloke/MistralLite-7B-GGUF",
-    "likes": 29,
+    "likes": 30,
     "private": false,
     "downloads": 57,
     "tags": [
@@ -43961,7 +43961,7 @@
   {
     "_id": "6543cda9998b3248a1fedce8",
     "id": "TheBloke/Yarn-Mistral-7B-128k-GGUF",
-    "likes": 53,
+    "likes": 54,
     "private": false,
     "downloads": 44,
     "tags": [
@@ -44338,8 +44338,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Utopia-13B-GPTQ"
   },
   {
@@ -44560,5 +44569,16 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/deepseek-coder-6.7B-instruct-AWQ"
+  },
+  {
+    "_id": "654712005f6c84d8f49aff2d",
+    "id": "TheBloke/deepseek-coder-1.3b-base-GPTQ",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/deepseek-coder-1.3b-base-GPTQ"
   }
 ]
