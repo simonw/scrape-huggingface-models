@@ -40788,7 +40788,7 @@
   {
     "_id": "65354dada2c81a3d29a30494",
     "id": "TheBloke/CausalLM-14B-GGUF",
-    "likes": 72,
+    "likes": 73,
     "private": false,
     "downloads": 71,
     "tags": [
@@ -44372,7 +44372,7 @@
   {
     "_id": "6546a6d65cd5692b3ab16e09",
     "id": "TheBloke/Yi-34B-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -44447,7 +44447,7 @@
   {
     "_id": "6546bfe04d1931dc93eacb63",
     "id": "TheBloke/deepseek-coder-33B-instruct-GGUF",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44461,7 +44461,7 @@
   {
     "_id": "6546bfe06c818bb7b5ab8251",
     "id": "TheBloke/deepseek-coder-33B-instruct-AWQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 23,
     "tags": [
@@ -44852,8 +44852,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "pytorch",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "japanese",
+      "causal-lm",
+      "ja",
+      "en",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/calm2-7B-chat-AWQ"
   },
   {
