@@ -258,7 +258,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-13B-HF",
     "likes": 4,
     "private": false,
-    "downloads": 5426,
+    "downloads": 5629,
     "tags": [
       "transformers",
       "pytorch",
@@ -283,7 +283,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-13B-GPTQ",
     "likes": 18,
     "private": false,
-    "downloads": 5,
+    "downloads": 4,
     "tags": [
       "transformers",
       "pytorch",
@@ -307,7 +307,7 @@
     "id": "TheBloke/alpaca-lora-65B-HF",
     "likes": 3,
     "private": false,
-    "downloads": 5419,
+    "downloads": 5621,
     "tags": [
       "transformers",
       "pytorch",
@@ -357,7 +357,7 @@
     "id": "TheBloke/medalpaca-13B-GPTQ",
     "likes": 28,
     "private": false,
-    "downloads": 5492,
+    "downloads": 5705,
     "tags": [
       "transformers",
       "pytorch",
@@ -379,7 +379,7 @@
     "id": "TheBloke/wizardLM-7B-HF",
     "likes": 89,
     "private": false,
-    "downloads": 8179,
+    "downloads": 8355,
     "tags": [
       "transformers",
       "pytorch",
@@ -411,7 +411,7 @@
     "id": "TheBloke/wizardLM-7B-GPTQ",
     "likes": 104,
     "private": false,
-    "downloads": 940,
+    "downloads": 910,
     "tags": [
       "transformers",
       "safetensors",
@@ -430,7 +430,7 @@
     "id": "TheBloke/stable-vicuna-13B-HF",
     "likes": 95,
     "private": false,
-    "downloads": 6346,
+    "downloads": 6569,
     "tags": [
       "transformers",
       "pytorch",
@@ -469,7 +469,7 @@
     "id": "TheBloke/stable-vicuna-13B-GPTQ",
     "likes": 217,
     "private": false,
-    "downloads": 206,
+    "downloads": 203,
     "tags": [
       "transformers",
       "safetensors",
@@ -493,7 +493,7 @@
     "id": "TheBloke/OpenAssistant-SFT-7-Llama-30B-HF",
     "likes": 14,
     "private": false,
-    "downloads": 5459,
+    "downloads": 5665,
     "tags": [
       "transformers",
       "pytorch",
@@ -527,7 +527,7 @@
     "id": "TheBloke/OpenAssistant-SFT-7-Llama-30B-GPTQ",
     "likes": 36,
     "private": false,
-    "downloads": 107,
+    "downloads": 109,
     "tags": [
       "transformers",
       "safetensors",
@@ -559,7 +559,7 @@
     "id": "TheBloke/wizard-vicuna-13B-GPTQ",
     "likes": 100,
     "private": false,
-    "downloads": 5805,
+    "downloads": 6016,
     "tags": [
       "transformers",
       "safetensors",
@@ -580,7 +580,7 @@
     "id": "TheBloke/wizard-vicuna-13B-HF",
     "likes": 48,
     "private": false,
-    "downloads": 5483,
+    "downloads": 5689,
     "tags": [
       "transformers",
       "pytorch",
@@ -614,7 +614,7 @@
     "id": "TheBloke/WizardLM-7B-uncensored-GPTQ",
     "likes": 159,
     "private": false,
-    "downloads": 7800,
+    "downloads": 8096,
     "tags": [
       "transformers",
       "safetensors",
@@ -635,7 +635,7 @@
     "id": "TheBloke/GPT4All-13B-snoozy-GPTQ",
     "likes": 29,
     "private": false,
-    "downloads": 30,
+    "downloads": 29,
     "tags": [
       "transformers",
       "safetensors",
@@ -709,7 +709,7 @@
     "id": "TheBloke/dromedary-65b-lora-HF",
     "likes": 20,
     "private": false,
-    "downloads": 5421,
+    "downloads": 5633,
     "tags": [
       "transformers",
       "pytorch",
@@ -782,7 +782,7 @@
     "id": "TheBloke/h2ogpt-oasst1-512-30B-HF",
     "likes": 2,
     "private": false,
-    "downloads": 5398,
+    "downloads": 5611,
     "tags": [
       "transformers",
       "pytorch",
@@ -819,7 +819,7 @@
     "id": "TheBloke/gpt4-alpaca-lora_mlp-65B-HF",
     "likes": 7,
     "private": false,
-    "downloads": 5751,
+    "downloads": 5979,
     "tags": [
       "transformers",
       "pytorch",
@@ -841,7 +841,7 @@
     "id": "TheBloke/gpt4-alpaca-lora_mlp-65B-GPTQ",
     "likes": 14,
     "private": false,
-    "downloads": 48,
+    "downloads": 44,
     "tags": [
       "transformers",
       "safetensors",
@@ -876,7 +876,7 @@
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
     "likes": 257,
     "private": false,
-    "downloads": 17926,
+    "downloads": 18065,
     "tags": [
       "transformers",
       "safetensors",
@@ -898,7 +898,7 @@
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-HF",
     "likes": 200,
     "private": false,
-    "downloads": 6299,
+    "downloads": 6491,
     "tags": [
       "transformers",
       "pytorch",
@@ -942,7 +942,7 @@
     "id": "TheBloke/wizard-mega-13B-GPTQ",
     "likes": 102,
     "private": false,
-    "downloads": 5509,
+    "downloads": 5726,
     "tags": [
       "transformers",
       "safetensors",
@@ -21898,7 +21898,7 @@
   {
     "_id": "6501be085c0e01b2286cb836",
     "id": "TheBloke/Llama2-Chat-AYT-13B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -40096,7 +40096,7 @@
   {
     "_id": "65324859005c969984e8aca4",
     "id": "TheBloke/Arithmo-Mistral-7B-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 24,
     "tags": [
@@ -41489,7 +41489,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 105,
+    "likes": 106,
     "private": false,
     "downloads": 511,
     "tags": [
@@ -42491,7 +42491,7 @@
   {
     "_id": "653e4e12eefdcdc9fd95b423",
     "id": "TheBloke/Augmental-13B-v1.50_A-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -43343,7 +43343,7 @@
   {
     "_id": "654042284a4828900083688a",
     "id": "TheBloke/dolphin-2.2.1-mistral-7B-GPTQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 1665,
     "tags": [
@@ -43961,7 +43961,7 @@
   {
     "_id": "6543cda9998b3248a1fedce8",
     "id": "TheBloke/Yarn-Mistral-7B-128k-GGUF",
-    "likes": 65,
+    "likes": 66,
     "private": false,
     "downloads": 67,
     "tags": [
@@ -44354,7 +44354,7 @@
   {
     "_id": "6546a6d649feb5082b4622e1",
     "id": "TheBloke/Yi-34B-GPTQ",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -44765,7 +44765,7 @@
   {
     "_id": "65479a438767484a0548595b",
     "id": "TheBloke/deepseek-coder-6.7B-instruct-GGUF",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 0,
     "tags": [
