@@ -16271,7 +16271,7 @@
   {
     "_id": "64eb8c012beaa8c4106ee91f",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GGUF",
-    "likes": 33,
+    "likes": 34,
     "private": false,
     "downloads": 99,
     "tags": [
@@ -44655,7 +44655,7 @@
   {
     "_id": "6547412196c46859c2f8d3be",
     "id": "TheBloke/deepseek-coder-33B-instruct-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -44765,14 +44765,15 @@
   {
     "_id": "65479a438767484a0548595b",
     "id": "TheBloke/deepseek-coder-6.7B-instruct-GGUF",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 0,
     "tags": [
       "transformers",
       "deepseek",
       "license:other",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/deepseek-coder-6.7B-instruct-GGUF"
   },
@@ -44966,7 +44967,7 @@
   {
     "_id": "6548287fb6a8bd2c90770f9b",
     "id": "TheBloke/Hermes-Trismegistus-Mistral-7B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
