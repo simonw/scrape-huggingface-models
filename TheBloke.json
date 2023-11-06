@@ -16313,7 +16313,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 103,
+    "likes": 104,
     "private": false,
     "downloads": 89,
     "tags": [
@@ -21756,7 +21756,7 @@
   {
     "_id": "65009a7705374ef773657936",
     "id": "TheBloke/Llama-2-13B-Ensemble-v6-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 165,
     "tags": [
@@ -32581,7 +32581,7 @@
   {
     "_id": "65140cda51c0141fa86b7d8b",
     "id": "TheBloke/U-Amethyst-20B-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 43,
     "tags": [
@@ -32618,7 +32618,7 @@
   {
     "_id": "65140ceedbb1fb6b0495f86f",
     "id": "TheBloke/U-Amethyst-20B-GPTQ",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 283,
     "tags": [
@@ -41535,7 +41535,7 @@
   {
     "_id": "653bb81bea8b6b5fe3a67097",
     "id": "TheBloke/zephyr-7B-beta-AWQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 1488,
     "tags": [
@@ -44601,7 +44601,7 @@
   {
     "_id": "6547195700ca373b7d271228",
     "id": "TheBloke/deepseek-coder-1.3b-instruct-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -44765,7 +44765,7 @@
   {
     "_id": "65479a438767484a0548595b",
     "id": "TheBloke/deepseek-coder-6.7B-instruct-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44829,7 +44829,7 @@
   {
     "_id": "6547cd39470b4b8b3ff6f085",
     "id": "TheBloke/calm2-7B-chat-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44909,5 +44909,81 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/stockmark-13B-GGUF"
+  },
+  {
+    "_id": "6548287f44867327207efed7",
+    "id": "TheBloke/Hermes-Trismegistus-Mistral-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "pytorch",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "mistral-7b",
+      "instruct",
+      "finetune",
+      "gpt4",
+      "synthetic data",
+      "distillation",
+      "en",
+      "dataset:teknium/trismegistus-project",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Hermes-Trismegistus-Mistral-7B-AWQ"
+  },
+  {
+    "_id": "6548287f44867327207efedc",
+    "id": "TheBloke/Hermes-Trismegistus-Mistral-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "mistral-7b",
+      "instruct",
+      "finetune",
+      "gpt4",
+      "synthetic data",
+      "distillation",
+      "en",
+      "dataset:teknium/trismegistus-project",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Hermes-Trismegistus-Mistral-7B-GPTQ"
+  },
+  {
+    "_id": "6548287fb6a8bd2c90770f9b",
+    "id": "TheBloke/Hermes-Trismegistus-Mistral-7B-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "mistral-7b",
+      "instruct",
+      "finetune",
+      "gpt4",
+      "synthetic data",
+      "distillation",
+      "en",
+      "dataset:teknium/trismegistus-project",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Hermes-Trismegistus-Mistral-7B-GGUF"
   }
 ]
