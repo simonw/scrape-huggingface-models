@@ -15378,7 +15378,7 @@
   {
     "_id": "64e7fafe0973fdd28a1990b4",
     "id": "TheBloke/CodeLlama-13B-Instruct-GPTQ",
-    "likes": 28,
+    "likes": 29,
     "private": false,
     "downloads": 2452,
     "tags": [
@@ -16226,7 +16226,7 @@
   {
     "_id": "64eb8a892800cf7e9cb2541b",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GPTQ",
-    "likes": 68,
+    "likes": 69,
     "private": false,
     "downloads": 5708,
     "tags": [
@@ -43961,7 +43961,7 @@
   {
     "_id": "6543cda9998b3248a1fedce8",
     "id": "TheBloke/Yarn-Mistral-7B-128k-GGUF",
-    "likes": 64,
+    "likes": 65,
     "private": false,
     "downloads": 67,
     "tags": [
@@ -44372,7 +44372,7 @@
   {
     "_id": "6546a6d65cd5692b3ab16e09",
     "id": "TheBloke/Yi-34B-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -44986,5 +44986,44 @@
       "region:us"
     ],
     "modelId": "TheBloke/Hermes-Trismegistus-Mistral-7B-GGUF"
+  },
+  {
+    "_id": "6548b0010856885240a2d6be",
+    "id": "TheBloke/UtopiaXL-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/UtopiaXL-13B-AWQ"
+  },
+  {
+    "_id": "6548b001407bb19ff5c2a9e0",
+    "id": "TheBloke/UtopiaXL-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/UtopiaXL-13B-GGUF"
+  },
+  {
+    "_id": "6548b001c8283a876ebbb977",
+    "id": "TheBloke/UtopiaXL-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/UtopiaXL-13B-GPTQ"
   }
 ]
