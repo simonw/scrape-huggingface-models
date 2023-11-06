@@ -3971,7 +3971,7 @@
   {
     "_id": "648a4ed83688b02f2a6e3e93",
     "id": "TheBloke/falcon-40b-instruct-GGML",
-    "likes": 56,
+    "likes": 57,
     "private": false,
     "downloads": 13,
     "tags": [
@@ -9211,7 +9211,7 @@
   {
     "_id": "64b6d3eeab056b63ede8a758",
     "id": "TheBloke/Llama-2-13B-chat-GGML",
-    "likes": 622,
+    "likes": 623,
     "private": false,
     "downloads": 1828,
     "tags": [
@@ -18351,7 +18351,7 @@
   {
     "_id": "64f69c38c3bdaab6f58e2b8c",
     "id": "TheBloke/MythoMax-L2-13B-GGUF",
-    "likes": 18,
+    "likes": 19,
     "private": false,
     "downloads": 130,
     "tags": [
@@ -42593,7 +42593,7 @@
   {
     "_id": "653e610aceb0a0f6ce31ca58",
     "id": "TheBloke/Nous-Capybara-7B-v1.9-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -45311,8 +45311,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "es",
+      "dataset:Danielbrdz/Barcenas-lmsys-Dataset",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Barcenas-Mistral-7B-GPTQ"
   },
   {
