@@ -44872,7 +44872,7 @@
   {
     "_id": "6547cd3a6070dd5df78169b3",
     "id": "TheBloke/calm2-7B-chat-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -45071,8 +45071,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/echidna-tiefigther-25-GPTQ"
   },
   {
@@ -45089,5 +45096,42 @@
       "region:us"
     ],
     "modelId": "TheBloke/echidna-tiefigther-25-GGUF"
+  },
+  {
+    "_id": "6548c6d910d47c1f771ee33b",
+    "id": "TheBloke/Hexoteric-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Hexoteric-7B-GGUF"
+  },
+  {
+    "_id": "6548c6d96070dd5df7aa2560",
+    "id": "TheBloke/Hexoteric-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Hexoteric-7B-GPTQ"
+  },
+  {
+    "_id": "6548c6d9b3a7efb93920efb8",
+    "id": "TheBloke/Hexoteric-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Hexoteric-7B-AWQ"
   }
 ]
