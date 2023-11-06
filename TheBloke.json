@@ -44110,7 +44110,7 @@
   {
     "_id": "6544182490538a2742671abe",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 461,
     "tags": [
@@ -45271,8 +45271,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/openbuddy-zephyr-7B-v14.1-GPTQ"
   }
 ]
