@@ -22,7 +22,7 @@
     "id": "TheBloke/koala-7B-HF",
     "likes": 18,
     "private": false,
-    "downloads": 5441,
+    "downloads": 5647,
     "tags": [
       "transformers",
       "pytorch",
@@ -47,7 +47,7 @@
     "id": "TheBloke/koala-13B-HF",
     "likes": 40,
     "private": false,
-    "downloads": 5684,
+    "downloads": 5912,
     "tags": [
       "transformers",
       "pytorch",
@@ -136,7 +136,7 @@
     "id": "TheBloke/vicuna-7B-v0-GPTQ",
     "likes": 16,
     "private": false,
-    "downloads": 50,
+    "downloads": 54,
     "tags": [
       "transformers",
       "pytorch",
@@ -155,7 +155,7 @@
     "id": "TheBloke/Vicuna-13B-1.1-GPTQ",
     "likes": 207,
     "private": false,
-    "downloads": 203,
+    "downloads": 206,
     "tags": [
       "transformers",
       "llama",
@@ -190,7 +190,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-30b-HF",
     "likes": 10,
     "private": false,
-    "downloads": 5427,
+    "downloads": 5634,
     "tags": [
       "transformers",
       "pytorch",
@@ -44354,7 +44354,7 @@
   {
     "_id": "6546a6d649feb5082b4622e1",
     "id": "TheBloke/Yi-34B-GPTQ",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -45119,8 +45119,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Hexoteric-7B-GPTQ"
   },
   {
@@ -45130,8 +45137,49 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "pytorch",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Hexoteric-7B-AWQ"
+  },
+  {
+    "_id": "6548cf1b00ca373b7d6bafb7",
+    "id": "TheBloke/japanese-stablelm-base-beta-70B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/japanese-stablelm-base-beta-70B-GGUF"
+  },
+  {
+    "_id": "6548cf1b117ecae6481613f5",
+    "id": "TheBloke/japanese-stablelm-base-beta-70B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/japanese-stablelm-base-beta-70B-GPTQ"
+  },
+  {
+    "_id": "6548cf1baf5d7944327b9c36",
+    "id": "TheBloke/japanese-stablelm-base-beta-70B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/japanese-stablelm-base-beta-70B-AWQ"
   }
 ]
