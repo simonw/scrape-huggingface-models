@@ -15444,7 +15444,7 @@
   {
     "_id": "64e85bb1e6a52fff352d606f",
     "id": "TheBloke/CodeLlama-34B-Instruct-GPTQ",
-    "likes": 52,
+    "likes": 53,
     "private": false,
     "downloads": 512419,
     "tags": [
@@ -44354,7 +44354,7 @@
   {
     "_id": "6546a6d649feb5082b4622e1",
     "id": "TheBloke/Yi-34B-GPTQ",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -44751,7 +44751,7 @@
   {
     "_id": "6547990436332b0eedb51f50",
     "id": "TheBloke/deepseek-coder-6.7B-base-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44994,8 +44994,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "pytorch",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/UtopiaXL-13B-AWQ"
   },
   {
@@ -45022,8 +45032,50 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/UtopiaXL-13B-GPTQ"
+  },
+  {
+    "_id": "6548bab700ca373b7d681f67",
+    "id": "TheBloke/echidna-tiefigther-25-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/echidna-tiefigther-25-AWQ"
+  },
+  {
+    "_id": "6548bab7b6a8bd2c908f5509",
+    "id": "TheBloke/echidna-tiefigther-25-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/echidna-tiefigther-25-GPTQ"
+  },
+  {
+    "_id": "6548bab7e49bd8d58e90e683",
+    "id": "TheBloke/echidna-tiefigther-25-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/echidna-tiefigther-25-GGUF"
   }
 ]
