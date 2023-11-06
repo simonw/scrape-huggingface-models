@@ -16313,7 +16313,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 105,
+    "likes": 106,
     "private": false,
     "downloads": 89,
     "tags": [
@@ -45052,8 +45052,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "pytorch",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/echidna-tiefigther-25-AWQ"
   },
   {
@@ -45074,6 +45082,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/echidna-tiefigther-25-GGUF"
