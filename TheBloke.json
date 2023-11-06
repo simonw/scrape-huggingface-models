@@ -9163,7 +9163,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 617,
+    "likes": 618,
     "private": false,
     "downloads": 5452,
     "tags": [
@@ -10296,7 +10296,7 @@
   {
     "_id": "64be69f0afd1e46c5531b913",
     "id": "TheBloke/airoboros-l2-13B-gpt4-1.4.1-GPTQ",
-    "likes": 24,
+    "likes": 25,
     "private": false,
     "downloads": 2111,
     "tags": [
@@ -11040,7 +11040,7 @@
   {
     "_id": "64c838101c25d2c581982817",
     "id": "TheBloke/airoboros-l2-13b-gpt4-2.0-GPTQ",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 174,
     "tags": [
@@ -36302,7 +36302,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 123,
+    "likes": 124,
     "private": false,
     "downloads": 898,
     "tags": [
@@ -43942,7 +43942,7 @@
   {
     "_id": "6543cac6e9e8e72d2acd55c4",
     "id": "TheBloke/openchat_3.5-GGUF",
-    "likes": 50,
+    "likes": 51,
     "private": false,
     "downloads": 79,
     "tags": [
@@ -44372,7 +44372,7 @@
   {
     "_id": "6546a6d65cd5692b3ab16e09",
     "id": "TheBloke/Yi-34B-GGUF",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -45281,5 +45281,56 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/openbuddy-zephyr-7B-v14.1-GPTQ"
+  },
+  {
+    "_id": "6549197d06bdec08228a35c2",
+    "id": "TheBloke/Barcenas-Mistral-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "pytorch",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "es",
+      "dataset:Danielbrdz/Barcenas-lmsys-Dataset",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/Barcenas-Mistral-7B-AWQ"
+  },
+  {
+    "_id": "6549197d1bb891a5a4f1bb2a",
+    "id": "TheBloke/Barcenas-Mistral-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Barcenas-Mistral-7B-GPTQ"
+  },
+  {
+    "_id": "6549197d7d5d777153995025",
+    "id": "TheBloke/Barcenas-Mistral-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "en",
+      "es",
+      "dataset:Danielbrdz/Barcenas-lmsys-Dataset",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Barcenas-Mistral-7B-GGUF"
   }
 ]
