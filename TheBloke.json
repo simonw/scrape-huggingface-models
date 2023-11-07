@@ -42095,7 +42095,7 @@
   {
     "_id": "653980d40da86d726c8765e9",
     "id": "TheBloke/lzlv_70B-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 23,
     "tags": [
@@ -46366,8 +46366,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "pytorch",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Dawn-v2-70B-AWQ"
   },
   {
