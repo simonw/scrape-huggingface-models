@@ -46298,8 +46298,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "LLM",
+      "llama-2",
+      "finetuned",
+      "text-generation",
+      "fr",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/vigogne-2-70B-chat-GGUF"
   },
   {
