@@ -9533,7 +9533,7 @@
   {
     "_id": "64b6eabcfa7eabaae5ed9f48",
     "id": "TheBloke/Llama-2-7B-fp16",
-    "likes": 34,
+    "likes": 35,
     "private": false,
     "downloads": 12211,
     "tags": [
@@ -33355,7 +33355,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 243,
+    "likes": 244,
     "private": false,
     "downloads": 5426,
     "tags": [
@@ -36815,7 +36815,7 @@
   {
     "_id": "65252a6b9e4a6675fe888d34",
     "id": "TheBloke/em_german_leo_mistral-GGUF",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 59,
     "tags": [
@@ -44011,7 +44011,7 @@
   {
     "_id": "6540239a4a482890007dfe67",
     "id": "TheBloke/Uncensored-Jordan-7B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -44086,7 +44086,7 @@
   {
     "_id": "65403e7339948eb634bfcdff",
     "id": "TheBloke/dolphin-2.2.1-mistral-7B-GGUF",
-    "likes": 41,
+    "likes": 42,
     "private": false,
     "downloads": 29,
     "tags": [
@@ -44754,7 +44754,7 @@
   {
     "_id": "6543cda9998b3248a1fedce8",
     "id": "TheBloke/Yarn-Mistral-7B-128k-GGUF",
-    "likes": 72,
+    "likes": 73,
     "private": false,
     "downloads": 116,
     "tags": [
@@ -44881,7 +44881,7 @@
   {
     "_id": "654418242996405c238f5eea",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
-    "likes": 48,
+    "likes": 49,
     "private": false,
     "downloads": 44,
     "tags": [
@@ -46388,6 +46388,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "not-for-all-audiences",
+      "nsfw",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Dawn-v2-70B-GGUF"
