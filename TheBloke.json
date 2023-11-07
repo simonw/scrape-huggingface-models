@@ -15372,7 +15372,7 @@
   {
     "_id": "64e78d117acd8971f2c6bbe6",
     "id": "TheBloke/CodeLlama-7B-GGUF",
-    "likes": 46,
+    "likes": 47,
     "private": false,
     "downloads": 190,
     "tags": [
@@ -46290,5 +46290,38 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Toppy-M-7B-GPTQ"
+  },
+  {
+    "_id": "654a618c20a6ffde9351356f",
+    "id": "TheBloke/vigogne-2-70B-chat-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/vigogne-2-70B-chat-GGUF"
+  },
+  {
+    "_id": "654a618c20a6ffde9351357c",
+    "id": "TheBloke/vigogne-2-70B-chat-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/vigogne-2-70B-chat-GPTQ"
+  },
+  {
+    "_id": "654a618cfa25dfb7809b234b",
+    "id": "TheBloke/vigogne-2-70B-chat-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/vigogne-2-70B-chat-AWQ"
   }
 ]
