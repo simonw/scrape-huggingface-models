@@ -37178,7 +37178,7 @@
   {
     "_id": "652653590aaab896facf71a0",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GGUF",
-    "likes": 80,
+    "likes": 81,
     "private": false,
     "downloads": 511,
     "tags": [
@@ -42236,7 +42236,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 113,
+    "likes": 114,
     "private": false,
     "downloads": 621,
     "tags": [
@@ -43360,7 +43360,7 @@
   {
     "_id": "653e610aceb0a0f6ce31ca58",
     "id": "TheBloke/Nous-Capybara-7B-v1.9-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -43956,7 +43956,7 @@
   {
     "_id": "654015d99ec3b70cc63ab319",
     "id": "TheBloke/Uncensored-Jordan-33B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -44881,7 +44881,7 @@
   {
     "_id": "654418242996405c238f5eea",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
-    "likes": 46,
+    "likes": 47,
     "private": false,
     "downloads": 44,
     "tags": [
@@ -45173,7 +45173,7 @@
   {
     "_id": "6546a6d65cd5692b3ab16e09",
     "id": "TheBloke/Yi-34B-GGUF",
-    "likes": 29,
+    "likes": 30,
     "private": false,
     "downloads": 20,
     "tags": [
@@ -45367,7 +45367,7 @@
   {
     "_id": "654707bfb6a8bd2c90498343",
     "id": "TheBloke/deepseek-coder-6.7B-instruct-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -45460,7 +45460,7 @@
   {
     "_id": "6547412196c46859c2f8d3be",
     "id": "TheBloke/deepseek-coder-33B-instruct-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 49,
     "tags": [
@@ -46319,14 +46319,26 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "LLM",
+      "llama-2",
+      "finetuned",
+      "fr",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/vigogne-2-70B-chat-GPTQ"
   },
   {
     "_id": "654a618cfa25dfb7809b234b",
     "id": "TheBloke/vigogne-2-70B-chat-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -46346,5 +46358,38 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/vigogne-2-70B-chat-AWQ"
+  },
+  {
+    "_id": "654aa5dc46df37dea5da8505",
+    "id": "TheBloke/Dawn-v2-70B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Dawn-v2-70B-AWQ"
+  },
+  {
+    "_id": "654aa5dc8f78bd30274524f3",
+    "id": "TheBloke/Dawn-v2-70B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Dawn-v2-70B-GPTQ"
+  },
+  {
+    "_id": "654aa5dcc70ba116b1258f72",
+    "id": "TheBloke/Dawn-v2-70B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Dawn-v2-70B-GGUF"
   }
 ]
