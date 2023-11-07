@@ -9442,7 +9442,7 @@
   {
     "_id": "64b6d3eeab056b63ede8a758",
     "id": "TheBloke/Llama-2-13B-chat-GGML",
-    "likes": 623,
+    "likes": 624,
     "private": false,
     "downloads": 1869,
     "tags": [
@@ -42418,7 +42418,7 @@
   {
     "_id": "653c289eaa1f487614a2785c",
     "id": "TheBloke/med42-70B-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 22,
     "tags": [
@@ -44086,7 +44086,7 @@
   {
     "_id": "65403e7339948eb634bfcdff",
     "id": "TheBloke/dolphin-2.2.1-mistral-7B-GGUF",
-    "likes": 39,
+    "likes": 40,
     "private": false,
     "downloads": 29,
     "tags": [
@@ -44147,7 +44147,7 @@
   {
     "_id": "65411a8c3a60baceec7b6139",
     "id": "TheBloke/Nethena-MLewd-Xwin-23B-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 18,
     "tags": [
@@ -46330,8 +46330,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "pytorch",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "LLM",
+      "llama-2",
+      "finetuned",
+      "fr",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/vigogne-2-70B-chat-AWQ"
   }
 ]
