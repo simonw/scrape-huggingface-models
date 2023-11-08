@@ -44783,7 +44783,8 @@
       "arxiv:2309.00071",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "modelId": "TheBloke/Yarn-Mistral-7B-64k-GGUF"
   },
@@ -45154,7 +45155,7 @@
   {
     "_id": "6546a6d649feb5082b4622e1",
     "id": "TheBloke/Yi-34B-GPTQ",
-    "likes": 18,
+    "likes": 19,
     "private": false,
     "downloads": 125,
     "tags": [
