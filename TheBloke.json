@@ -363,7 +363,7 @@
     "id": "TheBloke/medalpaca-13B-GPTQ",
     "likes": 28,
     "private": false,
-    "downloads": 5849,
+    "downloads": 5922,
     "tags": [
       "transformers",
       "pytorch",
@@ -386,7 +386,7 @@
     "id": "TheBloke/wizardLM-7B-HF",
     "likes": 89,
     "private": false,
-    "downloads": 8487,
+    "downloads": 8624,
     "tags": [
       "transformers",
       "pytorch",
@@ -419,7 +419,7 @@
     "id": "TheBloke/wizardLM-7B-GPTQ",
     "likes": 104,
     "private": false,
-    "downloads": 888,
+    "downloads": 847,
     "tags": [
       "transformers",
       "safetensors",
@@ -439,7 +439,7 @@
     "id": "TheBloke/stable-vicuna-13B-HF",
     "likes": 95,
     "private": false,
-    "downloads": 6698,
+    "downloads": 6822,
     "tags": [
       "transformers",
       "pytorch",
@@ -479,7 +479,7 @@
     "id": "TheBloke/stable-vicuna-13B-GPTQ",
     "likes": 218,
     "private": false,
-    "downloads": 218,
+    "downloads": 231,
     "tags": [
       "transformers",
       "safetensors",
@@ -505,7 +505,7 @@
     "id": "TheBloke/OpenAssistant-SFT-7-Llama-30B-HF",
     "likes": 14,
     "private": false,
-    "downloads": 5786,
+    "downloads": 5858,
     "tags": [
       "transformers",
       "pytorch",
@@ -573,7 +573,7 @@
     "id": "TheBloke/wizard-vicuna-13B-GPTQ",
     "likes": 100,
     "private": false,
-    "downloads": 6149,
+    "downloads": 6243,
     "tags": [
       "transformers",
       "safetensors",
@@ -595,7 +595,7 @@
     "id": "TheBloke/wizard-vicuna-13B-HF",
     "likes": 48,
     "private": false,
-    "downloads": 5817,
+    "downloads": 5892,
     "tags": [
       "transformers",
       "pytorch",
@@ -629,7 +629,7 @@
     "id": "TheBloke/WizardLM-7B-uncensored-GPTQ",
     "likes": 159,
     "private": false,
-    "downloads": 8535,
+    "downloads": 9075,
     "tags": [
       "transformers",
       "safetensors",
@@ -727,7 +727,7 @@
     "id": "TheBloke/dromedary-65b-lora-HF",
     "likes": 20,
     "private": false,
-    "downloads": 5754,
+    "downloads": 5827,
     "tags": [
       "transformers",
       "pytorch",
@@ -802,7 +802,7 @@
     "id": "TheBloke/h2ogpt-oasst1-512-30B-HF",
     "likes": 2,
     "private": false,
-    "downloads": 5735,
+    "downloads": 5810,
     "tags": [
       "transformers",
       "pytorch",
@@ -839,7 +839,7 @@
     "id": "TheBloke/gpt4-alpaca-lora_mlp-65B-HF",
     "likes": 7,
     "private": false,
-    "downloads": 6115,
+    "downloads": 6205,
     "tags": [
       "transformers",
       "pytorch",
@@ -895,9 +895,9 @@
   {
     "_id": "645f47cf6990e1208522b824",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
-    "likes": 257,
+    "likes": 258,
     "private": false,
-    "downloads": 20034,
+    "downloads": 22837,
     "tags": [
       "transformers",
       "safetensors",
@@ -920,7 +920,7 @@
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-HF",
     "likes": 200,
     "private": false,
-    "downloads": 6614,
+    "downloads": 6689,
     "tags": [
       "transformers",
       "pytorch",
@@ -964,7 +964,7 @@
     "id": "TheBloke/wizard-mega-13B-GPTQ",
     "likes": 102,
     "private": false,
-    "downloads": 5852,
+    "downloads": 5924,
     "tags": [
       "transformers",
       "safetensors",
@@ -1033,7 +1033,7 @@
     "id": "TheBloke/VicUnlocked-30B-LoRA-HF",
     "likes": 1,
     "private": false,
-    "downloads": 5793,
+    "downloads": 5864,
     "tags": [
       "transformers",
       "pytorch",
@@ -1054,7 +1054,7 @@
     "id": "TheBloke/LLaMa-7B-GGML",
     "likes": 56,
     "private": false,
-    "downloads": 525,
+    "downloads": 531,
     "tags": [
       "transformers",
       "llama",
@@ -1100,7 +1100,7 @@
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ",
     "likes": 111,
     "private": false,
-    "downloads": 13008,
+    "downloads": 15985,
     "tags": [
       "transformers",
       "safetensors",
@@ -1136,7 +1136,7 @@
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-HF",
     "likes": 19,
     "private": false,
-    "downloads": 6196,
+    "downloads": 6276,
     "tags": [
       "transformers",
       "pytorch",
@@ -39266,7 +39266,7 @@
   {
     "_id": "652bd2f960e7067305b18dee",
     "id": "TheBloke/llava-v1.5-13B-GPTQ",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 907,
     "tags": [
@@ -46466,8 +46466,80 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Thespis-13B-v0.6-GPTQ"
+  },
+  {
+    "_id": "654b77492bb88ac00d91af93",
+    "id": "TheBloke/Psyfighter-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Psyfighter-13B-GPTQ"
+  },
+  {
+    "_id": "654b774941a44321656b1165",
+    "id": "TheBloke/Psyfighter-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Psyfighter-13B-GGUF"
+  },
+  {
+    "_id": "654b7749d022fc77a16e3a20",
+    "id": "TheBloke/Psyfighter-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Psyfighter-13B-AWQ"
+  },
+  {
+    "_id": "654b77a0c5350429d61c5def",
+    "id": "TheBloke/LLaMA2-13B-TiefighterLR-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/LLaMA2-13B-TiefighterLR-GGUF"
+  },
+  {
+    "_id": "654b77a0f312f69939b2e27e",
+    "id": "TheBloke/LLaMA2-13B-TiefighterLR-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/LLaMA2-13B-TiefighterLR-AWQ"
   }
 ]
