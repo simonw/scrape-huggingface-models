@@ -384,7 +384,7 @@
   {
     "_id": "6448ceded16a70c0158ab35c",
     "id": "TheBloke/wizardLM-7B-HF",
-    "likes": 89,
+    "likes": 90,
     "private": false,
     "downloads": 8624,
     "tags": [
@@ -895,7 +895,7 @@
   {
     "_id": "645f47cf6990e1208522b824",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
-    "likes": 258,
+    "likes": 259,
     "private": false,
     "downloads": 22837,
     "tags": [
@@ -44736,7 +44736,7 @@
   {
     "_id": "6543cac6e9e8e72d2acd55c4",
     "id": "TheBloke/openchat_3.5-GGUF",
-    "likes": 61,
+    "likes": 62,
     "private": false,
     "downloads": 112,
     "tags": [
@@ -45177,7 +45177,7 @@
   {
     "_id": "6546a6d65cd5692b3ab16e09",
     "id": "TheBloke/Yi-34B-GGUF",
-    "likes": 38,
+    "likes": 39,
     "private": false,
     "downloads": 55,
     "tags": [
@@ -46538,8 +46538,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:ehartford/dolphin",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "dataset:ehartford/samantha-data",
+      "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/dolphin-2.2-70B-GPTQ"
   },
   {
