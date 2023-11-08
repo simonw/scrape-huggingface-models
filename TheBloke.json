@@ -37178,7 +37178,7 @@
   {
     "_id": "652653590aaab896facf71a0",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GGUF",
-    "likes": 81,
+    "likes": 82,
     "private": false,
     "downloads": 511,
     "tags": [
@@ -42059,7 +42059,7 @@
   {
     "_id": "6539729e913294ff66da124f",
     "id": "TheBloke/Dolphin-2.1-70B-AWQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 21,
     "tags": [
@@ -44105,7 +44105,7 @@
   {
     "_id": "65403e73ce1bab5053779897",
     "id": "TheBloke/dolphin-2.2.1-mistral-7B-AWQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 376,
     "tags": [
@@ -45512,8 +45512,7 @@
       "license:other",
       "text-generation-inference",
       "4-bit",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/deepseek-coder-6.7B-instruct-GPTQ"
