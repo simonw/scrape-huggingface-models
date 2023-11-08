@@ -18629,7 +18629,7 @@
   {
     "_id": "64f611cf6ad07ea81779ca15",
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
-    "likes": 88,
+    "likes": 89,
     "private": false,
     "downloads": 1138,
     "tags": [
@@ -20392,7 +20392,7 @@
   {
     "_id": "64f7c72a8a234f114e0fb07b",
     "id": "TheBloke/Chronos-70B-v2-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -21210,7 +21210,7 @@
   {
     "_id": "64fb1676b961d0d12c7fce3c",
     "id": "TheBloke/Chronos-Hermes-13b-v2-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 26,
     "tags": [
@@ -46421,5 +46421,38 @@
       "region:us"
     ],
     "modelId": "TheBloke/Dawn-v2-70B-GGUF"
+  },
+  {
+    "_id": "654b6b991508bf58465132cd",
+    "id": "TheBloke/Thespis-13B-v0.6-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Thespis-13B-v0.6-AWQ"
+  },
+  {
+    "_id": "654b6b993063ad8679fa54ef",
+    "id": "TheBloke/Thespis-13B-v0.6-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Thespis-13B-v0.6-GGUF"
+  },
+  {
+    "_id": "654b6b99b3eae6a0254b235e",
+    "id": "TheBloke/Thespis-13B-v0.6-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Thespis-13B-v0.6-GPTQ"
   }
 ]
