@@ -23,7 +23,7 @@
     "id": "TheBloke/koala-7B-HF",
     "likes": 18,
     "private": false,
-    "downloads": 5778,
+    "downloads": 5854,
     "tags": [
       "transformers",
       "pytorch",
@@ -48,7 +48,7 @@
     "id": "TheBloke/koala-13B-HF",
     "likes": 40,
     "private": false,
-    "downloads": 6035,
+    "downloads": 6200,
     "tags": [
       "transformers",
       "pytorch",
@@ -158,7 +158,7 @@
     "id": "TheBloke/Vicuna-13B-1.1-GPTQ",
     "likes": 207,
     "private": false,
-    "downloads": 212,
+    "downloads": 240,
     "tags": [
       "transformers",
       "llama",
@@ -176,7 +176,7 @@
     "id": "TheBloke/vicuna-7B-1.1-GPTQ",
     "likes": 58,
     "private": false,
-    "downloads": 223,
+    "downloads": 207,
     "tags": [
       "transformers",
       "llama",
@@ -193,7 +193,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-30b-HF",
     "likes": 10,
     "private": false,
-    "downloads": 5762,
+    "downloads": 5837,
     "tags": [
       "transformers",
       "pytorch",
@@ -218,7 +218,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-30B-GPTQ",
     "likes": 20,
     "private": false,
-    "downloads": 37,
+    "downloads": 35,
     "tags": [
       "transformers",
       "pytorch",
@@ -262,7 +262,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-13B-HF",
     "likes": 4,
     "private": false,
-    "downloads": 5759,
+    "downloads": 5836,
     "tags": [
       "transformers",
       "pytorch",
@@ -312,7 +312,7 @@
     "id": "TheBloke/alpaca-lora-65B-HF",
     "likes": 3,
     "private": false,
-    "downloads": 5745,
+    "downloads": 5821,
     "tags": [
       "transformers",
       "pytorch",
@@ -15372,7 +15372,7 @@
   {
     "_id": "64e78d117acd8971f2c6bbe6",
     "id": "TheBloke/CodeLlama-7B-GGUF",
-    "likes": 47,
+    "likes": 48,
     "private": false,
     "downloads": 190,
     "tags": [
@@ -33355,7 +33355,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 245,
+    "likes": 246,
     "private": false,
     "downloads": 5426,
     "tags": [
@@ -44736,7 +44736,7 @@
   {
     "_id": "6543cac6e9e8e72d2acd55c4",
     "id": "TheBloke/openchat_3.5-GGUF",
-    "likes": 59,
+    "likes": 60,
     "private": false,
     "downloads": 105,
     "tags": [
@@ -44933,7 +44933,7 @@
   {
     "_id": "65442601fc182f71e17d2f82",
     "id": "TheBloke/Yarn-Mistral-7B-128k-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 157,
     "tags": [
@@ -46429,8 +46429,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "pytorch",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Thespis-13B-v0.6-AWQ"
   },
   {
@@ -46440,6 +46450,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "not-for-all-audiences",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/Thespis-13B-v0.6-GGUF"
