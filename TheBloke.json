@@ -40115,7 +40115,7 @@
   {
     "_id": "652ee6a717d03c316f67823a",
     "id": "TheBloke/llemma_7b-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -45158,7 +45158,7 @@
   {
     "_id": "6546a6d649feb5082b4622e1",
     "id": "TheBloke/Yi-34B-GPTQ",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 172,
     "tags": [
@@ -46670,8 +46670,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "code",
+      "text-generation-inference",
+      "pretrained",
+      "en",
+      "license:apache-2.0",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/KAI-7B-beta-GPTQ"
   },
   {
@@ -46793,5 +46804,16 @@
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/opus-v0-7B-AWQ"
+  },
+  {
+    "_id": "654c499924d9d9a1a59c76ae",
+    "id": "TheBloke/KAI-7B-Instruct-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/KAI-7B-Instruct-GPTQ"
   }
 ]
