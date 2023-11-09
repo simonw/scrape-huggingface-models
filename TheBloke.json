@@ -41252,6 +41252,7 @@
       "en",
       "license:apache-2.0",
       "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
@@ -44132,7 +44133,7 @@
   {
     "_id": "65397910b6553f924e3bf4c4",
     "id": "TheBloke/SynthIA-70B-v1.5-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -44297,7 +44298,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 118,
+    "likes": 119,
     "private": false,
     "downloads": 746,
     "tags": [
@@ -48212,7 +48213,6 @@
     "downloads": 0,
     "tags": [
       "transformers",
-      "pytorch",
       "safetensors",
       "mistral",
       "text-generation",
@@ -48314,7 +48314,7 @@
   {
     "_id": "6548fe2791c3ee9ef6b39b31",
     "id": "TheBloke/openbuddy-zephyr-7B-v14.1-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 11,
     "tags": [
