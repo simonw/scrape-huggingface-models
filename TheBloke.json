@@ -39266,7 +39266,7 @@
   {
     "_id": "652bd2f960e7067305b18dee",
     "id": "TheBloke/llava-v1.5-13B-GPTQ",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 926,
     "tags": [
@@ -45252,7 +45252,7 @@
   {
     "_id": "6546bfe04d1931dc93eacb63",
     "id": "TheBloke/deepseek-coder-33B-instruct-GGUF",
-    "likes": 36,
+    "likes": 37,
     "private": false,
     "downloads": 17,
     "tags": [
@@ -46426,7 +46426,7 @@
   {
     "_id": "654b77492bb88ac00d91af93",
     "id": "TheBloke/Psyfighter-13B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -46812,8 +46812,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "finetuned",
+      "Instruct",
+      "code",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/KAI-7B-Instruct-GPTQ"
   }
 ]
