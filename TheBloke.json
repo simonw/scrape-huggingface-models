@@ -36963,7 +36963,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 126,
+    "likes": 127,
     "private": false,
     "downloads": 950,
     "tags": [
@@ -45521,7 +45521,7 @@
   {
     "_id": "65479565407bb19ff594d5bd",
     "id": "TheBloke/deepseek-coder-1.3b-instruct-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 11,
     "tags": [
@@ -46445,7 +46445,7 @@
   {
     "_id": "654b774941a44321656b1165",
     "id": "TheBloke/Psyfighter-13B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -46773,8 +46773,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "pytorch",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/opus-v0-7B-AWQ"
   }
 ]
