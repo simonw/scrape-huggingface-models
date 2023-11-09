@@ -429,7 +429,6 @@
     "downloads": 0,
     "tags": [
       "license:other",
-      "has_space",
       "region:us"
     ],
     "createdAt": "2023-04-26T07:16:54.000Z",
@@ -492,7 +491,6 @@
     "tags": [
       "arxiv:2302.13971",
       "license:other",
-      "has_space",
       "region:us"
     ],
     "createdAt": "2023-04-28T21:06:28.000Z",
@@ -516,7 +514,6 @@
       "dataset:tatsu-lab/alpaca",
       "arxiv:2302.13971",
       "license:cc-by-nc-sa-4.0",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -574,7 +571,6 @@
       "text-generation",
       "arxiv:2304.07327",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -1042,7 +1038,6 @@
     "downloads": 0,
     "tags": [
       "license:other",
-      "has_space",
       "region:us"
     ],
     "createdAt": "2023-05-15T21:33:57.000Z",
@@ -1114,7 +1109,6 @@
       "transformers",
       "llama",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -1717,7 +1711,6 @@
       "transformers",
       "llama",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -1736,7 +1729,6 @@
       "llama",
       "text-generation",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -1943,7 +1935,6 @@
     "tags": [
       "arxiv:2305.15334",
       "license:other",
-      "has_space",
       "region:us"
     ],
     "createdAt": "2023-05-28T01:14:16.000Z",
@@ -2045,7 +2036,6 @@
     "downloads": 0,
     "tags": [
       "license:other",
-      "has_space",
       "region:us"
     ],
     "createdAt": "2023-05-28T12:50:15.000Z",
@@ -2111,7 +2101,6 @@
       "text-generation",
       "en",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -2852,7 +2841,6 @@
     "downloads": 0,
     "tags": [
       "license:other",
-      "has_space",
       "region:us"
     ],
     "createdAt": "2023-06-06T10:24:04.000Z",
@@ -3480,7 +3468,6 @@
       "arxiv:2305.06161",
       "license:bigcode-openrail-m",
       "model-index",
-      "has_space",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
@@ -3956,7 +3943,6 @@
       "en",
       "dataset:ehartford/samantha-data",
       "license:other",
-      "has_space",
       "region:us"
     ],
     "createdAt": "2023-06-11T08:44:21.000Z",
@@ -4607,7 +4593,6 @@
       "dataset:WizardLM/WizardLM_evol_instruct_70k",
       "arxiv:2304.12244",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -4821,7 +4806,6 @@
       "arxiv:2302.13971",
       "arxiv:2306.05685",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -4840,7 +4824,6 @@
       "arxiv:2302.13971",
       "arxiv:2306.05685",
       "license:other",
-      "has_space",
       "region:us"
     ],
     "createdAt": "2023-06-18T19:52:31.000Z",
@@ -5250,7 +5233,6 @@
       "llama",
       "text-generation",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -5362,7 +5344,6 @@
       "arxiv:2205.14135",
       "arxiv:2108.12409",
       "license:cc-by-sa-3.0",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -5499,7 +5480,6 @@
       "en",
       "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
       "license:other",
-      "has_space",
       "region:us"
     ],
     "createdAt": "2023-06-24T11:34:19.000Z",
@@ -5723,7 +5703,6 @@
       "text-generation",
       "custom_code",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -5759,7 +5738,6 @@
       "text-generation",
       "custom_code",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -5843,7 +5821,6 @@
       "chatbot",
       "storywriting",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -6354,7 +6331,6 @@
       "text-generation",
       "custom_code",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -7116,7 +7092,6 @@
     "downloads": 0,
     "tags": [
       "license:other",
-      "has_space",
       "region:us"
     ],
     "createdAt": "2023-06-29T16:36:11.000Z",
@@ -7770,7 +7745,6 @@
       "text-generation",
       "en",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -7808,7 +7782,6 @@
       "arxiv:2306.02707",
       "arxiv:2304.12244",
       "license:cc-by-nc-sa-4.0",
-      "has_space",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
@@ -8337,7 +8310,6 @@
       "text-generation",
       "custom_code",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -8851,7 +8823,6 @@
       "text-generation",
       "custom_code",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -8926,7 +8897,6 @@
       "text-generation",
       "en",
       "license:other",
-      "has_space",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
@@ -9541,7 +9511,6 @@
       "en",
       "dataset:OpenAssistant/oasst1",
       "license:apache-2.0",
-      "has_space",
       "region:us"
     ],
     "createdAt": "2023-07-15T12:41:42.000Z",
@@ -10221,7 +10190,6 @@
       "transformers",
       "llama",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -10284,7 +10252,6 @@
       "text-classification",
       "en",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -10358,7 +10325,6 @@
       "text-classification",
       "en",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -10523,7 +10489,6 @@
       "manticore",
       "hippogriff",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -10906,7 +10871,6 @@
       "arxiv:2302.13971",
       "arxiv:2306.05685",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -11043,7 +11007,6 @@
       "en",
       "arxiv:2307.09288",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -11228,7 +11191,6 @@
       "dataset:atom-in-the-universe/fanfics-10k-50k",
       "arxiv:2306.02707",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -11693,7 +11655,6 @@
       "arxiv:2307.09288",
       "arxiv:2306.02707",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -11945,7 +11906,6 @@
       "llama",
       "dataset:jondurbin/airoboros-gpt4-2.0",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -11963,7 +11923,6 @@
       "llama",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -12355,7 +12314,6 @@
       "storywriting",
       "generalist-model",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -12396,7 +12354,6 @@
       "arxiv:2307.09288",
       "arxiv:2306.05685",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -12525,7 +12482,6 @@
       "arxiv:2307.09288",
       "arxiv:2306.05685",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -13056,7 +13012,6 @@
       "text-generation",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -13279,7 +13234,6 @@
       "fr",
       "dataset:OpenAssistant/oasst1",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -13803,7 +13757,6 @@
       "arxiv:2308.07317",
       "arxiv:2307.09288",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -14069,7 +14022,6 @@
       "llama",
       "en",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -14089,7 +14041,6 @@
       "text-generation",
       "en",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -14726,7 +14677,6 @@
       "transformers",
       "llama",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -15028,7 +14978,6 @@
       "llama",
       "text-generation",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -15130,7 +15079,6 @@
       "text-generation",
       "llama2",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -15247,7 +15195,6 @@
       "dataset:togethercomputer/llama-instruct",
       "arxiv:2307.03172",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -16073,7 +16020,6 @@
       "custom_code",
       "license:llama2",
       "endpoints_compatible",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -16097,7 +16043,6 @@
       "custom_code",
       "license:llama2",
       "endpoints_compatible",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -16345,7 +16290,6 @@
       "custom_code",
       "license:llama2",
       "endpoints_compatible",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -17520,7 +17464,6 @@
       "arxiv:2303.08774",
       "license:llama2",
       "model-index",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -17545,7 +17488,6 @@
       "arxiv:2303.08774",
       "license:llama2",
       "model-index",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -18981,7 +18923,6 @@
       "custom_code",
       "dataset:jondurbin/airoboros-2.1",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -19704,7 +19645,6 @@
       "llama",
       "text-generation",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -20036,7 +19976,6 @@
       "synthetic instruction",
       "en",
       "license:mit",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -21015,7 +20954,6 @@
       "arxiv:2306.02707",
       "arxiv:2301.13688",
       "license:cc-by-nc-4.0",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -21161,7 +21099,6 @@
       "dataset:jondurbin/airoboros-gpt4-1.4.1",
       "dataset:databricks/databricks-dolly-15k",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -21297,7 +21234,6 @@
       "dataset:jondurbin/airoboros-gpt4-1.4.1",
       "dataset:databricks/databricks-dolly-15k",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -21379,7 +21315,6 @@
       "arxiv:2307.09288",
       "arxiv:2306.02707",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -21586,7 +21521,6 @@
       "transformers",
       "llama",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -21795,7 +21729,6 @@
       "llama",
       "text-generation",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -21843,7 +21776,6 @@
       "arxiv:2205.14135",
       "arxiv:2306.01116",
       "license:unknown",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -21988,7 +21920,6 @@
       "arxiv:2205.14135",
       "arxiv:2306.01116",
       "license:unknown",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -22376,7 +22307,6 @@
       "llama",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -22451,7 +22381,6 @@
       "llama",
       "text-generation",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -22564,7 +22493,6 @@
       "en",
       "arxiv:2306.02707",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -22623,7 +22551,6 @@
       "en",
       "arxiv:2306.02707",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -22646,7 +22573,6 @@
       "not-for-all-audiences",
       "dataset:jondurbin/airoboros-2.2",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -22877,7 +22803,6 @@
       "llama",
       "text-generation",
       "license:cc-by-nc-4.0",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -22934,7 +22859,6 @@
       "not-for-all-audiences",
       "nsfw",
       "license:cc-by-nc-4.0",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -23115,7 +23039,6 @@
       "en",
       "dataset:Open-Orca/OpenOrca",
       "license:cc-by-nc-4.0",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -23136,7 +23059,6 @@
       "llama",
       "text-generation",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -23289,7 +23211,6 @@
       "text-generation",
       "dataset:jondurbin/airoboros-2.2",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -23311,7 +23232,6 @@
       "text-generation",
       "dataset:jondurbin/airoboros-2.2",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -26851,7 +26771,6 @@
       "text-generation",
       "en",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -27222,7 +27141,6 @@
       "dataset:jondurbin/airoboros-gpt4-1.4.1",
       "dataset:databricks/databricks-dolly-15k",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -27250,7 +27168,6 @@
       "dataset:jondurbin/airoboros-gpt4-1.4.1",
       "dataset:databricks/databricks-dolly-15k",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -28937,7 +28854,6 @@
       "not-for-all-audiences",
       "nsfw",
       "license:cc-by-nc-4.0",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -31298,7 +31214,6 @@
       "arxiv:2306.08568",
       "arxiv:2308.09583",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -37021,7 +36936,6 @@
       "arxiv:2306.02707",
       "arxiv:2301.13688",
       "license:apache-2.0",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -37040,7 +36954,6 @@
       "transformers",
       "llama",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -37963,7 +37876,6 @@
       "en",
       "dataset:CollectiveCognition/chats-data-2023-09-27",
       "license:apache-2.0",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -38103,7 +38015,6 @@
       "transformers",
       "llama",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -38853,7 +38764,6 @@
       "dataset:openbmb/UltraFeedback",
       "arxiv:2305.18290",
       "license:mit",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -38900,7 +38810,6 @@
       "dataset:openbmb/UltraFeedback",
       "arxiv:2305.18290",
       "license:mit",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -39913,7 +39822,6 @@
       "distillation",
       "en",
       "license:apache-2.0",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -44427,7 +44335,6 @@
       "arxiv:2305.18290",
       "arxiv:2310.16944",
       "license:mit",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -47174,7 +47081,7 @@
   {
     "_id": "654418242996405c238f5eea",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
-    "likes": 50,
+    "likes": 51,
     "private": false,
     "downloads": 53,
     "tags": [
@@ -48774,7 +48681,7 @@
   {
     "_id": "654aa5dcc70ba116b1258f72",
     "id": "TheBloke/Dawn-v2-70B-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -49111,7 +49018,7 @@
   {
     "_id": "654c31f7f88537326082384b",
     "id": "TheBloke/opus-v0-7B-GGUF",
-    "likes": 1,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
