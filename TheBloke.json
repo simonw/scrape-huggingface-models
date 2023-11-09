@@ -27731,7 +27731,7 @@
   {
     "_id": "650994c14882fab5c4ab4121",
     "id": "TheBloke/Speechless-Llama2-13B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -37232,7 +37232,8 @@
       "dataset:jondurbin/airoboros-2.2.1",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/dolphin-2.1-mistral-7B-AWQ"
@@ -46113,7 +46114,7 @@
   {
     "_id": "6549197d06bdec08228a35c2",
     "id": "TheBloke/Barcenas-Mistral-7B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -46585,5 +46586,63 @@
       "region:us"
     ],
     "modelId": "TheBloke/dolphin-2.2-70B-GGUF"
+  },
+  {
+    "_id": "654c1e8f2582031dceb4922c",
+    "id": "TheBloke/Yi-34B-GiftedConvo-merged-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Yi-34B-GiftedConvo-merged-AWQ"
+  },
+  {
+    "_id": "654c1e8facfb5e4a81db34e0",
+    "id": "TheBloke/Yi-34B-GiftedConvo-merged-GGUF",
+    "likes": 2,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "dataset:NobodyExistsOnTheInternet/GiftedConvoBeforeEcons",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "modelId": "TheBloke/Yi-34B-GiftedConvo-merged-GGUF"
+  },
+  {
+    "_id": "654c1e8fe06d25def5870c75",
+    "id": "TheBloke/Yi-34B-GiftedConvo-merged-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/Yi-34B-GiftedConvo-merged-GPTQ"
+  },
+  {
+    "_id": "654c243a48b47412026b0fec",
+    "id": "TheBloke/KAI-7B-beta-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "code",
+      "text-generation-inference",
+      "pretrained",
+      "text-generation",
+      "en",
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/KAI-7B-beta-GGUF"
   }
 ]
