@@ -26761,7 +26761,7 @@
   {
     "_id": "65093f04905c78a96a2b9642",
     "id": "TheBloke/MythoMax-L2-13B-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 3086,
     "tags": [
@@ -27124,7 +27124,7 @@
   {
     "_id": "65094cce69739cd31019ab5f",
     "id": "TheBloke/Mythalion-13B-AWQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 3436,
     "tags": [
@@ -38999,7 +38999,7 @@
   {
     "_id": "652653590aaab896facf71a0",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GGUF",
-    "likes": 82,
+    "likes": 83,
     "private": false,
     "downloads": 537,
     "tags": [
@@ -49124,12 +49124,22 @@
   {
     "_id": "654cd5c85a6b87595e437c9b",
     "id": "TheBloke/goliath-120b-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "conversational",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "conversational",
     "createdAt": "2023-11-09T12:51:20.000Z",
     "modelId": "TheBloke/goliath-120b-AWQ"
   },
