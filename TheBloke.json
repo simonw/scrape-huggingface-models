@@ -2060,7 +2060,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 412,
+    "likes": 413,
     "private": false,
     "downloads": 19371,
     "tags": [
@@ -11500,7 +11500,7 @@
   {
     "_id": "64c967715381684d3eba5295",
     "id": "TheBloke/NewHope-GGML",
-    "likes": 37,
+    "likes": 38,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -36847,7 +36847,8 @@
       "text-generation",
       "en",
       "license:other",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "modelId": "TheBloke/sqlcoder2-GGUF"
