@@ -44755,7 +44755,7 @@
   {
     "_id": "6543cda9998b3248a1fedce8",
     "id": "TheBloke/Yarn-Mistral-7B-128k-GGUF",
-    "likes": 78,
+    "likes": 79,
     "private": false,
     "downloads": 149,
     "tags": [
@@ -44774,7 +44774,7 @@
   {
     "_id": "6543d0d65b5d9185ba107c8b",
     "id": "TheBloke/Yarn-Mistral-7B-64k-GGUF",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 157,
     "tags": [
@@ -46589,18 +46589,28 @@
   {
     "_id": "654c1e8f2582031dceb4922c",
     "id": "TheBloke/Yi-34B-GiftedConvo-merged-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "pytorch",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:NobodyExistsOnTheInternet/GiftedConvoBeforeEcons",
+      "license:mit",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Yi-34B-GiftedConvo-merged-AWQ"
   },
   {
     "_id": "654c1e8facfb5e4a81db34e0",
     "id": "TheBloke/Yi-34B-GiftedConvo-merged-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -46627,7 +46637,7 @@
   {
     "_id": "654c243a48b47412026b0fec",
     "id": "TheBloke/KAI-7B-beta-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -46662,8 +46672,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "pytorch",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "code",
+      "text-generation-inference",
+      "pretrained",
+      "en",
+      "license:apache-2.0",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/KAI-7B-beta-AWQ"
   },
   {
@@ -46673,8 +46695,43 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "mistral",
+      "finetuned",
+      "Instruct",
+      "code",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
     "modelId": "TheBloke/KAI-7B-Instruct-GGUF"
+  },
+  {
+    "_id": "654c31f7f88537326082384b",
+    "id": "TheBloke/opus-v0-7B-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "text-generation",
+      "en",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "modelId": "TheBloke/opus-v0-7B-GGUF"
+  },
+  {
+    "_id": "654c33301d813c433a09cbd9",
+    "id": "TheBloke/KAI-7B-Instruct-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/KAI-7B-Instruct-AWQ"
   }
 ]
