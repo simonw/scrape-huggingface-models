@@ -4240,7 +4240,7 @@
   {
     "_id": "6489e9bf1fbaba5ea28c5183",
     "id": "TheBloke/WizardCoder-15B-1.0-GGML",
-    "likes": 111,
+    "likes": 112,
     "private": false,
     "downloads": 30,
     "tags": [
@@ -9625,7 +9625,7 @@
   {
     "_id": "64b2d78ed52d67c01cd2ce07",
     "id": "TheBloke/LLaMa-30B-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 195,
     "tags": [
@@ -49247,7 +49247,7 @@
   {
     "_id": "654c1e8facfb5e4a81db34e0",
     "id": "TheBloke/Yi-34B-GiftedConvo-merged-GGUF",
-    "likes": 6,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -49598,7 +49598,7 @@
   {
     "_id": "654d43eecf8aa735d8341031",
     "id": "TheBloke/MonadGPT-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -49623,8 +49623,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "conversational",
+      "en",
+      "fr",
+      "la",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "conversational",
     "createdAt": "2023-11-09T21:20:49.000Z",
     "modelId": "TheBloke/MonadGPT-GPTQ"
   },
@@ -49639,5 +49651,17 @@
     ],
     "createdAt": "2023-11-09T21:36:24.000Z",
     "modelId": "TheBloke/dolphin-2.2-70B-AWQ"
+  },
+  {
+    "_id": "654d53ddca2f3d2025811703",
+    "id": "TheBloke/Dolphin2.1-OpenOrca-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-09T21:49:17.000Z",
+    "modelId": "TheBloke/Dolphin2.1-OpenOrca-7B-GPTQ"
   }
 ]
