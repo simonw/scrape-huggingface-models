@@ -19539,7 +19539,7 @@
   {
     "_id": "64f611cf6ad07ea81779ca15",
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
-    "likes": 91,
+    "likes": 92,
     "private": false,
     "downloads": 1175,
     "tags": [
@@ -48709,7 +48709,7 @@
   {
     "_id": "6548fe27c6cd77f0a7cc1dc0",
     "id": "TheBloke/openbuddy-zephyr-7B-v14.1-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -49524,5 +49524,41 @@
     ],
     "createdAt": "2023-11-09T13:14:55.000Z",
     "modelId": "TheBloke/goliath-120b-GPTQ"
+  },
+  {
+    "_id": "654d37b8023b93ef6a0be4ee",
+    "id": "TheBloke/Dolphin2.1-OpenOrca-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-09T19:49:12.000Z",
+    "modelId": "TheBloke/Dolphin2.1-OpenOrca-7B-AWQ"
+  },
+  {
+    "_id": "654d37b8e113b04ba5a876f0",
+    "id": "TheBloke/Dolphin2.1-OpenOrca-7B-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-09T19:49:12.000Z",
+    "modelId": "TheBloke/Dolphin2.1-OpenOrca-7B-GGUF"
   }
 ]
