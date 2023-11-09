@@ -18606,7 +18606,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7B-Chat-GGUF",
-    "likes": 130,
+    "likes": 131,
     "private": false,
     "downloads": 4240,
     "tags": [
@@ -42284,7 +42284,7 @@
   {
     "_id": "653bb81bea8b6b5fe3a67097",
     "id": "TheBloke/zephyr-7B-beta-AWQ",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 2404,
     "tags": [
@@ -44736,7 +44736,7 @@
   {
     "_id": "6543cac6e9e8e72d2acd55c4",
     "id": "TheBloke/openchat_3.5-GGUF",
-    "likes": 63,
+    "likes": 64,
     "private": false,
     "downloads": 112,
     "tags": [
@@ -46630,8 +46630,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:NobodyExistsOnTheInternet/GiftedConvoBeforeEcons",
+      "license:mit",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/Yi-34B-GiftedConvo-merged-GPTQ"
   },
   {
@@ -46730,8 +46739,42 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "pytorch",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "finetuned",
+      "Instruct",
+      "code",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "modelId": "TheBloke/KAI-7B-Instruct-AWQ"
+  },
+  {
+    "_id": "654c3bd77824e2bb58e6a136",
+    "id": "TheBloke/opus-v0-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/opus-v0-7B-GPTQ"
+  },
+  {
+    "_id": "654c3bd7f88537326083a4c1",
+    "id": "TheBloke/opus-v0-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "modelId": "TheBloke/opus-v0-7B-AWQ"
   }
 ]
