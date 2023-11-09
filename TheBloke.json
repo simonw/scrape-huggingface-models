@@ -1150,7 +1150,7 @@
   {
     "_id": "6465d98b9c627c78f8629e5d",
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ",
-    "likes": 111,
+    "likes": 112,
     "private": false,
     "downloads": 17629,
     "tags": [
@@ -9997,7 +9997,7 @@
   {
     "_id": "64b6e916e16424ef9e032a2f",
     "id": "TheBloke/Llama-2-13B-Chat-fp16",
-    "likes": 59,
+    "likes": 60,
     "private": false,
     "downloads": 2821,
     "tags": [
@@ -23350,7 +23350,7 @@
   {
     "_id": "65009a7705374ef773657936",
     "id": "TheBloke/Llama-2-13B-Ensemble-v6-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 166,
     "tags": [
@@ -35007,7 +35007,7 @@
   {
     "_id": "65140cda51c0141fa86b7d8b",
     "id": "TheBloke/U-Amethyst-20B-GGUF",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 50,
     "tags": [
@@ -39062,7 +39062,7 @@
   {
     "_id": "6526233fb5cccc82eab67931",
     "id": "TheBloke/TinyLlama-1.1B-1T-OpenOrca-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 79,
     "tags": [
@@ -43322,7 +43322,7 @@
   {
     "_id": "6532ff883e385cfc601254ad",
     "id": "TheBloke/CodeBooga-34B-v0.1-GGUF",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -49659,9 +49659,69 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-09T21:49:17.000Z",
     "modelId": "TheBloke/Dolphin2.1-OpenOrca-7B-GPTQ"
+  },
+  {
+    "_id": "654d58d50351be57075416d3",
+    "id": "TheBloke/Trion-M-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "Mistral",
+      "en",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-09T22:10:29.000Z",
+    "modelId": "TheBloke/Trion-M-7B-GGUF"
+  },
+  {
+    "_id": "654d58d518c4ae0b40255e0d",
+    "id": "TheBloke/Trion-M-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "Mistral",
+      "en",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-09T22:10:29.000Z",
+    "modelId": "TheBloke/Trion-M-7B-AWQ"
+  },
+  {
+    "_id": "654d5ab01a8f98e793808532",
+    "id": "TheBloke/Trion-M-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-09T22:18:24.000Z",
+    "modelId": "TheBloke/Trion-M-7B-GPTQ"
   }
 ]
