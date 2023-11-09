@@ -2159,7 +2159,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 416,
+    "likes": 415,
     "private": false,
     "downloads": 20239,
     "tags": [
@@ -24375,7 +24375,7 @@
   {
     "_id": "6505bf7a383b7e031f85c414",
     "id": "TheBloke/WizardCoder-Python-7B-V1.0-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 17,
     "tags": [
@@ -47293,7 +47293,7 @@
   {
     "_id": "6543cac6e9e8e72d2acd55c4",
     "id": "TheBloke/openchat_3.5-GGUF",
-    "likes": 66,
+    "likes": 67,
     "private": false,
     "downloads": 155,
     "tags": [
@@ -47762,7 +47762,7 @@
   {
     "_id": "6546a6d65cd5692b3ab16e09",
     "id": "TheBloke/Yi-34B-GGUF",
-    "likes": 41,
+    "likes": 42,
     "private": false,
     "downloads": 57,
     "tags": [
@@ -48833,7 +48833,7 @@
   {
     "_id": "654a33f85cc8b44229f6a711",
     "id": "TheBloke/TinyLlama-1.1B-intermediate-step-715k-1.5T-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -49371,7 +49371,7 @@
   {
     "_id": "654c31f7f88537326082384b",
     "id": "TheBloke/opus-v0-7B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -49520,9 +49520,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "safetensors",
+      "llama",
+      "text-generation",
+      "conversational",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "conversational",
     "createdAt": "2023-11-09T13:14:55.000Z",
     "modelId": "TheBloke/goliath-120b-GPTQ"
   },
@@ -49606,5 +49615,29 @@
     "pipeline_tag": "conversational",
     "createdAt": "2023-11-09T20:41:18.000Z",
     "modelId": "TheBloke/MonadGPT-GGUF"
+  },
+  {
+    "_id": "654d4d31761c998a5b7656be",
+    "id": "TheBloke/MonadGPT-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-09T21:20:49.000Z",
+    "modelId": "TheBloke/MonadGPT-GPTQ"
+  },
+  {
+    "_id": "654d50d8f0f19507024cc363",
+    "id": "TheBloke/dolphin-2.2-70B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-09T21:36:24.000Z",
+    "modelId": "TheBloke/dolphin-2.2-70B-AWQ"
   }
 ]
