@@ -41546,9 +41546,9 @@
       "mistral",
       "dataset:jondurbin/airoboros-3.1",
       "license:apache-2.0",
-      "has_space",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "createdAt": "2023-10-15T18:12:13.000Z",
     "modelId": "TheBloke/Airoboros-M-7B-3.1-GGUF"
@@ -43738,7 +43738,7 @@
   {
     "_id": "6534e9dfc7530aa27fbaa288",
     "id": "TheBloke/LLaMA2-13B-Tiefighter-AWQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 2965,
     "tags": [
@@ -49719,8 +49719,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "Mistral",
+      "en",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-09T22:18:24.000Z",
     "modelId": "TheBloke/Trion-M-7B-GPTQ"
   }
