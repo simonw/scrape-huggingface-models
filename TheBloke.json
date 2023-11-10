@@ -1059,7 +1059,7 @@
   {
     "_id": "6464b53b06cd98685a9fd280",
     "id": "TheBloke/VicUnlocked-30B-LoRA-GPTQ",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -16950,7 +16950,7 @@
   {
     "_id": "64e9e5316b9db55517b1d2a9",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GGUF",
-    "likes": 70,
+    "likes": 71,
     "private": false,
     "downloads": 51,
     "tags": [
@@ -17497,7 +17497,7 @@
   {
     "_id": "64eb8c012beaa8c4106ee91f",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GGUF",
-    "likes": 34,
+    "likes": 35,
     "private": false,
     "downloads": 90,
     "tags": [
@@ -35425,7 +35425,7 @@
   {
     "_id": "65154be629f25f659b62781b",
     "id": "TheBloke/Emerhyst-20B-AWQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 638,
     "tags": [
@@ -43322,7 +43322,7 @@
   {
     "_id": "6532ff883e385cfc601254ad",
     "id": "TheBloke/CodeBooga-34B-v0.1-GGUF",
-    "likes": 18,
+    "likes": 19,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -49647,8 +49647,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:ehartford/dolphin",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "dataset:ehartford/samantha-data",
+      "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-09T21:36:24.000Z",
     "modelId": "TheBloke/dolphin-2.2-70B-AWQ"
   },
