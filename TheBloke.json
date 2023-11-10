@@ -9947,7 +9947,7 @@
   {
     "_id": "64b6d9d4bb1d8f2832c8be93",
     "id": "TheBloke/Llama-2-13B-chat-GPTQ",
-    "likes": 299,
+    "likes": 300,
     "private": false,
     "downloads": 90607,
     "tags": [
@@ -43993,7 +43993,7 @@
   {
     "_id": "6535524bc7530aa27fc5a3d5",
     "id": "TheBloke/CausalLM-7B-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 38,
     "tags": [
@@ -49747,5 +49747,46 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-09T22:18:24.000Z",
     "modelId": "TheBloke/Trion-M-7B-GPTQ"
+  },
+  {
+    "_id": "654de3d071a30c4bca18febf",
+    "id": "TheBloke/dolphin-2.2.1-AshhLimaRP-Mistral-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-10T08:03:28.000Z",
+    "modelId": "TheBloke/dolphin-2.2.1-AshhLimaRP-Mistral-7B-GPTQ"
+  },
+  {
+    "_id": "654de3d07ce4e850a757c514",
+    "id": "TheBloke/dolphin-2.2.1-AshhLimaRP-Mistral-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-10T08:03:28.000Z",
+    "modelId": "TheBloke/dolphin-2.2.1-AshhLimaRP-Mistral-7B-AWQ"
+  },
+  {
+    "_id": "654de3d0ca2f3d2025993659",
+    "id": "TheBloke/dolphin-2.2.1-AshhLimaRP-Mistral-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "not-for-all-audiences",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-10T08:03:28.000Z",
+    "modelId": "TheBloke/dolphin-2.2.1-AshhLimaRP-Mistral-7B-GGUF"
   }
 ]
