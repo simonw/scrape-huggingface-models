@@ -49497,7 +49497,7 @@
   {
     "_id": "654cd5c878c68b6d4c71df7c",
     "id": "TheBloke/goliath-120b-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 70,
     "tags": [
@@ -50085,8 +50085,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "Yi",
+      "text-generation",
+      "custom_code",
+      "license:other",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-10T18:18:36.000Z",
     "modelId": "TheBloke/Yi-34B-200K-AWQ"
   },
@@ -50133,8 +50141,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "text2text-generation",
+      "en",
+      "dataset:kaist-ai/Feedback-Collection",
+      "arxiv:2310.08491",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text2text-generation",
     "createdAt": "2023-11-10T18:56:09.000Z",
     "modelId": "TheBloke/prometheus-7B-v1.0-AWQ"
   },
@@ -50145,8 +50165,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "text2text-generation",
+      "en",
+      "dataset:kaist-ai/Feedback-Collection",
+      "arxiv:2310.08491",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text2text-generation",
     "createdAt": "2023-11-10T18:56:09.000Z",
     "modelId": "TheBloke/prometheus-7B-v1.0-GPTQ"
   }
