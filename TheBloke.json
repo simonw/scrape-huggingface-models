@@ -2159,7 +2159,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 415,
+    "likes": 416,
     "private": false,
     "downloads": 20214,
     "tags": [
@@ -20398,7 +20398,7 @@
   {
     "_id": "64f73e14fec395872ffecb01",
     "id": "TheBloke/qCammel-13-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -44621,7 +44621,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 121,
+    "likes": 122,
     "private": false,
     "downloads": 803,
     "tags": [
@@ -49180,7 +49180,7 @@
   {
     "_id": "654b921f15149d4fd6953382",
     "id": "TheBloke/dolphin-2.2-70B-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -49854,7 +49854,7 @@
   {
     "_id": "654dfc95f0f195070267c534",
     "id": "TheBloke/claude2-alpaca-13B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -49974,7 +49974,7 @@
   {
     "_id": "654e151b85a5e6080585c5bf",
     "id": "TheBloke/Yi-6B-GGUF",
-    "likes": 0,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -50116,7 +50116,7 @@
   {
     "_id": "654e7cc977c8ec680d1515e8",
     "id": "TheBloke/prometheus-7B-v1.0-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -50189,8 +50189,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "Yi",
+      "text-generation",
+      "custom_code",
+      "license:other",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-10T19:49:51.000Z",
     "modelId": "TheBloke/Yi-34B-200K-GPTQ"
   },
@@ -50217,7 +50225,7 @@
   {
     "_id": "654e983a5da3196a7840a1ea",
     "id": "TheBloke/Yi-6B-200K-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -50228,5 +50236,17 @@
     ],
     "createdAt": "2023-11-10T20:53:14.000Z",
     "modelId": "TheBloke/Yi-6B-200K-GGUF"
+  },
+  {
+    "_id": "654eb74a19c62ea90ffbd756",
+    "id": "TheBloke/Yi-6B-200K-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-10T23:05:46.000Z",
+    "modelId": "TheBloke/Yi-6B-200K-GPTQ"
   }
 ]
