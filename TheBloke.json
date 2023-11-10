@@ -47762,7 +47762,7 @@
   {
     "_id": "6546a6d65cd5692b3ab16e09",
     "id": "TheBloke/Yi-34B-GGUF",
-    "likes": 43,
+    "likes": 44,
     "private": false,
     "downloads": 57,
     "tags": [
@@ -47841,7 +47841,7 @@
   {
     "_id": "6546bfe04d1931dc93eacb63",
     "id": "TheBloke/deepseek-coder-33B-instruct-GGUF",
-    "likes": 38,
+    "likes": 39,
     "private": false,
     "downloads": 20,
     "tags": [
@@ -49806,5 +49806,47 @@
     ],
     "createdAt": "2023-11-10T08:03:28.000Z",
     "modelId": "TheBloke/dolphin-2.2.1-AshhLimaRP-Mistral-7B-GGUF"
+  },
+  {
+    "_id": "654dfc951a8f98e793999493",
+    "id": "TheBloke/claude2-alpaca-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-10T09:49:09.000Z",
+    "modelId": "TheBloke/claude2-alpaca-13B-AWQ"
+  },
+  {
+    "_id": "654dfc95921f4f1ff4cc3e1f",
+    "id": "TheBloke/claude2-alpaca-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-10T09:49:09.000Z",
+    "modelId": "TheBloke/claude2-alpaca-13B-GPTQ"
+  },
+  {
+    "_id": "654dfc95f0f195070267c534",
+    "id": "TheBloke/claude2-alpaca-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:umd-zhou-lab/claude2_alpaca",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-10T09:49:09.000Z",
+    "modelId": "TheBloke/claude2-alpaca-13B-GGUF"
   }
 ]
