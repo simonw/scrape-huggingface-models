@@ -4,7 +4,7 @@
     "id": "TheBloke/koala-7B-GPTQ",
     "likes": 31,
     "private": false,
-    "downloads": 45,
+    "downloads": 49,
     "tags": [
       "transformers",
       "safetensors",
@@ -24,7 +24,7 @@
     "id": "TheBloke/koala-7B-HF",
     "likes": 18,
     "private": false,
-    "downloads": 5880,
+    "downloads": 5875,
     "tags": [
       "transformers",
       "pytorch",
@@ -50,7 +50,7 @@
     "id": "TheBloke/koala-13B-HF",
     "likes": 40,
     "private": false,
-    "downloads": 6232,
+    "downloads": 6221,
     "tags": [
       "transformers",
       "pytorch",
@@ -166,7 +166,7 @@
     "id": "TheBloke/Vicuna-13B-1.1-GPTQ",
     "likes": 207,
     "private": false,
-    "downloads": 290,
+    "downloads": 343,
     "tags": [
       "transformers",
       "llama",
@@ -185,7 +185,7 @@
     "id": "TheBloke/vicuna-7B-1.1-GPTQ",
     "likes": 58,
     "private": false,
-    "downloads": 255,
+    "downloads": 285,
     "tags": [
       "transformers",
       "llama",
@@ -203,7 +203,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-30b-HF",
     "likes": 10,
     "private": false,
-    "downloads": 5866,
+    "downloads": 5850,
     "tags": [
       "transformers",
       "pytorch",
@@ -12626,7 +12626,7 @@
   {
     "_id": "64cbe710e3cc4a476d801926",
     "id": "TheBloke/llama2_70b_chat_uncensored-GPTQ",
-    "likes": 51,
+    "likes": 52,
     "private": false,
     "downloads": 872,
     "tags": [
@@ -38868,7 +38868,7 @@
   {
     "_id": "65252a6b9e4a6675fe888d34",
     "id": "TheBloke/em_german_leo_mistral-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 62,
     "tags": [
@@ -49832,7 +49832,7 @@
   {
     "_id": "654dfc95921f4f1ff4cc3e1f",
     "id": "TheBloke/claude2-alpaca-13B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -49930,5 +49930,41 @@
     ],
     "createdAt": "2023-11-10T10:42:03.000Z",
     "modelId": "TheBloke/claude2-alpaca-7B-GGUF"
+  },
+  {
+    "_id": "654e151b0f3c5aaa34d2dba1",
+    "id": "TheBloke/Yi-6B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-10T11:33:47.000Z",
+    "modelId": "TheBloke/Yi-6B-GPTQ"
+  },
+  {
+    "_id": "654e151b1a60f8c83c1d8f51",
+    "id": "TheBloke/Yi-6B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-10T11:33:47.000Z",
+    "modelId": "TheBloke/Yi-6B-AWQ"
+  },
+  {
+    "_id": "654e151b85a5e6080585c5bf",
+    "id": "TheBloke/Yi-6B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-10T11:33:47.000Z",
+    "modelId": "TheBloke/Yi-6B-GGUF"
   }
 ]
