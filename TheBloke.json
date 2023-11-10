@@ -50028,8 +50028,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "text2text-generation",
+      "en",
+      "dataset:kaist-ai/Feedback-Collection",
+      "arxiv:2310.08491",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text2text-generation",
     "createdAt": "2023-11-10T18:08:26.000Z",
     "modelId": "TheBloke/prometheus-13B-v1.0-GGUF"
   },
@@ -50040,9 +50049,48 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "text2text-generation",
+      "en",
+      "dataset:kaist-ai/Feedback-Collection",
+      "arxiv:2310.08491",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text2text-generation",
     "createdAt": "2023-11-10T18:08:26.000Z",
     "modelId": "TheBloke/prometheus-13B-v1.0-AWQ"
+  },
+  {
+    "_id": "654e73fc1a60f8c83c2de22a",
+    "id": "TheBloke/Yi-34B-200K-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-10T18:18:36.000Z",
+    "modelId": "TheBloke/Yi-34B-200K-AWQ"
+  },
+  {
+    "_id": "654e73fc81b4be3df2634186",
+    "id": "TheBloke/Yi-34B-200K-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "yi",
+      "license:other",
+      "region:us"
+    ],
+    "createdAt": "2023-11-10T18:18:36.000Z",
+    "modelId": "TheBloke/Yi-34B-200K-GGUF"
   }
 ]
