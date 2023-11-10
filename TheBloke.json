@@ -48111,7 +48111,7 @@
   {
     "_id": "65476ad9e49bd8d58e61263c",
     "id": "TheBloke/deepseek-coder-6.7B-instruct-GPTQ",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 157,
     "tags": [
@@ -49755,8 +49755,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "not-for-all-audiences",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-10T08:03:28.000Z",
     "modelId": "TheBloke/dolphin-2.2.1-AshhLimaRP-Mistral-7B-GPTQ"
   },
@@ -49767,8 +49776,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "not-for-all-audiences",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-10T08:03:28.000Z",
     "modelId": "TheBloke/dolphin-2.2.1-AshhLimaRP-Mistral-7B-AWQ"
   },
