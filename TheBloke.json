@@ -47424,7 +47424,7 @@
   {
     "_id": "65441824276a59f143ebfe1e",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-AWQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 503,
     "tags": [
@@ -47475,7 +47475,7 @@
   {
     "_id": "6544182490538a2742671abe",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GPTQ",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 684,
     "tags": [
@@ -50016,8 +50016,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "text2text-generation",
+      "en",
+      "dataset:kaist-ai/Feedback-Collection",
+      "arxiv:2310.08491",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text2text-generation",
     "createdAt": "2023-11-10T18:08:26.000Z",
     "modelId": "TheBloke/prometheus-13B-v1.0-GPTQ"
   },
@@ -50081,7 +50093,7 @@
   {
     "_id": "654e73fc81b4be3df2634186",
     "id": "TheBloke/Yi-34B-200K-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -50092,5 +50104,50 @@
     ],
     "createdAt": "2023-11-10T18:18:36.000Z",
     "modelId": "TheBloke/Yi-34B-200K-GGUF"
+  },
+  {
+    "_id": "654e7cc977c8ec680d1515e8",
+    "id": "TheBloke/prometheus-7B-v1.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "text2text-generation",
+      "en",
+      "dataset:kaist-ai/Feedback-Collection",
+      "arxiv:2310.08491",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text2text-generation",
+    "createdAt": "2023-11-10T18:56:09.000Z",
+    "modelId": "TheBloke/prometheus-7B-v1.0-GGUF"
+  },
+  {
+    "_id": "654e7cc9c66f41a9920e603e",
+    "id": "TheBloke/prometheus-7B-v1.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-10T18:56:09.000Z",
+    "modelId": "TheBloke/prometheus-7B-v1.0-AWQ"
+  },
+  {
+    "_id": "654e7cc9d423b4e0ef91062b",
+    "id": "TheBloke/prometheus-7B-v1.0-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-10T18:56:09.000Z",
+    "modelId": "TheBloke/prometheus-7B-v1.0-GPTQ"
   }
 ]
