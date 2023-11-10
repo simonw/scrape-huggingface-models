@@ -2328,7 +2328,7 @@
   {
     "_id": "6478d3a425e06d2ffe89e05a",
     "id": "TheBloke/WizardLM-Uncensored-Falcon-7B-GPTQ",
-    "likes": 46,
+    "likes": 47,
     "private": false,
     "downloads": 43929,
     "tags": [
@@ -19539,7 +19539,7 @@
   {
     "_id": "64f611cf6ad07ea81779ca15",
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
-    "likes": 92,
+    "likes": 93,
     "private": false,
     "downloads": 1168,
     "tags": [
@@ -43738,7 +43738,7 @@
   {
     "_id": "6534e9dfc7530aa27fbaa288",
     "id": "TheBloke/LLaMA2-13B-Tiefighter-AWQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 3202,
     "tags": [
@@ -44621,7 +44621,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 120,
+    "likes": 121,
     "private": false,
     "downloads": 803,
     "tags": [
@@ -49497,7 +49497,7 @@
   {
     "_id": "654cd5c878c68b6d4c71df7c",
     "id": "TheBloke/goliath-120b-GGUF",
-    "likes": 5,
+    "likes": 4,
     "private": false,
     "downloads": 70,
     "tags": [
@@ -50081,7 +50081,7 @@
   {
     "_id": "654e73fc1a60f8c83c2de22a",
     "id": "TheBloke/Yi-34B-200K-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -50101,7 +50101,7 @@
   {
     "_id": "654e73fc81b4be3df2634186",
     "id": "TheBloke/Yi-34B-200K-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -50181,5 +50181,17 @@
     "pipeline_tag": "text2text-generation",
     "createdAt": "2023-11-10T18:56:09.000Z",
     "modelId": "TheBloke/prometheus-7B-v1.0-GPTQ"
+  },
+  {
+    "_id": "654e895f8cc59d5b49f14a90",
+    "id": "TheBloke/Yi-34B-200K-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-10T19:49:51.000Z",
+    "modelId": "TheBloke/Yi-34B-200K-GPTQ"
   }
 ]
