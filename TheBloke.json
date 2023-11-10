@@ -49412,7 +49412,7 @@
   {
     "_id": "654c3bd77824e2bb58e6a136",
     "id": "TheBloke/opus-v0-7B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -49432,7 +49432,7 @@
   {
     "_id": "654c3bd7f88537326083a4c1",
     "id": "TheBloke/opus-v0-7B-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -49814,8 +49814,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:umd-zhou-lab/claude2_alpaca",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-10T09:49:09.000Z",
     "modelId": "TheBloke/claude2-alpaca-13B-AWQ"
   },
