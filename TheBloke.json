@@ -9896,7 +9896,7 @@
   {
     "_id": "64b6ce072edcb4a1aa820cbe",
     "id": "TheBloke/Llama-2-7B-Chat-GPTQ",
-    "likes": 168,
+    "likes": 169,
     "private": false,
     "downloads": 99325,
     "tags": [
@@ -50193,5 +50193,40 @@
     ],
     "createdAt": "2023-11-10T19:49:51.000Z",
     "modelId": "TheBloke/Yi-34B-200K-GPTQ"
+  },
+  {
+    "_id": "654e983a2adb0688a0adf7c6",
+    "id": "TheBloke/Yi-6B-200K-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "Yi",
+      "text-generation",
+      "custom_code",
+      "license:other",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-10T20:53:14.000Z",
+    "modelId": "TheBloke/Yi-6B-200K-AWQ"
+  },
+  {
+    "_id": "654e983a5da3196a7840a1ea",
+    "id": "TheBloke/Yi-6B-200K-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "yi",
+      "license:other",
+      "region:us"
+    ],
+    "createdAt": "2023-11-10T20:53:14.000Z",
+    "modelId": "TheBloke/Yi-6B-200K-GGUF"
   }
 ]
