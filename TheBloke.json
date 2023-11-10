@@ -35125,7 +35125,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 154,
+    "likes": 155,
     "private": false,
     "downloads": 3071,
     "tags": [
@@ -37379,7 +37379,7 @@
   {
     "_id": "651b50a9b6109ba14026ff19",
     "id": "TheBloke/Nous-Hermes-13B-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 16,
     "tags": [
@@ -49836,8 +49836,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:umd-zhou-lab/claude2_alpaca",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-10T09:49:09.000Z",
     "modelId": "TheBloke/claude2-alpaca-13B-GPTQ"
   },
@@ -49858,5 +49868,67 @@
     ],
     "createdAt": "2023-11-10T09:49:09.000Z",
     "modelId": "TheBloke/claude2-alpaca-13B-GGUF"
+  },
+  {
+    "_id": "654e08fb0154da835a2ab0d5",
+    "id": "TheBloke/claude2-alpaca-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:umd-zhou-lab/claude2_alpaca",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-10T10:42:03.000Z",
+    "modelId": "TheBloke/claude2-alpaca-7B-GPTQ"
+  },
+  {
+    "_id": "654e08fb1c35aac1d3ffe797",
+    "id": "TheBloke/claude2-alpaca-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:umd-zhou-lab/claude2_alpaca",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-10T10:42:03.000Z",
+    "modelId": "TheBloke/claude2-alpaca-7B-AWQ"
+  },
+  {
+    "_id": "654e08fb636d5f1b88b7e4f6",
+    "id": "TheBloke/claude2-alpaca-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:umd-zhou-lab/claude2_alpaca",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-10T10:42:03.000Z",
+    "modelId": "TheBloke/claude2-alpaca-7B-GGUF"
   }
 ]
