@@ -11017,7 +11017,7 @@
   {
     "_id": "64bd52d04d2052b1aa1adc4d",
     "id": "TheBloke/Llama-2-70B-GGML",
-    "likes": 69,
+    "likes": 70,
     "private": false,
     "downloads": 53,
     "tags": [
@@ -17542,7 +17542,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 111,
+    "likes": 112,
     "private": false,
     "downloads": 106,
     "tags": [
@@ -37136,7 +37136,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 170,
+    "likes": 171,
     "private": false,
     "downloads": 1493,
     "tags": [
@@ -47376,7 +47376,7 @@
   {
     "_id": "6543e26c40ddcc1c6f1d2eb1",
     "id": "TheBloke/Yarn-Mistral-7B-128k-AWQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 1437,
     "tags": [
@@ -49497,7 +49497,7 @@
   {
     "_id": "654cd5c878c68b6d4c71df7c",
     "id": "TheBloke/goliath-120b-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 70,
     "tags": [
@@ -50008,5 +50008,41 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-10T11:53:25.000Z",
     "modelId": "TheBloke/Yi-34B-AWQ"
+  },
+  {
+    "_id": "654e719a1a60f8c83c2d68ce",
+    "id": "TheBloke/prometheus-13B-v1.0-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-10T18:08:26.000Z",
+    "modelId": "TheBloke/prometheus-13B-v1.0-GPTQ"
+  },
+  {
+    "_id": "654e719aa648ac31fea8a3a9",
+    "id": "TheBloke/prometheus-13B-v1.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-10T18:08:26.000Z",
+    "modelId": "TheBloke/prometheus-13B-v1.0-GGUF"
+  },
+  {
+    "_id": "654e719ae28302548b634196",
+    "id": "TheBloke/prometheus-13B-v1.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-10T18:08:26.000Z",
+    "modelId": "TheBloke/prometheus-13B-v1.0-AWQ"
   }
 ]
