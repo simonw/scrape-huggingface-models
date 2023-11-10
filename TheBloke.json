@@ -16514,7 +16514,7 @@
   {
     "_id": "64e7ea351a6fd0c6f2552016",
     "id": "TheBloke/CodeLlama-7B-GPTQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 509,
     "tags": [
@@ -19515,7 +19515,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7B-Chat-GGUF",
-    "likes": 132,
+    "likes": 133,
     "private": false,
     "downloads": 4236,
     "tags": [
@@ -21181,7 +21181,8 @@
       "dataset:databricks/databricks-dolly-15k",
       "license:llama2",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "createdAt": "2023-09-05T22:02:07.000Z",
@@ -21966,7 +21967,7 @@
   {
     "_id": "64f9cbeedc79f453eec64073",
     "id": "TheBloke/YuLan-Chat-2-13B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 807,
     "tags": [
@@ -35125,7 +35126,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 153,
+    "likes": 154,
     "private": false,
     "downloads": 3071,
     "tags": [
@@ -35201,7 +35202,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 250,
+    "likes": 251,
     "private": false,
     "downloads": 5548,
     "tags": [
@@ -38774,7 +38775,7 @@
   {
     "_id": "6523d68fab14165941296471",
     "id": "TheBloke/Ziya-Coding-34B-v1.0-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 4,
     "tags": [
