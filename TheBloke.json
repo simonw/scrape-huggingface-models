@@ -50321,5 +50321,44 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-11T00:25:31.000Z",
     "modelId": "TheBloke/openchat_3.5-16k-GPTQ"
+  },
+  {
+    "_id": "654f507e259ab60296f3e19c",
+    "id": "TheBloke/Augmental-Unholy-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-11T09:59:26.000Z",
+    "modelId": "TheBloke/Augmental-Unholy-13B-GPTQ"
+  },
+  {
+    "_id": "654f507ea43b13ee3427128b",
+    "id": "TheBloke/Augmental-Unholy-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-11T09:59:26.000Z",
+    "modelId": "TheBloke/Augmental-Unholy-13B-AWQ"
+  },
+  {
+    "_id": "654f507ee5f380aca8cfdf18",
+    "id": "TheBloke/Augmental-Unholy-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "peft",
+      "arxiv:1910.09700",
+      "license:llama2",
+      "region:us"
+    ],
+    "createdAt": "2023-11-11T09:59:26.000Z",
+    "modelId": "TheBloke/Augmental-Unholy-13B-GGUF"
   }
 ]
