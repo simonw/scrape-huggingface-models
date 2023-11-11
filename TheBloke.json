@@ -50477,8 +50477,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "zh",
+      "en",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-11T16:04:32.000Z",
     "modelId": "TheBloke/Yi-34B-200K-Llamafied-GPTQ"
   }
