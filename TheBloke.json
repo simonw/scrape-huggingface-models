@@ -17542,7 +17542,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 112,
+    "likes": 113,
     "private": false,
     "downloads": 110,
     "tags": [
@@ -41437,7 +41437,7 @@
   {
     "_id": "652bd2cfc543a08aa90d41a2",
     "id": "TheBloke/llava-v1.5-13B-AWQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 4008,
     "tags": [
@@ -50325,7 +50325,7 @@
   {
     "_id": "654f507e259ab60296f3e19c",
     "id": "TheBloke/Augmental-Unholy-13B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -50357,7 +50357,7 @@
   {
     "_id": "654f507ee5f380aca8cfdf18",
     "id": "TheBloke/Augmental-Unholy-13B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -50434,7 +50434,7 @@
   {
     "_id": "654fa6108d8c3bf4ddcceca5",
     "id": "TheBloke/Yi-34B-200K-Llamafied-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -50455,8 +50455,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "zh",
+      "en",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-11T16:04:32.000Z",
     "modelId": "TheBloke/Yi-34B-200K-Llamafied-AWQ"
   },
