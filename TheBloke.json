@@ -48130,7 +48130,7 @@
   {
     "_id": "65479565407bb19ff594d5bd",
     "id": "TheBloke/deepseek-coder-1.3b-instruct-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 16,
     "tags": [
@@ -48548,7 +48548,7 @@
   {
     "_id": "6548c6d910d47c1f771ee33b",
     "id": "TheBloke/Hexoteric-7B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -50341,6 +50341,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "peft",
+      "safetensors",
+      "arxiv:1910.09700",
+      "license:llama2",
       "region:us"
     ],
     "createdAt": "2023-11-11T09:59:26.000Z",
