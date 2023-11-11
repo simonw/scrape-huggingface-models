@@ -23350,7 +23350,7 @@
   {
     "_id": "65009a7705374ef773657936",
     "id": "TheBloke/Llama-2-13B-Ensemble-v6-GPTQ",
-    "likes": 3,
+    "likes": 2,
     "private": false,
     "downloads": 185,
     "tags": [
@@ -34181,7 +34181,7 @@
   {
     "_id": "650f69eb8d01590937d2287d",
     "id": "TheBloke/MXLewd-L2-20B-GPTQ",
-    "likes": 6,
+    "likes": 5,
     "private": false,
     "downloads": 129,
     "tags": [
@@ -49598,7 +49598,7 @@
   {
     "_id": "654d43eecf8aa735d8341031",
     "id": "TheBloke/MonadGPT-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 30,
     "tags": [
@@ -49688,7 +49688,7 @@
   {
     "_id": "654d58d50351be57075416d3",
     "id": "TheBloke/Trion-M-7B-GGUF",
-    "likes": 3,
+    "likes": 2,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -50244,8 +50244,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "Yi",
+      "text-generation",
+      "custom_code",
+      "license:other",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-10T23:05:46.000Z",
     "modelId": "TheBloke/Yi-6B-200K-GPTQ"
   }
