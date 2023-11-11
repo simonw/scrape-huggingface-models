@@ -44036,7 +44036,7 @@
   {
     "_id": "6535537d3da0ff3c70abedd7",
     "id": "TheBloke/SynthIA-7B-v2.0-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 30,
     "tags": [
@@ -47761,7 +47761,7 @@
   {
     "_id": "6546a6d65cd5692b3ab16e09",
     "id": "TheBloke/Yi-34B-GGUF",
-    "likes": 45,
+    "likes": 46,
     "private": false,
     "downloads": 61,
     "tags": [
@@ -50329,6 +50329,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "peft",
+      "safetensors",
+      "arxiv:1910.09700",
+      "license:llama2",
       "region:us"
     ],
     "createdAt": "2023-11-11T09:59:26.000Z",
@@ -50364,5 +50368,47 @@
     ],
     "createdAt": "2023-11-11T09:59:26.000Z",
     "modelId": "TheBloke/Augmental-Unholy-13B-GGUF"
+  },
+  {
+    "_id": "654f5db20c11ee1eb9b72c36",
+    "id": "TheBloke/cat-v1.0-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "llama 2",
+      "en",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-11T10:55:46.000Z",
+    "modelId": "TheBloke/cat-v1.0-13B-GGUF"
+  },
+  {
+    "_id": "654f5db21df60d2a34e7346c",
+    "id": "TheBloke/cat-v1.0-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-11T10:55:46.000Z",
+    "modelId": "TheBloke/cat-v1.0-13B-AWQ"
+  },
+  {
+    "_id": "654f5db26c46a91f12162173",
+    "id": "TheBloke/cat-v1.0-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-11T10:55:46.000Z",
+    "modelId": "TheBloke/cat-v1.0-13B-GPTQ"
   }
 ]
