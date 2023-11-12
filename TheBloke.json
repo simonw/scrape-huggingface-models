@@ -20455,7 +20455,7 @@
   {
     "_id": "64f7451182673b2a07ae1103",
     "id": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GGUF",
-    "likes": 37,
+    "likes": 38,
     "private": false,
     "downloads": 54,
     "tags": [
@@ -30497,7 +30497,7 @@
   {
     "_id": "650a288fce81b73e637e3216",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 118,
     "tags": [
@@ -50494,7 +50494,7 @@
   {
     "_id": "654fa6108d8c3bf4ddcceca5",
     "id": "TheBloke/Yi-34B-200K-Llamafied-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -50717,7 +50717,7 @@
   {
     "_id": "6550c338bebf0c4c5108c456",
     "id": "TheBloke/Augmental-ReMM-13B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -50737,8 +50737,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-12T21:06:14.000Z",
     "modelId": "TheBloke/Noromaid-13B-v0.1-GPTQ"
   },
