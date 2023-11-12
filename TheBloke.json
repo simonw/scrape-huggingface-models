@@ -49066,6 +49066,27 @@
     "modelId": "TheBloke/Dawn-v2-70B-GGUF"
   },
   {
+    "_id": "654b6b991508bf58465132cd",
+    "id": "TheBloke/Thespis-13B-v0.6-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 3,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-08T11:06:01.000Z",
+    "modelId": "TheBloke/Thespis-13B-v0.6-AWQ"
+  },
+  {
     "_id": "654b6b993063ad8679fa54ef",
     "id": "TheBloke/Thespis-13B-v0.6-GGUF",
     "likes": 0,
@@ -49081,6 +49102,27 @@
     ],
     "createdAt": "2023-11-08T11:06:01.000Z",
     "modelId": "TheBloke/Thespis-13B-v0.6-GGUF"
+  },
+  {
+    "_id": "654b6b99b3eae6a0254b235e",
+    "id": "TheBloke/Thespis-13B-v0.6-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-08T11:06:01.000Z",
+    "modelId": "TheBloke/Thespis-13B-v0.6-GPTQ"
   },
   {
     "_id": "654b77492bb88ac00d91af93",
