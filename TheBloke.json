@@ -21389,7 +21389,7 @@
   {
     "_id": "64f7c72a8a234f114e0fb07b",
     "id": "TheBloke/Chronos-70B-v2-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -47313,7 +47313,7 @@
   {
     "_id": "6543cda9998b3248a1fedce8",
     "id": "TheBloke/Yarn-Mistral-7B-128k-GGUF",
-    "likes": 81,
+    "likes": 82,
     "private": false,
     "downloads": 206,
     "tags": [
@@ -50491,5 +50491,41 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-11T16:04:32.000Z",
     "modelId": "TheBloke/Yi-34B-200K-Llamafied-GPTQ"
+  },
+  {
+    "_id": "65501a934d9e71e17bf09cf2",
+    "id": "TheBloke/Mistral-7B-OpenOrca-oasst_top1_2023-08-25-v1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-12T00:21:39.000Z",
+    "modelId": "TheBloke/Mistral-7B-OpenOrca-oasst_top1_2023-08-25-v1-GGUF"
+  },
+  {
+    "_id": "65501a93f3c79cdaf38e0277",
+    "id": "TheBloke/Mistral-7B-OpenOrca-oasst_top1_2023-08-25-v1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-12T00:21:39.000Z",
+    "modelId": "TheBloke/Mistral-7B-OpenOrca-oasst_top1_2023-08-25-v1-AWQ"
+  },
+  {
+    "_id": "65501a93fd13d5b5ec6ddf44",
+    "id": "TheBloke/Mistral-7B-OpenOrca-oasst_top1_2023-08-25-v1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-12T00:21:39.000Z",
+    "modelId": "TheBloke/Mistral-7B-OpenOrca-oasst_top1_2023-08-25-v1-GPTQ"
   }
 ]
