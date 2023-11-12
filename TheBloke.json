@@ -50749,6 +50749,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
     "createdAt": "2023-11-12T21:06:14.000Z",
@@ -50761,8 +50765,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-12T21:06:14.000Z",
     "modelId": "TheBloke/Noromaid-13B-v0.1-AWQ"
   }
