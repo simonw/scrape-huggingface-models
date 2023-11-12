@@ -44621,7 +44621,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 124,
+    "likes": 125,
     "private": false,
     "downloads": 859,
     "tags": [
@@ -50494,7 +50494,7 @@
   {
     "_id": "654fa6108d8c3bf4ddcceca5",
     "id": "TheBloke/Yi-34B-200K-Llamafied-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -50729,5 +50729,41 @@
     ],
     "createdAt": "2023-11-12T12:21:12.000Z",
     "modelId": "TheBloke/Augmental-ReMM-13B-GGUF"
+  },
+  {
+    "_id": "65513e464d9e71e17b19706f",
+    "id": "TheBloke/Noromaid-13B-v0.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-12T21:06:14.000Z",
+    "modelId": "TheBloke/Noromaid-13B-v0.1-GPTQ"
+  },
+  {
+    "_id": "65513e46ea9be8f1e6ddd5b0",
+    "id": "TheBloke/Noromaid-13B-v0.1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-12T21:06:14.000Z",
+    "modelId": "TheBloke/Noromaid-13B-v0.1-GGUF"
+  },
+  {
+    "_id": "65513e46f3c79cdaf3b943bc",
+    "id": "TheBloke/Noromaid-13B-v0.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-12T21:06:14.000Z",
+    "modelId": "TheBloke/Noromaid-13B-v0.1-AWQ"
   }
 ]
