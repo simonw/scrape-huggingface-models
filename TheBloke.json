@@ -14261,7 +14261,7 @@
   {
     "_id": "64d5e2dcabf475a808a24d42",
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
-    "likes": 86,
+    "likes": 87,
     "private": false,
     "downloads": 43549,
     "tags": [
@@ -16141,7 +16141,7 @@
   {
     "_id": "64e7164c3f5a5a3c9621a2cb",
     "id": "TheBloke/Nous-Hermes-Llama2-70B-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 2897,
     "tags": [
@@ -34406,7 +34406,7 @@
   {
     "_id": "650c03bf677f9e45963f00fb",
     "id": "TheBloke/Xwin-LM-70B-V0.1-GPTQ",
-    "likes": 34,
+    "likes": 35,
     "private": false,
     "downloads": 1446,
     "tags": [
@@ -35416,7 +35416,7 @@
   {
     "_id": "650f746c1765bd51f4bbeb5f",
     "id": "TheBloke/storytime-13B-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 82,
     "tags": [
@@ -46246,7 +46246,7 @@
   {
     "_id": "6539d8f9fc8dea94ef70d3f8",
     "id": "TheBloke/SynthIA-70B-v1.5-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 117,
     "tags": [
@@ -49639,7 +49639,7 @@
   {
     "_id": "6546bfe04d1931dc93eacb63",
     "id": "TheBloke/deepseek-coder-33B-instruct-GGUF",
-    "likes": 39,
+    "likes": 40,
     "private": false,
     "downloads": 24,
     "tags": [
@@ -49943,7 +49943,7 @@
   {
     "_id": "65479565407bb19ff594d5bd",
     "id": "TheBloke/deepseek-coder-1.3b-instruct-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 17,
     "tags": [
@@ -49975,7 +49975,7 @@
   {
     "_id": "6547989336332b0eedb50905",
     "id": "TheBloke/deepseek-coder-1.3b-base-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -50007,7 +50007,7 @@
   {
     "_id": "65479a438767484a0548595b",
     "id": "TheBloke/deepseek-coder-6.7B-instruct-GGUF",
-    "likes": 30,
+    "likes": 31,
     "private": false,
     "downloads": 28,
     "tags": [
@@ -52725,5 +52725,41 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-12T21:06:14.000Z",
     "modelId": "TheBloke/Noromaid-13B-v0.1-AWQ"
+  },
+  {
+    "_id": "65526c8423f65166d2f80cdf",
+    "id": "TheBloke/Nous-Capybara-34B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-13T18:35:48.000Z",
+    "modelId": "TheBloke/Nous-Capybara-34B-AWQ"
+  },
+  {
+    "_id": "65526c844a5191e1f1a7f6f6",
+    "id": "TheBloke/Nous-Capybara-34B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-13T18:35:48.000Z",
+    "modelId": "TheBloke/Nous-Capybara-34B-GPTQ"
+  },
+  {
+    "_id": "65526c84fb76980adeff5db6",
+    "id": "TheBloke/Nous-Capybara-34B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-13T18:35:48.000Z",
+    "modelId": "TheBloke/Nous-Capybara-34B-GGUF"
   }
 ]
