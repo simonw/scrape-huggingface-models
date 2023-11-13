@@ -21563,7 +21563,7 @@
   {
     "_id": "64f78ca5fe57e7455a7e6033",
     "id": "TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 18,
     "tags": [
@@ -46267,7 +46267,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 125,
+    "likes": 126,
     "private": false,
     "downloads": 922,
     "tags": [
@@ -49922,7 +49922,7 @@
   {
     "_id": "65476ad9e49bd8d58e61263c",
     "id": "TheBloke/deepseek-coder-6.7B-instruct-GPTQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 158,
     "tags": [
@@ -51789,7 +51789,7 @@
   {
     "_id": "654dfc95921f4f1ff4cc3e1f",
     "id": "TheBloke/claude2-alpaca-13B-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 129,
     "tags": [
@@ -52860,5 +52860,34 @@
     ],
     "createdAt": "2023-11-13T21:37:31.000Z",
     "modelId": "TheBloke/dolphin-2_2-yi-34b-GPTQ"
+  },
+  {
+    "_id": "6552aad827b74d7f6da127c9",
+    "id": "TheBloke/Noromaid-13B-v0.1.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-13T23:01:44.000Z",
+    "modelId": "TheBloke/Noromaid-13B-v0.1.1-AWQ"
+  },
+  {
+    "_id": "6552aad89a85df7f154f2d3d",
+    "id": "TheBloke/Noromaid-13B-v0.1.1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "base_model:NeverSleep/Noromaid-13b-v0.1.1",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-13T23:01:44.000Z",
+    "modelId": "TheBloke/Noromaid-13B-v0.1.1-GGUF"
   }
 ]
