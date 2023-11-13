@@ -36424,7 +36424,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 258,
+    "likes": 259,
     "private": false,
     "downloads": 5203,
     "tags": [
@@ -40873,7 +40873,7 @@
   {
     "_id": "6527764534bf5ece73d12f73",
     "id": "TheBloke/ANIMA-Phi-Neptune-Mistral-7B-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -52805,7 +52805,7 @@
   {
     "_id": "655280a05c34aff460a3a013",
     "id": "TheBloke/dolphin-2_2-yi-34b-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -52868,8 +52868,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:NeverSleep/Noromaid-13b-v0.1.1",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-13T23:01:44.000Z",
     "modelId": "TheBloke/Noromaid-13B-v0.1.1-AWQ"
   },
@@ -52889,5 +52898,37 @@
     ],
     "createdAt": "2023-11-13T23:01:44.000Z",
     "modelId": "TheBloke/Noromaid-13B-v0.1.1-GGUF"
+  },
+  {
+    "_id": "6552b0e5e5c209f56b815531",
+    "id": "TheBloke/Synatra-7B-v0.3-RP-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-13T23:27:33.000Z",
+    "modelId": "TheBloke/Synatra-7B-v0.3-RP-AWQ"
+  },
+  {
+    "_id": "6552b0e5e6314399631da61c",
+    "id": "TheBloke/Synatra-7B-v0.3-RP-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "text-generation",
+      "ko",
+      "base_model:maywell/Synatra-7B-v0.3-RP",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-13T23:27:33.000Z",
+    "modelId": "TheBloke/Synatra-7B-v0.3-RP-GGUF"
   }
 ]
