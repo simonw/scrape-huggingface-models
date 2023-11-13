@@ -9950,7 +9950,7 @@
   {
     "_id": "64b6ce072edcb4a1aa820cbe",
     "id": "TheBloke/Llama-2-7B-Chat-GPTQ",
-    "likes": 170,
+    "likes": 171,
     "private": false,
     "downloads": 88637,
     "tags": [
@@ -48789,7 +48789,7 @@
   {
     "_id": "6542b27c8caf77017826c032",
     "id": "TheBloke/SciPhi-Self-RAG-Mistral-7B-32k-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 34,
     "tags": [
@@ -52729,7 +52729,7 @@
   {
     "_id": "65526c8423f65166d2f80cdf",
     "id": "TheBloke/Nous-Capybara-34B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -52768,7 +52768,7 @@
   {
     "_id": "65526c84fb76980adeff5db6",
     "id": "TheBloke/Nous-Capybara-34B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -52794,6 +52794,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "yi",
+      "en",
+      "dataset:ehartford/dolphin",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "dataset:ehartford/samantha-data",
+      "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
+      "base_model:ehartford/dolphin-2_2-yi-34b",
+      "license:other",
       "region:us"
     ],
     "createdAt": "2023-11-13T20:01:36.000Z",
