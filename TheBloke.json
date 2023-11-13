@@ -49045,7 +49045,7 @@
   {
     "_id": "6543cac6b4a3f3a2f464858a",
     "id": "TheBloke/openchat_3.5-AWQ",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 754,
     "tags": [
@@ -49557,7 +49557,7 @@
   {
     "_id": "6546a6d65cd5692b3ab16e09",
     "id": "TheBloke/Yi-34B-GGUF",
-    "likes": 50,
+    "likes": 51,
     "private": false,
     "downloads": 89,
     "tags": [
@@ -52733,8 +52733,23 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "sft",
+      "StableLM",
+      "eng",
+      "dataset:LDJnr/LessWrong-Amplify-Instruct",
+      "dataset:LDJnr/Pure-Dove",
+      "dataset:LDJnr/Verified-Camel",
+      "base_model:NousResearch/Nous-Capybara-34B",
+      "license:mit",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-13T18:35:48.000Z",
     "modelId": "TheBloke/Nous-Capybara-34B-AWQ"
   },
@@ -52771,5 +52786,29 @@
     ],
     "createdAt": "2023-11-13T18:35:48.000Z",
     "modelId": "TheBloke/Nous-Capybara-34B-GGUF"
+  },
+  {
+    "_id": "655280a05c34aff460a3a013",
+    "id": "TheBloke/dolphin-2_2-yi-34b-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-13T20:01:36.000Z",
+    "modelId": "TheBloke/dolphin-2_2-yi-34b-GGUF"
+  },
+  {
+    "_id": "655280a0d05fe94e01a47abe",
+    "id": "TheBloke/dolphin-2_2-yi-34b-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-13T20:01:36.000Z",
+    "modelId": "TheBloke/dolphin-2_2-yi-34b-AWQ"
   }
 ]
