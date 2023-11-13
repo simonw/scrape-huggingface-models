@@ -18827,7 +18827,7 @@
   {
     "_id": "64f0787aa8e82e0b85b503cd",
     "id": "TheBloke/MythoMax-L2-Kimiko-v2-13B-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 27,
     "tags": [
@@ -52760,8 +52760,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "endpoints_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-13T18:35:48.000Z",
     "modelId": "TheBloke/Nous-Capybara-34B-GPTQ"
   },
