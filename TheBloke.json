@@ -44909,7 +44909,7 @@
   {
     "_id": "6532ff883e385cfc601254ad",
     "id": "TheBloke/CodeBooga-34B-v0.1-GGUF",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -49069,7 +49069,7 @@
   {
     "_id": "6543cac6e9e8e72d2acd55c4",
     "id": "TheBloke/openchat_3.5-GGUF",
-    "likes": 71,
+    "likes": 72,
     "private": false,
     "downloads": 211,
     "tags": [
@@ -49639,7 +49639,7 @@
   {
     "_id": "6546bfe04d1931dc93eacb63",
     "id": "TheBloke/deepseek-coder-33B-instruct-GGUF",
-    "likes": 40,
+    "likes": 41,
     "private": false,
     "downloads": 24,
     "tags": [
@@ -52440,7 +52440,7 @@
   {
     "_id": "654fa6108ffcf56fcb8d30a8",
     "id": "TheBloke/Yi-34B-200K-Llamafied-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 100,
     "tags": [
@@ -52764,7 +52764,14 @@
       "safetensors",
       "llama",
       "text-generation",
-      "endpoints_compatible",
+      "sft",
+      "StableLM",
+      "eng",
+      "dataset:LDJnr/LessWrong-Amplify-Instruct",
+      "dataset:LDJnr/Pure-Dove",
+      "dataset:LDJnr/Verified-Camel",
+      "base_model:NousResearch/Nous-Capybara-34B",
+      "license:mit",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -52798,7 +52805,7 @@
   {
     "_id": "655280a05c34aff460a3a013",
     "id": "TheBloke/dolphin-2_2-yi-34b-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -52841,5 +52848,17 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-13T20:01:36.000Z",
     "modelId": "TheBloke/dolphin-2_2-yi-34b-AWQ"
+  },
+  {
+    "_id": "6552971bcbfd4fca8dd5b191",
+    "id": "TheBloke/dolphin-2_2-yi-34b-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-13T21:37:31.000Z",
+    "modelId": "TheBloke/dolphin-2_2-yi-34b-GPTQ"
   }
 ]
