@@ -16397,7 +16397,7 @@
   {
     "_id": "64e78cdac3b2443fb30b9dda",
     "id": "TheBloke/CodeLlama-7B-Instruct-GGUF",
-    "likes": 68,
+    "likes": 69,
     "private": false,
     "downloads": 365,
     "tags": [
@@ -16486,7 +16486,7 @@
   {
     "_id": "64e7bc1129a548f66a1ddb15",
     "id": "TheBloke/CodeLlama-13B-Instruct-GGUF",
-    "likes": 69,
+    "likes": 70,
     "private": false,
     "downloads": 212,
     "tags": [
@@ -18659,7 +18659,7 @@
   {
     "_id": "64ef6fa91df52444a5eeb749",
     "id": "TheBloke/Kimiko-v2-13B-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -52815,8 +52815,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:ehartford/dolphin",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "dataset:ehartford/samantha-data",
+      "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
+      "base_model:ehartford/dolphin-2_2-yi-34b",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-13T20:01:36.000Z",
     "modelId": "TheBloke/dolphin-2_2-yi-34b-AWQ"
   }
