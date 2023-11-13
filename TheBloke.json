@@ -19975,7 +19975,7 @@
   {
     "_id": "64f5fd954d3b1dd311d30e28",
     "id": "TheBloke/Llama-2-7B-GGUF",
-    "likes": 61,
+    "likes": 62,
     "private": false,
     "downloads": 777,
     "tags": [
@@ -52753,10 +52753,20 @@
   {
     "_id": "65526c84fb76980adeff5db6",
     "id": "TheBloke/Nous-Capybara-34B-GGUF",
-    "likes": 0,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "yi",
+      "sft",
+      "StableLM",
+      "eng",
+      "dataset:LDJnr/LessWrong-Amplify-Instruct",
+      "dataset:LDJnr/Pure-Dove",
+      "dataset:LDJnr/Verified-Camel",
+      "base_model:NousResearch/Nous-Capybara-34B",
+      "license:mit",
       "region:us"
     ],
     "createdAt": "2023-11-13T18:35:48.000Z",
