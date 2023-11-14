@@ -49922,7 +49922,7 @@
   {
     "_id": "65476ad9e49bd8d58e61263c",
     "id": "TheBloke/deepseek-coder-6.7B-instruct-GPTQ",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 158,
     "tags": [
@@ -53311,8 +53311,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code",
+      "en",
+      "dataset:ajibawa-2023/Python-Code-23k-ShareGPT",
+      "base_model:ajibawa-2023/Python-Code-33B",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-14T18:53:03.000Z",
     "modelId": "TheBloke/Python-Code-33B-AWQ"
   }
