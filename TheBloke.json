@@ -46362,7 +46362,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 128,
+    "likes": 129,
     "private": false,
     "downloads": 965,
     "tags": [
@@ -53284,5 +53284,41 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-14T13:57:11.000Z",
     "modelId": "TheBloke/Claire-7B-0.1-AWQ"
+  },
+  {
+    "_id": "65539c5e51328cedf9b7bb82",
+    "id": "TheBloke/opus-v0-70B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-14T16:12:14.000Z",
+    "modelId": "TheBloke/opus-v0-70B-GPTQ"
+  },
+  {
+    "_id": "65539c5e9a64ae5289d8059c",
+    "id": "TheBloke/opus-v0-70B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-14T16:12:14.000Z",
+    "modelId": "TheBloke/opus-v0-70B-AWQ"
+  },
+  {
+    "_id": "65539c5ee9e3a7e7774923ca",
+    "id": "TheBloke/opus-v0-70B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-14T16:12:14.000Z",
+    "modelId": "TheBloke/opus-v0-70B-GGUF"
   }
 ]
