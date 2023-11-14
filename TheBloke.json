@@ -9924,7 +9924,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 629,
+    "likes": 630,
     "private": false,
     "downloads": 5574,
     "tags": [
@@ -20473,7 +20473,7 @@
   {
     "_id": "64f6cbbd0efa33bfe0b1f943",
     "id": "TheBloke/Nous-Hermes-Llama2-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 29,
     "tags": [
@@ -45223,7 +45223,7 @@
   {
     "_id": "6533c00c9860c1cb37bff2ac",
     "id": "TheBloke/Airoboros-L2-70B-3.1.2-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 15009,
     "tags": [
@@ -52805,7 +52805,7 @@
   {
     "_id": "655280a05c34aff460a3a013",
     "id": "TheBloke/dolphin-2_2-yi-34b-GGUF",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -53205,8 +53205,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "base_model:dreamgen/opus-v0-70b",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-14T16:12:14.000Z",
     "modelId": "TheBloke/opus-v0-70B-AWQ"
   },
@@ -53229,5 +53239,73 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-14T16:12:14.000Z",
     "modelId": "TheBloke/opus-v0-70B-GGUF"
+  },
+  {
+    "_id": "6553ba988598d6d8e2e051c1",
+    "id": "TheBloke/Python-Code-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code",
+      "en",
+      "dataset:ajibawa-2023/Python-Code-23k-ShareGPT",
+      "base_model:ajibawa-2023/Python-Code-13B",
+      "license:cc-by-nc-nd-4.0",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-14T18:21:12.000Z",
+    "modelId": "TheBloke/Python-Code-13B-AWQ"
+  },
+  {
+    "_id": "6553ba989510dd37a98bf380",
+    "id": "TheBloke/Python-Code-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "code",
+      "en",
+      "dataset:ajibawa-2023/Python-Code-23k-ShareGPT",
+      "base_model:ajibawa-2023/Python-Code-13B",
+      "license:cc-by-nc-nd-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-14T18:21:12.000Z",
+    "modelId": "TheBloke/Python-Code-13B-GGUF"
+  },
+  {
+    "_id": "6553c20f405110aad7cba931",
+    "id": "TheBloke/Python-Code-33B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-14T18:53:03.000Z",
+    "modelId": "TheBloke/Python-Code-33B-GGUF"
+  },
+  {
+    "_id": "6553c20f7f4a817cb3352c1a",
+    "id": "TheBloke/Python-Code-33B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-14T18:53:03.000Z",
+    "modelId": "TheBloke/Python-Code-33B-AWQ"
   }
 ]
