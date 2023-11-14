@@ -20077,7 +20077,7 @@
   {
     "_id": "64f61985e916843d8ebc5db8",
     "id": "TheBloke/Llama-2-70B-Chat-GGUF",
-    "likes": 51,
+    "likes": 52,
     "private": false,
     "downloads": 306,
     "tags": [
@@ -53485,9 +53485,30 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:sequelbox/DaringFortitude",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-14T22:47:42.000Z",
     "modelId": "TheBloke/DaringFortitude-GPTQ"
+  },
+  {
+    "_id": "6554035cace6c512cf7b5c75",
+    "id": "TheBloke/ShiningValiantXS-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-14T23:31:40.000Z",
+    "modelId": "TheBloke/ShiningValiantXS-GPTQ"
   }
 ]
