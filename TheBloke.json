@@ -53042,9 +53042,30 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:NeverSleep/Noromaid-13b-v0.1.1",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-14T01:15:18.000Z",
     "modelId": "TheBloke/Noromaid-13B-v0.1.1-GPTQ"
+  },
+  {
+    "_id": "6552d46018d709f6f633e02f",
+    "id": "TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-14T01:58:56.000Z",
+    "modelId": "TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GPTQ"
   }
 ]
