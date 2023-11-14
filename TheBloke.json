@@ -2537,7 +2537,7 @@
   {
     "_id": "647b3c28b31514a4a6d83660",
     "id": "TheBloke/Nous-Hermes-13B-GPTQ",
-    "likes": 154,
+    "likes": 155,
     "private": false,
     "downloads": 3453,
     "tags": [
@@ -53193,8 +53193,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "base_model:dreamgen/opus-v0-70b",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-14T16:12:14.000Z",
     "modelId": "TheBloke/opus-v0-70B-GPTQ"
   },
@@ -53327,5 +53337,79 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-14T18:53:03.000Z",
     "modelId": "TheBloke/Python-Code-33B-AWQ"
+  },
+  {
+    "_id": "6553dc11eeb42b373ff12d3f",
+    "id": "TheBloke/Python-Code-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-14T20:44:01.000Z",
+    "modelId": "TheBloke/Python-Code-13B-GPTQ"
+  },
+  {
+    "_id": "6553dfcf5ba75868f66768bb",
+    "id": "TheBloke/ShiningValiantXS-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-14T20:59:59.000Z",
+    "modelId": "TheBloke/ShiningValiantXS-AWQ"
+  },
+  {
+    "_id": "6553dfcff87d7896a9a16303",
+    "id": "TheBloke/ShiningValiantXS-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "shining-valiant",
+      "valiant",
+      "valiant-labs",
+      "llama-2",
+      "llama-2-chat",
+      "13b",
+      "text-generation",
+      "en",
+      "base_model:ValiantLabs/ShiningValiantXS",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-14T20:59:59.000Z",
+    "modelId": "TheBloke/ShiningValiantXS-GGUF"
+  },
+  {
+    "_id": "6553e01a24101a13f78052a1",
+    "id": "TheBloke/DaringFortitude-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-14T21:01:14.000Z",
+    "modelId": "TheBloke/DaringFortitude-GGUF"
+  },
+  {
+    "_id": "6553e01a72f9e416e253cd0d",
+    "id": "TheBloke/DaringFortitude-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-14T21:01:14.000Z",
+    "modelId": "TheBloke/DaringFortitude-AWQ"
   }
 ]
