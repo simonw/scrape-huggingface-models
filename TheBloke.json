@@ -51502,7 +51502,7 @@
   {
     "_id": "654d37b8e113b04ba5a876f0",
     "id": "TheBloke/Dolphin2.1-OpenOrca-7B-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -52159,7 +52159,7 @@
   {
     "_id": "654e895f8cc59d5b49f14a90",
     "id": "TheBloke/Yi-34B-200K-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 89,
     "tags": [
@@ -52805,7 +52805,7 @@
   {
     "_id": "655280a05c34aff460a3a013",
     "id": "TheBloke/dolphin-2_2-yi-34b-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -52826,7 +52826,7 @@
   {
     "_id": "655280a0d05fe94e01a47abe",
     "id": "TheBloke/dolphin-2_2-yi-34b-AWQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -53020,9 +53020,31 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "ko",
+      "base_model:maywell/Synatra-7B-v0.3-RP",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-14T00:45:57.000Z",
     "modelId": "TheBloke/Synatra-7B-v0.3-RP-GPTQ"
+  },
+  {
+    "_id": "6552ca265efbf7b2cb6b885f",
+    "id": "TheBloke/Noromaid-13B-v0.1.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-14T01:15:18.000Z",
+    "modelId": "TheBloke/Noromaid-13B-v0.1.1-GPTQ"
   }
 ]
