@@ -20001,7 +20001,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7B-Chat-GGUF",
-    "likes": 136,
+    "likes": 137,
     "private": false,
     "downloads": 3539,
     "tags": [
@@ -22727,7 +22727,7 @@
   {
     "_id": "64fad53cbb362cbf2fdf43ce",
     "id": "TheBloke/Guanaco-13B-Uncensored-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 67,
     "tags": [
@@ -37226,7 +37226,7 @@
   {
     "_id": "6515ff5b7f18cec973af0828",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GPTQ",
-    "likes": 57,
+    "likes": 58,
     "private": false,
     "downloads": 23866,
     "tags": [
@@ -52783,7 +52783,7 @@
   {
     "_id": "65526c84fb76980adeff5db6",
     "id": "TheBloke/Nous-Capybara-34B-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -52805,7 +52805,7 @@
   {
     "_id": "655280a05c34aff460a3a013",
     "id": "TheBloke/dolphin-2_2-yi-34b-GGUF",
-    "likes": 4,
+    "likes": 6,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -53063,8 +53063,26 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "llama-2",
+      "code",
+      "en",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:garage-bAInd/Open-Platypus",
+      "dataset:ehartford/samantha-data",
+      "arxiv:2310.06825",
+      "base_model:uukuguy/speechless-mistral-dolphin-orca-platypus-samantha-7b",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-14T01:58:56.000Z",
     "modelId": "TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GPTQ"
   }
