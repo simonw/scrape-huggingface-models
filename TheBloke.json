@@ -52805,7 +52805,7 @@
   {
     "_id": "655280a05c34aff460a3a013",
     "id": "TheBloke/dolphin-2_2-yi-34b-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -52856,8 +52856,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:ehartford/dolphin",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "dataset:ehartford/samantha-data",
+      "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
+      "base_model:ehartford/dolphin-2_2-yi-34b",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-13T21:37:31.000Z",
     "modelId": "TheBloke/dolphin-2_2-yi-34b-GPTQ"
   },
@@ -52940,5 +52954,75 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-13T23:27:33.000Z",
     "modelId": "TheBloke/Synatra-7B-v0.3-RP-GGUF"
+  },
+  {
+    "_id": "6552bfa73e99765b03a16aa9",
+    "id": "TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "llama-2",
+      "code",
+      "en",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:garage-bAInd/Open-Platypus",
+      "dataset:ehartford/samantha-data",
+      "arxiv:2310.06825",
+      "base_model:uukuguy/speechless-mistral-dolphin-orca-platypus-samantha-7b",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-14T00:30:31.000Z",
+    "modelId": "TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-AWQ"
+  },
+  {
+    "_id": "6552bfa8a9e06272080ce0ef",
+    "id": "TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "llama-2",
+      "code",
+      "text-generation",
+      "en",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:garage-bAInd/Open-Platypus",
+      "dataset:ehartford/samantha-data",
+      "arxiv:2310.06825",
+      "base_model:uukuguy/speechless-mistral-dolphin-orca-platypus-samantha-7b",
+      "license:llama2",
+      "model-index",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-14T00:30:32.000Z",
+    "modelId": "TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF"
+  },
+  {
+    "_id": "6552c345764637dae0879b6f",
+    "id": "TheBloke/Synatra-7B-v0.3-RP-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-14T00:45:57.000Z",
+    "modelId": "TheBloke/Synatra-7B-v0.3-RP-GPTQ"
   }
 ]
