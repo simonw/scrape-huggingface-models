@@ -21524,7 +21524,7 @@
   {
     "_id": "64f787bebcf14b0c9155ef0e",
     "id": "TheBloke/Vigogne-2-7B-Instruct-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -52826,7 +52826,7 @@
   {
     "_id": "655280a0d05fe94e01a47abe",
     "id": "TheBloke/dolphin-2_2-yi-34b-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -52906,8 +52906,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "ko",
+      "base_model:maywell/Synatra-7B-v0.3-RP",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-13T23:27:33.000Z",
     "modelId": "TheBloke/Synatra-7B-v0.3-RP-AWQ"
   },
