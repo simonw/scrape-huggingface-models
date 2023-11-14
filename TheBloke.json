@@ -9924,7 +9924,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 630,
+    "likes": 631,
     "private": false,
     "downloads": 5574,
     "tags": [
@@ -10877,7 +10877,7 @@
   {
     "_id": "64bb0fee1363b5c7996fc358",
     "id": "TheBloke/llama2_7b_chat_uncensored-GPTQ",
-    "likes": 55,
+    "likes": 56,
     "private": false,
     "downloads": 815,
     "tags": [
@@ -41501,7 +41501,7 @@
   {
     "_id": "652a4a91c59e682042c1b91f",
     "id": "TheBloke/OpenHermes-2-Mistral-7B-GGUF",
-    "likes": 67,
+    "likes": 68,
     "private": false,
     "downloads": 175,
     "tags": [
@@ -50007,7 +50007,7 @@
   {
     "_id": "65479a438767484a0548595b",
     "id": "TheBloke/deepseek-coder-6.7B-instruct-GGUF",
-    "likes": 33,
+    "likes": 34,
     "private": false,
     "downloads": 28,
     "tags": [
@@ -53345,8 +53345,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code",
+      "en",
+      "dataset:ajibawa-2023/Python-Code-23k-ShareGPT",
+      "base_model:ajibawa-2023/Python-Code-13B",
+      "license:cc-by-nc-nd-4.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-14T20:44:01.000Z",
     "modelId": "TheBloke/Python-Code-13B-GPTQ"
   },
@@ -53357,8 +53369,24 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "shining-valiant",
+      "valiant",
+      "valiant-labs",
+      "llama-2",
+      "llama-2-chat",
+      "13b",
+      "en",
+      "base_model:ValiantLabs/ShiningValiantXS",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-14T20:59:59.000Z",
     "modelId": "TheBloke/ShiningValiantXS-AWQ"
   },
@@ -53395,6 +53423,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "base_model:sequelbox/DaringFortitude",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "createdAt": "2023-11-14T21:01:14.000Z",
@@ -53407,9 +53440,30 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:sequelbox/DaringFortitude",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-14T21:01:14.000Z",
     "modelId": "TheBloke/DaringFortitude-AWQ"
+  },
+  {
+    "_id": "6553e6956bc4180700b85089",
+    "id": "TheBloke/Python-Code-33B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-14T21:28:53.000Z",
+    "modelId": "TheBloke/Python-Code-33B-GPTQ"
   }
 ]
