@@ -52852,7 +52852,7 @@
   {
     "_id": "6552971bcbfd4fca8dd5b191",
     "id": "TheBloke/dolphin-2_2-yi-34b-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -53291,6 +53291,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "code",
+      "en",
+      "dataset:ajibawa-2023/Python-Code-23k-ShareGPT",
+      "base_model:ajibawa-2023/Python-Code-33B",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "createdAt": "2023-11-14T18:53:03.000Z",
