@@ -941,7 +941,7 @@
   {
     "_id": "645f47cf6990e1208522b824",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
-    "likes": 260,
+    "likes": 261,
     "private": false,
     "downloads": 24597,
     "tags": [
@@ -9977,7 +9977,7 @@
   {
     "_id": "64b6d3eeab056b63ede8a758",
     "id": "TheBloke/Llama-2-13B-chat-GGML",
-    "likes": 627,
+    "likes": 628,
     "private": false,
     "downloads": 1821,
     "tags": [
@@ -46107,7 +46107,7 @@
   {
     "_id": "653980d40da86d726c8765e9",
     "id": "TheBloke/lzlv_70B-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 25,
     "tags": [
@@ -46267,7 +46267,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 131,
+    "likes": 132,
     "private": false,
     "downloads": 965,
     "tags": [
@@ -53554,8 +53554,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "base_model:NurtureAI/SynthIA-7B-v2.0-16k",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-15T08:58:14.000Z",
     "modelId": "TheBloke/SynthIA-7B-v2.0-16k-AWQ"
   },
