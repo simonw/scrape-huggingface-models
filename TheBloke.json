@@ -40411,7 +40411,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 128,
+    "likes": 129,
     "private": false,
     "downloads": 929,
     "tags": [
@@ -42957,7 +42957,7 @@
   {
     "_id": "652bd2f960e7067305b18dee",
     "id": "TheBloke/llava-v1.5-13B-GPTQ",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 1034,
     "tags": [
@@ -52263,7 +52263,7 @@
   {
     "_id": "654ec9fbaae66b1676cd6256",
     "id": "TheBloke/openchat_3.5-16k-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -52783,7 +52783,7 @@
   {
     "_id": "65526c84fb76980adeff5db6",
     "id": "TheBloke/Nous-Capybara-34B-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -53506,8 +53506,24 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "shining-valiant",
+      "valiant",
+      "valiant-labs",
+      "llama-2",
+      "llama-2-chat",
+      "13b",
+      "en",
+      "base_model:ValiantLabs/ShiningValiantXS",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-14T23:31:40.000Z",
     "modelId": "TheBloke/ShiningValiantXS-GPTQ"
   }
