@@ -37249,7 +37249,7 @@
   {
     "_id": "6515ffbc3e5a12e0ceaefd75",
     "id": "TheBloke/Mistral-7B-v0.1-GPTQ",
-    "likes": 24,
+    "likes": 25,
     "private": false,
     "downloads": 3768,
     "tags": [
@@ -46633,7 +46633,7 @@
   {
     "_id": "653cb71f48e79d7e63b280c8",
     "id": "TheBloke/Lewd-Sydney-20B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 18,
     "tags": [
@@ -53652,5 +53652,41 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-15T10:39:37.000Z",
     "modelId": "TheBloke/zephyr-7B-beta-pl-AWQ"
+  },
+  {
+    "_id": "6554a9471402f39ebc19b9e5",
+    "id": "TheBloke/Tess-XL-v1.0-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-15T11:19:35.000Z",
+    "modelId": "TheBloke/Tess-XL-v1.0-GPTQ"
+  },
+  {
+    "_id": "6554a94724101a13f79fe779",
+    "id": "TheBloke/Tess-XL-v1.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-15T11:19:35.000Z",
+    "modelId": "TheBloke/Tess-XL-v1.0-GGUF"
+  },
+  {
+    "_id": "6554a947822892a925366950",
+    "id": "TheBloke/Tess-XL-v1.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-15T11:19:35.000Z",
+    "modelId": "TheBloke/Tess-XL-v1.0-AWQ"
   }
 ]
