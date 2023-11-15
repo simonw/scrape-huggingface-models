@@ -47807,7 +47807,7 @@
   {
     "_id": "653ec8823ea696d46375b9de",
     "id": "TheBloke/Free_Sydney_V2_13B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -51438,7 +51438,7 @@
   {
     "_id": "654cd5c878c68b6d4c71df7c",
     "id": "TheBloke/goliath-120b-GGUF",
-    "likes": 25,
+    "likes": 26,
     "private": false,
     "downloads": 189,
     "tags": [
@@ -52783,7 +52783,7 @@
   {
     "_id": "65526c84fb76980adeff5db6",
     "id": "TheBloke/Nous-Capybara-34B-GGUF",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -53672,6 +53672,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "base_model:migtissera/Tess-XL-v1.0",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "createdAt": "2023-11-15T11:19:35.000Z",
