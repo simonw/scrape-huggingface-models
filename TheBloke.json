@@ -9924,7 +9924,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 631,
+    "likes": 632,
     "private": false,
     "downloads": 5574,
     "tags": [
@@ -16397,7 +16397,7 @@
   {
     "_id": "64e78cdac3b2443fb30b9dda",
     "id": "TheBloke/CodeLlama-7B-Instruct-GGUF",
-    "likes": 69,
+    "likes": 70,
     "private": false,
     "downloads": 364,
     "tags": [
@@ -53576,8 +53576,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "base_model:NurtureAI/SynthIA-7B-v2.0-16k",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-15T08:58:14.000Z",
     "modelId": "TheBloke/SynthIA-7B-v2.0-16k-GPTQ"
   }
