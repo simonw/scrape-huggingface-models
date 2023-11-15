@@ -37333,7 +37333,7 @@
   {
     "_id": "65170566fff98a48b2a649f7",
     "id": "TheBloke/Synthia-7B-v1.3-GGUF",
-    "likes": 32,
+    "likes": 33,
     "private": false,
     "downloads": 113,
     "tags": [
@@ -51438,7 +51438,7 @@
   {
     "_id": "654cd5c878c68b6d4c71df7c",
     "id": "TheBloke/goliath-120b-GGUF",
-    "likes": 29,
+    "likes": 30,
     "private": false,
     "downloads": 189,
     "tags": [
@@ -51458,7 +51458,7 @@
   {
     "_id": "654cdb4fce215f3cd11d2355",
     "id": "TheBloke/goliath-120b-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 45,
     "tags": [
@@ -53660,10 +53660,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
       "base_model:migtissera/Tess-XL-v1.0",
       "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-15T11:19:35.000Z",
     "modelId": "TheBloke/Tess-XL-v1.0-GPTQ"
   },
