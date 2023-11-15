@@ -48075,7 +48075,7 @@
   {
     "_id": "653ff57579be1a74387cd213",
     "id": "TheBloke/Nethena-20B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -52729,7 +52729,7 @@
   {
     "_id": "65526c8423f65166d2f80cdf",
     "id": "TheBloke/Nous-Capybara-34B-AWQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -53572,7 +53572,7 @@
   {
     "_id": "65548826ace6c512cf90cdc1",
     "id": "TheBloke/SynthIA-7B-v2.0-16k-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -53935,5 +53935,17 @@
     ],
     "createdAt": "2023-11-15T23:00:24.000Z",
     "modelId": "TheBloke/Tai-70B-GGUF"
+  },
+  {
+    "_id": "655554275f7b57f58512202f",
+    "id": "TheBloke/MoMo-70B-V1.1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-15T23:28:39.000Z",
+    "modelId": "TheBloke/MoMo-70B-V1.1-GGUF"
   }
 ]
