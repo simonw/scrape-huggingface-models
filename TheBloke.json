@@ -49090,7 +49090,7 @@
   {
     "_id": "6543cda9998b3248a1fedce8",
     "id": "TheBloke/Yarn-Mistral-7B-128k-GGUF",
-    "likes": 88,
+    "likes": 89,
     "private": false,
     "downloads": 222,
     "tags": [
@@ -52783,7 +52783,7 @@
   {
     "_id": "65526c84fb76980adeff5db6",
     "id": "TheBloke/Nous-Capybara-34B-GGUF",
-    "likes": 29,
+    "likes": 33,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -53750,8 +53750,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:Intel/neural-chat-7b-v3-1",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-15T19:13:27.000Z",
     "modelId": "TheBloke/neural-chat-7B-v3-1-GPTQ"
   }
