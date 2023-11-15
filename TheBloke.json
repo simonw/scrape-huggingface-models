@@ -53778,8 +53778,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "code",
+      "en",
+      "base_model:defog/sqlcoder-7b",
+      "license:cc-by-sa-4.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-15T21:53:49.000Z",
     "modelId": "TheBloke/sqlcoder-7B-GPTQ"
   },
@@ -53790,8 +53801,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "code",
+      "en",
+      "base_model:defog/sqlcoder-7b",
+      "license:cc-by-sa-4.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-15T21:53:49.000Z",
     "modelId": "TheBloke/sqlcoder-7B-AWQ"
   },
@@ -53815,5 +53837,57 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-15T21:53:49.000Z",
     "modelId": "TheBloke/sqlcoder-7B-GGUF"
+  },
+  {
+    "_id": "655541e76eb0a1c7c375c3fc",
+    "id": "TheBloke/Thespis-Mistral-7B-v0.6-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "not-for-all-audiences",
+      "base_model:cgato/Thespis-Mistral-7b-v0.6",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-15T22:10:47.000Z",
+    "modelId": "TheBloke/Thespis-Mistral-7B-v0.6-GGUF"
+  },
+  {
+    "_id": "655541e78094dce8235f4f0e",
+    "id": "TheBloke/Thespis-Mistral-7B-v0.6-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "not-for-all-audiences",
+      "base_model:cgato/Thespis-Mistral-7b-v0.6",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-15T22:10:47.000Z",
+    "modelId": "TheBloke/Thespis-Mistral-7B-v0.6-AWQ"
+  },
+  {
+    "_id": "6555458be0169cf32cda93ea",
+    "id": "TheBloke/Thespis-Mistral-7B-v0.6-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-15T22:26:19.000Z",
+    "modelId": "TheBloke/Thespis-Mistral-7B-v0.6-GPTQ"
   }
 ]
