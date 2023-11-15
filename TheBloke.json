@@ -9924,7 +9924,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 634,
+    "likes": 635,
     "private": false,
     "downloads": 5574,
     "tags": [
@@ -51438,7 +51438,7 @@
   {
     "_id": "654cd5c878c68b6d4c71df7c",
     "id": "TheBloke/goliath-120b-GGUF",
-    "likes": 30,
+    "likes": 31,
     "private": false,
     "downloads": 189,
     "tags": [
@@ -53885,9 +53885,55 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "not-for-all-audiences",
+      "base_model:cgato/Thespis-Mistral-7b-v0.6",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-15T22:26:19.000Z",
     "modelId": "TheBloke/Thespis-Mistral-7B-v0.6-GPTQ"
+  },
+  {
+    "_id": "65554d884f361968f0ecef07",
+    "id": "TheBloke/Tai-70B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-15T23:00:24.000Z",
+    "modelId": "TheBloke/Tai-70B-GPTQ"
+  },
+  {
+    "_id": "65554d88a6554059710c2244",
+    "id": "TheBloke/Tai-70B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-15T23:00:24.000Z",
+    "modelId": "TheBloke/Tai-70B-AWQ"
+  },
+  {
+    "_id": "65554d88bce11b9cde7bf355",
+    "id": "TheBloke/Tai-70B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-15T23:00:24.000Z",
+    "modelId": "TheBloke/Tai-70B-GGUF"
   }
 ]
