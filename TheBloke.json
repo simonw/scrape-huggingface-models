@@ -18827,7 +18827,7 @@
   {
     "_id": "64f0787aa8e82e0b85b503cd",
     "id": "TheBloke/MythoMax-L2-Kimiko-v2-13B-GGUF",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 27,
     "tags": [
@@ -20001,7 +20001,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7B-Chat-GGUF",
-    "likes": 140,
+    "likes": 141,
     "private": false,
     "downloads": 3662,
     "tags": [
@@ -26013,7 +26013,7 @@
   {
     "_id": "6508f866f36bb51c50044cec",
     "id": "TheBloke/WizardLM-70B-V1.0-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 260,
     "tags": [
@@ -36424,7 +36424,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 267,
+    "likes": 268,
     "private": false,
     "downloads": 4999,
     "tags": [
@@ -38445,7 +38445,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 174,
+    "likes": 175,
     "private": false,
     "downloads": 1349,
     "tags": [
@@ -46204,7 +46204,7 @@
   {
     "_id": "6539aa2be279d2fc80bd8595",
     "id": "TheBloke/lzlv_70B-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 146,
     "tags": [
@@ -46267,7 +46267,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 133,
+    "likes": 134,
     "private": false,
     "downloads": 965,
     "tags": [
@@ -51438,7 +51438,7 @@
   {
     "_id": "654cd5c878c68b6d4c71df7c",
     "id": "TheBloke/goliath-120b-GGUF",
-    "likes": 28,
+    "likes": 29,
     "private": false,
     "downloads": 189,
     "tags": [
@@ -53689,8 +53689,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:migtissera/Tess-XL-v1.0",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-15T11:19:35.000Z",
     "modelId": "TheBloke/Tess-XL-v1.0-AWQ"
   }
