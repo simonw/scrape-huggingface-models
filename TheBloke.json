@@ -7375,7 +7375,7 @@
   {
     "_id": "649e3023eae65e9a5d1c4cc3",
     "id": "TheBloke/Pygmalion-13B-SuperHOT-8K-GGML",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -28087,7 +28087,7 @@
   {
     "_id": "65094ccfabdde5290e747cc8",
     "id": "TheBloke/Pygmalion-2-13B-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 846,
     "tags": [
@@ -28116,7 +28116,7 @@
   {
     "_id": "650950027e0d56c27161ce54",
     "id": "TheBloke/Pygmalion-2-7B-AWQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 70,
     "tags": [
@@ -49233,7 +49233,7 @@
   {
     "_id": "654418242996405c238f5eea",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
-    "likes": 60,
+    "likes": 62,
     "private": false,
     "downloads": 98,
     "tags": [
@@ -53702,5 +53702,43 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-15T11:19:35.000Z",
     "modelId": "TheBloke/Tess-XL-v1.0-AWQ"
+  },
+  {
+    "_id": "65550b8fa655405971013bce",
+    "id": "TheBloke/neural-chat-7B-v3-1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:Intel/neural-chat-7b-v3-1",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-15T18:18:55.000Z",
+    "modelId": "TheBloke/neural-chat-7B-v3-1-AWQ"
+  },
+  {
+    "_id": "65550b8fd5a72476aed640ab",
+    "id": "TheBloke/neural-chat-7B-v3-1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "base_model:Intel/neural-chat-7b-v3-1",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-15T18:18:55.000Z",
+    "modelId": "TheBloke/neural-chat-7B-v3-1-GGUF"
   }
 ]
