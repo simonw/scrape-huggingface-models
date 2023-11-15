@@ -20026,7 +20026,7 @@
   {
     "_id": "64f611cf6ad07ea81779ca15",
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
-    "likes": 93,
+    "likes": 94,
     "private": false,
     "downloads": 1138,
     "tags": [
@@ -21733,7 +21733,7 @@
   {
     "_id": "64f7a55fe7584abc62396874",
     "id": "TheBloke/Pygmalion-2-7B-GGUF",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 19,
     "tags": [
@@ -38603,7 +38603,7 @@
   {
     "_id": "651b3e9acd08536ba4db03b3",
     "id": "TheBloke/Nous-Capybara-7B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 33,
     "tags": [
@@ -53590,5 +53590,67 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-15T08:58:14.000Z",
     "modelId": "TheBloke/SynthIA-7B-v2.0-16k-GPTQ"
+  },
+  {
+    "_id": "65549fe92792bfadc5ce2ab3",
+    "id": "TheBloke/zephyr-7B-beta-pl-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "pl",
+      "base_model:Nondzu/zephyr-7b-beta-pl",
+      "license:mit",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-15T10:39:37.000Z",
+    "modelId": "TheBloke/zephyr-7B-beta-pl-GPTQ"
+  },
+  {
+    "_id": "65549fe943cc10c9d0a3584a",
+    "id": "TheBloke/zephyr-7B-beta-pl-GGUF",
+    "likes": 2,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "pl",
+      "base_model:Nondzu/zephyr-7b-beta-pl",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-15T10:39:37.000Z",
+    "modelId": "TheBloke/zephyr-7B-beta-pl-GGUF"
+  },
+  {
+    "_id": "65549fe9ddcd3e36f42914c0",
+    "id": "TheBloke/zephyr-7B-beta-pl-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "pl",
+      "base_model:Nondzu/zephyr-7b-beta-pl",
+      "license:mit",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-15T10:39:37.000Z",
+    "modelId": "TheBloke/zephyr-7B-beta-pl-AWQ"
   }
 ]
