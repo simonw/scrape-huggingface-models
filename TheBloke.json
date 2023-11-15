@@ -50966,7 +50966,7 @@
   {
     "_id": "654b6b99b3eae6a0254b235e",
     "id": "TheBloke/Thespis-13B-v0.6-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -53770,5 +53770,50 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-15T19:13:27.000Z",
     "modelId": "TheBloke/neural-chat-7B-v3-1-GPTQ"
+  },
+  {
+    "_id": "65553ded2da2e4f12e6bf062",
+    "id": "TheBloke/sqlcoder-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-15T21:53:49.000Z",
+    "modelId": "TheBloke/sqlcoder-7B-GPTQ"
+  },
+  {
+    "_id": "65553ded9518733aca046394",
+    "id": "TheBloke/sqlcoder-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-15T21:53:49.000Z",
+    "modelId": "TheBloke/sqlcoder-7B-AWQ"
+  },
+  {
+    "_id": "65553deddcf410fd073208e8",
+    "id": "TheBloke/sqlcoder-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "code",
+      "text-generation",
+      "en",
+      "base_model:defog/sqlcoder-7b",
+      "license:cc-by-sa-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-15T21:53:49.000Z",
+    "modelId": "TheBloke/sqlcoder-7B-GGUF"
   }
 ]
