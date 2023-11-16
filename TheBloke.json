@@ -26616,7 +26616,7 @@
   {
     "_id": "65091bbd2257a3afbaca903c",
     "id": "TheBloke/Dolphin-Llama2-7B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 68,
     "tags": [
@@ -54054,7 +54054,9 @@
       "safetensors",
       "llama",
       "text-generation",
-      "endpoints_compatible",
+      "dataset:totally-not-an-llm/EverythingLM-data-V3",
+      "base_model:KnutJaegersberg/Deacon-34B",
+      "license:other",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -54118,5 +54120,17 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-16T08:32:24.000Z",
     "modelId": "TheBloke/Tess-Medium-200K-v1.0-AWQ"
+  },
+  {
+    "_id": "6555eb5511b77e167f96ccbd",
+    "id": "TheBloke/Tess-Medium-200K-v1.0-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-16T10:13:41.000Z",
+    "modelId": "TheBloke/Tess-Medium-200K-v1.0-GPTQ"
   }
 ]
