@@ -51132,7 +51132,7 @@
   {
     "_id": "654b921ffda290a640f39fab",
     "id": "TheBloke/dolphin-2.2-70B-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -53907,8 +53907,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:Metaspectral/Tai",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-15T23:00:24.000Z",
     "modelId": "TheBloke/Tai-70B-GPTQ"
   },
@@ -53967,5 +53976,29 @@
     ],
     "createdAt": "2023-11-15T23:28:39.000Z",
     "modelId": "TheBloke/MoMo-70B-V1.1-GGUF"
+  },
+  {
+    "_id": "65558d15598cbe7bfdbdfdda",
+    "id": "TheBloke/MoMo-70B-V1.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-16T03:31:33.000Z",
+    "modelId": "TheBloke/MoMo-70B-V1.1-AWQ"
+  },
+  {
+    "_id": "65558d15bc6ff300d457123d",
+    "id": "TheBloke/MoMo-70B-V1.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-16T03:31:33.000Z",
+    "modelId": "TheBloke/MoMo-70B-V1.1-GPTQ"
   }
 ]
