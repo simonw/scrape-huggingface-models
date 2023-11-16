@@ -20219,7 +20219,7 @@
   {
     "_id": "64f69c38c3bdaab6f58e2b8c",
     "id": "TheBloke/MythoMax-L2-13B-GGUF",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 104,
     "tags": [
@@ -50723,7 +50723,7 @@
   {
     "_id": "654a4f4c3ed9b2c805e5578a",
     "id": "TheBloke/Toppy-M-7B-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -52087,7 +52087,7 @@
   {
     "_id": "654e7cc977c8ec680d1515e8",
     "id": "TheBloke/prometheus-7B-v1.0-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -52263,7 +52263,7 @@
   {
     "_id": "654ec9fbaae66b1676cd6256",
     "id": "TheBloke/openchat_3.5-16k-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 13,
     "tags": [
@@ -52653,7 +52653,7 @@
   {
     "_id": "6550c338bebf0c4c5108c456",
     "id": "TheBloke/Augmental-ReMM-13B-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -52783,7 +52783,7 @@
   {
     "_id": "65526c84fb76980adeff5db6",
     "id": "TheBloke/Nous-Capybara-34B-GGUF",
-    "likes": 38,
+    "likes": 39,
     "private": false,
     "downloads": 21,
     "tags": [
@@ -53841,7 +53841,7 @@
   {
     "_id": "655541e76eb0a1c7c375c3fc",
     "id": "TheBloke/Thespis-Mistral-7B-v0.6-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -54232,8 +54232,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "gpt_neox",
+      "text-generation",
+      "MerlynMind",
+      "education",
+      "base_model:MerlynMind/merlyn-education-safety",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-16T15:45:41.000Z",
     "modelId": "TheBloke/merlyn-education-safety-AWQ"
   },
@@ -54244,8 +54255,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "gpt_neox",
+      "text-generation",
+      "endpoints_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-16T15:45:41.000Z",
     "modelId": "TheBloke/merlyn-education-safety-GPTQ"
   }
