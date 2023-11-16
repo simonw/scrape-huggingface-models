@@ -2174,7 +2174,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 422,
+    "likes": 423,
     "private": false,
     "downloads": 20246,
     "tags": [
@@ -20001,7 +20001,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7B-Chat-GGUF",
-    "likes": 145,
+    "likes": 146,
     "private": false,
     "downloads": 3662,
     "tags": [
@@ -36220,7 +36220,7 @@
   {
     "_id": "65140cda51c0141fa86b7d8b",
     "id": "TheBloke/U-Amethyst-20B-GGUF",
-    "likes": 25,
+    "likes": 26,
     "private": false,
     "downloads": 104,
     "tags": [
@@ -40303,7 +40303,7 @@
   {
     "_id": "65254d7f9e4a6675fe8d0139",
     "id": "TheBloke/sqlcoder2-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 770,
     "tags": [
@@ -54050,8 +54050,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "endpoints_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-16T08:12:52.000Z",
     "modelId": "TheBloke/Deacon-34B-GPTQ"
   },
@@ -54097,8 +54105,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:migtissera/Tess-Medium-200K-v1.0",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-16T08:32:24.000Z",
     "modelId": "TheBloke/Tess-Medium-200K-v1.0-AWQ"
   }
