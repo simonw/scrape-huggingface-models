@@ -3929,7 +3929,7 @@
   {
     "_id": "64850bf85f815d441b36ab90",
     "id": "TheBloke/tulu-7B-fp16",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 5950,
     "tags": [
@@ -6381,7 +6381,7 @@
   {
     "_id": "649a5dcd96d5747b35e30c6f",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-SuperHOT-8K-GPTQ",
-    "likes": 99,
+    "likes": 100,
     "private": false,
     "downloads": 16194,
     "tags": [
@@ -22384,7 +22384,7 @@
   {
     "_id": "64f88e4fb0f25f3fe3b0d66e",
     "id": "TheBloke/Synthia-70B-v1.2-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 28,
     "tags": [
@@ -25398,7 +25398,7 @@
   {
     "_id": "6508c16eabdde5290e606c80",
     "id": "TheBloke/Llama-2-7B-Chat-AWQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 10087,
     "tags": [
@@ -25425,7 +25425,7 @@
   {
     "_id": "6508df7ac19e5b4c8a2d8552",
     "id": "TheBloke/Llama-2-7B-AWQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 749,
     "tags": [
@@ -28142,7 +28142,7 @@
   {
     "_id": "65094cce69739cd31019ab5f",
     "id": "TheBloke/Mythalion-13B-AWQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 4969,
     "tags": [
@@ -34495,7 +34495,7 @@
   {
     "_id": "650c03bf677f9e45963f00fb",
     "id": "TheBloke/Xwin-LM-70B-V0.1-GPTQ",
-    "likes": 36,
+    "likes": 37,
     "private": false,
     "downloads": 1315,
     "tags": [
@@ -34516,7 +34516,7 @@
   {
     "_id": "650c03c9987b1ae4e520326f",
     "id": "TheBloke/Xwin-LM-70B-V0.1-AWQ",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 1023,
     "tags": [
@@ -43243,7 +43243,7 @@
   {
     "_id": "652c5b64ec10d7e48109c91e",
     "id": "TheBloke/Mistral-11B-OmniMix-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 26,
     "tags": [
@@ -50332,7 +50332,7 @@
   {
     "_id": "6548287fb6a8bd2c90770f9b",
     "id": "TheBloke/Hermes-Trismegistus-Mistral-7B-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 19,
     "tags": [
@@ -54378,8 +54378,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "llama-2",
+      "roleplaying",
+      "base_model:BlueNipples/TimeCrystal-l2-13B",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-16T20:58:11.000Z",
     "modelId": "TheBloke/TimeCrystal-L2-13B-GPTQ"
   },
@@ -54424,5 +54435,69 @@
     ],
     "createdAt": "2023-11-16T20:58:11.000Z",
     "modelId": "TheBloke/TimeCrystal-L2-13B-GGUF"
+  },
+  {
+    "_id": "65568d100f449352977615ef",
+    "id": "TheBloke/OpenHermes-2.5-Mistral-7B-16k-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-16T21:43:44.000Z",
+    "modelId": "TheBloke/OpenHermes-2.5-Mistral-7B-16k-GPTQ"
+  },
+  {
+    "_id": "65568d1035f26c82c09eef13",
+    "id": "TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "instruct",
+      "finetune",
+      "chatml",
+      "gpt4",
+      "synthetic data",
+      "distillation",
+      "en",
+      "base_model:NurtureAI/OpenHermes-2.5-Mistral-7B-16k",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-16T21:43:44.000Z",
+    "modelId": "TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF"
+  },
+  {
+    "_id": "65568d1035f26c82c09eef16",
+    "id": "TheBloke/OpenHermes-2.5-Mistral-7B-16k-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "instruct",
+      "finetune",
+      "chatml",
+      "gpt4",
+      "synthetic data",
+      "distillation",
+      "en",
+      "base_model:NurtureAI/OpenHermes-2.5-Mistral-7B-16k",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-16T21:43:44.000Z",
+    "modelId": "TheBloke/OpenHermes-2.5-Mistral-7B-16k-AWQ"
   }
 ]
