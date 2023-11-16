@@ -707,7 +707,7 @@
   {
     "_id": "64551fa7d55525a4fee7e6f9",
     "id": "TheBloke/GPT4All-13B-snoozy-GGML",
-    "likes": 44,
+    "likes": 45,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -54024,7 +54024,7 @@
   {
     "_id": "65554d88a6554059710c2244",
     "id": "TheBloke/Tai-70B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -54390,8 +54390,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "llama-2",
+      "roleplaying",
+      "base_model:BlueNipples/TimeCrystal-l2-13B",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-16T20:58:11.000Z",
     "modelId": "TheBloke/TimeCrystal-L2-13B-AWQ"
   },
