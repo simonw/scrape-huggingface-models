@@ -36407,7 +36407,7 @@
   {
     "_id": "651462ec463c4fd767f2fe08",
     "id": "TheBloke/Athena-v3-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 32,
     "tags": [
@@ -47709,7 +47709,7 @@
   {
     "_id": "653e9237ec992c5c20897c96",
     "id": "TheBloke/AquilaChat2-34B-16K-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 77,
     "tags": [
@@ -49069,7 +49069,7 @@
   {
     "_id": "6543cac6e9e8e72d2acd55c4",
     "id": "TheBloke/openchat_3.5-GGUF",
-    "likes": 73,
+    "likes": 74,
     "private": false,
     "downloads": 211,
     "tags": [
@@ -52440,7 +52440,7 @@
   {
     "_id": "654fa6108ffcf56fcb8d30a8",
     "id": "TheBloke/Yi-34B-200K-Llamafied-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 100,
     "tags": [
@@ -52783,7 +52783,7 @@
   {
     "_id": "65526c84fb76980adeff5db6",
     "id": "TheBloke/Nous-Capybara-34B-GGUF",
-    "likes": 35,
+    "likes": 37,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -54006,8 +54006,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "endpoints_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-16T03:31:33.000Z",
     "modelId": "TheBloke/MoMo-70B-V1.1-GPTQ"
   }
