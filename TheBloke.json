@@ -406,7 +406,7 @@
     "id": "TheBloke/wizardLM-7B-HF",
     "likes": 90,
     "private": false,
-    "downloads": 8052,
+    "downloads": 8083,
     "tags": [
       "transformers",
       "pytorch",
@@ -440,7 +440,7 @@
     "id": "TheBloke/wizardLM-7B-GPTQ",
     "likes": 104,
     "private": false,
-    "downloads": 646,
+    "downloads": 604,
     "tags": [
       "transformers",
       "safetensors",
@@ -461,7 +461,7 @@
     "id": "TheBloke/stable-vicuna-13B-HF",
     "likes": 95,
     "private": false,
-    "downloads": 6660,
+    "downloads": 6580,
     "tags": [
       "transformers",
       "pytorch",
@@ -502,7 +502,7 @@
     "id": "TheBloke/stable-vicuna-13B-GPTQ",
     "likes": 219,
     "private": false,
-    "downloads": 232,
+    "downloads": 225,
     "tags": [
       "transformers",
       "safetensors",
@@ -528,7 +528,7 @@
     "id": "TheBloke/OpenAssistant-SFT-7-Llama-30B-HF",
     "likes": 14,
     "private": false,
-    "downloads": 5865,
+    "downloads": 5771,
     "tags": [
       "transformers",
       "pytorch",
@@ -564,7 +564,7 @@
     "id": "TheBloke/OpenAssistant-SFT-7-Llama-30B-GPTQ",
     "likes": 36,
     "private": false,
-    "downloads": 54,
+    "downloads": 44,
     "tags": [
       "transformers",
       "safetensors",
@@ -599,7 +599,7 @@
     "id": "TheBloke/wizard-vicuna-13B-GPTQ",
     "likes": 100,
     "private": false,
-    "downloads": 6339,
+    "downloads": 6172,
     "tags": [
       "transformers",
       "safetensors",
@@ -623,7 +623,7 @@
     "id": "TheBloke/wizard-vicuna-13B-HF",
     "likes": 48,
     "private": false,
-    "downloads": 5908,
+    "downloads": 5796,
     "tags": [
       "transformers",
       "pytorch",
@@ -659,7 +659,7 @@
     "id": "TheBloke/WizardLM-7B-uncensored-GPTQ",
     "likes": 159,
     "private": false,
-    "downloads": 9508,
+    "downloads": 9472,
     "tags": [
       "transformers",
       "safetensors",
@@ -683,7 +683,7 @@
     "id": "TheBloke/GPT4All-13B-snoozy-GPTQ",
     "likes": 29,
     "private": false,
-    "downloads": 34,
+    "downloads": 68,
     "tags": [
       "transformers",
       "safetensors",
@@ -718,7 +718,7 @@
     "id": "TheBloke/gpt4-x-vicuna-13B-GPTQ",
     "likes": 34,
     "private": false,
-    "downloads": 5,
+    "downloads": 10,
     "tags": [
       "transformers",
       "safetensors",
@@ -764,7 +764,7 @@
     "id": "TheBloke/dromedary-65b-lora-HF",
     "likes": 20,
     "private": false,
-    "downloads": 5839,
+    "downloads": 5741,
     "tags": [
       "transformers",
       "pytorch",
@@ -784,7 +784,7 @@
     "id": "TheBloke/h2ogpt-oasst1-512-30B-GPTQ",
     "likes": 5,
     "private": false,
-    "downloads": 7,
+    "downloads": 9,
     "tags": [
       "transformers",
       "safetensors",
@@ -823,7 +823,7 @@
     "id": "TheBloke/dromedary-65B-lora-GPTQ",
     "likes": 7,
     "private": false,
-    "downloads": 8,
+    "downloads": 7,
     "tags": [
       "transformers",
       "safetensors",
@@ -843,7 +843,7 @@
     "id": "TheBloke/h2ogpt-oasst1-512-30B-HF",
     "likes": 2,
     "private": false,
-    "downloads": 5834,
+    "downloads": 5727,
     "tags": [
       "transformers",
       "pytorch",
@@ -882,7 +882,7 @@
     "id": "TheBloke/gpt4-alpaca-lora_mlp-65B-HF",
     "likes": 7,
     "private": false,
-    "downloads": 6218,
+    "downloads": 6119,
     "tags": [
       "transformers",
       "pytorch",
@@ -905,7 +905,7 @@
     "id": "TheBloke/gpt4-alpaca-lora_mlp-65B-GPTQ",
     "likes": 14,
     "private": false,
-    "downloads": 47,
+    "downloads": 33,
     "tags": [
       "transformers",
       "safetensors",
@@ -943,7 +943,7 @@
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
     "likes": 261,
     "private": false,
-    "downloads": 24597,
+    "downloads": 24631,
     "tags": [
       "transformers",
       "safetensors",
@@ -968,7 +968,7 @@
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-HF",
     "likes": 200,
     "private": false,
-    "downloads": 6708,
+    "downloads": 6247,
     "tags": [
       "transformers",
       "pytorch",
@@ -40258,7 +40258,7 @@
   {
     "_id": "65252a6b9e4a6675fe888d34",
     "id": "TheBloke/em_german_leo_mistral-GGUF",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 72,
     "tags": [
