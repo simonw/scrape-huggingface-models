@@ -51232,7 +51232,7 @@
   {
     "_id": "654b921ffda290a640f39fab",
     "id": "TheBloke/dolphin-2.2-70B-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -53519,7 +53519,7 @@
   {
     "_id": "6553e01a24101a13f78052a1",
     "id": "TheBloke/DaringFortitude-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -54370,5 +54370,48 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-16T15:45:41.000Z",
     "modelId": "TheBloke/merlyn-education-safety-GPTQ"
+  },
+  {
+    "_id": "655682636539c9a5a529a8b7",
+    "id": "TheBloke/TimeCrystal-L2-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-16T20:58:11.000Z",
+    "modelId": "TheBloke/TimeCrystal-L2-13B-GPTQ"
+  },
+  {
+    "_id": "655682638616d8d740b3b057",
+    "id": "TheBloke/TimeCrystal-L2-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-16T20:58:11.000Z",
+    "modelId": "TheBloke/TimeCrystal-L2-13B-AWQ"
+  },
+  {
+    "_id": "65568263d23e211b1c8f0fa0",
+    "id": "TheBloke/TimeCrystal-L2-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "llama-2",
+      "roleplaying",
+      "base_model:BlueNipples/TimeCrystal-l2-13B",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-16T20:58:11.000Z",
+    "modelId": "TheBloke/TimeCrystal-L2-13B-GGUF"
   }
 ]
