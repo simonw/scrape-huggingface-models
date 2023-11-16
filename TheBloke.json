@@ -54245,7 +54245,7 @@
   {
     "_id": "65561752bf4c000cc62b810f",
     "id": "TheBloke/merlyn-education-corpus-qa-v2-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -54443,8 +54443,24 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "instruct",
+      "finetune",
+      "chatml",
+      "gpt4",
+      "synthetic data",
+      "distillation",
+      "en",
+      "base_model:NurtureAI/OpenHermes-2.5-Mistral-7B-16k",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-16T21:43:44.000Z",
     "modelId": "TheBloke/OpenHermes-2.5-Mistral-7B-16k-GPTQ"
   },
@@ -54499,5 +54515,41 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-16T21:43:44.000Z",
     "modelId": "TheBloke/OpenHermes-2.5-Mistral-7B-16k-AWQ"
+  },
+  {
+    "_id": "6556a03255c514dc591bac36",
+    "id": "TheBloke/platypus-yi-34b-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-16T23:05:22.000Z",
+    "modelId": "TheBloke/platypus-yi-34b-GPTQ"
+  },
+  {
+    "_id": "6556a0328076124b8d748b15",
+    "id": "TheBloke/platypus-yi-34b-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-16T23:05:22.000Z",
+    "modelId": "TheBloke/platypus-yi-34b-AWQ"
+  },
+  {
+    "_id": "6556a032f551801d406c5362",
+    "id": "TheBloke/platypus-yi-34b-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-16T23:05:22.000Z",
+    "modelId": "TheBloke/platypus-yi-34b-GGUF"
   }
 ]
