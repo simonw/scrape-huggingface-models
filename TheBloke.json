@@ -51538,7 +51538,7 @@
   {
     "_id": "654cd5c878c68b6d4c71df7c",
     "id": "TheBloke/goliath-120b-GGUF",
-    "likes": 35,
+    "likes": 36,
     "private": false,
     "downloads": 388,
     "tags": [
@@ -54547,6 +54547,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "dataset:garage-bAInd/Open-Platypus",
+      "base_model:bhenrym14/platypus-yi-34b",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "createdAt": "2023-11-16T23:05:22.000Z",
