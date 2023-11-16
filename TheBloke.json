@@ -20001,7 +20001,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7B-Chat-GGUF",
-    "likes": 142,
+    "likes": 143,
     "private": false,
     "downloads": 3662,
     "tags": [
@@ -22959,7 +22959,7 @@
   {
     "_id": "64fb89247021123688c7ec13",
     "id": "TheBloke/Guanaco-3B-Uncensored-v2-GPTQ",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 6329,
     "tags": [
@@ -36424,7 +36424,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 269,
+    "likes": 270,
     "private": false,
     "downloads": 4999,
     "tags": [
@@ -53919,8 +53919,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:Metaspectral/Tai",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-15T23:00:24.000Z",
     "modelId": "TheBloke/Tai-70B-AWQ"
   },
