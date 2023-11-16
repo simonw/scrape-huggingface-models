@@ -37226,7 +37226,7 @@
   {
     "_id": "6515ff5b7f18cec973af0828",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GPTQ",
-    "likes": 58,
+    "likes": 59,
     "private": false,
     "downloads": 23149,
     "tags": [
@@ -37249,7 +37249,7 @@
   {
     "_id": "6515ffbc3e5a12e0ceaefd75",
     "id": "TheBloke/Mistral-7B-v0.1-GPTQ",
-    "likes": 25,
+    "likes": 26,
     "private": false,
     "downloads": 3768,
     "tags": [
@@ -37333,7 +37333,7 @@
   {
     "_id": "65170566fff98a48b2a649f7",
     "id": "TheBloke/Synthia-7B-v1.3-GGUF",
-    "likes": 33,
+    "likes": 34,
     "private": false,
     "downloads": 113,
     "tags": [
@@ -37371,7 +37371,7 @@
   {
     "_id": "6517e3ce107446b24c852140",
     "id": "TheBloke/Synthia-7B-v1.3-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 275,
     "tags": [
@@ -53984,8 +53984,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "base_model:bongchoi/MoMo-70B-V1.1",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-16T03:31:33.000Z",
     "modelId": "TheBloke/MoMo-70B-V1.1-AWQ"
   },
