@@ -459,7 +459,7 @@
   {
     "_id": "644c233f194e124dacbc8462",
     "id": "TheBloke/stable-vicuna-13B-HF",
-    "likes": 95,
+    "likes": 96,
     "private": false,
     "downloads": 6580,
     "tags": [
@@ -48342,7 +48342,7 @@
   {
     "_id": "65403e7339948eb634bfcdff",
     "id": "TheBloke/dolphin-2.2.1-mistral-7B-GGUF",
-    "likes": 57,
+    "likes": 58,
     "private": false,
     "downloads": 158,
     "tags": [
@@ -51438,7 +51438,7 @@
   {
     "_id": "654cd5c878c68b6d4c71df7c",
     "id": "TheBloke/goliath-120b-GGUF",
-    "likes": 32,
+    "likes": 33,
     "private": false,
     "downloads": 388,
     "tags": [
@@ -52899,7 +52899,7 @@
   {
     "_id": "6552aad89a85df7f154f2d3d",
     "id": "TheBloke/Noromaid-13B-v0.1.1-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -52988,7 +52988,7 @@
   {
     "_id": "6552bfa8a9e06272080ce0ef",
     "id": "TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -53530,7 +53530,7 @@
   {
     "_id": "655488262b1ad2b3bb96ca6b",
     "id": "TheBloke/SynthIA-7B-v2.0-16k-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -53736,7 +53736,7 @@
   {
     "_id": "65550b8fd5a72476aed640ab",
     "id": "TheBloke/neural-chat-7B-v3-1-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -54191,7 +54191,7 @@
   {
     "_id": "65561752e3772d4af0142b2a",
     "id": "TheBloke/merlyn-education-corpus-qa-v2-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -54206,5 +54206,47 @@
     ],
     "createdAt": "2023-11-16T13:21:22.000Z",
     "modelId": "TheBloke/merlyn-education-corpus-qa-v2-GGUF"
+  },
+  {
+    "_id": "65563925535b31082ed65046",
+    "id": "TheBloke/merlyn-education-safety-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gptneox",
+      "MerlynMind",
+      "education",
+      "base_model:MerlynMind/merlyn-education-safety",
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "createdAt": "2023-11-16T15:45:41.000Z",
+    "modelId": "TheBloke/merlyn-education-safety-GGUF"
+  },
+  {
+    "_id": "65563925ae085c2ba7ab5ebe",
+    "id": "TheBloke/merlyn-education-safety-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-16T15:45:41.000Z",
+    "modelId": "TheBloke/merlyn-education-safety-AWQ"
+  },
+  {
+    "_id": "65563925d4f86c8cbffa61bb",
+    "id": "TheBloke/merlyn-education-safety-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-16T15:45:41.000Z",
+    "modelId": "TheBloke/merlyn-education-safety-GPTQ"
   }
 ]
