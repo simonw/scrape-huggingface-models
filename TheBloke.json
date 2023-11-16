@@ -10563,6 +10563,7 @@
       "hippogriff",
       "base_model:CalderaAI/30B-Epsilon",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -23903,6 +23904,7 @@
       "dataset:jondurbin/airoboros-2.2",
       "base_model:jondurbin/airoboros-l2-13b-2.2",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -53881,7 +53883,7 @@
   {
     "_id": "6555458be0169cf32cda93ea",
     "id": "TheBloke/Thespis-Mistral-7B-v0.6-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 6,
     "tags": [
