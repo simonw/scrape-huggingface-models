@@ -9950,7 +9950,7 @@
   {
     "_id": "64b6ce072edcb4a1aa820cbe",
     "id": "TheBloke/Llama-2-7B-Chat-GPTQ",
-    "likes": 172,
+    "likes": 173,
     "private": false,
     "downloads": 88637,
     "tags": [
@@ -52653,7 +52653,7 @@
   {
     "_id": "6550c338bebf0c4c5108c456",
     "id": "TheBloke/Augmental-ReMM-13B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -53931,6 +53931,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "base_model:Metaspectral/Tai",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "createdAt": "2023-11-15T23:00:24.000Z",
@@ -53943,6 +53948,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "base_model:bongchoi/MoMo-70B-V1.1",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "createdAt": "2023-11-15T23:28:39.000Z",
