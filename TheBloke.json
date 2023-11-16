@@ -46107,7 +46107,7 @@
   {
     "_id": "653980d40da86d726c8765e9",
     "id": "TheBloke/lzlv_70B-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 34,
     "tags": [
@@ -49258,7 +49258,7 @@
   {
     "_id": "6544182490538a2742671abe",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GPTQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 1084,
     "tags": [
@@ -52357,7 +52357,7 @@
   {
     "_id": "654f5db20c11ee1eb9b72c36",
     "id": "TheBloke/cat-v1.0-13B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -54259,7 +54259,10 @@
       "safetensors",
       "gpt_neox",
       "text-generation",
-      "endpoints_compatible",
+      "MerlynMind",
+      "education",
+      "base_model:MerlynMind/merlyn-education-safety",
+      "license:apache-2.0",
       "text-generation-inference",
       "4-bit",
       "region:us"
