@@ -10003,7 +10003,7 @@
   {
     "_id": "64b6d9d4bb1d8f2832c8be93",
     "id": "TheBloke/Llama-2-13B-chat-GPTQ",
-    "likes": 300,
+    "likes": 301,
     "private": false,
     "downloads": 82122,
     "tags": [
@@ -40649,7 +40649,7 @@
   {
     "_id": "652653590aaab896facf71a0",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GGUF",
-    "likes": 87,
+    "likes": 88,
     "private": false,
     "downloads": 527,
     "tags": [
@@ -49639,7 +49639,7 @@
   {
     "_id": "6546bfe04d1931dc93eacb63",
     "id": "TheBloke/deepseek-coder-33B-instruct-GGUF",
-    "likes": 46,
+    "likes": 48,
     "private": false,
     "downloads": 24,
     "tags": [
@@ -53089,7 +53089,7 @@
   {
     "_id": "6553600b4ff33a278c901120",
     "id": "TheBloke/Claire-7B-0.1-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -53715,7 +53715,7 @@
   {
     "_id": "65550b8fa655405971013bce",
     "id": "TheBloke/neural-chat-7B-v3-1-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -54010,7 +54010,9 @@
       "safetensors",
       "llama",
       "text-generation",
-      "endpoints_compatible",
+      "en",
+      "base_model:bongchoi/MoMo-70B-V1.1",
+      "license:llama2",
       "text-generation-inference",
       "4-bit",
       "region:us"
