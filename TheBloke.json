@@ -20001,7 +20001,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7B-Chat-GGUF",
-    "likes": 144,
+    "likes": 145,
     "private": false,
     "downloads": 3662,
     "tags": [
@@ -36220,7 +36220,7 @@
   {
     "_id": "65140cda51c0141fa86b7d8b",
     "id": "TheBloke/U-Amethyst-20B-GGUF",
-    "likes": 24,
+    "likes": 25,
     "private": false,
     "downloads": 104,
     "tags": [
@@ -46318,7 +46318,7 @@
   {
     "_id": "653bb81bea8b6b5fe3a67097",
     "id": "TheBloke/zephyr-7B-beta-AWQ",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 6509,
     "tags": [
@@ -49045,7 +49045,7 @@
   {
     "_id": "6543cac6b4a3f3a2f464858a",
     "id": "TheBloke/openchat_3.5-AWQ",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 754,
     "tags": [
@@ -53594,7 +53594,7 @@
   {
     "_id": "65549fe92792bfadc5ce2ab3",
     "id": "TheBloke/zephyr-7B-beta-pl-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -54028,8 +54028,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:totally-not-an-llm/EverythingLM-data-V3",
+      "base_model:KnutJaegersberg/Deacon-34B",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-16T08:12:52.000Z",
     "modelId": "TheBloke/Deacon-34B-AWQ"
   },
@@ -54071,6 +54081,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "yi",
+      "base_model:migtissera/Tess-Medium-200K-v1.0",
+      "license:other",
       "region:us"
     ],
     "createdAt": "2023-11-16T08:21:47.000Z",
