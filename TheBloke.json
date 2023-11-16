@@ -13182,7 +13182,7 @@
   {
     "_id": "64cd178160708a9453019da4",
     "id": "TheBloke/Airoboros-65B-GPT4-m2.0-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 56,
     "tags": [
@@ -44049,7 +44049,7 @@
   {
     "_id": "652f9882329f988fe2f5150a",
     "id": "TheBloke/Dans-AdventurousWinds-Mk2-7B-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -48342,7 +48342,7 @@
   {
     "_id": "65403e7339948eb634bfcdff",
     "id": "TheBloke/dolphin-2.2.1-mistral-7B-GGUF",
-    "likes": 56,
+    "likes": 57,
     "private": false,
     "downloads": 103,
     "tags": [
@@ -49233,7 +49233,7 @@
   {
     "_id": "654418242996405c238f5eea",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
-    "likes": 62,
+    "likes": 64,
     "private": false,
     "downloads": 98,
     "tags": [
@@ -51438,7 +51438,7 @@
   {
     "_id": "654cd5c878c68b6d4c71df7c",
     "id": "TheBloke/goliath-120b-GGUF",
-    "likes": 31,
+    "likes": 32,
     "private": false,
     "downloads": 189,
     "tags": [
@@ -54020,5 +54020,72 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-16T03:31:33.000Z",
     "modelId": "TheBloke/MoMo-70B-V1.1-GPTQ"
+  },
+  {
+    "_id": "6555cf042d2276f52c52e978",
+    "id": "TheBloke/Deacon-34B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-16T08:12:52.000Z",
+    "modelId": "TheBloke/Deacon-34B-AWQ"
+  },
+  {
+    "_id": "6555cf04c9d2974622536fac",
+    "id": "TheBloke/Deacon-34B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-16T08:12:52.000Z",
+    "modelId": "TheBloke/Deacon-34B-GPTQ"
+  },
+  {
+    "_id": "6555cf04f47c458e89e81548",
+    "id": "TheBloke/Deacon-34B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "yi",
+      "text-generation",
+      "dataset:totally-not-an-llm/EverythingLM-data-V3",
+      "base_model:KnutJaegersberg/Deacon-34B",
+      "license:other",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-16T08:12:52.000Z",
+    "modelId": "TheBloke/Deacon-34B-GGUF"
+  },
+  {
+    "_id": "6555d11bfc8ae6b352dd152f",
+    "id": "TheBloke/Tess-Medium-200K-v1.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-16T08:21:47.000Z",
+    "modelId": "TheBloke/Tess-Medium-200K-v1.0-GGUF"
+  },
+  {
+    "_id": "6555d3986eb0a1c7c39018ad",
+    "id": "TheBloke/Tess-Medium-200K-v1.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-16T08:32:24.000Z",
+    "modelId": "TheBloke/Tess-Medium-200K-v1.0-AWQ"
   }
 ]
