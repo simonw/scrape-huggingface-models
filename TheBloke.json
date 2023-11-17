@@ -21356,7 +21356,7 @@
   {
     "_id": "64f76aa549282808834e53d5",
     "id": "TheBloke/llama-2-13B-Guanaco-QLoRA-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -49332,7 +49332,7 @@
   {
     "_id": "654418242996405c238f5eea",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
-    "likes": 64,
+    "likes": 65,
     "private": false,
     "downloads": 126,
     "tags": [
@@ -51538,7 +51538,7 @@
   {
     "_id": "654cd5c878c68b6d4c71df7c",
     "id": "TheBloke/goliath-120b-GGUF",
-    "likes": 40,
+    "likes": 42,
     "private": false,
     "downloads": 388,
     "tags": [
@@ -54577,5 +54577,26 @@
     ],
     "createdAt": "2023-11-16T23:05:22.000Z",
     "modelId": "TheBloke/platypus-yi-34b-GGUF"
+  },
+  {
+    "_id": "655735aabfb62d747ac2f396",
+    "id": "TheBloke/Akins-3B-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "stablelm",
+      "text-generation",
+      "en",
+      "dataset:Norquinal/claude_multiround_chat_1k",
+      "arxiv:2305.14314",
+      "base_model:acrastt/Akins-3B",
+      "license:cc-by-sa-4.0",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-17T09:43:06.000Z",
+    "modelId": "TheBloke/Akins-3B-GGUF"
   }
 ]
