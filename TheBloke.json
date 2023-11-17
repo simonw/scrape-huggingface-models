@@ -54598,5 +54598,62 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-17T09:43:06.000Z",
     "modelId": "TheBloke/Akins-3B-GGUF"
+  },
+  {
+    "_id": "65573f6d0bd9dbcb06bba5f6",
+    "id": "TheBloke/Marx-3B-v3-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "stablelm",
+      "text-generation",
+      "en",
+      "dataset:acrastt/EverythingLM-V3-ShareGPT",
+      "arxiv:2305.14314",
+      "base_model:acrastt/Marx-3B-V3",
+      "license:cc-by-sa-4.0",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-17T10:24:45.000Z",
+    "modelId": "TheBloke/Marx-3B-v3-GGUF"
+  },
+  {
+    "_id": "6557415866423b57b2f7e2fe",
+    "id": "TheBloke/sqlcoder-34b-alpha-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-17T10:32:56.000Z",
+    "modelId": "TheBloke/sqlcoder-34b-alpha-GPTQ"
+  },
+  {
+    "_id": "65574158776d24e362781b35",
+    "id": "TheBloke/sqlcoder-34b-alpha-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-17T10:32:56.000Z",
+    "modelId": "TheBloke/sqlcoder-34b-alpha-GGUF"
+  },
+  {
+    "_id": "65574158c7c44ce3590bb498",
+    "id": "TheBloke/sqlcoder-34b-alpha-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-17T10:32:56.000Z",
+    "modelId": "TheBloke/sqlcoder-34b-alpha-AWQ"
   }
 ]
