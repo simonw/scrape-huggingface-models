@@ -36513,7 +36513,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 277,
+    "likes": 278,
     "private": false,
     "downloads": 4962,
     "tags": [
@@ -51538,7 +51538,7 @@
   {
     "_id": "654cd5c878c68b6d4c71df7c",
     "id": "TheBloke/goliath-120b-GGUF",
-    "likes": 47,
+    "likes": 48,
     "private": false,
     "downloads": 455,
     "tags": [
@@ -52883,7 +52883,7 @@
   {
     "_id": "65526c84fb76980adeff5db6",
     "id": "TheBloke/Nous-Capybara-34B-GGUF",
-    "likes": 45,
+    "likes": 46,
     "private": false,
     "downloads": 27,
     "tags": [
@@ -54847,8 +54847,34 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "RefinedWeb",
+      "text-generation",
+      "falcon-40b",
+      "long-context",
+      "falcon",
+      "NTK-YaRN",
+      "custom_code",
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it",
+      "dataset:OpenAssistant/oasst1",
+      "dataset:ehartford/dolphin",
+      "dataset:tau/sled",
+      "dataset:tiiuae/falcon-refinedweb",
+      "arxiv:2306.15595",
+      "arxiv:2309.00071",
+      "arxiv:2307.03172",
+      "base_model:lightonai/alfred-40b-1023",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-17T15:21:20.000Z",
     "modelId": "TheBloke/alfred-40B-1023-GPTQ"
   },
