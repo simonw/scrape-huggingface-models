@@ -50107,7 +50107,7 @@
   {
     "_id": "65479a438767484a0548595b",
     "id": "TheBloke/deepseek-coder-6.7B-instruct-GGUF",
-    "likes": 40,
+    "likes": 41,
     "private": false,
     "downloads": 52,
     "tags": [
@@ -54468,7 +54468,7 @@
   {
     "_id": "65568d1035f26c82c09eef13",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -55226,8 +55226,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "base_model:NucleusAI/nucleus-22B-token-500B",
+      "license:mit",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-18T22:25:12.000Z",
     "modelId": "TheBloke/nucleus-22B-token-500B-GPTQ"
   },
@@ -55270,5 +55280,29 @@
     ],
     "createdAt": "2023-11-18T22:25:12.000Z",
     "modelId": "TheBloke/nucleus-22B-token-500B-GGUF"
+  },
+  {
+    "_id": "6559470c539d4b7c13433fbd",
+    "id": "TheBloke/tigerbot-70B-chat-v4-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-18T23:21:48.000Z",
+    "modelId": "TheBloke/tigerbot-70B-chat-v4-GPTQ"
+  },
+  {
+    "_id": "6559470cf6103195fd7249ae",
+    "id": "TheBloke/tigerbot-70B-chat-v4-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-18T23:21:48.000Z",
+    "modelId": "TheBloke/tigerbot-70B-chat-v4-AWQ"
   }
 ]
