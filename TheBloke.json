@@ -54980,6 +54980,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "base_model:Sao10K/Euryale-1.4-L2-70B",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "createdAt": "2023-11-18T09:44:55.000Z",
