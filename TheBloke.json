@@ -49143,7 +49143,7 @@
   {
     "_id": "6543cac6b4a3f3a2f464858a",
     "id": "TheBloke/openchat_3.5-AWQ",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 1211,
     "tags": [
@@ -49255,7 +49255,7 @@
   {
     "_id": "6543e26c40ddcc1c6f1d2eb1",
     "id": "TheBloke/Yarn-Mistral-7B-128k-AWQ",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 1724,
     "tags": [
@@ -55012,30 +55012,6 @@
     "modelId": "TheBloke/Euryale-1.4-L2-70B-GGUF"
   },
   {
-    "_id": "6558c69b5507a507728a4ea0",
-    "id": "TheBloke/sealion7b-instruct-nc-AWQ",
-    "likes": 0,
-    "private": false,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "createdAt": "2023-11-18T14:13:47.000Z",
-    "modelId": "TheBloke/sealion7b-instruct-nc-AWQ"
-  },
-  {
-    "_id": "6558c6c80aff2d30bc39011c",
-    "id": "TheBloke/sealion7b-instruct-nc-GPTQ",
-    "likes": 0,
-    "private": false,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "createdAt": "2023-11-18T14:14:32.000Z",
-    "modelId": "TheBloke/sealion7b-instruct-nc-GPTQ"
-  },
-  {
     "_id": "6558c82d4a49906b2c384180",
     "id": "TheBloke/opus-v0.5-70B-GPTQ",
     "likes": 0,
@@ -55102,7 +55078,7 @@
   {
     "_id": "6558e8cf2ac07d8c00661baa",
     "id": "TheBloke/Nanbeige-16B-Chat-32K-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -55164,5 +55140,55 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-18T19:03:03.000Z",
     "modelId": "TheBloke/Nanbeige-16B-Chat-32K-GPTQ"
+  },
+  {
+    "_id": "65592e7bc11dee7f7e33a479",
+    "id": "TheBloke/nsql-llama-2-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:NumbersStation/nsql-llama-2-7B",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-18T21:36:59.000Z",
+    "modelId": "TheBloke/nsql-llama-2-7B-AWQ"
+  },
+  {
+    "_id": "65592e7bc619b4853146417c",
+    "id": "TheBloke/nsql-llama-2-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "base_model:NumbersStation/nsql-llama-2-7B",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-18T21:36:59.000Z",
+    "modelId": "TheBloke/nsql-llama-2-7B-GGUF"
+  },
+  {
+    "_id": "65592e7bed8df83128162cd1",
+    "id": "TheBloke/nsql-llama-2-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-18T21:36:59.000Z",
+    "modelId": "TheBloke/nsql-llama-2-7B-GPTQ"
   }
 ]
