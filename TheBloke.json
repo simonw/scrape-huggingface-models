@@ -166,7 +166,7 @@
     "id": "TheBloke/Vicuna-13B-1.1-GPTQ",
     "likes": 207,
     "private": false,
-    "downloads": 429,
+    "downloads": 439,
     "tags": [
       "transformers",
       "llama",
@@ -185,7 +185,7 @@
     "id": "TheBloke/vicuna-7B-1.1-GPTQ",
     "likes": 58,
     "private": false,
-    "downloads": 276,
+    "downloads": 259,
     "tags": [
       "transformers",
       "llama",
@@ -203,7 +203,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-30b-HF",
     "likes": 10,
     "private": false,
-    "downloads": 5690,
+    "downloads": 5550,
     "tags": [
       "transformers",
       "pytorch",
@@ -275,7 +275,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-13B-HF",
     "likes": 4,
     "private": false,
-    "downloads": 5678,
+    "downloads": 5542,
     "tags": [
       "transformers",
       "pytorch",
@@ -327,7 +327,7 @@
     "id": "TheBloke/alpaca-lora-65B-HF",
     "likes": 3,
     "private": false,
-    "downloads": 5669,
+    "downloads": 5533,
     "tags": [
       "transformers",
       "pytorch",
@@ -381,7 +381,7 @@
     "id": "TheBloke/medalpaca-13B-GPTQ",
     "likes": 28,
     "private": false,
-    "downloads": 6069,
+    "downloads": 5954,
     "tags": [
       "transformers",
       "pytorch",
@@ -406,7 +406,7 @@
     "id": "TheBloke/wizardLM-7B-HF",
     "likes": 90,
     "private": false,
-    "downloads": 7893,
+    "downloads": 7652,
     "tags": [
       "transformers",
       "pytorch",
@@ -441,7 +441,7 @@
     "id": "TheBloke/wizardLM-7B-GPTQ",
     "likes": 104,
     "private": false,
-    "downloads": 573,
+    "downloads": 571,
     "tags": [
       "transformers",
       "safetensors",
@@ -462,7 +462,7 @@
     "id": "TheBloke/stable-vicuna-13B-HF",
     "likes": 96,
     "private": false,
-    "downloads": 6536,
+    "downloads": 6381,
     "tags": [
       "transformers",
       "pytorch",
@@ -504,7 +504,7 @@
     "id": "TheBloke/stable-vicuna-13B-GPTQ",
     "likes": 219,
     "private": false,
-    "downloads": 228,
+    "downloads": 231,
     "tags": [
       "transformers",
       "safetensors",
@@ -531,7 +531,7 @@
     "id": "TheBloke/OpenAssistant-SFT-7-Llama-30B-HF",
     "likes": 14,
     "private": false,
-    "downloads": 5684,
+    "downloads": 5531,
     "tags": [
       "transformers",
       "pytorch",
@@ -603,7 +603,7 @@
     "id": "TheBloke/wizard-vicuna-13B-GPTQ",
     "likes": 100,
     "private": false,
-    "downloads": 6109,
+    "downloads": 5969,
     "tags": [
       "transformers",
       "safetensors",
@@ -627,7 +627,7 @@
     "id": "TheBloke/wizard-vicuna-13B-HF",
     "likes": 48,
     "private": false,
-    "downloads": 5715,
+    "downloads": 5577,
     "tags": [
       "transformers",
       "pytorch",
@@ -663,7 +663,7 @@
     "id": "TheBloke/WizardLM-7B-uncensored-GPTQ",
     "likes": 159,
     "private": false,
-    "downloads": 9446,
+    "downloads": 9305,
     "tags": [
       "transformers",
       "safetensors",
@@ -2186,7 +2186,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 424,
+    "likes": 425,
     "private": false,
     "downloads": 17385,
     "tags": [
@@ -10126,7 +10126,7 @@
   {
     "_id": "64b72139a00eab5bcddae33e",
     "id": "TheBloke/Llama-2-70B-Chat-GPTQ",
-    "likes": 223,
+    "likes": 224,
     "private": false,
     "downloads": 37496,
     "tags": [
@@ -25399,7 +25399,7 @@
   {
     "_id": "6508c16eabdde5290e606c80",
     "id": "TheBloke/Llama-2-7B-Chat-AWQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 10083,
     "tags": [
@@ -36514,7 +36514,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 278,
+    "likes": 279,
     "private": false,
     "downloads": 4962,
     "tags": [
@@ -36620,7 +36620,7 @@
   {
     "_id": "65148276ac849a6655d267e9",
     "id": "TheBloke/Mistral-7B-v0.1-AWQ",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 1592,
     "tags": [
@@ -54968,8 +54968,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "base_model:Sao10K/Euryale-1.4-L2-70B",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-18T09:44:55.000Z",
     "modelId": "TheBloke/Euryale-1.4-L2-70B-AWQ"
   },
