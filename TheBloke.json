@@ -11363,7 +11363,7 @@
   {
     "_id": "64c049e38e26122543591e2c",
     "id": "TheBloke/WizardLM-13B-V1.2-GPTQ",
-    "likes": 30,
+    "likes": 31,
     "private": false,
     "downloads": 10322,
     "tags": [
@@ -20671,7 +20671,7 @@
   {
     "_id": "64f6fae5b548e18c7f5d1492",
     "id": "TheBloke/WizardLM-13B-V1.2-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 53,
     "tags": [
@@ -25950,7 +25950,7 @@
   {
     "_id": "6508f1a62257a3afbac45415",
     "id": "TheBloke/WizardLM-13B-V1.2-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 536,
     "tags": [
@@ -46364,7 +46364,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 137,
+    "likes": 138,
     "private": false,
     "downloads": 1265,
     "tags": [
@@ -49756,7 +49756,7 @@
   {
     "_id": "6546bfe06c818bb7b5ab8251",
     "id": "TheBloke/deepseek-coder-33B-instruct-AWQ",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 1513,
     "tags": [
@@ -52906,7 +52906,7 @@
   {
     "_id": "655280a05c34aff460a3a013",
     "id": "TheBloke/dolphin-2_2-yi-34b-GGUF",
-    "likes": 23,
+    "likes": 24,
     "private": false,
     "downloads": 15,
     "tags": [
@@ -53837,7 +53837,7 @@
   {
     "_id": "65550b8fd5a72476aed640ab",
     "id": "TheBloke/neural-chat-7B-v3-1-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -55088,5 +55088,17 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-18T14:20:29.000Z",
     "modelId": "TheBloke/opus-v0.5-70B-GGUF"
+  },
+  {
+    "_id": "6558e8cf2ac07d8c00661baa",
+    "id": "TheBloke/Nanbeige-16B-Chat-32K-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-18T16:39:43.000Z",
+    "modelId": "TheBloke/Nanbeige-16B-Chat-32K-GGUF"
   }
 ]
