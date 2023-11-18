@@ -28805,7 +28805,7 @@
   {
     "_id": "65096b911b3694179dda7e28",
     "id": "TheBloke/OpenOrca-Platypus2-13B-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 71,
     "tags": [
@@ -31924,7 +31924,7 @@
   {
     "_id": "650a2c51c2d4c8fc37b12521",
     "id": "TheBloke/WizardLM-33B-V1.0-Uncensored-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 81,
     "tags": [
@@ -54948,5 +54948,41 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-17T15:26:43.000Z",
     "modelId": "TheBloke/alfred-40B-1023-AWQ"
+  },
+  {
+    "_id": "655887974a49906b2c2ebe1d",
+    "id": "TheBloke/Euryale-1.4-L2-70B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-18T09:44:55.000Z",
+    "modelId": "TheBloke/Euryale-1.4-L2-70B-GPTQ"
+  },
+  {
+    "_id": "65588797e0a6202d362e9ec4",
+    "id": "TheBloke/Euryale-1.4-L2-70B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-18T09:44:55.000Z",
+    "modelId": "TheBloke/Euryale-1.4-L2-70B-AWQ"
+  },
+  {
+    "_id": "65588797f6711fa143df0bd9",
+    "id": "TheBloke/Euryale-1.4-L2-70B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-18T09:44:55.000Z",
+    "modelId": "TheBloke/Euryale-1.4-L2-70B-GGUF"
   }
 ]
