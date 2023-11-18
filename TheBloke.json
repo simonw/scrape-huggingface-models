@@ -54670,7 +54670,7 @@
     "id": "TheBloke/dragon-yi-6B-v0-GPTQ",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 2,
     "tags": [
       "transformers",
       "safetensors",
@@ -54691,7 +54691,7 @@
     "id": "TheBloke/dragon-yi-6B-v0-AWQ",
     "likes": 0,
     "private": false,
-    "downloads": 6,
+    "downloads": 8,
     "tags": [
       "transformers",
       "safetensors",
@@ -54728,7 +54728,7 @@
     "id": "TheBloke/firefly-llama2-13B-chat-AWQ",
     "likes": 1,
     "private": false,
-    "downloads": 0,
+    "downloads": 4,
     "tags": [
       "transformers",
       "safetensors",
@@ -54749,7 +54749,7 @@
     "id": "TheBloke/firefly-llama2-13B-chat-GGUF",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 1,
     "tags": [
       "transformers",
       "llama",
@@ -54766,7 +54766,7 @@
     "id": "TheBloke/firefly-llama2-13B-chat-GPTQ",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 33,
     "tags": [
       "transformers",
       "safetensors",
@@ -54787,7 +54787,7 @@
     "id": "TheBloke/firefly-llama2-7B-chat-GPTQ",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 4,
     "tags": [
       "transformers",
       "safetensors",
@@ -54808,7 +54808,7 @@
     "id": "TheBloke/firefly-llama2-7B-chat-GGUF",
     "likes": 1,
     "private": false,
-    "downloads": 0,
+    "downloads": 17,
     "tags": [
       "transformers",
       "llama",
@@ -54825,7 +54825,7 @@
     "id": "TheBloke/firefly-llama2-7B-chat-AWQ",
     "likes": 1,
     "private": false,
-    "downloads": 0,
+    "downloads": 8,
     "tags": [
       "transformers",
       "safetensors",
@@ -54884,7 +54884,7 @@
     "id": "TheBloke/alfred-40B-1023-GGUF",
     "likes": 2,
     "private": false,
-    "downloads": 0,
+    "downloads": 3,
     "tags": [
       "transformers",
       "falcon",
@@ -54916,7 +54916,7 @@
     "id": "TheBloke/alfred-40B-1023-AWQ",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 173,
     "tags": [
       "transformers",
       "safetensors",
@@ -55054,8 +55054,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "base_model:dreamgen/opus-v0.5-70b",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-18T14:20:29.000Z",
     "modelId": "TheBloke/opus-v0.5-70B-AWQ"
   },
