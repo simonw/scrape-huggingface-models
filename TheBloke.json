@@ -6381,7 +6381,7 @@
   {
     "_id": "649a5dcd96d5747b35e30c6f",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-SuperHOT-8K-GPTQ",
-    "likes": 100,
+    "likes": 99,
     "private": false,
     "downloads": 17808,
     "tags": [
@@ -12513,7 +12513,7 @@
   {
     "_id": "64cb5e611f8a37e3ed3e927a",
     "id": "TheBloke/vicuna-13B-v1.5-16K-GPTQ",
-    "likes": 31,
+    "likes": 30,
     "private": false,
     "downloads": 491,
     "tags": [
@@ -52587,7 +52587,7 @@
   {
     "_id": "65501a934d9e71e17bf09cf2",
     "id": "TheBloke/Mistral-7B-OpenOrca-oasst_top1_2023-08-25-v1-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 15,
     "tags": [
@@ -55100,7 +55100,7 @@
   {
     "_id": "6558f5f65507a5077291cc9d",
     "id": "TheBloke/sqlcoder-34b-alpha-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -55186,9 +55186,66 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:NumbersStation/nsql-llama-2-7B",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-18T21:36:59.000Z",
     "modelId": "TheBloke/nsql-llama-2-7B-GPTQ"
+  },
+  {
+    "_id": "6559392dcafc48de3629d35b",
+    "id": "TheBloke/tigerbot-70B-chat-v4-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-18T22:22:37.000Z",
+    "modelId": "TheBloke/tigerbot-70B-chat-v4-GGUF"
+  },
+  {
+    "_id": "655939c8029b03128be0e0e6",
+    "id": "TheBloke/nucleus-22B-token-500B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-18T22:25:12.000Z",
+    "modelId": "TheBloke/nucleus-22B-token-500B-GPTQ"
+  },
+  {
+    "_id": "655939c83fc79984746c6cf9",
+    "id": "TheBloke/nucleus-22B-token-500B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-18T22:25:12.000Z",
+    "modelId": "TheBloke/nucleus-22B-token-500B-AWQ"
+  },
+  {
+    "_id": "655939c8cbbaec115c0f8c84",
+    "id": "TheBloke/nucleus-22B-token-500B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-18T22:25:12.000Z",
+    "modelId": "TheBloke/nucleus-22B-token-500B-GGUF"
   }
 ]
