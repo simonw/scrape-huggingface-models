@@ -17964,7 +17964,7 @@
   {
     "_id": "64ed0427a79cf4a895eb53c9",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GPTQ",
-    "likes": 84,
+    "likes": 85,
     "private": false,
     "downloads": 3814,
     "tags": [
@@ -20062,7 +20062,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7B-Chat-GGUF",
-    "likes": 147,
+    "likes": 148,
     "private": false,
     "downloads": 3719,
     "tags": [
@@ -20139,7 +20139,7 @@
   {
     "_id": "64f61985e916843d8ebc5db8",
     "id": "TheBloke/Llama-2-70B-Chat-GGUF",
-    "likes": 53,
+    "likes": 54,
     "private": false,
     "downloads": 277,
     "tags": [
@@ -52884,7 +52884,7 @@
   {
     "_id": "65526c84fb76980adeff5db6",
     "id": "TheBloke/Nous-Capybara-34B-GGUF",
-    "likes": 49,
+    "likes": 50,
     "private": false,
     "downloads": 47,
     "tags": [
@@ -55042,8 +55042,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "base_model:dreamgen/opus-v0.5-70b",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-18T14:20:29.000Z",
     "modelId": "TheBloke/opus-v0.5-70B-GPTQ"
   },
@@ -55114,7 +55124,7 @@
   {
     "_id": "6558f5f65507a5077291cc9d",
     "id": "TheBloke/sqlcoder-34b-alpha-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -55130,5 +55140,17 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-18T17:35:50.000Z",
     "modelId": "TheBloke/sqlcoder-34b-alpha-GGUF"
+  },
+  {
+    "_id": "65590a679d249b4ab338043b",
+    "id": "TheBloke/Nanbeige-16B-Chat-32K-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-18T19:03:03.000Z",
+    "modelId": "TheBloke/Nanbeige-16B-Chat-32K-GPTQ"
   }
 ]
