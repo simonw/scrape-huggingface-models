@@ -32080,7 +32080,7 @@
   {
     "_id": "650a30c2d95f30b9dcf3cb82",
     "id": "TheBloke/guanaco-33B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -55207,6 +55207,13 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "zh",
+      "en",
+      "base_model:TigerResearch/tigerbot-70b-chat-v4",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
     "createdAt": "2023-11-18T22:22:37.000Z",
@@ -55231,8 +55238,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "base_model:NucleusAI/nucleus-22B-token-500B",
+      "license:mit",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-18T22:25:12.000Z",
     "modelId": "TheBloke/nucleus-22B-token-500B-AWQ"
   },
@@ -55243,6 +55260,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "base_model:NucleusAI/nucleus-22B-token-500B",
+      "license:mit",
+      "text-generation-inference",
       "region:us"
     ],
     "createdAt": "2023-11-18T22:25:12.000Z",
