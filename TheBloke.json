@@ -25453,7 +25453,7 @@
   {
     "_id": "6508e3b0f36bb51c50017ebb",
     "id": "TheBloke/Llama-2-13B-AWQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 356,
     "tags": [
@@ -26846,7 +26846,7 @@
   {
     "_id": "65091eae647a3ea442bb39cd",
     "id": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 31,
     "tags": [
@@ -31560,7 +31560,7 @@
   {
     "_id": "650a2775a2abcb18d64ec6b4",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-AWQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 99,
     "tags": [
@@ -35484,7 +35484,7 @@
   {
     "_id": "650f7461be2dd282dcb6edbb",
     "id": "TheBloke/storytime-13B-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -40789,7 +40789,7 @@
   {
     "_id": "652654dd8a21d8f14adcc200",
     "id": "TheBloke/dolphin-2.1-mistral-7B-AWQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 1344,
     "tags": [
@@ -55118,8 +55118,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "text-generation",
+      "en",
+      "base_model:defog/sqlcoder-34b-alpha",
+      "license:cc-by-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-18T17:35:50.000Z",
     "modelId": "TheBloke/sqlcoder-34b-alpha-GGUF"
   }
