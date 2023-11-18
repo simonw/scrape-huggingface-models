@@ -20078,7 +20078,8 @@
       "base_model:meta-llama/Llama-2-7b-chat-hf",
       "license:llama2",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "createdAt": "2023-09-04T16:38:41.000Z",
@@ -54581,7 +54582,7 @@
   {
     "_id": "655735aabfb62d747ac2f396",
     "id": "TheBloke/Akins-3B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -54602,7 +54603,7 @@
   {
     "_id": "65573f6d0bd9dbcb06bba5f6",
     "id": "TheBloke/Marx-3B-v3-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
