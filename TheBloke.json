@@ -55148,8 +55148,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "nanbeige",
+      "text-generation",
+      "llm",
+      "custom_code",
+      "en",
+      "zh",
+      "base_model:Nanbeige/Nanbeige-16B-Chat-32K",
+      "license:apache-2.0",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-18T19:03:03.000Z",
     "modelId": "TheBloke/Nanbeige-16B-Chat-32K-GPTQ"
   }
