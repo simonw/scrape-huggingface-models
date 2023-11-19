@@ -36514,7 +36514,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 281,
+    "likes": 282,
     "private": false,
     "downloads": 4914,
     "tags": [
@@ -55292,7 +55292,10 @@
       "safetensors",
       "llama",
       "text-generation",
-      "endpoints_compatible",
+      "zh",
+      "en",
+      "base_model:TigerResearch/tigerbot-70b-chat-v4",
+      "license:apache-2.0",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -55390,5 +55393,41 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-19T00:20:45.000Z",
     "modelId": "TheBloke/Nanbeige-16B-Chat-GGUF"
+  },
+  {
+    "_id": "655976cf180749bf32db07a8",
+    "id": "TheBloke/Kaori-70B-v1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-19T02:45:35.000Z",
+    "modelId": "TheBloke/Kaori-70B-v1-GGUF"
+  },
+  {
+    "_id": "655976cf9d249b4ab348dc7b",
+    "id": "TheBloke/Kaori-70B-v1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-19T02:45:35.000Z",
+    "modelId": "TheBloke/Kaori-70B-v1-GPTQ"
+  },
+  {
+    "_id": "655976d051ebd26dbc22e2dc",
+    "id": "TheBloke/Kaori-70B-v1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-19T02:45:36.000Z",
+    "modelId": "TheBloke/Kaori-70B-v1-AWQ"
   }
 ]
