@@ -49333,7 +49333,7 @@
   {
     "_id": "654418242996405c238f5eea",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
-    "likes": 67,
+    "likes": 68,
     "private": false,
     "downloads": 142,
     "tags": [
@@ -54844,7 +54844,7 @@
   {
     "_id": "655784f035f26c82c0cb15bd",
     "id": "TheBloke/alfred-40B-1023-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -55304,5 +55304,61 @@
     ],
     "createdAt": "2023-11-18T23:21:48.000Z",
     "modelId": "TheBloke/tigerbot-70B-chat-v4-AWQ"
+  },
+  {
+    "_id": "6559500050b9a14799f220ed",
+    "id": "TheBloke/Nanbeige-16B-Base-32K-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "nanbeige",
+      "llm",
+      "custom_code",
+      "text-generation",
+      "en",
+      "zh",
+      "base_model:Nanbeige/Nanbeige-16B-Base-32K",
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-19T00:00:00.000Z",
+    "modelId": "TheBloke/Nanbeige-16B-Base-32K-GGUF"
+  },
+  {
+    "_id": "65595285eb411317ebf793d5",
+    "id": "TheBloke/Nanbeige-16B-Base-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "nanbeige",
+      "llm",
+      "custom_code",
+      "text-generation",
+      "en",
+      "zh",
+      "base_model:Nanbeige/Nanbeige-16B-Base",
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-19T00:10:45.000Z",
+    "modelId": "TheBloke/Nanbeige-16B-Base-GGUF"
+  },
+  {
+    "_id": "655954dd3fc7998474700b17",
+    "id": "TheBloke/Nanbeige-16B-Chat-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-19T00:20:45.000Z",
+    "modelId": "TheBloke/Nanbeige-16B-Chat-GGUF"
   }
 ]
