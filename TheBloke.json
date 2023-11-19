@@ -21971,7 +21971,7 @@
   {
     "_id": "64f7bac9fbbfe40336117526",
     "id": "TheBloke/Llama-2-7B-32K-Instruct-GGUF",
-    "likes": 35,
+    "likes": 36,
     "private": false,
     "downloads": 407,
     "tags": [
@@ -53846,7 +53846,8 @@
       "base_model:Intel/neural-chat-7b-v3-1",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "createdAt": "2023-11-15T18:18:55.000Z",
     "modelId": "TheBloke/neural-chat-7B-v3-1-GGUF"
