@@ -24,7 +24,7 @@
     "id": "TheBloke/koala-7B-HF",
     "likes": 18,
     "private": false,
-    "downloads": 5559,
+    "downloads": 5492,
     "tags": [
       "transformers",
       "pytorch",
@@ -50,7 +50,7 @@
     "id": "TheBloke/koala-13B-HF",
     "likes": 40,
     "private": false,
-    "downloads": 5973,
+    "downloads": 5906,
     "tags": [
       "transformers",
       "pytorch",
@@ -17009,7 +17009,7 @@
   {
     "_id": "64e85bb1e6a52fff352d606f",
     "id": "TheBloke/CodeLlama-34B-Instruct-GPTQ",
-    "likes": 57,
+    "likes": 58,
     "private": false,
     "downloads": 495411,
     "tags": [
@@ -54195,7 +54195,7 @@
     "tags": [
       "transformers",
       "yi",
-      "base_model:migtissera/Tess-Medium-200K-v1.0",
+      "base_model:migtissera/Tess-M-Creative-v1.0",
       "license:other",
       "region:us"
     ],
@@ -54213,7 +54213,7 @@
       "safetensors",
       "llama",
       "text-generation",
-      "base_model:migtissera/Tess-Medium-200K-v1.0",
+      "base_model:migtissera/Tess-M-Creative-v1.0",
       "license:other",
       "text-generation-inference",
       "4-bit",
@@ -54234,7 +54234,7 @@
       "safetensors",
       "llama",
       "text-generation",
-      "base_model:migtissera/Tess-Medium-200K-v1.0",
+      "base_model:migtissera/Tess-M-Creative-v1.0",
       "license:other",
       "text-generation-inference",
       "4-bit",
@@ -54565,7 +54565,7 @@
   {
     "_id": "6556a032f551801d406c5362",
     "id": "TheBloke/platypus-yi-34b-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -55485,9 +55485,57 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "nanbeige",
+      "text-generation",
+      "llm",
+      "custom_code",
+      "en",
+      "zh",
+      "base_model:Nanbeige/Nanbeige-16B-Base",
+      "license:apache-2.0",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-19T09:10:01.000Z",
     "modelId": "TheBloke/Nanbeige-16B-Base-GPTQ"
+  },
+  {
+    "_id": "6559ee67727df37c777e437a",
+    "id": "TheBloke/Nanbeige-16B-Chat-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-19T11:15:51.000Z",
+    "modelId": "TheBloke/Nanbeige-16B-Chat-GPTQ"
+  },
+  {
+    "_id": "6559f29a1c419bb0726d9150",
+    "id": "TheBloke/Capybara-Tess-Yi-34B-200K-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-19T11:33:46.000Z",
+    "modelId": "TheBloke/Capybara-Tess-Yi-34B-200K-AWQ"
+  },
+  {
+    "_id": "6559f29be87d5297752c37e4",
+    "id": "TheBloke/Capybara-Tess-Yi-34B-200K-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-19T11:33:47.000Z",
+    "modelId": "TheBloke/Capybara-Tess-Yi-34B-200K-GGUF"
   }
 ]
