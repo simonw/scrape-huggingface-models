@@ -55288,8 +55288,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "endpoints_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-18T23:21:48.000Z",
     "modelId": "TheBloke/tigerbot-70B-chat-v4-GPTQ"
   },
