@@ -46364,7 +46364,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 138,
+    "likes": 139,
     "private": false,
     "downloads": 1265,
     "tags": [
@@ -48440,7 +48440,7 @@
   {
     "_id": "65403e7339948eb634bfcdff",
     "id": "TheBloke/dolphin-2.2.1-mistral-7B-GGUF",
-    "likes": 61,
+    "likes": 62,
     "private": false,
     "downloads": 184,
     "tags": [
@@ -54996,7 +54996,7 @@
   {
     "_id": "65588797f6711fa143df0bd9",
     "id": "TheBloke/Euryale-1.4-L2-70B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -55430,8 +55430,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:KaeriJenti/Kaori-70b-v1",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-19T02:45:36.000Z",
     "modelId": "TheBloke/Kaori-70B-v1-AWQ"
   }
