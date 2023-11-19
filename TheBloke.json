@@ -21857,7 +21857,7 @@
   {
     "_id": "64f7a58cbcf14b0c915ad636",
     "id": "TheBloke/Mythalion-13B-GGUF",
-    "likes": 47,
+    "likes": 48,
     "private": false,
     "downloads": 161,
     "tags": [
@@ -49047,7 +49047,7 @@
   {
     "_id": "6543b581ee8e348cf9691146",
     "id": "TheBloke/basilisk-7B-v0.2-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -53039,7 +53039,7 @@
   {
     "_id": "6552b0e5e6314399631da61c",
     "id": "TheBloke/Synatra-7B-v0.3-RP-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -55759,8 +55759,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:Xwin-LM/XwinCoder-34B",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-19T19:05:36.000Z",
     "modelId": "TheBloke/XwinCoder-34B-GPTQ"
   },
