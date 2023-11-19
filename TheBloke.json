@@ -53837,7 +53837,7 @@
   {
     "_id": "65550b8fd5a72476aed640ab",
     "id": "TheBloke/neural-chat-7B-v3-1-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -55014,7 +55014,7 @@
   {
     "_id": "6558c82d4a49906b2c384180",
     "id": "TheBloke/opus-v0.5-70B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -55036,7 +55036,7 @@
   {
     "_id": "6558c82d6a7098bc6e12add9",
     "id": "TheBloke/opus-v0.5-70B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -55058,7 +55058,7 @@
   {
     "_id": "6558c82d7f246643393f9551",
     "id": "TheBloke/opus-v0.5-70B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -55244,7 +55244,7 @@
   {
     "_id": "655939c83fc79984746c6cf9",
     "id": "TheBloke/nucleus-22B-token-500B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -55418,15 +55418,24 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:KaeriJenti/Kaori-70b-v1",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-19T02:45:35.000Z",
     "modelId": "TheBloke/Kaori-70B-v1-GPTQ"
   },
   {
     "_id": "655976d051ebd26dbc22e2dc",
     "id": "TheBloke/Kaori-70B-v1-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -55443,5 +55452,17 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-19T02:45:36.000Z",
     "modelId": "TheBloke/Kaori-70B-v1-AWQ"
+  },
+  {
+    "_id": "6559b34e180749bf32e34a38",
+    "id": "TheBloke/Nanbeige-16B-Base-32K-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-19T07:03:42.000Z",
+    "modelId": "TheBloke/Nanbeige-16B-Base-32K-GPTQ"
   }
 ]
