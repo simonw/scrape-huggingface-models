@@ -41209,7 +41209,7 @@
   {
     "_id": "65281157c0a5afef6931c877",
     "id": "TheBloke/FashionGPT-70B-v1.2-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -55223,7 +55223,7 @@
   {
     "_id": "655939c8029b03128be0e0e6",
     "id": "TheBloke/nucleus-22B-token-500B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -55579,7 +55579,9 @@
       "safetensors",
       "llama",
       "text-generation",
-      "endpoints_compatible",
+      "en",
+      "base_model:brucethemoose/Capybara-Tess-Yi-34B-200K",
+      "license:other",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -55654,9 +55656,54 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:Xwin-LM/XwinCoder-13B",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-19T16:47:36.000Z",
     "modelId": "TheBloke/XwinCoder-13B-AWQ"
+  },
+  {
+    "_id": "655a41b5ed8df83128406310",
+    "id": "TheBloke/X-NoroChronos-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-19T17:11:17.000Z",
+    "modelId": "TheBloke/X-NoroChronos-13B-GPTQ"
+  },
+  {
+    "_id": "655a4496180749bf32f8c301",
+    "id": "TheBloke/XwinCoder-34B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-19T17:23:34.000Z",
+    "modelId": "TheBloke/XwinCoder-34B-AWQ"
+  },
+  {
+    "_id": "655a44969e9dfc10890b2528",
+    "id": "TheBloke/XwinCoder-34B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-19T17:23:34.000Z",
+    "modelId": "TheBloke/XwinCoder-34B-GGUF"
   }
 ]
