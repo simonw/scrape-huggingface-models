@@ -51407,7 +51407,7 @@
   {
     "_id": "654c31f7f88537326082384b",
     "id": "TheBloke/opus-v0-7B-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -55673,7 +55673,7 @@
   {
     "_id": "655a41b5ed8df83128406310",
     "id": "TheBloke/X-NoroChronos-13B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -55806,5 +55806,68 @@
     ],
     "createdAt": "2023-11-19T21:37:40.000Z",
     "modelId": "TheBloke/blossom-v3-baichuan2-7B-AWQ"
+  },
+  {
+    "_id": "655a96dc30ad83ad6b6ab6b5",
+    "id": "TheBloke/Cheus-11B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "text-generation",
+      "en",
+      "base_model:ByteWave/Cheus-11B",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-19T23:14:36.000Z",
+    "modelId": "TheBloke/Cheus-11B-GGUF"
+  },
+  {
+    "_id": "655a99083f3e05685d5207c6",
+    "id": "TheBloke/Yi-15B-Llama-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-19T23:23:52.000Z",
+    "modelId": "TheBloke/Yi-15B-Llama-GPTQ"
+  },
+  {
+    "_id": "655a99087d187b097e0bf83e",
+    "id": "TheBloke/Yi-15B-Llama-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "yi",
+      "text-generation",
+      "en",
+      "base_model:ByteWave/Yi-15B-Llama",
+      "license:other",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-19T23:23:52.000Z",
+    "modelId": "TheBloke/Yi-15B-Llama-GGUF"
+  },
+  {
+    "_id": "655a9908f6711fa1432e9c59",
+    "id": "TheBloke/Yi-15B-Llama-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-19T23:23:52.000Z",
+    "modelId": "TheBloke/Yi-15B-Llama-AWQ"
   }
 ]
