@@ -55356,8 +55356,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "nanbeige",
+      "llm",
+      "Nanbeige",
+      "custom_code",
+      "text-generation",
+      "en",
+      "zh",
+      "base_model:Nanbeige/Nanbeige-16B-Chat",
+      "license:apache-2.0",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-19T00:20:45.000Z",
     "modelId": "TheBloke/Nanbeige-16B-Chat-GGUF"
   }
