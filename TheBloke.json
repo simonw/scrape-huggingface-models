@@ -17888,7 +17888,7 @@
   {
     "_id": "64eb8a892800cf7e9cb2541b",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GPTQ",
-    "likes": 71,
+    "likes": 72,
     "private": false,
     "downloads": 5152,
     "tags": [
@@ -25552,7 +25552,7 @@
   {
     "_id": "6508e41ff36bb51c5001973b",
     "id": "TheBloke/Llama-2-13B-chat-AWQ",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 8870,
     "tags": [
@@ -45616,7 +45616,7 @@
   {
     "_id": "65354f239860c1cb37ed08c3",
     "id": "TheBloke/CausalLM-7B-GGUF",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 32,
     "tags": [
@@ -48440,7 +48440,7 @@
   {
     "_id": "65403e7339948eb634bfcdff",
     "id": "TheBloke/dolphin-2.2.1-mistral-7B-GGUF",
-    "likes": 63,
+    "likes": 64,
     "private": false,
     "downloads": 204,
     "tags": [
@@ -49673,7 +49673,7 @@
   {
     "_id": "6546a9f02119c8bdf26a5425",
     "id": "TheBloke/Naberius-7B-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -51186,7 +51186,7 @@
   {
     "_id": "654b81c0c5350429d61e3cfb",
     "id": "TheBloke/LLaMA2-13B-TiefighterLR-GPTQ",
-    "likes": 3,
+    "likes": 2,
     "private": false,
     "downloads": 18,
     "tags": [
@@ -55635,7 +55635,7 @@
   {
     "_id": "655a3c28a296e5c74c4931d5",
     "id": "TheBloke/XwinCoder-13B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -55771,9 +55771,31 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "baichuan",
+      "zh",
+      "en",
+      "dataset:Azure99/blossom-chat-v1",
+      "dataset:Azure99/blossom-math-v2",
+      "dataset:Azure99/blossom-wizard-v1",
+      "dataset:Azure99/blossom-orca-v1",
+      "base_model:Azure99/blossom-v3-baichuan2-7b",
+      "license:apache-2.0",
       "region:us"
     ],
     "createdAt": "2023-11-19T21:36:52.000Z",
     "modelId": "TheBloke/blossom-v3-baichuan2-7B-GGUF"
+  },
+  {
+    "_id": "655a80248b3f76d53304593e",
+    "id": "TheBloke/blossom-v3-baichuan2-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-19T21:37:40.000Z",
+    "modelId": "TheBloke/blossom-v3-baichuan2-7B-AWQ"
   }
 ]
