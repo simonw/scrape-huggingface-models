@@ -51913,7 +51913,7 @@
   {
     "_id": "654dfc95f0f195070267c534",
     "id": "TheBloke/claude2-alpaca-13B-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 16,
     "tags": [
@@ -51978,7 +51978,7 @@
   {
     "_id": "654e08fb636d5f1b88b7e4f6",
     "id": "TheBloke/claude2-alpaca-7B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 15,
     "tags": [
@@ -55763,5 +55763,17 @@
     ],
     "createdAt": "2023-11-19T19:05:36.000Z",
     "modelId": "TheBloke/XwinCoder-34B-GPTQ"
+  },
+  {
+    "_id": "655a7ff4a75de9cef1c5d1fc",
+    "id": "TheBloke/blossom-v3-baichuan2-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-19T21:36:52.000Z",
+    "modelId": "TheBloke/blossom-v3-baichuan2-7B-GGUF"
   }
 ]
