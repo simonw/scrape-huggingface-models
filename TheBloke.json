@@ -49333,7 +49333,7 @@
   {
     "_id": "654418242996405c238f5eea",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
-    "likes": 69,
+    "likes": 68,
     "private": false,
     "downloads": 142,
     "tags": [
@@ -54188,7 +54188,7 @@
   },
   {
     "_id": "6555d11bfc8ae6b352dd152f",
-    "id": "TheBloke/Tess-Medium-200K-v1.0-GGUF",
+    "id": "TheBloke/Tess-M-Creative-v1.0-GGUF",
     "likes": 4,
     "private": false,
     "downloads": 1,
@@ -54200,11 +54200,11 @@
       "region:us"
     ],
     "createdAt": "2023-11-16T08:21:47.000Z",
-    "modelId": "TheBloke/Tess-Medium-200K-v1.0-GGUF"
+    "modelId": "TheBloke/Tess-M-Creative-v1.0-GGUF"
   },
   {
     "_id": "6555d3986eb0a1c7c39018ad",
-    "id": "TheBloke/Tess-Medium-200K-v1.0-AWQ",
+    "id": "TheBloke/Tess-M-Creative-v1.0-AWQ",
     "likes": 0,
     "private": false,
     "downloads": 4,
@@ -54221,11 +54221,11 @@
     ],
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-16T08:32:24.000Z",
-    "modelId": "TheBloke/Tess-Medium-200K-v1.0-AWQ"
+    "modelId": "TheBloke/Tess-M-Creative-v1.0-AWQ"
   },
   {
     "_id": "6555eb5511b77e167f96ccbd",
-    "id": "TheBloke/Tess-Medium-200K-v1.0-GPTQ",
+    "id": "TheBloke/Tess-M-Creative-v1.0-GPTQ",
     "likes": 2,
     "private": false,
     "downloads": 47,
@@ -54242,7 +54242,7 @@
     ],
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-16T10:13:41.000Z",
-    "modelId": "TheBloke/Tess-Medium-200K-v1.0-GPTQ"
+    "modelId": "TheBloke/Tess-M-Creative-v1.0-GPTQ"
   },
   {
     "_id": "65561752bf4c000cc62b810f",
@@ -55481,7 +55481,7 @@
   {
     "_id": "6559d0e98762c448a11b1891",
     "id": "TheBloke/Nanbeige-16B-Base-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
