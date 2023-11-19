@@ -20062,7 +20062,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7B-Chat-GGUF",
-    "likes": 148,
+    "likes": 149,
     "private": false,
     "downloads": 3719,
     "tags": [
@@ -36514,7 +36514,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 282,
+    "likes": 283,
     "private": false,
     "downloads": 4914,
     "tags": [
@@ -55401,6 +55401,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "base_model:KaeriJenti/Kaori-70b-v1",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "createdAt": "2023-11-19T02:45:35.000Z",
