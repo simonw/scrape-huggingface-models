@@ -17987,7 +17987,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 117,
+    "likes": 118,
     "private": false,
     "downloads": 102,
     "tags": [
@@ -39542,7 +39542,7 @@
   {
     "_id": "651ee10822aeffca25e5b9f6",
     "id": "TheBloke/CollectiveCognition-v1.1-Mistral-7B-GGUF",
-    "likes": 29,
+    "likes": 30,
     "private": false,
     "downloads": 31,
     "tags": [
@@ -55700,8 +55700,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:Xwin-LM/XwinCoder-34B",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-19T17:23:34.000Z",
     "modelId": "TheBloke/XwinCoder-34B-AWQ"
   },
