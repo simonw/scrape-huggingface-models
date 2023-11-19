@@ -46364,7 +46364,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 140,
+    "likes": 141,
     "private": false,
     "downloads": 1303,
     "tags": [
@@ -48440,7 +48440,7 @@
   {
     "_id": "65403e7339948eb634bfcdff",
     "id": "TheBloke/dolphin-2.2.1-mistral-7B-GGUF",
-    "likes": 62,
+    "likes": 63,
     "private": false,
     "downloads": 204,
     "tags": [
@@ -55677,8 +55677,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "base_model:NeverSleep/X-NoroChronos-13B",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-19T17:11:17.000Z",
     "modelId": "TheBloke/X-NoroChronos-13B-GPTQ"
   },
@@ -55701,9 +55712,26 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "base_model:Xwin-LM/XwinCoder-34B",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "createdAt": "2023-11-19T17:23:34.000Z",
     "modelId": "TheBloke/XwinCoder-34B-GGUF"
+  },
+  {
+    "_id": "655a4c7b1c419bb0727c403b",
+    "id": "TheBloke/XwinCoder-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-19T17:57:15.000Z",
+    "modelId": "TheBloke/XwinCoder-13B-GPTQ"
   }
 ]
