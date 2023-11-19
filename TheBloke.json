@@ -55078,7 +55078,7 @@
   {
     "_id": "6558e8cf2ac07d8c00661baa",
     "id": "TheBloke/Nanbeige-16B-Chat-32K-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -55300,8 +55300,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "zh",
+      "en",
+      "base_model:TigerResearch/tigerbot-70b-chat-v4",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-18T23:21:48.000Z",
     "modelId": "TheBloke/tigerbot-70B-chat-v4-AWQ"
   },
