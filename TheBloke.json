@@ -12328,7 +12328,7 @@
   {
     "_id": "64ca3ecdcbf85b57311c23e4",
     "id": "TheBloke/OpenAssistant-Llama2-13B-Orca-v2-8K-3166-GPTQ",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 35645,
     "tags": [
@@ -55461,8 +55461,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "nanbeige",
+      "text-generation",
+      "llm",
+      "custom_code",
+      "en",
+      "zh",
+      "base_model:Nanbeige/Nanbeige-16B-Base-32K",
+      "license:apache-2.0",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-19T07:03:42.000Z",
     "modelId": "TheBloke/Nanbeige-16B-Base-32K-GPTQ"
   }
