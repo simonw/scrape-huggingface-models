@@ -36827,7 +36827,7 @@
   {
     "_id": "65155be7bdeba50196314660",
     "id": "TheBloke/leo-hessianai-13B-chat-bilingual-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 20,
     "tags": [
@@ -36920,7 +36920,7 @@
   {
     "_id": "651570169d3b940a900bb730",
     "id": "TheBloke/leo-hessianai-13B-chat-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 17,
     "tags": [
@@ -38559,7 +38559,7 @@
   {
     "_id": "651ad379eb6c502094708828",
     "id": "TheBloke/Mistral-7B-OpenOrca-GPTQ",
-    "likes": 77,
+    "likes": 78,
     "private": false,
     "downloads": 50987,
     "tags": [
@@ -55477,5 +55477,17 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-19T07:03:42.000Z",
     "modelId": "TheBloke/Nanbeige-16B-Base-32K-GPTQ"
+  },
+  {
+    "_id": "6559d0e98762c448a11b1891",
+    "id": "TheBloke/Nanbeige-16B-Base-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-19T09:10:01.000Z",
+    "modelId": "TheBloke/Nanbeige-16B-Base-GPTQ"
   }
 ]
