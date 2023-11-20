@@ -56286,7 +56286,7 @@
   {
     "_id": "655b8171bfb531437a2aaba0",
     "id": "TheBloke/Free_Sydney_V2_Mistral_7b-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -56538,9 +56538,64 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:Open-Orca/SlimOrca",
+      "dataset:beaugogh/openorca-multiplechoice-10k",
+      "base_model:yeen214/llama2_7b_merge_orcafamily",
+      "license:mit",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-20T17:55:43.000Z",
     "modelId": "TheBloke/llama2_7b_merge_orcafamily-GPTQ"
+  },
+  {
+    "_id": "655ba5ca48f950e91f215ef0",
+    "id": "TheBloke/mistral_7b_norobots-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "peft",
+      "code",
+      "instruct",
+      "llama2",
+      "dataset:HuggingFaceH4/no_robots",
+      "base_model:qblocks/mistral_7b_norobots",
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "createdAt": "2023-11-20T18:30:34.000Z",
+    "modelId": "TheBloke/mistral_7b_norobots-GGUF"
+  },
+  {
+    "_id": "655ba5ca48f950e91f215efa",
+    "id": "TheBloke/mistral_7b_norobots-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-20T18:30:34.000Z",
+    "modelId": "TheBloke/mistral_7b_norobots-GPTQ"
+  },
+  {
+    "_id": "655ba5caf63eaf2a75027917",
+    "id": "TheBloke/mistral_7b_norobots-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-20T18:30:34.000Z",
+    "modelId": "TheBloke/mistral_7b_norobots-AWQ"
   }
 ]
