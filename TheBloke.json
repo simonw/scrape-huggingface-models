@@ -55986,5 +55986,67 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-20T03:02:39.000Z",
     "modelId": "TheBloke/mistral-7B-finetuned-orca-dpo-v2-AWQ"
+  },
+  {
+    "_id": "655b326a57f3e9ac07e3785c",
+    "id": "TheBloke/blossom-v3-mistral-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-20T10:18:18.000Z",
+    "modelId": "TheBloke/blossom-v3-mistral-7B-GPTQ"
+  },
+  {
+    "_id": "655b326a6a7098bc6e71b2c8",
+    "id": "TheBloke/blossom-v3-mistral-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "zh",
+      "en",
+      "dataset:Azure99/blossom-chat-v1",
+      "dataset:Azure99/blossom-math-v2",
+      "dataset:Azure99/blossom-wizard-v1",
+      "dataset:Azure99/blossom-orca-v1",
+      "base_model:Azure99/blossom-v3-mistral-7b",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-20T10:18:18.000Z",
+    "modelId": "TheBloke/blossom-v3-mistral-7B-AWQ"
+  },
+  {
+    "_id": "655b326aed8df83128693822",
+    "id": "TheBloke/blossom-v3-mistral-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "zh",
+      "en",
+      "dataset:Azure99/blossom-chat-v1",
+      "dataset:Azure99/blossom-math-v2",
+      "dataset:Azure99/blossom-wizard-v1",
+      "dataset:Azure99/blossom-orca-v1",
+      "base_model:Azure99/blossom-v3-mistral-7b",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-20T10:18:18.000Z",
+    "modelId": "TheBloke/blossom-v3-mistral-7B-GGUF"
   }
 ]
