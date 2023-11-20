@@ -49756,7 +49756,7 @@
   {
     "_id": "6546bfe06c818bb7b5ab8251",
     "id": "TheBloke/deepseek-coder-33B-instruct-AWQ",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 1556,
     "tags": [
@@ -54616,6 +54616,7 @@
       "arxiv:2305.14314",
       "base_model:acrastt/Marx-3B-V3",
       "license:cc-by-sa-4.0",
+      "has_space",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
@@ -54915,7 +54916,7 @@
   {
     "_id": "655786336539c9a5a556d2c5",
     "id": "TheBloke/alfred-40B-1023-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 278,
     "tags": [
