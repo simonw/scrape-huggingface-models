@@ -52364,7 +52364,7 @@
   {
     "_id": "654ec9fbaae66b1676cd6256",
     "id": "TheBloke/openchat_3.5-16k-GGUF",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 36,
     "tags": [
@@ -54748,7 +54748,7 @@
   {
     "_id": "65576c19d16b524f1d27dc1d",
     "id": "TheBloke/firefly-llama2-13B-chat-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -55958,8 +55958,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "base_model:ByteWave/Yi-23B-Llama",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-20T00:50:04.000Z",
     "modelId": "TheBloke/Yi-23B-Llama-GPTQ"
   },
@@ -55981,5 +55991,48 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-20T00:50:04.000Z",
     "modelId": "TheBloke/Yi-23B-Llama-GGUF"
+  },
+  {
+    "_id": "655abfc48762c448a1423a1c",
+    "id": "TheBloke/Yi-8B-Llama-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-20T02:09:08.000Z",
+    "modelId": "TheBloke/Yi-8B-Llama-GPTQ"
+  },
+  {
+    "_id": "655abfc4deee83130a460589",
+    "id": "TheBloke/Yi-8B-Llama-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "yi",
+      "text-generation",
+      "en",
+      "base_model:ByteWave/Yi-8B-Llama",
+      "license:other",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-20T02:09:08.000Z",
+    "modelId": "TheBloke/Yi-8B-Llama-GGUF"
+  },
+  {
+    "_id": "655abfc4e87d5297754b3905",
+    "id": "TheBloke/Yi-8B-Llama-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-20T02:09:08.000Z",
+    "modelId": "TheBloke/Yi-8B-Llama-AWQ"
   }
 ]
