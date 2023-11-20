@@ -25579,7 +25579,7 @@
   {
     "_id": "6508e5d8634e02df56a031e1",
     "id": "TheBloke/Llama-2-70B-AWQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 927,
     "tags": [
@@ -31224,7 +31224,7 @@
   {
     "_id": "650a20787b68c4a6f68cdb99",
     "id": "TheBloke/30B-Lazarus-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -38861,7 +38861,7 @@
   {
     "_id": "651bf48063cd12f4ba8db2f5",
     "id": "TheBloke/TinyLlama-1.1B-Chat-v0.3-GGUF",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 170,
     "tags": [
@@ -56744,6 +56744,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:emozilla/yarn-train-tokenized-8k-llama",
+      "arxiv:2309.00071",
+      "base_model:NousResearch/Yarn-Llama-2-70b-32k",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
     "createdAt": "2023-11-20T21:45:12.000Z",
