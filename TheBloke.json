@@ -56712,5 +56712,41 @@
     ],
     "createdAt": "2023-11-20T20:29:20.000Z",
     "modelId": "TheBloke/zephyr_7b_norobots-GPTQ"
+  },
+  {
+    "_id": "655bd3687558de1972631dad",
+    "id": "TheBloke/Yarn-Llama-2-70B-32k-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-20T21:45:12.000Z",
+    "modelId": "TheBloke/Yarn-Llama-2-70B-32k-AWQ"
+  },
+  {
+    "_id": "655bd368a6a120a5c2ed9e0c",
+    "id": "TheBloke/Yarn-Llama-2-70B-32k-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-20T21:45:12.000Z",
+    "modelId": "TheBloke/Yarn-Llama-2-70B-32k-GPTQ"
+  },
+  {
+    "_id": "655bd368c80e332db2cf9d9c",
+    "id": "TheBloke/Yarn-Llama-2-70B-32k-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-20T21:45:12.000Z",
+    "modelId": "TheBloke/Yarn-Llama-2-70B-32k-GGUF"
   }
 ]
