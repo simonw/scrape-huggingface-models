@@ -20062,7 +20062,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7B-Chat-GGUF",
-    "likes": 149,
+    "likes": 150,
     "private": false,
     "downloads": 3592,
     "tags": [
@@ -49188,7 +49188,7 @@
   {
     "_id": "6543cda9998b3248a1fedce8",
     "id": "TheBloke/Yarn-Mistral-7B-128k-GGUF",
-    "likes": 93,
+    "likes": 94,
     "private": false,
     "downloads": 291,
     "tags": [
@@ -49209,7 +49209,7 @@
   {
     "_id": "6543d0d65b5d9185ba107c8b",
     "id": "TheBloke/Yarn-Mistral-7B-64k-GGUF",
-    "likes": 23,
+    "likes": 24,
     "private": false,
     "downloads": 220,
     "tags": [
@@ -49333,7 +49333,7 @@
   {
     "_id": "654418242996405c238f5eea",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
-    "likes": 69,
+    "likes": 70,
     "private": false,
     "downloads": 147,
     "tags": [
@@ -55267,7 +55267,7 @@
   {
     "_id": "655939c8cbbaec115c0f8c84",
     "id": "TheBloke/nucleus-22B-token-500B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -55808,69 +55808,6 @@
     "modelId": "TheBloke/blossom-v3-baichuan2-7B-AWQ"
   },
   {
-    "_id": "655a99083f3e05685d5207c6",
-    "id": "TheBloke/Yi-15B-Llama-GPTQ",
-    "likes": 1,
-    "private": false,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "llama",
-      "text-generation",
-      "en",
-      "base_model:ByteWave/Yi-15B-Llama",
-      "license:other",
-      "text-generation-inference",
-      "4-bit",
-      "region:us"
-    ],
-    "pipeline_tag": "text-generation",
-    "createdAt": "2023-11-19T23:23:52.000Z",
-    "modelId": "TheBloke/Yi-15B-Llama-GPTQ"
-  },
-  {
-    "_id": "655a99087d187b097e0bf83e",
-    "id": "TheBloke/Yi-15B-Llama-GGUF",
-    "likes": 0,
-    "private": false,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "yi",
-      "text-generation",
-      "en",
-      "base_model:ByteWave/Yi-15B-Llama",
-      "license:other",
-      "region:us"
-    ],
-    "pipeline_tag": "text-generation",
-    "createdAt": "2023-11-19T23:23:52.000Z",
-    "modelId": "TheBloke/Yi-15B-Llama-GGUF"
-  },
-  {
-    "_id": "655a9908f6711fa1432e9c59",
-    "id": "TheBloke/Yi-15B-Llama-AWQ",
-    "likes": 0,
-    "private": false,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "llama",
-      "text-generation",
-      "en",
-      "base_model:ByteWave/Yi-15B-Llama",
-      "license:other",
-      "text-generation-inference",
-      "4-bit",
-      "region:us"
-    ],
-    "pipeline_tag": "text-generation",
-    "createdAt": "2023-11-19T23:23:52.000Z",
-    "modelId": "TheBloke/Yi-15B-Llama-AWQ"
-  },
-  {
     "_id": "655aa50d27902877026ed870",
     "id": "TheBloke/LLaMA_2_13B_SFT_v1-GPTQ",
     "likes": 0,
@@ -55928,132 +55865,6 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-20T00:15:09.000Z",
     "modelId": "TheBloke/LLaMA_2_13B_SFT_v1-AWQ"
-  },
-  {
-    "_id": "655aad3c30ad83ad6b6e34a1",
-    "id": "TheBloke/Yi-23B-Llama-AWQ",
-    "likes": 0,
-    "private": false,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "llama",
-      "text-generation",
-      "en",
-      "base_model:ByteWave/Yi-23B-Llama",
-      "license:other",
-      "text-generation-inference",
-      "4-bit",
-      "region:us"
-    ],
-    "pipeline_tag": "text-generation",
-    "createdAt": "2023-11-20T00:50:04.000Z",
-    "modelId": "TheBloke/Yi-23B-Llama-AWQ"
-  },
-  {
-    "_id": "655aad3c3f3e05685d5587fb",
-    "id": "TheBloke/Yi-23B-Llama-GPTQ",
-    "likes": 0,
-    "private": false,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "llama",
-      "text-generation",
-      "en",
-      "base_model:ByteWave/Yi-23B-Llama",
-      "license:other",
-      "text-generation-inference",
-      "4-bit",
-      "region:us"
-    ],
-    "pipeline_tag": "text-generation",
-    "createdAt": "2023-11-20T00:50:04.000Z",
-    "modelId": "TheBloke/Yi-23B-Llama-GPTQ"
-  },
-  {
-    "_id": "655aad3ce0a6202d3680db67",
-    "id": "TheBloke/Yi-23B-Llama-GGUF",
-    "likes": 1,
-    "private": false,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "yi",
-      "text-generation",
-      "en",
-      "base_model:ByteWave/Yi-23B-Llama",
-      "license:other",
-      "region:us"
-    ],
-    "pipeline_tag": "text-generation",
-    "createdAt": "2023-11-20T00:50:04.000Z",
-    "modelId": "TheBloke/Yi-23B-Llama-GGUF"
-  },
-  {
-    "_id": "655abfc48762c448a1423a1c",
-    "id": "TheBloke/Yi-8B-Llama-GPTQ",
-    "likes": 0,
-    "private": false,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "llama",
-      "text-generation",
-      "en",
-      "base_model:ByteWave/Yi-8B-Llama",
-      "license:other",
-      "text-generation-inference",
-      "4-bit",
-      "region:us"
-    ],
-    "pipeline_tag": "text-generation",
-    "createdAt": "2023-11-20T02:09:08.000Z",
-    "modelId": "TheBloke/Yi-8B-Llama-GPTQ"
-  },
-  {
-    "_id": "655abfc4deee83130a460589",
-    "id": "TheBloke/Yi-8B-Llama-GGUF",
-    "likes": 1,
-    "private": false,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "yi",
-      "text-generation",
-      "en",
-      "base_model:ByteWave/Yi-8B-Llama",
-      "license:other",
-      "region:us"
-    ],
-    "pipeline_tag": "text-generation",
-    "createdAt": "2023-11-20T02:09:08.000Z",
-    "modelId": "TheBloke/Yi-8B-Llama-GGUF"
-  },
-  {
-    "_id": "655abfc4e87d5297754b3905",
-    "id": "TheBloke/Yi-8B-Llama-AWQ",
-    "likes": 0,
-    "private": false,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "llama",
-      "text-generation",
-      "en",
-      "base_model:ByteWave/Yi-8B-Llama",
-      "license:other",
-      "text-generation-inference",
-      "4-bit",
-      "region:us"
-    ],
-    "pipeline_tag": "text-generation",
-    "createdAt": "2023-11-20T02:09:08.000Z",
-    "modelId": "TheBloke/Yi-8B-Llama-AWQ"
   },
   {
     "_id": "655ac66704a63a0dfb24412f",
