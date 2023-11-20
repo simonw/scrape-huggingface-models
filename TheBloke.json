@@ -2358,7 +2358,7 @@
   {
     "_id": "6478d3a425e06d2ffe89e05a",
     "id": "TheBloke/WizardLM-Uncensored-Falcon-7B-GPTQ",
-    "likes": 49,
+    "likes": 50,
     "private": false,
     "downloads": 44042,
     "tags": [
@@ -36434,7 +36434,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 156,
+    "likes": 157,
     "private": false,
     "downloads": 2348,
     "tags": [
@@ -49333,7 +49333,7 @@
   {
     "_id": "654418242996405c238f5eea",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
-    "likes": 68,
+    "likes": 69,
     "private": false,
     "downloads": 147,
     "tags": [
@@ -56062,8 +56062,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "base_model:l3utterfly/llama2-7b-layla",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-20T02:37:27.000Z",
     "modelId": "TheBloke/llama2-7B-layla-AWQ"
   },
@@ -56074,6 +56084,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "base_model:l3utterfly/llama2-7b-layla",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "createdAt": "2023-11-20T02:37:27.000Z",
@@ -56086,9 +56102,60 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "base_model:l3utterfly/llama2-7b-layla",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-20T02:37:27.000Z",
     "modelId": "TheBloke/llama2-7B-layla-GPTQ"
+  },
+  {
+    "_id": "655acc4f930a0e1b0ab062b7",
+    "id": "TheBloke/mistral-7B-finetuned-orca-dpo-v2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-20T03:02:39.000Z",
+    "modelId": "TheBloke/mistral-7B-finetuned-orca-dpo-v2-GPTQ"
+  },
+  {
+    "_id": "655acc4fb158b94c3ae3517e",
+    "id": "TheBloke/mistral-7B-finetuned-orca-dpo-v2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "base_model:lvkaokao/mistral-7b-finetuned-orca-dpo-v2",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-20T03:02:39.000Z",
+    "modelId": "TheBloke/mistral-7B-finetuned-orca-dpo-v2-GGUF"
+  },
+  {
+    "_id": "655acc4fc1f2352d23d49ad0",
+    "id": "TheBloke/mistral-7B-finetuned-orca-dpo-v2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-20T03:02:39.000Z",
+    "modelId": "TheBloke/mistral-7B-finetuned-orca-dpo-v2-AWQ"
   }
 ]
