@@ -2186,7 +2186,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 425,
+    "likes": 426,
     "private": false,
     "downloads": 16508,
     "tags": [
@@ -37526,7 +37526,7 @@
   {
     "_id": "6517f14a3fe8cc63b4ac56f6",
     "id": "TheBloke/samantha-mistral-7B-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 29,
     "tags": [
@@ -52058,7 +52058,7 @@
   {
     "_id": "654e19b521b741c555df88f6",
     "id": "TheBloke/Yi-34B-AWQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 259,
     "tags": [
@@ -54469,7 +54469,7 @@
   {
     "_id": "65568d1035f26c82c09eef13",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 11,
     "tags": [
@@ -55267,7 +55267,7 @@
   {
     "_id": "655939c8cbbaec115c0f8c84",
     "id": "TheBloke/nucleus-22B-token-500B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -55552,7 +55552,7 @@
   {
     "_id": "6559f29be87d5297752c37e4",
     "id": "TheBloke/Capybara-Tess-Yi-34B-200K-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -55616,7 +55616,7 @@
   {
     "_id": "655a2073e87d5297753211e3",
     "id": "TheBloke/X-NoroChronos-13B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -55808,34 +55808,24 @@
     "modelId": "TheBloke/blossom-v3-baichuan2-7B-AWQ"
   },
   {
-    "_id": "655a96dc30ad83ad6b6ab6b5",
-    "id": "TheBloke/Cheus-11B-GGUF",
-    "likes": 0,
-    "private": false,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "mistral",
-      "text-generation",
-      "en",
-      "base_model:ByteWave/Cheus-11B",
-      "license:apache-2.0",
-      "text-generation-inference",
-      "region:us"
-    ],
-    "pipeline_tag": "text-generation",
-    "createdAt": "2023-11-19T23:14:36.000Z",
-    "modelId": "TheBloke/Cheus-11B-GGUF"
-  },
-  {
     "_id": "655a99083f3e05685d5207c6",
     "id": "TheBloke/Yi-15B-Llama-GPTQ",
     "likes": 0,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "base_model:ByteWave/Yi-15B-Llama",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-19T23:23:52.000Z",
     "modelId": "TheBloke/Yi-15B-Llama-GPTQ"
   },
@@ -55865,9 +55855,60 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "base_model:ByteWave/Yi-15B-Llama",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-19T23:23:52.000Z",
     "modelId": "TheBloke/Yi-15B-Llama-AWQ"
+  },
+  {
+    "_id": "655aa50d27902877026ed870",
+    "id": "TheBloke/LLaMA_2_13B_SFT_v1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-20T00:15:09.000Z",
+    "modelId": "TheBloke/LLaMA_2_13B_SFT_v1-GPTQ"
+  },
+  {
+    "_id": "655aa50dc692310739e0ce39",
+    "id": "TheBloke/LLaMA_2_13B_SFT_v1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "base_model:adonlee/LLaMA_2_13B_SFT_v1",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-20T00:15:09.000Z",
+    "modelId": "TheBloke/LLaMA_2_13B_SFT_v1-GGUF"
+  },
+  {
+    "_id": "655aa50de87d529775473452",
+    "id": "TheBloke/LLaMA_2_13B_SFT_v1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-20T00:15:09.000Z",
+    "modelId": "TheBloke/LLaMA_2_13B_SFT_v1-AWQ"
   }
 ]
