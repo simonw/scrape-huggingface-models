@@ -55994,8 +55994,23 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "zh",
+      "en",
+      "dataset:Azure99/blossom-chat-v1",
+      "dataset:Azure99/blossom-math-v2",
+      "dataset:Azure99/blossom-wizard-v1",
+      "dataset:Azure99/blossom-orca-v1",
+      "base_model:Azure99/blossom-v3-mistral-7b",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-20T10:18:18.000Z",
     "modelId": "TheBloke/blossom-v3-mistral-7B-GPTQ"
   },
@@ -56048,5 +56063,63 @@
     ],
     "createdAt": "2023-11-20T10:18:18.000Z",
     "modelId": "TheBloke/blossom-v3-mistral-7B-GGUF"
+  },
+  {
+    "_id": "655b3a6323e43ac2181422c3",
+    "id": "TheBloke/Karen_TheEditor_V2_STRICT_Mistral_7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "llm",
+      "llama",
+      "spellcheck",
+      "grammar",
+      "base_model:FPHam/Karen_TheEditor_V2_STRICT_Mistral_7B",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-20T10:52:19.000Z",
+    "modelId": "TheBloke/Karen_TheEditor_V2_STRICT_Mistral_7B-GGUF"
+  },
+  {
+    "_id": "655b3a635507a50772f09679",
+    "id": "TheBloke/Karen_TheEditor_V2_STRICT_Mistral_7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "llm",
+      "llama",
+      "spellcheck",
+      "grammar",
+      "base_model:FPHam/Karen_TheEditor_V2_STRICT_Mistral_7B",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-20T10:52:19.000Z",
+    "modelId": "TheBloke/Karen_TheEditor_V2_STRICT_Mistral_7B-AWQ"
+  },
+  {
+    "_id": "655b3a637f246643399fc725",
+    "id": "TheBloke/Karen_TheEditor_V2_STRICT_Mistral_7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-20T10:52:19.000Z",
+    "modelId": "TheBloke/Karen_TheEditor_V2_STRICT_Mistral_7B-GPTQ"
   }
 ]
