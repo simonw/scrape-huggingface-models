@@ -20036,7 +20036,7 @@
   {
     "_id": "64f5fd954d3b1dd311d30e28",
     "id": "TheBloke/Llama-2-7B-GGUF",
-    "likes": 65,
+    "likes": 66,
     "private": false,
     "downloads": 792,
     "tags": [
@@ -23403,7 +23403,7 @@
   {
     "_id": "64fe2c7e0e486522f87861de",
     "id": "TheBloke/MLewdBoros-L2-13B-GPTQ",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 138,
     "tags": [
@@ -23426,7 +23426,7 @@
   {
     "_id": "64fe2c8b1ac56bee85de01ab",
     "id": "TheBloke/MLewdBoros-L2-13B-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 16,
     "tags": [
@@ -55717,7 +55717,7 @@
   {
     "_id": "655a44969e9dfc10890b2528",
     "id": "TheBloke/XwinCoder-34B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -55936,8 +55936,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "base_model:ByteWave/Yi-23B-Llama",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-20T00:50:04.000Z",
     "modelId": "TheBloke/Yi-23B-Llama-AWQ"
   },
@@ -55956,12 +55966,19 @@
   {
     "_id": "655aad3ce0a6202d3680db67",
     "id": "TheBloke/Yi-23B-Llama-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "yi",
+      "text-generation",
+      "en",
+      "base_model:ByteWave/Yi-23B-Llama",
+      "license:other",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-20T00:50:04.000Z",
     "modelId": "TheBloke/Yi-23B-Llama-GGUF"
   }
