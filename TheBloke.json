@@ -10035,7 +10035,7 @@
   {
     "_id": "64b6d9d4bb1d8f2832c8be93",
     "id": "TheBloke/Llama-2-13B-chat-GPTQ",
-    "likes": 304,
+    "likes": 305,
     "private": false,
     "downloads": 84617,
     "tags": [
@@ -12832,7 +12832,7 @@
   {
     "_id": "64cbe710e3cc4a476d801926",
     "id": "TheBloke/llama2_70b_chat_uncensored-GPTQ",
-    "likes": 53,
+    "likes": 54,
     "private": false,
     "downloads": 725,
     "tags": [
@@ -54469,7 +54469,7 @@
   {
     "_id": "65568d1035f26c82c09eef13",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -56468,9 +56468,79 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "instruct",
+      "finetune",
+      "chatml",
+      "gpt4",
+      "en",
+      "base_model:FPHam/Writing_Partner_Mistral_7B",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-20T17:15:56.000Z",
     "modelId": "TheBloke/Writing_Partner_Mistral_7B-GPTQ"
+  },
+  {
+    "_id": "655b9d9f0555d96ad95ef3cb",
+    "id": "TheBloke/llama2_7b_merge_orcafamily-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:Open-Orca/SlimOrca",
+      "dataset:beaugogh/openorca-multiplechoice-10k",
+      "base_model:yeen214/llama2_7b_merge_orcafamily",
+      "license:mit",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-20T17:55:43.000Z",
+    "modelId": "TheBloke/llama2_7b_merge_orcafamily-AWQ"
+  },
+  {
+    "_id": "655b9d9f09d90b0a0a65f288",
+    "id": "TheBloke/llama2_7b_merge_orcafamily-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:Open-Orca/SlimOrca",
+      "dataset:beaugogh/openorca-multiplechoice-10k",
+      "base_model:yeen214/llama2_7b_merge_orcafamily",
+      "license:mit",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-20T17:55:43.000Z",
+    "modelId": "TheBloke/llama2_7b_merge_orcafamily-GGUF"
+  },
+  {
+    "_id": "655b9d9fc80e332db2c5c971",
+    "id": "TheBloke/llama2_7b_merge_orcafamily-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-20T17:55:43.000Z",
+    "modelId": "TheBloke/llama2_7b_merge_orcafamily-GPTQ"
   }
 ]
