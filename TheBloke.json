@@ -56124,8 +56124,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:lvkaokao/mistral-7b-finetuned-orca-dpo-v2",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-20T03:02:39.000Z",
     "modelId": "TheBloke/mistral-7B-finetuned-orca-dpo-v2-GPTQ"
   },
@@ -56153,8 +56162,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:lvkaokao/mistral-7b-finetuned-orca-dpo-v2",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-20T03:02:39.000Z",
     "modelId": "TheBloke/mistral-7B-finetuned-orca-dpo-v2-AWQ"
   }
