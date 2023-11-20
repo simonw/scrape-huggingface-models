@@ -661,7 +661,7 @@
   {
     "_id": "6454b9c0f61f10d69dbfd49f",
     "id": "TheBloke/WizardLM-7B-uncensored-GPTQ",
-    "likes": 159,
+    "likes": 160,
     "private": false,
     "downloads": 9117,
     "tags": [
@@ -12536,7 +12536,7 @@
   {
     "_id": "64cb5e618769a4019f982308",
     "id": "TheBloke/vicuna-13B-v1.5-16K-GGML",
-    "likes": 59,
+    "likes": 60,
     "private": false,
     "downloads": 37,
     "tags": [
@@ -36434,7 +36434,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 157,
+    "likes": 158,
     "private": false,
     "downloads": 2318,
     "tags": [
@@ -40744,7 +40744,7 @@
   {
     "_id": "652653590aaab896facf71a0",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GGUF",
-    "likes": 88,
+    "likes": 89,
     "private": false,
     "downloads": 516,
     "tags": [
@@ -55717,7 +55717,7 @@
   {
     "_id": "655a44969e9dfc10890b2528",
     "id": "TheBloke/XwinCoder-34B-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -56305,7 +56305,7 @@
   {
     "_id": "655b828971ed242b424e4381",
     "id": "TheBloke/Generate_Question_Mistral_7B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -56581,6 +56581,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "peft",
+      "safetensors",
+      "code",
+      "instruct",
+      "llama2",
+      "dataset:HuggingFaceH4/no_robots",
+      "base_model:qblocks/mistral_7b_norobots",
+      "license:apache-2.0",
       "region:us"
     ],
     "createdAt": "2023-11-20T18:30:34.000Z",
@@ -56593,6 +56601,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "peft",
+      "safetensors",
+      "code",
+      "instruct",
+      "llama2",
+      "dataset:HuggingFaceH4/no_robots",
+      "base_model:qblocks/mistral_7b_norobots",
+      "license:apache-2.0",
       "region:us"
     ],
     "createdAt": "2023-11-20T18:30:34.000Z",
