@@ -55121,7 +55121,7 @@
   {
     "_id": "65590a679d249b4ab338043b",
     "id": "TheBloke/Nanbeige-16B-Chat-32K-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -55223,7 +55223,7 @@
   {
     "_id": "655939c8029b03128be0e0e6",
     "id": "TheBloke/nucleus-22B-token-500B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -55481,7 +55481,7 @@
   {
     "_id": "6559d0e98762c448a11b1891",
     "id": "TheBloke/Nanbeige-16B-Base-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -55571,7 +55571,7 @@
   {
     "_id": "655a0bfbec17c88302c2bb5a",
     "id": "TheBloke/Capybara-Tess-Yi-34B-200K-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -55810,7 +55810,7 @@
   {
     "_id": "655a99083f3e05685d5207c6",
     "id": "TheBloke/Yi-15B-Llama-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -55877,8 +55877,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:adonlee/LLaMA_2_13B_SFT_v1",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-20T00:15:09.000Z",
     "modelId": "TheBloke/LLaMA_2_13B_SFT_v1-GPTQ"
   },
@@ -55906,9 +55915,54 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:adonlee/LLaMA_2_13B_SFT_v1",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-20T00:15:09.000Z",
     "modelId": "TheBloke/LLaMA_2_13B_SFT_v1-AWQ"
+  },
+  {
+    "_id": "655aad3c30ad83ad6b6e34a1",
+    "id": "TheBloke/Yi-23B-Llama-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-20T00:50:04.000Z",
+    "modelId": "TheBloke/Yi-23B-Llama-AWQ"
+  },
+  {
+    "_id": "655aad3c3f3e05685d5587fb",
+    "id": "TheBloke/Yi-23B-Llama-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-20T00:50:04.000Z",
+    "modelId": "TheBloke/Yi-23B-Llama-GPTQ"
+  },
+  {
+    "_id": "655aad3ce0a6202d3680db67",
+    "id": "TheBloke/Yi-23B-Llama-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-20T00:50:04.000Z",
+    "modelId": "TheBloke/Yi-23B-Llama-GGUF"
   }
 ]
