@@ -9370,7 +9370,7 @@
   {
     "_id": "64abc16acbc2ba10ffdfbdba",
     "id": "TheBloke/Chronoboros-33B-GPTQ",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 286,
     "tags": [
@@ -10126,7 +10126,7 @@
   {
     "_id": "64b72139a00eab5bcddae33e",
     "id": "TheBloke/Llama-2-70B-Chat-GPTQ",
-    "likes": 224,
+    "likes": 225,
     "private": false,
     "downloads": 36687,
     "tags": [
@@ -48440,7 +48440,7 @@
   {
     "_id": "65403e7339948eb634bfcdff",
     "id": "TheBloke/dolphin-2.2.1-mistral-7B-GGUF",
-    "likes": 65,
+    "likes": 66,
     "private": false,
     "downloads": 211,
     "tags": [
@@ -54247,7 +54247,7 @@
   {
     "_id": "65561752bf4c000cc62b810f",
     "id": "TheBloke/merlyn-education-corpus-qa-v2-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -54469,7 +54469,7 @@
   {
     "_id": "65568d1035f26c82c09eef13",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -56445,9 +56445,32 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "LLM",
+      "llama",
+      "Mistral",
+      "base_model:FPHam/Generate_Question_Mistral_7B",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-20T16:47:06.000Z",
     "modelId": "TheBloke/Generate_Question_Mistral_7B-GPTQ"
+  },
+  {
+    "_id": "655b944c1f8c93413b3a2a88",
+    "id": "TheBloke/Writing_Partner_Mistral_7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-20T17:15:56.000Z",
+    "modelId": "TheBloke/Writing_Partner_Mistral_7B-GPTQ"
   }
 ]
