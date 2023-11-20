@@ -9956,7 +9956,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 639,
+    "likes": 640,
     "private": false,
     "downloads": 5075,
     "tags": [
@@ -22519,7 +22519,7 @@
   {
     "_id": "64f8db3bb0f25f3fe3bdf596",
     "id": "TheBloke/llama2_70b_chat_uncensored-GGUF",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -24620,7 +24620,7 @@
   {
     "_id": "650343a682691ea136f86814",
     "id": "TheBloke/Chinese-Alpaca-2-13B-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 33,
     "tags": [
@@ -54469,7 +54469,7 @@
   {
     "_id": "65568d1035f26c82c09eef13",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 11,
     "tags": [
@@ -56117,9 +56117,58 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "llm",
+      "llama",
+      "spellcheck",
+      "grammar",
+      "base_model:FPHam/Karen_TheEditor_V2_STRICT_Mistral_7B",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-20T10:52:19.000Z",
     "modelId": "TheBloke/Karen_TheEditor_V2_STRICT_Mistral_7B-GPTQ"
+  },
+  {
+    "_id": "655b43284cd8d4486506cf78",
+    "id": "TheBloke/GOAT-70B-Storytelling-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-20T11:29:44.000Z",
+    "modelId": "TheBloke/GOAT-70B-Storytelling-GGUF"
+  },
+  {
+    "_id": "655b4328c1f2352d23e90825",
+    "id": "TheBloke/GOAT-70B-Storytelling-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-20T11:29:44.000Z",
+    "modelId": "TheBloke/GOAT-70B-Storytelling-GPTQ"
+  },
+  {
+    "_id": "655b4328cb17ec19ef981c58",
+    "id": "TheBloke/GOAT-70B-Storytelling-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-20T11:29:44.000Z",
+    "modelId": "TheBloke/GOAT-70B-Storytelling-AWQ"
   }
 ]
