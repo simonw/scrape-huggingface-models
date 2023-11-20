@@ -52927,7 +52927,7 @@
   {
     "_id": "655280a0d05fe94e01a47abe",
     "id": "TheBloke/dolphin-2_2-yi-34b-AWQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 450,
     "tags": [
@@ -56660,6 +56660,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "peft",
+      "safetensors",
+      "code",
+      "instruct",
+      "zephyr",
+      "dataset:HuggingFaceH4/no_robots",
+      "base_model:qblocks/zephyr_7b_norobots",
+      "license:apache-2.0",
       "region:us"
     ],
     "createdAt": "2023-11-20T20:29:19.000Z",
@@ -56692,6 +56700,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "peft",
+      "safetensors",
+      "code",
+      "instruct",
+      "zephyr",
+      "dataset:HuggingFaceH4/no_robots",
+      "base_model:qblocks/zephyr_7b_norobots",
+      "license:apache-2.0",
       "region:us"
     ],
     "createdAt": "2023-11-20T20:29:20.000Z",
