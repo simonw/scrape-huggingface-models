@@ -13858,7 +13858,7 @@
   {
     "_id": "64d3ac24bcab89854afe8215",
     "id": "TheBloke/WizardLM-70B-V1.0-GPTQ",
-    "likes": 28,
+    "likes": 29,
     "private": false,
     "downloads": 7473,
     "tags": [
@@ -56773,7 +56773,7 @@
   {
     "_id": "655c6a0c76e4fad552c77585",
     "id": "TheBloke/Orca-2-13B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -56915,5 +56915,56 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-21T09:09:47.000Z",
     "modelId": "TheBloke/Orca-2-7B-GPTQ"
+  },
+  {
+    "_id": "655c7d6204a116e8ff305316",
+    "id": "TheBloke/Qwen-7B-Chat-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-21T09:50:26.000Z",
+    "modelId": "TheBloke/Qwen-7B-Chat-GPTQ"
+  },
+  {
+    "_id": "655c7e678fc6b9753aaa9841",
+    "id": "TheBloke/Qwen-7B-Chat-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "qwen",
+      "text-generation",
+      "custom_code",
+      "zh",
+      "en",
+      "arxiv:2309.16609",
+      "arxiv:2305.08322",
+      "arxiv:2009.03300",
+      "arxiv:2305.05280",
+      "arxiv:2210.03629",
+      "base_model:Qwen/Qwen-7B-Chat",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-21T09:54:47.000Z",
+    "modelId": "TheBloke/Qwen-7B-Chat-AWQ"
+  },
+  {
+    "_id": "655c7f142ba34a68cf174448",
+    "id": "TheBloke/Qwen-14B-Chat-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-21T09:57:40.000Z",
+    "modelId": "TheBloke/Qwen-14B-Chat-AWQ"
   }
 ]
