@@ -40164,7 +40164,7 @@
   {
     "_id": "65233873cfbef01dc7c02d38",
     "id": "TheBloke/PsyMedRP-v1-20B-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -56898,8 +56898,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "orca",
+      "orca2",
+      "microsoft",
+      "arxiv:2311.11045",
+      "base_model:microsoft/Orca-2-7b",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-21T09:09:47.000Z",
     "modelId": "TheBloke/Orca-2-7B-GPTQ"
   }
