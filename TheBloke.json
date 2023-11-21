@@ -46364,7 +46364,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 145,
+    "likes": 146,
     "private": false,
     "downloads": 1333,
     "tags": [
@@ -56773,7 +56773,7 @@
   {
     "_id": "655c6a0c76e4fad552c77585",
     "id": "TheBloke/Orca-2-13B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -56800,8 +56800,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "orca",
+      "orca2",
+      "microsoft",
+      "arxiv:2311.11045",
+      "base_model:microsoft/Orca-2-13b",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-21T08:30:58.000Z",
     "modelId": "TheBloke/Orca-2-13B-GPTQ"
   },
@@ -56812,8 +56825,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "orca",
+      "orca2",
+      "microsoft",
+      "arxiv:2311.11045",
+      "base_model:microsoft/Orca-2-7b",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-21T08:32:53.000Z",
     "modelId": "TheBloke/Orca-2-7B-AWQ"
   },
@@ -56824,8 +56850,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "orca",
+      "orca2",
+      "microsoft",
+      "arxiv:2311.11045",
+      "base_model:microsoft/Orca-2-13b",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-21T08:33:27.000Z",
     "modelId": "TheBloke/Orca-2-13B-AWQ"
   },
@@ -56836,9 +56875,32 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "orca",
+      "orca2",
+      "microsoft",
+      "text-generation",
+      "arxiv:2311.11045",
+      "base_model:microsoft/Orca-2-7b",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-21T08:36:51.000Z",
     "modelId": "TheBloke/Orca-2-7B-GGUF"
+  },
+  {
+    "_id": "655c73db1585a0f15f394ec4",
+    "id": "TheBloke/Orca-2-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-21T09:09:47.000Z",
+    "modelId": "TheBloke/Orca-2-7B-GPTQ"
   }
 ]
