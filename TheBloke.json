@@ -41247,7 +41247,7 @@
   {
     "_id": "6528dead1ce90a096149ec45",
     "id": "TheBloke/speechless-code-mistral-7B-v1.0-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -56558,7 +56558,7 @@
   {
     "_id": "655ba5ca48f950e91f215ef0",
     "id": "TheBloke/mistral_7b_norobots-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -56637,7 +56637,7 @@
   {
     "_id": "655bc19f6d02c2b1a91fc55f",
     "id": "TheBloke/zephyr_7b_norobots-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -56786,7 +56786,7 @@
   {
     "_id": "655c6a0c76e4fad552c77585",
     "id": "TheBloke/Orca-2-13B-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -56884,7 +56884,7 @@
   {
     "_id": "655c6c23b9d6d283fbfd3359",
     "id": "TheBloke/Orca-2-7B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -57009,5 +57009,46 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-21T09:57:40.000Z",
     "modelId": "TheBloke/Qwen-14B-Chat-AWQ"
+  },
+  {
+    "_id": "655cf5e54660c63af80bcdc9",
+    "id": "TheBloke/gorilla-openfunctions-v1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-21T18:24:37.000Z",
+    "modelId": "TheBloke/gorilla-openfunctions-v1-AWQ"
+  },
+  {
+    "_id": "655cf5e575956386713ad5a1",
+    "id": "TheBloke/gorilla-openfunctions-v1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-21T18:24:37.000Z",
+    "modelId": "TheBloke/gorilla-openfunctions-v1-GPTQ"
+  },
+  {
+    "_id": "655cf5e58b77e2c30b304dfb",
+    "id": "TheBloke/gorilla-openfunctions-v1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "base_model:gorilla-llm/gorilla-openfunctions-v1",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-21T18:24:37.000Z",
+    "modelId": "TheBloke/gorilla-openfunctions-v1-GGUF"
   }
 ]
