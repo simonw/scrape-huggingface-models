@@ -54786,7 +54786,7 @@
   {
     "_id": "655776d74ef6627a23c808be",
     "id": "TheBloke/firefly-llama2-7B-chat-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 13,
     "tags": [
@@ -57055,7 +57055,7 @@
   {
     "_id": "655cf5e58b77e2c30b304dfb",
     "id": "TheBloke/gorilla-openfunctions-v1-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -57124,7 +57124,10 @@
       "safetensors",
       "mistral",
       "text-generation",
-      "endpoints_compatible",
+      "en",
+      "dataset:monology/VMware-open-instruct-higgsfield",
+      "base_model:monology/openinstruct-mistral-7b",
+      "license:apache-2.0",
       "text-generation-inference",
       "4-bit",
       "region:us"
