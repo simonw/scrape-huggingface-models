@@ -21971,7 +21971,7 @@
   {
     "_id": "64f7bac9fbbfe40336117526",
     "id": "TheBloke/Llama-2-7B-32K-Instruct-GGUF",
-    "likes": 36,
+    "likes": 37,
     "private": false,
     "downloads": 219,
     "tags": [
@@ -50107,7 +50107,7 @@
   {
     "_id": "65479a438767484a0548595b",
     "id": "TheBloke/deepseek-coder-6.7B-instruct-GGUF",
-    "likes": 43,
+    "likes": 44,
     "private": false,
     "downloads": 81,
     "tags": [
@@ -56786,7 +56786,7 @@
   {
     "_id": "655c6a0c76e4fad552c77585",
     "id": "TheBloke/Orca-2-13B-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -56884,7 +56884,7 @@
   {
     "_id": "655c6c23b9d6d283fbfd3359",
     "id": "TheBloke/Orca-2-7B-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -57068,5 +57068,29 @@
     ],
     "createdAt": "2023-11-21T18:24:37.000Z",
     "modelId": "TheBloke/gorilla-openfunctions-v1-GGUF"
+  },
+  {
+    "_id": "655d22b90ca803a0c03a1b30",
+    "id": "TheBloke/openinstruct-mistral-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-21T21:35:53.000Z",
+    "modelId": "TheBloke/openinstruct-mistral-7B-AWQ"
+  },
+  {
+    "_id": "655d22b96a37ab8e1c4b08d2",
+    "id": "TheBloke/openinstruct-mistral-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-21T21:35:53.000Z",
+    "modelId": "TheBloke/openinstruct-mistral-7B-GGUF"
   }
 ]
