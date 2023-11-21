@@ -22426,7 +22426,7 @@
   {
     "_id": "64f8ad3c29a9aa4778e7fdab",
     "id": "TheBloke/Falcon-180B-Chat-GPTQ",
-    "likes": 65,
+    "likes": 66,
     "private": false,
     "downloads": 41339,
     "tags": [
@@ -56347,7 +56347,7 @@
   {
     "_id": "655b83a309d90b0a0a60cba6",
     "id": "TheBloke/Writing_Partner_Mistral_7B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -56617,7 +56617,7 @@
   {
     "_id": "655bbfbaaa9d5553232c9159",
     "id": "TheBloke/mistral_7b_norobots-fp16",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -56720,8 +56720,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "custom_code",
+      "en",
+      "dataset:emozilla/yarn-train-tokenized-8k-llama",
+      "arxiv:2309.00071",
+      "base_model:NousResearch/Yarn-Llama-2-70b-32k",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-20T21:45:12.000Z",
     "modelId": "TheBloke/Yarn-Llama-2-70B-32k-AWQ"
   },
