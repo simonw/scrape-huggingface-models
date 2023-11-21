@@ -56884,7 +56884,7 @@
   {
     "_id": "655c6c23b9d6d283fbfd3359",
     "id": "TheBloke/Orca-2-7B-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -57076,21 +57076,61 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "dataset:monology/VMware-open-instruct-higgsfield",
+      "base_model:monology/openinstruct-mistral-7b",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-21T21:35:53.000Z",
     "modelId": "TheBloke/openinstruct-mistral-7B-AWQ"
   },
   {
     "_id": "655d22b96a37ab8e1c4b08d2",
     "id": "TheBloke/openinstruct-mistral-7B-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "text-generation",
+      "en",
+      "dataset:monology/VMware-open-instruct-higgsfield",
+      "base_model:monology/openinstruct-mistral-7b",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-21T21:35:53.000Z",
+    "modelId": "TheBloke/openinstruct-mistral-7B-GGUF"
+  },
+  {
+    "_id": "655d22ba82afda0fc4549062",
+    "id": "TheBloke/openinstruct-mistral-7B-GPTQ",
     "likes": 0,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "endpoints_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
-    "createdAt": "2023-11-21T21:35:53.000Z",
-    "modelId": "TheBloke/openinstruct-mistral-7B-GGUF"
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-21T21:35:54.000Z",
+    "modelId": "TheBloke/openinstruct-mistral-7B-GPTQ"
   }
 ]
