@@ -9956,7 +9956,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 644,
+    "likes": 645,
     "private": false,
     "downloads": 5100,
     "tags": [
@@ -15519,7 +15519,7 @@
   {
     "_id": "64e35618a88a63300b9447db",
     "id": "TheBloke/Llama-2-7B-32K-Instruct-GPTQ",
-    "likes": 25,
+    "likes": 26,
     "private": false,
     "downloads": 46097,
     "tags": [
@@ -57196,5 +57196,45 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-22T09:05:23.000Z",
     "modelId": "TheBloke/MythoMist-7B-GPTQ"
+  },
+  {
+    "_id": "655dcbcf1b960c5c615a99f7",
+    "id": "TheBloke/Tess-M-v1.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-22T09:37:19.000Z",
+    "modelId": "TheBloke/Tess-M-v1.1-GPTQ"
+  },
+  {
+    "_id": "655dcbcf75956386716533e6",
+    "id": "TheBloke/Tess-M-v1.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-22T09:37:19.000Z",
+    "modelId": "TheBloke/Tess-M-v1.1-AWQ"
+  },
+  {
+    "_id": "655dcbcfdcb845354c18ba71",
+    "id": "TheBloke/Tess-M-v1.1-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "yi",
+      "base_model:migtissera/Tess-M-v1.1",
+      "license:other",
+      "region:us"
+    ],
+    "createdAt": "2023-11-22T09:37:19.000Z",
+    "modelId": "TheBloke/Tess-M-v1.1-GGUF"
   }
 ]
