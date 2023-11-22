@@ -45464,7 +45464,7 @@
   {
     "_id": "6534e9dfdc1c6f1ed7081308",
     "id": "TheBloke/LLaMA2-13B-Tiefighter-GPTQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 28380,
     "tags": [
@@ -57314,5 +57314,37 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-22T12:57:53.000Z",
     "modelId": "TheBloke/OrionStar-Yi-34B-Chat-Llama-AWQ"
+  },
+  {
+    "_id": "655e4c7ea3e811457667b53f",
+    "id": "TheBloke/rocket-3B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "stablelm",
+      "en",
+      "arxiv:2305.18290",
+      "arxiv:2101.00027",
+      "arxiv:2305.06161",
+      "base_model:pansophic/rocket-3B",
+      "license:cc-by-sa-4.0",
+      "region:us"
+    ],
+    "createdAt": "2023-11-22T18:46:22.000Z",
+    "modelId": "TheBloke/rocket-3B-GGUF"
+  },
+  {
+    "_id": "655e4c7ed3934dc402f17fbb",
+    "id": "TheBloke/rocket-3B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-22T18:46:22.000Z",
+    "modelId": "TheBloke/rocket-3B-GPTQ"
   }
 ]
