@@ -49332,7 +49332,7 @@
   {
     "_id": "654418242996405c238f5eea",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
-    "likes": 74,
+    "likes": 75,
     "private": false,
     "downloads": 174,
     "tags": [
@@ -50657,7 +50657,6 @@
       "mistral",
       "base_model:OpenBuddy/openbuddy-zephyr-7b-v14.1",
       "license:apache-2.0",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -57216,8 +57215,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:migtissera/Tess-M-v1.1",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-22T09:37:19.000Z",
     "modelId": "TheBloke/Tess-M-v1.1-AWQ"
   },
