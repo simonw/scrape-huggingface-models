@@ -970,7 +970,7 @@
   {
     "_id": "645f575325a4075bcf994ff6",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-HF",
-    "likes": 200,
+    "likes": 201,
     "private": false,
     "downloads": 5299,
     "tags": [
@@ -2186,7 +2186,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 427,
+    "likes": 428,
     "private": false,
     "downloads": 15618,
     "tags": [
@@ -47623,7 +47623,7 @@
   {
     "_id": "653e610aceb0a0f6ce31ca58",
     "id": "TheBloke/Nous-Capybara-7B-v1.9-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 17,
     "tags": [
@@ -57342,8 +57342,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "stablelm_epoch",
+      "text-generation",
+      "custom_code",
+      "en",
+      "arxiv:2305.18290",
+      "arxiv:2101.00027",
+      "arxiv:2305.06161",
+      "base_model:pansophic/rocket-3B",
+      "license:cc-by-sa-4.0",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-22T18:46:22.000Z",
     "modelId": "TheBloke/rocket-3B-GPTQ"
   }
