@@ -2358,7 +2358,7 @@
   {
     "_id": "6478d3a425e06d2ffe89e05a",
     "id": "TheBloke/WizardLM-Uncensored-Falcon-7B-GPTQ",
-    "likes": 50,
+    "likes": 51,
     "private": false,
     "downloads": 43781,
     "tags": [
@@ -16452,7 +16452,7 @@
   {
     "_id": "64e78cdac3b2443fb30b9dda",
     "id": "TheBloke/CodeLlama-7B-Instruct-GGUF",
-    "likes": 72,
+    "likes": 73,
     "private": false,
     "downloads": 354,
     "tags": [
@@ -20036,7 +20036,7 @@
   {
     "_id": "64f5fd954d3b1dd311d30e28",
     "id": "TheBloke/Llama-2-7B-GGUF",
-    "likes": 68,
+    "likes": 69,
     "private": false,
     "downloads": 795,
     "tags": [
@@ -47954,8 +47954,7 @@
       "mistral",
       "base_model:SciPhi/SciPhi-Mistral-7B-32k",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "createdAt": "2023-10-29T21:52:43.000Z",
     "modelId": "TheBloke/SciPhi-Mistral-7B-32k-GGUF"
@@ -48440,7 +48439,7 @@
   {
     "_id": "65403e7339948eb634bfcdff",
     "id": "TheBloke/dolphin-2.2.1-mistral-7B-GGUF",
-    "likes": 69,
+    "likes": 70,
     "private": false,
     "downloads": 225,
     "tags": [
@@ -55552,7 +55551,7 @@
   {
     "_id": "6559f29be87d5297752c37e4",
     "id": "TheBloke/Capybara-Tess-Yi-34B-200K-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 14,
     "tags": [
