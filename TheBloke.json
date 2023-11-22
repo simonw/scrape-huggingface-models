@@ -48439,7 +48439,7 @@
   {
     "_id": "65403e7339948eb634bfcdff",
     "id": "TheBloke/dolphin-2.2.1-mistral-7B-GGUF",
-    "likes": 70,
+    "likes": 71,
     "private": false,
     "downloads": 225,
     "tags": [
@@ -48809,7 +48809,7 @@
   {
     "_id": "654282a67b8e48539ac41c13",
     "id": "TheBloke/vietnamese-llama2-7B-40GB-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 223,
     "tags": [
@@ -49738,7 +49738,7 @@
   {
     "_id": "6546bfe04d1931dc93eacb63",
     "id": "TheBloke/deepseek-coder-33B-instruct-GGUF",
-    "likes": 63,
+    "likes": 64,
     "private": false,
     "downloads": 41,
     "tags": [
@@ -49979,7 +49979,7 @@
   {
     "_id": "6547412196c46859c2f8d3be",
     "id": "TheBloke/deepseek-coder-33B-instruct-GPTQ",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 750,
     "tags": [
@@ -57318,7 +57318,7 @@
   {
     "_id": "655e4c7ea3e811457667b53f",
     "id": "TheBloke/rocket-3B-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -57418,5 +57418,64 @@
     ],
     "createdAt": "2023-11-22T21:54:45.000Z",
     "modelId": "TheBloke/Tess-XS-Creative-v1.0-GGUF"
+  },
+  {
+    "_id": "655e82fc3beaa281e5153bb9",
+    "id": "TheBloke/Tess-XS-v1.1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "base_model:migtissera/Tess-XS-v1.1",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-22T22:38:52.000Z",
+    "modelId": "TheBloke/Tess-XS-v1.1-GGUF"
+  },
+  {
+    "_id": "655e82fca74c042364cc47c3",
+    "id": "TheBloke/Tess-XS-v1.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:migtissera/Tess-XS-v1.1",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-22T22:38:52.000Z",
+    "modelId": "TheBloke/Tess-XS-v1.1-GPTQ"
+  },
+  {
+    "_id": "655e82fce1b6d15cfe830a93",
+    "id": "TheBloke/Tess-XS-v1.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:migtissera/Tess-XS-v1.1",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-22T22:38:52.000Z",
+    "modelId": "TheBloke/Tess-XS-v1.1-AWQ"
   }
 ]
