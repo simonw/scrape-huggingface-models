@@ -9956,7 +9956,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 645,
+    "likes": 646,
     "private": false,
     "downloads": 5157,
     "tags": [
@@ -22580,7 +22580,7 @@
   {
     "_id": "64f97e6a159055330801aec5",
     "id": "TheBloke/Falcon-180B-Chat-GGUF",
-    "likes": 110,
+    "likes": 111,
     "private": false,
     "downloads": 49,
     "tags": [
@@ -53836,7 +53836,7 @@
   {
     "_id": "65550b8fd5a72476aed640ab",
     "id": "TheBloke/neural-chat-7B-v3-1-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 58,
     "tags": [
@@ -57318,7 +57318,7 @@
   {
     "_id": "655e4c7ea3e811457667b53f",
     "id": "TheBloke/rocket-3B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -57359,5 +57359,46 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-22T18:46:22.000Z",
     "modelId": "TheBloke/rocket-3B-GPTQ"
+  },
+  {
+    "_id": "655e78a5337a5d2e379d6e86",
+    "id": "TheBloke/Tess-XS-Creative-v1.0-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-22T21:54:45.000Z",
+    "modelId": "TheBloke/Tess-XS-Creative-v1.0-GPTQ"
+  },
+  {
+    "_id": "655e78a53beaa281e5137708",
+    "id": "TheBloke/Tess-XS-Creative-v1.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-22T21:54:45.000Z",
+    "modelId": "TheBloke/Tess-XS-Creative-v1.0-AWQ"
+  },
+  {
+    "_id": "655e78a5737830f9945275a1",
+    "id": "TheBloke/Tess-XS-Creative-v1.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "base_model:migtissera/Tess-XS-Creative-v1.0",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-22T21:54:45.000Z",
+    "modelId": "TheBloke/Tess-XS-Creative-v1.0-GGUF"
   }
 ]
