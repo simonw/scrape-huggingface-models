@@ -40744,7 +40744,7 @@
   {
     "_id": "652653590aaab896facf71a0",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GGUF",
-    "likes": 89,
+    "likes": 90,
     "private": false,
     "downloads": 337,
     "tags": [
@@ -55795,18 +55795,6 @@
     "modelId": "TheBloke/blossom-v3-baichuan2-7B-GGUF"
   },
   {
-    "_id": "655a80248b3f76d53304593e",
-    "id": "TheBloke/blossom-v3-baichuan2-7B-AWQ",
-    "likes": 0,
-    "private": false,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "createdAt": "2023-11-19T21:37:40.000Z",
-    "modelId": "TheBloke/blossom-v3-baichuan2-7B-AWQ"
-  },
-  {
     "_id": "655aa50d27902877026ed870",
     "id": "TheBloke/LLaMA_2_13B_SFT_v1-GPTQ",
     "likes": 0,
@@ -57854,15 +57842,24 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:NeverSleep/Noromaid-20b-v0.1.1",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-23T08:47:36.000Z",
     "modelId": "TheBloke/Noromaid-20B-v0.1.1-AWQ"
   },
   {
     "_id": "655f11a819fd101f14b99953",
     "id": "TheBloke/Noromaid-20B-v0.1.1-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
