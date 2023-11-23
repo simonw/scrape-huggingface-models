@@ -42931,7 +42931,7 @@
   {
     "_id": "652bc0b24267f8c8026984e1",
     "id": "TheBloke/airoboros-l2-13B-3.1-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -44366,7 +44366,7 @@
   {
     "_id": "652fd0dfb49135da7663513b",
     "id": "TheBloke/Airoboros-L2-13B-3.1.1-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -53836,7 +53836,7 @@
   {
     "_id": "65550b8fd5a72476aed640ab",
     "id": "TheBloke/neural-chat-7B-v3-1-GGUF",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 58,
     "tags": [
@@ -56785,7 +56785,7 @@
   {
     "_id": "655c6a0c76e4fad552c77585",
     "id": "TheBloke/Orca-2-13B-GGUF",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 16,
     "tags": [
@@ -57318,7 +57318,7 @@
   {
     "_id": "655e4c7ea3e811457667b53f",
     "id": "TheBloke/rocket-3B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -57477,5 +57477,110 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-22T22:38:52.000Z",
     "modelId": "TheBloke/Tess-XS-v1.1-AWQ"
+  },
+  {
+    "_id": "655e93340bda1e8ff8212263",
+    "id": "TheBloke/Chupacabra-7B-v2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "base_model:perlthoughts/Chupacabra-7B-v2",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-22T23:48:04.000Z",
+    "modelId": "TheBloke/Chupacabra-7B-v2-GGUF"
+  },
+  {
+    "_id": "655e933465bc71935d6b79c9",
+    "id": "TheBloke/Chupacabra-7B-v2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:perlthoughts/Chupacabra-7B-v2",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-22T23:48:04.000Z",
+    "modelId": "TheBloke/Chupacabra-7B-v2-AWQ"
+  },
+  {
+    "_id": "655e9335337a5d2e37a180f6",
+    "id": "TheBloke/Chupacabra-7B-v2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:perlthoughts/Chupacabra-7B-v2",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-22T23:48:05.000Z",
+    "modelId": "TheBloke/Chupacabra-7B-v2-GPTQ"
+  },
+  {
+    "_id": "655e9a132fe9f470c9d6c2f1",
+    "id": "TheBloke/Ferret_7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-23T00:17:23.000Z",
+    "modelId": "TheBloke/Ferret_7B-GPTQ"
+  },
+  {
+    "_id": "655e9a1332537bcc8d676a63",
+    "id": "TheBloke/Ferret_7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "dataset:euclaise/MiniCoT",
+      "dataset:euclaise/SciCoT",
+      "dataset:euclaise/symtune_mini",
+      "dataset:euclaise/mathoverflow-accepted",
+      "dataset:euirim/goodwiki",
+      "base_model:euclaise/Ferret_7B",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-23T00:17:23.000Z",
+    "modelId": "TheBloke/Ferret_7B-GGUF"
+  },
+  {
+    "_id": "655e9a13a81ce416b9e84ed6",
+    "id": "TheBloke/Ferret_7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-23T00:17:23.000Z",
+    "modelId": "TheBloke/Ferret_7B-AWQ"
   }
 ]
