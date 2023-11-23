@@ -661,7 +661,7 @@
   {
     "_id": "6454b9c0f61f10d69dbfd49f",
     "id": "TheBloke/WizardLM-7B-uncensored-GPTQ",
-    "likes": 160,
+    "likes": 161,
     "private": false,
     "downloads": 8643,
     "tags": [
@@ -41734,7 +41734,7 @@
   {
     "_id": "652ac29662a48851897453af",
     "id": "TheBloke/SauerkrautLM-13B-v1-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -58288,7 +58288,7 @@
   {
     "_id": "655f89ed737830f9947e8fbd",
     "id": "TheBloke/Yi-34B-Chat-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -58395,8 +58395,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "ko",
+      "base_model:maywell/Synatra-7B-v0.3-base",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-23T20:12:27.000Z",
     "modelId": "TheBloke/Synatra-7B-v0.3-base-GPTQ"
   },
@@ -58441,5 +58451,43 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-23T20:12:27.000Z",
     "modelId": "TheBloke/Synatra-7B-v0.3-base-GGUF"
+  },
+  {
+    "_id": "655fb93f5bfeae83a4a09a4b",
+    "id": "TheBloke/cockatrice-7B-v0.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:openerotica/cockatrice-7b-v0.1",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-23T20:42:39.000Z",
+    "modelId": "TheBloke/cockatrice-7B-v0.1-AWQ"
+  },
+  {
+    "_id": "655fb93fe23401f820f8484d",
+    "id": "TheBloke/cockatrice-7B-v0.1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "base_model:openerotica/cockatrice-7b-v0.1",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-23T20:42:39.000Z",
+    "modelId": "TheBloke/cockatrice-7B-v0.1-GGUF"
   }
 ]
