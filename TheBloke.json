@@ -24274,7 +24274,7 @@
   {
     "_id": "6501be085c0e01b2286cb836",
     "id": "TheBloke/Llama2-Chat-AYT-13B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 26,
     "tags": [
@@ -52362,7 +52362,7 @@
   {
     "_id": "654ec9fbaae66b1676cd6256",
     "id": "TheBloke/openchat_3.5-16k-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 53,
     "tags": [
@@ -57160,7 +57160,7 @@
   {
     "_id": "655dc453a499c26280ad532b",
     "id": "TheBloke/MythoMist-7B-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -57544,8 +57544,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "dataset:euclaise/MiniCoT",
+      "dataset:euclaise/SciCoT",
+      "dataset:euclaise/symtune_mini",
+      "dataset:euclaise/mathoverflow-accepted",
+      "dataset:euirim/goodwiki",
+      "base_model:euclaise/Ferret_7B",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-23T00:17:23.000Z",
     "modelId": "TheBloke/Ferret_7B-GPTQ"
   },
@@ -57578,9 +57592,64 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "dataset:euclaise/MiniCoT",
+      "dataset:euclaise/SciCoT",
+      "dataset:euclaise/symtune_mini",
+      "dataset:euclaise/mathoverflow-accepted",
+      "dataset:euirim/goodwiki",
+      "base_model:euclaise/Ferret_7B",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-23T00:17:23.000Z",
     "modelId": "TheBloke/Ferret_7B-AWQ"
+  },
+  {
+    "_id": "655ea0dd7b44c113b82bc2bc",
+    "id": "TheBloke/speechless-mistral-7B-dare-0.85-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-23T00:46:21.000Z",
+    "modelId": "TheBloke/speechless-mistral-7B-dare-0.85-GPTQ"
+  },
+  {
+    "_id": "655ea0dd905c81e85a86fce6",
+    "id": "TheBloke/speechless-mistral-7B-dare-0.85-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "base_model:speechlessai/speechless-mistral-7b-dare-0.85",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-23T00:46:21.000Z",
+    "modelId": "TheBloke/speechless-mistral-7B-dare-0.85-GGUF"
+  },
+  {
+    "_id": "655ea0dde3dda95b34e587be",
+    "id": "TheBloke/speechless-mistral-7B-dare-0.85-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-23T00:46:21.000Z",
+    "modelId": "TheBloke/speechless-mistral-7B-dare-0.85-AWQ"
   }
 ]
