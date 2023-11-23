@@ -17275,7 +17275,7 @@
   {
     "_id": "64e9bccabfb2aa06a429cb9c",
     "id": "TheBloke/Phind-CodeLlama-34B-v1-GPTQ",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -57795,8 +57795,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:uukuguy/SynthIA-7B-v1.3-dare-0.85",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-23T02:13:53.000Z",
     "modelId": "TheBloke/SynthIA-7B-v1.3-dare-0.85-AWQ"
   },
@@ -57807,6 +57816,11 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "mistral",
+      "base_model:uukuguy/SynthIA-7B-v1.3-dare-0.85",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "createdAt": "2023-11-23T02:13:53.000Z",
