@@ -945,7 +945,7 @@
   {
     "_id": "645f47cf6990e1208522b824",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
-    "likes": 262,
+    "likes": 263,
     "private": false,
     "downloads": 22610,
     "tags": [
@@ -2549,7 +2549,7 @@
   {
     "_id": "647b3c28b31514a4a6d83660",
     "id": "TheBloke/Nous-Hermes-13B-GPTQ",
-    "likes": 156,
+    "likes": 157,
     "private": false,
     "downloads": 3305,
     "tags": [
@@ -4266,7 +4266,7 @@
   {
     "_id": "6489dec34344b9f97db273d9",
     "id": "TheBloke/WizardCoder-15B-1.0-GPTQ",
-    "likes": 163,
+    "likes": 165,
     "private": false,
     "downloads": 1446,
     "tags": [
@@ -36620,7 +36620,7 @@
   {
     "_id": "65148276ac849a6655d267e9",
     "id": "TheBloke/Mistral-7B-v0.1-AWQ",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 1618,
     "tags": [
@@ -37339,7 +37339,7 @@
   {
     "_id": "6515ffbc3e5a12e0ceaefd75",
     "id": "TheBloke/Mistral-7B-v0.1-GPTQ",
-    "likes": 26,
+    "likes": 27,
     "private": false,
     "downloads": 3409,
     "tags": [
@@ -38510,7 +38510,7 @@
   {
     "_id": "651ad365bec377c8b849e5e9",
     "id": "TheBloke/Mistral-7B-OpenOrca-AWQ",
-    "likes": 27,
+    "likes": 28,
     "private": false,
     "downloads": 12353,
     "tags": [
@@ -46364,7 +46364,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 153,
+    "likes": 154,
     "private": false,
     "downloads": 1612,
     "tags": [
@@ -53837,7 +53837,7 @@
   {
     "_id": "65550b8fd5a72476aed640ab",
     "id": "TheBloke/neural-chat-7B-v3-1-GGUF",
-    "likes": 21,
+    "likes": 23,
     "private": false,
     "downloads": 67,
     "tags": [
@@ -56872,7 +56872,7 @@
   {
     "_id": "655c6c23b9d6d283fbfd3359",
     "id": "TheBloke/Orca-2-7B-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 32,
     "tags": [
@@ -57149,7 +57149,7 @@
   {
     "_id": "655dc453a499c26280ad532b",
     "id": "TheBloke/MythoMist-7B-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 13,
     "tags": [
@@ -58489,5 +58489,41 @@
     ],
     "createdAt": "2023-11-23T20:42:39.000Z",
     "modelId": "TheBloke/cockatrice-7B-v0.1-GGUF"
+  },
+  {
+    "_id": "655fe0cc8bb3ddd1bbdc00c7",
+    "id": "TheBloke/Tess-M-v1.2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-23T23:31:24.000Z",
+    "modelId": "TheBloke/Tess-M-v1.2-GGUF"
+  },
+  {
+    "_id": "655fe0ccc40c3a6a0d8d2f0e",
+    "id": "TheBloke/Tess-M-v1.2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-23T23:31:24.000Z",
+    "modelId": "TheBloke/Tess-M-v1.2-AWQ"
+  },
+  {
+    "_id": "655fe0ccc40c3a6a0d8d2f11",
+    "id": "TheBloke/Tess-M-v1.2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-23T23:31:24.000Z",
+    "modelId": "TheBloke/Tess-M-v1.2-GPTQ"
   }
 ]
