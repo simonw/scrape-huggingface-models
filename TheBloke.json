@@ -40164,7 +40164,7 @@
   {
     "_id": "65233873cfbef01dc7c02d38",
     "id": "TheBloke/PsyMedRP-v1-20B-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -52883,7 +52883,7 @@
   {
     "_id": "65526c84fb76980adeff5db6",
     "id": "TheBloke/Nous-Capybara-34B-GGUF",
-    "likes": 58,
+    "likes": 59,
     "private": false,
     "downloads": 87,
     "tags": [
@@ -55551,7 +55551,7 @@
   {
     "_id": "6559f29be87d5297752c37e4",
     "id": "TheBloke/Capybara-Tess-Yi-34B-200K-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -57846,5 +57846,46 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-23T02:13:53.000Z",
     "modelId": "TheBloke/SynthIA-7B-v1.3-dare-0.85-GPTQ"
+  },
+  {
+    "_id": "655f11a80bda1e8ff8365d95",
+    "id": "TheBloke/Noromaid-20B-v0.1.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-23T08:47:36.000Z",
+    "modelId": "TheBloke/Noromaid-20B-v0.1.1-AWQ"
+  },
+  {
+    "_id": "655f11a819fd101f14b99953",
+    "id": "TheBloke/Noromaid-20B-v0.1.1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "base_model:NeverSleep/Noromaid-20b-v0.1.1",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-23T08:47:36.000Z",
+    "modelId": "TheBloke/Noromaid-20B-v0.1.1-GGUF"
+  },
+  {
+    "_id": "655f11a83beaa281e52dccf1",
+    "id": "TheBloke/Noromaid-20B-v0.1.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-23T08:47:36.000Z",
+    "modelId": "TheBloke/Noromaid-20B-v0.1.1-GPTQ"
   }
 ]
