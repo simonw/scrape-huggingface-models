@@ -57160,7 +57160,7 @@
   {
     "_id": "655dc453a499c26280ad532b",
     "id": "TheBloke/MythoMist-7B-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -57833,8 +57833,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:uukuguy/SynthIA-7B-v1.3-dare-0.85",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-23T02:13:53.000Z",
     "modelId": "TheBloke/SynthIA-7B-v1.3-dare-0.85-GPTQ"
   }
