@@ -48439,7 +48439,7 @@
   {
     "_id": "65403e7339948eb634bfcdff",
     "id": "TheBloke/dolphin-2.2.1-mistral-7B-GGUF",
-    "likes": 71,
+    "likes": 72,
     "private": false,
     "downloads": 225,
     "tags": [
@@ -56785,7 +56785,7 @@
   {
     "_id": "655c6a0c76e4fad552c77585",
     "id": "TheBloke/Orca-2-13B-GGUF",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 16,
     "tags": [
@@ -57279,7 +57279,7 @@
   {
     "_id": "655dfad1b53face4cf23c5cf",
     "id": "TheBloke/OrionStar-Yi-34B-Chat-Llama-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -57481,7 +57481,7 @@
   {
     "_id": "655e93340bda1e8ff8212263",
     "id": "TheBloke/Chupacabra-7B-v2-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -57736,8 +57736,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:uukuguy/CollectiveCognition-v1.1-Mistral-7B-dare-0.85",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-23T01:44:35.000Z",
     "modelId": "TheBloke/CollectiveCognition-v1.1-Mistral-7B-dare-0.85-AWQ"
   },
@@ -57748,8 +57757,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:uukuguy/CollectiveCognition-v1.1-Mistral-7B-dare-0.85",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-23T01:44:35.000Z",
     "modelId": "TheBloke/CollectiveCognition-v1.1-Mistral-7B-dare-0.85-GPTQ"
   },
@@ -57769,5 +57787,41 @@
     ],
     "createdAt": "2023-11-23T01:44:35.000Z",
     "modelId": "TheBloke/CollectiveCognition-v1.1-Mistral-7B-dare-0.85-GGUF"
+  },
+  {
+    "_id": "655eb561c073ea9cf8506474",
+    "id": "TheBloke/SynthIA-7B-v1.3-dare-0.85-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-23T02:13:53.000Z",
+    "modelId": "TheBloke/SynthIA-7B-v1.3-dare-0.85-AWQ"
+  },
+  {
+    "_id": "655eb561d5c0d3db536e2553",
+    "id": "TheBloke/SynthIA-7B-v1.3-dare-0.85-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-23T02:13:53.000Z",
+    "modelId": "TheBloke/SynthIA-7B-v1.3-dare-0.85-GGUF"
+  },
+  {
+    "_id": "655eb561f74fa124d107d4fa",
+    "id": "TheBloke/SynthIA-7B-v1.3-dare-0.85-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-23T02:13:53.000Z",
+    "modelId": "TheBloke/SynthIA-7B-v1.3-dare-0.85-GPTQ"
   }
 ]
