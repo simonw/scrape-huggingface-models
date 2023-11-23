@@ -54469,7 +54469,7 @@
   {
     "_id": "65568d1035f26c82c09eef13",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 29,
     "tags": [
@@ -58271,8 +58271,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:01-ai/Yi-34B-Chat",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-23T17:20:45.000Z",
     "modelId": "TheBloke/Yi-34B-Chat-AWQ"
   },
