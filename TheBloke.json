@@ -20164,7 +20164,7 @@
   {
     "_id": "64f62bf7376094fe6e13e61f",
     "id": "TheBloke/Llama-2-70B-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 82,
     "tags": [
@@ -20514,7 +20514,7 @@
   {
     "_id": "64f6ca1f2b10e9369ed32a8a",
     "id": "TheBloke/Nous-Hermes-Llama-2-7B-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 23,
     "tags": [
@@ -22476,7 +22476,7 @@
   {
     "_id": "64f8c21ad493d8b0d2be3556",
     "id": "TheBloke/WizardLM-70B-V1.0-GGUF",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -36620,7 +36620,7 @@
   {
     "_id": "65148276ac849a6655d267e9",
     "id": "TheBloke/Mistral-7B-v0.1-AWQ",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 1618,
     "tags": [
@@ -58378,7 +58378,8 @@
       "safetensors",
       "llama",
       "text-generation",
-      "endpoints_compatible",
+      "base_model:01-ai/Yi-34B-Chat",
+      "license:other",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -58386,5 +58387,59 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-23T18:09:41.000Z",
     "modelId": "TheBloke/Yi-34B-Chat-GPTQ"
+  },
+  {
+    "_id": "655fb22b9cf1eef99d4f0894",
+    "id": "TheBloke/Synatra-7B-v0.3-base-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-23T20:12:27.000Z",
+    "modelId": "TheBloke/Synatra-7B-v0.3-base-GPTQ"
+  },
+  {
+    "_id": "655fb22bbaf1f5f90219e013",
+    "id": "TheBloke/Synatra-7B-v0.3-base-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "ko",
+      "base_model:maywell/Synatra-7B-v0.3-base",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-23T20:12:27.000Z",
+    "modelId": "TheBloke/Synatra-7B-v0.3-base-AWQ"
+  },
+  {
+    "_id": "655fb22be23401f820f73dad",
+    "id": "TheBloke/Synatra-7B-v0.3-base-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "mistral",
+      "text-generation",
+      "ko",
+      "base_model:maywell/Synatra-7B-v0.3-base",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-23T20:12:27.000Z",
+    "modelId": "TheBloke/Synatra-7B-v0.3-base-GGUF"
   }
 ]
