@@ -52856,7 +52856,7 @@
   {
     "_id": "65526c844a5191e1f1a7f6f6",
     "id": "TheBloke/Nous-Capybara-34B-GPTQ",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 505,
     "tags": [
@@ -53837,7 +53837,7 @@
   {
     "_id": "65550b8fd5a72476aed640ab",
     "id": "TheBloke/neural-chat-7B-v3-1-GGUF",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 67,
     "tags": [
@@ -57307,7 +57307,7 @@
   {
     "_id": "655e4c7ea3e811457667b53f",
     "id": "TheBloke/rocket-3B-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 11,
     "tags": [
@@ -58267,7 +58267,7 @@
   {
     "_id": "655f89ed324de022a3a4be6e",
     "id": "TheBloke/Yi-34B-Chat-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -58374,8 +58374,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "endpoints_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-23T18:09:41.000Z",
     "modelId": "TheBloke/Yi-34B-Chat-GPTQ"
   }
