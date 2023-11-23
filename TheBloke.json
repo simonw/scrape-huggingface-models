@@ -57838,7 +57838,7 @@
   {
     "_id": "655f11a80bda1e8ff8365d95",
     "id": "TheBloke/Noromaid-20B-v0.1.1-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -57859,7 +57859,7 @@
   {
     "_id": "655f11a819fd101f14b99953",
     "id": "TheBloke/Noromaid-20B-v0.1.1-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -57876,12 +57876,21 @@
   {
     "_id": "655f11a83beaa281e52dccf1",
     "id": "TheBloke/Noromaid-20B-v0.1.1-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:NeverSleep/Noromaid-20b-v0.1.1",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-23T08:47:36.000Z",
     "modelId": "TheBloke/Noromaid-20B-v0.1.1-GPTQ"
   }
