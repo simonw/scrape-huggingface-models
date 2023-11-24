@@ -59473,7 +59473,7 @@
   {
     "_id": "65608a0e2324e4d25c823550",
     "id": "TheBloke/tulu-2-dpo-13B-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -59874,8 +59874,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "text-generation-inference",
+      "instruct",
+      "en",
+      "base_model:tavtav/Rose-20B",
+      "license:llama2",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-24T20:34:27.000Z",
     "modelId": "TheBloke/Rose-20B-AWQ"
   }
