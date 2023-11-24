@@ -51537,7 +51537,7 @@
   {
     "_id": "654cd5c878c68b6d4c71df7c",
     "id": "TheBloke/goliath-120b-GGUF",
-    "likes": 57,
+    "likes": 58,
     "private": false,
     "downloads": 1010,
     "tags": [
@@ -58636,6 +58636,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:allenai/tulu-v2-sft-mixture",
+      "arxiv:2311.10702",
+      "base_model:allenai/tulu-2-70b",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "createdAt": "2023-11-24T03:57:09.000Z",
