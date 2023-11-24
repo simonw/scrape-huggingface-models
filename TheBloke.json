@@ -2904,7 +2904,7 @@
   {
     "_id": "647f5c971a446a624a46abfc",
     "id": "TheBloke/WizardLM-30B-GGML",
-    "likes": 29,
+    "likes": 30,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -35739,7 +35739,7 @@
   {
     "_id": "650f69eb8d01590937d2287d",
     "id": "TheBloke/MXLewd-L2-20B-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 58,
     "tags": [
@@ -39685,7 +39685,7 @@
   {
     "_id": "651d69aa3dde844712297a23",
     "id": "TheBloke/Mistralic-7B-1-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 106,
     "tags": [
@@ -49832,7 +49832,7 @@
   {
     "_id": "654418242996405c238f5eea",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
-    "likes": 79,
+    "likes": 80,
     "private": false,
     "downloads": 299,
     "tags": [
@@ -59836,7 +59836,7 @@
   {
     "_id": "656108d34efe6f0a0659bfa2",
     "id": "TheBloke/Rose-20B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -59908,9 +59908,32 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "base_model:Undi95/X-MythoChronos-13B",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-24T21:55:51.000Z",
     "modelId": "TheBloke/X-MythoChronos-13B-GPTQ"
+  },
+  {
+    "_id": "656126e249f816b798386eeb",
+    "id": "TheBloke/smartyplats-7B-v2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-24T22:42:42.000Z",
+    "modelId": "TheBloke/smartyplats-7B-v2-GPTQ"
   }
 ]
