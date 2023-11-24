@@ -49166,7 +49166,7 @@
   {
     "_id": "6543cac6e9e8e72d2acd55c4",
     "id": "TheBloke/openchat_3.5-GGUF",
-    "likes": 86,
+    "likes": 87,
     "private": false,
     "downloads": 359,
     "tags": [
@@ -57394,7 +57394,7 @@
   {
     "_id": "655e78a5737830f9945275a1",
     "id": "TheBloke/Tess-XS-Creative-v1.0-GGUF",
-    "likes": 2,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -58680,9 +58680,31 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:HuggingFaceH4/ultrafeedback_binarized",
+      "dataset:allenai/tulu-v2-sft-mixture",
+      "arxiv:2305.18290",
+      "arxiv:2311.10702",
+      "base_model:allenai/tulu-2-dpo-13b",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "createdAt": "2023-11-24T09:26:09.000Z",
     "modelId": "TheBloke/tulu-2-dpo-13B-GGUF"
+  },
+  {
+    "_id": "65606fdd4ab6f7cf94df0782",
+    "id": "TheBloke/tulu-2-dpo-70B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-24T09:41:49.000Z",
+    "modelId": "TheBloke/tulu-2-dpo-70B-GGUF"
   }
 ]
