@@ -49063,7 +49063,7 @@
   {
     "_id": "6543c4132996405c237b7eb8",
     "id": "TheBloke/japanese-stablelm-instruct-beta-70B-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 28,
     "tags": [
@@ -49332,7 +49332,7 @@
   {
     "_id": "654418242996405c238f5eea",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
-    "likes": 76,
+    "likes": 77,
     "private": false,
     "downloads": 242,
     "tags": [
@@ -58624,8 +58624,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:allenai/tulu-v2-sft-mixture",
+      "arxiv:2311.10702",
+      "base_model:allenai/tulu-2-70b",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-24T03:57:09.000Z",
     "modelId": "TheBloke/tulu-2-70B-AWQ"
   },
