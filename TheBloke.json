@@ -59836,13 +59836,22 @@
   {
     "_id": "656108d34efe6f0a0659bfa2",
     "id": "TheBloke/Rose-20B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "llama",
+      "text-generation-inference",
+      "instruct",
+      "text-generation",
+      "en",
+      "base_model:tavtav/Rose-20B",
+      "license:llama2",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-24T20:34:27.000Z",
     "modelId": "TheBloke/Rose-20B-GGUF"
   },
