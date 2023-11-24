@@ -24,7 +24,7 @@
     "id": "TheBloke/koala-7B-HF",
     "likes": 18,
     "private": false,
-    "downloads": 4857,
+    "downloads": 4782,
     "tags": [
       "transformers",
       "pytorch",
@@ -50,7 +50,7 @@
     "id": "TheBloke/koala-13B-HF",
     "likes": 40,
     "private": false,
-    "downloads": 5283,
+    "downloads": 5205,
     "tags": [
       "transformers",
       "pytorch",
@@ -166,7 +166,7 @@
     "id": "TheBloke/Vicuna-13B-1.1-GPTQ",
     "likes": 207,
     "private": false,
-    "downloads": 520,
+    "downloads": 513,
     "tags": [
       "transformers",
       "llama",
@@ -185,7 +185,7 @@
     "id": "TheBloke/vicuna-7B-1.1-GPTQ",
     "likes": 58,
     "private": false,
-    "downloads": 233,
+    "downloads": 228,
     "tags": [
       "transformers",
       "llama",
@@ -203,7 +203,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-30b-HF",
     "likes": 10,
     "private": false,
-    "downloads": 4842,
+    "downloads": 4777,
     "tags": [
       "transformers",
       "pytorch",
@@ -229,7 +229,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-30B-GPTQ",
     "likes": 20,
     "private": false,
-    "downloads": 24,
+    "downloads": 17,
     "tags": [
       "transformers",
       "pytorch",
@@ -275,7 +275,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-13B-HF",
     "likes": 4,
     "private": false,
-    "downloads": 4845,
+    "downloads": 4785,
     "tags": [
       "transformers",
       "pytorch",
@@ -327,7 +327,7 @@
     "id": "TheBloke/alpaca-lora-65B-HF",
     "likes": 3,
     "private": false,
-    "downloads": 4827,
+    "downloads": 4754,
     "tags": [
       "transformers",
       "pytorch",
@@ -54406,7 +54406,7 @@
   {
     "_id": "65550b8fd5a72476aed640ab",
     "id": "TheBloke/neural-chat-7B-v3-1-GGUF",
-    "likes": 25,
+    "likes": 26,
     "private": false,
     "downloads": 67,
     "tags": [
@@ -59245,7 +59245,7 @@
   {
     "_id": "65600dc7f3cf301d2f46b88b",
     "id": "TheBloke/tulu-2-13B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -59503,9 +59503,47 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:HuggingFaceH4/ultrafeedback_binarized",
+      "dataset:allenai/tulu-v2-sft-mixture",
+      "arxiv:2305.18290",
+      "arxiv:2311.10702",
+      "base_model:allenai/tulu-2-dpo-13b",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-24T11:33:34.000Z",
     "modelId": "TheBloke/tulu-2-dpo-13B-GPTQ"
+  },
+  {
+    "_id": "656099f7620c177ae04d1f03",
+    "id": "TheBloke/tulu-2-dpo-70B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-24T12:41:27.000Z",
+    "modelId": "TheBloke/tulu-2-dpo-70B-GPTQ"
+  },
+  {
+    "_id": "656099f778f6dd8d8357ad07",
+    "id": "TheBloke/tulu-2-dpo-70B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-24T12:41:27.000Z",
+    "modelId": "TheBloke/tulu-2-dpo-70B-AWQ"
   }
 ]
