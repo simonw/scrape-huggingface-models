@@ -58556,8 +58556,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:allenai/tulu-v2-sft-mixture",
+      "arxiv:2311.10702",
+      "base_model:allenai/tulu-2-13b",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-24T02:43:19.000Z",
     "modelId": "TheBloke/tulu-2-13B-GPTQ"
   },
@@ -58604,5 +58616,41 @@
     ],
     "createdAt": "2023-11-24T02:43:19.000Z",
     "modelId": "TheBloke/tulu-2-13B-GGUF"
+  },
+  {
+    "_id": "65601f1501913a2276346956",
+    "id": "TheBloke/tulu-2-70B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-24T03:57:09.000Z",
+    "modelId": "TheBloke/tulu-2-70B-AWQ"
+  },
+  {
+    "_id": "65601f1547d95544ef949a04",
+    "id": "TheBloke/tulu-2-70B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-24T03:57:09.000Z",
+    "modelId": "TheBloke/tulu-2-70B-GGUF"
+  },
+  {
+    "_id": "65601f15d192bb399538c467",
+    "id": "TheBloke/tulu-2-70B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-24T03:57:09.000Z",
+    "modelId": "TheBloke/tulu-2-70B-GPTQ"
   }
 ]
