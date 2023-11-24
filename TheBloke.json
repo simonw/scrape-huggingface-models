@@ -39397,7 +39397,7 @@
   {
     "_id": "651d7d5999b198681d490343",
     "id": "TheBloke/Llama-2-7B-vietnamese-20k-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 43,
     "tags": [
@@ -52037,7 +52037,7 @@
   {
     "_id": "654e151b85a5e6080585c5bf",
     "id": "TheBloke/Yi-6B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 37,
     "tags": [
@@ -52883,7 +52883,7 @@
   {
     "_id": "65526c84fb76980adeff5db6",
     "id": "TheBloke/Nous-Capybara-34B-GGUF",
-    "likes": 59,
+    "likes": 60,
     "private": false,
     "downloads": 91,
     "tags": [
@@ -58672,5 +58672,17 @@
     ],
     "createdAt": "2023-11-24T03:57:09.000Z",
     "modelId": "TheBloke/tulu-2-70B-GPTQ"
+  },
+  {
+    "_id": "65606c31d69284e31ff275c0",
+    "id": "TheBloke/tulu-2-dpo-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-24T09:26:09.000Z",
+    "modelId": "TheBloke/tulu-2-dpo-13B-GGUF"
   }
 ]
