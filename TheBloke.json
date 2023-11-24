@@ -4287,7 +4287,7 @@
   {
     "_id": "6489e9bf1fbaba5ea28c5183",
     "id": "TheBloke/WizardCoder-15B-1.0-GGML",
-    "likes": 113,
+    "likes": 112,
     "private": false,
     "downloads": 43,
     "tags": [
@@ -5386,15 +5386,6 @@
       "Composer",
       "MosaicML",
       "llm-foundry",
-      "dataset:competition_math",
-      "dataset:conceptofmind/cot_submix_original/cot_gsm8k",
-      "dataset:knkarthick/dialogsum",
-      "dataset:mosaicml/dolly_hhrlhf",
-      "dataset:duorc",
-      "dataset:tau/scrolls/qasper",
-      "dataset:emozilla/quality",
-      "dataset:scrolls/summ_screen_fd",
-      "dataset:spider",
       "arxiv:2205.14135",
       "arxiv:2108.12409",
       "license:cc-by-sa-3.0",
@@ -5417,22 +5408,6 @@
       "Composer",
       "MosaicML",
       "llm-foundry",
-      "dataset:camel-ai/code",
-      "dataset:ehartford/wizard_vicuna_70k_unfiltered",
-      "dataset:anon8231489123/ShareGPT_Vicuna_unfiltered",
-      "dataset:teknium1/GPTeacher/roleplay-instruct-v2-final",
-      "dataset:teknium1/GPTeacher/codegen-isntruct",
-      "dataset:timdettmers/openassistant-guanaco",
-      "dataset:camel-ai/math",
-      "dataset:project-baize/baize-chatbot/medical_chat_data",
-      "dataset:project-baize/baize-chatbot/quora_chat_data",
-      "dataset:project-baize/baize-chatbot/stackoverflow_chat_data",
-      "dataset:camel-ai/biology",
-      "dataset:camel-ai/chemistry",
-      "dataset:camel-ai/ai_society",
-      "dataset:jondurbin/airoboros-gpt4-1.2",
-      "dataset:LongConversations",
-      "dataset:camel-ai/physics",
       "arxiv:2205.14135",
       "arxiv:2108.12409",
       "arxiv:2010.04245",
@@ -6381,7 +6356,7 @@
   {
     "_id": "649a5dcd96d5747b35e30c6f",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-SuperHOT-8K-GPTQ",
-    "likes": 99,
+    "likes": 98,
     "private": false,
     "downloads": 18810,
     "tags": [
@@ -9335,7 +9310,7 @@
   {
     "_id": "64ab10dad7d4000b568c73a1",
     "id": "TheBloke/WizardCoder-Guanaco-15B-V1.0-GPTQ",
-    "likes": 16,
+    "likes": 15,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -9669,7 +9644,6 @@
       "safetensors",
       "llama",
       "text-generation",
-      "base_model:https://ai.meta.com/blog/large-language-model-llama-meta-ai",
       "license:other",
       "text-generation-inference",
       "4-bit",
@@ -9690,7 +9664,6 @@
       "safetensors",
       "llama",
       "text-generation",
-      "base_model:https://ai.meta.com/blog/large-language-model-llama-meta-ai",
       "license:other",
       "text-generation-inference",
       "4-bit",
@@ -9711,7 +9684,6 @@
       "safetensors",
       "llama",
       "text-generation",
-      "base_model:https://ai.meta.com/blog/large-language-model-llama-meta-ai",
       "license:other",
       "text-generation-inference",
       "4-bit",
@@ -9732,7 +9704,6 @@
       "safetensors",
       "llama",
       "text-generation",
-      "base_model:https://ai.meta.com/blog/large-language-model-llama-meta-ai",
       "license:other",
       "text-generation-inference",
       "4-bit",
@@ -10009,7 +9980,7 @@
   {
     "_id": "64b6d3eeab056b63ede8a758",
     "id": "TheBloke/Llama-2-13B-chat-GGML",
-    "likes": 630,
+    "likes": 629,
     "private": false,
     "downloads": 1877,
     "tags": [
@@ -10761,7 +10732,7 @@
   {
     "_id": "64bae83f4b4ff0d50909acc5",
     "id": "TheBloke/llama-2-70b-Guanaco-QLoRA-fp16",
-    "likes": 56,
+    "likes": 55,
     "private": false,
     "downloads": 5647,
     "tags": [
@@ -10837,7 +10808,7 @@
   {
     "_id": "64baf98eaaccfd28b020975b",
     "id": "TheBloke/Nous-Hermes-Llama2-GGML",
-    "likes": 97,
+    "likes": 96,
     "private": false,
     "downloads": 56,
     "tags": [
@@ -11086,6 +11057,7 @@
       "transformers",
       "llama",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -13546,7 +13518,7 @@
   {
     "_id": "64cf7bb2484264a3b3e2553e",
     "id": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GPTQ",
-    "likes": 51,
+    "likes": 50,
     "private": false,
     "downloads": 3580,
     "tags": [
@@ -14290,7 +14262,7 @@
   {
     "_id": "64d5e2dc3ca2924d6e61148a",
     "id": "TheBloke/MythoMax-L2-13B-GGML",
-    "likes": 76,
+    "likes": 75,
     "private": false,
     "downloads": 115,
     "tags": [
@@ -14309,7 +14281,7 @@
   {
     "_id": "64d5e2dcabf475a808a24d42",
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
-    "likes": 89,
+    "likes": 88,
     "private": false,
     "downloads": 41190,
     "tags": [
@@ -14442,7 +14414,7 @@
   {
     "_id": "64d661d57705391d39409f70",
     "id": "TheBloke/WizardMath-13B-V1.0-GPTQ",
-    "likes": 6,
+    "likes": 5,
     "private": false,
     "downloads": 35,
     "tags": [
@@ -16113,6 +16085,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:totally-not-an-llm/EverythingLM-data-V2",
       "dataset:garage-bAInd/Open-Platypus",
@@ -16177,6 +16150,7 @@
     "downloads": 10,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "self-instruct",
@@ -16247,6 +16221,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "sft",
@@ -16457,6 +16432,7 @@
     "downloads": 329,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "text-generation",
@@ -16480,6 +16456,7 @@
     "downloads": 82,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "text-generation",
@@ -16502,6 +16479,7 @@
     "downloads": 328,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "text-generation",
@@ -16509,9 +16487,9 @@
       "arxiv:2308.12950",
       "base_model:codellama/CodeLlama-7b-hf",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "createdAt": "2023-08-24T17:02:09.000Z",
@@ -16525,6 +16503,7 @@
     "downloads": 98,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "text-generation",
@@ -16547,6 +16526,7 @@
     "downloads": 219,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "text-generation",
@@ -16596,6 +16576,7 @@
     "downloads": 25,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "text-generation",
@@ -16690,6 +16671,7 @@
     "downloads": 37,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "text-generation",
@@ -16707,11 +16689,12 @@
   {
     "_id": "64e7cc65e3953cd90bd5a2e6",
     "id": "TheBloke/CodeLlama-34B-Python-GGUF",
-    "likes": 32,
+    "likes": 31,
     "private": false,
     "downloads": 28,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "text-generation",
@@ -16773,11 +16756,12 @@
   {
     "_id": "64e7d00dae53e70cda1de235",
     "id": "TheBloke/CodeLlama-34B-Instruct-GGUF",
-    "likes": 78,
+    "likes": 77,
     "private": false,
     "downloads": 92,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "text-generation",
@@ -16817,7 +16801,7 @@
   {
     "_id": "64e7d523d9e7b4bb623c59b1",
     "id": "TheBloke/CodeLlama-13B-Instruct-GGML",
-    "likes": 17,
+    "likes": 16,
     "private": false,
     "downloads": 38,
     "tags": [
@@ -16864,7 +16848,7 @@
   {
     "_id": "64e7d975efc277cdc01ba39d",
     "id": "TheBloke/CodeLlama-13B-Python-GGML",
-    "likes": 19,
+    "likes": 18,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -16934,7 +16918,7 @@
   {
     "_id": "64e7fafe0973fdd28a1990b4",
     "id": "TheBloke/CodeLlama-13B-Instruct-GPTQ",
-    "likes": 29,
+    "likes": 28,
     "private": false,
     "downloads": 1671,
     "tags": [
@@ -16959,7 +16943,7 @@
   {
     "_id": "64e816b8123d27f6f062b6cd",
     "id": "TheBloke/CodeLlama-13B-Python-GPTQ",
-    "likes": 20,
+    "likes": 19,
     "private": false,
     "downloads": 191,
     "tags": [
@@ -17009,7 +16993,7 @@
   {
     "_id": "64e85bb1e6a52fff352d606f",
     "id": "TheBloke/CodeLlama-34B-Instruct-GPTQ",
-    "likes": 58,
+    "likes": 57,
     "private": false,
     "downloads": 478184,
     "tags": [
@@ -17034,7 +17018,7 @@
   {
     "_id": "64e8786ad41a68b065c53e26",
     "id": "TheBloke/CodeLlama-34B-Python-GPTQ",
-    "likes": 15,
+    "likes": 14,
     "private": false,
     "downloads": 383,
     "tags": [
@@ -17059,7 +17043,7 @@
   {
     "_id": "64e893eb0c2413c35722cff1",
     "id": "TheBloke/CodeLlama-34B-GPTQ",
-    "likes": 20,
+    "likes": 19,
     "private": false,
     "downloads": 161,
     "tags": [
@@ -17135,6 +17119,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:ehartford/samantha-data",
@@ -17182,6 +17167,7 @@
     "downloads": 21,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:ehartford/samantha-data",
@@ -17203,6 +17189,7 @@
     "downloads": 13,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "sft",
       "text-generation",
@@ -17303,6 +17290,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "code llama",
       "base_model:Phind/Phind-CodeLlama-34B-v1",
@@ -17322,6 +17310,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "code llama",
       "base_model:Phind/Phind-CodeLlama-34B-Python-v1",
@@ -17336,7 +17325,7 @@
   {
     "_id": "64e9e5008c523cced2035915",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GPTQ",
-    "likes": 60,
+    "likes": 58,
     "private": false,
     "downloads": 1882,
     "tags": [
@@ -17364,11 +17353,12 @@
   {
     "_id": "64e9e5316b9db55517b1d2a9",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GGUF",
-    "likes": 71,
+    "likes": 70,
     "private": false,
     "downloads": 57,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "code",
       "arxiv:2304.12244",
@@ -17433,6 +17423,7 @@
     "downloads": 9,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama2",
       "base_model:zarakiquemparte/zarafusionex-1.1-l2-7b",
@@ -17451,6 +17442,7 @@
     "downloads": 6,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -17582,6 +17574,7 @@
     "downloads": 9,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -17650,6 +17643,7 @@
     "downloads": 16,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "instruct",
@@ -17695,6 +17689,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:jondurbin/airoboros-2.1",
       "base_model:jondurbin/airoboros-c34b-2.1",
@@ -17736,6 +17731,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:jondurbin/airoboros-2.1",
       "base_model:jondurbin/airoboros-l2-70b-2.1",
@@ -17810,6 +17806,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:The-Face-Of-Goonery/Huginn-22b-Prototype",
       "license:llama2",
@@ -17872,6 +17869,7 @@
     "downloads": 9,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:OpenAssistant/oasst1",
@@ -17888,7 +17886,7 @@
   {
     "_id": "64eb8a892800cf7e9cb2541b",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GPTQ",
-    "likes": 72,
+    "likes": 71,
     "private": false,
     "downloads": 4685,
     "tags": [
@@ -17940,11 +17938,12 @@
   {
     "_id": "64eb8c012beaa8c4106ee91f",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GGUF",
-    "likes": 36,
+    "likes": 35,
     "private": false,
     "downloads": 158,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "code",
       "arxiv:2304.12244",
@@ -17992,6 +17991,7 @@
     "downloads": 120,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "code llama",
       "base_model:Phind/Phind-CodeLlama-34B-v2",
@@ -18012,6 +18012,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "code",
@@ -18079,6 +18080,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:ehartford/samantha-data",
@@ -18121,6 +18123,7 @@
     "downloads": 3,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:taozi555/MythoMax-Kimiko-Mix",
       "license:llama2",
@@ -18200,6 +18203,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "base_model:Sao10K/Mythical-Destroyer-L2-13B",
@@ -18258,6 +18262,7 @@
     "downloads": 3,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:jondurbin/airoboros-2.1",
       "base_model:jondurbin/airoboros-l2-13b-2.1",
@@ -18336,6 +18341,7 @@
     "downloads": 9,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "arxiv:2306.02707",
@@ -18378,6 +18384,7 @@
     "downloads": 130,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:jondurbin/airoboros-2.1",
       "base_model:jondurbin/airoboros-l2-7b-2.1",
@@ -18436,6 +18443,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "base_model:Sao10K/Mythical-Destroyer-V2-L2-13B",
@@ -18515,6 +18523,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:The-Face-Of-Goonery/Huginn-13b-v4.5",
       "license:llama2",
@@ -18549,6 +18558,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:The-Face-Of-Goonery/Huginn-13b-V4",
       "license:llama2",
@@ -18621,6 +18631,7 @@
     "downloads": 66,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:IkariDev/Athena-v1",
       "license:llama2",
@@ -18680,6 +18691,7 @@
     "downloads": 4,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -18724,6 +18736,7 @@
     "downloads": 9,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -18828,6 +18841,7 @@
     "downloads": 6,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -18892,6 +18906,7 @@
     "downloads": 48,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Undi95/MythoMax-L2-Kimiko-v2-13b",
       "license:cc-by-nc-4.0",
@@ -18947,6 +18962,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:jondurbin/airoboros-l2-70b-2.1-creative",
       "license:llama2",
@@ -19023,6 +19039,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "text-generation",
@@ -19067,6 +19084,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:JoSw-14/LoKuS-13B",
       "license:llama2",
@@ -19143,6 +19161,7 @@
     "downloads": 6,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -19187,6 +19206,7 @@
     "downloads": 4,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:pg19",
       "arxiv:2309.00071",
@@ -19220,7 +19240,7 @@
   {
     "_id": "64f1978de8e39d5df3d632fb",
     "id": "TheBloke/Yarn-Llama-2-7B-64K-GPTQ",
-    "likes": 2,
+    "likes": 1,
     "private": false,
     "downloads": 156,
     "tags": [
@@ -19249,6 +19269,7 @@
     "downloads": 18,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:pg19",
       "arxiv:2309.00071",
@@ -19301,11 +19322,12 @@
   {
     "_id": "64f19dcebfff8aeae0a13899",
     "id": "TheBloke/Yarn-Llama-2-13B-128K-GGUF",
-    "likes": 34,
+    "likes": 33,
     "private": false,
     "downloads": 9,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:pg19",
       "arxiv:2309.00071",
@@ -19339,11 +19361,12 @@
   {
     "_id": "64f1a2eedcdd48d279defc89",
     "id": "TheBloke/Yarn-Llama-2-13B-64K-GGUF",
-    "likes": 19,
+    "likes": 18,
     "private": false,
     "downloads": 7,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:pg19",
       "arxiv:2309.00071",
@@ -19454,11 +19477,12 @@
   {
     "_id": "64f255e9246315a9456f567c",
     "id": "TheBloke/Airoboros-33B-2.1-GGUF",
-    "likes": 15,
+    "likes": 14,
     "private": false,
     "downloads": 3,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:jondurbin/airoboros-2.1",
       "base_model:jondurbin/airoboros-33b-2.1",
@@ -19495,6 +19519,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "base_model:Sao10K/Stheno-Inverted-L2-13B",
@@ -19531,6 +19556,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "base_model:Sao10K/Stheno-L2-13B",
@@ -19584,6 +19610,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Undi95/UndiMix-v1-13b",
       "license:cc-by-nc-4.0",
@@ -19601,6 +19628,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Undi95/UndiMix-v2-13b",
       "license:cc-by-nc-4.0",
@@ -19805,6 +19833,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "facebook",
       "meta",
@@ -19861,6 +19890,7 @@
     "downloads": 68,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "facebook",
       "meta",
@@ -19888,6 +19918,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "medical",
       "text2text-generation",
@@ -20013,6 +20044,7 @@
     "downloads": 29,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "zh",
@@ -20041,6 +20073,7 @@
     "downloads": 811,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "facebook",
       "meta",
@@ -20067,6 +20100,7 @@
     "downloads": 3494,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "facebook",
       "meta",
@@ -20077,9 +20111,9 @@
       "arxiv:2307.09288",
       "base_model:meta-llama/Llama-2-7b-chat-hf",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "createdAt": "2023-09-04T16:38:41.000Z",
@@ -20093,6 +20127,7 @@
     "downloads": 1135,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "facebook",
       "meta",
@@ -20119,6 +20154,7 @@
     "downloads": 334,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "facebook",
       "meta",
@@ -20144,6 +20180,7 @@
     "downloads": 299,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "facebook",
       "meta",
@@ -20169,6 +20206,7 @@
     "downloads": 82,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "facebook",
       "meta",
@@ -20216,6 +20254,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:openchat/openchat_v3.2_super",
       "license:llama2",
@@ -20233,6 +20272,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "base_model:Gryphe/MythoLogic-Mini-7b",
@@ -20251,6 +20291,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "base_model:grimpep/L2-MythoMax22b-instruct-Falseblock",
@@ -20269,6 +20310,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "base_model:Gryphe/MythoLogic-L2-13b",
@@ -20282,11 +20324,12 @@
   {
     "_id": "64f69c38c3bdaab6f58e2b8c",
     "id": "TheBloke/MythoMax-L2-13B-GGUF",
-    "likes": 23,
+    "likes": 22,
     "private": false,
     "downloads": 119,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "base_model:Gryphe/MythoMax-L2-13b",
@@ -20305,6 +20348,7 @@
     "downloads": 9,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "base_model:Gryphe/MythoMix-L2-13b",
@@ -20323,6 +20367,7 @@
     "downloads": 88,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:2307.09288",
       "arxiv:2306.05685",
@@ -20342,6 +20387,7 @@
     "downloads": 44,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:2307.09288",
       "arxiv:2306.05685",
@@ -20361,6 +20407,7 @@
     "downloads": 39,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:2307.09288",
       "arxiv:2306.05685",
@@ -20380,6 +20427,7 @@
     "downloads": 69,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:2307.09288",
       "arxiv:2306.05685",
@@ -20399,6 +20447,7 @@
     "downloads": 7,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "text-generation",
@@ -20420,6 +20469,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:garage-bAInd/Open-Platypus",
@@ -20441,6 +20491,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:garage-bAInd/Open-Platypus",
@@ -20462,6 +20513,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:garage-bAInd/Open-Platypus",
@@ -20483,6 +20535,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:jondurbin/airoboros-gpt4-1.4.1",
       "base_model:jondurbin/airoboros-l2-13b-gpt4-1.4.1",
@@ -20501,6 +20554,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:jondurbin/airoboros-gpt4-1.4.1",
       "base_model:jondurbin/airoboros-l2-7b-gpt4-1.4.1",
@@ -20519,6 +20573,7 @@
     "downloads": 23,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "self-instruct",
@@ -20541,6 +20596,7 @@
     "downloads": 19,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "self-instruct",
@@ -20564,6 +20620,7 @@
     "downloads": 3,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:totally-not-an-llm/AlpacaCielo2-7b-8k",
       "license:llama2",
@@ -20581,6 +20638,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:totally-not-an-llm/EverythingLM-data",
       "base_model:totally-not-an-llm/EverythingLM-13b-16k",
@@ -20599,6 +20657,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:totally-not-an-llm/EverythingLM-data-V2",
       "base_model:totally-not-an-llm/EverythingLM-13b-V2-16k",
@@ -20617,6 +20676,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "sft",
@@ -20659,6 +20719,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Undi95/ReMM-SLERP-L2-13B",
       "license:cc-by-nc-4.0",
@@ -20676,6 +20737,7 @@
     "downloads": 74,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:2304.12244",
       "arxiv:2306.08568",
@@ -20692,11 +20754,12 @@
   {
     "_id": "64f6fdfd7c4552847fa47041",
     "id": "TheBloke/WizardMath-13B-V1.0-GGUF",
-    "likes": 5,
+    "likes": 4,
     "private": false,
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:2304.12244",
       "arxiv:2306.08568",
@@ -20717,6 +20780,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:2304.12244",
       "arxiv:2306.08568",
@@ -20737,6 +20801,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:YeungNLP/firefly-llama2-13b-v1.2",
       "license:llama2",
@@ -20755,6 +20820,7 @@
     "downloads": 12,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "zh",
@@ -20811,6 +20877,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "base_model:zarakiquemparte/hermeslimarp-l2-7b",
@@ -20829,6 +20896,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama2",
       "base_model:zarakiquemparte/zarablend-l2-7b",
@@ -20847,6 +20915,7 @@
     "downloads": 10,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama2",
       "base_model:zarakiquemparte/zarablend-mx-l2-7b",
@@ -20865,6 +20934,7 @@
     "downloads": 24,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -20889,6 +20959,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:The-Face-Of-Goonery/Huginn-13b-FP16",
       "license:llama2",
@@ -20906,6 +20977,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:The-Face-Of-Goonery/Huginn-v3-13b",
       "license:llama2",
@@ -20923,6 +20995,7 @@
     "downloads": 33,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:ehartford/dolphin",
@@ -20942,6 +21015,7 @@
     "downloads": 12,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -20965,6 +21039,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:The-Face-Of-Goonery/Chronos-Beluga-v2-13bfp16",
       "license:llama2",
@@ -20982,6 +21057,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:CalderaAI/13B-Legerdemain-L2",
       "license:llama2",
@@ -20999,6 +21075,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "pytorch",
       "llama-2",
@@ -21025,6 +21102,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:The-Face-Of-Goonery/huginnv1.2",
       "license:llama2",
@@ -21042,6 +21120,7 @@
     "downloads": 4,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:conceptofmind/Hermes-LLongMA-2-13b-8k",
       "license:llama2",
@@ -21059,6 +21138,7 @@
     "downloads": 49,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
@@ -21079,6 +21159,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:2108.12409",
       "arxiv:2212.10554",
@@ -21098,6 +21179,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:jerryjalapeno/nart-100k-synthetic",
@@ -21117,6 +21199,7 @@
     "downloads": 20,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-to-code",
       "multilingual-code-generation",
@@ -21138,6 +21221,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "pytorch",
       "chatbot",
@@ -21159,6 +21243,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "de",
@@ -21179,6 +21264,7 @@
     "downloads": 4,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "pytorch",
       "llama-2",
@@ -21205,6 +21291,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Henk717/spring-dragon",
       "license:llama2",
@@ -21222,6 +21309,7 @@
     "downloads": 6,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "text-generation",
@@ -21243,6 +21331,7 @@
     "downloads": 6,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "text-generation",
@@ -21264,6 +21353,7 @@
     "downloads": 24,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "LLM",
       "llama-2",
@@ -21286,6 +21376,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:2306.01708",
       "base_model:chargoddard/Chronorctypus-Limarobormes-13b",
@@ -21304,6 +21395,7 @@
     "downloads": 4,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:conceptofmind/Hermes-LLongMA-2-7b-8k",
       "license:llama2",
@@ -21321,6 +21413,7 @@
     "downloads": 11,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -21342,6 +21435,7 @@
     "downloads": 4,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-to-code",
       "multilingual-code-generation",
@@ -21363,6 +21457,7 @@
     "downloads": 12,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "text-classification",
@@ -21384,6 +21479,7 @@
     "downloads": 7,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "de",
@@ -21404,6 +21500,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "base_model:grimpep/llama2-22B-GPLATTY",
@@ -21422,6 +21519,7 @@
     "downloads": 6,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "text-generation",
@@ -21443,6 +21541,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:nkpz/llama2-22b-daydreamer-v2",
       "license:other",
@@ -21460,6 +21559,7 @@
     "downloads": 6,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "text-generation",
@@ -21481,6 +21581,7 @@
     "downloads": 6,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "LLM",
       "llama-2",
@@ -21503,6 +21604,7 @@
     "downloads": 3,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
@@ -21545,6 +21647,7 @@
     "downloads": 19,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -21569,6 +21672,7 @@
     "downloads": 36,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -21595,6 +21699,7 @@
     "downloads": 8,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "LLM",
       "llama-2",
@@ -21617,6 +21722,7 @@
     "downloads": 3,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:migtissera/Synthia-7b",
       "license:llama2",
@@ -21634,6 +21740,7 @@
     "downloads": 46,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "sft",
       "text-generation",
@@ -21660,6 +21767,7 @@
     "downloads": 3,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:ehartford/samantha-data",
@@ -21681,6 +21789,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "text-classification",
@@ -21702,6 +21811,7 @@
     "downloads": 19,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:nkpz/llama2-22b-daydreamer-v3",
       "license:other",
@@ -21749,6 +21859,7 @@
     "downloads": 28,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text generation",
       "instruct",
@@ -21805,6 +21916,7 @@
     "downloads": 32,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text generation",
       "instruct",
@@ -21857,11 +21969,12 @@
   {
     "_id": "64f7a58cbcf14b0c915ad636",
     "id": "TheBloke/Mythalion-13B-GGUF",
-    "likes": 48,
+    "likes": 47,
     "private": false,
     "downloads": 140,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text generation",
       "instruct",
@@ -21890,6 +22003,7 @@
     "downloads": 19,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -21914,6 +22028,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:OpenAssistant/llama2-13b-megacode2-oasst",
       "license:other",
@@ -21931,6 +22046,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:rombodawg/LosslessMegaCodeTrainingV2_1m_Evol_Uncensored",
       "base_model:rombodawg/LosslessMegaCoder-llama2-13b-mini",
@@ -21949,6 +22065,7 @@
     "downloads": 13,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -21971,11 +22088,12 @@
   {
     "_id": "64f7bac9fbbfe40336117526",
     "id": "TheBloke/Llama-2-7B-32K-Instruct-GGUF",
-    "likes": 37,
+    "likes": 36,
     "private": false,
     "downloads": 215,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:togethercomputer/llama-instruct",
@@ -21997,6 +22115,7 @@
     "downloads": 7,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:garage-bAInd/Open-Platypus",
@@ -22043,6 +22162,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "chat",
       "roleplay",
@@ -22058,11 +22178,12 @@
   {
     "_id": "64f7c8450590f3db1483fa41",
     "id": "TheBloke/LosslessMegaCoder-Llama2-7B-Mini-GGUF",
-    "likes": 8,
+    "likes": 7,
     "private": false,
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:rombodawg/LosslessMegaCodeTrainingV2_1m_Evol_Uncensored",
       "base_model:rombodawg/LosslessMegaCoder-llama2-7b-mini",
@@ -22081,6 +22202,7 @@
     "downloads": 111,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -22107,6 +22229,7 @@
     "downloads": 27,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -22133,6 +22256,7 @@
     "downloads": 14,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "upstage",
       "llama-2",
@@ -22157,6 +22281,7 @@
     "downloads": 16,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Tap-M/Luna-AI-Llama2-Uncensored",
       "license:cc-by-sa-4.0",
@@ -22174,6 +22299,7 @@
     "downloads": 8,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:TokenBender/llama2-7b-chat-hf-codeCherryPop-qLoRA-merged",
       "license:llama2",
@@ -22192,6 +22318,7 @@
     "downloads": 16,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "voicelab",
       "pytorch",
@@ -22218,6 +22345,7 @@
     "downloads": 10,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -22241,6 +22369,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:garage-bAInd/Open-Platypus",
@@ -22262,6 +22391,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
       "base_model:jondurbin/airoboros-l2-70b-gpt4-2.0",
@@ -22280,6 +22410,7 @@
     "downloads": 9,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "voicelab",
       "pytorch",
@@ -22306,6 +22437,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:2304.12244",
       "arxiv:2306.08568",
@@ -22326,6 +22458,7 @@
     "downloads": 7,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "merge",
       "mix",
@@ -22353,6 +22486,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:garage-bAInd/Open-Platypus",
@@ -22374,6 +22508,7 @@
     "downloads": 7,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:migtissera/Synthia-70B-v1.2",
       "license:llama2",
@@ -22413,6 +22548,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:jondurbin/airoboros-gpt4-1.4.1",
       "base_model:jondurbin/airoboros-l2-70b-gpt4-1.4.1",
@@ -22463,6 +22599,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
       "base_model:jondurbin/airoboros-l2-70b-gpt4-m2.0",
@@ -22481,6 +22618,7 @@
     "downloads": 12,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:2304.12244",
       "arxiv:2306.08568",
@@ -22501,6 +22639,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "sft",
       "en",
@@ -22524,6 +22663,7 @@
     "downloads": 10,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "uncensored",
       "wizard",
@@ -22546,6 +22686,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "text-classification",
@@ -22567,6 +22708,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:1910.09700",
       "base_model:nRuaif/Kimiko_7b",
@@ -22613,6 +22755,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:1910.09700",
       "base_model:nRuaif/Kimiko_13B",
@@ -22652,6 +22795,7 @@
     "downloads": 132,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:yulan-team/YuLan-Chat-2-13b-fp16",
       "license:mit",
@@ -22696,6 +22840,7 @@
     "downloads": 11,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "alpaca",
       "cot",
@@ -22765,6 +22910,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:PeanutJar/PeanutButter-Train",
@@ -22784,6 +22930,7 @@
     "downloads": 72,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "conversational",
       "en",
@@ -22805,6 +22952,7 @@
     "downloads": 168,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "conversational",
       "en",
@@ -22850,6 +22998,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:jondurbin/airoboros-2.1",
       "base_model:bhenrym14/airoboros-l2-13b-2.1-YaRN-64k",
@@ -22943,6 +23092,7 @@
     "downloads": 32,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "pytorch",
@@ -22965,6 +23115,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:jondurbin/airoboros-gpt4-2.0",
       "base_model:jondurbin/airoboros-l2-13b-gpt4-2.0",
@@ -22983,6 +23134,7 @@
     "downloads": 9,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
       "base_model:jondurbin/airoboros-l2-13b-gpt4-m2.0",
@@ -23001,6 +23153,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
       "base_model:jondurbin/airoboros-l2-7b-gpt4-2.0",
@@ -23020,6 +23173,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:jondurbin/airoboros-gpt4-m2.0",
       "base_model:jondurbin/airoboros-l2-7b-gpt4-m2.0",
@@ -23062,6 +23216,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:The-Face-Of-Goonery/COTHuginn-4.5-19b",
       "license:llama2",
@@ -23101,6 +23256,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "not-for-all-audiences",
       "dataset:jondurbin/airoboros-2.2",
@@ -23219,6 +23375,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "arxiv:2306.02707",
@@ -23238,6 +23395,7 @@
     "downloads": 32,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "arxiv:2306.02707",
@@ -23300,11 +23458,12 @@
   {
     "_id": "64fdbb064010eccccc609ea2",
     "id": "TheBloke/Spicyboros-13B-2.2-GGUF",
-    "likes": 19,
+    "likes": 18,
     "private": false,
     "downloads": 14,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "not-for-all-audiences",
       "dataset:jondurbin/airoboros-2.2",
@@ -23324,6 +23483,7 @@
     "downloads": 11,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "text-generation",
@@ -23345,6 +23505,7 @@
     "downloads": 3,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "base_model:HyperbeeAI/Tulpar-7b-v0",
@@ -23431,6 +23592,7 @@
     "downloads": 16,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "not-for-all-audiences",
       "nsfw",
@@ -23450,6 +23612,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Undi95/ReMM-v2-L2-13B",
       "license:cc-by-nc-4.0",
@@ -23467,6 +23630,7 @@
     "downloads": 274,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:yeontaek/llama-2-13B-ensemble-v5",
       "license:llama2",
@@ -23548,6 +23712,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Undi95/Nous-Hermes-13B-Code",
       "license:cc-by-nc-4.0",
@@ -23565,6 +23730,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "not-for-all-audiences",
       "nsfw",
@@ -23608,6 +23774,7 @@
     "downloads": 11,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "not-for-all-audiences",
       "nsfw",
@@ -23650,6 +23817,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:yeontaek/llama-2-70B-ensemble-v5",
       "license:llama2",
@@ -23667,6 +23835,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "not-for-all-audiences",
       "dataset:jondurbin/airoboros-2.2",
@@ -23709,6 +23878,7 @@
     "downloads": 7,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -23730,6 +23900,7 @@
     "downloads": 7,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -23847,6 +24018,7 @@
     "downloads": 9,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "generated_from_trainer",
       "lora",
@@ -23891,6 +24063,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "base_model:Sao10K/JanniesBasedLigma-L2-13B",
@@ -23909,6 +24082,7 @@
     "downloads": 6,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "Riiid",
       "llama-2",
@@ -24003,6 +24177,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:jondurbin/airoboros-2.2",
       "base_model:jondurbin/airoboros-l2-7b-2.2",
@@ -24021,6 +24196,7 @@
     "downloads": 11,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:jondurbin/airoboros-2.2",
       "base_model:jondurbin/airoboros-l2-70b-2.2",
@@ -24039,6 +24215,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:jondurbin/airoboros-2.2",
       "base_model:jondurbin/airoboros-l2-13b-2.2",
@@ -24057,6 +24234,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "not-for-all-audiences",
       "dataset:jondurbin/airoboros-2.2",
@@ -24099,6 +24277,7 @@
     "downloads": 93,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:yeontaek/llama-2-13B-ensemble-v6",
       "license:llama2",
@@ -24137,6 +24316,7 @@
     "downloads": 23,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "base_model:Sao10K/Euryale-Inverted-L2-70B",
@@ -24155,6 +24335,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "base_model:Sao10K/Euryale-L2-70B",
@@ -24239,6 +24420,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama2",
       "base_model:zarakiquemparte/kuchiki-l2-7b",
@@ -24279,6 +24461,7 @@
     "downloads": 26,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:2306.02707",
       "base_model:posicube/Llama2-chat-AYT-13B",
@@ -24319,6 +24502,7 @@
     "downloads": 23,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "generated_from_trainer",
       "code",
@@ -24409,6 +24593,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:sauce1337/AppleSauce-L2-13b",
       "license:cc-by-nc-4.0",
@@ -24426,6 +24611,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:sauce1337/berrySauce-L2-13b",
       "license:cc-by-nc-4.0",
@@ -24488,6 +24674,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:oh-yeontaek/llama-2-13b-LoRA-assemble",
       "license:llama2",
@@ -24505,6 +24692,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:oh-yeontaek/llama-2-7B-LoRA-assemble",
       "license:llama2",
@@ -24522,6 +24710,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "text-generation",
@@ -24543,6 +24732,7 @@
     "downloads": 6,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -24608,6 +24798,7 @@
     "downloads": 149,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:ziqingyang/chinese-alpaca-2-7b",
       "license:apache-2.0",
@@ -24667,6 +24858,7 @@
     "downloads": 35,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:ziqingyang/chinese-llama-2-7b",
       "license:apache-2.0",
@@ -24684,6 +24876,7 @@
     "downloads": 69,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:ziqingyang/chinese-alpaca-2-13b",
       "license:apache-2.0",
@@ -24701,6 +24894,7 @@
     "downloads": 7,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:ziqingyang/chinese-llama-2-13b",
       "license:apache-2.0",
@@ -24781,6 +24975,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:codefuse-ai/CodeFuse-CodeLlama-34B",
       "license:other",
@@ -24798,6 +24993,7 @@
     "downloads": 9,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:migtissera/Synthia-70B-v1.2b",
       "license:llama2",
@@ -24857,6 +25053,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:TFLai/ChatAYT-Lora-Assamble-Marcoroni",
       "license:llama2",
@@ -24897,6 +25094,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "ja",
       "dataset:snow_simplified_japanese_corpus",
@@ -24943,6 +25141,7 @@
     "downloads": 6,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "text-generation",
@@ -24989,6 +25188,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama2",
       "base_model:zarakiquemparte/kuchiki-1.1-l2-7b",
@@ -25051,6 +25251,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:jondurbin/airoboros-2.2",
       "base_model:jondurbin/airoboros-c34b-2.2",
@@ -25069,6 +25270,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:migtissera/Synthia-34B-v1.2",
       "license:llama2",
@@ -25108,6 +25310,7 @@
     "downloads": 4,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "text-generation",
@@ -25152,6 +25355,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "zh",
       "en",
@@ -25194,6 +25398,7 @@
     "downloads": 20,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "code",
       "arxiv:2304.12244",
@@ -25268,6 +25473,7 @@
     "downloads": 8,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "not-for-all-audiences",
       "nsfw",
@@ -25287,6 +25493,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Undi95/ReMM-v2.1-L2-13B",
       "license:cc-by-nc-4.0",
@@ -25369,6 +25576,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:oh-yeontaek/llama-2-70B-LoRA-assemble-v2",
       "license:llama2",
@@ -25386,6 +25594,7 @@
     "downloads": 63,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:ehartford/wizard_vicuna_70k_unfiltered",
       "base_model:georgesung/llama2_7b_chat_uncensored",
@@ -25751,7 +25960,7 @@
   {
     "_id": "6508ec6c34993091319ed176",
     "id": "TheBloke/CodeLlama-7B-Instruct-AWQ",
-    "likes": 2,
+    "likes": 1,
     "private": false,
     "downloads": 406,
     "tags": [
@@ -25822,7 +26031,7 @@
   {
     "_id": "6508ee8bf99720fea118fff7",
     "id": "TheBloke/CodeLlama-7B-Python-AWQ",
-    "likes": 2,
+    "likes": 1,
     "private": false,
     "downloads": 274,
     "tags": [
@@ -25869,7 +26078,7 @@
   {
     "_id": "6508f0c07e0d56c271529d44",
     "id": "TheBloke/WizardCoder-Python-7B-V1.0-AWQ",
-    "likes": 1,
+    "likes": 0,
     "private": false,
     "downloads": 121,
     "tags": [
@@ -25896,7 +26105,7 @@
   {
     "_id": "6508f0f161c4bb4636e19d6a",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-AWQ",
-    "likes": 6,
+    "likes": 5,
     "private": false,
     "downloads": 322,
     "tags": [
@@ -25923,7 +26132,7 @@
   {
     "_id": "6508f0f6c19e5b4c8a30006a",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-AWQ",
-    "likes": 1,
+    "likes": 0,
     "private": false,
     "downloads": 134,
     "tags": [
@@ -26023,7 +26232,7 @@
   {
     "_id": "6508f55bf99720fea119dc0b",
     "id": "TheBloke/WizardMath-13B-V1.0-AWQ",
-    "likes": 1,
+    "likes": 0,
     "private": false,
     "downloads": 35,
     "tags": [
@@ -26121,7 +26330,7 @@
   {
     "_id": "6508f9534882fab5c49565a0",
     "id": "TheBloke/WizardMath-70B-V1.0-AWQ",
-    "likes": 2,
+    "likes": 1,
     "private": false,
     "downloads": 34,
     "tags": [
@@ -28080,7 +28289,6 @@
       "text-generation",
       "en",
       "arxiv:2306.02707",
-      "base_model:https://huggingface.co/psmathur/model_007",
       "license:llama2",
       "text-generation-inference",
       "4-bit",
@@ -28273,6 +28481,7 @@
       "arxiv:2109.07958",
       "base_model:MayaPH/GodziLLa2-70B",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -28784,7 +28993,7 @@
   {
     "_id": "65096b1ae13ff96230ebc7a8",
     "id": "TheBloke/Llama-2-70B-LoRA-Assemble-v2-AWQ",
-    "likes": 1,
+    "likes": 0,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -29222,7 +29431,7 @@
   {
     "_id": "65097a17647a3ea442c891ef",
     "id": "TheBloke/LosslessMegaCoder-Llama2-13B-Mini-AWQ",
-    "likes": 1,
+    "likes": 0,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -30685,6 +30894,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:totally-not-an-llm/AlpacaCielo-13b",
       "license:llama2",
@@ -30812,6 +31022,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "alpaca",
       "cot",
@@ -30862,6 +31073,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:databricks/databricks-dolly-15k",
@@ -30914,6 +31126,7 @@
     "downloads": 6,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "alpaca",
       "vicuna",
@@ -30984,6 +31197,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "cot",
       "vicuna",
@@ -31034,6 +31248,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "alpaca",
       "vicuna",
@@ -31090,6 +31305,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "pytorch",
       "chatbot",
@@ -31134,6 +31350,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "alpaca",
       "vicuna",
@@ -31206,6 +31423,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "alpaca",
       "cot",
@@ -31256,6 +31474,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "pytorch",
       "chatbot",
@@ -31300,6 +31519,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "base_model:Gryphe/MythoBoros-13b",
@@ -31340,6 +31560,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "base_model:Gryphe/MythoLogic-13b",
@@ -31403,6 +31624,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:ehartford/based",
@@ -31422,6 +31644,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:ehartford/based",
@@ -31487,6 +31710,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:ehartford/based",
@@ -31527,6 +31751,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:ehartford/dolphin-llama-13b",
       "license:other",
@@ -31544,6 +31769,7 @@
     "downloads": 29,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "uncensored",
       "en",
@@ -31589,6 +31815,7 @@
     "downloads": 32,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "uncensored",
       "en",
@@ -31679,6 +31906,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "uncensored",
       "dataset:ehartford/WizardLM_alpaca_evol_instruct_70k_unfiltered",
@@ -31745,6 +31973,7 @@
     "downloads": 20,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "uncensored",
       "en",
@@ -31765,6 +31994,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
@@ -31807,6 +32037,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:ehartford/wizard_vicuna_70k_unfiltered",
@@ -31849,6 +32080,7 @@
     "downloads": 3,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "uncensored",
       "dataset:ehartford/WizardLM_alpaca_evol_instruct_70k_unfiltered",
@@ -31868,6 +32100,7 @@
     "downloads": 4,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "uncensored",
       "dataset:ehartford/WizardLM_alpaca_evol_instruct_70k_unfiltered",
@@ -31910,6 +32143,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
@@ -31952,6 +32186,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:ehartford/wizard_vicuna_70k_unfiltered",
@@ -31971,6 +32206,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
       "base_model:ehartford/WizardLM-7B-V1.0-Uncensored",
@@ -32011,6 +32247,7 @@
     "downloads": 3,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:timdettmers/guanaco-13b-merged",
       "license:other",
@@ -32028,6 +32265,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "base_model:ariellee/SuperPlatty-30B",
@@ -32068,6 +32306,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:timdettmers/guanaco-33b-merged",
       "license:other",
@@ -32127,6 +32366,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:timdettmers/guanaco-65b",
       "license:other",
@@ -32190,6 +32430,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:timdettmers/guanaco-7b",
       "license:other",
@@ -32228,6 +32469,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:ehartford/wizard_vicuna_70k_unfiltered",
@@ -32277,6 +32519,7 @@
     "downloads": 11,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "upstage",
       "instruct",
@@ -32305,6 +32548,7 @@
     "downloads": 8,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "upstage",
       "instruct",
@@ -32420,6 +32664,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:2304.12244",
       "base_model:WizardLM/WizardLM-13B-V1.0",
@@ -32438,6 +32683,7 @@
     "downloads": 3,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:2304.12244",
       "arxiv:2306.08568",
@@ -32482,6 +32728,7 @@
     "downloads": 8,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:ICBU-NPU/FashionGPT-70B-V1.1",
       "license:llama2",
@@ -32499,6 +32746,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:2304.12244",
       "arxiv:2306.08568",
@@ -32532,6 +32780,7 @@
     "downloads": 3,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:2304.12244",
       "arxiv:2306.08568",
@@ -32584,6 +32833,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "OpenAccess AI Collective",
       "MPT",
@@ -32617,6 +32867,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -32709,6 +32960,7 @@
     "downloads": 8,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -32802,6 +33054,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:ausboss/llama-13b-supercot",
       "license:other",
@@ -32843,6 +33096,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "pytorch",
       "chatbot",
@@ -32863,6 +33117,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "storywriting",
       "base_model:Austism/chronos-wizardlm-uc-scot-st-13b",
@@ -32925,6 +33180,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:2303.17760",
       "base_model:camel-ai/CAMEL-13B-Combined-Data",
@@ -32943,6 +33199,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "causal-lm",
       "en",
@@ -32966,6 +33223,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:2303.17760",
       "base_model:camel-ai/CAMEL-13B-Role-Playing-Data",
@@ -33027,6 +33285,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "finance",
       "llm",
@@ -33073,6 +33332,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:camel-ai/CAMEL-33B-Combined-Data",
       "license:other",
@@ -33112,6 +33372,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "lora",
       "base_model:FPHam/Karen_theEditor_13b_HF",
@@ -33130,6 +33391,7 @@
     "downloads": 9,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:2305.15334",
       "base_model:gorilla-llm/gorilla-7b-hf-delta-v0",
@@ -33191,6 +33453,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:ausboss/llama-30b-supercot",
       "license:other",
@@ -33208,6 +33471,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Henk717/chronoboros-33B",
       "license:other",
@@ -33246,6 +33510,7 @@
     "downloads": 6,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "causal-lm",
       "en",
@@ -33309,6 +33574,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Henk717/airochronos-33B",
       "license:other",
@@ -33326,6 +33592,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:1910.09700",
       "base_model:kevinpro/Vicuna-13B-CoT",
@@ -33388,6 +33655,7 @@
     "downloads": 3,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:1910.09700",
       "base_model:kevinpro/Vicuna-7B-CoT",
@@ -33451,7 +33719,6 @@
       "safetensors",
       "llama",
       "text-generation",
-      "base_model:https://ai.meta.com/blog/large-language-model-llama-meta-ai",
       "license:other",
       "text-generation-inference",
       "4-bit",
@@ -33469,8 +33736,8 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
-      "base_model:https://ai.meta.com/blog/large-language-model-llama-meta-ai",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -33486,6 +33753,7 @@
     "downloads": 4,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "medical",
       "text-generation",
@@ -33532,6 +33800,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "base_model:lilloukas/GPlatty-30B",
@@ -33572,6 +33841,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "base_model:lilloukas/Platypus-30B",
@@ -33612,8 +33882,8 @@
     "downloads": 3,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
-      "base_model:https://ai.meta.com/blog/large-language-model-llama-meta-ai",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -33632,7 +33902,6 @@
       "safetensors",
       "llama",
       "text-generation",
-      "base_model:https://ai.meta.com/blog/large-language-model-llama-meta-ai",
       "license:other",
       "text-generation-inference",
       "4-bit",
@@ -33650,8 +33919,8 @@
     "downloads": 28,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
-      "base_model:https://ai.meta.com/blog/large-language-model-llama-meta-ai",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -33670,7 +33939,6 @@
       "safetensors",
       "llama",
       "text-generation",
-      "base_model:https://ai.meta.com/blog/large-language-model-llama-meta-ai",
       "license:other",
       "text-generation-inference",
       "4-bit",
@@ -33709,6 +33977,7 @@
     "downloads": 8,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Monero/WizardLM-Uncensored-SuperCOT-StoryTelling-30b",
       "license:other",
@@ -33726,6 +33995,7 @@
     "downloads": 3,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "code",
       "text-generation-inference",
@@ -33778,6 +34048,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:gozfarb/ShareGPT_Vicuna_unfiltered",
       "base_model:Neko-Institute-of-Science/VicUnLocked-30b-LoRA",
@@ -33827,8 +34098,8 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
-      "base_model:https://ai.meta.com/blog/large-language-model-llama-meta-ai",
       "license:other",
       "text-generation-inference",
       "region:us"
@@ -33844,6 +34115,7 @@
     "downloads": 17,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -33876,7 +34148,6 @@
       "safetensors",
       "llama",
       "text-generation",
-      "base_model:https://ai.meta.com/blog/large-language-model-llama-meta-ai",
       "license:other",
       "text-generation-inference",
       "4-bit",
@@ -33894,6 +34165,7 @@
     "downloads": 18,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -33989,6 +34261,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:databricks/databricks-dolly-15k",
@@ -34013,6 +34286,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:databricks/databricks-dolly-15k",
@@ -34171,6 +34445,7 @@
     "downloads": 26,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Xwin-LM/Xwin-LM-13B-V0.1",
       "license:llama2",
@@ -34278,6 +34553,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:TIGER-Lab/MathInstruct",
@@ -34298,6 +34574,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:TIGER-Lab/MathInstruct",
@@ -34408,6 +34685,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Tostino/Inkbot-13b-4k",
       "license:llama2",
@@ -34425,6 +34703,7 @@
     "downloads": 7,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Xwin-LM/Xwin-LM-7b-V0.1",
       "license:llama2",
@@ -34442,6 +34721,7 @@
     "downloads": 71,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Xwin-LM/Xwin-LM-70b-V0.1",
       "license:llama2",
@@ -34607,6 +34887,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:jondurbin/airoboros-2.2.1",
       "base_model:jondurbin/airoboros-l2-70b-2.2.1",
@@ -34670,6 +34951,7 @@
     "downloads": 146,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "not-for-all-audiences",
       "nsfw",
@@ -34758,6 +35040,7 @@
     "downloads": 9,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "not-for-all-audiences",
       "nsfw",
@@ -34821,6 +35104,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:2309.11674",
       "base_model:haoranxu/ALMA-7b-Pretrain",
@@ -34839,6 +35123,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:2309.11674",
       "base_model:haoranxu/ALMA-13B-Pretrain",
@@ -34901,6 +35186,7 @@
     "downloads": 8,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:jondurbin/airoboros-2.2.1",
       "base_model:jondurbin/airoboros-c34b-2.2.1",
@@ -34985,6 +35271,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:jondurbin/airoboros-2.2.1",
       "base_model:jondurbin/airoboros-l2-13b-2.2.1",
@@ -35003,6 +35290,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:totally-not-an-llm/EverythingLM-data-V3",
       "base_model:totally-not-an-llm/EverythingLM-13b-V3-16k",
@@ -35087,6 +35375,7 @@
     "downloads": 3,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:jondurbin/airoboros-2.2.1",
       "base_model:jondurbin/airoboros-l2-7b-2.2.1",
@@ -35197,6 +35486,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:TIGER-Lab/MathInstruct",
@@ -35241,6 +35531,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:TIGER-Lab/MathInstruct",
@@ -35327,6 +35618,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:IkariDev/Athena-v2",
       "license:cc-by-nc-4.0",
@@ -35344,6 +35636,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:totally-not-an-llm/EverythingLM-data-V3",
       "dataset:Open-Orca/OpenOrca",
@@ -35412,6 +35705,7 @@
     "downloads": 53,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Undi95/MXLewd-L2-20B",
       "license:cc-by-nc-4.0",
@@ -35471,6 +35765,7 @@
     "downloads": 12,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "base_model:chargoddard/storytime-13b",
@@ -35533,6 +35828,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Undi95/MXLewdMini-L2-13B",
       "license:cc-by-nc-4.0",
@@ -35613,6 +35909,7 @@
     "downloads": 4,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:meta-math/MetaMath-13B-V1.0",
       "license:llama2",
@@ -35625,7 +35922,7 @@
   {
     "_id": "650f7b8855dc1e84175d2bb6",
     "id": "TheBloke/MetaMath-13B-V1.0-GPTQ",
-    "likes": 1,
+    "likes": 0,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -35651,6 +35948,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:TIGER-Lab/MathInstruct",
@@ -35740,6 +36038,7 @@
     "downloads": 9,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:meta-math/MetaMath-70B-V1.0",
       "license:llama2",
@@ -35820,6 +36119,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:meta-math/MetaMath-7B-V1.0",
       "license:llama2",
@@ -35860,6 +36160,7 @@
     "downloads": 13,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -35927,6 +36228,7 @@
     "downloads": 12,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -36000,6 +36302,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "zh",
@@ -36114,6 +36417,7 @@
     "downloads": 14,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "zh",
@@ -36164,6 +36468,7 @@
     "downloads": 7,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:2302.13971",
       "arxiv:2306.05685",
@@ -36183,6 +36488,7 @@
     "downloads": 8,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:2309.09530",
       "base_model:AdaptLLM/law-LLM",
@@ -36240,7 +36546,7 @@
   {
     "_id": "6513f259a76fd5945b3efd33",
     "id": "TheBloke/sqlcoder-GPTQ",
-    "likes": 9,
+    "likes": 8,
     "private": false,
     "downloads": 78,
     "tags": [
@@ -36268,6 +36574,7 @@
     "downloads": 27,
     "tags": [
       "transformers",
+      "gguf",
       "starcoder",
       "code",
       "text-generation",
@@ -36283,7 +36590,7 @@
   {
     "_id": "65140976463a06ab1c5d13ca",
     "id": "TheBloke/Qwen-14B-Chat-GPTQ",
-    "likes": 23,
+    "likes": 22,
     "private": false,
     "downloads": 192,
     "tags": [
@@ -36315,11 +36622,13 @@
     "downloads": 148,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "not-for-all-audiences",
       "nsfw",
       "base_model:Undi95/U-Amethyst-20B",
       "license:cc-by-nc-4.0",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -36401,6 +36710,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:AIDC-ai-business/Marcoroni-70B-v1",
       "license:cc-by-nc-4.0",
@@ -36439,6 +36749,7 @@
     "downloads": 1888,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "pretrained",
       "text-generation",
@@ -36502,6 +36813,7 @@
     "downloads": 26,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:IkariDev/Athena-v3",
       "license:cc-by-nc-4.0",
@@ -36514,11 +36826,12 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 293,
+    "likes": 292,
     "private": false,
     "downloads": 4341,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "finetuned",
       "text-generation",
@@ -36569,6 +36882,7 @@
     "downloads": 8,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "zh",
@@ -36642,7 +36956,7 @@
   {
     "_id": "65148287463c4fd767f76cb6",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
-    "likes": 27,
+    "likes": 26,
     "private": false,
     "downloads": 5487,
     "tags": [
@@ -36715,6 +37029,7 @@
     "downloads": 10,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "not-for-all-audiences",
       "nsfw",
@@ -36734,6 +37049,7 @@
     "downloads": 17,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "not-for-all-audiences",
       "nsfw",
@@ -36832,6 +37148,7 @@
     "downloads": 11,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -36925,6 +37242,7 @@
     "downloads": 20,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -36982,6 +37300,7 @@
     "downloads": 11,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -37060,6 +37379,7 @@
     "downloads": 25,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -37156,6 +37476,7 @@
     "downloads": 38,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -37243,6 +37564,7 @@
     "downloads": 29,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -37316,7 +37638,7 @@
   {
     "_id": "6515ff5b7f18cec973af0828",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GPTQ",
-    "likes": 62,
+    "likes": 61,
     "private": false,
     "downloads": 21099,
     "tags": [
@@ -37410,6 +37732,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:2308.12950",
       "base_model:Nexusflow/NexusRaven-13B",
@@ -37428,6 +37751,7 @@
     "downloads": 59,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:migtissera/Synthia-7B-v1.3",
       "license:apache-2.0",
@@ -37531,6 +37855,7 @@
     "downloads": 29,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:ehartford/samantha-mistral-7b",
       "license:apache-2.0",
@@ -37569,6 +37894,7 @@
     "downloads": 11,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:ehartford/samantha-mistral-instruct-7b",
       "license:apache-2.0",
@@ -37607,6 +37933,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "code",
       "en",
@@ -37723,6 +38050,7 @@
     "downloads": 3,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "code",
       "en",
@@ -37765,6 +38093,7 @@
     "downloads": 19,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "generated_from_trainer",
       "base_model:nRuaif/Kimiko-Mistral-7B",
@@ -37847,6 +38176,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:gradientputri/Megamix-A1-13B",
       "license:llama2",
@@ -37927,6 +38257,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:gradientputri/MegaMix-S1-13B",
       "license:llama2",
@@ -37944,6 +38275,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:gradientputri/MegaMix-T1-13B",
       "license:llama2",
@@ -38024,6 +38356,7 @@
     "downloads": 4,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Riiid/sheep-duck-llama-2-70b-v1.1",
       "license:llama2",
@@ -38088,6 +38421,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "falcon",
       "text-generation",
       "es",
@@ -38111,6 +38445,7 @@
     "downloads": 3,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Heralax/MythoMakiseMerged-13b",
       "license:llama2",
@@ -38231,6 +38566,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:openbmb/UltraLM-13b-v2.0",
       "license:mit",
@@ -38269,6 +38605,7 @@
     "downloads": 18,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "facebook",
       "meta",
@@ -38351,6 +38688,7 @@
     "downloads": 9,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "facebook",
       "meta",
@@ -38433,6 +38771,7 @@
     "downloads": 22,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "facebook",
       "meta",
@@ -38540,6 +38879,7 @@
     "downloads": 1163,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "text-generation",
       "en",
@@ -38590,6 +38930,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Tostino/Inkbot-13B-8k-0.2",
       "license:llama2",
@@ -38650,6 +38991,7 @@
     "downloads": 4,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "sft",
@@ -38727,6 +39069,7 @@
     "downloads": 91,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "en",
       "dataset:ehartford/dolphin",
@@ -38796,6 +39139,7 @@
     "downloads": 10,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "self-instruct",
       "distillation",
@@ -38866,6 +39210,7 @@
     "downloads": 174,
     "tags": [
       "transformers",
+      "gguf",
       "tinyllama",
       "en",
       "dataset:cerebras/SlimPajama-627B",
@@ -38911,6 +39256,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "tinyllama",
       "en",
       "dataset:cerebras/SlimPajama-627B",
@@ -38954,6 +39300,7 @@
     "downloads": 27,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "pytorch",
       "german",
@@ -39031,6 +39378,7 @@
     "downloads": 19,
     "tags": [
       "transformers",
+      "gguf",
       "tinyllama",
       "en",
       "dataset:cerebras/SlimPajama-627B",
@@ -39098,6 +39446,7 @@
     "downloads": 19,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "llama-2",
       "instruct",
@@ -39247,6 +39596,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "en",
       "base_model:PocketDoc/Dans-AdventurousWinds-7b",
@@ -39285,6 +39635,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "en",
       "base_model:PocketDoc/Dans-TotSirocco-7b",
@@ -39323,6 +39674,7 @@
     "downloads": 4,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:SkunkworksAI/Mistralic-7B-1",
       "text-generation-inference",
@@ -39379,6 +39731,7 @@
     "downloads": 16,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "llama-2",
@@ -39475,6 +39828,7 @@
     "downloads": 19,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "not-for-all-audiences",
       "nsfw",
@@ -39547,6 +39901,7 @@
     "downloads": 23,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "mistral-7b",
       "instruct",
@@ -39603,6 +39958,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:jondurbin/airoboros-3.0",
       "base_model:jondurbin/airoboros-l2-7b-3.0",
@@ -39643,6 +39999,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:jondurbin/airoboros-3.0",
       "base_model:jondurbin/airoboros-l2-13b-3.0",
@@ -39705,6 +40062,7 @@
     "downloads": 17,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:cris177/llama-2-7b-Arguments",
       "license:llama2",
@@ -39723,6 +40081,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "dataset:jondurbin/airoboros-3.0",
       "base_model:jondurbin/airoboros-m-7b-3.0",
@@ -39870,6 +40229,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Undi95/UndiMix-v4-13B",
       "license:cc-by-nc-4.0",
@@ -39908,6 +40268,7 @@
     "downloads": 16,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "mistral-7b",
       "instruct",
@@ -40010,6 +40371,7 @@
     "downloads": 26,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Riiid/sheep-duck-llama-2-13b",
       "license:llama2",
@@ -40048,6 +40410,7 @@
     "downloads": 13,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:2306.02707",
       "base_model:posicube/Llama2-chat-AYB-13B",
@@ -40131,6 +40494,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:IkariDev/Athena-v4",
       "license:cc-by-nc-4.0",
@@ -40169,6 +40533,7 @@
     "downloads": 12,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "not-for-all-audiences",
       "nsfw",
@@ -40258,6 +40623,7 @@
     "downloads": 8,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "zh",
@@ -40356,6 +40722,7 @@
     "downloads": 90,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "pytorch",
       "german",
@@ -40380,6 +40747,7 @@
     "downloads": 172,
     "tags": [
       "transformers",
+      "gguf",
       "starcoder",
       "code",
       "text-generation",
@@ -40396,7 +40764,7 @@
   {
     "_id": "65254d7f9e4a6675fe8d0139",
     "id": "TheBloke/sqlcoder2-GPTQ",
-    "likes": 7,
+    "likes": 6,
     "private": false,
     "downloads": 1478,
     "tags": [
@@ -40445,6 +40813,7 @@
     "downloads": 161,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:abdgrt/Tinyllama-2-1b-miniguanaco",
       "license:other",
@@ -40510,6 +40879,7 @@
     "downloads": 720,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "generated_from_trainer",
       "en",
@@ -40560,6 +40930,7 @@
     "downloads": 113,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:Open-Orca/OpenOrca",
@@ -40690,6 +41061,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Undi95/UndiMix-v3-13B",
       "license:cc-by-nc-4.0",
@@ -40749,6 +41121,7 @@
     "downloads": 326,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "en",
       "dataset:ehartford/dolphin",
@@ -40778,6 +41151,7 @@
       "dataset:jondurbin/airoboros-2.2.1",
       "base_model:ehartford/dolphin-2.1-mistral-7b",
       "license:apache-2.0",
+      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -40819,6 +41193,7 @@
     "downloads": 9,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "text-generation",
       "en",
@@ -40910,6 +41285,7 @@
     "downloads": 12,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "text-generation",
       "en",
@@ -40974,6 +41350,7 @@
     "downloads": 0,
     "tags": [
       "adapter-transformers",
+      "gguf",
       "chemistry",
       "biology",
       "climate",
@@ -41066,6 +41443,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:ehartford/samantha-1.2-mistral-7b",
       "license:apache-2.0",
@@ -41149,6 +41527,7 @@
     "downloads": 3,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "chat",
       "roleplay",
@@ -41214,6 +41593,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:ICBU-NPU/FashionGPT-70B-V1.2",
       "license:llama2",
@@ -41252,6 +41632,7 @@
     "downloads": 13,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "llama-2",
       "code",
@@ -41400,6 +41781,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "mistral-7b",
       "instruct",
@@ -41456,6 +41838,7 @@
     "downloads": 4,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "code",
@@ -41544,6 +41927,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "code",
@@ -41602,6 +41986,7 @@
     "downloads": 139,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "instruct",
       "finetune",
@@ -41739,6 +42124,7 @@
     "downloads": 8,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "de",
@@ -41806,6 +42192,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:2309.11674",
       "base_model:haoranxu/ALMA-13B",
@@ -41890,6 +42277,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:2309.11674",
       "base_model:haoranxu/ALMA-7B",
@@ -41930,6 +42318,7 @@
     "downloads": 7,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "code",
       "math",
@@ -42009,6 +42398,7 @@
     "downloads": 6,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "code",
       "math",
@@ -42134,6 +42524,7 @@
     "downloads": 6,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "de",
@@ -42155,6 +42546,7 @@
     "downloads": 11,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "de",
@@ -42222,6 +42614,7 @@
     "downloads": 13,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "text-generation",
       "de",
@@ -42266,6 +42659,7 @@
     "downloads": 10,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -42330,6 +42724,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "code",
       "math",
@@ -42433,6 +42828,7 @@
     "downloads": 7,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "not-for-all-audiences",
       "nsfw",
@@ -42531,6 +42927,7 @@
     "downloads": 13,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "code",
       "math",
@@ -42583,6 +42980,7 @@
     "downloads": 6,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "code",
       "math",
@@ -42656,6 +43054,7 @@
     "downloads": 13,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Xwin-LM/Xwin-LM-13B-V0.2",
       "license:llama2",
@@ -42694,6 +43093,7 @@
     "downloads": 7,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "code",
       "math",
@@ -42773,6 +43173,7 @@
     "downloads": 6,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "stellar-bright",
       "llama-2",
@@ -42895,6 +43296,7 @@
     "downloads": 195,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "not-for-all-audiences",
       "nsfw",
@@ -42936,6 +43338,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:jondurbin/airoboros-3.1",
       "base_model:jondurbin/airoboros-l2-13b-3.1",
@@ -42976,6 +43379,7 @@
     "downloads": 3,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "arxiv:2309.12307",
       "base_model:Yukang/LongAlpaca-70B",
@@ -43102,6 +43506,7 @@
     "downloads": 9,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "text-generation",
       "en",
@@ -43144,6 +43549,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "dataset:jondurbin/airoboros-3.1",
       "base_model:jondurbin/airoboros-m-7b-3.1",
@@ -43249,6 +43655,7 @@
     "downloads": 22,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:NeverSleep/Mistral-11B-OmniMix-bf16",
       "license:cc-by-nc-4.0",
@@ -43266,6 +43673,7 @@
     "downloads": 15,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "shining-valiant",
       "valiant",
@@ -43292,6 +43700,7 @@
     "downloads": 19,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "text-generation",
       "zh",
@@ -43378,6 +43787,7 @@
     "downloads": 12,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "zh",
@@ -43463,6 +43873,7 @@
     "downloads": 9,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "text-generation",
       "zh",
@@ -43570,6 +43981,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:jondurbin/airoboros-3.1",
       "base_model:jondurbin/airoboros-l2-70b-3.1",
@@ -43639,6 +44051,7 @@
     "downloads": 25,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "text-generation",
       "en",
@@ -43732,11 +44145,12 @@
   {
     "_id": "652e49b1a3da41257d70f9e5",
     "id": "TheBloke/Mistral-7B-Code-16K-qlora-GGUF",
-    "likes": 15,
+    "likes": 14,
     "private": false,
     "downloads": 33,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:Nondzu/Mistral-7B-code-16k-qlora",
       "license:apache-2.0",
@@ -43755,6 +44169,7 @@
     "downloads": 7,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "dataset:jondurbin/airoboros-3.1",
       "base_model:jondurbin/airoboros-m-7b-3.1.1",
@@ -43841,6 +44256,7 @@
     "downloads": 8,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "code",
       "en",
@@ -43927,6 +44343,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:cgato/Thespis-13b-v0.3",
       "license:llama2",
@@ -43944,6 +44361,7 @@
     "downloads": 12,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:emrgnt-cmplxty/Mistral-7b-Phibrarian-32k",
       "license:llama2",
@@ -44003,6 +44421,7 @@
     "downloads": 46,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "math",
       "reasoning",
@@ -44129,6 +44548,7 @@
     "downloads": 7,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "math",
       "reasoning",
@@ -44151,6 +44571,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "en",
       "dataset:PocketDoc/Floyd-Text-Adventures",
@@ -44241,6 +44662,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "base_model:Sao10K/Euryale-1.3-L2-70B",
@@ -44281,6 +44703,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "roleplay",
       "en",
@@ -44371,6 +44794,7 @@
     "downloads": 14,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:jondurbin/airoboros-3.1",
       "base_model:jondurbin/airoboros-l2-13b-3.1.1",
@@ -44432,6 +44856,7 @@
     "downloads": 27,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Xwin-LM/Xwin-LM-7B-V0.2",
       "license:llama2",
@@ -44516,6 +44941,7 @@
     "downloads": 3,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "not-for-all-audiences",
       "nsfw",
@@ -44577,6 +45003,7 @@
     "downloads": 9,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:PulsarAI/SlimOpenOrca-Mistral-7B",
       "license:cc-by-nc-4.0",
@@ -44589,11 +45016,12 @@
   {
     "_id": "65310b2133d693dfd39750ce",
     "id": "TheBloke/MistralLite-7B-GGUF",
-    "likes": 30,
+    "likes": 29,
     "private": false,
     "downloads": 69,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:amazon/MistralLite",
       "license:apache-2.0",
@@ -44628,7 +45056,7 @@
   {
     "_id": "65310b21d780e9ba741c4b3c",
     "id": "TheBloke/MistralLite-7B-GPTQ",
-    "likes": 3,
+    "likes": 2,
     "private": false,
     "downloads": 206,
     "tags": [
@@ -44680,6 +45108,7 @@
     "downloads": 20,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "Mistral",
       "Pygmalion",
@@ -44774,10 +45203,12 @@
     "downloads": 27,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "dataset:jondurbin/airoboros-3.1",
       "base_model:jondurbin/airoboros-m-7b-3.1.2",
       "license:apache-2.0",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -44840,6 +45271,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "Mathematical Reasoning",
       "en",
@@ -44906,6 +45338,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:THUDM/AgentInstruct",
       "arxiv:2310.12823",
@@ -44948,6 +45381,7 @@
     "downloads": 4,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:THUDM/AgentInstruct",
       "arxiv:2310.12823",
@@ -45011,6 +45445,7 @@
     "downloads": 10,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:oobabooga/CodeBooga-34B-v0.1",
       "license:llama2",
@@ -45049,6 +45484,7 @@
     "downloads": 6,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "code",
       "arxiv:1910.09700",
@@ -45088,7 +45524,7 @@
   {
     "_id": "65332063b66f4bf689d817e2",
     "id": "TheBloke/vicuna-33B-coder-GPTQ",
-    "likes": 1,
+    "likes": 0,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -45117,6 +45553,7 @@
     "downloads": 8,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:THUDM/AgentInstruct",
       "arxiv:2310.12823",
@@ -45225,6 +45662,7 @@
     "downloads": 6,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Heralax/MistralMakise-Merged-13b",
       "license:apache-2.0",
@@ -45242,6 +45680,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "not-for-all-audiences",
       "nsfw",
@@ -45307,6 +45746,7 @@
     "downloads": 12,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:jondurbin/airoboros-3.1",
       "base_model:jondurbin/airoboros-l2-70b-3.1.2",
@@ -45369,6 +45809,7 @@
     "downloads": 3,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:jondurbin/airoboros-3.1",
       "base_model:jondurbin/airoboros-c34b-3.1.2",
@@ -45431,6 +45872,7 @@
     "downloads": 67,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:KoboldAI/LLaMA2-13B-Tiefighter",
       "license:llama2",
@@ -45578,6 +46020,7 @@
     "downloads": 93,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama2",
       "qwen",
@@ -45621,6 +46064,7 @@
     "downloads": 27,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama2",
       "qwen",
@@ -45754,6 +46198,7 @@
     "downloads": 35,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "text-generation",
       "en",
@@ -45795,6 +46240,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:cgato/Thespis-13b-v0.4",
       "license:llama2",
@@ -45854,6 +46300,7 @@
     "downloads": 22,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:emrgnt-cmplxty/Mistral-7B-SciPhi-32k",
       "license:llama2",
@@ -45978,6 +46425,7 @@
     "downloads": 4,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:NeverSleep/HornyEchidna-13b-v0.1",
       "license:cc-by-nc-4.0",
@@ -46019,6 +46467,7 @@
     "downloads": 39,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "LLM",
       "finetuned",
@@ -46065,6 +46514,7 @@
     "downloads": 18,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Heralax/Augmental-13b",
       "license:llama2",
@@ -46148,6 +46598,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:ehartford/dolphin",
@@ -46192,6 +46643,7 @@
     "downloads": 11,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:migtissera/SynthIA-70B-v1.5",
       "license:llama2",
@@ -46209,6 +46661,7 @@
     "downloads": 36,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:lizpreciatior/lzlv_70b_fp16_hf",
       "license:cc-by-nc-2.0",
@@ -46226,6 +46679,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Heralax/Cat-0.5",
       "license:llama2",
@@ -46369,6 +46823,7 @@
     "downloads": 1612,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "generated_from_trainer",
       "en",
@@ -46404,6 +46859,7 @@
       "arxiv:2310.16944",
       "base_model:HuggingFaceH4/zephyr-7b-beta",
       "license:mit",
+      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -46470,6 +46926,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "not-for-all-audiences",
       "nsfw",
@@ -46512,6 +46969,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:lemonilia/AshhLimaRP-Mistral-7B",
       "license:apache-2.0",
@@ -46571,6 +47029,7 @@
     "downloads": 51,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "m42",
       "health",
@@ -46595,6 +47054,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "not-for-all-audiences",
       "nsfw",
@@ -46735,6 +47195,7 @@
     "downloads": 18,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "not-for-all-audiences",
       "nsfw",
@@ -46777,6 +47238,7 @@
     "downloads": 6,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:crumb/Gale-medium-init",
       "text-generation-inference",
@@ -46793,6 +47255,7 @@
     "downloads": 10,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "text-generation",
       "zh",
@@ -46820,6 +47283,7 @@
     "downloads": 6,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:RossAscends/Mistral_7B_Dolphin2.1_LIMA0.5_fp16",
       "license:mit",
@@ -46837,6 +47301,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:NeverSleep/Echidna-13b-v0.2",
       "license:cc-by-nc-4.0",
@@ -46894,6 +47359,7 @@
     "downloads": 56,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "code",
       "base_model:Nondzu/Mistral-7B-codealpaca-lora",
@@ -47098,6 +47564,7 @@
     "downloads": 6,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "de",
@@ -47165,6 +47632,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:NeverSleep/Echidna-13b-v0.3",
       "license:cc-by-nc-4.0",
@@ -47274,6 +47742,7 @@
     "downloads": 18,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "japanese-stablelm",
       "causal-lm",
@@ -47345,6 +47814,7 @@
     "downloads": 42,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "dataset:Norquinal/claude_multiround_chat_1k",
       "base_model:Norquinal/Mistral-7B-claude-chat",
@@ -47453,6 +47923,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "not-for-all-audiences",
       "nsfw",
@@ -47472,6 +47943,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Heralax/Augmental-13b-v1.50_A",
       "license:llama2",
@@ -47531,6 +48003,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Heralax/Augmental-13b-v1.50_B",
       "license:llama2",
@@ -47569,6 +48042,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:IkariDev/Athnete-13B",
       "license:cc-by-nc-4.0",
@@ -47628,6 +48102,7 @@
     "downloads": 17,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "sft",
       "StableLM",
@@ -47694,7 +48169,7 @@
   {
     "_id": "653e7056b16f657d28ee6cc3",
     "id": "TheBloke/Nous-Capybara-7B-v1.9-GPTQ",
-    "likes": 2,
+    "likes": 1,
     "private": false,
     "downloads": 96,
     "tags": [
@@ -47795,6 +48270,7 @@
     "downloads": 3,
     "tags": [
       "transformers",
+      "gguf",
       "aquila",
       "base_model:BAAI/AquilaChat2-34B-16K",
       "license:other",
@@ -47853,6 +48329,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "aquila",
       "base_model:BAAI/AquilaChat2-34B",
       "license:other",
@@ -47891,6 +48368,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "base_model:ajibawa-2023/scarlett-7b",
@@ -47909,6 +48387,7 @@
     "downloads": 3,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llm",
       "llama2",
@@ -47951,8 +48430,10 @@
     "downloads": 18,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:SciPhi/SciPhi-Mistral-7B-32k",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -48005,7 +48486,7 @@
   {
     "_id": "653f1968afcd26e2cbe7f358",
     "id": "TheBloke/SciPhi-Mistral-7B-32k-GPTQ",
-    "likes": 3,
+    "likes": 2,
     "private": false,
     "downloads": 66,
     "tags": [
@@ -48078,6 +48559,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "not-for-all-audiences",
       "base_model:cgato/Thespis-13b-v0.5",
@@ -48139,6 +48621,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:NeverSleep/Nethena-13B",
       "license:cc-by-nc-4.0",
@@ -48177,6 +48660,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:NeverSleep/Nethena-20B",
       "license:cc-by-nc-4.0",
@@ -48280,6 +48764,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "base_model:ajibawa-2023/Uncensored-Jordan-13B",
@@ -48298,6 +48783,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "base_model:ajibawa-2023/Uncensored-Jordan-33B",
@@ -48360,6 +48846,7 @@
     "downloads": 8,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "base_model:ajibawa-2023/Uncensored-Jordan-7B",
@@ -48444,6 +48931,7 @@
     "downloads": 229,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "en",
       "dataset:ehartford/dolphin",
@@ -48484,7 +48972,7 @@
   {
     "_id": "654042284a4828900083688a",
     "id": "TheBloke/dolphin-2.2.1-mistral-7B-GPTQ",
-    "likes": 20,
+    "likes": 19,
     "private": false,
     "downloads": 4618,
     "tags": [
@@ -48513,6 +49001,7 @@
     "downloads": 19,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "not-for-all-audiences",
       "nsfw",
@@ -48578,6 +49067,7 @@
     "downloads": 44,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "dataset:meta-math/MetaMathQA",
       "arxiv:2309.12284",
@@ -48597,6 +49087,7 @@
     "downloads": 65,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "not-for-all-audiences",
       "nsfw",
@@ -48611,7 +49102,7 @@
   {
     "_id": "65412e15271d3bc4d7062b70",
     "id": "TheBloke/MetaMath-Mistral-7B-GPTQ",
-    "likes": 1,
+    "likes": 0,
     "private": false,
     "downloads": 136,
     "tags": [
@@ -48731,6 +49222,7 @@
     "downloads": 4,
     "tags": [
       "transformers",
+      "gguf",
       "skywork",
       "arxiv:2310.19341",
       "arxiv:2310.16713",
@@ -48772,6 +49264,7 @@
     "downloads": 3,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "not-for-all-audiences",
       "nsfw",
@@ -48841,6 +49334,7 @@
     "downloads": 6,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "vi",
       "en",
@@ -48891,6 +49385,7 @@
     "downloads": 38,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:SciPhi/SciPhi-Self-RAG-Mistral-7B-32k",
       "license:mit",
@@ -48924,7 +49419,7 @@
   {
     "_id": "6542b27ce5309ae0a1c66ce2",
     "id": "TheBloke/SciPhi-Self-RAG-Mistral-7B-32k-GPTQ",
-    "likes": 3,
+    "likes": 2,
     "private": false,
     "downloads": 63,
     "tags": [
@@ -48971,6 +49466,7 @@
     "downloads": 7,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:OpenBuddy/openbuddy-llama2-70b-v13.2",
       "license:llama2",
@@ -49051,6 +49547,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:openerotica/basilisk-7b-v0.2",
       "license:apache-2.0",
@@ -49068,6 +49565,7 @@
     "downloads": 28,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "japanese-stablelm",
       "causal-lm",
@@ -49171,6 +49669,7 @@
     "downloads": 359,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "arxiv:2309.11235",
       "arxiv:2303.08774",
@@ -49192,6 +49691,7 @@
     "downloads": 364,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "en",
       "dataset:emozilla/yarn-train-tokenized-16k-mistral",
@@ -49213,6 +49713,7 @@
     "downloads": 224,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "en",
       "dataset:emozilla/yarn-train-tokenized-16k-mistral",
@@ -49337,6 +49838,7 @@
     "downloads": 242,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "instruct",
       "finetune",
@@ -49357,7 +49859,7 @@
   {
     "_id": "6544182490538a2742671abe",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GPTQ",
-    "likes": 14,
+    "likes": 13,
     "private": false,
     "downloads": 2520,
     "tags": [
@@ -49462,6 +49964,7 @@
     "downloads": 25,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "not-for-all-audiences",
       "base_model:cgato/Thespis-Mistral-7b-v0.5",
@@ -49521,6 +50024,7 @@
     "downloads": 71,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Undi95/Utopia-13B",
       "license:cc-by-nc-4.0",
@@ -49565,6 +50069,7 @@
     "downloads": 7,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "japanese-stablelm",
       "causal-lm",
@@ -49635,7 +50140,7 @@
   {
     "_id": "6546a6d649feb5082b4622e1",
     "id": "TheBloke/Yi-34B-GPTQ",
-    "likes": 28,
+    "likes": 27,
     "private": false,
     "downloads": 977,
     "tags": [
@@ -49661,6 +50166,7 @@
     "downloads": 144,
     "tags": [
       "transformers",
+      "gguf",
       "yi",
       "base_model:01-ai/Yi-34B",
       "license:other",
@@ -49677,6 +50183,7 @@
     "downloads": 4,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "llama",
       "uncensored",
@@ -49743,6 +50250,7 @@
     "downloads": 43,
     "tags": [
       "transformers",
+      "gguf",
       "deepseek",
       "base_model:deepseek-ai/deepseek-coder-33b-instruct",
       "license:other",
@@ -49916,7 +50424,7 @@
   {
     "_id": "6547195700ca373b7d271228",
     "id": "TheBloke/deepseek-coder-1.3b-instruct-GPTQ",
-    "likes": 4,
+    "likes": 3,
     "private": false,
     "downloads": 146,
     "tags": [
@@ -50021,7 +50529,7 @@
   {
     "_id": "65476ad9e49bd8d58e61263c",
     "id": "TheBloke/deepseek-coder-6.7B-instruct-GPTQ",
-    "likes": 14,
+    "likes": 13,
     "private": false,
     "downloads": 456,
     "tags": [
@@ -50042,11 +50550,12 @@
   {
     "_id": "65479565407bb19ff594d5bd",
     "id": "TheBloke/deepseek-coder-1.3b-instruct-GGUF",
-    "likes": 14,
+    "likes": 13,
     "private": false,
     "downloads": 26,
     "tags": [
       "transformers",
+      "gguf",
       "deepseek",
       "base_model:deepseek-ai/deepseek-coder-1.3b-instruct",
       "license:other",
@@ -50063,6 +50572,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "deepseek",
       "base_model:deepseek-ai/deepseek-coder-33b-base",
       "license:other",
@@ -50079,6 +50589,7 @@
     "downloads": 7,
     "tags": [
       "transformers",
+      "gguf",
       "deepseek",
       "base_model:deepseek-ai/deepseek-coder-1.3b-base",
       "license:other",
@@ -50095,6 +50606,7 @@
     "downloads": 15,
     "tags": [
       "transformers",
+      "gguf",
       "deepseek",
       "base_model:deepseek-ai/deepseek-coder-6.7b-base",
       "license:other",
@@ -50106,11 +50618,12 @@
   {
     "_id": "65479a438767484a0548595b",
     "id": "TheBloke/deepseek-coder-6.7B-instruct-GGUF",
-    "likes": 49,
+    "likes": 48,
     "private": false,
     "downloads": 92,
     "tags": [
       "transformers",
+      "gguf",
       "deepseek",
       "base_model:deepseek-ai/deepseek-coder-6.7b-instruct",
       "license:other",
@@ -50149,6 +50662,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "deepseek",
       "base_model:deepseek-ai/deepseek-coder-5.7bmqa-base",
       "license:other",
@@ -50186,6 +50700,7 @@
     "downloads": 15,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "japanese",
       "causal-lm",
@@ -50257,6 +50772,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "japanese",
       "llama-2",
@@ -50337,6 +50853,7 @@
     "downloads": 20,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "mistral-7b",
       "instruct",
@@ -50385,6 +50902,7 @@
     "downloads": 9,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "not-for-all-audiences",
       "nsfw",
@@ -50469,6 +50987,7 @@
     "downloads": 6,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Henk717/echidna-tiefigther-25",
       "license:cc-by-nc-4.0",
@@ -50486,6 +51005,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:CalderaAI/Hexoteric-7B",
       "license:apache-2.0",
@@ -50545,6 +51065,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "japanese-stablelm",
       "causal-lm",
@@ -50654,9 +51175,11 @@
     "downloads": 38,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:OpenBuddy/openbuddy-zephyr-7b-v14.1",
       "license:apache-2.0",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -50740,6 +51263,7 @@
     "downloads": 12,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "en",
       "es",
@@ -50784,6 +51308,7 @@
     "downloads": 7,
     "tags": [
       "transformers",
+      "gguf",
       "tinyllama",
       "en",
       "dataset:cerebras/SlimPajama-627B",
@@ -50827,6 +51352,7 @@
     "downloads": 30,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "not-for-all-audiences",
       "nsfw",
@@ -50892,6 +51418,7 @@
     "downloads": 4,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "LLM",
       "llama-2",
@@ -51011,6 +51538,7 @@
     "downloads": 15,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "not-for-all-audiences",
       "nsfw",
@@ -51052,6 +51580,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "not-for-all-audiences",
       "base_model:cgato/Thespis-13b-v0.6",
@@ -51113,6 +51642,7 @@
     "downloads": 14,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:jebcarter/Psyfighter-13B",
       "license:llama2",
@@ -51151,6 +51681,7 @@
     "downloads": 6,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:KoboldAI/LLaMA2-13B-TiefighterLR",
       "license:llama2",
@@ -51236,6 +51767,7 @@
     "downloads": 3,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:ehartford/dolphin",
@@ -51280,6 +51812,7 @@
     "downloads": 6,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:NobodyExistsOnTheInternet/GiftedConvoBeforeEcons",
       "base_model:NobodyExistsOnTheInternet/Yi-34B-GiftedConvo-merged",
@@ -51320,6 +51853,7 @@
     "downloads": 6,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "code",
       "text-generation-inference",
@@ -51390,6 +51924,7 @@
     "downloads": 3,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "finetuned",
       "Instruct",
@@ -51410,6 +51945,7 @@
     "downloads": 3,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "text-generation",
       "en",
@@ -51542,6 +52078,7 @@
     "downloads": 1010,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "conversational",
       "en",
@@ -51606,6 +52143,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:Weyaxi/Dolphin2.1-OpenOrca-7B",
       "license:cc-by-nc-4.0",
@@ -51648,6 +52186,7 @@
     "downloads": 119,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "conversational",
       "en",
@@ -51742,6 +52281,7 @@
     "downloads": 4,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "Mistral",
       "en",
@@ -51802,7 +52342,7 @@
   {
     "_id": "654de3d071a30c4bca18febf",
     "id": "TheBloke/dolphin-2.2.1-AshhLimaRP-Mistral-7B-GPTQ",
-    "likes": 3,
+    "likes": 2,
     "private": false,
     "downloads": 54,
     "tags": [
@@ -51851,6 +52391,7 @@
     "downloads": 20,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "not-for-all-audiences",
       "base_model:Herman555/dolphin-2.2.1-AshhLimaRP-Mistral-7B-GGUF",
@@ -51916,6 +52457,7 @@
     "downloads": 48,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:umd-zhou-lab/claude2_alpaca",
@@ -51981,6 +52523,7 @@
     "downloads": 16,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:umd-zhou-lab/claude2_alpaca",
@@ -52042,6 +52585,7 @@
     "downloads": 37,
     "tags": [
       "transformers",
+      "gguf",
       "yi",
       "text-generation",
       "base_model:01-ai/Yi-6B",
@@ -52107,6 +52651,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text2text-generation",
       "en",
@@ -52175,6 +52720,7 @@
     "downloads": 19,
     "tags": [
       "transformers",
+      "gguf",
       "yi",
       "base_model:01-ai/Yi-34B-200K",
       "license:other",
@@ -52191,6 +52737,7 @@
     "downloads": 9,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text2text-generation",
       "en",
@@ -52305,6 +52852,7 @@
     "downloads": 61,
     "tags": [
       "transformers",
+      "gguf",
       "yi",
       "base_model:01-ai/Yi-6B-200K",
       "license:other",
@@ -52328,6 +52876,7 @@
       "custom_code",
       "base_model:01-ai/Yi-6B-200K",
       "license:other",
+      "has_space",
       "4-bit",
       "region:us"
     ],
@@ -52367,6 +52916,7 @@
     "downloads": 58,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "arxiv:2309.11235",
       "arxiv:2303.08774",
@@ -52445,6 +52995,7 @@
     "downloads": 0,
     "tags": [
       "peft",
+      "gguf",
       "arxiv:1910.09700",
       "base_model:Heralax/Augmental-Unholy-13b",
       "license:llama2",
@@ -52461,6 +53012,7 @@
     "downloads": 11,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama 2",
       "en",
@@ -52526,6 +53078,7 @@
     "downloads": 33,
     "tags": [
       "transformers",
+      "gguf",
       "yi",
       "zh",
       "en",
@@ -52574,10 +53127,10 @@
       "en",
       "base_model:larryvrh/Yi-34B-200K-Llamafied",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "4-bit",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-11T16:04:32.000Z",
@@ -52591,6 +53144,7 @@
     "downloads": 17,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "bg",
       "ca",
@@ -52668,7 +53222,7 @@
   {
     "_id": "65501a93fd13d5b5ec6ddf44",
     "id": "TheBloke/Mistral-7B-OpenOrca-oasst_top1_2023-08-25-v1-GPTQ",
-    "likes": 1,
+    "likes": 0,
     "private": false,
     "downloads": 66,
     "tags": [
@@ -52758,6 +53312,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Heralax/Augmental-ReMM-13b-Merged",
       "license:llama2",
@@ -52796,6 +53351,7 @@
     "downloads": 3,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:NeverSleep/Noromaid-13b-v0.1",
       "license:cc-by-nc-4.0",
@@ -52856,7 +53412,7 @@
   {
     "_id": "65526c844a5191e1f1a7f6f6",
     "id": "TheBloke/Nous-Capybara-34B-GPTQ",
-    "likes": 9,
+    "likes": 8,
     "private": false,
     "downloads": 505,
     "tags": [
@@ -52888,6 +53444,7 @@
     "downloads": 91,
     "tags": [
       "transformers",
+      "gguf",
       "yi",
       "sft",
       "Yi-34B-200K",
@@ -52910,6 +53467,7 @@
     "downloads": 21,
     "tags": [
       "transformers",
+      "gguf",
       "yi",
       "en",
       "dataset:ehartford/dolphin",
@@ -53004,6 +53562,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:NeverSleep/Noromaid-13b-v0.1.1",
       "license:cc-by-nc-4.0",
@@ -53043,6 +53602,7 @@
     "downloads": 16,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "text-generation",
       "ko",
@@ -53093,6 +53653,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "llama-2",
       "code",
@@ -53194,6 +53755,7 @@
     "downloads": 6,
     "tags": [
       "transformers",
+      "gguf",
       "falcon",
       "pretrained",
       "conversational",
@@ -53338,6 +53900,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -53382,6 +53945,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "code",
       "en",
@@ -53402,6 +53966,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "code",
       "en",
@@ -53498,6 +54063,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "shining-valiant",
       "valiant",
@@ -53524,6 +54090,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:sequelbox/DaringFortitude",
       "license:llama2",
@@ -53635,14 +54202,15 @@
     "downloads": 6,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "text-generation",
       "en",
       "base_model:NurtureAI/SynthIA-7B-v2.0-16k",
       "license:apache-2.0",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-15T08:58:14.000Z",
@@ -53722,6 +54290,7 @@
     "downloads": 28,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "pl",
       "base_model:Nondzu/zephyr-7b-beta-pl",
@@ -53783,6 +54352,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:migtissera/Tess-XL-v1.0",
       "license:llama2",
@@ -53842,12 +54412,13 @@
     "downloads": 67,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:Intel/neural-chat-7b-v3-1",
       "license:apache-2.0",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "createdAt": "2023-11-15T18:18:55.000Z",
     "modelId": "TheBloke/neural-chat-7B-v3-1-GGUF"
@@ -53927,6 +54498,7 @@
     "downloads": 11,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "code",
       "text-generation",
@@ -53948,6 +54520,7 @@
     "downloads": 4,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "not-for-all-audiences",
       "base_model:cgato/Thespis-Mistral-7b-v0.6",
@@ -54052,6 +54625,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Metaspectral/Tai",
       "license:llama2",
@@ -54069,6 +54643,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "base_model:bongchoi/MoMo-70B-V1.1",
@@ -54175,6 +54750,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "yi",
       "text-generation",
       "dataset:totally-not-an-llm/EverythingLM-data-V3",
@@ -54194,6 +54770,7 @@
     "downloads": 4,
     "tags": [
       "transformers",
+      "gguf",
       "yi",
       "base_model:migtissera/Tess-M-Creative-v1.0",
       "license:other",
@@ -54298,6 +54875,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "MerlynMind",
       "education",
@@ -54317,6 +54895,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "gptneox",
       "MerlynMind",
       "education",
@@ -54427,6 +55006,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama-2",
       "roleplaying",
@@ -54474,6 +55054,7 @@
     "downloads": 29,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "instruct",
       "finetune",
@@ -54570,6 +55151,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "dataset:garage-bAInd/Open-Platypus",
       "base_model:bhenrym14/platypus-yi-34b",
@@ -54588,6 +55170,7 @@
     "downloads": 16,
     "tags": [
       "transformers",
+      "gguf",
       "stablelm",
       "text-generation",
       "en",
@@ -54609,6 +55192,7 @@
     "downloads": 7,
     "tags": [
       "transformers",
+      "gguf",
       "stablelm",
       "text-generation",
       "en",
@@ -54716,6 +55300,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "yi",
       "base_model:llmware/dragon-yi-6b-v0",
       "license:other",
@@ -54753,6 +55338,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:YeungNLP/firefly-llama2-13b-chat",
       "license:llama2",
@@ -54812,6 +55398,7 @@
     "downloads": 18,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:YeungNLP/firefly-llama2-7b-chat",
       "license:llama2",
@@ -54888,6 +55475,7 @@
     "downloads": 7,
     "tags": [
       "transformers",
+      "gguf",
       "falcon",
       "falcon-40b",
       "long-context",
@@ -55002,6 +55590,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "base_model:Sao10K/Euryale-1.4-L2-70B",
@@ -55064,6 +55653,7 @@
     "downloads": 3,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -55084,6 +55674,7 @@
     "downloads": 6,
     "tags": [
       "transformers",
+      "gguf",
       "nanbeige",
       "llm",
       "custom_code",
@@ -55106,6 +55697,7 @@
     "downloads": 10,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "text-generation",
       "en",
@@ -55171,6 +55763,7 @@
     "downloads": 7,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:NumbersStation/nsql-llama-2-7B",
       "license:llama2",
@@ -55209,6 +55802,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "zh",
       "en",
@@ -55272,6 +55866,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "base_model:NucleusAI/nucleus-22B-token-500B",
@@ -55336,6 +55931,7 @@
     "downloads": 7,
     "tags": [
       "transformers",
+      "gguf",
       "nanbeige",
       "llm",
       "custom_code",
@@ -55358,6 +55954,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "nanbeige",
       "llm",
       "custom_code",
@@ -55380,6 +55977,7 @@
     "downloads": 5,
     "tags": [
       "transformers",
+      "gguf",
       "nanbeige",
       "llm",
       "Nanbeige",
@@ -55403,6 +56001,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:KaeriJenti/Kaori-70b-v1",
       "license:llama2",
@@ -55557,6 +56156,7 @@
     "downloads": 17,
     "tags": [
       "transformers",
+      "gguf",
       "yi",
       "text-generation",
       "en",
@@ -55621,6 +56221,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "not-for-all-audiences",
       "nsfw",
@@ -55640,6 +56241,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Xwin-LM/XwinCoder-13B",
       "license:llama2",
@@ -55722,6 +56324,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:Xwin-LM/XwinCoder-34B",
       "license:llama2",
@@ -55781,6 +56384,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "baichuan",
       "zh",
       "en",
@@ -55824,6 +56428,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:adonlee/LLaMA_2_13B_SFT_v1",
       "license:apache-2.0",
@@ -55884,6 +56489,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "base_model:l3utterfly/llama2-7b-layla",
@@ -55945,6 +56551,7 @@
     "downloads": 9,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:lvkaokao/mistral-7b-finetuned-orca-dpo-v2",
       "license:apache-2.0",
@@ -56037,6 +56644,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "zh",
       "en",
@@ -56060,6 +56668,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "llm",
       "llama",
@@ -56131,6 +56740,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "facebook",
       "meta",
@@ -56231,6 +56841,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "instruct",
       "finetune",
@@ -56279,6 +56890,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "llm",
       "llama",
@@ -56298,6 +56910,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "LLM",
       "llama",
@@ -56340,6 +56953,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "instruct",
       "finetune",
@@ -56507,6 +57121,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:Open-Orca/SlimOrca",
@@ -56551,6 +57166,7 @@
     "downloads": 0,
     "tags": [
       "peft",
+      "gguf",
       "code",
       "instruct",
       "llama2",
@@ -56630,6 +57246,7 @@
     "downloads": 0,
     "tags": [
       "peft",
+      "gguf",
       "code",
       "instruct",
       "zephyr",
@@ -56759,6 +57376,7 @@
     "downloads": 8,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:emozilla/yarn-train-tokenized-8k-llama",
@@ -56779,6 +57397,7 @@
     "downloads": 22,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "orca",
       "orca2",
@@ -56872,11 +57491,12 @@
   {
     "_id": "655c6c23b9d6d283fbfd3359",
     "id": "TheBloke/Orca-2-7B-GGUF",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 32,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "orca",
       "orca2",
@@ -57048,6 +57668,7 @@
     "downloads": 9,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:gorilla-llm/gorilla-openfunctions-v1",
       "license:apache-2.0",
@@ -57088,6 +57709,7 @@
     "downloads": 6,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "text-generation",
       "en",
@@ -57154,6 +57776,7 @@
     "downloads": 13,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "en",
       "base_model:Gryphe/MythoMist-7b",
@@ -57236,6 +57859,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "yi",
       "base_model:migtissera/Tess-M-v1.1",
       "license:other",
@@ -57273,6 +57897,7 @@
     "downloads": 4,
     "tags": [
       "transformers",
+      "gguf",
       "yi",
       "text-generation",
       "base_model:OrionStarAI/OrionStar-Yi-34B-Chat-Llama",
@@ -57312,6 +57937,7 @@
     "downloads": 11,
     "tags": [
       "transformers",
+      "gguf",
       "stablelm",
       "en",
       "arxiv:2305.18290",
@@ -57399,6 +58025,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:migtissera/Tess-XS-Creative-v1.0",
       "license:apache-2.0",
@@ -57416,6 +58043,7 @@
     "downloads": 2,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:migtissera/Tess-XS-v1.1",
       "license:apache-2.0",
@@ -57475,6 +58103,7 @@
     "downloads": 1,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:perlthoughts/Chupacabra-7B-v2",
       "license:apache-2.0",
@@ -57560,6 +58189,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "dataset:euclaise/MiniCoT",
       "dataset:euclaise/SciCoT",
@@ -57629,6 +58259,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:speechlessai/speechless-mistral-7b-dare-0.85",
       "license:llama2",
@@ -57667,6 +58298,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:uukuguy/airoboros-m-7b-3.1.2-dare-0.85",
       "license:apache-2.0",
@@ -57768,6 +58400,7 @@
     "downloads": 8,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:uukuguy/CollectiveCognition-v1.1-Mistral-7B-dare-0.85",
       "license:llama2",
@@ -57806,6 +58439,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:uukuguy/SynthIA-7B-v1.3-dare-0.85",
       "license:llama2",
@@ -57865,6 +58499,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:NeverSleep/Noromaid-20b-v0.1.1",
       "license:cc-by-nc-4.0",
@@ -57903,6 +58538,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "arxiv:2311.09613",
@@ -57991,6 +58627,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "arxiv:2311.09613",
@@ -58055,6 +58692,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "llama2",
       "base_model:chargoddard/llama-polyglot-13b",
@@ -58137,6 +58775,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:maywell/koOpenChat-sft",
       "license:cc-by-sa-4.0",
@@ -58154,6 +58793,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:maywell/Synatra-7B-v0.3-dpo",
       "license:cc-by-sa-4.0",
@@ -58213,6 +58853,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:maywell/Synatra-RP-Orca-2-7b-v0.1",
       "license:apache-2.0",
@@ -58288,11 +58929,12 @@
   {
     "_id": "655f89ed737830f9947e8fbd",
     "id": "TheBloke/Yi-34B-Chat-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "yi",
       "text-generation",
       "base_model:01-ai/Yi-34B-Chat",
@@ -58311,6 +58953,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "text-generation",
       "ko",
@@ -58440,6 +59083,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "text-generation",
       "ko",
@@ -58481,6 +59125,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "mistral",
       "base_model:openerotica/cockatrice-7b-v0.1",
       "license:apache-2.0",
@@ -58498,6 +59143,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "base_model:migtissera/Tess-M-v1.2",
       "license:other",
@@ -58605,6 +59251,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:allenai/tulu-v2-sft-mixture",
@@ -58644,11 +59291,12 @@
   {
     "_id": "65601f1547d95544ef949a04",
     "id": "TheBloke/tulu-2-70B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:allenai/tulu-v2-sft-mixture",
@@ -58693,6 +59341,7 @@
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:HuggingFaceH4/ultrafeedback_binarized",
@@ -58710,11 +59359,12 @@
   {
     "_id": "65606fdd4ab6f7cf94df0782",
     "id": "TheBloke/tulu-2-dpo-70B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:HuggingFaceH4/ultrafeedback_binarized",
@@ -58732,11 +59382,12 @@
   {
     "_id": "65607e404a5a63bc00c165b9",
     "id": "TheBloke/tulu-2-dpo-7B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
       "transformers",
+      "gguf",
       "llama",
       "en",
       "dataset:HuggingFaceH4/ultrafeedback_binarized",
@@ -58758,20 +59409,44 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:allenai/tulu-v2-sft-mixture",
+      "arxiv:2311.10702",
+      "base_model:allenai/tulu-2-7b",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-24T10:54:11.000Z",
     "modelId": "TheBloke/tulu-2-7B-GPTQ"
   },
   {
     "_id": "656080d3dd4d448b8e5e2be5",
     "id": "TheBloke/tulu-2-7B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:allenai/tulu-v2-sft-mixture",
+      "arxiv:2311.10702",
+      "base_model:allenai/tulu-2-7b",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-24T10:54:11.000Z",
     "modelId": "TheBloke/tulu-2-7B-AWQ"
   },
@@ -58795,5 +59470,29 @@
     ],
     "createdAt": "2023-11-24T10:54:11.000Z",
     "modelId": "TheBloke/tulu-2-7B-GGUF"
+  },
+  {
+    "_id": "65608a0e2324e4d25c823550",
+    "id": "TheBloke/tulu-2-dpo-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-24T11:33:34.000Z",
+    "modelId": "TheBloke/tulu-2-dpo-13B-AWQ"
+  },
+  {
+    "_id": "65608a0e84a9fbe3229361ee",
+    "id": "TheBloke/tulu-2-dpo-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-24T11:33:34.000Z",
+    "modelId": "TheBloke/tulu-2-dpo-13B-GPTQ"
   }
 ]
