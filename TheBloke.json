@@ -7552,7 +7552,7 @@
   {
     "_id": "649edc20d50656371672496a",
     "id": "TheBloke/mpt-7b-chat-GGML",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -20068,7 +20068,7 @@
   {
     "_id": "64f5fd954d3b1dd311d30e28",
     "id": "TheBloke/Llama-2-7B-GGUF",
-    "likes": 70,
+    "likes": 71,
     "private": false,
     "downloads": 802,
     "tags": [
@@ -21911,7 +21911,7 @@
   {
     "_id": "64f7a55fe7584abc62396874",
     "id": "TheBloke/Pygmalion-2-7B-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 32,
     "tags": [
@@ -50160,7 +50160,7 @@
   {
     "_id": "6546a6d65cd5692b3ab16e09",
     "id": "TheBloke/Yi-34B-GGUF",
-    "likes": 57,
+    "likes": 58,
     "private": false,
     "downloads": 144,
     "tags": [
@@ -57391,7 +57391,7 @@
   {
     "_id": "655c6a0c76e4fad552c77585",
     "id": "TheBloke/Orca-2-13B-GGUF",
-    "likes": 24,
+    "likes": 25,
     "private": false,
     "downloads": 35,
     "tags": [
@@ -59904,7 +59904,7 @@
   {
     "_id": "65611be7ad639c6ab98b3149",
     "id": "TheBloke/X-MythoChronos-13B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -59931,8 +59931,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:vihangd/smartyplats-7b-v2",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-24T22:42:42.000Z",
     "modelId": "TheBloke/smartyplats-7B-v2-GPTQ"
   }
