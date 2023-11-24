@@ -59776,7 +59776,7 @@
   {
     "_id": "6561021bcf4f078533742b63",
     "id": "TheBloke/Chupacabra-7B-v3-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -59798,8 +59798,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:perlthoughts/Chupacabra-7B-v3",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-24T20:05:47.000Z",
     "modelId": "TheBloke/Chupacabra-7B-v3-AWQ"
   },
@@ -59810,9 +59819,55 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:perlthoughts/Chupacabra-7B-v3",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-24T20:05:48.000Z",
     "modelId": "TheBloke/Chupacabra-7B-v3-GPTQ"
+  },
+  {
+    "_id": "656108d34efe6f0a0659bfa2",
+    "id": "TheBloke/Rose-20B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2023-11-24T20:34:27.000Z",
+    "modelId": "TheBloke/Rose-20B-GGUF"
+  },
+  {
+    "_id": "656108d3ab484c4a3a1037cd",
+    "id": "TheBloke/Rose-20B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-24T20:34:27.000Z",
+    "modelId": "TheBloke/Rose-20B-GPTQ"
+  },
+  {
+    "_id": "656108d3ec7e23989994d744",
+    "id": "TheBloke/Rose-20B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-24T20:34:27.000Z",
+    "modelId": "TheBloke/Rose-20B-AWQ"
   }
 ]
