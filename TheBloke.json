@@ -53837,7 +53837,7 @@
   {
     "_id": "65550b8fd5a72476aed640ab",
     "id": "TheBloke/neural-chat-7B-v3-1-GGUF",
-    "likes": 23,
+    "likes": 24,
     "private": false,
     "downloads": 67,
     "tags": [
@@ -56797,7 +56797,7 @@
   {
     "_id": "655c6ac2fb74ac37d30cc34e",
     "id": "TheBloke/Orca-2-13B-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 649,
     "tags": [
@@ -58514,8 +58514,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:migtissera/Tess-M-v1.2",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-23T23:31:24.000Z",
     "modelId": "TheBloke/Tess-M-v1.2-AWQ"
   },
