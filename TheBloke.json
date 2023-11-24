@@ -36628,7 +36628,6 @@
       "nsfw",
       "base_model:Undi95/U-Amethyst-20B",
       "license:cc-by-nc-4.0",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -46015,7 +46014,7 @@
   {
     "_id": "65354dada2c81a3d29a30494",
     "id": "TheBloke/CausalLM-14B-GGUF",
-    "likes": 80,
+    "likes": 81,
     "private": false,
     "downloads": 93,
     "tags": [
@@ -46818,7 +46817,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 154,
+    "likes": 155,
     "private": false,
     "downloads": 1612,
     "tags": [
@@ -46843,7 +46842,7 @@
   {
     "_id": "653bb81b8502e1fd87503201",
     "id": "TheBloke/zephyr-7B-beta-GPTQ",
-    "likes": 39,
+    "likes": 40,
     "private": false,
     "downloads": 17314,
     "tags": [
@@ -58533,7 +58532,7 @@
   {
     "_id": "655f575a29e57ae2ebe70df9",
     "id": "TheBloke/digital-socrates-13B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -59336,7 +59335,7 @@
   {
     "_id": "65606c31d69284e31ff275c0",
     "id": "TheBloke/tulu-2-dpo-13B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -59478,8 +59477,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:HuggingFaceH4/ultrafeedback_binarized",
+      "dataset:allenai/tulu-v2-sft-mixture",
+      "arxiv:2305.18290",
+      "arxiv:2311.10702",
+      "base_model:allenai/tulu-2-dpo-13b",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-24T11:33:34.000Z",
     "modelId": "TheBloke/tulu-2-dpo-13B-AWQ"
   },
