@@ -58267,7 +58267,7 @@
   {
     "_id": "655f89ed324de022a3a4be6e",
     "id": "TheBloke/Yi-34B-Chat-AWQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -58668,8 +58668,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:allenai/tulu-v2-sft-mixture",
+      "arxiv:2311.10702",
+      "base_model:allenai/tulu-2-70b",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-24T03:57:09.000Z",
     "modelId": "TheBloke/tulu-2-70B-GPTQ"
   },
@@ -58702,9 +58714,86 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:HuggingFaceH4/ultrafeedback_binarized",
+      "dataset:allenai/tulu-v2-sft-mixture",
+      "arxiv:2305.18290",
+      "arxiv:2311.10702",
+      "base_model:allenai/tulu-2-dpo-70b",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "createdAt": "2023-11-24T09:41:49.000Z",
     "modelId": "TheBloke/tulu-2-dpo-70B-GGUF"
+  },
+  {
+    "_id": "65607e404a5a63bc00c165b9",
+    "id": "TheBloke/tulu-2-dpo-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "llama",
+      "en",
+      "dataset:HuggingFaceH4/ultrafeedback_binarized",
+      "dataset:allenai/tulu-v2-sft-mixture",
+      "arxiv:2305.18290",
+      "arxiv:2311.10702",
+      "base_model:allenai/tulu-2-dpo-7b",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-24T10:43:12.000Z",
+    "modelId": "TheBloke/tulu-2-dpo-7B-GGUF"
+  },
+  {
+    "_id": "656080d302cd2801a14ce37c",
+    "id": "TheBloke/tulu-2-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-24T10:54:11.000Z",
+    "modelId": "TheBloke/tulu-2-7B-GPTQ"
+  },
+  {
+    "_id": "656080d3dd4d448b8e5e2be5",
+    "id": "TheBloke/tulu-2-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-24T10:54:11.000Z",
+    "modelId": "TheBloke/tulu-2-7B-AWQ"
+  },
+  {
+    "_id": "656080d3f16cd3bf8ffca456",
+    "id": "TheBloke/tulu-2-7B-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "llama",
+      "en",
+      "dataset:allenai/tulu-v2-sft-mixture",
+      "arxiv:2311.10702",
+      "base_model:allenai/tulu-2-7b",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-24T10:54:11.000Z",
+    "modelId": "TheBloke/tulu-2-7B-GGUF"
   }
 ]
