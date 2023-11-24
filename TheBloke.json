@@ -36483,7 +36483,7 @@
   {
     "_id": "6513ea60584d106e62968bf3",
     "id": "TheBloke/law-LLM-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -59862,8 +59862,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "text-generation-inference",
+      "instruct",
+      "en",
+      "base_model:tavtav/Rose-20B",
+      "license:llama2",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-24T20:34:27.000Z",
     "modelId": "TheBloke/Rose-20B-GPTQ"
   },
@@ -59889,5 +59900,17 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-24T20:34:27.000Z",
     "modelId": "TheBloke/Rose-20B-AWQ"
+  },
+  {
+    "_id": "65611be7ad639c6ab98b3149",
+    "id": "TheBloke/X-MythoChronos-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-24T21:55:51.000Z",
+    "modelId": "TheBloke/X-MythoChronos-13B-GPTQ"
   }
 ]
