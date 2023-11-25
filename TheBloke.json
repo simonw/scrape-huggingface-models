@@ -49834,7 +49834,7 @@
   {
     "_id": "654418242996405c238f5eea",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
-    "likes": 86,
+    "likes": 87,
     "private": false,
     "downloads": 299,
     "tags": [
@@ -60095,8 +60095,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "ko",
+      "dataset:maywell/ko_wikidata_QA",
+      "dataset:kyujinpy/OpenOrca-KO",
+      "base_model:maywell/PiVoT-0.1-early",
+      "license:cc-by-sa-4.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-25T10:28:05.000Z",
     "modelId": "TheBloke/PiVoT-0.1-early-GPTQ"
   },
@@ -60131,9 +60144,59 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "ko",
+      "dataset:maywell/ko_wikidata_QA",
+      "dataset:kyujinpy/OpenOrca-KO",
+      "base_model:maywell/PiVoT-0.1-early",
+      "license:cc-by-sa-4.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-25T10:28:05.000Z",
     "modelId": "TheBloke/PiVoT-0.1-early-AWQ"
+  },
+  {
+    "_id": "6561d39a6573ea07083276a8",
+    "id": "TheBloke/Tess-M-v1.3-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-25T10:59:38.000Z",
+    "modelId": "TheBloke/Tess-M-v1.3-AWQ"
+  },
+  {
+    "_id": "6561d39a84a9fbe322c59664",
+    "id": "TheBloke/Tess-M-v1.3-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-25T10:59:38.000Z",
+    "modelId": "TheBloke/Tess-M-v1.3-GPTQ"
+  },
+  {
+    "_id": "6561d39aab484c4a3a2b3e43",
+    "id": "TheBloke/Tess-M-v1.3-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2023-11-25T10:59:38.000Z",
+    "modelId": "TheBloke/Tess-M-v1.3-GGUF"
   }
 ]
