@@ -18936,7 +18936,7 @@
   {
     "_id": "64f0787ba20e6096c6ab97f9",
     "id": "TheBloke/MythoMax-L2-Kimiko-v2-13B-GPTQ",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 291,
     "tags": [
@@ -20324,7 +20324,7 @@
   {
     "_id": "64f69c38c3bdaab6f58e2b8c",
     "id": "TheBloke/MythoMax-L2-13B-GGUF",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 121,
     "tags": [
@@ -59999,8 +59999,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "alignment-handbook",
+      "generated_from_trainer",
+      "dataset:HuggingFaceH4/ultrafeedback_binarized",
+      "base_model:fblgit/juanako-7b-v1",
+      "license:artistic-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-25T01:29:52.000Z",
     "modelId": "TheBloke/juanako-7B-v1-GPTQ"
   }
