@@ -2186,7 +2186,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 429,
+    "likes": 430,
     "private": false,
     "downloads": 15291,
     "tags": [
@@ -31810,7 +31810,7 @@
   {
     "_id": "650a288fce81b73e637e3216",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GGUF",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 30,
     "tags": [
@@ -36464,7 +36464,7 @@
   {
     "_id": "6511ae8b5b4590211de0a25a",
     "id": "TheBloke/vicuna-33B-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -59946,5 +59946,62 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-24T22:42:42.000Z",
     "modelId": "TheBloke/smartyplats-7B-v2-GPTQ"
+  },
+  {
+    "_id": "65614e10abefee6a6bd0d09b",
+    "id": "TheBloke/juanako-7B-v1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "alignment-handbook",
+      "generated_from_trainer",
+      "dataset:HuggingFaceH4/ultrafeedback_binarized",
+      "base_model:fblgit/juanako-7b-v1",
+      "license:artistic-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-25T01:29:52.000Z",
+    "modelId": "TheBloke/juanako-7B-v1-GGUF"
+  },
+  {
+    "_id": "65614e10abefee6a6bd0d09d",
+    "id": "TheBloke/juanako-7B-v1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "alignment-handbook",
+      "generated_from_trainer",
+      "dataset:HuggingFaceH4/ultrafeedback_binarized",
+      "base_model:fblgit/juanako-7b-v1",
+      "license:artistic-2.0",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-25T01:29:52.000Z",
+    "modelId": "TheBloke/juanako-7B-v1-AWQ"
+  },
+  {
+    "_id": "65614e10ed2bca599e8da1c5",
+    "id": "TheBloke/juanako-7B-v1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-25T01:29:52.000Z",
+    "modelId": "TheBloke/juanako-7B-v1-GPTQ"
   }
 ]
