@@ -9901,7 +9901,7 @@
   {
     "_id": "64b6c934d16e94539900ca73",
     "id": "TheBloke/Llama-2-13B-GGML",
-    "likes": 166,
+    "likes": 167,
     "private": false,
     "downloads": 173,
     "tags": [
@@ -43437,7 +43437,7 @@
   {
     "_id": "652bd2cfc543a08aa90d41a2",
     "id": "TheBloke/llava-v1.5-13B-AWQ",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 3858,
     "tags": [
@@ -60087,5 +60087,53 @@
     ],
     "createdAt": "2023-11-25T09:38:19.000Z",
     "modelId": "TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF"
+  },
+  {
+    "_id": "6561cc355b395bcbf17a3f45",
+    "id": "TheBloke/PiVoT-0.1-early-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-25T10:28:05.000Z",
+    "modelId": "TheBloke/PiVoT-0.1-early-GPTQ"
+  },
+  {
+    "_id": "6561cc35771319d93bad815d",
+    "id": "TheBloke/PiVoT-0.1-early-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "text-generation",
+      "en",
+      "ko",
+      "dataset:maywell/ko_wikidata_QA",
+      "dataset:kyujinpy/OpenOrca-KO",
+      "base_model:maywell/PiVoT-0.1-early",
+      "license:cc-by-sa-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-25T10:28:05.000Z",
+    "modelId": "TheBloke/PiVoT-0.1-early-GGUF"
+  },
+  {
+    "_id": "6561cc35b9218ed1a75d9a7d",
+    "id": "TheBloke/PiVoT-0.1-early-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-25T10:28:05.000Z",
+    "modelId": "TheBloke/PiVoT-0.1-early-AWQ"
   }
 ]
