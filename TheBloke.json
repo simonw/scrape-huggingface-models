@@ -32691,7 +32691,8 @@
       "base_model:WizardLM/WizardLM-13B-V1.1",
       "license:other",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "createdAt": "2023-09-20T00:48:08.000Z",
     "modelId": "TheBloke/WizardLM-13B-V1.1-GGUF"
@@ -36825,7 +36826,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 293,
+    "likes": 294,
     "private": false,
     "downloads": 4282,
     "tags": [
@@ -41115,7 +41116,7 @@
   {
     "_id": "652653590aaab896facf71a0",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GGUF",
-    "likes": 90,
+    "likes": 91,
     "private": false,
     "downloads": 313,
     "tags": [
@@ -46817,7 +46818,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 155,
+    "likes": 156,
     "private": false,
     "downloads": 1668,
     "tags": [
@@ -49832,7 +49833,7 @@
   {
     "_id": "654418242996405c238f5eea",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
-    "likes": 80,
+    "likes": 81,
     "private": false,
     "downloads": 299,
     "tags": [
@@ -54406,7 +54407,7 @@
   {
     "_id": "65550b8fd5a72476aed640ab",
     "id": "TheBloke/neural-chat-7B-v3-1-GGUF",
-    "likes": 27,
+    "likes": 28,
     "private": false,
     "downloads": 81,
     "tags": [
@@ -57391,7 +57392,7 @@
   {
     "_id": "655c6a0c76e4fad552c77585",
     "id": "TheBloke/Orca-2-13B-GGUF",
-    "likes": 25,
+    "likes": 26,
     "private": false,
     "downloads": 35,
     "tags": [
