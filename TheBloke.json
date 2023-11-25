@@ -36956,7 +36956,7 @@
   {
     "_id": "65148287463c4fd767f76cb6",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
-    "likes": 26,
+    "likes": 27,
     "private": false,
     "downloads": 4859,
     "tags": [
@@ -54408,7 +54408,7 @@
   {
     "_id": "65550b8fd5a72476aed640ab",
     "id": "TheBloke/neural-chat-7B-v3-1-GGUF",
-    "likes": 29,
+    "likes": 30,
     "private": false,
     "downloads": 87,
     "tags": [
@@ -60286,5 +60286,49 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-25T17:05:21.000Z",
     "modelId": "TheBloke/MysticFusion-13B-GGUF"
+  },
+  {
+    "_id": "656255e2620c177ae08dc668",
+    "id": "TheBloke/Capybara-Tess-Yi-34B-200K-DARE-Ties-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "yi",
+      "text-generation",
+      "en",
+      "base_model:brucethemoose/Capybara-Tess-Yi-34B-200K-DARE-Ties",
+      "license:other",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-25T20:15:30.000Z",
+    "modelId": "TheBloke/Capybara-Tess-Yi-34B-200K-DARE-Ties-GGUF"
+  },
+  {
+    "_id": "656255e27061c2cbdaff08c1",
+    "id": "TheBloke/Capybara-Tess-Yi-34B-200K-DARE-Ties-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-25T20:15:30.000Z",
+    "modelId": "TheBloke/Capybara-Tess-Yi-34B-200K-DARE-Ties-AWQ"
+  },
+  {
+    "_id": "656255e2b2764ca06f149a91",
+    "id": "TheBloke/Capybara-Tess-Yi-34B-200K-DARE-Ties-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-25T20:15:30.000Z",
+    "modelId": "TheBloke/Capybara-Tess-Yi-34B-200K-DARE-Ties-GPTQ"
   }
 ]
