@@ -60015,5 +60015,77 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-25T01:29:52.000Z",
     "modelId": "TheBloke/juanako-7B-v1-GPTQ"
+  },
+  {
+    "_id": "6561c08b6573ea07082fca81",
+    "id": "TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "llm",
+      "llama",
+      "spellcheck",
+      "grammar",
+      "base_model:FPHam/Karen_TheEditor_V2_CREATIVE_Mistral_7B",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-25T09:38:19.000Z",
+    "modelId": "TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GPTQ"
+  },
+  {
+    "_id": "6561c08ba72f05d2ea885851",
+    "id": "TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "llm",
+      "llama",
+      "spellcheck",
+      "grammar",
+      "base_model:FPHam/Karen_TheEditor_V2_CREATIVE_Mistral_7B",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-25T09:38:19.000Z",
+    "modelId": "TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-AWQ"
+  },
+  {
+    "_id": "6561c08bb09c0b9eceb9683c",
+    "id": "TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "llm",
+      "llama",
+      "spellcheck",
+      "grammar",
+      "base_model:FPHam/Karen_TheEditor_V2_CREATIVE_Mistral_7B",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-25T09:38:19.000Z",
+    "modelId": "TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF"
   }
 ]
