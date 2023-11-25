@@ -9819,7 +9819,7 @@
   {
     "_id": "64b6c6798f63c1ad2b13762a",
     "id": "TheBloke/Llama-2-7B-GGML",
-    "likes": 203,
+    "likes": 204,
     "private": false,
     "downloads": 915,
     "tags": [
@@ -60193,7 +60193,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "llama",
+      "base_model:migtissera/Tess-M-v1.3",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "createdAt": "2023-11-25T10:59:38.000Z",
