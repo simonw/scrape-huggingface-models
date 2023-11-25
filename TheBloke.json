@@ -33982,7 +33982,8 @@
       "base_model:Monero/WizardLM-Uncensored-SuperCOT-StoryTelling-30b",
       "license:other",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "createdAt": "2023-09-20T02:30:06.000Z",
     "modelId": "TheBloke/WizardLM-Uncensored-SuperCOT-StoryTelling-30B-GGUF"
@@ -43469,7 +43470,8 @@
       "license:llama2",
       "text-generation-inference",
       "4-bit",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "createdAt": "2023-10-15T11:54:33.000Z",
@@ -46398,7 +46400,7 @@
   {
     "_id": "6537e7379bcf319f5ab6dde1",
     "id": "TheBloke/HornyEchidna-13B-v0.1-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 46,
     "tags": [
@@ -49832,7 +49834,7 @@
   {
     "_id": "654418242996405c238f5eea",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
-    "likes": 81,
+    "likes": 82,
     "private": false,
     "downloads": 299,
     "tags": [
@@ -57391,7 +57393,7 @@
   {
     "_id": "655c6a0c76e4fad552c77585",
     "id": "TheBloke/Orca-2-13B-GGUF",
-    "likes": 26,
+    "likes": 27,
     "private": false,
     "downloads": 35,
     "tags": [
@@ -59525,7 +59527,7 @@
   {
     "_id": "656099f7620c177ae04d1f03",
     "id": "TheBloke/tulu-2-dpo-70B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
