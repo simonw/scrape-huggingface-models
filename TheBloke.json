@@ -53476,8 +53476,7 @@
       "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
       "base_model:ehartford/dolphin-2_2-yi-34b",
       "license:other",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "createdAt": "2023-11-13T20:01:36.000Z",
     "modelId": "TheBloke/dolphin-2_2-yi-34b-GGUF"
@@ -53511,7 +53510,7 @@
   {
     "_id": "6552971bcbfd4fca8dd5b191",
     "id": "TheBloke/dolphin-2_2-yi-34b-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 277,
     "tags": [
@@ -54494,7 +54493,7 @@
   {
     "_id": "65553deddcf410fd073208e8",
     "id": "TheBloke/sqlcoder-7B-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 28,
     "tags": [
@@ -60209,7 +60208,7 @@
   {
     "_id": "6561d39aab484c4a3a2b3e43",
     "id": "TheBloke/Tess-M-v1.3-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -60249,7 +60248,7 @@
   {
     "_id": "656229512ac8d0ceac17612b",
     "id": "TheBloke/MysticFusion-13B-GPTQ",
-    "likes": 0,
+    "likes": 2,
     "private": false,
     "downloads": 10,
     "tags": [
