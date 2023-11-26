@@ -48949,7 +48949,7 @@
   {
     "_id": "65403e73ce1bab5053779897",
     "id": "TheBloke/dolphin-2.2.1-mistral-7B-AWQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 1857,
     "tags": [
@@ -57947,7 +57947,8 @@
       "arxiv:2305.06161",
       "base_model:pansophic/rocket-3B",
       "license:cc-by-sa-4.0",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "createdAt": "2023-11-22T18:46:22.000Z",
     "modelId": "TheBloke/rocket-3B-GGUF"
