@@ -647,7 +647,7 @@
   {
     "_id": "6454b656d55525a4feddd5e3",
     "id": "TheBloke/WizardLM-7B-uncensored-GGML",
-    "likes": 114,
+    "likes": 115,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -57674,7 +57674,8 @@
       "base_model:gorilla-llm/gorilla-openfunctions-v1",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "createdAt": "2023-11-21T18:24:37.000Z",
     "modelId": "TheBloke/gorilla-openfunctions-v1-GGUF"
@@ -57933,7 +57934,7 @@
   {
     "_id": "655e4c7ea3e811457667b53f",
     "id": "TheBloke/rocket-3B-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 17,
     "tags": [
