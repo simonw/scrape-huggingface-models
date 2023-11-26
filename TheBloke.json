@@ -50246,7 +50246,7 @@
   {
     "_id": "6546bfe04d1931dc93eacb63",
     "id": "TheBloke/deepseek-coder-33B-instruct-GGUF",
-    "likes": 66,
+    "likes": 67,
     "private": false,
     "downloads": 49,
     "tags": [
@@ -60336,8 +60336,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "base_model:brucethemoose/Capybara-Tess-Yi-34B-200K-DARE-Ties",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-25T20:15:30.000Z",
     "modelId": "TheBloke/Capybara-Tess-Yi-34B-200K-DARE-Ties-GPTQ"
   }
