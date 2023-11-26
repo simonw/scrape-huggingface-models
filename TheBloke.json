@@ -21969,7 +21969,7 @@
   {
     "_id": "64f7a58cbcf14b0c915ad636",
     "id": "TheBloke/Mythalion-13B-GGUF",
-    "likes": 47,
+    "likes": 48,
     "private": false,
     "downloads": 145,
     "tags": [
@@ -40873,7 +40873,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 132,
+    "likes": 133,
     "private": false,
     "downloads": 648,
     "tags": [
@@ -48926,7 +48926,7 @@
   {
     "_id": "65403e7339948eb634bfcdff",
     "id": "TheBloke/dolphin-2.2.1-mistral-7B-GGUF",
-    "likes": 75,
+    "likes": 76,
     "private": false,
     "downloads": 242,
     "tags": [
@@ -51170,7 +51170,7 @@
   {
     "_id": "6548fe27c6cd77f0a7cc1dc0",
     "id": "TheBloke/openbuddy-zephyr-7B-v14.1-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 40,
     "tags": [
@@ -53476,7 +53476,8 @@
       "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
       "base_model:ehartford/dolphin-2_2-yi-34b",
       "license:other",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "createdAt": "2023-11-13T20:01:36.000Z",
     "modelId": "TheBloke/dolphin-2_2-yi-34b-GGUF"
@@ -54285,7 +54286,7 @@
   {
     "_id": "65549fe943cc10c9d0a3584a",
     "id": "TheBloke/zephyr-7B-beta-pl-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 35,
     "tags": [
