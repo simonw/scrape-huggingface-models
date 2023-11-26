@@ -38873,7 +38873,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 181,
+    "likes": 182,
     "private": false,
     "downloads": 875,
     "tags": [
@@ -52073,7 +52073,7 @@
   {
     "_id": "654cd5c878c68b6d4c71df7c",
     "id": "TheBloke/goliath-120b-GGUF",
-    "likes": 61,
+    "likes": 62,
     "private": false,
     "downloads": 1152,
     "tags": [
@@ -57717,6 +57717,7 @@
       "dataset:monology/VMware-open-instruct-higgsfield",
       "base_model:monology/openinstruct-mistral-7b",
       "license:apache-2.0",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -60351,5 +60352,70 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-25T20:15:30.000Z",
     "modelId": "TheBloke/Capybara-Tess-Yi-34B-200K-DARE-Ties-GPTQ"
+  },
+  {
+    "_id": "6563bce17a465cdcb39a3f5c",
+    "id": "TheBloke/PiVoT-0.1-Evil-a-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "not-for-all-audiences",
+      "text-generation",
+      "en",
+      "ko",
+      "dataset:maywell/ko_wikidata_QA",
+      "dataset:kyujinpy/OpenOrca-KO",
+      "dataset:Anthropic/hh-rlhf",
+      "base_model:maywell/PiVoT-0.1-Evil-a",
+      "license:cc-by-sa-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-26T21:47:13.000Z",
+    "modelId": "TheBloke/PiVoT-0.1-Evil-a-GGUF"
+  },
+  {
+    "_id": "6563bce1a72f05d2ead5158d",
+    "id": "TheBloke/PiVoT-0.1-Evil-a-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-26T21:47:13.000Z",
+    "modelId": "TheBloke/PiVoT-0.1-Evil-a-GPTQ"
+  },
+  {
+    "_id": "6563bce1b9218ed1a7a64a9c",
+    "id": "TheBloke/PiVoT-0.1-Evil-a-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "not-for-all-audiences",
+      "en",
+      "ko",
+      "dataset:maywell/ko_wikidata_QA",
+      "dataset:kyujinpy/OpenOrca-KO",
+      "dataset:Anthropic/hh-rlhf",
+      "base_model:maywell/PiVoT-0.1-Evil-a",
+      "license:cc-by-sa-4.0",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-26T21:47:13.000Z",
+    "modelId": "TheBloke/PiVoT-0.1-Evil-a-AWQ"
   }
 ]
