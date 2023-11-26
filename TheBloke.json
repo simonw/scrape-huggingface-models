@@ -49833,7 +49833,7 @@
   {
     "_id": "654418242996405c238f5eea",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
-    "likes": 93,
+    "likes": 94,
     "private": false,
     "downloads": 335,
     "tags": [
@@ -50657,7 +50657,7 @@
   {
     "_id": "65479e527e0f913218398d65",
     "id": "TheBloke/deepseek-coder-5.7bmqa-base-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -60459,8 +60459,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "base_model:Gryphe/MergeMonster-13b-20231124",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-26T22:16:58.000Z",
     "modelId": "TheBloke/MergeMonster-13B-20231124-GPTQ"
   },
@@ -60471,8 +60481,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "base_model:Gryphe/MergeMonster-13b-20231124",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-26T22:16:58.000Z",
     "modelId": "TheBloke/MergeMonster-13B-20231124-AWQ"
   }
