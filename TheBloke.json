@@ -24001,7 +24001,6 @@
       "dataset:BramVanroy/dutch_chat_datasets",
       "base_model:BramVanroy/Llama-2-13b-chat-dutch",
       "license:cc-by-nc-sa-4.0",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -36744,7 +36743,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 161,
+    "likes": 162,
     "private": false,
     "downloads": 1428,
     "tags": [
@@ -36826,7 +36825,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 296,
+    "likes": 297,
     "private": false,
     "downloads": 4015,
     "tags": [
@@ -38874,7 +38873,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 180,
+    "likes": 181,
     "private": false,
     "downloads": 1111,
     "tags": [
@@ -49063,7 +49062,7 @@
   {
     "_id": "65411a9aa369c0007508ce7b",
     "id": "TheBloke/MetaMath-Mistral-7B-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 44,
     "tags": [
@@ -56152,7 +56151,7 @@
   {
     "_id": "6559f29be87d5297752c37e4",
     "id": "TheBloke/Capybara-Tess-Yi-34B-200K-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 19,
     "tags": [
