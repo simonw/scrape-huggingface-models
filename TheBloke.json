@@ -931,7 +931,7 @@
   {
     "_id": "645f47b66990e1208522b794",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GGML",
-    "likes": 187,
+    "likes": 188,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -7444,7 +7444,7 @@
   {
     "_id": "649e5b15f140a4e8b567200b",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-SuperHOT-8K-GGML",
-    "likes": 60,
+    "likes": 61,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -23251,7 +23251,7 @@
   {
     "_id": "64fb90af52992431a6eeec23",
     "id": "TheBloke/Spicyboros-7B-2.2-GGUF",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -60741,7 +60741,13 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "llama",
+      "en",
+      "base_model:Sao10K/Solus-103B-L2",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
     "createdAt": "2023-11-27T19:51:15.000Z",
@@ -60762,7 +60768,7 @@
   {
     "_id": "6564fbee18d648e7cca1d112",
     "id": "TheBloke/Starling-LM-7B-alpha-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
