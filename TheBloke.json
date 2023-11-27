@@ -60527,8 +60527,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:sequelbox/SunsetBoulevard",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-26T23:40:18.000Z",
     "modelId": "TheBloke/SunsetBoulevard-AWQ"
   }
