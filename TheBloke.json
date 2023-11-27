@@ -52073,7 +52073,7 @@
   {
     "_id": "654cd5c878c68b6d4c71df7c",
     "id": "TheBloke/goliath-120b-GGUF",
-    "likes": 62,
+    "likes": 63,
     "private": false,
     "downloads": 1152,
     "tags": [
@@ -54407,7 +54407,7 @@
   {
     "_id": "65550b8fd5a72476aed640ab",
     "id": "TheBloke/neural-chat-7B-v3-1-GGUF",
-    "likes": 32,
+    "likes": 33,
     "private": false,
     "downloads": 94,
     "tags": [
@@ -60503,8 +60503,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:sequelbox/SunsetBoulevard",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-26T23:40:18.000Z",
     "modelId": "TheBloke/SunsetBoulevard-GPTQ"
   },
