@@ -29360,7 +29360,7 @@
   {
     "_id": "65097326cc02352e1e141e09",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-AWQ",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 1507,
     "tags": [
@@ -45887,7 +45887,7 @@
   {
     "_id": "6534e9dfc7530aa27fbaa288",
     "id": "TheBloke/LLaMA2-13B-Tiefighter-AWQ",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 9750,
     "tags": [
@@ -46873,7 +46873,7 @@
   {
     "_id": "653bb81bea8b6b5fe3a67097",
     "id": "TheBloke/zephyr-7B-beta-AWQ",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 13967,
     "tags": [
@@ -48928,7 +48928,7 @@
   {
     "_id": "65403e7339948eb634bfcdff",
     "id": "TheBloke/dolphin-2.2.1-mistral-7B-GGUF",
-    "likes": 76,
+    "likes": 77,
     "private": false,
     "downloads": 249,
     "tags": [
@@ -50163,7 +50163,7 @@
   {
     "_id": "6546a6d65cd5692b3ab16e09",
     "id": "TheBloke/Yi-34B-GGUF",
-    "likes": 60,
+    "likes": 61,
     "private": false,
     "downloads": 153,
     "tags": [
@@ -60790,9 +60790,64 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "reward model",
+      "RLHF",
+      "RLAIF",
+      "en",
+      "dataset:berkeley-nest/Nectar",
+      "arxiv:2306.02231",
+      "base_model:berkeley-nest/Starling-LM-7B-alpha",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-27T20:28:30.000Z",
     "modelId": "TheBloke/Starling-LM-7B-alpha-AWQ"
+  },
+  {
+    "_id": "6565012075968d50ccfe168e",
+    "id": "TheBloke/evolvedSeeker_1_3-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "deepseek",
+      "generated_from_trainer",
+      "base_model:TokenBender/evolvedSeeker_1_3",
+      "model-index",
+      "region:us"
+    ],
+    "createdAt": "2023-11-27T20:50:40.000Z",
+    "modelId": "TheBloke/evolvedSeeker_1_3-GGUF"
+  },
+  {
+    "_id": "65650120830047286c5adb24",
+    "id": "TheBloke/evolvedSeeker_1_3-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "generated_from_trainer",
+      "base_model:TokenBender/evolvedSeeker_1_3",
+      "model-index",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-27T20:50:40.000Z",
+    "modelId": "TheBloke/evolvedSeeker_1_3-AWQ"
   }
 ]
