@@ -20149,7 +20149,7 @@
   {
     "_id": "64f614a19c2aeb2a3dea1312",
     "id": "TheBloke/Llama-2-13B-GGUF",
-    "likes": 32,
+    "likes": 33,
     "private": false,
     "downloads": 387,
     "tags": [
@@ -60358,7 +60358,7 @@
   {
     "_id": "6563bce17a465cdcb39a3f5c",
     "id": "TheBloke/PiVoT-0.1-Evil-a-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -60438,7 +60438,7 @@
   {
     "_id": "6563c3da5475849b82df85a1",
     "id": "TheBloke/MergeMonster-13B-20231124-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -60603,7 +60603,7 @@
   {
     "_id": "6564a8f1ea82965f35948189",
     "id": "TheBloke/OpenHermes-2.5-neural-chat-7B-v3-1-7B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -60670,7 +60670,9 @@
       "safetensors",
       "llama",
       "text-generation",
-      "endpoints_compatible",
+      "en",
+      "base_model:Sao10K/Lila-70B-L2",
+      "license:cc-by-nc-4.0",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -60744,5 +60746,53 @@
     ],
     "createdAt": "2023-11-27T19:51:15.000Z",
     "modelId": "TheBloke/Solus-103B-L2-GGUF"
+  },
+  {
+    "_id": "6564f8cf40440ddcc0349078",
+    "id": "TheBloke/Lila-103B-L2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-27T20:15:11.000Z",
+    "modelId": "TheBloke/Lila-103B-L2-GPTQ"
+  },
+  {
+    "_id": "6564fbee18d648e7cca1d112",
+    "id": "TheBloke/Starling-LM-7B-alpha-GGUF",
+    "likes": 2,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "reward model",
+      "RLHF",
+      "RLAIF",
+      "en",
+      "dataset:berkeley-nest/Nectar",
+      "arxiv:2306.02231",
+      "base_model:berkeley-nest/Starling-LM-7B-alpha",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-27T20:28:30.000Z",
+    "modelId": "TheBloke/Starling-LM-7B-alpha-GGUF"
+  },
+  {
+    "_id": "6564fbeeac2c4c576be72345",
+    "id": "TheBloke/Starling-LM-7B-alpha-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-27T20:28:30.000Z",
+    "modelId": "TheBloke/Starling-LM-7B-alpha-AWQ"
   }
 ]
