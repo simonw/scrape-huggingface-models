@@ -60526,7 +60526,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "llama",
+      "base_model:sequelbox/SunsetBoulevard",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "createdAt": "2023-11-26T23:40:18.000Z",
