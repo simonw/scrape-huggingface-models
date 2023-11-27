@@ -3400,7 +3400,7 @@
   {
     "_id": "6482399d85ce4d2973ba5e93",
     "id": "TheBloke/starcoderplus-GPTQ",
-    "likes": 23,
+    "likes": 24,
     "private": false,
     "downloads": 301,
     "tags": [
@@ -45200,7 +45200,7 @@
   {
     "_id": "65315c50e810c9214031a121",
     "id": "TheBloke/Airoboros-M-7B-3.1.2-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 28,
     "tags": [
@@ -53599,7 +53599,7 @@
   {
     "_id": "6552b0e5e6314399631da61c",
     "id": "TheBloke/Synatra-7B-v0.3-RP-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 18,
     "tags": [
@@ -54409,7 +54409,7 @@
   {
     "_id": "65550b8fd5a72476aed640ab",
     "id": "TheBloke/neural-chat-7B-v3-1-GGUF",
-    "likes": 34,
+    "likes": 35,
     "private": false,
     "downloads": 115,
     "tags": [
@@ -57394,7 +57394,7 @@
   {
     "_id": "655c6a0c76e4fad552c77585",
     "id": "TheBloke/Orca-2-13B-GGUF",
-    "likes": 38,
+    "likes": 39,
     "private": false,
     "downloads": 87,
     "tags": [
@@ -59583,7 +59583,7 @@
   {
     "_id": "6560b6612324e4d25c891fb3",
     "id": "TheBloke/X-MythoChronos-13B-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 15,
     "tags": [
@@ -60603,7 +60603,7 @@
   {
     "_id": "6564a8f1ea82965f35948189",
     "id": "TheBloke/OpenHermes-2.5-neural-chat-7B-v3-1-7B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -60666,8 +60666,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "endpoints_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-27T15:17:19.000Z",
     "modelId": "TheBloke/Lila-70B-L2-GPTQ"
   },
@@ -60678,8 +60686,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "base_model:Sao10K/Lila-103B-L2",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-27T16:12:11.000Z",
     "modelId": "TheBloke/Lila-103B-L2-AWQ"
   },
@@ -60701,5 +60719,30 @@
     ],
     "createdAt": "2023-11-27T16:12:11.000Z",
     "modelId": "TheBloke/Lila-103B-L2-GGUF"
+  },
+  {
+    "_id": "6564f333e67d21ed948ff33a",
+    "id": "TheBloke/Solus-103B-L2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-27T19:51:15.000Z",
+    "modelId": "TheBloke/Solus-103B-L2-AWQ"
+  },
+  {
+    "_id": "6564f333e67d21ed948ff33b",
+    "id": "TheBloke/Solus-103B-L2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2023-11-27T19:51:15.000Z",
+    "modelId": "TheBloke/Solus-103B-L2-GGUF"
   }
 ]
