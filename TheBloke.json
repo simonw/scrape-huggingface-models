@@ -2186,7 +2186,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 435,
+    "likes": 434,
     "private": false,
     "downloads": 15188,
     "tags": [
@@ -32689,6 +32689,7 @@
       "arxiv:2308.09583",
       "base_model:WizardLM/WizardLM-13B-V1.1",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -33980,9 +33981,9 @@
       "llama",
       "base_model:Monero/WizardLM-Uncensored-SuperCOT-StoryTelling-30b",
       "license:other",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "createdAt": "2023-09-20T02:30:06.000Z",
     "modelId": "TheBloke/WizardLM-Uncensored-SuperCOT-StoryTelling-30B-GGUF"
@@ -36167,6 +36168,7 @@
       "arxiv:2306.02707",
       "base_model:migtissera/Synthia-13B-v1.2",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -43467,10 +43469,10 @@
       "text-generation",
       "base_model:liuhaotian/llava-v1.5-13b",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "4-bit",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "createdAt": "2023-10-15T11:54:33.000Z",
@@ -46859,6 +46861,7 @@
       "arxiv:2310.16944",
       "base_model:HuggingFaceH4/zephyr-7b-beta",
       "license:mit",
+      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -57671,9 +57674,9 @@
       "llama",
       "base_model:gorilla-llm/gorilla-openfunctions-v1",
       "license:apache-2.0",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "createdAt": "2023-11-21T18:24:37.000Z",
     "modelId": "TheBloke/gorilla-openfunctions-v1-GGUF"
@@ -57946,8 +57949,8 @@
       "arxiv:2305.06161",
       "base_model:pansophic/rocket-3B",
       "license:cc-by-sa-4.0",
-      "region:us",
-      "has_space"
+      "has_space",
+      "region:us"
     ],
     "createdAt": "2023-11-22T18:46:22.000Z",
     "modelId": "TheBloke/rocket-3B-GGUF"
@@ -60523,6 +60526,7 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "gguf",
       "region:us"
     ],
     "createdAt": "2023-11-26T23:40:18.000Z",
