@@ -60211,7 +60211,7 @@
   {
     "_id": "6561d39aab484c4a3a2b3e43",
     "id": "TheBloke/Tess-M-v1.3-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -60914,8 +60914,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "base_model:Sao10K/Stheno-v2-Delta-fp16",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-28T02:55:33.000Z",
     "modelId": "TheBloke/Stheno-v2-Delta-AWQ"
   },
