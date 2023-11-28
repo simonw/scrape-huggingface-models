@@ -603,7 +603,7 @@
     "id": "TheBloke/wizard-vicuna-13B-GPTQ",
     "likes": 100,
     "private": false,
-    "downloads": 4751,
+    "downloads": 4647,
     "tags": [
       "transformers",
       "safetensors",
@@ -627,7 +627,7 @@
     "id": "TheBloke/wizard-vicuna-13B-HF",
     "likes": 48,
     "private": false,
-    "downloads": 4412,
+    "downloads": 4300,
     "tags": [
       "transformers",
       "pytorch",
@@ -663,7 +663,7 @@
     "id": "TheBloke/WizardLM-7B-uncensored-GPTQ",
     "likes": 162,
     "private": false,
-    "downloads": 7923,
+    "downloads": 7797,
     "tags": [
       "transformers",
       "safetensors",
@@ -687,7 +687,7 @@
     "id": "TheBloke/GPT4All-13B-snoozy-GPTQ",
     "likes": 29,
     "private": false,
-    "downloads": 65,
+    "downloads": 72,
     "tags": [
       "transformers",
       "safetensors",
@@ -768,7 +768,7 @@
     "id": "TheBloke/dromedary-65b-lora-HF",
     "likes": 20,
     "private": false,
-    "downloads": 4359,
+    "downloads": 4248,
     "tags": [
       "transformers",
       "pytorch",
@@ -847,7 +847,7 @@
     "id": "TheBloke/h2ogpt-oasst1-512-30B-HF",
     "likes": 2,
     "private": false,
-    "downloads": 4363,
+    "downloads": 4251,
     "tags": [
       "transformers",
       "pytorch",
@@ -886,7 +886,7 @@
     "id": "TheBloke/gpt4-alpaca-lora_mlp-65B-HF",
     "likes": 7,
     "private": false,
-    "downloads": 4573,
+    "downloads": 4462,
     "tags": [
       "transformers",
       "pytorch",
@@ -909,7 +909,7 @@
     "id": "TheBloke/gpt4-alpaca-lora_mlp-65B-GPTQ",
     "likes": 14,
     "private": false,
-    "downloads": 33,
+    "downloads": 35,
     "tags": [
       "transformers",
       "safetensors",
@@ -947,7 +947,7 @@
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
     "likes": 265,
     "private": false,
-    "downloads": 27028,
+    "downloads": 30211,
     "tags": [
       "transformers",
       "safetensors",
@@ -972,7 +972,7 @@
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-HF",
     "likes": 201,
     "private": false,
-    "downloads": 4661,
+    "downloads": 4535,
     "tags": [
       "transformers",
       "pytorch",
@@ -1018,7 +1018,7 @@
     "id": "TheBloke/wizard-mega-13B-GPTQ",
     "likes": 102,
     "private": false,
-    "downloads": 4727,
+    "downloads": 4604,
     "tags": [
       "transformers",
       "safetensors",
@@ -1093,7 +1093,7 @@
     "id": "TheBloke/VicUnlocked-30B-LoRA-HF",
     "likes": 1,
     "private": false,
-    "downloads": 4364,
+    "downloads": 4253,
     "tags": [
       "transformers",
       "pytorch",
@@ -1115,7 +1115,7 @@
     "id": "TheBloke/LLaMa-7B-GGML",
     "likes": 56,
     "private": false,
-    "downloads": 548,
+    "downloads": 545,
     "tags": [
       "transformers",
       "llama",
@@ -1164,7 +1164,7 @@
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ",
     "likes": 119,
     "private": false,
-    "downloads": 13003,
+    "downloads": 12904,
     "tags": [
       "transformers",
       "safetensors",
@@ -1203,7 +1203,7 @@
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-HF",
     "likes": 19,
     "private": false,
-    "downloads": 4922,
+    "downloads": 4812,
     "tags": [
       "transformers",
       "pytorch",
@@ -60987,8 +60987,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "base_model:Sao10K/Solus-70B-L2",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-28T10:12:43.000Z",
     "modelId": "TheBloke/Solus-70B-L2-GPTQ"
   },
@@ -61003,7 +61013,9 @@
       "safetensors",
       "llama",
       "text-generation",
-      "endpoints_compatible",
+      "en",
+      "base_model:brucethemoose/CapyTessBorosYi-34B-200K-DARE-Ties",
+      "license:other",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -61031,5 +61043,17 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-28T13:18:42.000Z",
     "modelId": "TheBloke/CapyTessBorosYi-34B-200K-DARE-Ties-GGUF"
+  },
+  {
+    "_id": "6565fea3b0e94dc742cfb7cc",
+    "id": "TheBloke/Stheno-v2-Delta-GPTQ",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-28T14:52:19.000Z",
+    "modelId": "TheBloke/Stheno-v2-Delta-GPTQ"
   }
 ]
