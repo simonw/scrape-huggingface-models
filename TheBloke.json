@@ -60788,7 +60788,7 @@
   {
     "_id": "6564fbee18d648e7cca1d112",
     "id": "TheBloke/Starling-LM-7B-alpha-GGUF",
-    "likes": 18,
+    "likes": 19,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -61483,5 +61483,18 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-28T22:50:49.000Z",
     "modelId": "TheBloke/SauerkrautLM-7B-HerO-AWQ"
+  },
+  {
+    "_id": "6566758a54c6bc01e535b503",
+    "id": "TheBloke/open-instruct-human-mix-65B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2023-11-28T23:19:38.000Z",
+    "modelId": "TheBloke/open-instruct-human-mix-65B-GGUF"
   }
 ]
