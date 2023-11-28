@@ -36935,7 +36935,7 @@
   {
     "_id": "65148276ac849a6655d267e9",
     "id": "TheBloke/Mistral-7B-v0.1-AWQ",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 1615,
     "tags": [
@@ -49666,7 +49666,7 @@
   {
     "_id": "6543cac6e9e8e72d2acd55c4",
     "id": "TheBloke/openchat_3.5-GGUF",
-    "likes": 93,
+    "likes": 94,
     "private": false,
     "downloads": 409,
     "tags": [
@@ -52075,7 +52075,7 @@
   {
     "_id": "654cd5c878c68b6d4c71df7c",
     "id": "TheBloke/goliath-120b-GGUF",
-    "likes": 66,
+    "likes": 67,
     "private": false,
     "downloads": 1292,
     "tags": [
@@ -54409,7 +54409,7 @@
   {
     "_id": "65550b8fd5a72476aed640ab",
     "id": "TheBloke/neural-chat-7B-v3-1-GGUF",
-    "likes": 36,
+    "likes": 37,
     "private": false,
     "downloads": 142,
     "tags": [
@@ -60788,7 +60788,7 @@
   {
     "_id": "6564fbee18d648e7cca1d112",
     "id": "TheBloke/Starling-LM-7B-alpha-GGUF",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -60804,7 +60804,8 @@
       "base_model:berkeley-nest/Starling-LM-7B-alpha",
       "license:cc-by-nc-4.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "createdAt": "2023-11-27T20:28:30.000Z",
     "modelId": "TheBloke/Starling-LM-7B-alpha-GGUF"
@@ -61398,7 +61399,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "mistral",
+      "base_model:S4sch/Open-Hermes-2.5-neural-chat-3.1-frankenmerge-11b",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
     "createdAt": "2023-11-28T22:05:13.000Z",
@@ -61411,8 +61417,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:S4sch/Open-Hermes-2.5-neural-chat-3.1-frankenmerge-11b",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-28T22:05:13.000Z",
     "modelId": "TheBloke/Open-Hermes-2.5-neural-chat-3.1-frankenmerge-11b-AWQ"
   }
