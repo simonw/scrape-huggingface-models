@@ -41117,7 +41117,7 @@
   {
     "_id": "652653590aaab896facf71a0",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GGUF",
-    "likes": 92,
+    "likes": 93,
     "private": false,
     "downloads": 278,
     "tags": [
@@ -53414,7 +53414,7 @@
   {
     "_id": "65526c844a5191e1f1a7f6f6",
     "id": "TheBloke/Nous-Capybara-34B-GPTQ",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 567,
     "tags": [
@@ -56527,7 +56527,7 @@
   {
     "_id": "655acc4f930a0e1b0ab062b7",
     "id": "TheBloke/mistral-7B-finetuned-orca-dpo-v2-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 95,
     "tags": [
@@ -60561,7 +60561,7 @@
   {
     "_id": "6564a8f03f025ef9f110ffe7",
     "id": "TheBloke/OpenHermes-2.5-neural-chat-7B-v3-1-7B-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -60729,8 +60729,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "base_model:Sao10K/Solus-103B-L2",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-27T19:51:15.000Z",
     "modelId": "TheBloke/Solus-103B-L2-AWQ"
   },
@@ -60768,7 +60778,7 @@
   {
     "_id": "6564fbee18d648e7cca1d112",
     "id": "TheBloke/Starling-LM-7B-alpha-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
