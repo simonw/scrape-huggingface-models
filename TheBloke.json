@@ -2186,7 +2186,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 436,
+    "likes": 437,
     "private": false,
     "downloads": 15005,
     "tags": [
@@ -46820,7 +46820,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 162,
+    "likes": 163,
     "private": false,
     "downloads": 1784,
     "tags": [
@@ -46845,7 +46845,7 @@
   {
     "_id": "653bb81b8502e1fd87503201",
     "id": "TheBloke/zephyr-7B-beta-GPTQ",
-    "likes": 42,
+    "likes": 41,
     "private": false,
     "downloads": 18313,
     "tags": [
@@ -60991,5 +60991,30 @@
     ],
     "createdAt": "2023-11-28T10:12:43.000Z",
     "modelId": "TheBloke/Solus-70B-L2-GPTQ"
+  },
+  {
+    "_id": "6565e8b242b1b11ecc79ea0d",
+    "id": "TheBloke/CapyTessBorosYi-34B-200K-DARE-Ties-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-28T13:18:42.000Z",
+    "modelId": "TheBloke/CapyTessBorosYi-34B-200K-DARE-Ties-AWQ"
+  },
+  {
+    "_id": "6565e8b2656151d58b21b224",
+    "id": "TheBloke/CapyTessBorosYi-34B-200K-DARE-Ties-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2023-11-28T13:18:42.000Z",
+    "modelId": "TheBloke/CapyTessBorosYi-34B-200K-DARE-Ties-GGUF"
   }
 ]
