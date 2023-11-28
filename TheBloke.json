@@ -2186,7 +2186,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 435,
+    "likes": 436,
     "private": false,
     "downloads": 15005,
     "tags": [
@@ -60865,5 +60865,30 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-27T20:50:40.000Z",
     "modelId": "TheBloke/evolvedSeeker_1_3-AWQ"
+  },
+  {
+    "_id": "656533e781fa36db359c9e61",
+    "id": "TheBloke/Solus-70B-L2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2023-11-28T00:27:19.000Z",
+    "modelId": "TheBloke/Solus-70B-L2-GGUF"
+  },
+  {
+    "_id": "656533e7995cc49553d962f8",
+    "id": "TheBloke/Solus-70B-L2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-28T00:27:19.000Z",
+    "modelId": "TheBloke/Solus-70B-L2-AWQ"
   }
 ]
