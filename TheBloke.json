@@ -46658,7 +46658,7 @@
   {
     "_id": "653980d40da86d726c8765e9",
     "id": "TheBloke/lzlv_70B-GGUF",
-    "likes": 17,
+    "likes": 16,
     "private": false,
     "downloads": 37,
     "tags": [
@@ -60770,6 +60770,9 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "en",
+      "base_model:Sao10K/Lila-103B-L2",
+      "license:cc-by-nc-4.0",
       "region:us"
     ],
     "createdAt": "2023-11-27T20:15:11.000Z",
@@ -60947,5 +60950,17 @@
     ],
     "createdAt": "2023-11-28T02:55:33.000Z",
     "modelId": "TheBloke/Stheno-v2-Delta-GGUF"
+  },
+  {
+    "_id": "65656159cfbe8a857066400f",
+    "id": "TheBloke/Solus-103B-L2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-28T03:41:13.000Z",
+    "modelId": "TheBloke/Solus-103B-L2-GPTQ"
   }
 ]
