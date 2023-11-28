@@ -381,7 +381,7 @@
     "id": "TheBloke/medalpaca-13B-GPTQ",
     "likes": 28,
     "private": false,
-    "downloads": 4823,
+    "downloads": 4711,
     "tags": [
       "transformers",
       "pytorch",
@@ -406,7 +406,7 @@
     "id": "TheBloke/wizardLM-7B-HF",
     "likes": 90,
     "private": false,
-    "downloads": 6543,
+    "downloads": 6500,
     "tags": [
       "transformers",
       "pytorch",
@@ -441,7 +441,7 @@
     "id": "TheBloke/wizardLM-7B-GPTQ",
     "likes": 104,
     "private": false,
-    "downloads": 575,
+    "downloads": 576,
     "tags": [
       "transformers",
       "safetensors",
@@ -462,7 +462,7 @@
     "id": "TheBloke/stable-vicuna-13B-HF",
     "likes": 96,
     "private": false,
-    "downloads": 5248,
+    "downloads": 5144,
     "tags": [
       "transformers",
       "pytorch",
@@ -531,7 +531,7 @@
     "id": "TheBloke/OpenAssistant-SFT-7-Llama-30B-HF",
     "likes": 14,
     "private": false,
-    "downloads": 4368,
+    "downloads": 4261,
     "tags": [
       "transformers",
       "pytorch",
@@ -52075,7 +52075,7 @@
   {
     "_id": "654cd5c878c68b6d4c71df7c",
     "id": "TheBloke/goliath-120b-GGUF",
-    "likes": 65,
+    "likes": 66,
     "private": false,
     "downloads": 1213,
     "tags": [
@@ -53599,7 +53599,7 @@
   {
     "_id": "6552b0e5e6314399631da61c",
     "id": "TheBloke/Synatra-7B-v0.3-RP-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 18,
     "tags": [
@@ -57493,7 +57493,7 @@
   {
     "_id": "655c6c23b9d6d283fbfd3359",
     "id": "TheBloke/Orca-2-7B-GGUF",
-    "likes": 31,
+    "likes": 32,
     "private": false,
     "downloads": 98,
     "tags": [
@@ -60999,8 +60999,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "endpoints_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-28T13:18:42.000Z",
     "modelId": "TheBloke/CapyTessBorosYi-34B-200K-DARE-Ties-AWQ"
   },
