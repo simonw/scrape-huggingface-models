@@ -60873,7 +60873,13 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "llama",
+      "en",
+      "base_model:Sao10K/Solus-70B-L2",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
     "createdAt": "2023-11-28T00:27:19.000Z",
