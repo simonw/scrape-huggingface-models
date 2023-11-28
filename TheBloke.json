@@ -17938,7 +17938,7 @@
   {
     "_id": "64eb8c012beaa8c4106ee91f",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GGUF",
-    "likes": 36,
+    "likes": 37,
     "private": false,
     "downloads": 154,
     "tags": [
@@ -20175,7 +20175,7 @@
   {
     "_id": "64f61985e916843d8ebc5db8",
     "id": "TheBloke/Llama-2-70B-Chat-GGUF",
-    "likes": 59,
+    "likes": 60,
     "private": false,
     "downloads": 332,
     "tags": [
@@ -55148,7 +55148,7 @@
   {
     "_id": "6556a032f551801d406c5362",
     "id": "TheBloke/platypus-yi-34b-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -59557,7 +59557,7 @@
   {
     "_id": "656099f778f6dd8d8357ad07",
     "id": "TheBloke/tulu-2-dpo-70B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 33,
     "tags": [
@@ -61139,7 +61139,7 @@
   {
     "_id": "65660c9a5ed6ca5f18c87f08",
     "id": "TheBloke/saiga_mistral_7b-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -61198,7 +61198,7 @@
   {
     "_id": "656614402146168ad7a09eed",
     "id": "TheBloke/Astrid-Mistral-7B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -61221,7 +61221,7 @@
   {
     "_id": "656614408556065b523b906c",
     "id": "TheBloke/Astrid-Mistral-7B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -61356,7 +61356,7 @@
   {
     "_id": "65664e2d66d5f87c62a54d96",
     "id": "TheBloke/Astrid-Mistral-7B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -61390,5 +61390,30 @@
     ],
     "createdAt": "2023-11-28T21:00:15.000Z",
     "modelId": "TheBloke/Aetheria-L2-70B-GPTQ"
+  },
+  {
+    "_id": "65666419526529367831906f",
+    "id": "TheBloke/Open-Hermes-2.5-neural-chat-3.1-frankenmerge-11b-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2023-11-28T22:05:13.000Z",
+    "modelId": "TheBloke/Open-Hermes-2.5-neural-chat-3.1-frankenmerge-11b-GGUF"
+  },
+  {
+    "_id": "656664195ed6ca5f18dd02cd",
+    "id": "TheBloke/Open-Hermes-2.5-neural-chat-3.1-frankenmerge-11b-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-28T22:05:13.000Z",
+    "modelId": "TheBloke/Open-Hermes-2.5-neural-chat-3.1-frankenmerge-11b-AWQ"
   }
 ]
