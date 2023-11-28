@@ -61048,7 +61048,7 @@
   {
     "_id": "6565fea3b0e94dc742cfb7cc",
     "id": "TheBloke/Stheno-v2-Delta-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -61293,7 +61293,7 @@
   {
     "_id": "65663cd993951c950b387d05",
     "id": "TheBloke/PiVoT-0.1-Starling-LM-RP-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -61430,5 +61430,58 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-28T22:05:13.000Z",
     "modelId": "TheBloke/Open-Hermes-2.5-neural-chat-3.1-frankenmerge-11b-AWQ"
+  },
+  {
+    "_id": "65666ec95710d2cdddeb3d10",
+    "id": "TheBloke/SauerkrautLM-7B-HerO-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "finetune",
+      "chatml",
+      "augmentation",
+      "german",
+      "text-generation",
+      "en",
+      "de",
+      "base_model:VAGOsolutions/SauerkrautLM-7b-HerO",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-28T22:50:49.000Z",
+    "modelId": "TheBloke/SauerkrautLM-7B-HerO-GGUF"
+  },
+  {
+    "_id": "65666ec958192d93d8a1e931",
+    "id": "TheBloke/SauerkrautLM-7B-HerO-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "finetune",
+      "chatml",
+      "augmentation",
+      "german",
+      "en",
+      "de",
+      "base_model:VAGOsolutions/SauerkrautLM-7b-HerO",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-28T22:50:49.000Z",
+    "modelId": "TheBloke/SauerkrautLM-7B-HerO-AWQ"
   }
 ]
