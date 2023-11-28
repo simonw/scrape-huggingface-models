@@ -60770,11 +60770,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
       "en",
       "base_model:Sao10K/Lila-103B-L2",
       "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-27T20:15:11.000Z",
     "modelId": "TheBloke/Lila-103B-L2-GPTQ"
   },
