@@ -22722,7 +22722,7 @@
   {
     "_id": "64f97e6a159055330801aec5",
     "id": "TheBloke/Falcon-180B-Chat-GGUF",
-    "likes": 112,
+    "likes": 113,
     "private": false,
     "downloads": 44,
     "tags": [
@@ -48950,7 +48950,7 @@
   {
     "_id": "65403e73ce1bab5053779897",
     "id": "TheBloke/dolphin-2.2.1-mistral-7B-AWQ",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 2193,
     "tags": [
@@ -49757,7 +49757,7 @@
   {
     "_id": "6543e26c40ddcc1c6f1d2eb1",
     "id": "TheBloke/Yarn-Mistral-7B-128k-AWQ",
-    "likes": 24,
+    "likes": 26,
     "private": false,
     "downloads": 2584,
     "tags": [
@@ -60788,7 +60788,7 @@
   {
     "_id": "6564fbee18d648e7cca1d112",
     "id": "TheBloke/Starling-LM-7B-alpha-GGUF",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -61387,8 +61387,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "llama 2",
+      "en",
+      "base_model:royallab/Aetheria-L2-70B",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-28T21:00:15.000Z",
     "modelId": "TheBloke/Aetheria-L2-70B-GPTQ"
   },
@@ -61434,7 +61445,7 @@
   {
     "_id": "65666ec95710d2cdddeb3d10",
     "id": "TheBloke/SauerkrautLM-7B-HerO-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -61507,5 +61518,17 @@
     ],
     "createdAt": "2023-11-28T23:19:38.000Z",
     "modelId": "TheBloke/open-instruct-human-mix-65B-GGUF"
+  },
+  {
+    "_id": "6566918532a48203e7db169d",
+    "id": "TheBloke/open-instruct-human-mix-65B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-29T01:19:01.000Z",
+    "modelId": "TheBloke/open-instruct-human-mix-65B-GPTQ"
   }
 ]
