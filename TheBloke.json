@@ -40718,7 +40718,7 @@
   {
     "_id": "65252a6b9e4a6675fe888d34",
     "id": "TheBloke/em_german_leo_mistral-GGUF",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 86,
     "tags": [
@@ -61565,8 +61565,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "en",
+      "base_model:nsfwthrowitaway69/Venus-120b-v1.0",
+      "license:llama2",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-29T04:11:37.000Z",
     "modelId": "TheBloke/Venus-120b-v1.0-AWQ"
   },
