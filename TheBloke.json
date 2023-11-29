@@ -61734,5 +61734,35 @@
     ],
     "createdAt": "2023-11-29T13:56:33.000Z",
     "modelId": "TheBloke/deepseek-llm-67b-chat-GGUF"
+  },
+  {
+    "_id": "656748b69bd68823e2aebcad",
+    "id": "TheBloke/Iambe-20B-DARE-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-29T14:20:38.000Z",
+    "modelId": "TheBloke/Iambe-20B-DARE-AWQ"
+  },
+  {
+    "_id": "656748b6a91be44ecbfeba88",
+    "id": "TheBloke/Iambe-20B-DARE-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "llama",
+      "base_model:athirdpath/Iambe-20b-DARE",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-11-29T14:20:38.000Z",
+    "modelId": "TheBloke/Iambe-20B-DARE-GGUF"
   }
 ]
