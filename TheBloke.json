@@ -57418,7 +57418,7 @@
   {
     "_id": "655c6ac2fb74ac37d30cc34e",
     "id": "TheBloke/Orca-2-13B-GPTQ",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 1519,
     "tags": [
@@ -61140,7 +61140,7 @@
   {
     "_id": "65660c9a5ed6ca5f18c87f08",
     "id": "TheBloke/saiga_mistral_7b-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -61199,7 +61199,7 @@
   {
     "_id": "656614402146168ad7a09eed",
     "id": "TheBloke/Astrid-Mistral-7B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -61599,5 +61599,30 @@
     ],
     "createdAt": "2023-11-29T04:11:37.000Z",
     "modelId": "TheBloke/Venus-120b-v1.0-GGUF"
+  },
+  {
+    "_id": "6566ff25589e212284051bfe",
+    "id": "TheBloke/psyonic-cetacean-20B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-29T09:06:45.000Z",
+    "modelId": "TheBloke/psyonic-cetacean-20B-AWQ"
+  },
+  {
+    "_id": "6566ff2593e30c8a600addaf",
+    "id": "TheBloke/psyonic-cetacean-20B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2023-11-29T09:06:45.000Z",
+    "modelId": "TheBloke/psyonic-cetacean-20B-GGUF"
   }
 ]
