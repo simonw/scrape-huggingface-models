@@ -35780,7 +35780,7 @@
   {
     "_id": "650f7461be2dd282dcb6edbb",
     "id": "TheBloke/storytime-13B-AWQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 25,
     "tags": [
@@ -59557,7 +59557,7 @@
   {
     "_id": "656099f778f6dd8d8357ad07",
     "id": "TheBloke/tulu-2-dpo-70B-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 33,
     "tags": [
@@ -61497,57 +61497,6 @@
     "modelId": "TheBloke/SauerkrautLM-7B-HerO-AWQ"
   },
   {
-    "_id": "6566758a54c6bc01e535b503",
-    "id": "TheBloke/open-instruct-human-mix-65B-GGUF",
-    "likes": 2,
-    "private": false,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "gguf",
-      "llama",
-      "en",
-      "dataset:databricks/databricks-dolly-15k",
-      "dataset:OpenAssistant/oasst1",
-      "arxiv:2306.04751",
-      "arxiv:2302.13971",
-      "arxiv:2304.07327",
-      "base_model:allenai/open-instruct-human-mix-65b",
-      "license:other",
-      "text-generation-inference",
-      "region:us"
-    ],
-    "createdAt": "2023-11-28T23:19:38.000Z",
-    "modelId": "TheBloke/open-instruct-human-mix-65B-GGUF"
-  },
-  {
-    "_id": "6566918532a48203e7db169d",
-    "id": "TheBloke/open-instruct-human-mix-65B-GPTQ",
-    "likes": 0,
-    "private": false,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "llama",
-      "text-generation",
-      "en",
-      "dataset:databricks/databricks-dolly-15k",
-      "dataset:OpenAssistant/oasst1",
-      "arxiv:2306.04751",
-      "arxiv:2302.13971",
-      "arxiv:2304.07327",
-      "base_model:allenai/open-instruct-human-mix-65b",
-      "license:other",
-      "text-generation-inference",
-      "4-bit",
-      "region:us"
-    ],
-    "pipeline_tag": "text-generation",
-    "createdAt": "2023-11-29T01:19:01.000Z",
-    "modelId": "TheBloke/open-instruct-human-mix-65B-GPTQ"
-  },
-  {
     "_id": "6566b9f96d599b3cb642ebf4",
     "id": "TheBloke/Venus-120b-v1.0-GPTQ",
     "likes": 0,
@@ -61597,7 +61546,7 @@
   {
     "_id": "6566b9f9944a6c35cf785090",
     "id": "TheBloke/Venus-120b-v1.0-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -61629,6 +61578,7 @@
       "not-for-all-audiences",
       "base_model:jebcarter/psyonic-cetacean-20B",
       "license:other",
+      "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -61702,8 +61652,24 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "finetune",
+      "chatml",
+      "augmentation",
+      "german",
+      "en",
+      "de",
+      "base_model:VAGOsolutions/SauerkrautLM-7b-HerO",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-29T13:20:01.000Z",
     "modelId": "TheBloke/SauerkrautLM-7B-HerO-GPTQ"
   },
@@ -61731,5 +61697,42 @@
     ],
     "createdAt": "2023-11-29T13:25:44.000Z",
     "modelId": "TheBloke/tigerbot-70B-chat-v2-AWQ"
+  },
+  {
+    "_id": "656743118e2b7c744f86a423",
+    "id": "TheBloke/deepseek-llm-67b-chat-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-29T13:56:33.000Z",
+    "modelId": "TheBloke/deepseek-llm-67b-chat-AWQ"
+  },
+  {
+    "_id": "65674311ac03c4c74148e5a1",
+    "id": "TheBloke/deepseek-llm-67b-chat-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-29T13:56:33.000Z",
+    "modelId": "TheBloke/deepseek-llm-67b-chat-GPTQ"
+  },
+  {
+    "_id": "65674311f31cae62b72f0767",
+    "id": "TheBloke/deepseek-llm-67b-chat-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2023-11-29T13:56:33.000Z",
+    "modelId": "TheBloke/deepseek-llm-67b-chat-GGUF"
   }
 ]
