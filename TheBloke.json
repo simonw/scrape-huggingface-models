@@ -61092,7 +61092,7 @@
   {
     "_id": "65660651890c3786d7ae6c1b",
     "id": "TheBloke/PiVoT-0.1-Starling-LM-RP-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -61140,7 +61140,7 @@
   {
     "_id": "65660c9a5ed6ca5f18c87f08",
     "id": "TheBloke/saiga_mistral_7b-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -61157,7 +61157,7 @@
   {
     "_id": "65660c9a93951c950b2d1ad8",
     "id": "TheBloke/saiga_mistral_7b-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -61337,7 +61337,7 @@
   {
     "_id": "6566478177d8a948ac6c615d",
     "id": "TheBloke/saiga_mistral_7b-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -61553,6 +61553,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "not-for-all-audiences",
+      "en",
+      "base_model:nsfwthrowitaway69/Venus-120b-v1.0",
+      "license:llama2",
       "region:us"
     ],
     "createdAt": "2023-11-29T04:11:37.000Z",
@@ -61644,5 +61648,29 @@
     ],
     "createdAt": "2023-11-29T09:06:45.000Z",
     "modelId": "TheBloke/psyonic-cetacean-20B-GGUF"
+  },
+  {
+    "_id": "656729c266d5f87c62d5af5b",
+    "id": "TheBloke/Open-Hermes-2.5-neural-chat-3.1-frankenmerge-11b-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-29T12:08:34.000Z",
+    "modelId": "TheBloke/Open-Hermes-2.5-neural-chat-3.1-frankenmerge-11b-GPTQ"
+  },
+  {
+    "_id": "65672a02929782bee9dde8d1",
+    "id": "TheBloke/psyonic-cetacean-20B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-29T12:09:38.000Z",
+    "modelId": "TheBloke/psyonic-cetacean-20B-GPTQ"
   }
 ]
