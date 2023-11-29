@@ -40765,7 +40765,7 @@
   {
     "_id": "65254d7f9e4a6675fe8d0139",
     "id": "TheBloke/sqlcoder2-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 1402,
     "tags": [
@@ -50984,7 +50984,7 @@
   {
     "_id": "6548bab7e49bd8d58e90e683",
     "id": "TheBloke/echidna-tiefigther-25-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -61619,7 +61619,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "llama",
+      "storywriting",
+      "text adventure",
+      "not-for-all-audiences",
+      "base_model:jebcarter/psyonic-cetacean-20B",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "createdAt": "2023-11-29T09:06:45.000Z",
