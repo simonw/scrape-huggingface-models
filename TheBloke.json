@@ -61028,7 +61028,7 @@
   {
     "_id": "6565e8b2656151d58b21b224",
     "id": "TheBloke/CapyTessBorosYi-34B-200K-DARE-Ties-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -61526,8 +61526,23 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:databricks/databricks-dolly-15k",
+      "dataset:OpenAssistant/oasst1",
+      "arxiv:2306.04751",
+      "arxiv:2302.13971",
+      "arxiv:2304.07327",
+      "base_model:allenai/open-instruct-human-mix-65b",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-29T01:19:01.000Z",
     "modelId": "TheBloke/open-instruct-human-mix-65B-GPTQ"
   }
