@@ -9980,7 +9980,7 @@
   {
     "_id": "64b6d3eeab056b63ede8a758",
     "id": "TheBloke/Llama-2-13B-chat-GGML",
-    "likes": 630,
+    "likes": 631,
     "private": false,
     "downloads": 1683,
     "tags": [
@@ -61607,8 +61607,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "storywriting",
+      "text adventure",
+      "not-for-all-audiences",
+      "base_model:jebcarter/psyonic-cetacean-20B",
+      "license:other",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-29T09:06:45.000Z",
     "modelId": "TheBloke/psyonic-cetacean-20B-AWQ"
   },
