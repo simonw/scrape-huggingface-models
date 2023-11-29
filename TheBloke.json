@@ -24,7 +24,7 @@
     "id": "TheBloke/koala-7B-HF",
     "likes": 18,
     "private": false,
-    "downloads": 4287,
+    "downloads": 4179,
     "tags": [
       "transformers",
       "pytorch",
@@ -50,7 +50,7 @@
     "id": "TheBloke/koala-13B-HF",
     "likes": 41,
     "private": false,
-    "downloads": 4663,
+    "downloads": 4546,
     "tags": [
       "transformers",
       "pytorch",
@@ -123,7 +123,7 @@
     "id": "TheBloke/galpaca-30B-GPTQ",
     "likes": 49,
     "private": false,
-    "downloads": 5,
+    "downloads": 9,
     "tags": [
       "transformers",
       "opt",
@@ -166,7 +166,7 @@
     "id": "TheBloke/Vicuna-13B-1.1-GPTQ",
     "likes": 207,
     "private": false,
-    "downloads": 489,
+    "downloads": 488,
     "tags": [
       "transformers",
       "llama",
@@ -203,7 +203,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-30b-HF",
     "likes": 10,
     "private": false,
-    "downloads": 4267,
+    "downloads": 4152,
     "tags": [
       "transformers",
       "pytorch",
@@ -49835,7 +49835,7 @@
   {
     "_id": "654418242996405c238f5eea",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
-    "likes": 102,
+    "likes": 103,
     "private": false,
     "downloads": 416,
     "tags": [
@@ -57394,7 +57394,7 @@
   {
     "_id": "655c6a0c76e4fad552c77585",
     "id": "TheBloke/Orca-2-13B-GGUF",
-    "likes": 39,
+    "likes": 40,
     "private": false,
     "downloads": 87,
     "tags": [
@@ -60603,7 +60603,7 @@
   {
     "_id": "6564a8f1ea82965f35948189",
     "id": "TheBloke/OpenHermes-2.5-neural-chat-7B-v3-1-7B-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -61725,11 +61725,15 @@
   {
     "_id": "65674311f31cae62b72f0767",
     "id": "TheBloke/deepseek-llm-67b-chat-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "deepseek",
+      "base_model:deepseek-ai/deepseek-llm-67b-chat",
+      "license:other",
       "region:us"
     ],
     "createdAt": "2023-11-29T13:56:33.000Z",
@@ -61742,8 +61746,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:athirdpath/Iambe-20b-DARE",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-29T14:20:38.000Z",
     "modelId": "TheBloke/Iambe-20B-DARE-AWQ"
   },
@@ -61764,5 +61778,30 @@
     ],
     "createdAt": "2023-11-29T14:20:38.000Z",
     "modelId": "TheBloke/Iambe-20B-DARE-GGUF"
+  },
+  {
+    "_id": "6567542e0e4b5ff9d51e1a13",
+    "id": "TheBloke/open-llama-3b-v2-wizard-evol-instuct-v2-196k-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-29T15:09:34.000Z",
+    "modelId": "TheBloke/open-llama-3b-v2-wizard-evol-instuct-v2-196k-AWQ"
+  },
+  {
+    "_id": "6567542e92d931990722c66d",
+    "id": "TheBloke/open-llama-3b-v2-wizard-evol-instuct-v2-196k-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2023-11-29T15:09:34.000Z",
+    "modelId": "TheBloke/open-llama-3b-v2-wizard-evol-instuct-v2-196k-GGUF"
   }
 ]
