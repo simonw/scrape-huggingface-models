@@ -40875,7 +40875,7 @@
   {
     "_id": "652615d43177c2a79493a6b9",
     "id": "TheBloke/zephyr-7B-alpha-GGUF",
-    "likes": 134,
+    "likes": 135,
     "private": false,
     "downloads": 602,
     "tags": [
@@ -50265,7 +50265,7 @@
   {
     "_id": "6546bfe06c818bb7b5ab8251",
     "id": "TheBloke/deepseek-coder-33B-instruct-AWQ",
-    "likes": 18,
+    "likes": 19,
     "private": false,
     "downloads": 2917,
     "tags": [
@@ -57775,7 +57775,7 @@
   {
     "_id": "655dc453a499c26280ad532b",
     "id": "TheBloke/MythoMist-7B-GGUF",
-    "likes": 13,
+    "likes": 12,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -60803,9 +60803,9 @@
       "arxiv:2306.02231",
       "base_model:berkeley-nest/Starling-LM-7B-alpha",
       "license:cc-by-nc-4.0",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "createdAt": "2023-11-27T20:28:30.000Z",
     "modelId": "TheBloke/Starling-LM-7B-alpha-GGUF"
@@ -61140,7 +61140,7 @@
   {
     "_id": "65660c9a5ed6ca5f18c87f08",
     "id": "TheBloke/saiga_mistral_7b-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -61337,7 +61337,7 @@
   {
     "_id": "6566478177d8a948ac6c615d",
     "id": "TheBloke/saiga_mistral_7b-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -61406,7 +61406,7 @@
   {
     "_id": "65666419526529367831906f",
     "id": "TheBloke/Open-Hermes-2.5-neural-chat-3.1-frankenmerge-11b-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -61487,6 +61487,7 @@
       "de",
       "base_model:VAGOsolutions/SauerkrautLM-7b-HerO",
       "license:apache-2.0",
+      "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -61676,9 +61677,59 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "storywriting",
+      "text adventure",
+      "not-for-all-audiences",
+      "base_model:jebcarter/psyonic-cetacean-20B",
+      "license:other",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-29T12:09:38.000Z",
     "modelId": "TheBloke/psyonic-cetacean-20B-GPTQ"
+  },
+  {
+    "_id": "65673a819bd68823e2ab860d",
+    "id": "TheBloke/SauerkrautLM-7B-HerO-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-29T13:20:01.000Z",
+    "modelId": "TheBloke/SauerkrautLM-7B-HerO-GPTQ"
+  },
+  {
+    "_id": "65673bd826d6f74919b579a2",
+    "id": "TheBloke/tigerbot-70B-chat-v2-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2023-11-29T13:25:44.000Z",
+    "modelId": "TheBloke/tigerbot-70B-chat-v2-GGUF"
+  },
+  {
+    "_id": "65673bd8a9a1a6a50d3cc977",
+    "id": "TheBloke/tigerbot-70B-chat-v2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-29T13:25:44.000Z",
+    "modelId": "TheBloke/tigerbot-70B-chat-v2-AWQ"
   }
 ]
