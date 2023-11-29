@@ -61395,7 +61395,7 @@
   {
     "_id": "65666419526529367831906f",
     "id": "TheBloke/Open-Hermes-2.5-neural-chat-3.1-frankenmerge-11b-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -61491,7 +61491,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "llama",
+      "en",
+      "dataset:databricks/databricks-dolly-15k",
+      "dataset:OpenAssistant/oasst1",
+      "arxiv:2306.04751",
+      "arxiv:2302.13971",
+      "arxiv:2304.07327",
+      "base_model:allenai/open-instruct-human-mix-65b",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
     "createdAt": "2023-11-28T23:19:38.000Z",
