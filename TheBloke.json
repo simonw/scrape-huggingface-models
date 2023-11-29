@@ -36465,7 +36465,7 @@
   {
     "_id": "6511ae8b5b4590211de0a25a",
     "id": "TheBloke/vicuna-33B-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -52075,7 +52075,7 @@
   {
     "_id": "654cd5c878c68b6d4c71df7c",
     "id": "TheBloke/goliath-120b-GGUF",
-    "likes": 67,
+    "likes": 68,
     "private": false,
     "downloads": 1292,
     "tags": [
@@ -55276,7 +55276,7 @@
   {
     "_id": "655764ce96534df1768f2741",
     "id": "TheBloke/dragon-yi-6B-v0-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 21,
     "tags": [
@@ -57775,7 +57775,7 @@
   {
     "_id": "655dc453a499c26280ad532b",
     "id": "TheBloke/MythoMist-7B-GGUF",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -61553,12 +61553,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
       "not-for-all-audiences",
       "en",
       "base_model:nsfwthrowitaway69/Venus-120b-v1.0",
       "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-29T04:11:37.000Z",
     "modelId": "TheBloke/Venus-120b-v1.0-GPTQ"
   },
