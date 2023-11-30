@@ -9873,7 +9873,7 @@
   {
     "_id": "64b6c9343d3bb8b1b5eb6aa0",
     "id": "TheBloke/Llama-2-13B-GPTQ",
-    "likes": 105,
+    "likes": 106,
     "private": false,
     "downloads": 11241,
     "tags": [
@@ -10006,7 +10006,7 @@
   {
     "_id": "64b6d9d4bb1d8f2832c8be93",
     "id": "TheBloke/Llama-2-13B-chat-GPTQ",
-    "likes": 307,
+    "likes": 308,
     "private": false,
     "downloads": 70373,
     "tags": [
@@ -62368,8 +62368,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:NyxKrage/Chronomaid-Storytelling-13b",
+      "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-30T10:03:29.000Z",
     "modelId": "TheBloke/Chronomaid-Storytelling-13B-GPTQ"
   },
