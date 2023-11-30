@@ -62053,7 +62053,7 @@
   {
     "_id": "6567bb76253c8b0b67a37989",
     "id": "TheBloke/NeuralHermes-2.5-Mistral-7B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -62161,9 +62161,33 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:WizardLM/WizardLM_evol_instruct_V2_196k",
+      "base_model:harborwater/open-llama-3b-v2-wizard-evol-instuct-v2-196k",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-30T00:06:58.000Z",
     "modelId": "TheBloke/open-llama-3b-v2-wizard-evol-instuct-v2-196k-GPTQ"
+  },
+  {
+    "_id": "6567dca8456d7733de569879",
+    "id": "TheBloke/LLaMA2-13B-Psyfighter2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-30T00:51:52.000Z",
+    "modelId": "TheBloke/LLaMA2-13B-Psyfighter2-GPTQ"
   }
 ]
