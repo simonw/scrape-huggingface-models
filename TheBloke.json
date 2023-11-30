@@ -327,7 +327,7 @@
     "id": "TheBloke/alpaca-lora-65B-HF",
     "likes": 3,
     "private": false,
-    "downloads": 4140,
+    "downloads": 3963,
     "tags": [
       "transformers",
       "pytorch",
@@ -381,7 +381,7 @@
     "id": "TheBloke/medalpaca-13B-GPTQ",
     "likes": 28,
     "private": false,
-    "downloads": 4591,
+    "downloads": 4419,
     "tags": [
       "transformers",
       "pytorch",
@@ -406,7 +406,7 @@
     "id": "TheBloke/wizardLM-7B-HF",
     "likes": 90,
     "private": false,
-    "downloads": 6428,
+    "downloads": 6205,
     "tags": [
       "transformers",
       "pytorch",
@@ -441,7 +441,7 @@
     "id": "TheBloke/wizardLM-7B-GPTQ",
     "likes": 104,
     "private": false,
-    "downloads": 572,
+    "downloads": 591,
     "tags": [
       "transformers",
       "safetensors",
@@ -462,7 +462,7 @@
     "id": "TheBloke/stable-vicuna-13B-HF",
     "likes": 96,
     "private": false,
-    "downloads": 5016,
+    "downloads": 4827,
     "tags": [
       "transformers",
       "pytorch",
@@ -504,7 +504,7 @@
     "id": "TheBloke/stable-vicuna-13B-GPTQ",
     "likes": 219,
     "private": false,
-    "downloads": 122,
+    "downloads": 123,
     "tags": [
       "transformers",
       "safetensors",
@@ -531,7 +531,7 @@
     "id": "TheBloke/OpenAssistant-SFT-7-Llama-30B-HF",
     "likes": 14,
     "private": false,
-    "downloads": 4145,
+    "downloads": 3968,
     "tags": [
       "transformers",
       "pytorch",
@@ -567,7 +567,7 @@
     "id": "TheBloke/OpenAssistant-SFT-7-Llama-30B-GPTQ",
     "likes": 36,
     "private": false,
-    "downloads": 15,
+    "downloads": 11,
     "tags": [
       "transformers",
       "safetensors",
@@ -603,7 +603,7 @@
     "id": "TheBloke/wizard-vicuna-13B-GPTQ",
     "likes": 100,
     "private": false,
-    "downloads": 4531,
+    "downloads": 4371,
     "tags": [
       "transformers",
       "safetensors",
@@ -627,7 +627,7 @@
     "id": "TheBloke/wizard-vicuna-13B-HF",
     "likes": 48,
     "private": false,
-    "downloads": 4172,
+    "downloads": 3996,
     "tags": [
       "transformers",
       "pytorch",
@@ -663,7 +663,7 @@
     "id": "TheBloke/WizardLM-7B-uncensored-GPTQ",
     "likes": 162,
     "private": false,
-    "downloads": 7589,
+    "downloads": 7343,
     "tags": [
       "transformers",
       "safetensors",
@@ -687,7 +687,7 @@
     "id": "TheBloke/GPT4All-13B-snoozy-GPTQ",
     "likes": 29,
     "private": false,
-    "downloads": 80,
+    "downloads": 78,
     "tags": [
       "transformers",
       "safetensors",
@@ -48431,7 +48431,6 @@
       "gguf",
       "mistral",
       "base_model:SciPhi/SciPhi-Mistral-7B-32k",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -49684,7 +49683,7 @@
   {
     "_id": "6543cda9998b3248a1fedce8",
     "id": "TheBloke/Yarn-Mistral-7B-128k-GGUF",
-    "likes": 98,
+    "likes": 99,
     "private": false,
     "downloads": 417,
     "tags": [
@@ -50243,7 +50242,7 @@
   {
     "_id": "6546bfe04d1931dc93eacb63",
     "id": "TheBloke/deepseek-coder-33B-instruct-GGUF",
-    "likes": 74,
+    "likes": 75,
     "private": false,
     "downloads": 59,
     "tags": [
@@ -61588,7 +61587,7 @@
   {
     "_id": "6566ff2593e30c8a600addaf",
     "id": "TheBloke/psyonic-cetacean-20B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 11,
     "tags": [
@@ -61750,7 +61749,7 @@
   {
     "_id": "65674311ac03c4c74148e5a1",
     "id": "TheBloke/deepseek-llm-67b-chat-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -61772,7 +61771,7 @@
   {
     "_id": "65674311f31cae62b72f0767",
     "id": "TheBloke/deepseek-llm-67b-chat-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -62276,7 +62275,7 @@
   {
     "_id": "6567eedb2d738342788ea34d",
     "id": "TheBloke/SG-Raccoon-Yi-55B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
