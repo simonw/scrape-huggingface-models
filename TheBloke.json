@@ -50244,7 +50244,7 @@
   {
     "_id": "6546bfe04d1931dc93eacb63",
     "id": "TheBloke/deepseek-coder-33B-instruct-GGUF",
-    "likes": 72,
+    "likes": 73,
     "private": false,
     "downloads": 59,
     "tags": [
@@ -61614,8 +61614,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:S4sch/Open-Hermes-2.5-neural-chat-3.1-frankenmerge-11b",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-29T12:08:34.000Z",
     "modelId": "TheBloke/Open-Hermes-2.5-neural-chat-3.1-frankenmerge-11b-GPTQ"
   },
@@ -62066,7 +62076,7 @@
   {
     "_id": "6567bb76253c8b0b67a37989",
     "id": "TheBloke/NeuralHermes-2.5-Mistral-7B-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -62309,5 +62319,17 @@
     "pipeline_tag": "conversational",
     "createdAt": "2023-11-30T02:09:31.000Z",
     "modelId": "TheBloke/SG-Raccoon-Yi-55B-AWQ"
+  },
+  {
+    "_id": "6568270c8e2b7c744fb557b2",
+    "id": "TheBloke/tigerbot-70B-chat-v2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-30T06:09:16.000Z",
+    "modelId": "TheBloke/tigerbot-70B-chat-v2-GPTQ"
   }
 ]
