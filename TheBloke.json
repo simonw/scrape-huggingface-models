@@ -62065,7 +62065,7 @@
   {
     "_id": "6567bb76253c8b0b67a37989",
     "id": "TheBloke/NeuralHermes-2.5-Mistral-7B-GGUF",
-    "likes": 4,
+    "likes": 6,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -62251,9 +62251,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "yi",
+      "conversational",
+      "base_model:mlinmg/SG-Raccoon-Yi-55B",
+      "license:other",
       "region:us"
     ],
+    "pipeline_tag": "conversational",
     "createdAt": "2023-11-30T02:09:31.000Z",
     "modelId": "TheBloke/SG-Raccoon-Yi-55B-GGUF"
   },
