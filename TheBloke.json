@@ -16427,7 +16427,7 @@
   {
     "_id": "64e78cdac3b2443fb30b9dda",
     "id": "TheBloke/CodeLlama-7B-Instruct-GGUF",
-    "likes": 74,
+    "likes": 75,
     "private": false,
     "downloads": 309,
     "tags": [
@@ -56150,7 +56150,7 @@
   {
     "_id": "6559f29be87d5297752c37e4",
     "id": "TheBloke/Capybara-Tess-Yi-34B-200K-GGUF",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 23,
     "tags": [
@@ -61412,9 +61412,9 @@
       "mistral",
       "base_model:S4sch/Open-Hermes-2.5-neural-chat-3.1-frankenmerge-11b",
       "license:apache-2.0",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "createdAt": "2023-11-28T22:05:13.000Z",
     "modelId": "TheBloke/Open-Hermes-2.5-neural-chat-3.1-frankenmerge-11b-GGUF"
@@ -61432,6 +61432,7 @@
       "text-generation",
       "base_model:S4sch/Open-Hermes-2.5-neural-chat-3.1-frankenmerge-11b",
       "license:apache-2.0",
+      "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -61762,7 +61763,7 @@
   {
     "_id": "65674311f31cae62b72f0767",
     "id": "TheBloke/deepseek-llm-67b-chat-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -62270,8 +62271,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "conversational",
+      "base_model:mlinmg/SG-Raccoon-Yi-55B",
+      "license:other",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "conversational",
     "createdAt": "2023-11-30T02:09:31.000Z",
     "modelId": "TheBloke/SG-Raccoon-Yi-55B-GPTQ"
   },
