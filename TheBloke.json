@@ -61137,7 +61137,7 @@
   {
     "_id": "65660c9a5ed6ca5f18c87f08",
     "id": "TheBloke/saiga_mistral_7b-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -61685,7 +61685,7 @@
   {
     "_id": "65673bd826d6f74919b579a2",
     "id": "TheBloke/tigerbot-70B-chat-v2-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -62323,12 +62323,21 @@
   {
     "_id": "6568270c8e2b7c744fb557b2",
     "id": "TheBloke/tigerbot-70B-chat-v2-GPTQ",
-    "likes": 0,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "autotrain_compatible",
+      "endpoints_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-30T06:09:16.000Z",
     "modelId": "TheBloke/tigerbot-70B-chat-v2-GPTQ"
   }
