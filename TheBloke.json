@@ -20175,7 +20175,7 @@
   {
     "_id": "64f61985e916843d8ebc5db8",
     "id": "TheBloke/Llama-2-70B-Chat-GGUF",
-    "likes": 62,
+    "likes": 63,
     "private": false,
     "downloads": 353,
     "tags": [
@@ -57933,7 +57933,7 @@
   {
     "_id": "655e4c7ea3e811457667b53f",
     "id": "TheBloke/rocket-3B-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 68,
     "tags": [
@@ -61268,7 +61268,7 @@
   {
     "_id": "656627d46443f1b315b9f5f0",
     "id": "TheBloke/Aetheria-L2-70B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -61678,7 +61678,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "llama",
+      "zh",
+      "en",
+      "base_model:TigerResearch/tigerbot-70b-chat-v2",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
     "createdAt": "2023-11-29T13:25:44.000Z",
@@ -61953,8 +61960,8 @@
       "deepseek",
       "base_model:deepseek-ai/deepseek-llm-7b-chat",
       "license:other",
-      "region:us",
-      "has_space"
+      "has_space",
+      "region:us"
     ],
     "createdAt": "2023-11-29T18:18:39.000Z",
     "modelId": "TheBloke/deepseek-llm-7B-chat-GGUF"
@@ -61986,7 +61993,7 @@
     "id": "TheBloke/LLaMA2-13B-Psyfighter2-AWQ",
     "likes": 1,
     "private": false,
-    "downloads": 0,
+    "downloads": 1,
     "tags": [
       "transformers",
       "safetensors",
@@ -62046,7 +62053,7 @@
   {
     "_id": "6567bb76253c8b0b67a37989",
     "id": "TheBloke/NeuralHermes-2.5-Mistral-7B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -62110,9 +62117,53 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:deepseek-ai/deepseek-llm-7b-base",
+      "license:other",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-29T23:14:32.000Z",
     "modelId": "TheBloke/deepseek-llm-7B-base-GPTQ"
+  },
+  {
+    "_id": "6567cc8b69a83d2cb780c8ad",
+    "id": "TheBloke/deepseek-llm-7B-chat-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:deepseek-ai/deepseek-llm-7b-chat",
+      "license:other",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-11-29T23:43:07.000Z",
+    "modelId": "TheBloke/deepseek-llm-7B-chat-GPTQ"
+  },
+  {
+    "_id": "6567d2222d738342788819a0",
+    "id": "TheBloke/open-llama-3b-v2-wizard-evol-instuct-v2-196k-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-30T00:06:58.000Z",
+    "modelId": "TheBloke/open-llama-3b-v2-wizard-evol-instuct-v2-196k-GPTQ"
   }
 ]
