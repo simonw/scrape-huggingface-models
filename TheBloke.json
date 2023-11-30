@@ -27715,7 +27715,7 @@
   {
     "_id": "65093665cc02352e1e0bbd9c",
     "id": "TheBloke/Nous-Hermes-Llama2-70B-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 191,
     "tags": [
@@ -46858,7 +46858,6 @@
       "arxiv:2310.16944",
       "base_model:HuggingFaceH4/zephyr-7b-beta",
       "license:mit",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -52910,7 +52909,7 @@
   {
     "_id": "654ec9fbaae66b1676cd6256",
     "id": "TheBloke/openchat_3.5-16k-GGUF",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 97,
     "tags": [
@@ -62343,5 +62342,42 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-30T06:09:16.000Z",
     "modelId": "TheBloke/tigerbot-70B-chat-v2-GPTQ"
+  },
+  {
+    "_id": "65685df12639300a77a13c81",
+    "id": "TheBloke/Chronomaid-Storytelling-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2023-11-30T10:03:29.000Z",
+    "modelId": "TheBloke/Chronomaid-Storytelling-13B-GGUF"
+  },
+  {
+    "_id": "65685df15fc4910874c0f836",
+    "id": "TheBloke/Chronomaid-Storytelling-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-30T10:03:29.000Z",
+    "modelId": "TheBloke/Chronomaid-Storytelling-13B-GPTQ"
+  },
+  {
+    "_id": "65685df1dd4a892a14835303",
+    "id": "TheBloke/Chronomaid-Storytelling-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-30T10:03:29.000Z",
+    "modelId": "TheBloke/Chronomaid-Storytelling-13B-AWQ"
   }
 ]
