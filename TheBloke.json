@@ -2325,7 +2325,7 @@
     "id": "TheBloke/WizardLM-Uncensored-SuperCOT-StoryTelling-30B-GPTQ",
     "likes": 75,
     "private": false,
-    "downloads": 10678,
+    "downloads": 10182,
     "tags": [
       "transformers",
       "safetensors",
@@ -2360,7 +2360,7 @@
     "id": "TheBloke/WizardLM-Uncensored-Falcon-7B-GPTQ",
     "likes": 53,
     "private": false,
-    "downloads": 38454,
+    "downloads": 36386,
     "tags": [
       "transformers",
       "safetensors",
@@ -2430,7 +2430,7 @@
     "id": "TheBloke/PMC_LLAMA-7B-GPTQ",
     "likes": 4,
     "private": false,
-    "downloads": 106,
+    "downloads": 112,
     "tags": [
       "transformers",
       "safetensors",
@@ -2467,7 +2467,7 @@
     "id": "TheBloke/based-30B-GPTQ",
     "likes": 9,
     "private": false,
-    "downloads": 19,
+    "downloads": 7,
     "tags": [
       "transformers",
       "safetensors",
@@ -2551,7 +2551,7 @@
     "id": "TheBloke/Nous-Hermes-13B-GPTQ",
     "likes": 158,
     "private": false,
-    "downloads": 4118,
+    "downloads": 4110,
     "tags": [
       "transformers",
       "safetensors",
@@ -2733,7 +2733,7 @@
     "id": "TheBloke/airoboros-7b-gpt4-fp16",
     "likes": 3,
     "private": false,
-    "downloads": 4120,
+    "downloads": 3947,
     "tags": [
       "transformers",
       "pytorch",
@@ -2833,7 +2833,7 @@
     "id": "TheBloke/Planner-7B-fp16",
     "likes": 1,
     "private": false,
-    "downloads": 4131,
+    "downloads": 3954,
     "tags": [
       "transformers",
       "pytorch",
@@ -2919,7 +2919,7 @@
     "id": "TheBloke/WizardLM-30B-GPTQ",
     "likes": 19,
     "private": false,
-    "downloads": 4143,
+    "downloads": 3975,
     "tags": [
       "transformers",
       "safetensors",
@@ -2940,7 +2940,7 @@
     "id": "TheBloke/WizardLM-30B-fp16",
     "likes": 10,
     "private": false,
-    "downloads": 4147,
+    "downloads": 3971,
     "tags": [
       "transformers",
       "pytorch",
@@ -3014,7 +3014,7 @@
     "id": "TheBloke/chronos-wizardlm-uc-scot-st-13B-GPTQ",
     "likes": 6,
     "private": false,
-    "downloads": 4465,
+    "downloads": 4294,
     "tags": [
       "transformers",
       "safetensors",
@@ -3254,7 +3254,7 @@
     "id": "TheBloke/Vicuna-13B-CoT-fp16",
     "likes": 3,
     "private": false,
-    "downloads": 4466,
+    "downloads": 4292,
     "tags": [
       "transformers",
       "pytorch",
@@ -3319,7 +3319,7 @@
     "id": "TheBloke/Vicuna-7B-CoT-fp16",
     "likes": 1,
     "private": false,
-    "downloads": 9,
+    "downloads": 8,
     "tags": [
       "transformers",
       "pytorch",
@@ -3353,7 +3353,7 @@
     "id": "TheBloke/starcoder-GPTQ",
     "likes": 13,
     "private": false,
-    "downloads": 130,
+    "downloads": 126,
     "tags": [
       "transformers",
       "safetensors",
@@ -3402,7 +3402,7 @@
     "id": "TheBloke/starcoderplus-GPTQ",
     "likes": 25,
     "private": false,
-    "downloads": 329,
+    "downloads": 332,
     "tags": [
       "transformers",
       "safetensors",
@@ -3519,7 +3519,7 @@
     "id": "TheBloke/starchat-beta-GPTQ",
     "likes": 26,
     "private": false,
-    "downloads": 317,
+    "downloads": 327,
     "tags": [
       "transformers",
       "safetensors",
@@ -3731,7 +3731,7 @@
     "id": "TheBloke/tulu-30B-fp16",
     "likes": 5,
     "private": false,
-    "downloads": 4139,
+    "downloads": 3964,
     "tags": [
       "transformers",
       "pytorch",
@@ -3827,7 +3827,7 @@
     "id": "TheBloke/tulu-13B-fp16",
     "likes": 2,
     "private": false,
-    "downloads": 4167,
+    "downloads": 3994,
     "tags": [
       "transformers",
       "pytorch",
@@ -3931,7 +3931,7 @@
     "id": "TheBloke/tulu-7B-fp16",
     "likes": 3,
     "private": false,
-    "downloads": 4482,
+    "downloads": 4301,
     "tags": [
       "transformers",
       "pytorch",
@@ -4011,7 +4011,7 @@
     "id": "TheBloke/airoboros-33b-gpt4-GPTQ",
     "likes": 5,
     "private": false,
-    "downloads": 11,
+    "downloads": 17,
     "tags": [
       "transformers",
       "safetensors",
@@ -4032,7 +4032,7 @@
     "id": "TheBloke/fin-llama-33B-GPTQ",
     "likes": 6,
     "private": false,
-    "downloads": 12,
+    "downloads": 14,
     "tags": [
       "transformers",
       "safetensors",
@@ -49831,7 +49831,7 @@
   {
     "_id": "654418242996405c238f5eea",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
-    "likes": 104,
+    "likes": 105,
     "private": false,
     "downloads": 463,
     "tags": [
@@ -61701,7 +61701,7 @@
   {
     "_id": "65673bd8a9a1a6a50d3cc977",
     "id": "TheBloke/tigerbot-70B-chat-v2-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -61966,7 +61966,7 @@
   {
     "_id": "6567807f9e2582138bd0b497",
     "id": "TheBloke/deepseek-llm-7B-chat-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -62333,7 +62333,7 @@
   {
     "_id": "65685df12639300a77a13c81",
     "id": "TheBloke/Chronomaid-Storytelling-13B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -62389,5 +62389,42 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-30T10:03:29.000Z",
     "modelId": "TheBloke/Chronomaid-Storytelling-13B-AWQ"
+  },
+  {
+    "_id": "6568c20928639db76eb04795",
+    "id": "TheBloke/meditron-70B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-30T17:10:33.000Z",
+    "modelId": "TheBloke/meditron-70B-GPTQ"
+  },
+  {
+    "_id": "6568c2099a8c2510b30fd7f5",
+    "id": "TheBloke/meditron-70B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-30T17:10:33.000Z",
+    "modelId": "TheBloke/meditron-70B-AWQ"
+  },
+  {
+    "_id": "6568c209eaf73f4f7667174e",
+    "id": "TheBloke/meditron-70B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2023-11-30T17:10:33.000Z",
+    "modelId": "TheBloke/meditron-70B-GGUF"
   }
 ]
