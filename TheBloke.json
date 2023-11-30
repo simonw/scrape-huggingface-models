@@ -62065,7 +62065,7 @@
   {
     "_id": "6567bb76253c8b0b67a37989",
     "id": "TheBloke/NeuralHermes-2.5-Mistral-7B-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -62219,9 +62219,66 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "instruct",
+      "finetune",
+      "chatml",
+      "gpt4",
+      "synthetic data",
+      "distillation",
+      "dpo",
+      "rlhf",
+      "en",
+      "dataset:mlabonne/chatml_dpo_pairs",
+      "base_model:mlabonne/NeuralHermes-2.5-Mistral-7B",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-30T01:36:15.000Z",
     "modelId": "TheBloke/NeuralHermes-2.5-Mistral-7B-GPTQ"
+  },
+  {
+    "_id": "6567eedb2d738342788ea347",
+    "id": "TheBloke/SG-Raccoon-Yi-55B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2023-11-30T02:09:31.000Z",
+    "modelId": "TheBloke/SG-Raccoon-Yi-55B-GGUF"
+  },
+  {
+    "_id": "6567eedb2d738342788ea34d",
+    "id": "TheBloke/SG-Raccoon-Yi-55B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-30T02:09:31.000Z",
+    "modelId": "TheBloke/SG-Raccoon-Yi-55B-GPTQ"
+  },
+  {
+    "_id": "6567eedbd0a121b8e8021470",
+    "id": "TheBloke/SG-Raccoon-Yi-55B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-11-30T02:09:31.000Z",
+    "modelId": "TheBloke/SG-Raccoon-Yi-55B-AWQ"
   }
 ]
