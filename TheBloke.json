@@ -1187,7 +1187,7 @@
   {
     "_id": "6465d990e0fe831b4789b356",
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GGML",
-    "likes": 80,
+    "likes": 81,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -62103,7 +62103,7 @@
   {
     "_id": "6567bb768e2b7c744f9fd8b0",
     "id": "TheBloke/NeuralHermes-2.5-Mistral-7B-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -62350,7 +62350,12 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "llama",
+      "base_model:NyxKrage/Chronomaid-Storytelling-13b",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
     "createdAt": "2023-11-30T10:03:29.000Z",
@@ -62375,8 +62380,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:NyxKrage/Chronomaid-Storytelling-13b",
+      "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-11-30T10:03:29.000Z",
     "modelId": "TheBloke/Chronomaid-Storytelling-13B-AWQ"
   }
