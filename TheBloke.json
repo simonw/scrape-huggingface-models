@@ -20149,7 +20149,7 @@
   {
     "_id": "64f614a19c2aeb2a3dea1312",
     "id": "TheBloke/Llama-2-13B-GGUF",
-    "likes": 34,
+    "likes": 35,
     "private": false,
     "downloads": 524,
     "tags": [
@@ -62076,7 +62076,7 @@
   {
     "_id": "6567bb76253c8b0b67a37989",
     "id": "TheBloke/NeuralHermes-2.5-Mistral-7B-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -62331,8 +62331,11 @@
       "safetensors",
       "llama",
       "text-generation",
+      "zh",
+      "en",
+      "base_model:TigerResearch/tigerbot-70b-chat-v2",
+      "license:apache-2.0",
       "autotrain_compatible",
-      "endpoints_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
