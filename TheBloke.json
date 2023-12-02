@@ -203,7 +203,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-30b-HF",
     "likes": 10,
     "private": false,
-    "downloads": 3729,
+    "downloads": 3594,
     "tags": [
       "transformers",
       "pytorch",
@@ -275,7 +275,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-13B-HF",
     "likes": 4,
     "private": false,
-    "downloads": 3763,
+    "downloads": 3626,
     "tags": [
       "transformers",
       "pytorch",
@@ -327,7 +327,7 @@
     "id": "TheBloke/alpaca-lora-65B-HF",
     "likes": 3,
     "private": false,
-    "downloads": 3726,
+    "downloads": 3593,
     "tags": [
       "transformers",
       "pytorch",
@@ -381,7 +381,7 @@
     "id": "TheBloke/medalpaca-13B-GPTQ",
     "likes": 28,
     "private": false,
-    "downloads": 4175,
+    "downloads": 4039,
     "tags": [
       "transformers",
       "pytorch",
@@ -406,7 +406,7 @@
     "id": "TheBloke/wizardLM-7B-HF",
     "likes": 90,
     "private": false,
-    "downloads": 5879,
+    "downloads": 5671,
     "tags": [
       "transformers",
       "pytorch",
@@ -440,7 +440,7 @@
     "id": "TheBloke/wizardLM-7B-GPTQ",
     "likes": 104,
     "private": false,
-    "downloads": 559,
+    "downloads": 569,
     "tags": [
       "transformers",
       "safetensors",
@@ -62760,5 +62760,30 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-12-02T14:13:42.000Z",
     "modelId": "TheBloke/neural-chat-7B-v3-2-AWQ"
+  },
+  {
+    "_id": "656b48c502a56b531a6d2ccc",
+    "id": "TheBloke/DiscoLM-120b-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-02T15:09:57.000Z",
+    "modelId": "TheBloke/DiscoLM-120b-AWQ"
+  },
+  {
+    "_id": "656b48c5903e16e62bb1376c",
+    "id": "TheBloke/DiscoLM-120b-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2023-12-02T15:09:57.000Z",
+    "modelId": "TheBloke/DiscoLM-120b-GGUF"
   }
 ]
