@@ -57052,7 +57052,7 @@
   {
     "_id": "655ba5ca48f950e91f215ef0",
     "id": "TheBloke/mistral_7b_norobots-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -61761,7 +61761,7 @@
   {
     "_id": "65677bae83a448555e0cdaa7",
     "id": "TheBloke/deepseek-llm-7B-base-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -61859,7 +61859,7 @@
   {
     "_id": "6567807f9e2582138bd0b497",
     "id": "TheBloke/deepseek-llm-7B-chat-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -62498,7 +62498,7 @@
   {
     "_id": "656908939969ebd3884821a9",
     "id": "TheBloke/meditron-7B-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -62698,8 +62698,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "gguf",
+      "yi",
+      "conversational",
+      "base_model:mlinmg/SG-Raccoon-Yi-55B-200k",
+      "license:other",
       "region:us"
     ],
+    "pipeline_tag": "conversational",
     "createdAt": "2023-12-02T11:33:36.000Z",
     "modelId": "TheBloke/SG-Raccoon-Yi-55B-200k-GGUF"
   }
