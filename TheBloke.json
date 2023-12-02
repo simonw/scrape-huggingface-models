@@ -62643,7 +62643,7 @@
   {
     "_id": "656a3a54e0ff1cebe909452b",
     "id": "TheBloke/juanako-7B-UNA-GGUF",
-    "likes": 4,
+    "likes": 6,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -62666,5 +62666,41 @@
     ],
     "createdAt": "2023-12-01T19:56:04.000Z",
     "modelId": "TheBloke/juanako-7B-UNA-GGUF"
+  },
+  {
+    "_id": "656b1610665d15428a63ca35",
+    "id": "TheBloke/SG-Raccoon-Yi-55B-200k-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-02T11:33:36.000Z",
+    "modelId": "TheBloke/SG-Raccoon-Yi-55B-200k-AWQ"
+  },
+  {
+    "_id": "656b1610af6d3c41290cfc79",
+    "id": "TheBloke/SG-Raccoon-Yi-55B-200k-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-02T11:33:36.000Z",
+    "modelId": "TheBloke/SG-Raccoon-Yi-55B-200k-GPTQ"
+  },
+  {
+    "_id": "656b1610c56388a985b8eadf",
+    "id": "TheBloke/SG-Raccoon-Yi-55B-200k-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-02T11:33:36.000Z",
+    "modelId": "TheBloke/SG-Raccoon-Yi-55B-200k-GGUF"
   }
 ]
