@@ -9939,8 +9939,7 @@
       "license:llama2",
       "text-generation-inference",
       "4-bit",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "createdAt": "2023-07-18T17:38:15.000Z",
@@ -50214,7 +50213,7 @@
   {
     "_id": "654705e78767484a0531ddbc",
     "id": "TheBloke/deepseek-coder-1.3b-instruct-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 74,
     "tags": [
