@@ -61640,7 +61640,7 @@
   {
     "_id": "65674311ac03c4c74148e5a1",
     "id": "TheBloke/deepseek-llm-67b-chat-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 37,
     "tags": [
@@ -62519,7 +62519,7 @@
   {
     "_id": "656a2e1109d123964b6802d9",
     "id": "TheBloke/cinematika-7B-v0.1-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -62720,5 +62720,45 @@
     "pipeline_tag": "conversational",
     "createdAt": "2023-12-02T11:33:36.000Z",
     "modelId": "TheBloke/SG-Raccoon-Yi-55B-200k-GGUF"
+  },
+  {
+    "_id": "656b3b96b402038902bf188a",
+    "id": "TheBloke/neural-chat-7B-v3-2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "base_model:Intel/neural-chat-7b-v3-2",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "createdAt": "2023-12-02T14:13:42.000Z",
+    "modelId": "TheBloke/neural-chat-7B-v3-2-GGUF"
+  },
+  {
+    "_id": "656b3b96efd0eea7c579f9e7",
+    "id": "TheBloke/neural-chat-7B-v3-2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:Intel/neural-chat-7b-v3-2",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-12-02T14:13:42.000Z",
+    "modelId": "TheBloke/neural-chat-7B-v3-2-AWQ"
   }
 ]
