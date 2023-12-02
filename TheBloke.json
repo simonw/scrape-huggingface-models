@@ -62674,8 +62674,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "conversational",
+      "base_model:mlinmg/SG-Raccoon-Yi-55B-200k",
+      "license:other",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "conversational",
     "createdAt": "2023-12-02T11:33:36.000Z",
     "modelId": "TheBloke/SG-Raccoon-Yi-55B-200k-AWQ"
   },
