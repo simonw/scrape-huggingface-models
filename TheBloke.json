@@ -44316,7 +44316,7 @@
   {
     "_id": "652ee6a717d03c316f67823a",
     "id": "TheBloke/llemma_7b-GGUF",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 45,
     "tags": [
@@ -57299,7 +57299,8 @@
       "base_model:microsoft/Orca-2-13b",
       "license:other",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "createdAt": "2023-11-21T08:27:56.000Z",
