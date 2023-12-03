@@ -50139,7 +50139,7 @@
   {
     "_id": "6546bfe04d1931dc93eacb63",
     "id": "TheBloke/deepseek-coder-33B-instruct-GGUF",
-    "likes": 79,
+    "likes": 80,
     "private": false,
     "downloads": 73,
     "tags": [
@@ -63066,9 +63066,37 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "dataset:pankajmathur/orca_mini_v1_dataset",
+      "dataset:openai/summarize_from_feedback",
+      "dataset:PygmalionAI/PIPPA",
+      "dataset:chargoddard/rpguild",
+      "dataset:lemonilia/LimaRP",
+      "base_model:chargoddard/loyal-piano-m7",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-12-03T03:16:16.000Z",
     "modelId": "TheBloke/loyal-piano-m7-GPTQ"
+  },
+  {
+    "_id": "656bfa16271c5c4e3300f56b",
+    "id": "TheBloke/DPOpenHermes-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-03T03:46:30.000Z",
+    "modelId": "TheBloke/DPOpenHermes-7B-GPTQ"
   }
 ]
