@@ -63044,9 +63044,31 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:Bronya-Rand/Inairtra-7B",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-12-03T02:48:02.000Z",
     "modelId": "TheBloke/Inairtra-7B-GPTQ"
+  },
+  {
+    "_id": "656bf30072c19de7235d5b5e",
+    "id": "TheBloke/loyal-piano-m7-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-03T03:16:16.000Z",
+    "modelId": "TheBloke/loyal-piano-m7-GPTQ"
   }
 ]
