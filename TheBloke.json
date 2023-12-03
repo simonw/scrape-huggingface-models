@@ -36371,7 +36371,7 @@
   {
     "_id": "6511ae8b5b4590211de0a25a",
     "id": "TheBloke/vicuna-33B-GGUF",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 13,
     "tags": [
@@ -63094,8 +63094,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "dataset:teknium/openhermes",
+      "dataset:argilla/ultrafeedback-binarized-preferences",
+      "dataset:Intel/orca_dpo_pairs",
+      "base_model:openaccess-ai-collective/DPOpenHermes-7B",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-12-03T03:46:30.000Z",
     "modelId": "TheBloke/DPOpenHermes-7B-GPTQ"
   }
