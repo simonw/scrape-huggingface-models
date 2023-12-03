@@ -62871,8 +62871,27 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "goliath",
+      "deutsch",
+      "llama2",
+      "discoresearch",
+      "text-generation",
+      "en",
+      "dataset:Open-Orca/SlimOrca-Dedup",
+      "dataset:teknium/openhermes",
+      "dataset:meta-math/MetaMathQA",
+      "dataset:migtissera/Synthia-v1.3",
+      "dataset:THUDM/AgentInstruct",
+      "dataset:LeoLM/German_Songs",
+      "dataset:LeoLM/German_Poems",
+      "dataset:LeoLM/OpenSchnabeltier",
+      "dataset:bjoernp/ultrachat_de",
+      "base_model:DiscoResearch/DiscoLM-120b",
+      "license:llama2",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-12-02T19:05:16.000Z",
     "modelId": "TheBloke/DiscoLM-120b-GPTQ"
   },
@@ -63017,5 +63036,17 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-12-03T00:11:00.000Z",
     "modelId": "TheBloke/loyal-piano-m7-AWQ"
+  },
+  {
+    "_id": "656bec62ef1e27e9e3f472d6",
+    "id": "TheBloke/Inairtra-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-03T02:48:02.000Z",
+    "modelId": "TheBloke/Inairtra-7B-GPTQ"
   }
 ]
