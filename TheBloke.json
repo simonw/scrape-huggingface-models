@@ -60247,7 +60247,7 @@
   {
     "_id": "6563bce17a465cdcb39a3f5c",
     "id": "TheBloke/PiVoT-0.1-Evil-a-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 11,
     "tags": [
@@ -62997,8 +62997,24 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "dataset:pankajmathur/orca_mini_v1_dataset",
+      "dataset:openai/summarize_from_feedback",
+      "dataset:PygmalionAI/PIPPA",
+      "dataset:chargoddard/rpguild",
+      "dataset:lemonilia/LimaRP",
+      "base_model:chargoddard/loyal-piano-m7",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-12-03T00:11:00.000Z",
     "modelId": "TheBloke/loyal-piano-m7-AWQ"
   }
