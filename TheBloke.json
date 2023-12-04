@@ -63401,8 +63401,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "dataset:Open-Orca/SlimOrca",
+      "base_model:Weyaxi/OpenHermes-2.5-neural-chat-7b-v3-2-7B",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-12-04T09:55:27.000Z",
     "modelId": "TheBloke/OpenHermes-2.5-neural-chat-7B-v3-2-7B-GPTQ"
   }
