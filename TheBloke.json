@@ -1861,7 +1861,7 @@
   {
     "_id": "6471c82a97a75cc77aa6cb70",
     "id": "TheBloke/falcon-40b-instruct-GPTQ",
-    "likes": 193,
+    "likes": 194,
     "private": false,
     "downloads": 6058,
     "tags": [
@@ -2223,7 +2223,7 @@
   {
     "_id": "64766ae06f0553f1b4f80a3a",
     "id": "TheBloke/samantha-falcon-7B-GPTQ",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 18,
     "tags": [
@@ -2346,7 +2346,7 @@
   {
     "_id": "6478d3a425e06d2ffe89e05a",
     "id": "TheBloke/WizardLM-Uncensored-Falcon-7B-GPTQ",
-    "likes": 54,
+    "likes": 55,
     "private": false,
     "downloads": 32129,
     "tags": [
@@ -2489,7 +2489,7 @@
   {
     "_id": "647b291cb31514a4a6d5bf4a",
     "id": "TheBloke/WizardLM-Uncensored-Falcon-40B-GPTQ",
-    "likes": 56,
+    "likes": 57,
     "private": false,
     "downloads": 147,
     "tags": [
@@ -61314,7 +61314,7 @@
   {
     "_id": "656664195ed6ca5f18dd02cd",
     "id": "TheBloke/Open-Hermes-2.5-neural-chat-3.1-frankenmerge-11b-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 22,
     "tags": [
@@ -61987,7 +61987,7 @@
   {
     "_id": "6567bb768e2b7c744f9fd8b0",
     "id": "TheBloke/NeuralHermes-2.5-Mistral-7B-AWQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 448,
     "tags": [
@@ -62423,7 +62423,7 @@
   {
     "_id": "6568fdf08931d28b242c4dce",
     "id": "TheBloke/SlimOrca-13B-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 13,
     "tags": [
@@ -63125,8 +63125,33 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "goliath",
+      "deutsch",
+      "llama2",
+      "discoresearch",
+      "en",
+      "de",
+      "dataset:Open-Orca/SlimOrca-Dedup",
+      "dataset:teknium/openhermes",
+      "dataset:meta-math/MetaMathQA",
+      "dataset:migtissera/Synthia-v1.3",
+      "dataset:THUDM/AgentInstruct",
+      "dataset:LeoLM/German_Songs",
+      "dataset:LeoLM/German_Poems",
+      "dataset:LeoLM/OpenSchnabeltier",
+      "dataset:bjoernp/ultrachat_de",
+      "base_model:DiscoResearch/DiscoLM-70b",
+      "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-12-03T17:28:15.000Z",
     "modelId": "TheBloke/DiscoLM-70B-GPTQ"
   },
@@ -63203,7 +63228,7 @@
   {
     "_id": "656cc035e8bf55919aa2001d",
     "id": "TheBloke/Onii-1.3-13B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
