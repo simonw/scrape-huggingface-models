@@ -166,7 +166,7 @@
     "id": "TheBloke/Vicuna-13B-1.1-GPTQ",
     "likes": 207,
     "private": false,
-    "downloads": 459,
+    "downloads": 452,
     "tags": [
       "transformers",
       "llama",
@@ -185,7 +185,7 @@
     "id": "TheBloke/vicuna-7B-1.1-GPTQ",
     "likes": 58,
     "private": false,
-    "downloads": 191,
+    "downloads": 192,
     "tags": [
       "transformers",
       "llama",
@@ -203,7 +203,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-30b-HF",
     "likes": 10,
     "private": false,
-    "downloads": 3376,
+    "downloads": 3155,
     "tags": [
       "transformers",
       "pytorch",
@@ -275,7 +275,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-13B-HF",
     "likes": 4,
     "private": false,
-    "downloads": 3412,
+    "downloads": 3192,
     "tags": [
       "transformers",
       "pytorch",
@@ -327,7 +327,7 @@
     "id": "TheBloke/alpaca-lora-65B-HF",
     "likes": 3,
     "private": false,
-    "downloads": 3378,
+    "downloads": 3154,
     "tags": [
       "transformers",
       "pytorch",
@@ -381,7 +381,7 @@
     "id": "TheBloke/medalpaca-13B-GPTQ",
     "likes": 28,
     "private": false,
-    "downloads": 3818,
+    "downloads": 3595,
     "tags": [
       "transformers",
       "pytorch",
@@ -62254,6 +62254,7 @@
       "text-generation",
       "base_model:NyxKrage/Chronomaid-Storytelling-13b",
       "license:llama2",
+      "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -62275,6 +62276,7 @@
       "text-generation",
       "base_model:NyxKrage/Chronomaid-Storytelling-13b",
       "license:llama2",
+      "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
