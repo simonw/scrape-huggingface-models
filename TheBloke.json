@@ -60492,7 +60492,7 @@
   {
     "_id": "6564a8f1ea82965f35948189",
     "id": "TheBloke/OpenHermes-2.5-neural-chat-7B-v3-1-7B-GGUF",
-    "likes": 24,
+    "likes": 25,
     "private": false,
     "downloads": 18,
     "tags": [
@@ -63341,5 +63341,46 @@
     "pipeline_tag": "text-generation",
     "createdAt": "2023-12-03T18:47:50.000Z",
     "modelId": "TheBloke/notus-7B-v1-AWQ"
+  },
+  {
+    "_id": "656d90a67c934a7b3c3ed684",
+    "id": "TheBloke/notus-7B-v1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "dpo",
+      "rlaif",
+      "preference",
+      "ultrafeedback",
+      "en",
+      "dataset:argilla/ultrafeedback-binarized-preferences",
+      "base_model:argilla/notus-7b-v1",
+      "license:mit",
+      "model-index",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "createdAt": "2023-12-04T08:41:10.000Z",
+    "modelId": "TheBloke/notus-7B-v1-GPTQ"
+  },
+  {
+    "_id": "656d9733801ed9952fe2062e",
+    "id": "TheBloke/Onii-1.3-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-04T09:09:07.000Z",
+    "modelId": "TheBloke/Onii-1.3-13B-GPTQ"
   }
 ]
