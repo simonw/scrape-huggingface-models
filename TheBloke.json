@@ -49727,7 +49727,7 @@
   {
     "_id": "654418242996405c238f5eea",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
-    "likes": 110,
+    "likes": 111,
     "private": false,
     "downloads": 697,
     "tags": [
@@ -63247,7 +63247,7 @@
   {
     "_id": "656cc87e9dcedd16d53c21cf",
     "id": "TheBloke/OpenHermes-2.5-neural-chat-7B-v3-2-7B-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -63378,9 +63378,32 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "base_model:Oniichat/Onii-1.3-13b",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
     "createdAt": "2023-12-04T09:09:07.000Z",
     "modelId": "TheBloke/Onii-1.3-13B-GPTQ"
+  },
+  {
+    "_id": "656da20ffa91c8160985ca75",
+    "id": "TheBloke/OpenHermes-2.5-neural-chat-7B-v3-2-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-04T09:55:27.000Z",
+    "modelId": "TheBloke/OpenHermes-2.5-neural-chat-7B-v3-2-7B-GPTQ"
   }
 ]
