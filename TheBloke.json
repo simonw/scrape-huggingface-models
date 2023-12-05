@@ -42862,7 +42862,8 @@
       "base_model:teknium/OpenHermes-2-Mistral-7B",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "createdAt": "2023-10-14T08:00:17.000Z",
     "modelId": "TheBloke/OpenHermes-2-Mistral-7B-GGUF"
@@ -56370,7 +56371,7 @@
   {
     "_id": "655764cef062c53d557c97c2",
     "id": "TheBloke/dragon-yi-6B-v0-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -63259,7 +63260,7 @@
   {
     "_id": "6567bb76253c8b0b67a37989",
     "id": "TheBloke/NeuralHermes-2.5-Mistral-7B-GGUF",
-    "likes": 26,
+    "likes": 27,
     "private": false,
     "downloads": 30,
     "tags": [
@@ -64705,7 +64706,7 @@
   {
     "_id": "656e1f6690d556ffa655c7e3",
     "id": "TheBloke/RpBird-Yi-34B-200k-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -64798,7 +64799,7 @@
   {
     "_id": "656e61bc4390ade20ec1bca9",
     "id": "TheBloke/OpenOrca-Zephyr-7B-GGUF",
-    "likes": 0,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
