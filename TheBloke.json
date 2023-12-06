@@ -1721,6 +1721,7 @@
       "text-generation",
       "base_model:timdettmers/guanaco-33b-merged",
       "license:other",
+      "autotrain_compatible",
       "has_space",
       "text-generation-inference",
       "4-bit",
@@ -7880,7 +7881,7 @@
   {
     "_id": "649e5b15f140a4e8b567200b",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-SuperHOT-8K-GGML",
-    "likes": 62,
+    "likes": 63,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -9618,6 +9619,7 @@
       "arxiv:2308.09583",
       "base_model:WizardLM/WizardLM-13B-V1.1",
       "license:other",
+      "autotrain_compatible",
       "has_space",
       "text-generation-inference",
       "4-bit",
@@ -11141,6 +11143,7 @@
       "en",
       "base_model:Mikael110/llama-2-70b-guanaco-qlora",
       "license:other",
+      "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -18062,6 +18065,7 @@
       "arxiv:2308.12950",
       "base_model:codellama/CodeLlama-34b-hf",
       "license:llama2",
+      "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -25353,6 +25357,8 @@
       "text-generation",
       "base_model:yeontaek/llama-2-70B-ensemble-v5",
       "license:llama2",
+      "autotrain_compatible",
+      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -26278,6 +26284,7 @@
       "text-generation",
       "base_model:ziqingyang/chinese-llama-2-13b",
       "license:apache-2.0",
+      "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -26934,6 +26941,7 @@
       "nsfw",
       "base_model:Undi95/mlewd-l2-chat-13B",
       "license:cc-by-nc-4.0",
+      "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -43101,6 +43109,7 @@
       "nsfw",
       "base_model:Undi95/PsyMedRP-v1-20B",
       "license:cc-by-nc-4.0",
+      "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -43394,6 +43403,7 @@
       "text-generation",
       "base_model:abdgrt/Tinyllama-2-1b-miniguanaco",
       "license:other",
+      "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -43576,6 +43586,7 @@
       "dataset:garage-bAInd/Open-Platypus",
       "base_model:lgaalves/tinyllama-1.1b-chat-v0.3_platypus",
       "license:other",
+      "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -48067,6 +48078,7 @@
       "dataset:akjindal53244/Arithmo-Data",
       "base_model:akjindal53244/Arithmo-Mistral-7B",
       "license:apache-2.0",
+      "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -48543,7 +48555,7 @@
   {
     "_id": "65339f726054952c5a2866ce",
     "id": "TheBloke/MLewdBoros-LRPSGPT-2Char-13B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -48668,6 +48680,7 @@
       "dataset:jondurbin/airoboros-3.1",
       "base_model:jondurbin/airoboros-l2-70b-3.1.2",
       "license:llama2",
+      "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -49117,6 +49130,7 @@
       "text-generation",
       "base_model:cgato/Thespis-13b-v0.4",
       "license:llama2",
+      "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -50692,6 +50706,7 @@
       "arxiv:2310.06825",
       "base_model:stabilityai/japanese-stablelm-instruct-gamma-7b",
       "license:apache-2.0",
+      "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -50998,6 +51013,7 @@
       "text-generation",
       "base_model:Heralax/Augmental-13b-v1.50_A",
       "license:llama2",
+      "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -51262,6 +51278,7 @@
       "custom_code",
       "base_model:BAAI/AquilaChat2-34B",
       "license:other",
+      "autotrain_compatible",
       "4-bit",
       "region:us"
     ],
@@ -51474,6 +51491,7 @@
       "gguf",
       "mistral",
       "base_model:SciPhi/SciPhi-Mistral-7B-32k",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -51742,6 +51760,7 @@
       "not-for-all-audiences",
       "base_model:cgato/Thespis-13b-v0.5",
       "license:llama2",
+      "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -51986,6 +52005,7 @@
       "en",
       "base_model:ajibawa-2023/Uncensored-Jordan-7B",
       "license:other",
+      "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -52508,6 +52528,7 @@
       "text-generation",
       "base_model:SciPhi/SciPhi-Self-RAG-Mistral-7B-32k",
       "license:mit",
+      "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -52530,6 +52551,7 @@
       "text-generation",
       "base_model:SciPhi/SciPhi-Self-RAG-Mistral-7B-32k",
       "license:mit",
+      "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -52593,6 +52615,7 @@
       "text-generation",
       "base_model:OpenBuddy/openbuddy-llama2-70b-v13.2",
       "license:llama2",
+      "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -52741,6 +52764,7 @@
       "dataset:kunishou/oasst1-89k-ja",
       "base_model:stabilityai/japanese-stablelm-instruct-beta-70b",
       "license:llama2",
+      "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -53452,6 +53476,7 @@
       "en",
       "base_model:CalderaAI/Naberius-7B",
       "license:apache-2.0",
+      "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -53563,6 +53588,7 @@
       "text-generation",
       "base_model:deepseek-ai/deepseek-coder-1.3b-base",
       "license:other",
+      "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -54010,6 +54036,7 @@
       "dataset:teknium/trismegistus-project",
       "base_model:teknium/Hermes-Trismegistus-Mistral-7B",
       "license:apache-2.0",
+      "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -67780,7 +67807,7 @@
   {
     "_id": "657041bb14fa8cfccd457a18",
     "id": "TheBloke/una-cybertron-7B-v2-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
