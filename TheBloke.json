@@ -67807,7 +67807,7 @@
   {
     "_id": "657041bb14fa8cfccd457a18",
     "id": "TheBloke/una-cybertron-7B-v2-GGUF",
-    "likes": 4,
+    "likes": 6,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -67916,8 +67916,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:migtissera/Tess-7B-v1.4",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-06T14:02:38.000Z",
     "modelId": "TheBloke/Tess-7B-v1.4-AWQ"
   },
@@ -67928,8 +67939,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:migtissera/Tess-7B-v1.4",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-06T14:02:38.000Z",
     "modelId": "TheBloke/Tess-7B-v1.4-GPTQ"
   },
@@ -67964,9 +67986,59 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "en",
+      "base_model:Redwood0/PiVoT-Merge-A-7B",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-06T14:04:40.000Z",
     "modelId": "TheBloke/PiVoT-Merge-A-7B-AWQ"
+  },
+  {
+    "_id": "657086a753269901a14efd78",
+    "id": "TheBloke/Tess-34B-v1.4-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-06T14:35:19.000Z",
+    "modelId": "TheBloke/Tess-34B-v1.4-GGUF"
+  },
+  {
+    "_id": "657086a771148713df04ec3b",
+    "id": "TheBloke/Tess-34B-v1.4-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-06T14:35:19.000Z",
+    "modelId": "TheBloke/Tess-34B-v1.4-AWQ"
+  },
+  {
+    "_id": "657086a7c1b36e8e576fef0f",
+    "id": "TheBloke/Tess-34B-v1.4-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-06T14:35:19.000Z",
+    "modelId": "TheBloke/Tess-34B-v1.4-GPTQ"
   }
 ]
