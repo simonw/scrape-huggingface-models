@@ -67807,7 +67807,7 @@
   {
     "_id": "657041bb14fa8cfccd457a18",
     "id": "TheBloke/una-cybertron-7B-v2-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -67889,5 +67889,84 @@
     "library_name": "transformers",
     "createdAt": "2023-12-06T10:08:40.000Z",
     "modelId": "TheBloke/una-cybertron-7B-v2-GPTQ"
+  },
+  {
+    "_id": "65707efe1995dc9aee3dca0b",
+    "id": "TheBloke/Tess-7B-v1.4-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "base_model:migtissera/Tess-7B-v1.4",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-06T14:02:38.000Z",
+    "modelId": "TheBloke/Tess-7B-v1.4-GGUF"
+  },
+  {
+    "_id": "65707efeba19285f32ba8024",
+    "id": "TheBloke/Tess-7B-v1.4-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-06T14:02:38.000Z",
+    "modelId": "TheBloke/Tess-7B-v1.4-AWQ"
+  },
+  {
+    "_id": "65707efebe66cd9b6576abc7",
+    "id": "TheBloke/Tess-7B-v1.4-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-06T14:02:38.000Z",
+    "modelId": "TheBloke/Tess-7B-v1.4-GPTQ"
+  },
+  {
+    "_id": "65707f786bbfca6461363511",
+    "id": "TheBloke/PiVoT-Merge-A-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "not-for-all-audiences",
+      "nsfw",
+      "text-generation",
+      "en",
+      "base_model:Redwood0/PiVoT-Merge-A-7B",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-06T14:04:40.000Z",
+    "modelId": "TheBloke/PiVoT-Merge-A-7B-GGUF"
+  },
+  {
+    "_id": "65707f78d877298e1d2aaaf8",
+    "id": "TheBloke/PiVoT-Merge-A-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-06T14:04:40.000Z",
+    "modelId": "TheBloke/PiVoT-Merge-A-7B-AWQ"
   }
 ]
