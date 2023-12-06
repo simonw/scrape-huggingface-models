@@ -22477,7 +22477,7 @@
   {
     "_id": "64f7bac9fbbfe40336117526",
     "id": "TheBloke/Llama-2-7B-32K-Instruct-GGUF",
-    "likes": 38,
+    "likes": 39,
     "private": false,
     "downloads": 143,
     "tags": [
@@ -41785,7 +41785,8 @@
       "base_model:jeff31415/TinyLlama-1.1B-1T-OpenOrca",
       "license:other",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "createdAt": "2023-10-11T04:23:27.000Z",
     "modelId": "TheBloke/TinyLlama-1.1B-1T-OpenOrca-GGUF"
@@ -51269,7 +51270,7 @@
   {
     "_id": "6546bfe04d1931dc93eacb63",
     "id": "TheBloke/deepseek-coder-33B-instruct-GGUF",
-    "likes": 86,
+    "likes": 87,
     "private": false,
     "downloads": 76,
     "tags": [
@@ -64929,7 +64930,7 @@
   {
     "_id": "656f6b91039133e8752c0d16",
     "id": "TheBloke/SUS-Chat-34B-AWQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
