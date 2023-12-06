@@ -26,7 +26,7 @@
     "id": "TheBloke/koala-7B-HF",
     "likes": 18,
     "private": false,
-    "downloads": 2925,
+    "downloads": 2694,
     "tags": [
       "transformers",
       "pytorch",
@@ -54,7 +54,7 @@
     "id": "TheBloke/koala-13B-HF",
     "likes": 41,
     "private": false,
-    "downloads": 3279,
+    "downloads": 3049,
     "tags": [
       "transformers",
       "pytorch",
@@ -10508,7 +10508,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 665,
+    "likes": 666,
     "private": false,
     "downloads": 4326,
     "tags": [
@@ -58926,7 +58926,7 @@
   {
     "_id": "655786330438e0854fbeca0f",
     "id": "TheBloke/alfred-40B-1023-GGUF",
-    "likes": 4,
+    "likes": 3,
     "private": false,
     "downloads": 11,
     "tags": [
@@ -61535,7 +61535,7 @@
   {
     "_id": "655e4c7ea3e811457667b53f",
     "id": "TheBloke/rocket-3B-GGUF",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 81,
     "tags": [
@@ -65708,7 +65708,7 @@
   {
     "_id": "6567542e92d931990722c66d",
     "id": "TheBloke/open-llama-3b-v2-wizard-evol-instuct-v2-196k-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -67699,7 +67699,7 @@
   {
     "_id": "656f6b91ae61260b610d34a4",
     "id": "TheBloke/SUS-Chat-34B-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -67765,7 +67765,7 @@
   {
     "_id": "6570415781e5a9a8fc0d4a29",
     "id": "TheBloke/NeuralOrca-7B-v1-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -67807,7 +67807,7 @@
   {
     "_id": "657041bb14fa8cfccd457a18",
     "id": "TheBloke/una-cybertron-7B-v2-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -68012,8 +68012,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "gguf",
+      "yi",
+      "base_model:migtissera/Tess-34B-v1.4",
+      "license:other",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2023-12-06T14:35:19.000Z",
     "modelId": "TheBloke/Tess-34B-v1.4-GGUF"
   },
