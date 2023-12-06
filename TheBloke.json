@@ -2309,7 +2309,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 441,
+    "likes": 442,
     "private": false,
     "downloads": 15100,
     "tags": [
@@ -3081,7 +3081,7 @@
     "id": "TheBloke/WizardLM-30B-GPTQ",
     "likes": 19,
     "private": false,
-    "downloads": 2870,
+    "downloads": 2638,
     "tags": [
       "transformers",
       "safetensors",
@@ -3104,7 +3104,7 @@
     "id": "TheBloke/WizardLM-30B-fp16",
     "likes": 10,
     "private": false,
-    "downloads": 2869,
+    "downloads": 2642,
     "tags": [
       "transformers",
       "pytorch",
@@ -3182,7 +3182,7 @@
     "id": "TheBloke/chronos-wizardlm-uc-scot-st-13B-GPTQ",
     "likes": 6,
     "private": false,
-    "downloads": 3210,
+    "downloads": 2967,
     "tags": [
       "transformers",
       "safetensors",
@@ -3436,7 +3436,7 @@
     "id": "TheBloke/Vicuna-13B-CoT-fp16",
     "likes": 3,
     "private": false,
-    "downloads": 3203,
+    "downloads": 2976,
     "tags": [
       "transformers",
       "pytorch",
@@ -3594,7 +3594,7 @@
     "id": "TheBloke/starcoderplus-GPTQ",
     "likes": 25,
     "private": false,
-    "downloads": 251,
+    "downloads": 243,
     "tags": [
       "transformers",
       "safetensors",
@@ -3714,7 +3714,7 @@
     "id": "TheBloke/starchat-beta-GPTQ",
     "likes": 26,
     "private": false,
-    "downloads": 309,
+    "downloads": 313,
     "tags": [
       "transformers",
       "safetensors",
@@ -3939,7 +3939,7 @@
     "id": "TheBloke/tulu-30B-fp16",
     "likes": 5,
     "private": false,
-    "downloads": 2872,
+    "downloads": 2641,
     "tags": [
       "transformers",
       "pytorch",
@@ -4039,7 +4039,7 @@
     "id": "TheBloke/tulu-13B-fp16",
     "likes": 2,
     "private": false,
-    "downloads": 2901,
+    "downloads": 2669,
     "tags": [
       "transformers",
       "pytorch",
@@ -4149,7 +4149,7 @@
     "id": "TheBloke/tulu-7B-fp16",
     "likes": 3,
     "private": false,
-    "downloads": 3220,
+    "downloads": 2978,
     "tags": [
       "transformers",
       "pytorch",
@@ -4232,7 +4232,7 @@
     "id": "TheBloke/airoboros-33b-gpt4-GPTQ",
     "likes": 5,
     "private": false,
-    "downloads": 17,
+    "downloads": 23,
     "tags": [
       "transformers",
       "safetensors",
@@ -4333,7 +4333,7 @@
     "id": "TheBloke/chronos-hermes-13B-GPTQ",
     "likes": 30,
     "private": false,
-    "downloads": 397,
+    "downloads": 395,
     "tags": [
       "transformers",
       "safetensors",
@@ -4501,7 +4501,7 @@
     "id": "TheBloke/WizardCoder-15B-1.0-GPTQ",
     "likes": 169,
     "private": false,
-    "downloads": 1014,
+    "downloads": 1011,
     "tags": [
       "transformers",
       "safetensors",
@@ -4523,7 +4523,7 @@
     "id": "TheBloke/WizardCoder-15B-1.0-GGML",
     "likes": 112,
     "private": false,
-    "downloads": 91,
+    "downloads": 88,
     "tags": [
       "transformers",
       "starcoder",
@@ -4658,7 +4658,7 @@
     "id": "TheBloke/robin-33B-v2-fp16",
     "likes": 3,
     "private": false,
-    "downloads": 2859,
+    "downloads": 2630,
     "tags": [
       "transformers",
       "pytorch",
@@ -4680,7 +4680,7 @@
     "id": "TheBloke/robin-33B-v2-GPTQ",
     "likes": 13,
     "private": false,
-    "downloads": 2840,
+    "downloads": 2604,
     "tags": [
       "transformers",
       "safetensors",
@@ -4785,7 +4785,7 @@
     "id": "TheBloke/robin-13B-v2-fp16",
     "likes": 4,
     "private": false,
-    "downloads": 2843,
+    "downloads": 2610,
     "tags": [
       "transformers",
       "pytorch",
@@ -4829,7 +4829,7 @@
     "id": "TheBloke/robin-65b-v2-fp16",
     "likes": 3,
     "private": false,
-    "downloads": 2865,
+    "downloads": 2637,
     "tags": [
       "transformers",
       "pytorch",
@@ -4886,7 +4886,7 @@
     "id": "TheBloke/galactica-30B-evol-instruct-70K-GPTQ",
     "likes": 10,
     "private": false,
-    "downloads": 193,
+    "downloads": 199,
     "tags": [
       "transformers",
       "safetensors",
@@ -5053,7 +5053,7 @@
     "id": "TheBloke/WizardLM-7B-V1.0-Uncensored-GPTQ",
     "likes": 12,
     "private": false,
-    "downloads": 470,
+    "downloads": 477,
     "tags": [
       "transformers",
       "safetensors",
@@ -5077,7 +5077,7 @@
     "id": "TheBloke/BigTranslate-13B-GPTQ",
     "likes": 16,
     "private": false,
-    "downloads": 2984,
+    "downloads": 2738,
     "tags": [
       "transformers",
       "safetensors",
@@ -67807,7 +67807,7 @@
   {
     "_id": "657041bb14fa8cfccd457a18",
     "id": "TheBloke/una-cybertron-7B-v2-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -67893,7 +67893,7 @@
   {
     "_id": "65707efe1995dc9aee3dca0b",
     "id": "TheBloke/Tess-7B-v1.4-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
