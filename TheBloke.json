@@ -18374,7 +18374,7 @@
   {
     "_id": "64e9e5316b9db55517b1d2a9",
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GGUF",
-    "likes": 69,
+    "likes": 70,
     "private": false,
     "downloads": 42,
     "tags": [
@@ -64356,7 +64356,7 @@
   {
     "_id": "6564a8f1ea82965f35948189",
     "id": "TheBloke/OpenHermes-2.5-neural-chat-7B-v3-1-7B-GGUF",
-    "likes": 38,
+    "likes": 39,
     "private": false,
     "downloads": 40,
     "tags": [
@@ -66725,7 +66725,7 @@
   {
     "_id": "656b3b96b402038902bf188a",
     "id": "TheBloke/neural-chat-7B-v3-2-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -67840,8 +67840,26 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "juanako",
+      "UNA",
+      "cybertron",
+      "fbl",
+      "dataset:fblgit/tree-of-knowledge",
+      "dataset:Open-Orca/SlimOrca-Dedup",
+      "dataset:allenai/ultrafeedback_binarized_cleaned",
+      "base_model:fblgit/una-cybertron-7b-v2-bf16",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-06T10:08:40.000Z",
     "modelId": "TheBloke/una-cybertron-7B-v2-GPTQ"
   }
