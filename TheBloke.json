@@ -10563,7 +10563,7 @@
   {
     "_id": "64b6d3eeab056b63ede8a758",
     "id": "TheBloke/Llama-2-13B-chat-GGML",
-    "likes": 633,
+    "likes": 634,
     "private": false,
     "downloads": 1352,
     "tags": [
@@ -65094,7 +65094,7 @@
   {
     "_id": "656627d46443f1b315b9f5f0",
     "id": "TheBloke/Aetheria-L2-70B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -68443,6 +68443,7 @@
       "gguf",
       "yi",
       "roleplay",
+      "not-for-all-audiences",
       "text-generation",
       "en",
       "dataset:lemonilia/LimaRP",
@@ -68468,6 +68469,7 @@
       "Yi",
       "feature-extraction",
       "roleplay",
+      "not-for-all-audiences",
       "text-generation",
       "custom_code",
       "en",
@@ -68698,7 +68700,7 @@
   {
     "_id": "6571b0435b76a470dfa2f422",
     "id": "TheBloke/deepsex-34b-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -68714,8 +68716,26 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "ja",
+      "en",
+      "dataset:augmxnt/ultra-orca-boros-en-ja-v1",
+      "dataset:Open-Orca/SlimOrca",
+      "dataset:augmxnt/shisa-en-ja-dpo-v1",
+      "arxiv:2310.05914",
+      "arxiv:2305.18290",
+      "base_model:augmxnt/shisa-7b-v1",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-07T12:48:04.000Z",
     "modelId": "TheBloke/shisa-7B-v1-GPTQ"
   }
