@@ -17452,7 +17452,7 @@
   {
     "_id": "64e78d117acd8971f2c6bbe6",
     "id": "TheBloke/CodeLlama-7B-GGUF",
-    "likes": 61,
+    "likes": 62,
     "private": false,
     "downloads": 296,
     "tags": [
@@ -21256,7 +21256,7 @@
   {
     "_id": "64f5fd954d3b1dd311d30e28",
     "id": "TheBloke/Llama-2-7B-GGUF",
-    "likes": 80,
+    "likes": 81,
     "private": false,
     "downloads": 850,
     "tags": [
@@ -61226,7 +61226,7 @@
   {
     "_id": "655cf5e575956386713ad5a1",
     "id": "TheBloke/gorilla-openfunctions-v1-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 41,
     "tags": [
@@ -64582,7 +64582,7 @@
   {
     "_id": "6564fbee18d648e7cca1d112",
     "id": "TheBloke/Starling-LM-7B-alpha-GGUF",
-    "likes": 37,
+    "likes": 38,
     "private": false,
     "downloads": 59,
     "tags": [
@@ -64928,7 +64928,7 @@
   {
     "_id": "65660aef1cd377ae60bc0cd2",
     "id": "TheBloke/Starling-LM-7B-alpha-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 409,
     "tags": [
@@ -67807,7 +67807,7 @@
   {
     "_id": "657041bb14fa8cfccd457a18",
     "id": "TheBloke/una-cybertron-7B-v2-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -67824,7 +67824,8 @@
       "base_model:fblgit/una-cybertron-7b-v2-bf16",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "library_name": "transformers",
     "createdAt": "2023-12-06T09:41:15.000Z",
