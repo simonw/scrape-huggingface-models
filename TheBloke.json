@@ -68581,9 +68581,33 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2308.12950",
+      "base_model:Nexusflow/NexusRaven-V2-13B",
+      "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-06T23:19:04.000Z",
     "modelId": "TheBloke/NexusRaven-V2-13B-GPTQ"
+  },
+  {
+    "_id": "65719c685ad5f099a6255318",
+    "id": "TheBloke/DPOpenHermes-7B-v2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-07T10:20:24.000Z",
+    "modelId": "TheBloke/DPOpenHermes-7B-v2-GPTQ"
   }
 ]
