@@ -8465,7 +8465,7 @@
     "id": "TheBloke/CAMEL-33B-Combined-Data-SuperHOT-8K-fp16",
     "likes": 1,
     "private": false,
-    "downloads": 2648,
+    "downloads": 2430,
     "tags": [
       "transformers",
       "pytorch",
@@ -9608,7 +9608,7 @@
     "id": "TheBloke/WizardLM-13B-V1.1-GPTQ",
     "likes": 27,
     "private": false,
-    "downloads": 3048,
+    "downloads": 2836,
     "tags": [
       "transformers",
       "safetensors",
@@ -9635,7 +9635,7 @@
     "id": "TheBloke/WizardLM-13B-V1-1-SuperHOT-8K-GPTQ",
     "likes": 45,
     "private": false,
-    "downloads": 2651,
+    "downloads": 2443,
     "tags": [
       "transformers",
       "safetensors",
@@ -9673,7 +9673,7 @@
     "id": "TheBloke/WizardLM-13B-V1-1-SuperHOT-8K-fp16",
     "likes": 4,
     "private": false,
-    "downloads": 2636,
+    "downloads": 2427,
     "tags": [
       "transformers",
       "pytorch",
@@ -9896,7 +9896,7 @@
     "id": "TheBloke/Chronoboros-33B-GPTQ",
     "likes": 25,
     "private": false,
-    "downloads": 231,
+    "downloads": 228,
     "tags": [
       "transformers",
       "safetensors",
@@ -9931,7 +9931,7 @@
     "id": "TheBloke/airochronos-33B-GPTQ",
     "likes": 8,
     "private": false,
-    "downloads": 20,
+    "downloads": 18,
     "tags": [
       "transformers",
       "safetensors",
@@ -9966,7 +9966,7 @@
     "id": "TheBloke/open-llama-7B-v2-open-instruct-GPTQ",
     "likes": 2,
     "private": false,
-    "downloads": 13,
+    "downloads": 9,
     "tags": [
       "transformers",
       "safetensors",
@@ -10016,7 +10016,7 @@
     "id": "TheBloke/Starcoderplus-Guanaco-GPT4-15B-V1.0-GPTQ",
     "likes": 8,
     "private": false,
-    "downloads": 19,
+    "downloads": 18,
     "tags": [
       "transformers",
       "safetensors",
@@ -10086,7 +10086,7 @@
     "id": "TheBloke/openchat_v2_openorca_preview-GPTQ",
     "likes": 15,
     "private": false,
-    "downloads": 2620,
+    "downloads": 2407,
     "tags": [
       "transformers",
       "safetensors",
@@ -10224,7 +10224,7 @@
     "id": "TheBloke/LLaMa-13B-GPTQ",
     "likes": 4,
     "private": false,
-    "downloads": 296,
+    "downloads": 299,
     "tags": [
       "transformers",
       "safetensors",
@@ -10267,7 +10267,7 @@
     "id": "TheBloke/LLaMa-7B-GPTQ",
     "likes": 3,
     "private": false,
-    "downloads": 610,
+    "downloads": 618,
     "tags": [
       "transformers",
       "safetensors",
@@ -12628,7 +12628,7 @@
   {
     "_id": "64c7e2d43a3f428da64e4f95",
     "id": "TheBloke/OpenChat_v3.2-GGML",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -21256,7 +21256,7 @@
   {
     "_id": "64f5fd954d3b1dd311d30e28",
     "id": "TheBloke/Llama-2-7B-GGUF",
-    "likes": 82,
+    "likes": 83,
     "private": false,
     "downloads": 850,
     "tags": [
@@ -52977,7 +52977,7 @@
   {
     "_id": "654418242996405c238f5eea",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
-    "likes": 113,
+    "likes": 114,
     "private": false,
     "downloads": 757,
     "tags": [
@@ -68822,5 +68822,42 @@
     "library_name": "transformers",
     "createdAt": "2023-12-07T16:46:19.000Z",
     "modelId": "TheBloke/Tiamat-7B-GGUF"
+  },
+  {
+    "_id": "65720f9c1f334cd9021e7c1f",
+    "id": "TheBloke/Iambe-RP-cDPO-20B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-07T18:31:56.000Z",
+    "modelId": "TheBloke/Iambe-RP-cDPO-20B-AWQ"
+  },
+  {
+    "_id": "65720f9c30ce51aaed6020d2",
+    "id": "TheBloke/Iambe-RP-cDPO-20B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2023-12-07T18:31:56.000Z",
+    "modelId": "TheBloke/Iambe-RP-cDPO-20B-GGUF"
+  },
+  {
+    "_id": "65720f9cdb258f25666f530b",
+    "id": "TheBloke/Iambe-RP-cDPO-20B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-07T18:31:56.000Z",
+    "modelId": "TheBloke/Iambe-RP-cDPO-20B-GPTQ"
   }
 ]
