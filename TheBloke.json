@@ -18943,7 +18943,7 @@
   {
     "_id": "64eb8a892800cf7e9cb2541b",
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GPTQ",
-    "likes": 71,
+    "likes": 72,
     "private": false,
     "downloads": 932,
     "tags": [
@@ -49592,7 +49592,7 @@
   {
     "_id": "653980d40da86d726c8765e9",
     "id": "TheBloke/lzlv_70B-GGUF",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 26,
     "tags": [
@@ -65940,7 +65940,7 @@
   {
     "_id": "6567bb76253c8b0b67a37989",
     "id": "TheBloke/NeuralHermes-2.5-Mistral-7B-GGUF",
-    "likes": 27,
+    "likes": 28,
     "private": false,
     "downloads": 45,
     "tags": [
@@ -68138,7 +68138,7 @@
   {
     "_id": "6570b85f71148713df107fd0",
     "id": "TheBloke/NexusRaven-V2-13B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -68435,7 +68435,7 @@
   {
     "_id": "6570cfbf1a22eb9b09a41b6e",
     "id": "TheBloke/deepsex-34b-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -68646,8 +68646,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "Math",
+      "en",
+      "dataset:meta-math/MetaMathQA",
+      "base_model:Q-bert/Optimus-7B",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-07T11:17:10.000Z",
     "modelId": "TheBloke/Optimus-7B-GPTQ"
   },
@@ -68680,5 +68694,17 @@
     "library_name": "transformers",
     "createdAt": "2023-12-07T11:17:54.000Z",
     "modelId": "TheBloke/shisa-7B-v1-AWQ"
+  },
+  {
+    "_id": "6571b0435b76a470dfa2f422",
+    "id": "TheBloke/deepsex-34b-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-07T11:45:07.000Z",
+    "modelId": "TheBloke/deepsex-34b-GPTQ"
   }
 ]
