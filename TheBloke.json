@@ -10590,7 +10590,7 @@
   {
     "_id": "64b6d9d4bb1d8f2832c8be93",
     "id": "TheBloke/Llama-2-13B-chat-GPTQ",
-    "likes": 309,
+    "likes": 310,
     "private": false,
     "downloads": 64219,
     "tags": [
@@ -64123,7 +64123,7 @@
   {
     "_id": "6563bce17a465cdcb39a3f5c",
     "id": "TheBloke/PiVoT-0.1-Evil-a-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 13,
     "tags": [
@@ -67225,18 +67225,6 @@
     "modelId": "TheBloke/DiscoLM-70B-GGUF"
   },
   {
-    "_id": "656cbaafefd0eea7c5b56caa",
-    "id": "TheBloke/DiscoLM-70B-AWQ",
-    "likes": 0,
-    "private": false,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "createdAt": "2023-12-03T17:28:15.000Z",
-    "modelId": "TheBloke/DiscoLM-70B-AWQ"
-  },
-  {
     "_id": "656cc87e9dcedd16d53c21cf",
     "id": "TheBloke/OpenHermes-2.5-neural-chat-7B-v3-2-7B-GGUF",
     "likes": 20,
@@ -68099,7 +68087,7 @@
   {
     "_id": "6570b4293e68d88fd6061f45",
     "id": "TheBloke/Magicoder-S-DS-6.7B-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -68605,9 +68593,36 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "dataset:teknium/openhermes",
+      "dataset:allenai/ultrafeedback_binarized_cleaned",
+      "dataset:Intel/orca_dpo_pairs",
+      "base_model:openaccess-ai-collective/DPOpenHermes-7B-v2",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-07T10:20:24.000Z",
     "modelId": "TheBloke/DPOpenHermes-7B-v2-GPTQ"
+  },
+  {
+    "_id": "6571a2f39d2e02fddc206f7c",
+    "id": "TheBloke/MetaMath-Cybertron-Starling-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-07T10:48:19.000Z",
+    "modelId": "TheBloke/MetaMath-Cybertron-Starling-GPTQ"
   }
 ]
