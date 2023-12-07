@@ -15119,7 +15119,7 @@
   {
     "_id": "64d5e2dcabf475a808a24d42",
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
-    "likes": 96,
+    "likes": 97,
     "private": false,
     "downloads": 26613,
     "tags": [
@@ -68620,9 +68620,65 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "Math",
+      "en",
+      "dataset:meta-math/MetaMathQA",
+      "base_model:Q-bert/MetaMath-Cybertron-Starling",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-07T10:48:19.000Z",
     "modelId": "TheBloke/MetaMath-Cybertron-Starling-GPTQ"
+  },
+  {
+    "_id": "6571a9b621983e227f4a07e2",
+    "id": "TheBloke/Optimus-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-07T11:17:10.000Z",
+    "modelId": "TheBloke/Optimus-7B-GPTQ"
+  },
+  {
+    "_id": "6571a9e2be378693925f7f4c",
+    "id": "TheBloke/shisa-7B-v1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "ja",
+      "en",
+      "dataset:augmxnt/ultra-orca-boros-en-ja-v1",
+      "dataset:Open-Orca/SlimOrca",
+      "dataset:augmxnt/shisa-en-ja-dpo-v1",
+      "arxiv:2310.05914",
+      "arxiv:2305.18290",
+      "base_model:augmxnt/shisa-7b-v1",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-07T11:17:54.000Z",
+    "modelId": "TheBloke/shisa-7B-v1-AWQ"
   }
 ]
