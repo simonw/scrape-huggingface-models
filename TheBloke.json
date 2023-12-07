@@ -68138,7 +68138,7 @@
   {
     "_id": "6570b85f71148713df107fd0",
     "id": "TheBloke/NexusRaven-V2-13B-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -68706,5 +68706,17 @@
     ],
     "createdAt": "2023-12-07T11:45:07.000Z",
     "modelId": "TheBloke/deepsex-34b-GPTQ"
+  },
+  {
+    "_id": "6571bf04481a25c969523104",
+    "id": "TheBloke/shisa-7B-v1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-07T12:48:04.000Z",
+    "modelId": "TheBloke/shisa-7B-v1-GPTQ"
   }
 ]
