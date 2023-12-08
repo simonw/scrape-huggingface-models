@@ -40081,7 +40081,7 @@
   {
     "_id": "651605b15671e6529662d1e0",
     "id": "TheBloke/NexusRaven-13B-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -49766,7 +49766,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 168,
+    "likes": 167,
     "private": false,
     "downloads": 1673,
     "tags": [
@@ -53805,7 +53805,7 @@
   {
     "_id": "65479a438767484a0548595b",
     "id": "TheBloke/deepseek-coder-6.7B-instruct-GGUF",
-    "likes": 76,
+    "likes": 77,
     "private": false,
     "downloads": 174,
     "tags": [
@@ -62608,7 +62608,7 @@
   {
     "_id": "655f89ed737830f9947e8fbd",
     "id": "TheBloke/Yi-34B-Chat-GGUF",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 19,
     "tags": [
@@ -68958,8 +68958,24 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:ehartford/dolphin",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "dataset:ehartford/samantha-data",
+      "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
+      "base_model:ehartford/dolphin-2.2-yi-34b-200k",
+      "license:other",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-07T23:01:31.000Z",
     "modelId": "TheBloke/dolphin-2.2-yi-34b-200k-GPTQ"
   },
