@@ -688,7 +688,7 @@
   {
     "_id": "6454b656d55525a4feddd5e3",
     "id": "TheBloke/WizardLM-7B-uncensored-GGML",
-    "likes": 115,
+    "likes": 116,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -702,7 +702,7 @@
   {
     "_id": "6454b9c0f61f10d69dbfd49f",
     "id": "TheBloke/WizardLM-7B-uncensored-GPTQ",
-    "likes": 162,
+    "likes": 163,
     "private": false,
     "downloads": 4970,
     "tags": [
@@ -68914,7 +68914,8 @@
       "arxiv:2305.18290",
       "base_model:stabilityai/stablelm-zephyr-3b",
       "license:other",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "library_name": "transformers",
     "createdAt": "2023-12-07T21:01:28.000Z",
