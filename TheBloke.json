@@ -14799,7 +14799,7 @@
   {
     "_id": "64d3e393c34a346181a2a2c0",
     "id": "TheBloke/AlpacaCielo2-7B-8K-GGML",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -21377,7 +21377,7 @@
   {
     "_id": "64f5fd954d3b1dd311d30e28",
     "id": "TheBloke/Llama-2-7B-GGUF",
-    "likes": 83,
+    "likes": 84,
     "private": false,
     "downloads": 860,
     "tags": [
@@ -39244,7 +39244,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 168,
+    "likes": 169,
     "private": false,
     "downloads": 803,
     "tags": [
@@ -40291,7 +40291,7 @@
   {
     "_id": "651605b15671e6529662d1e0",
     "id": "TheBloke/NexusRaven-13B-GGUF",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -61386,7 +61386,7 @@
   {
     "_id": "655c6a0c76e4fad552c77585",
     "id": "TheBloke/Orca-2-13B-GGUF",
-    "likes": 50,
+    "likes": 51,
     "private": false,
     "downloads": 260,
     "tags": [
@@ -68910,7 +68910,7 @@
   {
     "_id": "6570cfbf1a22eb9b09a41b6e",
     "id": "TheBloke/deepsex-34b-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -69042,7 +69042,7 @@
   {
     "_id": "65710168971de7383ef198d4",
     "id": "TheBloke/NexusRaven-V2-13B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -69347,7 +69347,7 @@
   {
     "_id": "65720f9cdb258f25666f530b",
     "id": "TheBloke/Iambe-RP-cDPO-20B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -69513,8 +69513,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "llm",
+      "spellcheck",
+      "grammar",
+      "base_model:FPHam/Sydney_Overthinker_13b_HF",
+      "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-08T14:02:24.000Z",
     "modelId": "TheBloke/Sydney_Overthinker_13B-AWQ"
   },
