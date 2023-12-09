@@ -38433,7 +38433,7 @@
   {
     "_id": "650f8225dcfa9d24c522f789",
     "id": "TheBloke/MAmmoTH-Coder-13B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 28,
     "tags": [
@@ -69813,7 +69813,7 @@
   {
     "_id": "657387c7c13a2c7478fb7879",
     "id": "TheBloke/Iambe-Storyteller-20B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -69852,5 +69852,17 @@
     "library_name": "transformers",
     "createdAt": "2023-12-08T22:26:58.000Z",
     "modelId": "TheBloke/Thespis-13B-Alpha-v0.7-GPTQ"
+  },
+  {
+    "_id": "657432b0b238c76bbab8ab4a",
+    "id": "TheBloke/mixtral-7B-8expert-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-09T09:26:08.000Z",
+    "modelId": "TheBloke/mixtral-7B-8expert-GPTQ"
   }
 ]
