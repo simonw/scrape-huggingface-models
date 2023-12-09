@@ -47076,7 +47076,8 @@
       "base_model:LeoLM/leo-mistral-hessianai-7b-chat",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
