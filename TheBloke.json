@@ -4,7 +4,7 @@
     "id": "TheBloke/koala-7B-GPTQ",
     "likes": 31,
     "private": false,
-    "downloads": 36,
+    "downloads": 35,
     "tags": [
       "transformers",
       "safetensors",
@@ -26,7 +26,7 @@
     "id": "TheBloke/koala-7B-HF",
     "likes": 18,
     "private": false,
-    "downloads": 2346,
+    "downloads": 2248,
     "tags": [
       "transformers",
       "pytorch",
@@ -54,7 +54,7 @@
     "id": "TheBloke/koala-13B-HF",
     "likes": 41,
     "private": false,
-    "downloads": 2676,
+    "downloads": 2495,
     "tags": [
       "transformers",
       "pytorch",
@@ -82,7 +82,7 @@
     "id": "TheBloke/koala-13B-GPTQ",
     "likes": 37,
     "private": false,
-    "downloads": 26,
+    "downloads": 23,
     "tags": [
       "transformers",
       "pytorch",
@@ -131,7 +131,7 @@
     "id": "TheBloke/galpaca-30B-GPTQ",
     "likes": 49,
     "private": false,
-    "downloads": 9,
+    "downloads": 8,
     "tags": [
       "transformers",
       "opt",
@@ -178,7 +178,7 @@
     "id": "TheBloke/Vicuna-13B-1.1-GPTQ",
     "likes": 209,
     "private": false,
-    "downloads": 444,
+    "downloads": 424,
     "tags": [
       "transformers",
       "llama",
@@ -199,7 +199,7 @@
     "id": "TheBloke/vicuna-7B-1.1-GPTQ",
     "likes": 58,
     "private": false,
-    "downloads": 190,
+    "downloads": 151,
     "tags": [
       "transformers",
       "llama",
@@ -219,7 +219,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-30b-HF",
     "likes": 10,
     "private": false,
-    "downloads": 2283,
+    "downloads": 2186,
     "tags": [
       "transformers",
       "pytorch",
@@ -69431,7 +69431,7 @@
   {
     "_id": "65724ecb05e8971e5a1ae0ed",
     "id": "TheBloke/dolphin-2.2-yi-34b-200k-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -69856,7 +69856,7 @@
   {
     "_id": "657432b0b238c76bbab8ab4a",
     "id": "TheBloke/mixtral-7B-8expert-GPTQ",
-    "likes": 25,
+    "likes": 30,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -69961,5 +69961,48 @@
     "library_name": "transformers",
     "createdAt": "2023-12-09T12:22:49.000Z",
     "modelId": "TheBloke/bling-stable-lm-3b-4e1t-v0-GPTQ"
+  },
+  {
+    "_id": "657481a539831c68628085e2",
+    "id": "TheBloke/Synthia-7B-v3.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "base_model:migtissera/Synthia-7B-v3.0",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-09T15:03:01.000Z",
+    "modelId": "TheBloke/Synthia-7B-v3.0-GGUF"
+  },
+  {
+    "_id": "657481a5769f3ee9bd142ae0",
+    "id": "TheBloke/Synthia-7B-v3.0-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-09T15:03:01.000Z",
+    "modelId": "TheBloke/Synthia-7B-v3.0-GPTQ"
+  },
+  {
+    "_id": "657481a58b44ef012b2fe89b",
+    "id": "TheBloke/Synthia-7B-v3.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-09T15:03:01.000Z",
+    "modelId": "TheBloke/Synthia-7B-v3.0-AWQ"
   }
 ]
