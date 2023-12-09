@@ -53736,7 +53736,7 @@
   {
     "_id": "6546bfe06c818bb7b5ab8251",
     "id": "TheBloke/deepseek-coder-33B-instruct-AWQ",
-    "likes": 23,
+    "likes": 24,
     "private": false,
     "downloads": 15797,
     "tags": [
@@ -69632,7 +69632,7 @@
   {
     "_id": "65732d9fd0ed8f5761cdb1e2",
     "id": "TheBloke/SG-Raccoon-Yi-200k-2.0-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -69856,7 +69856,7 @@
   {
     "_id": "657432b0b238c76bbab8ab4a",
     "id": "TheBloke/mixtral-7B-8expert-GPTQ",
-    "likes": 14,
+    "likes": 16,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -69920,5 +69920,35 @@
     ],
     "createdAt": "2023-12-09T10:37:08.000Z",
     "modelId": "TheBloke/OrcaMaid-13B-AWQ"
+  },
+  {
+    "_id": "65745c1988805b3ba1cb928e",
+    "id": "TheBloke/bling-stable-lm-3b-4e1t-v0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "stablelm",
+      "base_model:llmware/bling-stable-lm-3b-4e1t-v0",
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-09T12:22:49.000Z",
+    "modelId": "TheBloke/bling-stable-lm-3b-4e1t-v0-GGUF"
+  },
+  {
+    "_id": "65745c19d40e6ed3260c9c3d",
+    "id": "TheBloke/bling-stable-lm-3b-4e1t-v0-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-09T12:22:49.000Z",
+    "modelId": "TheBloke/bling-stable-lm-3b-4e1t-v0-GPTQ"
   }
 ]
