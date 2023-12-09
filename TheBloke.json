@@ -21405,7 +21405,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7B-Chat-GGUF",
-    "likes": 180,
+    "likes": 181,
     "private": false,
     "downloads": 3404,
     "tags": [
@@ -60847,7 +60847,7 @@
   {
     "_id": "655b8171bfb531437a2aaba0",
     "id": "TheBloke/Free_Sydney_V2_Mistral_7b-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -66981,7 +66981,7 @@
   {
     "_id": "656908939969ebd3884821a9",
     "id": "TheBloke/meditron-7B-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 17,
     "tags": [
@@ -69856,7 +69856,7 @@
   {
     "_id": "657432b0b238c76bbab8ab4a",
     "id": "TheBloke/mixtral-7B-8expert-GPTQ",
-    "likes": 6,
+    "likes": 8,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -69864,5 +69864,50 @@
     ],
     "createdAt": "2023-12-09T09:26:08.000Z",
     "modelId": "TheBloke/mixtral-7B-8expert-GPTQ"
+  },
+  {
+    "_id": "65744354177b3b466325ae6e",
+    "id": "TheBloke/OrcaMaid-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "llama",
+      "text-generation",
+      "base_model:ddh0/OrcaMaid-13b",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-09T10:37:08.000Z",
+    "modelId": "TheBloke/OrcaMaid-13B-GGUF"
+  },
+  {
+    "_id": "6574435439831c6862763c8c",
+    "id": "TheBloke/OrcaMaid-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-09T10:37:08.000Z",
+    "modelId": "TheBloke/OrcaMaid-13B-GPTQ"
+  },
+  {
+    "_id": "65744354fc88f842e3ca760b",
+    "id": "TheBloke/OrcaMaid-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-09T10:37:08.000Z",
+    "modelId": "TheBloke/OrcaMaid-13B-AWQ"
   }
 ]
