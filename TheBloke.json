@@ -1470,7 +1470,7 @@
   {
     "_id": "646b6683f85ebf65c52c7aa8",
     "id": "TheBloke/WizardLM-30B-Uncensored-GPTQ",
-    "likes": 112,
+    "likes": 113,
     "private": false,
     "downloads": 2750,
     "tags": [
@@ -2325,7 +2325,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 448,
+    "likes": 449,
     "private": false,
     "downloads": 11646,
     "tags": [
@@ -2470,7 +2470,7 @@
   {
     "_id": "64786964159a889d00210d4c",
     "id": "TheBloke/WizardLM-Uncensored-SuperCOT-StoryTelling-30B-GPTQ",
-    "likes": 76,
+    "likes": 77,
     "private": false,
     "downloads": 2983,
     "tags": [
@@ -5854,7 +5854,7 @@
   {
     "_id": "6496d4bc67460504683fd377",
     "id": "TheBloke/WizardLM-33B-V1.0-Uncensored-GPTQ",
-    "likes": 42,
+    "likes": 43,
     "private": false,
     "downloads": 2530,
     "tags": [
@@ -7307,7 +7307,7 @@
   {
     "_id": "649ca07f0c65a5d9697945a1",
     "id": "TheBloke/WizardLM-Uncensored-SuperCOT-StoryTelling-30B-SuperHOT-8K-GPTQ",
-    "likes": 40,
+    "likes": 41,
     "private": false,
     "downloads": 24,
     "tags": [
@@ -34817,7 +34817,7 @@
   {
     "_id": "650a3da97ee07e274b530c33",
     "id": "TheBloke/Uncensored-Frank-33b-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -39332,7 +39332,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 320,
+    "likes": 321,
     "private": false,
     "downloads": 3749,
     "tags": [
@@ -52256,7 +52256,7 @@
   {
     "_id": "65402a0f8470d708977cfadf",
     "id": "TheBloke/Uncensored-Jordan-33B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -70142,8 +70142,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "en",
+      "base_model:nsfwthrowitaway69/Venus-103b-v1.1",
+      "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-09T22:52:08.000Z",
     "modelId": "TheBloke/Venus-103b-v1.1-AWQ"
   },
