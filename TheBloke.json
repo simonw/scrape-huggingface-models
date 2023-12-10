@@ -21646,7 +21646,7 @@
   {
     "_id": "64f69c38c3bdaab6f58e2b8c",
     "id": "TheBloke/MythoMax-L2-13B-GGUF",
-    "likes": 29,
+    "likes": 30,
     "private": false,
     "downloads": 100,
     "tags": [
@@ -54049,7 +54049,7 @@
   {
     "_id": "65479565407bb19ff594d5bd",
     "id": "TheBloke/deepseek-coder-1.3b-instruct-GGUF",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 59,
     "tags": [
@@ -61797,7 +61797,7 @@
   {
     "_id": "655dc453a499c26280ad532b",
     "id": "TheBloke/MythoMist-7B-GGUF",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -70063,6 +70063,12 @@
       "mistral",
       "text-generation",
       "custom_code",
+      "en",
+      "dataset:migtissera/Synthia-v1.3",
+      "dataset:meta-math/MetaMathQA",
+      "dataset:NousResearch/capybara",
+      "base_model:DiscoResearch/DiscoLM-mixtral-8x7b-v2",
+      "license:apache-2.0",
       "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
