@@ -18106,7 +18106,7 @@
   {
     "_id": "64e85bb1e6a52fff352d606f",
     "id": "TheBloke/CodeLlama-34B-Instruct-GPTQ",
-    "likes": 64,
+    "likes": 65,
     "private": false,
     "downloads": 557210,
     "tags": [
@@ -23005,7 +23005,7 @@
   {
     "_id": "64f7855eaca128077585d86b",
     "id": "TheBloke/WizardLM-1.0-Uncensored-CodeLlama-34B-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 128,
     "tags": [
@@ -24048,7 +24048,7 @@
   {
     "_id": "64f8c21ad493d8b0d2be3556",
     "id": "TheBloke/WizardLM-70B-V1.0-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -70504,7 +70504,7 @@
   {
     "_id": "6575e6d705e5730715861674",
     "id": "TheBloke/Marcoroni-7B-v3-GGUF",
-    "likes": 3,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -70759,5 +70759,42 @@
     "library_name": "transformers",
     "createdAt": "2023-12-10T23:33:48.000Z",
     "modelId": "TheBloke/open-instruct-human-mix-65B-GGUF"
+  },
+  {
+    "_id": "6576591f12ae60c542ce6495",
+    "id": "TheBloke/open-instruct-human-mix-65B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-11T00:34:39.000Z",
+    "modelId": "TheBloke/open-instruct-human-mix-65B-AWQ"
+  },
+  {
+    "_id": "6576591f1345577b700278b2",
+    "id": "TheBloke/open-instruct-human-mix-65B-fp16",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "safetensors",
+      "region:us"
+    ],
+    "createdAt": "2023-12-11T00:34:39.000Z",
+    "modelId": "TheBloke/open-instruct-human-mix-65B-fp16"
+  },
+  {
+    "_id": "6576591fc311c842f40a2c4c",
+    "id": "TheBloke/open-instruct-human-mix-65B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-11T00:34:39.000Z",
+    "modelId": "TheBloke/open-instruct-human-mix-65B-GPTQ"
   }
 ]
