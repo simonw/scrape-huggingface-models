@@ -53277,7 +53277,7 @@
   {
     "_id": "654418242996405c238f5eea",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
-    "likes": 120,
+    "likes": 121,
     "private": false,
     "downloads": 767,
     "tags": [
@@ -71077,15 +71077,26 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:Weyaxi/OpenHermes-2.5-neural-chat-v3-3-Slerp",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-11T11:44:14.000Z",
     "modelId": "TheBloke/OpenHermes-2.5-neural-chat-v3-3-Slerp-GPTQ"
   },
   {
     "_id": "6576f60eca95cd024ba1d351",
     "id": "TheBloke/OpenHermes-2.5-neural-chat-v3-3-Slerp-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -71125,15 +71136,40 @@
     "modelId": "TheBloke/OpenHermes-2.5-neural-chat-v3-3-Slerp-AWQ"
   },
   {
-    "_id": "6576fa5042ab083faea0e288",
-    "id": "TheBloke/Mixtral-tiny-GPTQ",
+    "_id": "657700e117ee44ff546ed0c4",
+    "id": "TheBloke/leo-hessianai-70B-AWQ",
     "likes": 0,
     "private": false,
     "downloads": 0,
     "tags": [
       "region:us"
     ],
-    "createdAt": "2023-12-11T12:02:24.000Z",
-    "modelId": "TheBloke/Mixtral-tiny-GPTQ"
+    "createdAt": "2023-12-11T12:30:25.000Z",
+    "modelId": "TheBloke/leo-hessianai-70B-AWQ"
+  },
+  {
+    "_id": "657700e12c252cfa99157b84",
+    "id": "TheBloke/leo-hessianai-70B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-11T12:30:25.000Z",
+    "modelId": "TheBloke/leo-hessianai-70B-GPTQ"
+  },
+  {
+    "_id": "657700e1df5537f5c01579b3",
+    "id": "TheBloke/leo-hessianai-70B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2023-12-11T12:30:25.000Z",
+    "modelId": "TheBloke/leo-hessianai-70B-GGUF"
   }
 ]
