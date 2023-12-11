@@ -14573,7 +14573,7 @@
   {
     "_id": "64d2a57f50310d7ad3899788",
     "id": "TheBloke/stablecode-completion-alpha-3b-4k-GGML",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -14596,7 +14596,7 @@
   {
     "_id": "64d2a57f7f0f833916f3cb08",
     "id": "TheBloke/stablecode-completion-alpha-3b-4k-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -61365,7 +61365,7 @@
   {
     "_id": "655bd368c80e332db2cf9d9c",
     "id": "TheBloke/Yarn-Llama-2-70B-32k-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -71028,8 +71028,27 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "de",
+      "dataset:LeoLM/OpenSchnabeltier",
+      "dataset:OpenAssistant/OASST-DE",
+      "dataset:FreedomIntelligence/alpaca-gpt4-deutsch",
+      "dataset:FreedomIntelligence/evol-instruct-deutsch",
+      "dataset:LeoLM/German_Poems",
+      "dataset:LeoLM/German_Songs",
+      "base_model:LeoLM/leo-hessianai-70b-chat",
+      "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-11T05:15:08.000Z",
     "modelId": "TheBloke/leo-hessianai-70B-chat-AWQ"
   }
