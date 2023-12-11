@@ -4526,7 +4526,7 @@
   {
     "_id": "6489dec34344b9f97db273d9",
     "id": "TheBloke/WizardCoder-15B-1.0-GPTQ",
-    "likes": 170,
+    "likes": 171,
     "private": false,
     "downloads": 927,
     "tags": [
@@ -39129,7 +39129,7 @@
   {
     "_id": "65140ce4a4f26dcd601a2c82",
     "id": "TheBloke/U-Amethyst-20B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 365,
     "tags": [
@@ -39244,7 +39244,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 172,
+    "likes": 173,
     "private": false,
     "downloads": 917,
     "tags": [
@@ -53097,7 +53097,7 @@
   {
     "_id": "6543cac6e9e8e72d2acd55c4",
     "id": "TheBloke/openchat_3.5-GGUF",
-    "likes": 108,
+    "likes": 109,
     "private": false,
     "downloads": 392,
     "tags": [
@@ -66413,7 +66413,7 @@
   {
     "_id": "6567bb76253c8b0b67a37989",
     "id": "TheBloke/NeuralHermes-2.5-Mistral-7B-GGUF",
-    "likes": 31,
+    "likes": 32,
     "private": false,
     "downloads": 77,
     "tags": [
@@ -69374,7 +69374,7 @@
   {
     "_id": "657232a84e12ce880ea0ac08",
     "id": "TheBloke/stablelm-zephyr-3b-GGUF",
-    "likes": 34,
+    "likes": 35,
     "private": false,
     "downloads": 60,
     "tags": [
@@ -69857,7 +69857,7 @@
   {
     "_id": "657432b0b238c76bbab8ab4a",
     "id": "TheBloke/mixtral-7B-8expert-GPTQ",
-    "likes": 57,
+    "likes": 58,
     "private": false,
     "downloads": 199,
     "tags": [
@@ -70858,8 +70858,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:athirdpath/Nethena-20b-Glued",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-11T03:14:32.000Z",
     "modelId": "TheBloke/Nethena-20B-Glued-AWQ"
   },
