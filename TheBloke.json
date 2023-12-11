@@ -70979,5 +70979,42 @@
     "library_name": "transformers",
     "createdAt": "2023-12-11T04:24:37.000Z",
     "modelId": "TheBloke/Velara-GPTQ"
+  },
+  {
+    "_id": "65769adc06fdcd4ca992eeba",
+    "id": "TheBloke/leo-hessianai-70B-chat-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2023-12-11T05:15:08.000Z",
+    "modelId": "TheBloke/leo-hessianai-70B-chat-GGUF"
+  },
+  {
+    "_id": "65769adc06fdcd4ca992eebb",
+    "id": "TheBloke/leo-hessianai-70B-chat-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-11T05:15:08.000Z",
+    "modelId": "TheBloke/leo-hessianai-70B-chat-GPTQ"
+  },
+  {
+    "_id": "65769adcd40e6ed326734199",
+    "id": "TheBloke/leo-hessianai-70B-chat-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-11T05:15:08.000Z",
+    "modelId": "TheBloke/leo-hessianai-70B-chat-AWQ"
   }
 ]
