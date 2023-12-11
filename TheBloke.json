@@ -6760,7 +6760,7 @@
   {
     "_id": "649a5dcd96d5747b35e30c6f",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-SuperHOT-8K-GPTQ",
-    "likes": 104,
+    "likes": 105,
     "private": false,
     "downloads": 8411,
     "tags": [
@@ -41550,7 +41550,7 @@
   {
     "_id": "651ad379eb6c502094708828",
     "id": "TheBloke/Mistral-7B-OpenOrca-GPTQ",
-    "likes": 86,
+    "likes": 87,
     "private": false,
     "downloads": 94714,
     "tags": [
@@ -68912,7 +68912,7 @@
   {
     "_id": "6570cfbf1a22eb9b09a41b6e",
     "id": "TheBloke/deepsex-34b-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -70846,8 +70846,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:athirdpath/Nethena-20b-Glued",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-11T03:14:32.000Z",
     "modelId": "TheBloke/Nethena-20B-Glued-GPTQ"
   },
@@ -70892,5 +70903,53 @@
     "library_name": "transformers",
     "createdAt": "2023-12-11T03:14:32.000Z",
     "modelId": "TheBloke/Nethena-20B-Glued-GGUF"
+  },
+  {
+    "_id": "65768f05839aa0889953786a",
+    "id": "TheBloke/Velara-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "starling",
+      "llama-2",
+      "text-generation",
+      "en",
+      "base_model:Delcos/Velara",
+      "license:cc-by-nc-nd-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-11T04:24:37.000Z",
+    "modelId": "TheBloke/Velara-GGUF"
+  },
+  {
+    "_id": "65768f05a90ae2daae10b50c",
+    "id": "TheBloke/Velara-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-11T04:24:37.000Z",
+    "modelId": "TheBloke/Velara-AWQ"
+  },
+  {
+    "_id": "65768f05a90ae2daae10b510",
+    "id": "TheBloke/Velara-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-11T04:24:37.000Z",
+    "modelId": "TheBloke/Velara-GPTQ"
   }
 ]
