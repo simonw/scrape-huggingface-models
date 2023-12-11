@@ -8336,7 +8336,7 @@
     "id": "TheBloke/orca_mini_v2_7B-GPTQ",
     "likes": 21,
     "private": false,
-    "downloads": 4603,
+    "downloads": 4844,
     "tags": [
       "transformers",
       "safetensors",
@@ -8511,7 +8511,7 @@
     "id": "TheBloke/CAMEL-33B-Combined-Data-SuperHOT-8K-fp16",
     "likes": 1,
     "private": false,
-    "downloads": 2086,
+    "downloads": 2028,
     "tags": [
       "transformers",
       "pytorch",
@@ -9555,7 +9555,7 @@
     "id": "TheBloke/Pygmalion-7B-SuperHOT-8K-GPTQ",
     "likes": 14,
     "private": false,
-    "downloads": 13,
+    "downloads": 11,
     "tags": [
       "transformers",
       "safetensors",
@@ -9655,7 +9655,7 @@
     "id": "TheBloke/WizardLM-13B-V1.1-GPTQ",
     "likes": 27,
     "private": false,
-    "downloads": 2462,
+    "downloads": 2400,
     "tags": [
       "transformers",
       "safetensors",
@@ -9682,7 +9682,7 @@
     "id": "TheBloke/WizardLM-13B-V1-1-SuperHOT-8K-GPTQ",
     "likes": 45,
     "private": false,
-    "downloads": 2116,
+    "downloads": 2034,
     "tags": [
       "transformers",
       "safetensors",
@@ -9720,7 +9720,7 @@
     "id": "TheBloke/WizardLM-13B-V1-1-SuperHOT-8K-fp16",
     "likes": 4,
     "private": false,
-    "downloads": 2104,
+    "downloads": 2052,
     "tags": [
       "transformers",
       "pytorch",
@@ -10067,7 +10067,7 @@
     "id": "TheBloke/Starcoderplus-Guanaco-GPT4-15B-V1.0-GPTQ",
     "likes": 8,
     "private": false,
-    "downloads": 17,
+    "downloads": 16,
     "tags": [
       "transformers",
       "safetensors",
@@ -10138,7 +10138,7 @@
     "id": "TheBloke/openchat_v2_openorca_preview-GPTQ",
     "likes": 15,
     "private": false,
-    "downloads": 2069,
+    "downloads": 2010,
     "tags": [
       "transformers",
       "safetensors",
@@ -10276,7 +10276,7 @@
     "id": "TheBloke/LLaMa-13B-GPTQ",
     "likes": 4,
     "private": false,
-    "downloads": 293,
+    "downloads": 294,
     "tags": [
       "transformers",
       "safetensors",
@@ -10320,7 +10320,7 @@
     "id": "TheBloke/LLaMa-7B-GPTQ",
     "likes": 3,
     "private": false,
-    "downloads": 516,
+    "downloads": 508,
     "tags": [
       "transformers",
       "safetensors",
@@ -17556,7 +17556,7 @@
   {
     "_id": "64e78d117acd8971f2c6bbe6",
     "id": "TheBloke/CodeLlama-7B-GGUF",
-    "likes": 63,
+    "likes": 64,
     "private": false,
     "downloads": 248,
     "tags": [
@@ -21433,7 +21433,7 @@
   {
     "_id": "64f611cf6ad07ea81779ca15",
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
-    "likes": 111,
+    "likes": 112,
     "private": false,
     "downloads": 975,
     "tags": [
@@ -50164,7 +50164,7 @@
   {
     "_id": "653c0b0bb110c9180d6aabb2",
     "id": "TheBloke/Nete-13B-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 93,
     "tags": [
@@ -67746,7 +67746,7 @@
   {
     "_id": "656ccd569496f21be88ce84e",
     "id": "TheBloke/notus-7B-v1-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 18,
     "tags": [
@@ -70179,7 +70179,7 @@
   {
     "_id": "6574ef98c13a2c747836aa3f",
     "id": "TheBloke/Venus-103b-v1.1-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -70887,7 +70887,7 @@
   {
     "_id": "65767e98f9898ed3abb89c58",
     "id": "TheBloke/Nethena-20B-Glued-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -71096,7 +71096,7 @@
   {
     "_id": "6576f60eca95cd024ba1d351",
     "id": "TheBloke/OpenHermes-2.5-neural-chat-v3-3-Slerp-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -71204,7 +71204,7 @@
   {
     "_id": "65770d54b2b935d83f6ea4d1",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GGUF",
-    "likes": 70,
+    "likes": 71,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -71277,13 +71277,23 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 0,
+    "likes": 7,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "mixtral",
+      "fr",
+      "it",
+      "de",
+      "es",
+      "en",
+      "base_model:mistralai/Mixtral-8x7B-Instruct-v0.1",
+      "license:apache-2.0",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2023-12-11T18:08:33.000Z",
     "modelId": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF"
   }
