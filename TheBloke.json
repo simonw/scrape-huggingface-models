@@ -2325,7 +2325,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 452,
+    "likes": 453,
     "private": false,
     "downloads": 11551,
     "tags": [
@@ -19162,7 +19162,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 124,
+    "likes": 125,
     "private": false,
     "downloads": 97,
     "tags": [
@@ -53221,7 +53221,7 @@
   {
     "_id": "654400c726612e546995f213",
     "id": "TheBloke/openchat_3.5-GPTQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 1448,
     "tags": [
@@ -68184,7 +68184,7 @@
   {
     "_id": "656f6b91d07017133e45d376",
     "id": "TheBloke/SUS-Chat-34B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 285,
     "tags": [
@@ -69833,7 +69833,7 @@
   {
     "_id": "65739832ec3bf96e430c3f89",
     "id": "TheBloke/Thespis-13B-Alpha-v0.7-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -69857,7 +69857,7 @@
   {
     "_id": "657432b0b238c76bbab8ab4a",
     "id": "TheBloke/mixtral-7B-8expert-GPTQ",
-    "likes": 58,
+    "likes": 60,
     "private": false,
     "downloads": 199,
     "tags": [
@@ -70935,8 +70935,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "starling",
+      "llama-2",
+      "en",
+      "base_model:Delcos/Velara",
+      "license:cc-by-nc-nd-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-11T04:24:37.000Z",
     "modelId": "TheBloke/Velara-AWQ"
   },
@@ -70947,8 +70961,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "starling",
+      "llama-2",
+      "en",
+      "base_model:Delcos/Velara",
+      "license:cc-by-nc-nd-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-11T04:24:37.000Z",
     "modelId": "TheBloke/Velara-GPTQ"
   }
