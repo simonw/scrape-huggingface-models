@@ -15212,7 +15212,7 @@
   {
     "_id": "64d5e2dcabf475a808a24d42",
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
-    "likes": 98,
+    "likes": 99,
     "private": false,
     "downloads": 18968,
     "tags": [
@@ -34126,7 +34126,7 @@
   {
     "_id": "650a29bc7ee07e274b50b59e",
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 25,
     "tags": [
@@ -41727,7 +41727,7 @@
   {
     "_id": "651b43c9f9dd34ee028a7769",
     "id": "TheBloke/dolphin-2.0-mistral-7B-GGUF",
-    "likes": 24,
+    "likes": 25,
     "private": false,
     "downloads": 87,
     "tags": [
@@ -42619,7 +42619,7 @@
   {
     "_id": "651ee10822aeffca25e5b9f6",
     "id": "TheBloke/CollectiveCognition-v1.1-Mistral-7B-GGUF",
-    "likes": 31,
+    "likes": 32,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -71188,13 +71188,23 @@
   {
     "_id": "65770d54b2b935d83f6ea4d1",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GGUF",
-    "likes": 4,
+    "likes": 14,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "mixtral",
+      "fr",
+      "it",
+      "de",
+      "es",
+      "en",
+      "base_model:mistralai/Mixtral-8x7B-v0.1",
+      "license:apache-2.0",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2023-12-11T13:23:32.000Z",
     "modelId": "TheBloke/Mixtral-8x7B-v0.1-GGUF"
   }
