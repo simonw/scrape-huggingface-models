@@ -22075,7 +22075,7 @@
   {
     "_id": "64f6fae5b548e18c7f5d1492",
     "id": "TheBloke/WizardLM-13B-V1.2-GGUF",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 62,
     "tags": [
@@ -36763,7 +36763,7 @@
   {
     "_id": "650b5c6eaa87a69ea38a702e",
     "id": "TheBloke/Xwin-LM-13B-V0.1-GGUF",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 23,
     "tags": [
@@ -39244,7 +39244,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 173,
+    "likes": 174,
     "private": false,
     "downloads": 917,
     "tags": [
@@ -68681,7 +68681,7 @@
   {
     "_id": "6570ba74be66cd9b6583f09f",
     "id": "TheBloke/Nyxene-v2-11B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -69856,7 +69856,7 @@
   {
     "_id": "657432b0b238c76bbab8ab4a",
     "id": "TheBloke/mixtral-7B-8expert-GPTQ",
-    "likes": 60,
+    "likes": 62,
     "private": false,
     "downloads": 199,
     "tags": [
@@ -70503,7 +70503,7 @@
   {
     "_id": "6575e6d705e5730715861674",
     "id": "TheBloke/Marcoroni-7B-v3-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -71166,9 +71166,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "llama",
+      "text-generation",
+      "en",
+      "de",
+      "dataset:oscar-corpus/OSCAR-2301",
+      "dataset:wikipedia",
+      "dataset:bjoernp/tagesschau-2018-2023",
+      "base_model:LeoLM/leo-hessianai-70b",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-11T12:30:25.000Z",
     "modelId": "TheBloke/leo-hessianai-70B-GGUF"
   }
