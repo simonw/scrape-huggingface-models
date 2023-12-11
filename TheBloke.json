@@ -71015,8 +71015,27 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "de",
+      "dataset:LeoLM/OpenSchnabeltier",
+      "dataset:OpenAssistant/OASST-DE",
+      "dataset:FreedomIntelligence/alpaca-gpt4-deutsch",
+      "dataset:FreedomIntelligence/evol-instruct-deutsch",
+      "dataset:LeoLM/German_Poems",
+      "dataset:LeoLM/German_Songs",
+      "base_model:LeoLM/leo-hessianai-70b-chat",
+      "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-11T05:15:08.000Z",
     "modelId": "TheBloke/leo-hessianai-70B-chat-GPTQ"
   },
@@ -71050,5 +71069,71 @@
     "library_name": "transformers",
     "createdAt": "2023-12-11T05:15:08.000Z",
     "modelId": "TheBloke/leo-hessianai-70B-chat-AWQ"
+  },
+  {
+    "_id": "6576f60ec991ca095669d37c",
+    "id": "TheBloke/OpenHermes-2.5-neural-chat-v3-3-Slerp-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-11T11:44:14.000Z",
+    "modelId": "TheBloke/OpenHermes-2.5-neural-chat-v3-3-Slerp-GPTQ"
+  },
+  {
+    "_id": "6576f60eca95cd024ba1d351",
+    "id": "TheBloke/OpenHermes-2.5-neural-chat-v3-3-Slerp-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "base_model:Weyaxi/OpenHermes-2.5-neural-chat-v3-3-Slerp",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-11T11:44:14.000Z",
+    "modelId": "TheBloke/OpenHermes-2.5-neural-chat-v3-3-Slerp-GGUF"
+  },
+  {
+    "_id": "6576f60eeb067b78290eb233",
+    "id": "TheBloke/OpenHermes-2.5-neural-chat-v3-3-Slerp-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:Weyaxi/OpenHermes-2.5-neural-chat-v3-3-Slerp",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-11T11:44:14.000Z",
+    "modelId": "TheBloke/OpenHermes-2.5-neural-chat-v3-3-Slerp-AWQ"
+  },
+  {
+    "_id": "6576fa5042ab083faea0e288",
+    "id": "TheBloke/Mixtral-tiny-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-11T12:02:24.000Z",
+    "modelId": "TheBloke/Mixtral-tiny-GPTQ"
   }
 ]
