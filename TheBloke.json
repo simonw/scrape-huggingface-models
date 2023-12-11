@@ -26,7 +26,7 @@
     "id": "TheBloke/koala-7B-HF",
     "likes": 18,
     "private": false,
-    "downloads": 2150,
+    "downloads": 2079,
     "tags": [
       "transformers",
       "pytorch",
@@ -54,7 +54,7 @@
     "id": "TheBloke/koala-13B-HF",
     "likes": 41,
     "private": false,
-    "downloads": 2384,
+    "downloads": 2312,
     "tags": [
       "transformers",
       "pytorch",
@@ -10563,7 +10563,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 671,
+    "likes": 673,
     "private": false,
     "downloads": 3686,
     "tags": [
@@ -54049,7 +54049,7 @@
   {
     "_id": "65479565407bb19ff594d5bd",
     "id": "TheBloke/deepseek-coder-1.3b-instruct-GGUF",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 55,
     "tags": [
@@ -57425,7 +57425,7 @@
   {
     "_id": "6552ca265efbf7b2cb6b885f",
     "id": "TheBloke/Noromaid-13B-v0.1.1-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 41,
     "tags": [
@@ -63049,7 +63049,7 @@
   {
     "_id": "655f89ed737830f9947e8fbd",
     "id": "TheBloke/Yi-34B-Chat-GGUF",
-    "likes": 26,
+    "likes": 27,
     "private": false,
     "downloads": 28,
     "tags": [
@@ -69856,7 +69856,7 @@
   {
     "_id": "657432b0b238c76bbab8ab4a",
     "id": "TheBloke/mixtral-7B-8expert-GPTQ",
-    "likes": 62,
+    "likes": 63,
     "private": false,
     "downloads": 199,
     "tags": [
@@ -71073,7 +71073,7 @@
   {
     "_id": "6576f60ec991ca095669d37c",
     "id": "TheBloke/OpenHermes-2.5-neural-chat-v3-3-Slerp-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -71096,7 +71096,7 @@
   {
     "_id": "6576f60eca95cd024ba1d351",
     "id": "TheBloke/OpenHermes-2.5-neural-chat-v3-3-Slerp-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -71142,8 +71142,24 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "de",
+      "dataset:oscar-corpus/OSCAR-2301",
+      "dataset:wikipedia",
+      "dataset:bjoernp/tagesschau-2018-2023",
+      "base_model:LeoLM/leo-hessianai-70b",
+      "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-11T12:30:25.000Z",
     "modelId": "TheBloke/leo-hessianai-70B-AWQ"
   },
@@ -71188,7 +71204,7 @@
   {
     "_id": "65770d54b2b935d83f6ea4d1",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GGUF",
-    "likes": 26,
+    "likes": 35,
     "private": false,
     "downloads": 0,
     "tags": [
