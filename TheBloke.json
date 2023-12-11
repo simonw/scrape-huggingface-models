@@ -63049,7 +63049,7 @@
   {
     "_id": "655f89ed737830f9947e8fbd",
     "id": "TheBloke/Yi-34B-Chat-GGUF",
-    "likes": 24,
+    "likes": 25,
     "private": false,
     "downloads": 28,
     "tags": [
@@ -70688,7 +70688,7 @@
   {
     "_id": "65764a5a3e0cb21bc73713b5",
     "id": "TheBloke/Merged-AGI-7B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -70821,8 +70821,15 @@
       "safetensors",
       "llama",
       "text-generation",
+      "en",
+      "dataset:databricks/databricks-dolly-15k",
+      "dataset:OpenAssistant/oasst1",
+      "arxiv:2306.04751",
+      "arxiv:2302.13971",
+      "arxiv:2304.07327",
+      "base_model:allenai/open-instruct-human-mix-65b",
+      "license:other",
       "autotrain_compatible",
-      "endpoints_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -70831,5 +70838,48 @@
     "library_name": "transformers",
     "createdAt": "2023-12-11T00:34:39.000Z",
     "modelId": "TheBloke/open-instruct-human-mix-65B-GPTQ"
+  },
+  {
+    "_id": "65767e980cfadb728ad5587f",
+    "id": "TheBloke/Nethena-20B-Glued-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-11T03:14:32.000Z",
+    "modelId": "TheBloke/Nethena-20B-Glued-GPTQ"
+  },
+  {
+    "_id": "65767e985f7efec0ae81ac9e",
+    "id": "TheBloke/Nethena-20B-Glued-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-11T03:14:32.000Z",
+    "modelId": "TheBloke/Nethena-20B-Glued-AWQ"
+  },
+  {
+    "_id": "65767e98f9898ed3abb89c58",
+    "id": "TheBloke/Nethena-20B-Glued-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "llama",
+      "base_model:athirdpath/Nethena-20b-Glued",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-11T03:14:32.000Z",
+    "modelId": "TheBloke/Nethena-20B-Glued-GGUF"
   }
 ]
