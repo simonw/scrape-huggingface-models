@@ -71220,7 +71220,7 @@
   {
     "_id": "65770d54b2b935d83f6ea4d1",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GGUF",
-    "likes": 100,
+    "likes": 103,
     "private": false,
     "downloads": 28,
     "tags": [
@@ -71322,7 +71322,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 47,
+    "likes": 50,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -71549,9 +71549,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "llama",
+      "en",
+      "arxiv:2307.11760",
+      "base_model:sophosympatheia/Rogue-Rose-103b-v0.2",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2023-12-12T01:27:35.000Z",
     "modelId": "TheBloke/Rogue-Rose-103b-v0.2-GGUF"
   },
