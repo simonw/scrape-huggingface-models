@@ -10561,7 +10561,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 675,
+    "likes": 676,
     "private": false,
     "downloads": 3652,
     "tags": [
@@ -39240,7 +39240,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 176,
+    "likes": 177,
     "private": false,
     "downloads": 964,
     "tags": [
@@ -70498,7 +70498,7 @@
   {
     "_id": "6575e6d705e5730715861674",
     "id": "TheBloke/Marcoroni-7B-v3-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -71606,8 +71606,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "gguf",
+      "stablelm",
+      "base_model:vihangd/dopeystableplats-3b-v1",
+      "license:cc-by-sa-4.0",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2023-12-12T08:09:20.000Z",
     "modelId": "TheBloke/dopeystableplats-3b-v1-GGUF"
   },
