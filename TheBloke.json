@@ -6083,7 +6083,6 @@
       "custom_code",
       "license:other",
       "autotrain_compatible",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -15200,7 +15199,6 @@
       "en",
       "base_model:Gryphe/MythoMax-L2-13b",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -30358,7 +30356,6 @@
       "base_model:MayaPH/GodziLLa2-70B",
       "license:llama2",
       "autotrain_compatible",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -42799,7 +42796,6 @@
       "llama",
       "base_model:cris177/llama-2-7b-Arguments",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -68562,7 +68558,7 @@
   {
     "_id": "6570b4293e68d88fd6061f45",
     "id": "TheBloke/Magicoder-S-DS-6.7B-GGUF",
-    "likes": 24,
+    "likes": 25,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -71219,7 +71215,7 @@
   {
     "_id": "65770d54b2b935d83f6ea4d1",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GGUF",
-    "likes": 125,
+    "likes": 126,
     "private": false,
     "downloads": 28,
     "tags": [
