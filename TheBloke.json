@@ -14731,7 +14731,7 @@
     "id": "TheBloke/WizardLM-70B-V1.0-GPTQ",
     "likes": 32,
     "private": false,
-    "downloads": 2662,
+    "downloads": 2617,
     "tags": [
       "transformers",
       "safetensors",
@@ -14865,7 +14865,7 @@
     "id": "TheBloke/orca_mini_v3_7B-GPTQ",
     "likes": 9,
     "private": false,
-    "downloads": 7494,
+    "downloads": 7965,
     "tags": [
       "transformers",
       "safetensors",
@@ -14968,7 +14968,7 @@
     "id": "TheBloke/orca_mini_v3_13B-GPTQ",
     "likes": 10,
     "private": false,
-    "downloads": 5545,
+    "downloads": 6054,
     "tags": [
       "transformers",
       "safetensors",
@@ -15093,7 +15093,7 @@
     "id": "TheBloke/Platypus2-70B-Instruct-GPTQ",
     "likes": 22,
     "private": false,
-    "downloads": 2612,
+    "downloads": 2584,
     "tags": [
       "transformers",
       "safetensors",
@@ -15211,7 +15211,7 @@
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
     "likes": 100,
     "private": false,
-    "downloads": 16880,
+    "downloads": 14104,
     "tags": [
       "transformers",
       "safetensors",
@@ -15285,7 +15285,7 @@
     "id": "TheBloke/WizardMath-7B-V1.0-GPTQ",
     "likes": 2,
     "private": false,
-    "downloads": 45,
+    "downloads": 19,
     "tags": [
       "transformers",
       "safetensors",
@@ -15353,7 +15353,7 @@
     "id": "TheBloke/WizardMath-13B-V1.0-GPTQ",
     "likes": 5,
     "private": false,
-    "downloads": 50,
+    "downloads": 33,
     "tags": [
       "transformers",
       "safetensors",
@@ -15452,7 +15452,7 @@
     "id": "TheBloke/OpenOrca-Platypus2-13B-GPTQ",
     "likes": 49,
     "private": false,
-    "downloads": 2907,
+    "downloads": 2846,
     "tags": [
       "transformers",
       "safetensors",
@@ -15482,7 +15482,7 @@
     "id": "TheBloke/OpenOrca-Platypus2-13B-GGML",
     "likes": 54,
     "private": false,
-    "downloads": 14,
+    "downloads": 15,
     "tags": [
       "transformers",
       "llama",
@@ -15508,7 +15508,7 @@
     "id": "TheBloke/EverythingLM-13B-16K-GPTQ",
     "likes": 12,
     "private": false,
-    "downloads": 2383,
+    "downloads": 2312,
     "tags": [
       "transformers",
       "safetensors",
@@ -68798,7 +68798,7 @@
   {
     "_id": "6570c56171148713df138252",
     "id": "TheBloke/una-xaberius-34b-v1beta-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -68920,8 +68920,7 @@
       "dataset:PygmalionAI/PIPPA",
       "base_model:zzlgreat/deepsex-34b",
       "license:mit",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -71317,7 +71316,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 93,
+    "likes": 94,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -71929,7 +71928,7 @@
   {
     "_id": "65786eb723b2859ba24ce5cf",
     "id": "TheBloke/v1olet_marcoroni-go-bruins-merge-7B-GGUF",
-    "likes": 0,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -72296,7 +72295,7 @@
   {
     "_id": "65789898224758a1fc8875c6",
     "id": "TheBloke/Synthia-MoE-v3-Mixtral-8x7B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -72386,7 +72385,7 @@
   {
     "_id": "6578a66b58d7a2cc895392ae",
     "id": "TheBloke/Code-33B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -72471,9 +72470,45 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:Mihaiii/Pallas-0.4",
+      "license:other",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-12T19:16:02.000Z",
     "modelId": "TheBloke/Pallas-0.4-AWQ"
+  },
+  {
+    "_id": "6578c39486e571e7a8e821c3",
+    "id": "TheBloke/mixtralnt-4x7b-test-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-12T20:33:24.000Z",
+    "modelId": "TheBloke/mixtralnt-4x7b-test-GPTQ"
+  },
+  {
+    "_id": "6578c394f7d98f6f612b4c33",
+    "id": "TheBloke/mixtralnt-4x7b-test-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2023-12-12T20:33:24.000Z",
+    "modelId": "TheBloke/mixtralnt-4x7b-test-GGUF"
   }
 ]
