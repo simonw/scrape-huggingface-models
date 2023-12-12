@@ -39240,7 +39240,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 177,
+    "likes": 176,
     "private": false,
     "downloads": 964,
     "tags": [
@@ -50028,7 +50028,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 169,
+    "likes": 170,
     "private": false,
     "downloads": 1613,
     "tags": [
@@ -53974,7 +53974,7 @@
   {
     "_id": "6547412196c46859c2f8d3be",
     "id": "TheBloke/deepseek-coder-33B-instruct-GPTQ",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 4149,
     "tags": [
@@ -71445,7 +71445,7 @@
   {
     "_id": "65778ac662d3ac1817cc9201",
     "id": "TheBloke/Mistral-7B-Instruct-v0.2-GGUF",
-    "likes": 26,
+    "likes": 28,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -71642,7 +71642,7 @@
   {
     "_id": "65782c25521aa1f8a4b118f2",
     "id": "TheBloke/neural-chat-7B-v3-3-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -71924,5 +71924,49 @@
     "library_name": "transformers",
     "createdAt": "2023-12-12T11:00:11.000Z",
     "modelId": "TheBloke/Seraph-7B-AWQ"
+  },
+  {
+    "_id": "65786eb723b2859ba24ce5cf",
+    "id": "TheBloke/v1olet_marcoroni-go-bruins-merge-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "en",
+      "base_model:v1olet/v1olet_marcoroni-go-bruins-merge-7B",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-12T14:31:19.000Z",
+    "modelId": "TheBloke/v1olet_marcoroni-go-bruins-merge-7B-GGUF"
+  },
+  {
+    "_id": "65786eb7283d9184135a8fc2",
+    "id": "TheBloke/v1olet_marcoroni-go-bruins-merge-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-12T14:31:19.000Z",
+    "modelId": "TheBloke/v1olet_marcoroni-go-bruins-merge-7B-GPTQ"
+  },
+  {
+    "_id": "65786eb7f7d98f6f611b3c6c",
+    "id": "TheBloke/v1olet_marcoroni-go-bruins-merge-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-12T14:31:19.000Z",
+    "modelId": "TheBloke/v1olet_marcoroni-go-bruins-merge-7B-AWQ"
   }
 ]
