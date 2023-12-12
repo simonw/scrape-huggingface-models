@@ -462,7 +462,6 @@
     "downloads": 0,
     "tags": [
       "license:other",
-      "has_space",
       "region:us"
     ],
     "createdAt": "2023-04-26T07:16:54.000Z",
@@ -56091,7 +56090,7 @@
   {
     "_id": "654dfc95f0f195070267c534",
     "id": "TheBloke/claude2-alpaca-13B-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 73,
     "tags": [
@@ -61227,7 +61226,7 @@
   {
     "_id": "655bc19f6d02c2b1a91fc55f",
     "id": "TheBloke/zephyr_7b_norobots-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -68563,7 +68562,7 @@
   {
     "_id": "6570b4293e68d88fd6061f45",
     "id": "TheBloke/Magicoder-S-DS-6.7B-GGUF",
-    "likes": 23,
+    "likes": 24,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -68614,7 +68613,7 @@
   {
     "_id": "6570b85f71148713df107fd0",
     "id": "TheBloke/NexusRaven-V2-13B-GGUF",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -71220,7 +71219,7 @@
   {
     "_id": "65770d54b2b935d83f6ea4d1",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GGUF",
-    "likes": 123,
+    "likes": 125,
     "private": false,
     "downloads": 28,
     "tags": [
@@ -71401,7 +71400,7 @@
   {
     "_id": "65778ac63ceeb2f078e6c864",
     "id": "TheBloke/Mistral-7B-Instruct-v0.2-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -71570,6 +71569,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "en",
+      "arxiv:2307.11760",
+      "base_model:sophosympatheia/Rogue-Rose-103b-v0.2",
+      "license:llama2",
       "region:us"
     ],
     "createdAt": "2023-12-12T01:27:35.000Z",
@@ -71599,5 +71602,29 @@
     "library_name": "transformers",
     "createdAt": "2023-12-12T01:27:35.000Z",
     "modelId": "TheBloke/Rogue-Rose-103b-v0.2-AWQ"
+  },
+  {
+    "_id": "657815302f2e4058aed28d52",
+    "id": "TheBloke/dopeystableplats-3b-v1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-12T08:09:20.000Z",
+    "modelId": "TheBloke/dopeystableplats-3b-v1-GGUF"
+  },
+  {
+    "_id": "6578153090df9d85fb5673eb",
+    "id": "TheBloke/dopeystableplats-3b-v1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-12T08:09:20.000Z",
+    "modelId": "TheBloke/dopeystableplats-3b-v1-GPTQ"
   }
 ]
