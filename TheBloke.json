@@ -41493,7 +41493,7 @@
   {
     "_id": "651ad365bec377c8b849e5e9",
     "id": "TheBloke/Mistral-7B-OpenOrca-AWQ",
-    "likes": 32,
+    "likes": 33,
     "private": false,
     "downloads": 5600,
     "tags": [
@@ -50071,7 +50071,6 @@
       "base_model:HuggingFaceH4/zephyr-7b-beta",
       "license:mit",
       "autotrain_compatible",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -71215,7 +71214,7 @@
   {
     "_id": "65770d54b2b935d83f6ea4d1",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GGUF",
-    "likes": 137,
+    "likes": 140,
     "private": false,
     "downloads": 28,
     "tags": [
@@ -71317,7 +71316,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 77,
+    "likes": 78,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -71446,7 +71445,7 @@
   {
     "_id": "65778ac662d3ac1817cc9201",
     "id": "TheBloke/Mistral-7B-Instruct-v0.2-GGUF",
-    "likes": 25,
+    "likes": 26,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -71643,7 +71642,7 @@
   {
     "_id": "65782c25521aa1f8a4b118f2",
     "id": "TheBloke/neural-chat-7B-v3-3-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
