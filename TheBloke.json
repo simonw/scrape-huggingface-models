@@ -69850,7 +69850,7 @@
   {
     "_id": "657432b0b238c76bbab8ab4a",
     "id": "TheBloke/mixtral-7B-8expert-GPTQ-outdated",
-    "likes": 65,
+    "likes": 66,
     "private": false,
     "downloads": 228,
     "tags": [
@@ -71215,7 +71215,7 @@
   {
     "_id": "65770d54b2b935d83f6ea4d1",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GGUF",
-    "likes": 193,
+    "likes": 194,
     "private": false,
     "downloads": 86,
     "tags": [
@@ -71317,7 +71317,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 111,
+    "likes": 112,
     "private": false,
     "downloads": 49,
     "tags": [
@@ -72544,7 +72544,7 @@
   {
     "_id": "6578cd85821f439498f89e40",
     "id": "TheBloke/OpenZephyrChat-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -72892,8 +72892,24 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "merge",
+      "openchat",
+      "7b",
+      "zephyr",
+      "en",
+      "base_model:Fredithefish/MadMix-v0.2",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-13T12:42:46.000Z",
     "modelId": "TheBloke/MadMix-v0.2-GPTQ"
   },
@@ -72924,5 +72940,47 @@
     "library_name": "transformers",
     "createdAt": "2023-12-13T12:42:46.000Z",
     "modelId": "TheBloke/MadMix-v0.2-AWQ"
+  },
+  {
+    "_id": "6579ae291b1c5bff9be6e86c",
+    "id": "TheBloke/SOLAR-10.7B-Instruct-v1.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "solar",
+      "base_model:upstage/SOLAR-10.7B-Instruct-v1.0",
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-13T13:14:17.000Z",
+    "modelId": "TheBloke/SOLAR-10.7B-Instruct-v1.0-GGUF"
+  },
+  {
+    "_id": "6579ae292f03cfb1b55619c6",
+    "id": "TheBloke/SOLAR-10.7B-Instruct-v1.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-13T13:14:17.000Z",
+    "modelId": "TheBloke/SOLAR-10.7B-Instruct-v1.0-AWQ"
+  },
+  {
+    "_id": "6579ae29aace0258712463af",
+    "id": "TheBloke/SOLAR-10.7B-Instruct-v1.0-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-13T13:14:17.000Z",
+    "modelId": "TheBloke/SOLAR-10.7B-Instruct-v1.0-GPTQ"
   }
 ]
