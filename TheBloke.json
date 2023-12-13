@@ -57142,7 +57142,7 @@
   {
     "_id": "65526c84fb76980adeff5db6",
     "id": "TheBloke/Nous-Capybara-34B-GGUF",
-    "likes": 72,
+    "likes": 73,
     "private": false,
     "downloads": 115,
     "tags": [
@@ -71215,7 +71215,7 @@
   {
     "_id": "65770d54b2b935d83f6ea4d1",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GGUF",
-    "likes": 192,
+    "likes": 193,
     "private": false,
     "downloads": 86,
     "tags": [
@@ -71341,7 +71341,7 @@
   {
     "_id": "657759d1da3f14fa5ddeba81",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GPTQ",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 663,
     "tags": [
@@ -71446,7 +71446,7 @@
   {
     "_id": "65778ac662d3ac1817cc9201",
     "id": "TheBloke/Mistral-7B-Instruct-v0.2-GGUF",
-    "likes": 36,
+    "likes": 37,
     "private": false,
     "downloads": 38,
     "tags": [
@@ -72835,9 +72835,66 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "custom_code",
+      "zh",
+      "en",
+      "fr",
+      "de",
+      "ja",
+      "ko",
+      "it",
+      "ru",
+      "fi",
+      "base_model:OpenBuddy/openbuddy-llama2-13b64k-v15",
+      "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-13T10:21:02.000Z",
     "modelId": "TheBloke/openbuddy-llama2-13b64k-v15-GPTQ"
+  },
+  {
+    "_id": "6579a6c5f7d0473ac448aae5",
+    "id": "TheBloke/MadMix-v0.2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-13T12:42:45.000Z",
+    "modelId": "TheBloke/MadMix-v0.2-GGUF"
+  },
+  {
+    "_id": "6579a6c621a8b318364fbf00",
+    "id": "TheBloke/MadMix-v0.2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-13T12:42:46.000Z",
+    "modelId": "TheBloke/MadMix-v0.2-GPTQ"
+  },
+  {
+    "_id": "6579a6c6aace025871232eb9",
+    "id": "TheBloke/MadMix-v0.2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-13T12:42:46.000Z",
+    "modelId": "TheBloke/MadMix-v0.2-AWQ"
   }
 ]
