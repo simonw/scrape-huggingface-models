@@ -11675,7 +11675,7 @@
   {
     "_id": "64bbe30586e7fb5b8a3cd462",
     "id": "TheBloke/MythoBoros-13B-GPTQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -17553,7 +17553,7 @@
   {
     "_id": "64e78d117acd8971f2c6bbe6",
     "id": "TheBloke/CodeLlama-7B-GGUF",
-    "likes": 64,
+    "likes": 65,
     "private": false,
     "downloads": 239,
     "tags": [
@@ -23053,7 +23053,7 @@
   {
     "_id": "64f78668aca1280775860431",
     "id": "TheBloke/OpenOrca-Platypus2-13B-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 30,
     "tags": [
@@ -23665,7 +23665,7 @@
   {
     "_id": "64f7cf200590f3db14851f22",
     "id": "TheBloke/Upstage-Llama-2-70B-instruct-v2-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -33635,7 +33635,7 @@
   {
     "_id": "650a22226fb511ba9e9eed08",
     "id": "TheBloke/MythoBoros-13B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -61791,7 +61791,7 @@
   {
     "_id": "655dc453a499c26280ad532b",
     "id": "TheBloke/MythoMist-7B-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -69367,7 +69367,7 @@
   {
     "_id": "657232a84e12ce880ea0ac08",
     "id": "TheBloke/stablelm-zephyr-3b-GGUF",
-    "likes": 42,
+    "likes": 43,
     "private": false,
     "downloads": 68,
     "tags": [
@@ -71215,7 +71215,7 @@
   {
     "_id": "65770d54b2b935d83f6ea4d1",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GGUF",
-    "likes": 189,
+    "likes": 192,
     "private": false,
     "downloads": 86,
     "tags": [
@@ -71317,7 +71317,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 108,
+    "likes": 109,
     "private": false,
     "downloads": 49,
     "tags": [
@@ -71341,7 +71341,7 @@
   {
     "_id": "657759d1da3f14fa5ddeba81",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GPTQ",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 663,
     "tags": [
@@ -71930,7 +71930,7 @@
   {
     "_id": "65786eb723b2859ba24ce5cf",
     "id": "TheBloke/v1olet_marcoroni-go-bruins-merge-7B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -72122,7 +72122,7 @@
   {
     "_id": "65787d73ee40482b5c44ed52",
     "id": "TheBloke/Terminis-7B-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -72594,7 +72594,7 @@
   {
     "_id": "6578dcc232150025acd0fe5f",
     "id": "TheBloke/Terminis-7B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -72784,9 +72784,26 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "llama",
+      "text-generation",
+      "zh",
+      "en",
+      "fr",
+      "de",
+      "ja",
+      "ko",
+      "it",
+      "ru",
+      "fi",
+      "base_model:OpenBuddy/openbuddy-llama2-13b64k-v15",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-13T10:21:02.000Z",
     "modelId": "TheBloke/openbuddy-llama2-13b64k-v15-GGUF"
   },
