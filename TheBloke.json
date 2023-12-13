@@ -50028,7 +50028,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 170,
+    "likes": 171,
     "private": false,
     "downloads": 1615,
     "tags": [
@@ -71215,7 +71215,7 @@
   {
     "_id": "65770d54b2b935d83f6ea4d1",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GGUF",
-    "likes": 188,
+    "likes": 189,
     "private": false,
     "downloads": 86,
     "tags": [
@@ -72764,5 +72764,42 @@
     "library_name": "transformers",
     "createdAt": "2023-12-13T01:34:09.000Z",
     "modelId": "TheBloke/OpenZephyrChat-GPTQ"
+  },
+  {
+    "_id": "6579858e5aaf15a2c2ff42ca",
+    "id": "TheBloke/openbuddy-llama2-13b64k-v15-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-13T10:21:02.000Z",
+    "modelId": "TheBloke/openbuddy-llama2-13b64k-v15-AWQ"
+  },
+  {
+    "_id": "6579858e691da91ece6b5da2",
+    "id": "TheBloke/openbuddy-llama2-13b64k-v15-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2023-12-13T10:21:02.000Z",
+    "modelId": "TheBloke/openbuddy-llama2-13b64k-v15-GGUF"
+  },
+  {
+    "_id": "6579858ee9d26ba901428b00",
+    "id": "TheBloke/openbuddy-llama2-13b64k-v15-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-13T10:21:02.000Z",
+    "modelId": "TheBloke/openbuddy-llama2-13b64k-v15-GPTQ"
   }
 ]
