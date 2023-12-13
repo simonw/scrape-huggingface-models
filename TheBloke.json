@@ -295,7 +295,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-13B-HF",
     "likes": 4,
     "private": false,
-    "downloads": 2014,
+    "downloads": 1962,
     "tags": [
       "transformers",
       "pytorch",
@@ -351,7 +351,7 @@
     "id": "TheBloke/alpaca-lora-65B-HF",
     "likes": 3,
     "private": false,
-    "downloads": 1991,
+    "downloads": 1937,
     "tags": [
       "transformers",
       "pytorch",
@@ -373,7 +373,7 @@
     "id": "TheBloke/alpaca-lora-65B-GPTQ",
     "likes": 29,
     "private": false,
-    "downloads": 9,
+    "downloads": 11,
     "tags": [
       "transformers",
       "pytorch",
@@ -409,7 +409,7 @@
     "id": "TheBloke/medalpaca-13B-GPTQ",
     "likes": 28,
     "private": false,
-    "downloads": 2445,
+    "downloads": 2360,
     "tags": [
       "transformers",
       "pytorch",
@@ -436,7 +436,7 @@
     "id": "TheBloke/wizardLM-7B-HF",
     "likes": 91,
     "private": false,
-    "downloads": 3848,
+    "downloads": 3829,
     "tags": [
       "transformers",
       "pytorch",
@@ -472,7 +472,7 @@
     "id": "TheBloke/wizardLM-7B-GPTQ",
     "likes": 104,
     "private": false,
-    "downloads": 509,
+    "downloads": 495,
     "tags": [
       "transformers",
       "safetensors",
@@ -495,7 +495,7 @@
     "id": "TheBloke/stable-vicuna-13B-HF",
     "likes": 96,
     "private": false,
-    "downloads": 2823,
+    "downloads": 2784,
     "tags": [
       "transformers",
       "pytorch",
@@ -539,7 +539,7 @@
     "id": "TheBloke/stable-vicuna-13B-GPTQ",
     "likes": 219,
     "private": false,
-    "downloads": 118,
+    "downloads": 114,
     "tags": [
       "transformers",
       "safetensors",
@@ -568,7 +568,7 @@
     "id": "TheBloke/OpenAssistant-SFT-7-Llama-30B-HF",
     "likes": 14,
     "private": false,
-    "downloads": 2027,
+    "downloads": 1976,
     "tags": [
       "transformers",
       "pytorch",
@@ -10617,7 +10617,7 @@
   {
     "_id": "64b6d3eeab056b63ede8a758",
     "id": "TheBloke/Llama-2-13B-chat-GGML",
-    "likes": 635,
+    "likes": 636,
     "private": false,
     "downloads": 1617,
     "tags": [
@@ -27547,7 +27547,7 @@
   {
     "_id": "6508e8f4f75ac8c6f966179a",
     "id": "TheBloke/CodeLlama-34B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 181,
     "tags": [
@@ -64600,7 +64600,7 @@
   {
     "_id": "6563bce1a72f05d2ead5158d",
     "id": "TheBloke/PiVoT-0.1-Evil-a-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 11,
     "tags": [
@@ -69367,7 +69367,7 @@
   {
     "_id": "657232a84e12ce880ea0ac08",
     "id": "TheBloke/stablelm-zephyr-3b-GGUF",
-    "likes": 45,
+    "likes": 46,
     "private": false,
     "downloads": 68,
     "tags": [
@@ -71215,7 +71215,7 @@
   {
     "_id": "65770d54b2b935d83f6ea4d1",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GGUF",
-    "likes": 197,
+    "likes": 198,
     "private": false,
     "downloads": 86,
     "tags": [
@@ -73166,7 +73166,7 @@
   {
     "_id": "6579c3530543cdd9dad734a5",
     "id": "TheBloke/Ana-v1-m7-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -73261,9 +73261,58 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:beberik/Nyxene-v3-11B",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-13T15:25:32.000Z",
     "modelId": "TheBloke/Nyxene-v3-11B-AWQ"
+  },
+  {
+    "_id": "6579d31a2f03cfb1b55d13e2",
+    "id": "TheBloke/meditron-7B-chat-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "Medicine",
+      "en",
+      "dataset:yahma/alpaca-cleaned",
+      "base_model:malhajar/meditron-7b-chat",
+      "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-13T15:51:54.000Z",
+    "modelId": "TheBloke/meditron-7B-chat-AWQ"
+  },
+  {
+    "_id": "6579d6d74a0f7f66e7a9690a",
+    "id": "TheBloke/Ana-v1-m7-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-13T16:07:51.000Z",
+    "modelId": "TheBloke/Ana-v1-m7-AWQ"
   }
 ]
