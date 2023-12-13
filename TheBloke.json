@@ -71267,7 +71267,7 @@
   {
     "_id": "657748efb2b935d83f7a5eb2",
     "id": "TheBloke/LlamaGuard-7B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -71317,7 +71317,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 115,
+    "likes": 119,
     "private": false,
     "downloads": 49,
     "tags": [
@@ -71644,7 +71644,7 @@
   {
     "_id": "65782c25521aa1f8a4b118f2",
     "id": "TheBloke/neural-chat-7B-v3-3-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -73012,8 +73012,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:upstage/SOLAR-10.7B-v1.0",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-13T13:58:08.000Z",
     "modelId": "TheBloke/SOLAR-10.7B-v1.0-GPTQ"
   },
@@ -73089,6 +73100,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "zh",
+      "en",
+      "dataset:Azure99/blossom-chat-v1",
+      "dataset:Azure99/blossom-math-v2",
+      "dataset:Azure99/blossom-wizard-v1",
+      "dataset:Azure99/blossom-orca-v1",
+      "base_model:Azure99/blossom-v3_1-yi-34b",
+      "license:apache-2.0",
       "region:us"
     ],
     "createdAt": "2023-12-13T14:00:08.000Z",
@@ -73097,7 +73116,7 @@
   {
     "_id": "6579bf30488112313efa2104",
     "id": "TheBloke/Nyxene-v3-11B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -73120,9 +73139,110 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "gguf",
+      "llama",
+      "Medicine",
+      "en",
+      "dataset:yahma/alpaca-cleaned",
+      "base_model:malhajar/meditron-7b-chat",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2023-12-13T14:33:51.000Z",
     "modelId": "TheBloke/meditron-7B-chat-GGUF"
+  },
+  {
+    "_id": "6579c3530543cdd9dad734a5",
+    "id": "TheBloke/Ana-v1-m7-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "en",
+      "base_model:Sao10K/Ana-v1-m7",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-13T14:44:35.000Z",
+    "modelId": "TheBloke/Ana-v1-m7-GGUF"
+  },
+  {
+    "_id": "6579c38e47ae87ca7278cde6",
+    "id": "TheBloke/blossom-v3_1-yi-34b-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-13T14:45:34.000Z",
+    "modelId": "TheBloke/blossom-v3_1-yi-34b-GPTQ"
+  },
+  {
+    "_id": "6579c4cdc0c04c7b0430a839",
+    "id": "TheBloke/v1olet_merged_dpo_7B_v3-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "en",
+      "base_model:v1olet/v1olet_merged_dpo_7B_v3",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-13T14:50:53.000Z",
+    "modelId": "TheBloke/v1olet_merged_dpo_7B_v3-GGUF"
+  },
+  {
+    "_id": "6579c6230b0608ba9cd47eeb",
+    "id": "TheBloke/v1olet_merged_dpo_7B_v4-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "en",
+      "base_model:v1olet/v1olet_merged_dpo_7B_v4",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-13T14:56:35.000Z",
+    "modelId": "TheBloke/v1olet_merged_dpo_7B_v4-GGUF"
+  },
+  {
+    "_id": "6579c76321a8b318365626f3",
+    "id": "TheBloke/LeoScorpius-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "base_model:viethq188/LeoScorpius-7B",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-13T15:01:55.000Z",
+    "modelId": "TheBloke/LeoScorpius-7B-GGUF"
   }
 ]
