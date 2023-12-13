@@ -17349,7 +17349,7 @@
   {
     "_id": "64e77dd529a548f66a14ddde",
     "id": "TheBloke/CodeLlama-13B-fp16",
-    "likes": 66,
+    "likes": 65,
     "private": false,
     "downloads": 92,
     "tags": [
@@ -17375,7 +17375,7 @@
   {
     "_id": "64e7836118cb739205733a04",
     "id": "TheBloke/CodeLlama-13B-Instruct-fp16",
-    "likes": 29,
+    "likes": 28,
     "private": false,
     "downloads": 2034,
     "tags": [
@@ -17401,7 +17401,7 @@
   {
     "_id": "64e784d39f8952a1c0f6e8fd",
     "id": "TheBloke/CodeLlama-13B-Python-fp16",
-    "likes": 26,
+    "likes": 25,
     "private": false,
     "downloads": 1993,
     "tags": [
@@ -17427,7 +17427,7 @@
   {
     "_id": "64e7868cd96966317b47a69d",
     "id": "TheBloke/CodeLlama-7B-Instruct-fp16",
-    "likes": 9,
+    "likes": 8,
     "private": false,
     "downloads": 114,
     "tags": [
@@ -17453,7 +17453,7 @@
   {
     "_id": "64e7869e7df3343281347b30",
     "id": "TheBloke/CodeLlama-7B-Python-fp16",
-    "likes": 8,
+    "likes": 7,
     "private": false,
     "downloads": 28,
     "tags": [
@@ -17479,7 +17479,7 @@
   {
     "_id": "64e786abb81ed1012fc43070",
     "id": "TheBloke/CodeLlama-7B-fp16",
-    "likes": 7,
+    "likes": 6,
     "private": false,
     "downloads": 320,
     "tags": [
@@ -17504,7 +17504,7 @@
   {
     "_id": "64e78cdac3b2443fb30b9dda",
     "id": "TheBloke/CodeLlama-7B-Instruct-GGUF",
-    "likes": 79,
+    "likes": 78,
     "private": false,
     "downloads": 257,
     "tags": [
@@ -17602,7 +17602,7 @@
   {
     "_id": "64e7bc1129a548f66a1ddb15",
     "id": "TheBloke/CodeLlama-13B-Instruct-GGUF",
-    "likes": 77,
+    "likes": 76,
     "private": false,
     "downloads": 200,
     "tags": [
@@ -17679,7 +17679,7 @@
   {
     "_id": "64e7bf3b06954a8f4dd883da",
     "id": "TheBloke/CodeLlama-34B-Python-fp16",
-    "likes": 13,
+    "likes": 12,
     "private": false,
     "downloads": 1995,
     "tags": [
@@ -17705,7 +17705,7 @@
   {
     "_id": "64e7bf4a79630927bfe5c0fa",
     "id": "TheBloke/CodeLlama-34B-Instruct-fp16",
-    "likes": 8,
+    "likes": 7,
     "private": false,
     "downloads": 2015,
     "tags": [
@@ -17731,7 +17731,7 @@
   {
     "_id": "64e7bfa3af06dd08d29878f6",
     "id": "TheBloke/CodeLlama-34B-fp16",
-    "likes": 5,
+    "likes": 4,
     "private": false,
     "downloads": 73264,
     "tags": [
@@ -17851,7 +17851,7 @@
   {
     "_id": "64e7d00dae53e70cda1de235",
     "id": "TheBloke/CodeLlama-34B-Instruct-GGUF",
-    "likes": 79,
+    "likes": 78,
     "private": false,
     "downloads": 77,
     "tags": [
@@ -48096,7 +48096,7 @@
   {
     "_id": "65310b2133d693dfd39750ce",
     "id": "TheBloke/MistralLite-7B-GGUF",
-    "likes": 29,
+    "likes": 30,
     "private": false,
     "downloads": 36,
     "tags": [
@@ -68265,7 +68265,7 @@
   {
     "_id": "657041bb14fa8cfccd457a18",
     "id": "TheBloke/una-cybertron-7B-v2-GGUF",
-    "likes": 25,
+    "likes": 26,
     "private": false,
     "downloads": 17,
     "tags": [
@@ -71214,7 +71214,7 @@
   {
     "_id": "65770d54b2b935d83f6ea4d1",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GGUF",
-    "likes": 167,
+    "likes": 169,
     "private": false,
     "downloads": 86,
     "tags": [
@@ -71316,7 +71316,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 100,
+    "likes": 101,
     "private": false,
     "downloads": 49,
     "tags": [
@@ -72743,8 +72743,23 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "merge",
+      "zephyr",
+      "openchat",
+      "en",
+      "base_model:Fredithefish/OpenZephyrChat",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-13T01:34:09.000Z",
     "modelId": "TheBloke/OpenZephyrChat-GPTQ"
   }
