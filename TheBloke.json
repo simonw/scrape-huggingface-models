@@ -50054,7 +50054,7 @@
   {
     "_id": "653bb81b8502e1fd87503201",
     "id": "TheBloke/zephyr-7B-beta-GPTQ",
-    "likes": 44,
+    "likes": 45,
     "private": false,
     "downloads": 18230,
     "tags": [
@@ -56510,7 +56510,7 @@
   {
     "_id": "654e983a5da3196a7840a1ea",
     "id": "TheBloke/Yi-6B-200K-GGUF",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 78,
     "tags": [
@@ -69850,7 +69850,7 @@
   {
     "_id": "657432b0b238c76bbab8ab4a",
     "id": "TheBloke/mixtral-7B-8expert-GPTQ-outdated",
-    "likes": 66,
+    "likes": 65,
     "private": false,
     "downloads": 228,
     "tags": [
@@ -71238,7 +71238,7 @@
   {
     "_id": "65771780c793e5b72b0e8d68",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GPTQ",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 259,
     "tags": [
@@ -71316,7 +71316,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 99,
+    "likes": 100,
     "private": false,
     "downloads": 49,
     "tags": [
@@ -72691,8 +72691,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "code",
+      "en",
+      "dataset:ajibawa-2023/Code-74k-ShareGPT",
+      "base_model:ajibawa-2023/Code-33B",
+      "license:cc-by-nc-nd-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-13T00:18:36.000Z",
     "modelId": "TheBloke/Code-33B-GPTQ"
   },
@@ -72721,5 +72735,17 @@
     "library_name": "transformers",
     "createdAt": "2023-12-13T00:18:36.000Z",
     "modelId": "TheBloke/Code-33B-AWQ"
+  },
+  {
+    "_id": "65790a11800326e825356a5a",
+    "id": "TheBloke/OpenZephyrChat-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-13T01:34:09.000Z",
+    "modelId": "TheBloke/OpenZephyrChat-GPTQ"
   }
 ]
