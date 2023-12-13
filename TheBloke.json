@@ -1086,7 +1086,7 @@
     "id": "TheBloke/wizard-mega-13B-GPTQ",
     "likes": 102,
     "private": false,
-    "downloads": 2291,
+    "downloads": 2183,
     "tags": [
       "transformers",
       "safetensors",
@@ -1165,7 +1165,7 @@
     "id": "TheBloke/VicUnlocked-30B-LoRA-HF",
     "likes": 1,
     "private": false,
-    "downloads": 1995,
+    "downloads": 1939,
     "tags": [
       "transformers",
       "pytorch",
@@ -1189,7 +1189,7 @@
     "id": "TheBloke/LLaMa-7B-GGML",
     "likes": 57,
     "private": false,
-    "downloads": 67,
+    "downloads": 65,
     "tags": [
       "transformers",
       "llama",
@@ -1207,7 +1207,7 @@
     "id": "TheBloke/LLaMa-13B-GGML",
     "likes": 19,
     "private": false,
-    "downloads": 10,
+    "downloads": 12,
     "tags": [
       "transformers",
       "llama",
@@ -1241,7 +1241,7 @@
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ",
     "likes": 120,
     "private": false,
-    "downloads": 75287,
+    "downloads": 86723,
     "tags": [
       "transformers",
       "safetensors",
@@ -1282,7 +1282,7 @@
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-HF",
     "likes": 19,
     "private": false,
-    "downloads": 2421,
+    "downloads": 2366,
     "tags": [
       "transformers",
       "pytorch",
@@ -1471,7 +1471,7 @@
     "id": "TheBloke/WizardLM-30B-Uncensored-GPTQ",
     "likes": 113,
     "private": false,
-    "downloads": 2505,
+    "downloads": 2400,
     "tags": [
       "transformers",
       "safetensors",
@@ -1519,7 +1519,7 @@
     "id": "TheBloke/airoboros-13B-HF",
     "likes": 12,
     "private": false,
-    "downloads": 2033,
+    "downloads": 1979,
     "tags": [
       "transformers",
       "pytorch",
@@ -1541,7 +1541,7 @@
     "id": "TheBloke/manticore-13b-chat-pyg-GPTQ",
     "likes": 33,
     "private": false,
-    "downloads": 2308,
+    "downloads": 2203,
     "tags": [
       "transformers",
       "safetensors",
@@ -1618,7 +1618,7 @@
     "id": "TheBloke/Project-Baize-v2-7B-GPTQ",
     "likes": 4,
     "private": false,
-    "downloads": 1991,
+    "downloads": 1938,
     "tags": [
       "transformers",
       "safetensors",
@@ -1642,7 +1642,7 @@
     "id": "TheBloke/Project-Baize-v2-13B-GPTQ",
     "likes": 11,
     "private": false,
-    "downloads": 1962,
+    "downloads": 1907,
     "tags": [
       "transformers",
       "safetensors",
@@ -1698,7 +1698,7 @@
     "id": "TheBloke/guanaco-13B-GPTQ",
     "likes": 28,
     "private": false,
-    "downloads": 113,
+    "downloads": 88,
     "tags": [
       "transformers",
       "safetensors",
@@ -1723,7 +1723,7 @@
     "id": "TheBloke/guanaco-33B-GPTQ",
     "likes": 75,
     "private": false,
-    "downloads": 2386,
+    "downloads": 2256,
     "tags": [
       "transformers",
       "safetensors",
@@ -1747,7 +1747,7 @@
     "id": "TheBloke/guanaco-65B-GPTQ",
     "likes": 258,
     "private": false,
-    "downloads": 83,
+    "downloads": 92,
     "tags": [
       "transformers",
       "safetensors",
@@ -1787,7 +1787,7 @@
     "id": "TheBloke/guanaco-65B-HF",
     "likes": 26,
     "private": false,
-    "downloads": 2017,
+    "downloads": 1963,
     "tags": [
       "transformers",
       "pytorch",
@@ -1810,7 +1810,7 @@
     "id": "TheBloke/guanaco-13B-HF",
     "likes": 7,
     "private": false,
-    "downloads": 2080,
+    "downloads": 2027,
     "tags": [
       "transformers",
       "pytorch",
@@ -1851,7 +1851,7 @@
     "id": "TheBloke/guanaco-7B-GPTQ",
     "likes": 27,
     "private": false,
-    "downloads": 71,
+    "downloads": 64,
     "tags": [
       "transformers",
       "safetensors",
@@ -1875,7 +1875,7 @@
     "id": "TheBloke/guanaco-7B-HF",
     "likes": 8,
     "private": false,
-    "downloads": 2321,
+    "downloads": 2264,
     "tags": [
       "transformers",
       "pytorch",
@@ -1962,7 +1962,7 @@
     "id": "TheBloke/Falcon-7B-Instruct-GPTQ",
     "likes": 61,
     "private": false,
-    "downloads": 11959,
+    "downloads": 12354,
     "tags": [
       "transformers",
       "safetensors",
@@ -1991,7 +1991,7 @@
     "id": "TheBloke/falcon-40b-instruct-GPTQ",
     "likes": 195,
     "private": false,
-    "downloads": 6148,
+    "downloads": 6151,
     "tags": [
       "transformers",
       "safetensors",
@@ -2058,7 +2058,7 @@
     "id": "TheBloke/WizardLM-13B-1.0-fp16",
     "likes": 10,
     "private": false,
-    "downloads": 2026,
+    "downloads": 1973,
     "tags": [
       "transformers",
       "pytorch",
@@ -27467,7 +27467,7 @@
   {
     "_id": "6508e5f8c9aa376f76a6c256",
     "id": "TheBloke/Llama-2-70B-Chat-AWQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 209633,
     "tags": [
@@ -39328,7 +39328,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 335,
+    "likes": 336,
     "private": false,
     "downloads": 4016,
     "tags": [
@@ -58996,7 +58996,7 @@
   {
     "_id": "655735aabfb62d747ac2f396",
     "id": "TheBloke/Akins-3B-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 20,
     "tags": [
@@ -69848,30 +69848,6 @@
     "modelId": "TheBloke/Thespis-13B-Alpha-v0.7-GPTQ"
   },
   {
-    "_id": "657432b0b238c76bbab8ab4a",
-    "id": "TheBloke/mixtral-7B-8expert-GPTQ-outdated",
-    "likes": 65,
-    "private": false,
-    "downloads": 228,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "mistral",
-      "text-generation",
-      "custom_code",
-      "base_model:DiscoResearch/mixtral-7b-8expert",
-      "license:apache-2.0",
-      "autotrain_compatible",
-      "text-generation-inference",
-      "4-bit",
-      "region:us"
-    ],
-    "pipeline_tag": "text-generation",
-    "library_name": "transformers",
-    "createdAt": "2023-12-09T09:26:08.000Z",
-    "modelId": "TheBloke/mixtral-7B-8expert-GPTQ-outdated"
-  },
-  {
     "_id": "65744354177b3b466325ae6e",
     "id": "TheBloke/OrcaMaid-13B-GGUF",
     "likes": 3,
@@ -71215,7 +71191,7 @@
   {
     "_id": "65770d54b2b935d83f6ea4d1",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GGUF",
-    "likes": 199,
+    "likes": 200,
     "private": false,
     "downloads": 86,
     "tags": [
@@ -71603,7 +71579,7 @@
   {
     "_id": "657815302f2e4058aed28d52",
     "id": "TheBloke/dopeystableplats-3b-v1-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -73190,8 +73166,25 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "zh",
+      "en",
+      "dataset:Azure99/blossom-chat-v1",
+      "dataset:Azure99/blossom-math-v2",
+      "dataset:Azure99/blossom-wizard-v1",
+      "dataset:Azure99/blossom-orca-v1",
+      "base_model:Azure99/blossom-v3_1-yi-34b",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-13T14:45:34.000Z",
     "modelId": "TheBloke/blossom-v3_1-yi-34b-GPTQ"
   },
@@ -73368,9 +73361,69 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "base_model:v1olet/v1olet_merged_dpo_7B_v3",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-13T16:28:20.000Z",
     "modelId": "TheBloke/v1olet_merged_dpo_7B_v3-AWQ"
+  },
+  {
+    "_id": "6579e040c8423342f8a76239",
+    "id": "TheBloke/v1olet_merged_dpo_7B_v4-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "base_model:v1olet/v1olet_merged_dpo_7B_v4",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-13T16:48:00.000Z",
+    "modelId": "TheBloke/v1olet_merged_dpo_7B_v4-AWQ"
+  },
+  {
+    "_id": "6579e3ccb5343957f20adee9",
+    "id": "TheBloke/Nyxene-v3-11B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-13T17:03:08.000Z",
+    "modelId": "TheBloke/Nyxene-v3-11B-GPTQ"
+  },
+  {
+    "_id": "6579e47ce23e9002753daab0",
+    "id": "TheBloke/LeoScorpius-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-13T17:06:04.000Z",
+    "modelId": "TheBloke/LeoScorpius-7B-AWQ"
   }
 ]
