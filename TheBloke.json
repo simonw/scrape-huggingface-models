@@ -17504,7 +17504,7 @@
   {
     "_id": "64e78cdac3b2443fb30b9dda",
     "id": "TheBloke/CodeLlama-7B-Instruct-GGUF",
-    "likes": 78,
+    "likes": 79,
     "private": false,
     "downloads": 257,
     "tags": [
@@ -27467,7 +27467,7 @@
   {
     "_id": "6508e5f8c9aa376f76a6c256",
     "id": "TheBloke/Llama-2-70B-Chat-AWQ",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 209633,
     "tags": [
@@ -60908,7 +60908,7 @@
   {
     "_id": "655b83a309d90b0a0a60cba6",
     "id": "TheBloke/Writing_Partner_Mistral_7B-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -69367,7 +69367,7 @@
   {
     "_id": "657232a84e12ce880ea0ac08",
     "id": "TheBloke/stablelm-zephyr-3b-GGUF",
-    "likes": 43,
+    "likes": 44,
     "private": false,
     "downloads": 68,
     "tags": [
@@ -71317,7 +71317,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 110,
+    "likes": 111,
     "private": false,
     "downloads": 49,
     "tags": [
@@ -72772,8 +72772,29 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "custom_code",
+      "zh",
+      "en",
+      "fr",
+      "de",
+      "ja",
+      "ko",
+      "it",
+      "ru",
+      "fi",
+      "base_model:OpenBuddy/openbuddy-llama2-13b64k-v15",
+      "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-13T10:21:02.000Z",
     "modelId": "TheBloke/openbuddy-llama2-13b64k-v15-AWQ"
   },
