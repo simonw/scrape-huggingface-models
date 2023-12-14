@@ -26580,7 +26580,7 @@
   {
     "_id": "6504535ae8b265d6875024f6",
     "id": "TheBloke/Synthia-70B-v1.2b-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 23,
     "tags": [
@@ -71422,7 +71422,7 @@
   {
     "_id": "65778ac662d3ac1817cc9201",
     "id": "TheBloke/Mistral-7B-Instruct-v0.2-GGUF",
-    "likes": 42,
+    "likes": 43,
     "private": false,
     "downloads": 92,
     "tags": [
@@ -73861,13 +73861,28 @@
   {
     "_id": "657ada27f14f26780a66a577",
     "id": "TheBloke/dolphin-2.5-mixtral-8x7b-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "mixtral",
+      "en",
+      "dataset:ehartford/dolphin",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "dataset:ehartford/dolphin-coder",
+      "dataset:migtissera/Synthia-v1.3",
+      "dataset:teknium/openhermes",
+      "dataset:ise-uiuc/Magicoder-OSS-Instruct-75K",
+      "dataset:ise-uiuc/Magicoder-Evol-Instruct-110K",
+      "dataset:LDJnr/Pure-Dove",
+      "base_model:ehartford/dolphin-2.5-mixtral-8x7b",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2023-12-14T10:34:15.000Z",
     "modelId": "TheBloke/dolphin-2.5-mixtral-8x7b-GGUF"
   }
