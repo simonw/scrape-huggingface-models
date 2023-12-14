@@ -644,7 +644,7 @@
     "id": "TheBloke/wizard-vicuna-13B-GPTQ",
     "likes": 100,
     "private": false,
-    "downloads": 2253,
+    "downloads": 2187,
     "tags": [
       "transformers",
       "safetensors",
@@ -670,7 +670,7 @@
     "id": "TheBloke/wizard-vicuna-13B-HF",
     "likes": 48,
     "private": false,
-    "downloads": 1978,
+    "downloads": 1947,
     "tags": [
       "transformers",
       "pytorch",
@@ -708,7 +708,7 @@
     "id": "TheBloke/WizardLM-7B-uncensored-GPTQ",
     "likes": 163,
     "private": false,
-    "downloads": 3368,
+    "downloads": 3345,
     "tags": [
       "transformers",
       "safetensors",
@@ -734,7 +734,7 @@
     "id": "TheBloke/GPT4All-13B-snoozy-GPTQ",
     "likes": 29,
     "private": false,
-    "downloads": 75,
+    "downloads": 73,
     "tags": [
       "transformers",
       "safetensors",
@@ -771,7 +771,7 @@
     "id": "TheBloke/gpt4-x-vicuna-13B-GPTQ",
     "likes": 34,
     "private": false,
-    "downloads": 33,
+    "downloads": 34,
     "tags": [
       "transformers",
       "safetensors",
@@ -819,7 +819,7 @@
     "id": "TheBloke/dromedary-65b-lora-HF",
     "likes": 20,
     "private": false,
-    "downloads": 1924,
+    "downloads": 1891,
     "tags": [
       "transformers",
       "pytorch",
@@ -841,7 +841,7 @@
     "id": "TheBloke/h2ogpt-oasst1-512-30B-GPTQ",
     "likes": 5,
     "private": false,
-    "downloads": 26,
+    "downloads": 25,
     "tags": [
       "transformers",
       "safetensors",
@@ -882,7 +882,7 @@
     "id": "TheBloke/dromedary-65B-lora-GPTQ",
     "likes": 7,
     "private": false,
-    "downloads": 7,
+    "downloads": 6,
     "tags": [
       "transformers",
       "safetensors",
@@ -904,7 +904,7 @@
     "id": "TheBloke/h2ogpt-oasst1-512-30B-HF",
     "likes": 2,
     "private": false,
-    "downloads": 1946,
+    "downloads": 1913,
     "tags": [
       "transformers",
       "pytorch",
@@ -945,7 +945,7 @@
     "id": "TheBloke/gpt4-alpaca-lora_mlp-65B-HF",
     "likes": 7,
     "private": false,
-    "downloads": 1949,
+    "downloads": 1914,
     "tags": [
       "transformers",
       "pytorch",
@@ -970,7 +970,7 @@
     "id": "TheBloke/gpt4-alpaca-lora_mlp-65B-GPTQ",
     "likes": 14,
     "private": false,
-    "downloads": 48,
+    "downloads": 47,
     "tags": [
       "transformers",
       "safetensors",
@@ -1010,7 +1010,7 @@
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
     "likes": 269,
     "private": false,
-    "downloads": 40494,
+    "downloads": 40324,
     "tags": [
       "transformers",
       "safetensors",
@@ -1037,7 +1037,7 @@
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-HF",
     "likes": 202,
     "private": false,
-    "downloads": 3309,
+    "downloads": 3276,
     "tags": [
       "transformers",
       "pytorch",
@@ -39328,7 +39328,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 340,
+    "likes": 341,
     "private": false,
     "downloads": 4112,
     "tags": [
@@ -69670,7 +69670,7 @@
   {
     "_id": "657341bdd40e6ed326df8d1c",
     "id": "TheBloke/Thespis-13B-Alpha-v0.7-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -71215,7 +71215,7 @@
   {
     "_id": "65771780c793e5b72b0e8d68",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GPTQ",
-    "likes": 24,
+    "likes": 28,
     "private": false,
     "downloads": 368,
     "tags": [
@@ -72478,7 +72478,7 @@
   {
     "_id": "6578c39486e571e7a8e821c3",
     "id": "TheBloke/mixtralnt-4x7b-test-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -73881,7 +73881,7 @@
   {
     "_id": "657ada27f14f26780a66a577",
     "id": "TheBloke/dolphin-2.5-mixtral-8x7b-GGUF",
-    "likes": 17,
+    "likes": 19,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -74024,7 +74024,7 @@
   {
     "_id": "657b13e99f62ed61a2f3dc25",
     "id": "TheBloke/openbuddy-mixtral-8x7b-v15.1-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -74057,8 +74057,27 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mixtral",
+      "text-generation",
+      "zh",
+      "en",
+      "fr",
+      "de",
+      "ja",
+      "ko",
+      "it",
+      "ru",
+      "base_model:OpenBuddy/openbuddy-mixtral-8x7b-v15.1",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-14T14:40:41.000Z",
     "modelId": "TheBloke/openbuddy-mixtral-8x7b-v15.1-GPTQ"
   },
@@ -74111,9 +74130,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "peft",
       "safetensors",
+      "generated_from_trainer",
+      "base_model:nRuaif/Rose-Kimiko-20B",
+      "license:llama2",
       "region:us"
     ],
+    "library_name": "peft",
     "createdAt": "2023-12-14T16:07:42.000Z",
     "modelId": "TheBloke/Rose-Kimiko-20B-fp16"
   }
