@@ -39328,7 +39328,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 347,
+    "likes": 348,
     "private": false,
     "downloads": 4188,
     "tags": [
@@ -54116,7 +54116,7 @@
   {
     "_id": "65479a438767484a0548595b",
     "id": "TheBloke/deepseek-coder-6.7B-instruct-GGUF",
-    "likes": 85,
+    "likes": 86,
     "private": false,
     "downloads": 181,
     "tags": [
@@ -74785,7 +74785,7 @@
   {
     "_id": "657ba0ed3a230db589326d45",
     "id": "TheBloke/una-cybertron-7B-v3-OMA-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -74933,7 +74933,7 @@
   {
     "_id": "657bb3d879cf6182f032683c",
     "id": "TheBloke/Orca-2-13B-SFT_v5-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -74997,7 +74997,7 @@
   {
     "_id": "657bb3d8ff16eeb2ee3804b0",
     "id": "TheBloke/Orca-2-13B-SFT_v5-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -75236,8 +75236,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mixtral",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "base_model:Undi95/Llamix2-MLewd-4x13B",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-15T11:03:33.000Z",
     "modelId": "TheBloke/Llamix2-MLewd-4x13B-GPTQ"
   },
