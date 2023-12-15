@@ -73853,7 +73853,7 @@
   {
     "_id": "657ada27e4a10c4beb2a8408",
     "id": "TheBloke/dolphin-2.5-mixtral-8x7b-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 122,
     "tags": [
@@ -73952,7 +73952,7 @@
   {
     "_id": "657b12b55c6f0b1f36d5f1d1",
     "id": "TheBloke/openchat-3.5-1210-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -75354,5 +75354,37 @@
     ],
     "createdAt": "2023-12-15T12:14:32.000Z",
     "modelId": "TheBloke/mistral-7B-dpo-v5-GPTQ"
+  },
+  {
+    "_id": "657c54fa2c19352966498247",
+    "id": "TheBloke/mistral-7B-dpo-v5-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "en",
+      "base_model:mncai/mistral-7b-dpo-v5",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-15T13:30:34.000Z",
+    "modelId": "TheBloke/mistral-7B-dpo-v5-GGUF"
+  },
+  {
+    "_id": "657c54fa80c6e42aa0434007",
+    "id": "TheBloke/mistral-7B-dpo-v5-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-15T13:30:34.000Z",
+    "modelId": "TheBloke/mistral-7B-dpo-v5-AWQ"
   }
 ]
