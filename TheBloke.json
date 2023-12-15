@@ -21643,7 +21643,7 @@
   {
     "_id": "64f69c38c3bdaab6f58e2b8c",
     "id": "TheBloke/MythoMax-L2-13B-GGUF",
-    "likes": 32,
+    "likes": 33,
     "private": false,
     "downloads": 120,
     "tags": [
@@ -53091,7 +53091,7 @@
   {
     "_id": "6543cac6e9e8e72d2acd55c4",
     "id": "TheBloke/openchat_3.5-GGUF",
-    "likes": 108,
+    "likes": 109,
     "private": false,
     "downloads": 377,
     "tags": [
@@ -53271,7 +53271,7 @@
   {
     "_id": "654418242996405c238f5eea",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
-    "likes": 127,
+    "likes": 128,
     "private": false,
     "downloads": 822,
     "tags": [
@@ -71215,7 +71215,7 @@
   {
     "_id": "65771780c793e5b72b0e8d68",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GPTQ",
-    "likes": 43,
+    "likes": 44,
     "private": false,
     "downloads": 636,
     "tags": [
@@ -73852,7 +73852,7 @@
     "id": "TheBloke/dolphin-2.5-mixtral-8x7b-GPTQ",
     "likes": 3,
     "private": false,
-    "downloads": 0,
+    "downloads": 122,
     "tags": [
       "transformers",
       "safetensors",
@@ -73884,7 +73884,7 @@
     "id": "TheBloke/dolphin-2.5-mixtral-8x7b-GGUF",
     "likes": 28,
     "private": false,
-    "downloads": 0,
+    "downloads": 48,
     "tags": [
       "transformers",
       "gguf",
@@ -73912,7 +73912,7 @@
     "id": "TheBloke/openchat-3.5-1210-AWQ",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 6,
     "tags": [
       "transformers",
       "safetensors",
@@ -73949,9 +73949,9 @@
   {
     "_id": "657b12b55c6f0b1f36d5f1d1",
     "id": "TheBloke/openchat-3.5-1210-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
-    "downloads": 0,
+    "downloads": 3,
     "tags": [
       "transformers",
       "gguf",
@@ -73988,7 +73988,7 @@
     "id": "TheBloke/openchat-3.5-1210-GPTQ",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 35,
     "tags": [
       "transformers",
       "safetensors",
@@ -74056,7 +74056,7 @@
     "id": "TheBloke/openbuddy-mixtral-8x7b-v15.1-GPTQ",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 5,
     "tags": [
       "transformers",
       "safetensors",
@@ -74178,7 +74178,7 @@
     "id": "TheBloke/Mythalion-Kimiko-v2-GPTQ",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 5,
     "tags": [
       "transformers",
       "safetensors",
@@ -74201,7 +74201,7 @@
     "id": "TheBloke/Mythalion-Kimiko-v2-AWQ",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 1,
     "tags": [
       "transformers",
       "safetensors",
@@ -74265,7 +74265,7 @@
   {
     "_id": "657b41f6c8c6e8dceeb12131",
     "id": "TheBloke/Solar-10.7B-SLERP-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -74560,7 +74560,7 @@
     "id": "TheBloke/Mistral-7B-Instruct-v0.2-DARE-GPTQ",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 4,
     "tags": [
       "transformers",
       "safetensors",
@@ -74602,7 +74602,7 @@
   {
     "_id": "657b77e0504b90a3c58fc1e6",
     "id": "TheBloke/Mixtral-8x7B-MoE-RP-Story-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -74674,7 +74674,7 @@
     "id": "TheBloke/OrcaMaid-v2-13B-GGUF",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 1,
     "tags": [
       "transformers",
       "gguf",
@@ -74810,8 +74810,24 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "juanako",
+      "UNA",
+      "cybertron",
+      "xaberius",
+      "dataset:fblgit/tree-of-knowledge",
+      "base_model:fblgit/una-cybertron-7b-v3-OMA",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-15T00:42:21.000Z",
     "modelId": "TheBloke/una-cybertron-7B-v3-OMA-AWQ"
   },
@@ -74822,9 +74838,69 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "juanako",
+      "UNA",
+      "cybertron",
+      "xaberius",
+      "dataset:fblgit/tree-of-knowledge",
+      "base_model:fblgit/una-cybertron-7b-v3-OMA",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-15T00:42:21.000Z",
     "modelId": "TheBloke/una-cybertron-7B-v3-OMA-GPTQ"
+  },
+  {
+    "_id": "657ba7ea538666d04cc5a191",
+    "id": "TheBloke/Pandora-v1-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-15T01:12:10.000Z",
+    "modelId": "TheBloke/Pandora-v1-13B-AWQ"
+  },
+  {
+    "_id": "657ba7ea6b314373ed5cb4cd",
+    "id": "TheBloke/Pandora-v1-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-15T01:12:10.000Z",
+    "modelId": "TheBloke/Pandora-v1-13B-GPTQ"
+  },
+  {
+    "_id": "657ba7ea8e7790a347e0a549",
+    "id": "TheBloke/Pandora-v1-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "en",
+      "base_model:janhq/Pandora-v1-13B",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-15T01:12:10.000Z",
+    "modelId": "TheBloke/Pandora-v1-13B-GGUF"
   }
 ]
