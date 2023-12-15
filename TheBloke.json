@@ -6896,7 +6896,7 @@
   {
     "_id": "649aa5060695bc694e337091",
     "id": "TheBloke/Chronos-Hermes-13B-SuperHOT-8K-GPTQ",
-    "likes": 35,
+    "likes": 36,
     "private": false,
     "downloads": 25,
     "tags": [
@@ -53188,7 +53188,7 @@
   {
     "_id": "6543e26c40ddcc1c6f1d2eb1",
     "id": "TheBloke/Yarn-Mistral-7B-128k-AWQ",
-    "likes": 29,
+    "likes": 30,
     "private": false,
     "downloads": 1608,
     "tags": [
@@ -66976,7 +66976,7 @@
   {
     "_id": "656908939969ebd3884821a9",
     "id": "TheBloke/meditron-7B-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 46,
     "tags": [
@@ -71069,7 +71069,7 @@
   {
     "_id": "6576f60eca95cd024ba1d351",
     "id": "TheBloke/OpenHermes-2.5-neural-chat-v3-3-Slerp-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -71295,7 +71295,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 161,
+    "likes": 162,
     "private": false,
     "downloads": 158,
     "tags": [
@@ -74933,7 +74933,7 @@
   {
     "_id": "657bb3d879cf6182f032683c",
     "id": "TheBloke/Orca-2-13B-SFT_v5-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -75099,7 +75099,7 @@
   {
     "_id": "657bc6a412e4dfc7a936c1b5",
     "id": "TheBloke/WinterGoddess-1.4x-70B-L2-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -75293,8 +75293,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "base_model:Gryphe/Tiamat-7b-1.1-DPO",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-15T11:19:17.000Z",
     "modelId": "TheBloke/Tiamat-7B-1.1-DPO-GPTQ"
   },
