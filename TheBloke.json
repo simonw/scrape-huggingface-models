@@ -16503,7 +16503,7 @@
   {
     "_id": "64e35618a88a63300b9447db",
     "id": "TheBloke/Llama-2-7B-32K-Instruct-GPTQ",
-    "likes": 26,
+    "likes": 27,
     "private": false,
     "downloads": 1195,
     "tags": [
@@ -71217,7 +71217,7 @@
   {
     "_id": "65771780c793e5b72b0e8d68",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GPTQ",
-    "likes": 56,
+    "likes": 57,
     "private": false,
     "downloads": 636,
     "tags": [
@@ -72746,7 +72746,7 @@
   {
     "_id": "6579858e5aaf15a2c2ff42ca",
     "id": "TheBloke/openbuddy-llama2-13b64k-v15-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -73885,7 +73885,7 @@
   {
     "_id": "657ada27f14f26780a66a577",
     "id": "TheBloke/dolphin-2.5-mixtral-8x7b-GGUF",
-    "likes": 37,
+    "likes": 39,
     "private": false,
     "downloads": 48,
     "tags": [
@@ -73913,7 +73913,7 @@
   {
     "_id": "657b12b513e11aaa91b8c474",
     "id": "TheBloke/openchat-3.5-1210-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -75329,5 +75329,17 @@
     "library_name": "transformers",
     "createdAt": "2023-12-15T11:19:17.000Z",
     "modelId": "TheBloke/Tiamat-7B-1.1-DPO-GGUF"
+  },
+  {
+    "_id": "657c43288d360b690d6a0797",
+    "id": "TheBloke/mistral-7B-dpo-v5-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-15T12:14:32.000Z",
+    "modelId": "TheBloke/mistral-7B-dpo-v5-GPTQ"
   }
 ]
