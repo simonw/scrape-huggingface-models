@@ -57190,7 +57190,7 @@
   {
     "_id": "655280a0d05fe94e01a47abe",
     "id": "TheBloke/dolphin-2_2-yi-34b-AWQ",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 3102,
     "tags": [
@@ -63685,7 +63685,7 @@
   {
     "_id": "656099f7620c177ae04d1f03",
     "id": "TheBloke/tulu-2-dpo-70B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 111,
     "tags": [
@@ -71217,7 +71217,7 @@
   {
     "_id": "65771780c793e5b72b0e8d68",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GPTQ",
-    "likes": 50,
+    "likes": 52,
     "private": false,
     "downloads": 636,
     "tags": [
@@ -71295,7 +71295,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 159,
+    "likes": 160,
     "private": false,
     "downloads": 158,
     "tags": [
@@ -75213,8 +75213,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:Toten5/LeoScorpius-GreenNode-7B-v1",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-15T07:43:43.000Z",
     "modelId": "TheBloke/LeoScorpius-GreenNode-7B-v1-GPTQ"
   }
