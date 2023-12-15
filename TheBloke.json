@@ -71193,7 +71193,7 @@
   {
     "_id": "65770d54b2b935d83f6ea4d1",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GGUF",
-    "likes": 231,
+    "likes": 232,
     "private": false,
     "downloads": 171,
     "tags": [
@@ -71217,7 +71217,7 @@
   {
     "_id": "65771780c793e5b72b0e8d68",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GPTQ",
-    "likes": 46,
+    "likes": 47,
     "private": false,
     "downloads": 636,
     "tags": [
@@ -71295,7 +71295,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 158,
+    "likes": 159,
     "private": false,
     "downloads": 158,
     "tags": [
@@ -75103,9 +75103,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "llama",
+      "en",
+      "base_model:Sao10K/WinterGoddess-1.4x-70B-L2",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2023-12-15T03:23:16.000Z",
     "modelId": "TheBloke/WinterGoddess-1.4x-70B-L2-GGUF"
   },
