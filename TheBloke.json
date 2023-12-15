@@ -68136,7 +68136,7 @@
   {
     "_id": "656f6b91039133e8752c0d16",
     "id": "TheBloke/SUS-Chat-34B-AWQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 220,
     "tags": [
@@ -71193,7 +71193,7 @@
   {
     "_id": "65770d54b2b935d83f6ea4d1",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GGUF",
-    "likes": 233,
+    "likes": 234,
     "private": false,
     "downloads": 171,
     "tags": [
@@ -71217,7 +71217,7 @@
   {
     "_id": "65771780c793e5b72b0e8d68",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GPTQ",
-    "likes": 54,
+    "likes": 55,
     "private": false,
     "downloads": 636,
     "tags": [
@@ -71295,7 +71295,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 160,
+    "likes": 161,
     "private": false,
     "downloads": 158,
     "tags": [
@@ -73349,7 +73349,7 @@
   {
     "_id": "6579d8e4cdca8a3d5b3e7ac9",
     "id": "TheBloke/Mixtral-SlimOrca-8x7B-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 184,
     "tags": [
@@ -73885,7 +73885,7 @@
   {
     "_id": "657ada27f14f26780a66a577",
     "id": "TheBloke/dolphin-2.5-mixtral-8x7b-GGUF",
-    "likes": 36,
+    "likes": 37,
     "private": false,
     "downloads": 48,
     "tags": [
@@ -75228,5 +75228,30 @@
     "library_name": "transformers",
     "createdAt": "2023-12-15T07:43:43.000Z",
     "modelId": "TheBloke/LeoScorpius-GreenNode-7B-v1-GPTQ"
+  },
+  {
+    "_id": "657c32855c6f0b1f360877eb",
+    "id": "TheBloke/Llamix2-MLewd-4x13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-15T11:03:33.000Z",
+    "modelId": "TheBloke/Llamix2-MLewd-4x13B-GPTQ"
+  },
+  {
+    "_id": "657c3285f81f6b44b8b4ec40",
+    "id": "TheBloke/Llamix2-MLewd-4x13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2023-12-15T11:03:33.000Z",
+    "modelId": "TheBloke/Llamix2-MLewd-4x13B-GGUF"
   }
 ]
