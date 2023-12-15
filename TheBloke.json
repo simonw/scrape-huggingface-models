@@ -51404,7 +51404,7 @@
   {
     "_id": "653e610aceb0a0f6ce31ca58",
     "id": "TheBloke/Nous-Capybara-7B-v1.9-GGUF",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 27,
     "tags": [
@@ -73885,7 +73885,7 @@
   {
     "_id": "657ada27f14f26780a66a577",
     "id": "TheBloke/dolphin-2.5-mixtral-8x7b-GGUF",
-    "likes": 40,
+    "likes": 41,
     "private": false,
     "downloads": 48,
     "tags": [
@@ -74156,6 +74156,32 @@
     "library_name": "peft",
     "createdAt": "2023-12-14T16:07:42.000Z",
     "modelId": "TheBloke/Rose-Kimiko-20B-fp16"
+  },
+  {
+    "_id": "657b2e82eb3a8a470e73f85d",
+    "id": "TheBloke/phi-2-GPTQ",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "phi-msft",
+      "text-generation",
+      "nlp",
+      "code",
+      "custom_code",
+      "en",
+      "base_model:microsoft/phi-2",
+      "license:other",
+      "autotrain_compatible",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-14T16:34:10.000Z",
+    "modelId": "TheBloke/phi-2-GPTQ"
   },
   {
     "_id": "657b39641dc93d753c3f8ab2",
