@@ -73853,7 +73853,7 @@
   {
     "_id": "657ada27e4a10c4beb2a8408",
     "id": "TheBloke/dolphin-2.5-mixtral-8x7b-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 122,
     "tags": [
@@ -75326,7 +75326,7 @@
   {
     "_id": "657c36359f62ed61a2263c2a",
     "id": "TheBloke/Tiamat-7B-1.1-DPO-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -75350,8 +75350,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "base_model:mncai/mistral-7b-dpo-v5",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-15T12:14:32.000Z",
     "modelId": "TheBloke/mistral-7B-dpo-v5-GPTQ"
   },
@@ -75382,8 +75394,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "base_model:mncai/mistral-7b-dpo-v5",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-15T13:30:34.000Z",
     "modelId": "TheBloke/mistral-7B-dpo-v5-AWQ"
   }
