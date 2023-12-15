@@ -10561,7 +10561,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 680,
+    "likes": 681,
     "private": false,
     "downloads": 3934,
     "tags": [
@@ -16819,7 +16819,7 @@
   {
     "_id": "64e4b65ad710f511e635736d",
     "id": "TheBloke/Marx-3b-GGML",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 18,
     "tags": [
@@ -71193,7 +71193,7 @@
   {
     "_id": "65770d54b2b935d83f6ea4d1",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GGUF",
-    "likes": 232,
+    "likes": 233,
     "private": false,
     "downloads": 171,
     "tags": [
@@ -73885,7 +73885,7 @@
   {
     "_id": "657ada27f14f26780a66a577",
     "id": "TheBloke/dolphin-2.5-mixtral-8x7b-GGUF",
-    "likes": 33,
+    "likes": 34,
     "private": false,
     "downloads": 48,
     "tags": [
@@ -74225,7 +74225,7 @@
   {
     "_id": "657b41f610609bba2726e64f",
     "id": "TheBloke/Solar-10.7B-SLERP-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -74605,7 +74605,7 @@
   {
     "_id": "657b77e0504b90a3c58fc1e6",
     "id": "TheBloke/Mixtral-8x7B-MoE-RP-Story-GGUF",
-    "likes": 2,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -75147,9 +75147,75 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "base_model:Sao10K/WinterGoddess-1.4x-70B-L2",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-15T03:23:17.000Z",
     "modelId": "TheBloke/WinterGoddess-1.4x-70B-L2-GPTQ"
+  },
+  {
+    "_id": "657c03af1953a4194ac91b7c",
+    "id": "TheBloke/LeoScorpius-GreenNode-7B-v1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "base_model:Toten5/LeoScorpius-GreenNode-7B-v1",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-15T07:43:43.000Z",
+    "modelId": "TheBloke/LeoScorpius-GreenNode-7B-v1-GGUF"
+  },
+  {
+    "_id": "657c03af9f62ed61a21d3fee",
+    "id": "TheBloke/LeoScorpius-GreenNode-7B-v1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:Toten5/LeoScorpius-GreenNode-7B-v1",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-15T07:43:43.000Z",
+    "modelId": "TheBloke/LeoScorpius-GreenNode-7B-v1-AWQ"
+  },
+  {
+    "_id": "657c03afbf80c126a3c83d83",
+    "id": "TheBloke/LeoScorpius-GreenNode-7B-v1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-15T07:43:43.000Z",
+    "modelId": "TheBloke/LeoScorpius-GreenNode-7B-v1-GPTQ"
   }
 ]
