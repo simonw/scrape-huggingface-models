@@ -69368,7 +69368,7 @@
   {
     "_id": "657232a84e12ce880ea0ac08",
     "id": "TheBloke/stablelm-zephyr-3b-GGUF",
-    "likes": 54,
+    "likes": 55,
     "private": false,
     "downloads": 92,
     "tags": [
@@ -72274,7 +72274,7 @@
   {
     "_id": "65789898224758a1fc8875c6",
     "id": "TheBloke/Synthia-MoE-v3-Mixtral-8x7B-GGUF",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -73348,7 +73348,7 @@
   {
     "_id": "6579d8e4cdca8a3d5b3e7ac9",
     "id": "TheBloke/Mixtral-SlimOrca-8x7B-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 192,
     "tags": [
@@ -75606,8 +75606,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "en",
+      "base_model:nsfwthrowitaway69/Venus-120b-v1.1",
+      "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-16T01:15:50.000Z",
     "modelId": "TheBloke/Venus-120b-v1.1-AWQ"
   }
