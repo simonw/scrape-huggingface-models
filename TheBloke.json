@@ -10447,7 +10447,7 @@
   {
     "_id": "64b6c6798f63c1ad2b13762a",
     "id": "TheBloke/Llama-2-7B-GGML",
-    "likes": 205,
+    "likes": 206,
     "private": false,
     "downloads": 551,
     "tags": [
@@ -39327,7 +39327,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 352,
+    "likes": 353,
     "private": false,
     "downloads": 4202,
     "tags": [
@@ -53271,7 +53271,7 @@
   {
     "_id": "654418242996405c238f5eea",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
-    "likes": 129,
+    "likes": 130,
     "private": false,
     "downloads": 834,
     "tags": [
@@ -72964,7 +72964,7 @@
   {
     "_id": "6579ae29aace0258712463af",
     "id": "TheBloke/SOLAR-10.7B-Instruct-v1.0-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 71,
     "tags": [
@@ -73885,7 +73885,7 @@
   {
     "_id": "657ada27f14f26780a66a577",
     "id": "TheBloke/dolphin-2.5-mixtral-8x7b-GGUF",
-    "likes": 53,
+    "likes": 54,
     "private": false,
     "downloads": 59,
     "tags": [
@@ -74631,7 +74631,7 @@
   {
     "_id": "657b77e0504b90a3c58fc1e6",
     "id": "TheBloke/Mixtral-8x7B-MoE-RP-Story-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -75641,7 +75641,7 @@
   {
     "_id": "657d76c1112a9ca5452b218a",
     "id": "TheBloke/PiVoT-10.7B-Mistral-v0.2-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -75996,8 +75996,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:garage-bAInd/Open-Platypus",
+      "base_model:kyujinpy/SOLAR-Platypus-10.7B-v2",
+      "license:cc-by-nc-sa-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-16T13:32:18.000Z",
     "modelId": "TheBloke/SOLAR-Platypus-10.7B-v2-AWQ"
   },
@@ -76008,9 +76021,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "solar",
+      "text-generation",
+      "en",
+      "dataset:garage-bAInd/Open-Platypus",
+      "base_model:kyujinpy/SOLAR-Platypus-10.7B-v2",
+      "license:cc-by-nc-sa-4.0",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-16T13:32:18.000Z",
     "modelId": "TheBloke/SOLAR-Platypus-10.7B-v2-GGUF"
   }
