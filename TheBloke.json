@@ -23327,7 +23327,6 @@
       "dataset:databricks/databricks-dolly-15k",
       "base_model:PygmalionAI/pygmalion-2-7b",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -39328,7 +39327,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 350,
+    "likes": 351,
     "private": false,
     "downloads": 4202,
     "tags": [
@@ -71622,7 +71621,7 @@
   {
     "_id": "65782c25521aa1f8a4b118f2",
     "id": "TheBloke/neural-chat-7B-v3-3-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -73885,7 +73884,7 @@
   {
     "_id": "657ada27f14f26780a66a577",
     "id": "TheBloke/dolphin-2.5-mixtral-8x7b-GGUF",
-    "likes": 45,
+    "likes": 46,
     "private": false,
     "downloads": 59,
     "tags": [
@@ -73952,7 +73951,7 @@
   {
     "_id": "657b12b55c6f0b1f36d5f1d1",
     "id": "TheBloke/openchat-3.5-1210-GGUF",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -75327,7 +75326,7 @@
   {
     "_id": "657c54fa2c19352966498247",
     "id": "TheBloke/mistral-7B-dpo-v5-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 4,
     "tags": [
