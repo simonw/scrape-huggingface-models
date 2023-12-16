@@ -52347,7 +52347,7 @@
   {
     "_id": "654042284a4828900083688a",
     "id": "TheBloke/dolphin-2.2.1-mistral-7B-GPTQ",
-    "likes": 24,
+    "likes": 25,
     "private": false,
     "downloads": 2762,
     "tags": [
@@ -66187,7 +66187,8 @@
       "base_model:harborwater/open-llama-3b-v2-wizard-evol-instuct-v2-196k",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "library_name": "transformers",
     "createdAt": "2023-11-29T15:09:34.000Z",
@@ -71217,7 +71218,7 @@
   {
     "_id": "65771780c793e5b72b0e8d68",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GPTQ",
-    "likes": 64,
+    "likes": 65,
     "private": false,
     "downloads": 1028,
     "tags": [
@@ -71295,7 +71296,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 175,
+    "likes": 176,
     "private": false,
     "downloads": 200,
     "tags": [
@@ -73885,7 +73886,7 @@
   {
     "_id": "657ada27f14f26780a66a577",
     "id": "TheBloke/dolphin-2.5-mixtral-8x7b-GGUF",
-    "likes": 54,
+    "likes": 55,
     "private": false,
     "downloads": 59,
     "tags": [
@@ -75691,7 +75692,7 @@
   {
     "_id": "657d76c190d65df03da31577",
     "id": "TheBloke/PiVoT-10.7B-Mistral-v0.2-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -75984,8 +75985,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "dataset:garage-bAInd/Open-Platypus",
+      "base_model:kyujinpy/SOLAR-Platypus-10.7B-v2",
+      "license:cc-by-nc-sa-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-16T13:32:18.000Z",
     "modelId": "TheBloke/SOLAR-Platypus-10.7B-v2-GPTQ"
   },
@@ -76035,5 +76049,59 @@
     "library_name": "transformers",
     "createdAt": "2023-12-16T13:32:18.000Z",
     "modelId": "TheBloke/SOLAR-Platypus-10.7B-v2-GGUF"
+  },
+  {
+    "_id": "657db1041ede8a7bb7b59d1f",
+    "id": "TheBloke/mindy-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:mindy-labs/mindy-7b",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-16T14:15:32.000Z",
+    "modelId": "TheBloke/mindy-7B-AWQ"
+  },
+  {
+    "_id": "657db1043e3b5bea66074f60",
+    "id": "TheBloke/mindy-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "base_model:mindy-labs/mindy-7b",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-16T14:15:32.000Z",
+    "modelId": "TheBloke/mindy-7B-GGUF"
+  },
+  {
+    "_id": "657db104f4f72f2c4c118e73",
+    "id": "TheBloke/mindy-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-16T14:15:32.000Z",
+    "modelId": "TheBloke/mindy-7B-GPTQ"
   }
 ]
