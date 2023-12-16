@@ -39239,7 +39239,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 182,
+    "likes": 183,
     "private": false,
     "downloads": 1035,
     "tags": [
@@ -50028,7 +50028,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 172,
+    "likes": 173,
     "private": false,
     "downloads": 1548,
     "tags": [
@@ -75718,8 +75718,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "dataset:Intel/orca_dpo_pairs",
+      "base_model:mncai/agiin-13.6B-v0.1",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-16T11:08:26.000Z",
     "modelId": "TheBloke/agiin-13.6B-v0.1-AWQ"
   },
@@ -75751,9 +75764,65 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "dataset:Intel/orca_dpo_pairs",
+      "base_model:mncai/agiin-13.6B-v0.1",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-16T11:08:26.000Z",
     "modelId": "TheBloke/agiin-13.6B-v0.1-GPTQ"
+  },
+  {
+    "_id": "657d924f1e3e9c41a4851744",
+    "id": "TheBloke/Mistral-7B-AEZAKMI-v1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-16T12:04:31.000Z",
+    "modelId": "TheBloke/Mistral-7B-AEZAKMI-v1-GPTQ"
+  },
+  {
+    "_id": "657d924f416635415febf5e4",
+    "id": "TheBloke/Mistral-7B-AEZAKMI-v1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-16T12:04:31.000Z",
+    "modelId": "TheBloke/Mistral-7B-AEZAKMI-v1-AWQ"
+  },
+  {
+    "_id": "657d924f7929709128e0df79",
+    "id": "TheBloke/Mistral-7B-AEZAKMI-v1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "base_model:adamo1139/Mistral-7B-AEZAKMI-v1",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-16T12:04:31.000Z",
+    "modelId": "TheBloke/Mistral-7B-AEZAKMI-v1-GGUF"
   }
 ]
