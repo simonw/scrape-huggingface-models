@@ -71216,7 +71216,7 @@
   {
     "_id": "65771780c793e5b72b0e8d68",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GPTQ",
-    "likes": 60,
+    "likes": 63,
     "private": false,
     "downloads": 1028,
     "tags": [
@@ -71423,7 +71423,7 @@
   {
     "_id": "65778ac662d3ac1817cc9201",
     "id": "TheBloke/Mistral-7B-Instruct-v0.2-GGUF",
-    "likes": 52,
+    "likes": 53,
     "private": false,
     "downloads": 191,
     "tags": [
@@ -75644,8 +75644,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "ko",
+      "base_model:maywell/PiVoT-10.7B-Mistral-v0.2",
+      "license:cc-by-sa-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-16T10:06:57.000Z",
     "modelId": "TheBloke/PiVoT-10.7B-Mistral-v0.2-GPTQ"
   },
@@ -75696,5 +75709,41 @@
     "library_name": "transformers",
     "createdAt": "2023-12-16T10:06:57.000Z",
     "modelId": "TheBloke/PiVoT-10.7B-Mistral-v0.2-GGUF"
+  },
+  {
+    "_id": "657d852a112a9ca5452d373e",
+    "id": "TheBloke/agiin-13.6B-v0.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-16T11:08:26.000Z",
+    "modelId": "TheBloke/agiin-13.6B-v0.1-AWQ"
+  },
+  {
+    "_id": "657d852a416635415fea9fbb",
+    "id": "TheBloke/agiin-13.6B-v0.1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-16T11:08:26.000Z",
+    "modelId": "TheBloke/agiin-13.6B-v0.1-GGUF"
+  },
+  {
+    "_id": "657d852ae37618d8677b76c6",
+    "id": "TheBloke/agiin-13.6B-v0.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-16T11:08:26.000Z",
+    "modelId": "TheBloke/agiin-13.6B-v0.1-GPTQ"
   }
 ]
