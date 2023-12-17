@@ -48552,7 +48552,7 @@
   {
     "_id": "6532ff883e385cfc601254ad",
     "id": "TheBloke/CodeBooga-34B-v0.1-GGUF",
-    "likes": 28,
+    "likes": 29,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -76276,5 +76276,46 @@
     "library_name": "transformers",
     "createdAt": "2023-12-16T21:32:26.000Z",
     "modelId": "TheBloke/8x7B-MoE-test-NOT-MIXTRAL-GGUF"
+  },
+  {
+    "_id": "657e36bd365456e3621be338",
+    "id": "TheBloke/Starling-LM-alpha-8x7B-MoE-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mixtral",
+      "text-generation",
+      "reward model",
+      "RLHF",
+      "RLAIF",
+      "en",
+      "dataset:berkeley-nest/Nectar",
+      "arxiv:2306.02231",
+      "base_model:perlthoughts/Starling-LM-alpha-8x7B-MoE",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-16T23:46:05.000Z",
+    "modelId": "TheBloke/Starling-LM-alpha-8x7B-MoE-GPTQ"
+  },
+  {
+    "_id": "657e5ccc647c0211e7a0ec62",
+    "id": "TheBloke/8x7B-MoE-test-NOT-MIXTRAL-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-17T02:28:28.000Z",
+    "modelId": "TheBloke/8x7B-MoE-test-NOT-MIXTRAL-GPTQ"
   }
 ]
