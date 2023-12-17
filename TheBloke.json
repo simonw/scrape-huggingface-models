@@ -2215,7 +2215,7 @@
   {
     "_id": "6473d0686cff2f86720b62b5",
     "id": "TheBloke/Samantha-13B-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -27262,7 +27262,8 @@
       "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
