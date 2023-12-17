@@ -76362,8 +76362,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mixtral",
+      "text-generation",
+      "base_model:perlthoughts/Falkor-8x7B-MoE",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-17T05:53:19.000Z",
     "modelId": "TheBloke/Falkor-8x7B-MoE-GPTQ"
   }
