@@ -4,7 +4,7 @@
     "id": "TheBloke/koala-7B-GPTQ",
     "likes": 31,
     "private": false,
-    "downloads": 37,
+    "downloads": 28,
     "tags": [
       "transformers",
       "safetensors",
@@ -26,7 +26,7 @@
     "id": "TheBloke/koala-7B-HF",
     "likes": 18,
     "private": false,
-    "downloads": 1744,
+    "downloads": 1719,
     "tags": [
       "transformers",
       "pytorch",
@@ -54,7 +54,7 @@
     "id": "TheBloke/koala-13B-HF",
     "likes": 41,
     "private": false,
-    "downloads": 1876,
+    "downloads": 1841,
     "tags": [
       "transformers",
       "pytorch",
@@ -82,7 +82,7 @@
     "id": "TheBloke/koala-13B-GPTQ",
     "likes": 37,
     "private": false,
-    "downloads": 18,
+    "downloads": 17,
     "tags": [
       "transformers",
       "pytorch",
@@ -155,7 +155,7 @@
     "id": "TheBloke/vicuna-7B-v0-GPTQ",
     "likes": 15,
     "private": false,
-    "downloads": 24,
+    "downloads": 23,
     "tags": [
       "transformers",
       "pytorch",
@@ -178,7 +178,7 @@
     "id": "TheBloke/Vicuna-13B-1.1-GPTQ",
     "likes": 209,
     "private": false,
-    "downloads": 402,
+    "downloads": 428,
     "tags": [
       "transformers",
       "llama",
@@ -199,7 +199,7 @@
     "id": "TheBloke/vicuna-7B-1.1-GPTQ",
     "likes": 58,
     "private": false,
-    "downloads": 73,
+    "downloads": 57,
     "tags": [
       "transformers",
       "llama",
@@ -219,7 +219,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-30b-HF",
     "likes": 10,
     "private": false,
-    "downloads": 1696,
+    "downloads": 1676,
     "tags": [
       "transformers",
       "pytorch",
@@ -76984,9 +76984,65 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "custom_code",
+      "base_model:ddh0/Norocetacean-20b-10k",
+      "license:other",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-18T12:18:40.000Z",
     "modelId": "TheBloke/Norocetacean-20B-10k-GPTQ"
+  },
+  {
+    "_id": "6580635646aaa3328eeb219f",
+    "id": "TheBloke/Mistral-7B-Merge-14-v0.1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "en",
+      "base_model:EmbeddedLLM/Mistral-7B-Merge-14-v0.1",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-18T15:20:54.000Z",
+    "modelId": "TheBloke/Mistral-7B-Merge-14-v0.1-GGUF"
+  },
+  {
+    "_id": "6580635696a2cccf01900d13",
+    "id": "TheBloke/Mistral-7B-Merge-14-v0.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-18T15:20:54.000Z",
+    "modelId": "TheBloke/Mistral-7B-Merge-14-v0.1-AWQ"
+  },
+  {
+    "_id": "65806356f83ed6aa8afada3f",
+    "id": "TheBloke/Mistral-7B-Merge-14-v0.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-18T15:20:54.000Z",
+    "modelId": "TheBloke/Mistral-7B-Merge-14-v0.1-GPTQ"
   }
 ]
