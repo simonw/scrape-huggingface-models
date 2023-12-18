@@ -10607,7 +10607,8 @@
       "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -66780,7 +66781,8 @@
       "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -66942,7 +66944,8 @@
       "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -71297,7 +71300,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 201,
+    "likes": 202,
     "private": false,
     "downloads": 230,
     "tags": [
