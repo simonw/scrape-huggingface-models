@@ -69371,7 +69371,7 @@
   {
     "_id": "657232a84e12ce880ea0ac08",
     "id": "TheBloke/stablelm-zephyr-3b-GGUF",
-    "likes": 56,
+    "likes": 57,
     "private": false,
     "downloads": 93,
     "tags": [
@@ -71321,7 +71321,7 @@
   {
     "_id": "657759d1da3f14fa5ddeba81",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GPTQ",
-    "likes": 35,
+    "likes": 36,
     "private": false,
     "downloads": 3798,
     "tags": [
@@ -76861,5 +76861,61 @@
     "library_name": "transformers",
     "createdAt": "2023-12-17T22:48:12.000Z",
     "modelId": "TheBloke/Saily_220B-AWQ"
+  },
+  {
+    "_id": "65803178461391c5b7ee8f97",
+    "id": "TheBloke/Pirouette-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "text-generation",
+      "base_model:ddh0/Pirouette-7b",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-18T11:48:08.000Z",
+    "modelId": "TheBloke/Pirouette-7B-GGUF"
+  },
+  {
+    "_id": "65803178807315da107344a7",
+    "id": "TheBloke/Pirouette-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:ddh0/Pirouette-7b",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-18T11:48:08.000Z",
+    "modelId": "TheBloke/Pirouette-7B-AWQ"
+  },
+  {
+    "_id": "65803178f836a10ec073283e",
+    "id": "TheBloke/Pirouette-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-18T11:48:08.000Z",
+    "modelId": "TheBloke/Pirouette-7B-GPTQ"
   }
 ]
