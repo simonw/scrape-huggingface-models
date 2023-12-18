@@ -27273,7 +27273,7 @@
   {
     "_id": "6508df7ac19e5b4c8a2d8552",
     "id": "TheBloke/Llama-2-7B-AWQ",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 1094,
     "tags": [
@@ -69398,7 +69398,7 @@
   {
     "_id": "657232a8d1aa9f8b6d77a104",
     "id": "TheBloke/stablelm-zephyr-3b-GPTQ",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 350,
     "tags": [
@@ -74171,7 +74171,7 @@
   {
     "_id": "657b2e82eb3a8a470e73f85d",
     "id": "TheBloke/phi-2-GPTQ",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 211,
     "tags": [
@@ -76913,9 +76913,65 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:ddh0/Pirouette-7b",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-18T11:48:08.000Z",
     "modelId": "TheBloke/Pirouette-7B-GPTQ"
+  },
+  {
+    "_id": "658038a02a7387d962363fc9",
+    "id": "TheBloke/Norocetacean-20B-10k-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "llama",
+      "text-generation",
+      "base_model:ddh0/Norocetacean-20b-10k",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-18T12:18:40.000Z",
+    "modelId": "TheBloke/Norocetacean-20B-10k-GGUF"
+  },
+  {
+    "_id": "658038a04ae40c74682f8618",
+    "id": "TheBloke/Norocetacean-20B-10k-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-18T12:18:40.000Z",
+    "modelId": "TheBloke/Norocetacean-20B-10k-AWQ"
+  },
+  {
+    "_id": "658038a082b3631e8b4632ab",
+    "id": "TheBloke/Norocetacean-20B-10k-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-18T12:18:40.000Z",
+    "modelId": "TheBloke/Norocetacean-20B-10k-GPTQ"
   }
 ]
