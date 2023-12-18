@@ -295,7 +295,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-13B-HF",
     "likes": 4,
     "private": false,
-    "downloads": 1722,
+    "downloads": 1690,
     "tags": [
       "transformers",
       "pytorch",
@@ -351,7 +351,7 @@
     "id": "TheBloke/alpaca-lora-65B-HF",
     "likes": 3,
     "private": false,
-    "downloads": 1686,
+    "downloads": 1653,
     "tags": [
       "transformers",
       "pytorch",
@@ -409,7 +409,7 @@
     "id": "TheBloke/medalpaca-13B-GPTQ",
     "likes": 28,
     "private": false,
-    "downloads": 1951,
+    "downloads": 1954,
     "tags": [
       "transformers",
       "pytorch",
@@ -436,7 +436,7 @@
     "id": "TheBloke/wizardLM-7B-HF",
     "likes": 91,
     "private": false,
-    "downloads": 3415,
+    "downloads": 3375,
     "tags": [
       "transformers",
       "pytorch",
@@ -472,7 +472,7 @@
     "id": "TheBloke/wizardLM-7B-GPTQ",
     "likes": 104,
     "private": false,
-    "downloads": 499,
+    "downloads": 508,
     "tags": [
       "transformers",
       "safetensors",
@@ -495,7 +495,7 @@
     "id": "TheBloke/stable-vicuna-13B-HF",
     "likes": 96,
     "private": false,
-    "downloads": 2503,
+    "downloads": 2422,
     "tags": [
       "transformers",
       "pytorch",
@@ -539,7 +539,7 @@
     "id": "TheBloke/stable-vicuna-13B-GPTQ",
     "likes": 219,
     "private": false,
-    "downloads": 108,
+    "downloads": 103,
     "tags": [
       "transformers",
       "safetensors",
@@ -568,7 +568,7 @@
     "id": "TheBloke/OpenAssistant-SFT-7-Llama-30B-HF",
     "likes": 14,
     "private": false,
-    "downloads": 1733,
+    "downloads": 1703,
     "tags": [
       "transformers",
       "pytorch",
@@ -606,7 +606,7 @@
     "id": "TheBloke/OpenAssistant-SFT-7-Llama-30B-GPTQ",
     "likes": 36,
     "private": false,
-    "downloads": 5,
+    "downloads": 4,
     "tags": [
       "transformers",
       "safetensors",
@@ -21404,7 +21404,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7B-Chat-GGUF",
-    "likes": 189,
+    "likes": 190,
     "private": false,
     "downloads": 3145,
     "tags": [
@@ -73899,7 +73899,7 @@
   {
     "_id": "657ada27f14f26780a66a577",
     "id": "TheBloke/dolphin-2.5-mixtral-8x7b-GGUF",
-    "likes": 75,
+    "likes": 76,
     "private": false,
     "downloads": 82,
     "tags": [
@@ -77028,8 +77028,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "base_model:EmbeddedLLM/Mistral-7B-Merge-14-v0.1",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-18T15:20:54.000Z",
     "modelId": "TheBloke/Mistral-7B-Merge-14-v0.1-AWQ"
   },
@@ -77040,9 +77052,79 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "base_model:EmbeddedLLM/Mistral-7B-Merge-14-v0.1",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-18T15:20:54.000Z",
     "modelId": "TheBloke/Mistral-7B-Merge-14-v0.1-GPTQ"
+  },
+  {
+    "_id": "65806a25133ca7da45bbc787",
+    "id": "TheBloke/quantum-dpo-v0.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "base_model:quantumaikr/quantum-dpo-v0.1",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-18T15:49:57.000Z",
+    "modelId": "TheBloke/quantum-dpo-v0.1-AWQ"
+  },
+  {
+    "_id": "65806a25365f7676d250e128",
+    "id": "TheBloke/quantum-dpo-v0.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-18T15:49:57.000Z",
+    "modelId": "TheBloke/quantum-dpo-v0.1-GPTQ"
+  },
+  {
+    "_id": "65806a25f6b81759010ffa48",
+    "id": "TheBloke/quantum-dpo-v0.1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "text-generation",
+      "en",
+      "base_model:quantumaikr/quantum-dpo-v0.1",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-18T15:49:57.000Z",
+    "modelId": "TheBloke/quantum-dpo-v0.1-GGUF"
   }
 ]
