@@ -819,7 +819,7 @@
     "id": "TheBloke/dromedary-65b-lora-HF",
     "likes": 20,
     "private": false,
-    "downloads": 1641,
+    "downloads": 1618,
     "tags": [
       "transformers",
       "pytorch",
@@ -904,7 +904,7 @@
     "id": "TheBloke/h2ogpt-oasst1-512-30B-HF",
     "likes": 2,
     "private": false,
-    "downloads": 1679,
+    "downloads": 1643,
     "tags": [
       "transformers",
       "pytorch",
@@ -945,7 +945,7 @@
     "id": "TheBloke/gpt4-alpaca-lora_mlp-65B-HF",
     "likes": 7,
     "private": false,
-    "downloads": 1676,
+    "downloads": 1649,
     "tags": [
       "transformers",
       "pytorch",
@@ -1010,7 +1010,7 @@
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
     "likes": 269,
     "private": false,
-    "downloads": 52567,
+    "downloads": 54659,
     "tags": [
       "transformers",
       "safetensors",
@@ -1037,7 +1037,7 @@
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-HF",
     "likes": 202,
     "private": false,
-    "downloads": 3035,
+    "downloads": 3001,
     "tags": [
       "transformers",
       "pytorch",
@@ -1086,7 +1086,7 @@
     "id": "TheBloke/wizard-mega-13B-GPTQ",
     "likes": 102,
     "private": false,
-    "downloads": 1723,
+    "downloads": 1689,
     "tags": [
       "transformers",
       "safetensors",
@@ -1165,7 +1165,7 @@
     "id": "TheBloke/VicUnlocked-30B-LoRA-HF",
     "likes": 1,
     "private": false,
-    "downloads": 1668,
+    "downloads": 1635,
     "tags": [
       "transformers",
       "pytorch",
@@ -1189,7 +1189,7 @@
     "id": "TheBloke/LLaMa-7B-GGML",
     "likes": 57,
     "private": false,
-    "downloads": 53,
+    "downloads": 48,
     "tags": [
       "transformers",
       "llama",
@@ -1241,7 +1241,7 @@
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ",
     "likes": 121,
     "private": false,
-    "downloads": 140278,
+    "downloads": 149463,
     "tags": [
       "transformers",
       "safetensors",
@@ -1282,7 +1282,7 @@
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-HF",
     "likes": 19,
     "private": false,
-    "downloads": 4453,
+    "downloads": 4433,
     "tags": [
       "transformers",
       "pytorch",
@@ -1340,7 +1340,7 @@
     "id": "TheBloke/MPT-7B-Instruct-GGML",
     "likes": 28,
     "private": false,
-    "downloads": 3,
+    "downloads": 2,
     "tags": [
       "transformers",
       "mpt",
@@ -10588,7 +10588,7 @@
   {
     "_id": "64b6ce072edcb4a1aa820cbe",
     "id": "TheBloke/Llama-2-7B-Chat-GPTQ",
-    "likes": 197,
+    "likes": 198,
     "private": false,
     "downloads": 418055,
     "tags": [
@@ -76431,7 +76431,7 @@
   {
     "_id": "657f0b07ce825cd974c96d00",
     "id": "TheBloke/go-bruins-v2.1.1-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -77009,7 +77009,7 @@
   {
     "_id": "6580635646aaa3328eeb219f",
     "id": "TheBloke/Mistral-7B-Merge-14-v0.1-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -77487,8 +77487,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:w4r10ck/SOLAR-10.7B-Instruct-v1.0-uncensored",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-19T16:20:38.000Z",
     "modelId": "TheBloke/SOLAR-10.7B-Instruct-v1.0-uncensored-AWQ"
   },
@@ -77517,9 +77528,57 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:w4r10ck/SOLAR-10.7B-Instruct-v1.0-uncensored",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-19T16:20:38.000Z",
     "modelId": "TheBloke/SOLAR-10.7B-Instruct-v1.0-uncensored-GPTQ"
+  },
+  {
+    "_id": "6581cd6605a2269c46503a68",
+    "id": "TheBloke/Metis-0.4-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2023-12-19T17:05:42.000Z",
+    "modelId": "TheBloke/Metis-0.4-GGUF"
+  },
+  {
+    "_id": "6581cd6698a76606ac14cce3",
+    "id": "TheBloke/Metis-0.4-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-19T17:05:42.000Z",
+    "modelId": "TheBloke/Metis-0.4-AWQ"
+  },
+  {
+    "_id": "6581cd66d89a3fdc1d50a07c",
+    "id": "TheBloke/Metis-0.4-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-19T17:05:42.000Z",
+    "modelId": "TheBloke/Metis-0.4-GPTQ"
   }
 ]
