@@ -21378,7 +21378,7 @@
     "id": "TheBloke/Llama-2-7B-GGUF",
     "likes": 89,
     "private": false,
-    "downloads": 849,
+    "downloads": 868,
     "tags": [
       "transformers",
       "gguf",
@@ -21406,7 +21406,7 @@
     "id": "TheBloke/Llama-2-7B-Chat-GGUF",
     "likes": 194,
     "private": false,
-    "downloads": 3045,
+    "downloads": 3024,
     "tags": [
       "transformers",
       "gguf",
@@ -21434,7 +21434,7 @@
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
     "likes": 115,
     "private": false,
-    "downloads": 997,
+    "downloads": 1014,
     "tags": [
       "transformers",
       "gguf",
@@ -21462,7 +21462,7 @@
     "id": "TheBloke/Llama-2-13B-GGUF",
     "likes": 39,
     "private": false,
-    "downloads": 794,
+    "downloads": 808,
     "tags": [
       "transformers",
       "gguf",
@@ -21489,7 +21489,7 @@
     "id": "TheBloke/Llama-2-70B-Chat-GGUF",
     "likes": 78,
     "private": false,
-    "downloads": 409,
+    "downloads": 418,
     "tags": [
       "transformers",
       "gguf",
@@ -21517,7 +21517,7 @@
     "id": "TheBloke/Llama-2-70B-GGUF",
     "likes": 13,
     "private": false,
-    "downloads": 62,
+    "downloads": 67,
     "tags": [
       "transformers",
       "gguf",
@@ -34236,7 +34236,7 @@
   {
     "_id": "650a2b912e4bbde4181f360d",
     "id": "TheBloke/WizardLM-30B-Uncensored-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -71298,7 +71298,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 227,
+    "likes": 228,
     "private": false,
     "downloads": 272,
     "tags": [
@@ -78338,7 +78338,7 @@
   {
     "_id": "6582b01c168803bdee1a0e40",
     "id": "TheBloke/openbuddy-mixtral-8x7b-v15.2-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -78396,9 +78396,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "llama",
+      "text-generation",
+      "en",
+      "base_model:Kooten/DaringMaid-20B",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-20T21:04:04.000Z",
     "modelId": "TheBloke/DaringMaid-20B-GGUF"
   },
