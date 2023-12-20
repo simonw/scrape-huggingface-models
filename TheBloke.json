@@ -17506,7 +17506,7 @@
   {
     "_id": "64e78cdac3b2443fb30b9dda",
     "id": "TheBloke/CodeLlama-7B-Instruct-GGUF",
-    "likes": 79,
+    "likes": 80,
     "private": false,
     "downloads": 239,
     "tags": [
@@ -17555,7 +17555,7 @@
   {
     "_id": "64e78d117acd8971f2c6bbe6",
     "id": "TheBloke/CodeLlama-7B-GGUF",
-    "likes": 67,
+    "likes": 68,
     "private": false,
     "downloads": 188,
     "tags": [
@@ -17604,7 +17604,7 @@
   {
     "_id": "64e7bc1129a548f66a1ddb15",
     "id": "TheBloke/CodeLlama-13B-Instruct-GGUF",
-    "likes": 77,
+    "likes": 78,
     "private": false,
     "downloads": 175,
     "tags": [
@@ -21376,7 +21376,7 @@
   {
     "_id": "64f5fd954d3b1dd311d30e28",
     "id": "TheBloke/Llama-2-7B-GGUF",
-    "likes": 88,
+    "likes": 89,
     "private": false,
     "downloads": 849,
     "tags": [
@@ -21404,7 +21404,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7B-Chat-GGUF",
-    "likes": 192,
+    "likes": 193,
     "private": false,
     "downloads": 3045,
     "tags": [
@@ -39241,7 +39241,7 @@
   {
     "_id": "65145594e31c0e2e3dfabe9a",
     "id": "TheBloke/Mistral-7B-v0.1-GGUF",
-    "likes": 186,
+    "likes": 187,
     "private": false,
     "downloads": 1047,
     "tags": [
@@ -39329,7 +39329,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 363,
+    "likes": 364,
     "private": false,
     "downloads": 3875,
     "tags": [
@@ -71197,7 +71197,7 @@
   {
     "_id": "65770d54b2b935d83f6ea4d1",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GGUF",
-    "likes": 278,
+    "likes": 279,
     "private": false,
     "downloads": 345,
     "tags": [
@@ -71299,7 +71299,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 223,
+    "likes": 224,
     "private": false,
     "downloads": 272,
     "tags": [
@@ -71428,7 +71428,7 @@
   {
     "_id": "65778ac662d3ac1817cc9201",
     "id": "TheBloke/Mistral-7B-Instruct-v0.2-GGUF",
-    "likes": 67,
+    "likes": 68,
     "private": false,
     "downloads": 294,
     "tags": [
@@ -74859,7 +74859,7 @@
   {
     "_id": "657ba7ea6b314373ed5cb4cd",
     "id": "TheBloke/Pandora-v1-13B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 11,
     "tags": [
@@ -78361,8 +78361,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mixtral",
+      "text-generation",
+      "base_model:OpenBuddy/openbuddy-mixtral-8x7b-v15.2",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-20T09:13:00.000Z",
     "modelId": "TheBloke/openbuddy-mixtral-8x7b-v15.2-GPTQ"
   }
