@@ -66409,7 +66409,7 @@
   {
     "_id": "6567bb76253c8b0b67a37989",
     "id": "TheBloke/NeuralHermes-2.5-Mistral-7B-GGUF",
-    "likes": 33,
+    "likes": 34,
     "private": false,
     "downloads": 83,
     "tags": [
@@ -69855,7 +69855,7 @@
   {
     "_id": "65744354177b3b466325ae6e",
     "id": "TheBloke/OrcaMaid-13B-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -78384,8 +78384,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "base_model:Kooten/DaringMaid-20B",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-20T21:04:04.000Z",
     "modelId": "TheBloke/DaringMaid-20B-GPTQ"
   },
@@ -78434,5 +78446,59 @@
     "library_name": "transformers",
     "createdAt": "2023-12-20T21:04:04.000Z",
     "modelId": "TheBloke/DaringMaid-20B-AWQ"
+  },
+  {
+    "_id": "658367401e065c276dbee1da",
+    "id": "TheBloke/dragon-mistral-7B-v0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "base_model:llmware/dragon-mistral-7b-v0",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-20T22:14:24.000Z",
+    "modelId": "TheBloke/dragon-mistral-7B-v0-GGUF"
+  },
+  {
+    "_id": "658367403925d68d7c46c6a9",
+    "id": "TheBloke/dragon-mistral-7B-v0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:llmware/dragon-mistral-7b-v0",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-20T22:14:24.000Z",
+    "modelId": "TheBloke/dragon-mistral-7B-v0-AWQ"
+  },
+  {
+    "_id": "658367408a9e7f8694aa0c3f",
+    "id": "TheBloke/dragon-mistral-7B-v0-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-20T22:14:24.000Z",
+    "modelId": "TheBloke/dragon-mistral-7B-v0-GPTQ"
   }
 ]
