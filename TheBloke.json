@@ -39329,7 +39329,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 361,
+    "likes": 362,
     "private": false,
     "downloads": 3875,
     "tags": [
@@ -61967,7 +61967,7 @@
   {
     "_id": "655e4c7ea3e811457667b53f",
     "id": "TheBloke/rocket-3B-GGUF",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 112,
     "tags": [
@@ -71299,7 +71299,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 220,
+    "likes": 223,
     "private": false,
     "downloads": 272,
     "tags": [
@@ -72935,7 +72935,7 @@
   {
     "_id": "6579ae291b1c5bff9be6e86c",
     "id": "TheBloke/SOLAR-10.7B-Instruct-v1.0-GGUF",
-    "likes": 41,
+    "likes": 42,
     "private": false,
     "downloads": 54,
     "tags": [
@@ -73898,7 +73898,7 @@
   {
     "_id": "657ada27f14f26780a66a577",
     "id": "TheBloke/dolphin-2.5-mixtral-8x7b-GGUF",
-    "likes": 111,
+    "likes": 112,
     "private": false,
     "downloads": 126,
     "tags": [
@@ -77987,7 +77987,7 @@
   {
     "_id": "6582168705c177eea39fdfa0",
     "id": "TheBloke/Swallow-13B-Instruct-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -78202,5 +78202,42 @@
     "library_name": "transformers",
     "createdAt": "2023-12-19T23:29:43.000Z",
     "modelId": "TheBloke/Swallow-7B-Instruct-GGUF"
+  },
+  {
+    "_id": "6582a0964867f8699d42311e",
+    "id": "TheBloke/Noromaid-13B-v0.2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2023-12-20T08:06:46.000Z",
+    "modelId": "TheBloke/Noromaid-13B-v0.2-GGUF"
+  },
+  {
+    "_id": "6582a096594cf42f8fac0386",
+    "id": "TheBloke/Noromaid-13B-v0.2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-20T08:06:46.000Z",
+    "modelId": "TheBloke/Noromaid-13B-v0.2-GPTQ"
+  },
+  {
+    "_id": "6582a0965f6d8343826938a7",
+    "id": "TheBloke/Noromaid-13B-v0.2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-20T08:06:46.000Z",
+    "modelId": "TheBloke/Noromaid-13B-v0.2-AWQ"
   }
 ]
