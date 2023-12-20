@@ -39329,7 +39329,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 362,
+    "likes": 363,
     "private": false,
     "downloads": 3875,
     "tags": [
@@ -61306,7 +61306,7 @@
   {
     "_id": "655bd3687558de1972631dad",
     "id": "TheBloke/Yarn-Llama-2-70B-32k-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 407,
     "tags": [
@@ -73898,7 +73898,7 @@
   {
     "_id": "657ada27f14f26780a66a577",
     "id": "TheBloke/dolphin-2.5-mixtral-8x7b-GGUF",
-    "likes": 112,
+    "likes": 114,
     "private": false,
     "downloads": 126,
     "tags": [
@@ -78210,9 +78210,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "llama",
+      "base_model:NeverSleep/Noromaid-13b-v0.2",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2023-12-20T08:06:46.000Z",
     "modelId": "TheBloke/Noromaid-13B-v0.2-GGUF"
   },
@@ -78239,5 +78245,60 @@
     ],
     "createdAt": "2023-12-20T08:06:46.000Z",
     "modelId": "TheBloke/Noromaid-13B-v0.2-AWQ"
+  },
+  {
+    "_id": "6582a2211b811f69fbe8d972",
+    "id": "TheBloke/Frostwind-10.7B-v1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "solar",
+      "en",
+      "base_model:Sao10K/Frostwind-10.7B-v1",
+      "license:cc-by-nc-4.0",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-20T08:13:21.000Z",
+    "modelId": "TheBloke/Frostwind-10.7B-v1-GGUF"
+  },
+  {
+    "_id": "6582a221f3006507ea0ac399",
+    "id": "TheBloke/Frostwind-10.7B-v1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-20T08:13:21.000Z",
+    "modelId": "TheBloke/Frostwind-10.7B-v1-GPTQ"
+  },
+  {
+    "_id": "6582a221f563e9e971dfb9e0",
+    "id": "TheBloke/Frostwind-10.7B-v1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "base_model:Sao10K/Frostwind-10.7B-v1",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-20T08:13:21.000Z",
+    "modelId": "TheBloke/Frostwind-10.7B-v1-AWQ"
   }
 ]
