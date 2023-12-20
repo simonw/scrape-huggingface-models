@@ -45167,8 +45167,7 @@
       "base_model:haoranxu/ALMA-7B",
       "license:mit",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "library_name": "transformers",
     "createdAt": "2023-10-14T18:18:16.000Z",
@@ -68588,7 +68587,7 @@
   {
     "_id": "6570b429c4093bd525b847e7",
     "id": "TheBloke/Magicoder-S-DS-6.7B-AWQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 197,
     "tags": [
@@ -71300,7 +71299,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 218,
+    "likes": 219,
     "private": false,
     "downloads": 272,
     "tags": [
@@ -77769,7 +77768,7 @@
   {
     "_id": "6581e2cf770395b588e932f4",
     "id": "TheBloke/Swallow-70B-instruct-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
