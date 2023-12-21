@@ -10504,7 +10504,7 @@
   {
     "_id": "64b6c9343d3bb8b1b5eb6aa0",
     "id": "TheBloke/Llama-2-13B-GPTQ",
-    "likes": 108,
+    "likes": 109,
     "private": false,
     "downloads": 3920,
     "tags": [
@@ -71313,7 +71313,8 @@
       "base_model:mistralai/Mixtral-8x7B-Instruct-v0.1",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "library_name": "transformers",
     "createdAt": "2023-12-11T18:08:33.000Z",
@@ -78405,7 +78406,7 @@
   {
     "_id": "658356c4aa85c512dab540a7",
     "id": "TheBloke/DaringMaid-20B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -78551,8 +78552,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "custom_code",
+      "base_model:whiterabbitneo/WhiteRabbitNeo-13B",
+      "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-21T11:45:35.000Z",
     "modelId": "TheBloke/WhiteRabbitNeo-13B-AWQ"
   },
