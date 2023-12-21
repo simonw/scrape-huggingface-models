@@ -78512,5 +78512,88 @@
     "library_name": "transformers",
     "createdAt": "2023-12-20T22:14:24.000Z",
     "modelId": "TheBloke/dragon-mistral-7B-v0-GPTQ"
+  },
+  {
+    "_id": "6584255e40e42901d6623d28",
+    "id": "TheBloke/WhiteRabbitNeo-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "llama",
+      "base_model:whiterabbitneo/WhiteRabbitNeo-13B",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-21T11:45:34.000Z",
+    "modelId": "TheBloke/WhiteRabbitNeo-13B-GGUF"
+  },
+  {
+    "_id": "6584255f2ae9280873aba3a3",
+    "id": "TheBloke/WhiteRabbitNeo-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-21T11:45:35.000Z",
+    "modelId": "TheBloke/WhiteRabbitNeo-13B-GPTQ"
+  },
+  {
+    "_id": "6584255f4f6ed39dee0712a3",
+    "id": "TheBloke/WhiteRabbitNeo-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-21T11:45:35.000Z",
+    "modelId": "TheBloke/WhiteRabbitNeo-13B-AWQ"
+  },
+  {
+    "_id": "658425fdd7327de57acab930",
+    "id": "TheBloke/OrcaMaidXL-17B-32k-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "llama",
+      "text-generation",
+      "base_model:ddh0/OrcaMaidXL-17B-32k",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-21T11:48:13.000Z",
+    "modelId": "TheBloke/OrcaMaidXL-17B-32k-GGUF"
+  },
+  {
+    "_id": "658428c1c5599ad89a33f21f",
+    "id": "TheBloke/FlatOrcamaid-13B-v0.2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "llama",
+      "base_model:NeverSleep/FlatOrcamaid-13b-v0.2",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-21T12:00:01.000Z",
+    "modelId": "TheBloke/FlatOrcamaid-13B-v0.2-GGUF"
   }
 ]
