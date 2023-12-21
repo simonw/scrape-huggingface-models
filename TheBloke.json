@@ -68748,7 +68748,7 @@
   {
     "_id": "6570c1fbd877298e1d3a3c54",
     "id": "TheBloke/MetaMath-Cybertron-Starling-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -71072,7 +71072,7 @@
   {
     "_id": "6576f60eca95cd024ba1d351",
     "id": "TheBloke/OpenHermes-2.5-neural-chat-v3-3-Slerp-GGUF",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -72935,7 +72935,7 @@
   {
     "_id": "6579ae291b1c5bff9be6e86c",
     "id": "TheBloke/SOLAR-10.7B-Instruct-v1.0-GGUF",
-    "likes": 45,
+    "likes": 46,
     "private": false,
     "downloads": 54,
     "tags": [
@@ -77507,7 +77507,7 @@
   {
     "_id": "6581c2d6e932c3b73ddae568",
     "id": "TheBloke/SOLAR-10.7B-Instruct-v1.0-uncensored-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -78628,8 +78628,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "custom_code",
+      "autotrain_compatible",
+      "endpoints_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-21T12:54:50.000Z",
     "modelId": "TheBloke/OrcaMaidXL-17B-32k-GPTQ"
   },
@@ -78640,9 +78651,42 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "custom_code",
+      "base_model:ddh0/OrcaMaidXL-17B-32k",
+      "license:other",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-21T12:54:50.000Z",
     "modelId": "TheBloke/OrcaMaidXL-17B-32k-AWQ"
+  },
+  {
+    "_id": "6584474283a9e1460c80499c",
+    "id": "TheBloke/OrcaMaid-v2-FIX-13B-32k-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "llama",
+      "text-generation",
+      "base_model:ddh0/OrcaMaid-v2-FIX-13b-32k",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-21T14:10:10.000Z",
+    "modelId": "TheBloke/OrcaMaid-v2-FIX-13B-32k-GGUF"
   }
 ]
