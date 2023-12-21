@@ -53271,7 +53271,7 @@
   {
     "_id": "654418242996405c238f5eea",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
-    "likes": 135,
+    "likes": 136,
     "private": false,
     "downloads": 842,
     "tags": [
@@ -58898,7 +58898,7 @@
   {
     "_id": "65568d1035f26c82c09eef16",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-16k-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 552,
     "tags": [
@@ -77525,7 +77525,7 @@
   {
     "_id": "6581c2d6e9439662c2677230",
     "id": "TheBloke/SOLAR-10.7B-Instruct-v1.0-uncensored-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -78633,8 +78633,9 @@
       "llama",
       "text-generation",
       "custom_code",
+      "base_model:ddh0/OrcaMaidXL-17B-32k",
+      "license:other",
       "autotrain_compatible",
-      "endpoints_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -78688,5 +78689,40 @@
     "library_name": "transformers",
     "createdAt": "2023-12-21T14:10:10.000Z",
     "modelId": "TheBloke/OrcaMaid-v2-FIX-13B-32k-GGUF"
+  },
+  {
+    "_id": "65844da33925d68d7c6cbab9",
+    "id": "TheBloke/FlatOrcamaid-13B-v0.2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-21T14:37:23.000Z",
+    "modelId": "TheBloke/FlatOrcamaid-13B-v0.2-GPTQ"
+  },
+  {
+    "_id": "65844da3d9ea8286deeff196",
+    "id": "TheBloke/FlatOrcamaid-13B-v0.2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:NeverSleep/FlatOrcamaid-13b-v0.2",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-21T14:37:23.000Z",
+    "modelId": "TheBloke/FlatOrcamaid-13B-v0.2-AWQ"
   }
 ]
