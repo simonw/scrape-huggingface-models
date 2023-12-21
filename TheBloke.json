@@ -4,7 +4,7 @@
     "id": "TheBloke/koala-7B-GPTQ",
     "likes": 31,
     "private": false,
-    "downloads": 26,
+    "downloads": 23,
     "tags": [
       "transformers",
       "safetensors",
@@ -26,7 +26,7 @@
     "id": "TheBloke/koala-7B-HF",
     "likes": 18,
     "private": false,
-    "downloads": 1686,
+    "downloads": 1683,
     "tags": [
       "transformers",
       "pytorch",
@@ -54,7 +54,7 @@
     "id": "TheBloke/koala-13B-HF",
     "likes": 41,
     "private": false,
-    "downloads": 1810,
+    "downloads": 1797,
     "tags": [
       "transformers",
       "pytorch",
@@ -82,7 +82,7 @@
     "id": "TheBloke/koala-13B-GPTQ",
     "likes": 37,
     "private": false,
-    "downloads": 25,
+    "downloads": 24,
     "tags": [
       "transformers",
       "pytorch",
@@ -131,7 +131,7 @@
     "id": "TheBloke/galpaca-30B-GPTQ",
     "likes": 49,
     "private": false,
-    "downloads": 6,
+    "downloads": 7,
     "tags": [
       "transformers",
       "opt",
@@ -155,7 +155,7 @@
     "id": "TheBloke/vicuna-7B-v0-GPTQ",
     "likes": 15,
     "private": false,
-    "downloads": 23,
+    "downloads": 22,
     "tags": [
       "transformers",
       "pytorch",
@@ -178,7 +178,7 @@
     "id": "TheBloke/Vicuna-13B-1.1-GPTQ",
     "likes": 209,
     "private": false,
-    "downloads": 409,
+    "downloads": 384,
     "tags": [
       "transformers",
       "llama",
@@ -199,7 +199,7 @@
     "id": "TheBloke/vicuna-7B-1.1-GPTQ",
     "likes": 58,
     "private": false,
-    "downloads": 69,
+    "downloads": 63,
     "tags": [
       "transformers",
       "llama",
@@ -13610,7 +13610,7 @@
   {
     "_id": "64cbe70fec160b67ca8dcb6d",
     "id": "TheBloke/llama2_70b_chat_uncensored-GGML",
-    "likes": 60,
+    "likes": 61,
     "private": false,
     "downloads": 25,
     "tags": [
@@ -56579,7 +56579,7 @@
   {
     "_id": "654ec9fbaae66b1676cd6256",
     "id": "TheBloke/openchat_3.5-16k-GGUF",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 79,
     "tags": [
@@ -57311,7 +57311,7 @@
   {
     "_id": "6552b0e5e6314399631da61c",
     "id": "TheBloke/Synatra-7B-v0.3-RP-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 49,
     "tags": [
@@ -73966,7 +73966,7 @@
   {
     "_id": "657b12b55c6f0b1f36d5f1d1",
     "id": "TheBloke/openchat-3.5-1210-GGUF",
-    "likes": 28,
+    "likes": 29,
     "private": false,
     "downloads": 17,
     "tags": [
@@ -74646,7 +74646,7 @@
   {
     "_id": "657b77e0504b90a3c58fc1e6",
     "id": "TheBloke/Mixtral-8x7B-MoE-RP-Story-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 17,
     "tags": [
@@ -78693,12 +78693,23 @@
   {
     "_id": "65844da33925d68d7c6cbab9",
     "id": "TheBloke/FlatOrcamaid-13B-v0.2-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:NeverSleep/FlatOrcamaid-13b-v0.2",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-21T14:37:23.000Z",
     "modelId": "TheBloke/FlatOrcamaid-13B-v0.2-GPTQ"
   },
@@ -78724,5 +78735,51 @@
     "library_name": "transformers",
     "createdAt": "2023-12-21T14:37:23.000Z",
     "modelId": "TheBloke/FlatOrcamaid-13B-v0.2-AWQ"
+  },
+  {
+    "_id": "6584585cc327dc81ff2c44e3",
+    "id": "TheBloke/Llama-2-7B-ft-instruct-es-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "llama",
+      "text-generation",
+      "es",
+      "base_model:clibrain/Llama-2-7b-ft-instruct-es",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-21T15:23:08.000Z",
+    "modelId": "TheBloke/Llama-2-7B-ft-instruct-es-GGUF"
+  },
+  {
+    "_id": "6584585d1fb17c3a9ac91459",
+    "id": "TheBloke/Llama-2-7B-ft-instruct-es-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-21T15:23:09.000Z",
+    "modelId": "TheBloke/Llama-2-7B-ft-instruct-es-GPTQ"
+  },
+  {
+    "_id": "6584585dbef870ffa4ad679c",
+    "id": "TheBloke/Llama-2-7B-ft-instruct-es-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-21T15:23:09.000Z",
+    "modelId": "TheBloke/Llama-2-7B-ft-instruct-es-AWQ"
   }
 ]
