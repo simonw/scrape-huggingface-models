@@ -40215,7 +40215,7 @@
   {
     "_id": "6515ffbc3e5a12e0ceaefd75",
     "id": "TheBloke/Mistral-7B-v0.1-GPTQ",
-    "likes": 28,
+    "likes": 29,
     "private": false,
     "downloads": 2183,
     "tags": [
@@ -43009,7 +43009,7 @@
   {
     "_id": "65218f23d65824bda78eab7f",
     "id": "TheBloke/Mistral-Trismegistus-7B-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -53711,7 +53711,7 @@
   {
     "_id": "6546bfe04d1931dc93eacb63",
     "id": "TheBloke/deepseek-coder-33B-instruct-GGUF",
-    "likes": 97,
+    "likes": 98,
     "private": false,
     "downloads": 75,
     "tags": [
@@ -61651,7 +61651,7 @@
   {
     "_id": "655cf5e575956386713ad5a1",
     "id": "TheBloke/gorilla-openfunctions-v1-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 82,
     "tags": [
@@ -71196,7 +71196,7 @@
   {
     "_id": "65770d54b2b935d83f6ea4d1",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GGUF",
-    "likes": 284,
+    "likes": 285,
     "private": false,
     "downloads": 345,
     "tags": [
@@ -73899,7 +73899,7 @@
   {
     "_id": "657ada27f14f26780a66a577",
     "id": "TheBloke/dolphin-2.5-mixtral-8x7b-GGUF",
-    "likes": 136,
+    "likes": 137,
     "private": false,
     "downloads": 126,
     "tags": [
@@ -78540,8 +78540,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "custom_code",
+      "base_model:whiterabbitneo/WhiteRabbitNeo-13B",
+      "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-21T11:45:35.000Z",
     "modelId": "TheBloke/WhiteRabbitNeo-13B-GPTQ"
   },
@@ -78608,5 +78620,29 @@
     "library_name": "transformers",
     "createdAt": "2023-12-21T12:00:01.000Z",
     "modelId": "TheBloke/FlatOrcamaid-13B-v0.2-GGUF"
+  },
+  {
+    "_id": "6584359ad6cc28d6bd857598",
+    "id": "TheBloke/OrcaMaidXL-17B-32k-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-21T12:54:50.000Z",
+    "modelId": "TheBloke/OrcaMaidXL-17B-32k-GPTQ"
+  },
+  {
+    "_id": "6584359ad9ea8286deec0f65",
+    "id": "TheBloke/OrcaMaidXL-17B-32k-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-21T12:54:50.000Z",
+    "modelId": "TheBloke/OrcaMaidXL-17B-32k-AWQ"
   }
 ]
