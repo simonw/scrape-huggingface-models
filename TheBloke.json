@@ -76488,7 +76488,7 @@
   {
     "_id": "657f0bf069cfe9b4cd52424c",
     "id": "TheBloke/Mixtral-Fusion-4x7B-Instruct-v0.1-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -78614,7 +78614,7 @@
   {
     "_id": "658428c1c5599ad89a33f21f",
     "id": "TheBloke/FlatOrcamaid-13B-v0.2-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -78862,7 +78862,7 @@
   {
     "_id": "65845eb3a4af83584ca9eb9d",
     "id": "TheBloke/OrcaMaid-v2-FIX-13B-32k-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 22,
     "tags": [
@@ -79032,7 +79032,7 @@
   {
     "_id": "65856b8269dfb7bfc5006769",
     "id": "TheBloke/dolphin-2.6-mixtral-8x7b-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -79090,8 +79090,23 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "arxiv:2304.12244",
+      "arxiv:2306.08568",
+      "arxiv:2308.09583",
+      "base_model:WizardLM/WizardMath-7B-V1.1",
+      "license:other",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-22T11:13:52.000Z",
     "modelId": "TheBloke/WizardMath-7B-V1.1-GPTQ"
   },
