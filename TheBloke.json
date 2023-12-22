@@ -23340,7 +23340,7 @@
   {
     "_id": "64f7a58c8a4c5c401d6b6328",
     "id": "TheBloke/Mythalion-13B-GPTQ",
-    "likes": 45,
+    "likes": 46,
     "private": false,
     "downloads": 816,
     "tags": [
@@ -39329,7 +39329,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 369,
+    "likes": 370,
     "private": false,
     "downloads": 3815,
     "tags": [
@@ -71307,7 +71307,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 235,
+    "likes": 236,
     "private": false,
     "downloads": 337,
     "tags": [
@@ -72944,7 +72944,7 @@
   {
     "_id": "6579ae291b1c5bff9be6e86c",
     "id": "TheBloke/SOLAR-10.7B-Instruct-v1.0-GGUF",
-    "likes": 47,
+    "likes": 48,
     "private": false,
     "downloads": 70,
     "tags": [
@@ -73875,7 +73875,7 @@
   {
     "_id": "657ada27e4a10c4beb2a8408",
     "id": "TheBloke/dolphin-2.5-mixtral-8x7b-GPTQ",
-    "likes": 45,
+    "likes": 46,
     "private": false,
     "downloads": 1382,
     "tags": [
@@ -79024,8 +79024,27 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mixtral",
+      "text-generation",
+      "en",
+      "dataset:ehartford/dolphin",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "dataset:ehartford/dolphin-coder",
+      "dataset:teknium/openhermes",
+      "dataset:ise-uiuc/Magicoder-OSS-Instruct-75K",
+      "dataset:ise-uiuc/Magicoder-Evol-Instruct-110K",
+      "dataset:LDJnr/Capybara",
+      "base_model:cognitivecomputations/dolphin-2.6-mixtral-8x7b",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-22T10:57:06.000Z",
     "modelId": "TheBloke/dolphin-2.6-mixtral-8x7b-GPTQ"
   },
