@@ -644,7 +644,7 @@
     "id": "TheBloke/wizard-vicuna-13B-GPTQ",
     "likes": 99,
     "private": false,
-    "downloads": 1774,
+    "downloads": 1780,
     "tags": [
       "transformers",
       "safetensors",
@@ -670,7 +670,7 @@
     "id": "TheBloke/wizard-vicuna-13B-HF",
     "likes": 48,
     "private": false,
-    "downloads": 1680,
+    "downloads": 1694,
     "tags": [
       "transformers",
       "pytorch",
@@ -708,7 +708,7 @@
     "id": "TheBloke/WizardLM-7B-uncensored-GPTQ",
     "likes": 163,
     "private": false,
-    "downloads": 2862,
+    "downloads": 2905,
     "tags": [
       "transformers",
       "safetensors",
@@ -819,7 +819,7 @@
     "id": "TheBloke/dromedary-65b-lora-HF",
     "likes": 20,
     "private": false,
-    "downloads": 1619,
+    "downloads": 1633,
     "tags": [
       "transformers",
       "pytorch",
@@ -841,7 +841,7 @@
     "id": "TheBloke/h2ogpt-oasst1-512-30B-GPTQ",
     "likes": 5,
     "private": false,
-    "downloads": 22,
+    "downloads": 12,
     "tags": [
       "transformers",
       "safetensors",
@@ -882,7 +882,7 @@
     "id": "TheBloke/dromedary-65B-lora-GPTQ",
     "likes": 7,
     "private": false,
-    "downloads": 2,
+    "downloads": 0,
     "tags": [
       "transformers",
       "safetensors",
@@ -904,7 +904,7 @@
     "id": "TheBloke/h2ogpt-oasst1-512-30B-HF",
     "likes": 2,
     "private": false,
-    "downloads": 1646,
+    "downloads": 1663,
     "tags": [
       "transformers",
       "pytorch",
@@ -945,7 +945,7 @@
     "id": "TheBloke/gpt4-alpaca-lora_mlp-65B-HF",
     "likes": 7,
     "private": false,
-    "downloads": 1653,
+    "downloads": 1673,
     "tags": [
       "transformers",
       "pytorch",
@@ -970,7 +970,7 @@
     "id": "TheBloke/gpt4-alpaca-lora_mlp-65B-GPTQ",
     "likes": 14,
     "private": false,
-    "downloads": 35,
+    "downloads": 29,
     "tags": [
       "transformers",
       "safetensors",
@@ -1010,7 +1010,7 @@
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
     "likes": 269,
     "private": false,
-    "downloads": 61674,
+    "downloads": 65038,
     "tags": [
       "transformers",
       "safetensors",
@@ -1037,7 +1037,7 @@
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-HF",
     "likes": 202,
     "private": false,
-    "downloads": 3024,
+    "downloads": 3043,
     "tags": [
       "transformers",
       "pytorch",
@@ -56754,7 +56754,7 @@
   {
     "_id": "654fa6108d8c3bf4ddcceca5",
     "id": "TheBloke/Yi-34B-200K-Llamafied-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -71387,7 +71387,7 @@
   {
     "_id": "65778ac63ceeb2f078e6c864",
     "id": "TheBloke/Mistral-7B-Instruct-v0.2-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 3441,
     "tags": [
@@ -79219,8 +79219,27 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mixtral",
+      "text-generation",
+      "en",
+      "dataset:Open-Orca/SlimOrca",
+      "dataset:lemonilia/LimaRP",
+      "dataset:chargoddard/rpguild",
+      "dataset:chargoddard/summarize_from_feedback_alpaca",
+      "dataset:HuggingFaceH4/no_robots",
+      "dataset:chargoddard/coedit-reworded",
+      "arxiv:2202.08906",
+      "base_model:chargoddard/MixtralRPChat-ZLoss",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-22T14:42:03.000Z",
     "modelId": "TheBloke/MixtralRPChat-ZLoss-GPTQ"
   }
