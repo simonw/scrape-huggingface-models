@@ -21404,7 +21404,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7B-Chat-GGUF",
-    "likes": 194,
+    "likes": 195,
     "private": false,
     "downloads": 2967,
     "tags": [
@@ -34258,7 +34258,7 @@
   {
     "_id": "650a2c082257a3afbaf5dc63",
     "id": "TheBloke/WizardLM-7B-uncensored-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 23,
     "tags": [
@@ -39329,7 +39329,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 368,
+    "likes": 369,
     "private": false,
     "downloads": 3815,
     "tags": [
@@ -53273,7 +53273,7 @@
   {
     "_id": "654418242996405c238f5eea",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
-    "likes": 136,
+    "likes": 137,
     "private": false,
     "downloads": 843,
     "tags": [
@@ -79055,5 +79055,69 @@
     "library_name": "transformers",
     "createdAt": "2023-12-22T10:57:06.000Z",
     "modelId": "TheBloke/dolphin-2.6-mixtral-8x7b-GGUF"
+  },
+  {
+    "_id": "65856f701c461dfe88bce6a5",
+    "id": "TheBloke/WizardMath-7B-V1.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "arxiv:2304.12244",
+      "arxiv:2306.08568",
+      "arxiv:2308.09583",
+      "base_model:WizardLM/WizardMath-7B-V1.1",
+      "license:other",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-22T11:13:52.000Z",
+    "modelId": "TheBloke/WizardMath-7B-V1.1-AWQ"
+  },
+  {
+    "_id": "65856f7041dbedb1461226ba",
+    "id": "TheBloke/WizardMath-7B-V1.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-22T11:13:52.000Z",
+    "modelId": "TheBloke/WizardMath-7B-V1.1-GPTQ"
+  },
+  {
+    "_id": "65856f70d8d2434371588e4f",
+    "id": "TheBloke/WizardMath-7B-V1.1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "text-generation",
+      "en",
+      "arxiv:2304.12244",
+      "arxiv:2306.08568",
+      "arxiv:2308.09583",
+      "base_model:WizardLM/WizardMath-7B-V1.1",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-22T11:13:52.000Z",
+    "modelId": "TheBloke/WizardMath-7B-V1.1-GGUF"
   }
 ]
