@@ -79153,5 +79153,56 @@
     "library_name": "transformers",
     "createdAt": "2023-12-22T11:13:52.000Z",
     "modelId": "TheBloke/WizardMath-7B-V1.1-GGUF"
+  },
+  {
+    "_id": "6585a03b0292cbbde26e3810",
+    "id": "TheBloke/MixtralRPChat-ZLoss-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mixtral",
+      "en",
+      "dataset:Open-Orca/SlimOrca",
+      "dataset:lemonilia/LimaRP",
+      "dataset:chargoddard/rpguild",
+      "dataset:chargoddard/summarize_from_feedback_alpaca",
+      "dataset:HuggingFaceH4/no_robots",
+      "dataset:chargoddard/coedit-reworded",
+      "arxiv:2202.08906",
+      "base_model:chargoddard/MixtralRPChat-ZLoss",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-22T14:42:03.000Z",
+    "modelId": "TheBloke/MixtralRPChat-ZLoss-GGUF"
+  },
+  {
+    "_id": "6585a03b0e68ae87562727f6",
+    "id": "TheBloke/MixtralRPChat-ZLoss-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-22T14:42:03.000Z",
+    "modelId": "TheBloke/MixtralRPChat-ZLoss-AWQ"
+  },
+  {
+    "_id": "6585a03bfde12510fc9b189f",
+    "id": "TheBloke/MixtralRPChat-ZLoss-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-22T14:42:03.000Z",
+    "modelId": "TheBloke/MixtralRPChat-ZLoss-GPTQ"
   }
 ]
