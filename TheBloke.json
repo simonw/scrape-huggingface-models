@@ -75897,7 +75897,7 @@
   {
     "_id": "657d993d49ec77d48e6d518f",
     "id": "TheBloke/LeoScorpius-GreenNode-Alpaca-7B-v1-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -77227,7 +77227,7 @@
   {
     "_id": "6580aa20419afba19a692cc8",
     "id": "TheBloke/phi-2-GGUF",
-    "likes": 44,
+    "likes": 45,
     "private": false,
     "downloads": 43,
     "tags": [
@@ -78144,7 +78144,7 @@
   {
     "_id": "6582276705c177eea3a2a239",
     "id": "TheBloke/Swallow-7B-Instruct-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 24,
     "tags": [
@@ -79016,5 +79016,44 @@
     "library_name": "transformers",
     "createdAt": "2023-12-21T16:41:33.000Z",
     "modelId": "TheBloke/orangetin-OpenHermes-Mixtral-8x7B-GPTQ"
+  },
+  {
+    "_id": "65856b823c10387164b27de6",
+    "id": "TheBloke/dolphin-2.6-mixtral-8x7b-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-22T10:57:06.000Z",
+    "modelId": "TheBloke/dolphin-2.6-mixtral-8x7b-GPTQ"
+  },
+  {
+    "_id": "65856b8269dfb7bfc5006769",
+    "id": "TheBloke/dolphin-2.6-mixtral-8x7b-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mixtral",
+      "en",
+      "dataset:ehartford/dolphin",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "dataset:ehartford/dolphin-coder",
+      "dataset:teknium/openhermes",
+      "dataset:ise-uiuc/Magicoder-OSS-Instruct-75K",
+      "dataset:ise-uiuc/Magicoder-Evol-Instruct-110K",
+      "dataset:LDJnr/Capybara",
+      "base_model:cognitivecomputations/dolphin-2.6-mixtral-8x7b",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-22T10:57:06.000Z",
+    "modelId": "TheBloke/dolphin-2.6-mixtral-8x7b-GGUF"
   }
 ]
