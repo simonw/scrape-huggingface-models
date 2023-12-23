@@ -39327,7 +39327,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 371,
+    "likes": 372,
     "private": false,
     "downloads": 3786,
     "tags": [
@@ -71203,7 +71203,7 @@
   {
     "_id": "65770d54b2b935d83f6ea4d1",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GGUF",
-    "likes": 290,
+    "likes": 291,
     "private": false,
     "downloads": 407,
     "tags": [
@@ -79699,8 +79699,27 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "finetune",
+      "dpo",
+      "Instruct",
+      "augmentation",
+      "german",
+      "en",
+      "de",
+      "dataset:argilla/distilabel-math-preference-dpo",
+      "base_model:VAGOsolutions/SauerkrautLM-SOLAR-Instruct",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-23T09:56:28.000Z",
     "modelId": "TheBloke/SauerkrautLM-SOLAR-Instruct-AWQ"
   },
@@ -79751,8 +79770,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "base_model:SuperAGI/SAM",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-23T10:06:33.000Z",
     "modelId": "TheBloke/SAM-AWQ"
   },
@@ -79763,9 +79794,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "mistral",
+      "en",
+      "base_model:SuperAGI/SAM",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2023-12-23T10:06:33.000Z",
     "modelId": "TheBloke/SAM-GGUF"
   }
