@@ -47451,7 +47451,7 @@
   {
     "_id": "652ee6a717d03c316f67823a",
     "id": "TheBloke/llemma_7b-GGUF",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -79809,7 +79809,7 @@
   {
     "_id": "6586b12992c8cc471f1dd89a",
     "id": "TheBloke/SAM-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -79857,8 +79857,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "CoT",
+      "en",
+      "base_model:aloobun/bun_mistral_7b_v2",
+      "license:cc",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-23T12:02:11.000Z",
     "modelId": "TheBloke/bun_mistral_7b_v2-GPTQ"
   },
@@ -79869,8 +79882,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "CoT",
+      "en",
+      "base_model:aloobun/bun_mistral_7b_v2",
+      "license:cc",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-23T12:02:11.000Z",
     "modelId": "TheBloke/bun_mistral_7b_v2-AWQ"
   },
@@ -79910,13 +79936,19 @@
   {
     "_id": "6586cdbbd2ea3f3294fef85b",
     "id": "TheBloke/Mixtral_7Bx2_MoE-GGUF",
-    "likes": 0,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "mixtral",
+      "base_model:cloudyu/Mixtral_7Bx2_MoE",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2023-12-23T12:08:27.000Z",
     "modelId": "TheBloke/Mixtral_7Bx2_MoE-GGUF"
   },
@@ -79931,5 +79963,48 @@
     ],
     "createdAt": "2023-12-23T12:08:27.000Z",
     "modelId": "TheBloke/Mixtral_7Bx2_MoE-AWQ"
+  },
+  {
+    "_id": "6586d33d067630f69f1d2471",
+    "id": "TheBloke/Valkyrie-V1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-23T12:31:57.000Z",
+    "modelId": "TheBloke/Valkyrie-V1-GPTQ"
+  },
+  {
+    "_id": "6586d33d7959448ef5d98212",
+    "id": "TheBloke/Valkyrie-V1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-23T12:31:57.000Z",
+    "modelId": "TheBloke/Valkyrie-V1-AWQ"
+  },
+  {
+    "_id": "6586d33deac1c5dac0867b95",
+    "id": "TheBloke/Valkyrie-V1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "base_model:cookinai/Valkyrie-V1",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-23T12:31:57.000Z",
+    "modelId": "TheBloke/Valkyrie-V1-GGUF"
   }
 ]
