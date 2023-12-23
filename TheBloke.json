@@ -73347,7 +73347,7 @@
   {
     "_id": "6579d8e448287621b16be9ec",
     "id": "TheBloke/Mixtral-SlimOrca-8x7B-GGUF",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -78679,7 +78679,7 @@
   {
     "_id": "6584474283a9e1460c80499c",
     "id": "TheBloke/OrcaMaid-v2-FIX-13B-32k-GGUF",
-    "likes": 2,
+    "likes": 1,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -79730,8 +79730,27 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "finetune",
+      "dpo",
+      "Instruct",
+      "augmentation",
+      "german",
+      "en",
+      "de",
+      "dataset:argilla/distilabel-math-preference-dpo",
+      "base_model:VAGOsolutions/SauerkrautLM-SOLAR-Instruct",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-23T09:56:28.000Z",
     "modelId": "TheBloke/SauerkrautLM-SOLAR-Instruct-GPTQ"
   },
@@ -79806,5 +79825,17 @@
     "library_name": "transformers",
     "createdAt": "2023-12-23T10:06:33.000Z",
     "modelId": "TheBloke/SAM-GGUF"
+  },
+  {
+    "_id": "6586be22d9c1295b93095d90",
+    "id": "TheBloke/SAM-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-23T11:01:54.000Z",
+    "modelId": "TheBloke/SAM-GPTQ"
   }
 ]
