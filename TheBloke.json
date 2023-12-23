@@ -21430,7 +21430,7 @@
   {
     "_id": "64f611cf6ad07ea81779ca15",
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
-    "likes": 116,
+    "likes": 117,
     "private": false,
     "downloads": 971,
     "tags": [
@@ -68562,7 +68562,7 @@
   {
     "_id": "6570b4293e68d88fd6061f45",
     "id": "TheBloke/Magicoder-S-DS-6.7B-GGUF",
-    "likes": 30,
+    "likes": 31,
     "private": false,
     "downloads": 34,
     "tags": [
@@ -71435,7 +71435,7 @@
   {
     "_id": "65778ac662d3ac1817cc9201",
     "id": "TheBloke/Mistral-7B-Instruct-v0.2-GGUF",
-    "likes": 71,
+    "likes": 72,
     "private": false,
     "downloads": 374,
     "tags": [
@@ -79691,5 +79691,82 @@
     "library_name": "transformers",
     "createdAt": "2023-12-22T20:13:52.000Z",
     "modelId": "TheBloke/firefly-mixtral-8x7b-AWQ"
+  },
+  {
+    "_id": "6586aecc1b44d0e694eb99a4",
+    "id": "TheBloke/SauerkrautLM-SOLAR-Instruct-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-23T09:56:28.000Z",
+    "modelId": "TheBloke/SauerkrautLM-SOLAR-Instruct-AWQ"
+  },
+  {
+    "_id": "6586aecc7959448ef5d5f231",
+    "id": "TheBloke/SauerkrautLM-SOLAR-Instruct-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-23T09:56:28.000Z",
+    "modelId": "TheBloke/SauerkrautLM-SOLAR-Instruct-GPTQ"
+  },
+  {
+    "_id": "6586aeccbb5062b4de9a3bb1",
+    "id": "TheBloke/SauerkrautLM-SOLAR-Instruct-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "solar",
+      "finetune",
+      "dpo",
+      "Instruct",
+      "augmentation",
+      "german",
+      "text-generation",
+      "en",
+      "de",
+      "dataset:argilla/distilabel-math-preference-dpo",
+      "base_model:VAGOsolutions/SauerkrautLM-SOLAR-Instruct",
+      "license:cc-by-nc-4.0",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-23T09:56:28.000Z",
+    "modelId": "TheBloke/SauerkrautLM-SOLAR-Instruct-GGUF"
+  },
+  {
+    "_id": "6586b129438d7b1ccffbdbed",
+    "id": "TheBloke/SAM-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-23T10:06:33.000Z",
+    "modelId": "TheBloke/SAM-AWQ"
+  },
+  {
+    "_id": "6586b12992c8cc471f1dd89a",
+    "id": "TheBloke/SAM-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2023-12-23T10:06:33.000Z",
+    "modelId": "TheBloke/SAM-GGUF"
   }
 ]
