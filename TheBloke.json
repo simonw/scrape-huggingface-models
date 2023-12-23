@@ -73906,7 +73906,7 @@
   {
     "_id": "657ada27f14f26780a66a577",
     "id": "TheBloke/dolphin-2.5-mixtral-8x7b-GGUF",
-    "likes": 152,
+    "likes": 153,
     "private": false,
     "downloads": 280,
     "tags": [
@@ -79833,8 +79833,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "base_model:SuperAGI/SAM",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-23T11:01:54.000Z",
     "modelId": "TheBloke/SAM-GPTQ"
   }
