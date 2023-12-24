@@ -14711,7 +14711,7 @@
     "id": "TheBloke/WizardLM-70B-V1.0-GGML",
     "likes": 31,
     "private": false,
-    "downloads": 1,
+    "downloads": 0,
     "tags": [
       "transformers",
       "llama",
@@ -14732,7 +14732,7 @@
     "id": "TheBloke/WizardLM-70B-V1.0-GPTQ",
     "likes": 33,
     "private": false,
-    "downloads": 1939,
+    "downloads": 1935,
     "tags": [
       "transformers",
       "safetensors",
@@ -14866,7 +14866,7 @@
     "id": "TheBloke/orca_mini_v3_7B-GPTQ",
     "likes": 9,
     "private": false,
-    "downloads": 16126,
+    "downloads": 17169,
     "tags": [
       "transformers",
       "safetensors",
@@ -14969,7 +14969,7 @@
     "id": "TheBloke/orca_mini_v3_13B-GPTQ",
     "likes": 10,
     "private": false,
-    "downloads": 7434,
+    "downloads": 7484,
     "tags": [
       "transformers",
       "safetensors",
@@ -15018,7 +15018,7 @@
     "id": "TheBloke/Platypus2-13B-GPTQ",
     "likes": 2,
     "private": false,
-    "downloads": 33,
+    "downloads": 8,
     "tags": [
       "transformers",
       "safetensors",
@@ -15045,7 +15045,7 @@
     "id": "TheBloke/Camel-Platypus2-13B-GPTQ",
     "likes": 3,
     "private": false,
-    "downloads": 1,
+    "downloads": 2,
     "tags": [
       "transformers",
       "safetensors",
@@ -15094,7 +15094,7 @@
     "id": "TheBloke/Platypus2-70B-Instruct-GPTQ",
     "likes": 23,
     "private": false,
-    "downloads": 1959,
+    "downloads": 1950,
     "tags": [
       "transformers",
       "safetensors",
@@ -15193,7 +15193,7 @@
     "id": "TheBloke/MythoMax-L2-13B-GGML",
     "likes": 77,
     "private": false,
-    "downloads": 33,
+    "downloads": 34,
     "tags": [
       "transformers",
       "llama",
@@ -15212,7 +15212,7 @@
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
     "likes": 104,
     "private": false,
-    "downloads": 14193,
+    "downloads": 15416,
     "tags": [
       "transformers",
       "safetensors",
@@ -15427,7 +15427,7 @@
     "id": "TheBloke/Llama-2-13B-German-Assistant-v4-GPTQ",
     "likes": 15,
     "private": false,
-    "downloads": 395,
+    "downloads": 368,
     "tags": [
       "transformers",
       "safetensors",
@@ -15453,7 +15453,7 @@
     "id": "TheBloke/OpenOrca-Platypus2-13B-GPTQ",
     "likes": 48,
     "private": false,
-    "downloads": 2084,
+    "downloads": 2075,
     "tags": [
       "transformers",
       "safetensors",
@@ -15509,7 +15509,7 @@
     "id": "TheBloke/EverythingLM-13B-16K-GPTQ",
     "likes": 12,
     "private": false,
-    "downloads": 1728,
+    "downloads": 1727,
     "tags": [
       "transformers",
       "safetensors",
@@ -71227,7 +71227,7 @@
   {
     "_id": "65771780c793e5b72b0e8d68",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GPTQ",
-    "likes": 88,
+    "likes": 89,
     "private": false,
     "downloads": 4262,
     "tags": [
@@ -80262,7 +80262,7 @@
   {
     "_id": "65871727bb5062b4dea7dfcc",
     "id": "TheBloke/Orca2myth7.2-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -80327,7 +80327,7 @@
   {
     "_id": "65883baf586088fd275237cf",
     "id": "TheBloke/dolphin-2_6-phi-2-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -80797,8 +80797,10 @@
       "safetensors",
       "llama",
       "text-generation",
+      "en",
+      "base_model:Kooten/DaringMaid-13B",
+      "license:cc-by-nc-4.0",
       "autotrain_compatible",
-      "endpoints_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -80831,5 +80833,79 @@
     "library_name": "transformers",
     "createdAt": "2023-12-24T18:52:52.000Z",
     "modelId": "TheBloke/DaringMaid-13B-AWQ"
+  },
+  {
+    "_id": "658888d40100bf3373c726b0",
+    "id": "TheBloke/Loyal-Macaroni-Maid-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "merge",
+      "not-for-all-audiences",
+      "nsfw",
+      "base_model:SanjiWatsuki/Loyal-Macaroni-Maid-7B",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-24T19:39:00.000Z",
+    "modelId": "TheBloke/Loyal-Macaroni-Maid-7B-GGUF"
+  },
+  {
+    "_id": "658888d41b44d0e69425f56a",
+    "id": "TheBloke/Loyal-Macaroni-Maid-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "merge",
+      "not-for-all-audiences",
+      "nsfw",
+      "base_model:SanjiWatsuki/Loyal-Macaroni-Maid-7B",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-24T19:39:00.000Z",
+    "modelId": "TheBloke/Loyal-Macaroni-Maid-7B-AWQ"
+  },
+  {
+    "_id": "658888d4b2177de396951236",
+    "id": "TheBloke/Loyal-Macaroni-Maid-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "merge",
+      "not-for-all-audiences",
+      "nsfw",
+      "base_model:SanjiWatsuki/Loyal-Macaroni-Maid-7B",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-24T19:39:00.000Z",
+    "modelId": "TheBloke/Loyal-Macaroni-Maid-7B-GPTQ"
   }
 ]
