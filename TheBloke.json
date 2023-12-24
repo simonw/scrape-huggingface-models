@@ -80323,5 +80323,61 @@
     "library_name": "transformers",
     "createdAt": "2023-12-23T17:49:58.000Z",
     "modelId": "TheBloke/Orca2myth7.2-GPTQ"
+  },
+  {
+    "_id": "65883baf586088fd275237cf",
+    "id": "TheBloke/dolphin-2_6-phi-2-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "phi-msft",
+      "en",
+      "dataset:ehartford/dolphin",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "dataset:ehartford/dolphin-coder",
+      "dataset:teknium/openhermes",
+      "dataset:ise-uiuc/Magicoder-OSS-Instruct-75K",
+      "dataset:ise-uiuc/Magicoder-Evol-Instruct-110K",
+      "dataset:LDJnr/Capybara",
+      "base_model:cognitivecomputations/dolphin-2_6-phi-2",
+      "license:other",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-24T14:09:51.000Z",
+    "modelId": "TheBloke/dolphin-2_6-phi-2-GGUF"
+  },
+  {
+    "_id": "65883baf74d1a1cbd0142b7a",
+    "id": "TheBloke/dolphin-2_6-phi-2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-24T14:09:51.000Z",
+    "modelId": "TheBloke/dolphin-2_6-phi-2-GPTQ"
+  },
+  {
+    "_id": "65883d941b44d0e6941d55a8",
+    "id": "TheBloke/SauerkrautLM-UNA-SOLAR-Instruct-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "solar",
+      "base_model:Weyaxi/SauerkrautLM-UNA-SOLAR-Instruct",
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-24T14:17:56.000Z",
+    "modelId": "TheBloke/SauerkrautLM-UNA-SOLAR-Instruct-GGUF"
   }
 ]
