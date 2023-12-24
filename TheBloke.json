@@ -2709,7 +2709,7 @@
     "id": "TheBloke/Nous-Hermes-13B-GPTQ",
     "likes": 163,
     "private": false,
-    "downloads": 15433,
+    "downloads": 17769,
     "tags": [
       "transformers",
       "safetensors",
@@ -2903,7 +2903,7 @@
     "id": "TheBloke/airoboros-7b-gpt4-fp16",
     "likes": 3,
     "private": false,
-    "downloads": 1629,
+    "downloads": 1620,
     "tags": [
       "transformers",
       "pytorch",
@@ -3009,7 +3009,7 @@
     "id": "TheBloke/Planner-7B-fp16",
     "likes": 1,
     "private": false,
-    "downloads": 1648,
+    "downloads": 1640,
     "tags": [
       "transformers",
       "pytorch",
@@ -3101,7 +3101,7 @@
     "id": "TheBloke/WizardLM-30B-GPTQ",
     "likes": 20,
     "private": false,
-    "downloads": 1635,
+    "downloads": 1629,
     "tags": [
       "transformers",
       "safetensors",
@@ -3124,7 +3124,7 @@
     "id": "TheBloke/WizardLM-30B-fp16",
     "likes": 10,
     "private": false,
-    "downloads": 1657,
+    "downloads": 1649,
     "tags": [
       "transformers",
       "pytorch",
@@ -3202,7 +3202,7 @@
     "id": "TheBloke/chronos-wizardlm-uc-scot-st-13B-GPTQ",
     "likes": 6,
     "private": false,
-    "downloads": 1766,
+    "downloads": 1770,
     "tags": [
       "transformers",
       "safetensors",
@@ -3456,7 +3456,7 @@
     "id": "TheBloke/Vicuna-13B-CoT-fp16",
     "likes": 3,
     "private": false,
-    "downloads": 1726,
+    "downloads": 1713,
     "tags": [
       "transformers",
       "pytorch",
@@ -3563,7 +3563,7 @@
     "id": "TheBloke/starcoder-GPTQ",
     "likes": 13,
     "private": false,
-    "downloads": 1435,
+    "downloads": 1444,
     "tags": [
       "transformers",
       "safetensors",
@@ -3615,7 +3615,7 @@
     "id": "TheBloke/starcoderplus-GPTQ",
     "likes": 25,
     "private": false,
-    "downloads": 186,
+    "downloads": 184,
     "tags": [
       "transformers",
       "safetensors",
@@ -3737,7 +3737,7 @@
     "id": "TheBloke/starchat-beta-GPTQ",
     "likes": 26,
     "private": false,
-    "downloads": 290,
+    "downloads": 292,
     "tags": [
       "transformers",
       "safetensors",
@@ -3780,7 +3780,7 @@
     "id": "TheBloke/starcoder-GGML",
     "likes": 25,
     "private": false,
-    "downloads": 18,
+    "downloads": 19,
     "tags": [
       "transformers",
       "starcoder",
@@ -3963,7 +3963,7 @@
     "id": "TheBloke/tulu-30B-fp16",
     "likes": 5,
     "private": false,
-    "downloads": 1655,
+    "downloads": 1633,
     "tags": [
       "transformers",
       "pytorch",
@@ -4063,7 +4063,7 @@
     "id": "TheBloke/tulu-13B-fp16",
     "likes": 2,
     "private": false,
-    "downloads": 1682,
+    "downloads": 1653,
     "tags": [
       "transformers",
       "pytorch",
@@ -4173,7 +4173,7 @@
     "id": "TheBloke/tulu-7B-fp16",
     "likes": 3,
     "private": false,
-    "downloads": 1857,
+    "downloads": 1824,
     "tags": [
       "transformers",
       "pytorch",
@@ -4203,7 +4203,7 @@
     "id": "TheBloke/samantha-1.1-llama-33B-GPTQ",
     "likes": 10,
     "private": false,
-    "downloads": 6,
+    "downloads": 4,
     "tags": [
       "transformers",
       "safetensors",
@@ -4359,7 +4359,7 @@
     "id": "TheBloke/chronos-hermes-13B-GPTQ",
     "likes": 31,
     "private": false,
-    "downloads": 310,
+    "downloads": 312,
     "tags": [
       "transformers",
       "safetensors",
@@ -4527,7 +4527,7 @@
     "id": "TheBloke/WizardCoder-15B-1.0-GPTQ",
     "likes": 172,
     "private": false,
-    "downloads": 672,
+    "downloads": 664,
     "tags": [
       "transformers",
       "safetensors",
@@ -4550,7 +4550,7 @@
     "id": "TheBloke/WizardCoder-15B-1.0-GGML",
     "likes": 112,
     "private": false,
-    "downloads": 57,
+    "downloads": 4,
     "tags": [
       "transformers",
       "starcoder",
@@ -53859,7 +53859,7 @@
   {
     "_id": "654707bfb6a8bd2c90498343",
     "id": "TheBloke/deepseek-coder-6.7B-instruct-AWQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 756,
     "tags": [
@@ -66215,7 +66215,7 @@
   {
     "_id": "65677baebed5f64bbf658704",
     "id": "TheBloke/deepseek-llm-7B-base-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 15,
     "tags": [
@@ -66471,7 +66471,7 @@
   {
     "_id": "6567c5d8063938c9b41ce140",
     "id": "TheBloke/deepseek-llm-7B-base-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 15,
     "tags": [
@@ -71305,7 +71305,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 245,
+    "likes": 246,
     "private": false,
     "downloads": 565,
     "tags": [
@@ -73962,7 +73962,7 @@
   {
     "_id": "657ada27f14f26780a66a577",
     "id": "TheBloke/dolphin-2.5-mixtral-8x7b-GGUF",
-    "likes": 157,
+    "likes": 158,
     "private": false,
     "downloads": 326,
     "tags": [
@@ -79105,7 +79105,7 @@
   {
     "_id": "65856b8269dfb7bfc5006769",
     "id": "TheBloke/dolphin-2.6-mixtral-8x7b-GGUF",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -79677,7 +79677,7 @@
   {
     "_id": "6585ed2adc3718bab85482e2",
     "id": "TheBloke/CodeNinja-1.0-OpenChat-7B-GGUF",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -80327,7 +80327,7 @@
   {
     "_id": "65883baf586088fd275237cf",
     "id": "TheBloke/dolphin-2_6-phi-2-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -80577,8 +80577,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "arxiv:2311.13534",
+      "base_model:Yhyu13/LMCocktail-10.7B-v1",
+      "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-24T16:55:54.000Z",
     "modelId": "TheBloke/LMCocktail-10.7B-v1-AWQ"
   },
@@ -80589,9 +80601,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "mixtral",
+      "text-generation",
+      "dataset:databricks/databricks-dolly-15k",
+      "base_model:Brillibits/Instruct_Mixtral-8x7B-v0.1_Dolly15K",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-24T17:05:01.000Z",
     "modelId": "TheBloke/Instruct_Mixtral-8x7B-v0.1_Dolly15K-GGUF"
   },
