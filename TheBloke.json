@@ -71203,7 +71203,7 @@
   {
     "_id": "65770d54b2b935d83f6ea4d1",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GGUF",
-    "likes": 298,
+    "likes": 299,
     "private": false,
     "downloads": 433,
     "tags": [
@@ -71306,7 +71306,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 249,
+    "likes": 250,
     "private": false,
     "downloads": 579,
     "tags": [
@@ -81103,5 +81103,62 @@
     "library_name": "transformers",
     "createdAt": "2023-12-24T22:44:03.000Z",
     "modelId": "TheBloke/Noromaid-v0.1-mixtral-8x7b-v3-GPTQ"
+  },
+  {
+    "_id": "658941044bb41498f7b3c950",
+    "id": "TheBloke/SauerkrautLM-Mixtral-8x7B-Instruct-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-25T08:44:52.000Z",
+    "modelId": "TheBloke/SauerkrautLM-Mixtral-8x7B-Instruct-GPTQ"
+  },
+  {
+    "_id": "65894104c4b2004663afd129",
+    "id": "TheBloke/SauerkrautLM-Mixtral-8x7B-Instruct-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mixtral",
+      "mistral",
+      "finetune",
+      "dpo",
+      "Instruct",
+      "augmentation",
+      "german",
+      "text-generation",
+      "en",
+      "de",
+      "fr",
+      "it",
+      "es",
+      "dataset:argilla/distilabel-math-preference-dpo",
+      "base_model:VAGOsolutions/SauerkrautLM-Mixtral-8x7B-Instruct",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-25T08:44:52.000Z",
+    "modelId": "TheBloke/SauerkrautLM-Mixtral-8x7B-Instruct-GGUF"
+  },
+  {
+    "_id": "65894104fb9c2bdfae531091",
+    "id": "TheBloke/SauerkrautLM-Mixtral-8x7B-Instruct-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-25T08:44:52.000Z",
+    "modelId": "TheBloke/SauerkrautLM-Mixtral-8x7B-Instruct-AWQ"
   }
 ]
