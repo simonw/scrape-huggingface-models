@@ -13292,7 +13292,7 @@
   {
     "_id": "64cb5e611f8a37e3ed3e927a",
     "id": "TheBloke/vicuna-13B-v1.5-16K-GPTQ",
-    "likes": 32,
+    "likes": 33,
     "private": false,
     "downloads": 243056,
     "tags": [
@@ -49031,7 +49031,7 @@
   {
     "_id": "6534e9dfc7530aa27fbaa288",
     "id": "TheBloke/LLaMA2-13B-Tiefighter-AWQ",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 17192,
     "tags": [
@@ -53187,7 +53187,7 @@
   {
     "_id": "6543e26c40ddcc1c6f1d2eb1",
     "id": "TheBloke/Yarn-Mistral-7B-128k-AWQ",
-    "likes": 35,
+    "likes": 36,
     "private": false,
     "downloads": 1415,
     "tags": [
@@ -77282,7 +77282,7 @@
   {
     "_id": "6580aa20419afba19a692cc8",
     "id": "TheBloke/phi-2-GGUF",
-    "likes": 61,
+    "likes": 62,
     "private": false,
     "downloads": 89,
     "tags": [
@@ -79981,7 +79981,7 @@
   {
     "_id": "6586cdbb8ea79e4df45f2f25",
     "id": "TheBloke/Mixtral_7Bx2_MoE-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 78,
     "tags": [
@@ -80328,7 +80328,7 @@
   {
     "_id": "65883baf586088fd275237cf",
     "id": "TheBloke/dolphin-2_6-phi-2-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -80958,7 +80958,7 @@
   {
     "_id": "65889989991d8e7fb21ac07c",
     "id": "TheBloke/openbuddy-mixtral-8x7b-v15.4-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -81286,8 +81286,33 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mixtral",
+      "text-generation",
+      "mistral",
+      "finetune",
+      "sft",
+      "dpo",
+      "chatml",
+      "augmentation",
+      "german",
+      "en",
+      "de",
+      "fr",
+      "it",
+      "es",
+      "dataset:Open-Orca/SlimOrca",
+      "dataset:argilla/distilabel-math-preference-dpo",
+      "base_model:VAGOsolutions/SauerkrautLM-Mixtral-8x7B",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-25T10:36:10.000Z",
     "modelId": "TheBloke/SauerkrautLM-Mixtral-8x7B-GPTQ"
   }
