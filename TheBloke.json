@@ -71492,7 +71492,7 @@
   {
     "_id": "65778ac662d3ac1817cc9201",
     "id": "TheBloke/Mistral-7B-Instruct-v0.2-GGUF",
-    "likes": 78,
+    "likes": 79,
     "private": false,
     "downloads": 421,
     "tags": [
@@ -79678,7 +79678,7 @@
   {
     "_id": "6585ed2adc3718bab85482e2",
     "id": "TheBloke/CodeNinja-1.0-OpenChat-7B-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -81111,8 +81111,31 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mixtral",
+      "text-generation",
+      "mistral",
+      "finetune",
+      "dpo",
+      "Instruct",
+      "augmentation",
+      "german",
+      "en",
+      "de",
+      "fr",
+      "it",
+      "es",
+      "dataset:argilla/distilabel-math-preference-dpo",
+      "base_model:VAGOsolutions/SauerkrautLM-Mixtral-8x7B-Instruct",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-25T08:44:52.000Z",
     "modelId": "TheBloke/SauerkrautLM-Mixtral-8x7B-Instruct-GPTQ"
   },
@@ -81255,5 +81278,17 @@
     "library_name": "transformers",
     "createdAt": "2023-12-25T09:28:02.000Z",
     "modelId": "TheBloke/SauerkrautLM-Mixtral-8x7B-GGUF"
+  },
+  {
+    "_id": "65895b1ae878be571b60af49",
+    "id": "TheBloke/SauerkrautLM-Mixtral-8x7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-25T10:36:10.000Z",
+    "modelId": "TheBloke/SauerkrautLM-Mixtral-8x7B-GPTQ"
   }
 ]
