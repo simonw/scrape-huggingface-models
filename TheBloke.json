@@ -71218,7 +71218,8 @@
       "base_model:mistralai/Mixtral-8x7B-v0.1",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "library_name": "transformers",
     "createdAt": "2023-12-11T13:23:32.000Z",
@@ -74029,7 +74030,7 @@
   {
     "_id": "657b12b55c6f0b1f36d5f1d1",
     "id": "TheBloke/openchat-3.5-1210-GGUF",
-    "likes": 30,
+    "likes": 31,
     "private": false,
     "downloads": 53,
     "tags": [
@@ -77505,7 +77506,7 @@
     "id": "TheBloke/firefly-mixtral-8x7b-GPTQ",
     "likes": 1,
     "private": false,
-    "downloads": 20,
+    "downloads": 21,
     "tags": [
       "transformers",
       "safetensors",
@@ -77529,7 +77530,7 @@
     "id": "TheBloke/firefly-mixtral-8x7b-GGUF",
     "likes": 5,
     "private": false,
-    "downloads": 1,
+    "downloads": 2,
     "tags": [
       "transformers",
       "gguf",
@@ -77549,7 +77550,7 @@
     "id": "TheBloke/SOLAR-10.7B-Instruct-v1.0-uncensored-AWQ",
     "likes": 1,
     "private": false,
-    "downloads": 175,
+    "downloads": 178,
     "tags": [
       "transformers",
       "safetensors",
@@ -77572,7 +77573,7 @@
     "id": "TheBloke/SOLAR-10.7B-Instruct-v1.0-uncensored-GGUF",
     "likes": 9,
     "private": false,
-    "downloads": 8,
+    "downloads": 10,
     "tags": [
       "transformers",
       "gguf",
@@ -77590,7 +77591,7 @@
     "id": "TheBloke/SOLAR-10.7B-Instruct-v1.0-uncensored-GPTQ",
     "likes": 2,
     "private": false,
-    "downloads": 222,
+    "downloads": 250,
     "tags": [
       "transformers",
       "safetensors",
@@ -77678,7 +77679,7 @@
     "id": "TheBloke/GEITje-7B-chat-GPTQ",
     "likes": 2,
     "private": false,
-    "downloads": 21,
+    "downloads": 23,
     "tags": [
       "transformers",
       "safetensors",
@@ -77707,7 +77708,7 @@
     "id": "TheBloke/GEITje-7B-chat-GGUF",
     "likes": 1,
     "private": false,
-    "downloads": 1,
+    "downloads": 2,
     "tags": [
       "transformers",
       "gguf",
@@ -77787,7 +77788,7 @@
     "id": "TheBloke/Yi-34B-200K-DARE-merge-v5-GPTQ",
     "likes": 0,
     "private": false,
-    "downloads": 4,
+    "downloads": 5,
     "tags": [
       "transformers",
       "safetensors",
@@ -77908,7 +77909,7 @@
     "id": "TheBloke/Swallow-13B-GGUF",
     "likes": 1,
     "private": false,
-    "downloads": 1,
+    "downloads": 2,
     "tags": [
       "transformers",
       "gguf",
@@ -78004,7 +78005,7 @@
     "id": "TheBloke/Swallow-70B-GPTQ",
     "likes": 0,
     "private": false,
-    "downloads": 9,
+    "downloads": 14,
     "tags": [
       "transformers",
       "safetensors",
@@ -78102,7 +78103,7 @@
     "id": "TheBloke/Swallow-13B-Instruct-GPTQ",
     "likes": 1,
     "private": false,
-    "downloads": 176,
+    "downloads": 185,
     "tags": [
       "transformers",
       "safetensors",
@@ -78250,7 +78251,7 @@
     "id": "TheBloke/Swallow-7B-Instruct-GGUF",
     "likes": 4,
     "private": false,
-    "downloads": 10,
+    "downloads": 13,
     "tags": [
       "transformers",
       "gguf",
@@ -78338,7 +78339,7 @@
     "id": "TheBloke/Frostwind-10.7B-v1-GGUF",
     "likes": 2,
     "private": false,
-    "downloads": 1,
+    "downloads": 2,
     "tags": [
       "transformers",
       "gguf",
@@ -78559,7 +78560,7 @@
     "id": "TheBloke/dragon-mistral-7B-v0-GPTQ",
     "likes": 0,
     "private": false,
-    "downloads": 85,
+    "downloads": 87,
     "tags": [
       "transformers",
       "safetensors",
@@ -78582,7 +78583,7 @@
     "id": "TheBloke/WhiteRabbitNeo-13B-GGUF",
     "likes": 3,
     "private": false,
-    "downloads": 3,
+    "downloads": 4,
     "tags": [
       "transformers",
       "gguf",
@@ -78601,7 +78602,7 @@
     "id": "TheBloke/WhiteRabbitNeo-13B-GPTQ",
     "likes": 1,
     "private": false,
-    "downloads": 8,
+    "downloads": 9,
     "tags": [
       "transformers",
       "safetensors",
@@ -78625,7 +78626,7 @@
     "id": "TheBloke/WhiteRabbitNeo-13B-AWQ",
     "likes": 0,
     "private": false,
-    "downloads": 5,
+    "downloads": 6,
     "tags": [
       "transformers",
       "safetensors",
@@ -78737,7 +78738,7 @@
     "id": "TheBloke/OrcaMaid-v2-FIX-13B-32k-GGUF",
     "likes": 1,
     "private": false,
-    "downloads": 4,
+    "downloads": 5,
     "tags": [
       "transformers",
       "gguf",
@@ -78758,7 +78759,7 @@
     "id": "TheBloke/FlatOrcamaid-13B-v0.2-GPTQ",
     "likes": 1,
     "private": false,
-    "downloads": 9,
+    "downloads": 10,
     "tags": [
       "transformers",
       "safetensors",
@@ -78804,7 +78805,7 @@
     "id": "TheBloke/Llama-2-7B-ft-instruct-es-GGUF",
     "likes": 1,
     "private": false,
-    "downloads": 2,
+    "downloads": 3,
     "tags": [
       "transformers",
       "gguf",
@@ -78826,7 +78827,7 @@
     "id": "TheBloke/Llama-2-7B-ft-instruct-es-GPTQ",
     "likes": 0,
     "private": false,
-    "downloads": 1,
+    "downloads": 2,
     "tags": [
       "transformers",
       "safetensors",
@@ -78850,7 +78851,7 @@
     "id": "TheBloke/Llama-2-7B-ft-instruct-es-AWQ",
     "likes": 0,
     "private": false,
-    "downloads": 2,
+    "downloads": 6,
     "tags": [
       "transformers",
       "safetensors",
@@ -78874,7 +78875,7 @@
     "id": "TheBloke/mistral-ft-optimized-1218-GGUF",
     "likes": 16,
     "private": false,
-    "downloads": 8,
+    "downloads": 9,
     "tags": [
       "transformers",
       "gguf",
@@ -78918,7 +78919,7 @@
     "id": "TheBloke/OrcaMaid-v2-FIX-13B-32k-GPTQ",
     "likes": 3,
     "private": false,
-    "downloads": 53,
+    "downloads": 54,
     "tags": [
       "transformers",
       "safetensors",
@@ -78972,7 +78973,7 @@
     "id": "TheBloke/mistral-ft-optimized-1218-AWQ",
     "likes": 1,
     "private": false,
-    "downloads": 46,
+    "downloads": 51,
     "tags": [
       "transformers",
       "safetensors",
@@ -78996,7 +78997,7 @@
     "id": "TheBloke/mistral-ft-optimized-1218-GPTQ",
     "likes": 2,
     "private": false,
-    "downloads": 23,
+    "downloads": 32,
     "tags": [
       "transformers",
       "safetensors",
@@ -79076,7 +79077,7 @@
     "id": "TheBloke/dolphin-2.6-mixtral-8x7b-GPTQ",
     "likes": 3,
     "private": false,
-    "downloads": 131,
+    "downloads": 153,
     "tags": [
       "transformers",
       "safetensors",
@@ -79107,7 +79108,7 @@
     "id": "TheBloke/dolphin-2.6-mixtral-8x7b-GGUF",
     "likes": 18,
     "private": false,
-    "downloads": 4,
+    "downloads": 25,
     "tags": [
       "transformers",
       "gguf",
@@ -79161,7 +79162,7 @@
     "id": "TheBloke/WizardMath-7B-V1.1-GPTQ",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 1,
     "tags": [
       "transformers",
       "safetensors",
@@ -79271,7 +79272,7 @@
     "id": "TheBloke/MixtralRPChat-ZLoss-GPTQ",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 1,
     "tags": [
       "transformers",
       "safetensors",
@@ -79302,7 +79303,7 @@
     "id": "TheBloke/dolphin-2.6-mixtral-8x7b-AWQ",
     "likes": 2,
     "private": false,
-    "downloads": 46,
+    "downloads": 100,
     "tags": [
       "transformers",
       "safetensors",
@@ -79379,7 +79380,7 @@
     "id": "TheBloke/Mixtral-8x7B-MoE-RP-Story-AWQ",
     "likes": 0,
     "private": false,
-    "downloads": 4,
+    "downloads": 8,
     "tags": [
       "transformers",
       "safetensors",
@@ -79404,7 +79405,7 @@
     "id": "TheBloke/Mixtral-SlimOrca-8x7B-AWQ",
     "likes": 1,
     "private": false,
-    "downloads": 62,
+    "downloads": 87,
     "tags": [
       "transformers",
       "safetensors",
@@ -79483,7 +79484,7 @@
     "id": "TheBloke/Mixtral-Fusion-4x7B-Instruct-v0.1-AWQ",
     "likes": 0,
     "private": false,
-    "downloads": 16,
+    "downloads": 75,
     "tags": [
       "transformers",
       "safetensors",
@@ -79511,7 +79512,7 @@
     "id": "TheBloke/openbuddy-mixtral-8x7b-v15.2-AWQ",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 2,
     "tags": [
       "transformers",
       "safetensors",
@@ -79564,7 +79565,7 @@
     "id": "TheBloke/orangetin-OpenHermes-Mixtral-8x7B-AWQ",
     "likes": 0,
     "private": false,
-    "downloads": 5,
+    "downloads": 6,
     "tags": [
       "transformers",
       "safetensors",
@@ -79625,7 +79626,7 @@
     "id": "TheBloke/CodeNinja-1.0-OpenChat-7B-AWQ",
     "likes": 0,
     "private": false,
-    "downloads": 14,
+    "downloads": 18,
     "tags": [
       "transformers",
       "safetensors",
@@ -79652,7 +79653,7 @@
     "id": "TheBloke/CodeNinja-1.0-OpenChat-7B-GPTQ",
     "likes": 2,
     "private": false,
-    "downloads": 28,
+    "downloads": 35,
     "tags": [
       "transformers",
       "safetensors",
@@ -79679,7 +79680,7 @@
     "id": "TheBloke/CodeNinja-1.0-OpenChat-7B-GGUF",
     "likes": 14,
     "private": false,
-    "downloads": 1,
+    "downloads": 6,
     "tags": [
       "transformers",
       "gguf",
@@ -79704,7 +79705,7 @@
     "id": "TheBloke/Llamix2-MLewd-4x13B-AWQ",
     "likes": 0,
     "private": false,
-    "downloads": 10,
+    "downloads": 58,
     "tags": [
       "transformers",
       "safetensors",
@@ -79729,7 +79730,7 @@
     "id": "TheBloke/firefly-mixtral-8x7b-AWQ",
     "likes": 1,
     "private": false,
-    "downloads": 27,
+    "downloads": 30,
     "tags": [
       "transformers",
       "safetensors",
@@ -79784,7 +79785,7 @@
     "id": "TheBloke/SauerkrautLM-SOLAR-Instruct-GPTQ",
     "likes": 1,
     "private": false,
-    "downloads": 11,
+    "downloads": 15,
     "tags": [
       "transformers",
       "safetensors",
@@ -79815,7 +79816,7 @@
     "id": "TheBloke/SauerkrautLM-SOLAR-Instruct-GGUF",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 1,
     "tags": [
       "transformers",
       "gguf",
@@ -79867,7 +79868,7 @@
     "id": "TheBloke/SAM-GGUF",
     "likes": 4,
     "private": false,
-    "downloads": 2,
+    "downloads": 3,
     "tags": [
       "transformers",
       "gguf",
@@ -79887,7 +79888,7 @@
     "id": "TheBloke/SAM-GPTQ",
     "likes": 0,
     "private": false,
-    "downloads": 2,
+    "downloads": 3,
     "tags": [
       "transformers",
       "safetensors",
@@ -79911,7 +79912,7 @@
     "id": "TheBloke/bun_mistral_7b_v2-GPTQ",
     "likes": 2,
     "private": false,
-    "downloads": 2,
+    "downloads": 3,
     "tags": [
       "transformers",
       "safetensors",
@@ -79982,7 +79983,7 @@
     "id": "TheBloke/Mixtral_7Bx2_MoE-GPTQ",
     "likes": 1,
     "private": false,
-    "downloads": 7,
+    "downloads": 78,
     "tags": [
       "transformers",
       "safetensors",
@@ -80024,7 +80025,7 @@
     "id": "TheBloke/Mixtral_7Bx2_MoE-AWQ",
     "likes": 0,
     "private": false,
-    "downloads": 10,
+    "downloads": 19,
     "tags": [
       "transformers",
       "safetensors",
@@ -80047,7 +80048,7 @@
     "id": "TheBloke/Valkyrie-V1-GPTQ",
     "likes": 0,
     "private": false,
-    "downloads": 2,
+    "downloads": 3,
     "tags": [
       "transformers",
       "safetensors",
@@ -80093,7 +80094,7 @@
     "id": "TheBloke/Valkyrie-V1-GGUF",
     "likes": 1,
     "private": false,
-    "downloads": 1,
+    "downloads": 2,
     "tags": [
       "transformers",
       "gguf",
@@ -80143,7 +80144,7 @@
     "id": "TheBloke/LUNA-SOLARkrautLM-Instruct-GPTQ",
     "likes": 1,
     "private": false,
-    "downloads": 2,
+    "downloads": 4,
     "tags": [
       "transformers",
       "safetensors",
@@ -80174,7 +80175,7 @@
     "id": "TheBloke/LUNA-SOLARkrautLM-Instruct-GGUF",
     "likes": 3,
     "private": false,
-    "downloads": 2,
+    "downloads": 9,
     "tags": [
       "transformers",
       "gguf",
@@ -80202,7 +80203,7 @@
     "id": "TheBloke/Sensei-7B-V1-GPTQ",
     "likes": 0,
     "private": false,
-    "downloads": 1,
+    "downloads": 2,
     "tags": [
       "transformers",
       "safetensors",
@@ -80224,7 +80225,7 @@
     "id": "TheBloke/Sensei-7B-V1-AWQ",
     "likes": 0,
     "private": false,
-    "downloads": 1,
+    "downloads": 8,
     "tags": [
       "transformers",
       "safetensors",
@@ -80246,7 +80247,7 @@
     "id": "TheBloke/Sensei-7B-V1-GGUF",
     "likes": 1,
     "private": false,
-    "downloads": 1,
+    "downloads": 13,
     "tags": [
       "transformers",
       "gguf",
@@ -80264,7 +80265,7 @@
     "id": "TheBloke/Orca2myth7.2-GGUF",
     "likes": 4,
     "private": false,
-    "downloads": 2,
+    "downloads": 7,
     "tags": [
       "transformers",
       "gguf",
@@ -80283,7 +80284,7 @@
     "id": "TheBloke/Orca2myth7.2-AWQ",
     "likes": 1,
     "private": false,
-    "downloads": 1,
+    "downloads": 4,
     "tags": [
       "transformers",
       "safetensors",
@@ -80306,7 +80307,7 @@
     "id": "TheBloke/Orca2myth7.2-GPTQ",
     "likes": 2,
     "private": false,
-    "downloads": 11,
+    "downloads": 17,
     "tags": [
       "transformers",
       "safetensors",
@@ -80355,7 +80356,7 @@
     "id": "TheBloke/dolphin-2_6-phi-2-GPTQ",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 1,
     "tags": [
       "transformers",
       "safetensors",
@@ -80404,7 +80405,7 @@
     "id": "TheBloke/SauerkrautLM-UNA-SOLAR-Instruct-GPTQ",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 4,
     "tags": [
       "transformers",
       "safetensors",
@@ -80427,7 +80428,7 @@
     "id": "TheBloke/SauerkrautLM-UNA-SOLAR-Instruct-AWQ",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 1,
     "tags": [
       "transformers",
       "safetensors",
@@ -80500,7 +80501,7 @@
     "id": "TheBloke/typhoon-7B-GPTQ",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 1,
     "tags": [
       "transformers",
       "safetensors",
@@ -80544,7 +80545,7 @@
     "id": "TheBloke/LMCocktail-10.7B-v1-GPTQ",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 1,
     "tags": [
       "transformers",
       "safetensors",
@@ -80681,7 +80682,7 @@
     "id": "TheBloke/LMCocktail-phi-2-v1-GPTQ",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 1,
     "tags": [
       "transformers",
       "safetensors",
@@ -80727,7 +80728,7 @@
     "id": "TheBloke/apricot-wildflower-20-GPTQ",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 1,
     "tags": [
       "transformers",
       "safetensors",
@@ -80791,7 +80792,7 @@
     "id": "TheBloke/DaringMaid-13B-GPTQ",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 1,
     "tags": [
       "transformers",
       "safetensors",
@@ -80887,7 +80888,7 @@
     "id": "TheBloke/Loyal-Macaroni-Maid-7B-GPTQ",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 10,
     "tags": [
       "transformers",
       "safetensors",
@@ -80936,7 +80937,7 @@
     "id": "TheBloke/openbuddy-mixtral-8x7b-v15.4-AWQ",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 7,
     "tags": [
       "transformers",
       "safetensors",
@@ -81063,7 +81064,7 @@
     "id": "TheBloke/Noromaid-v0.1-mixtral-8x7b-v3-AWQ",
     "likes": 0,
     "private": false,
-    "downloads": 0,
+    "downloads": 1,
     "tags": [
       "transformers",
       "safetensors",
