@@ -52298,7 +52298,7 @@
   {
     "_id": "65403e7339948eb634bfcdff",
     "id": "TheBloke/dolphin-2.2.1-mistral-7B-GGUF",
-    "likes": 90,
+    "likes": 91,
     "private": false,
     "downloads": 183,
     "tags": [
@@ -81575,9 +81575,104 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "llm",
+      "fine-tune",
+      "yi",
+      "dataset:adamo1139/AEZAKMI_v2",
+      "base_model:adamo1139/Yi-34B-200K-AEZAKMI-v2",
+      "license:other",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-26T10:18:58.000Z",
     "modelId": "TheBloke/Yi-34B-200K-AEZAKMI-v2-AWQ"
+  },
+  {
+    "_id": "658ab0cf067630f69fa2ed1c",
+    "id": "TheBloke/openthaigpt-1.0.0-beta-13B-chat-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-26T10:54:07.000Z",
+    "modelId": "TheBloke/openthaigpt-1.0.0-beta-13B-chat-GPTQ"
+  },
+  {
+    "_id": "658ab0cfbb5062b4de25292c",
+    "id": "TheBloke/openthaigpt-1.0.0-beta-13B-chat-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "llama",
+      "openthaigpt",
+      "text-generation",
+      "th",
+      "en",
+      "base_model:openthaigpt/openthaigpt-1.0.0-beta-13b-chat-hf",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-26T10:54:07.000Z",
+    "modelId": "TheBloke/openthaigpt-1.0.0-beta-13B-chat-GGUF"
+  },
+  {
+    "_id": "658ab0cfeac1c5dac0fd3d8c",
+    "id": "TheBloke/openthaigpt-1.0.0-beta-13B-chat-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-26T10:54:07.000Z",
+    "modelId": "TheBloke/openthaigpt-1.0.0-beta-13B-chat-AWQ"
+  },
+  {
+    "_id": "658ab1522021ba68d7dee885",
+    "id": "TheBloke/neural-chat-7B-v3-3-wizardmath-dare-me-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "merge",
+      "base_model:SanjiWatsuki/neural-chat-7b-v3-3-wizardmath-dare-me",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-26T10:56:18.000Z",
+    "modelId": "TheBloke/neural-chat-7B-v3-3-wizardmath-dare-me-GGUF"
+  },
+  {
+    "_id": "658ab1528dd421948715edba",
+    "id": "TheBloke/neural-chat-7B-v3-3-wizardmath-dare-me-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-26T10:56:18.000Z",
+    "modelId": "TheBloke/neural-chat-7B-v3-3-wizardmath-dare-me-AWQ"
   }
 ]
