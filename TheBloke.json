@@ -49214,7 +49214,7 @@
   {
     "_id": "65354f239860c1cb37ed08c3",
     "id": "TheBloke/CausalLM-7B-GGUF",
-    "likes": 23,
+    "likes": 24,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -52486,7 +52486,7 @@
   {
     "_id": "65412e15271d3bc4d7062b70",
     "id": "TheBloke/MetaMath-Mistral-7B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 31,
     "tags": [
@@ -77504,7 +77504,7 @@
   {
     "_id": "65816aa798af68af2d18ea6a",
     "id": "TheBloke/firefly-mixtral-8x7b-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 21,
     "tags": [
@@ -77528,7 +77528,7 @@
   {
     "_id": "65816aa7a760379049dec58a",
     "id": "TheBloke/firefly-mixtral-8x7b-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -79106,7 +79106,7 @@
   {
     "_id": "65856b8269dfb7bfc5006769",
     "id": "TheBloke/dolphin-2.6-mixtral-8x7b-GGUF",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 31,
     "tags": [
@@ -81452,8 +81452,26 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "xDAN-AI",
+      "OpenOrca",
+      "DPO",
+      "Self-Think",
+      "en",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:Intel/orca_dpo_pairs",
+      "base_model:xDAN-AI/xDAN-L1-Chat-RL-v1",
+      "license:cc-by-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-26T09:05:45.000Z",
     "modelId": "TheBloke/xDAN-L1-Chat-RL-v1-AWQ"
   }
