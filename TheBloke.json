@@ -27751,7 +27751,7 @@
   {
     "_id": "6508f0c07e0d56c271529d44",
     "id": "TheBloke/WizardCoder-Python-7B-V1.0-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 50,
     "tags": [
@@ -71228,7 +71228,7 @@
   {
     "_id": "65771780c793e5b72b0e8d68",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GPTQ",
-    "likes": 90,
+    "likes": 91,
     "private": false,
     "downloads": 4472,
     "tags": [
@@ -81319,7 +81319,7 @@
   {
     "_id": "658a86f44f349f95cf02eaa7",
     "id": "TheBloke/Nous-Hermes-2-Yi-34B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -81452,7 +81452,7 @@
   {
     "_id": "658a923fe3f7a2dcf0d67d5b",
     "id": "TheBloke/xDAN-L1-Chat-RL-v1-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -81508,7 +81508,7 @@
   {
     "_id": "658aa4bc65df457a5504fd78",
     "id": "TheBloke/xDAN-L1-Chat-RL-v1-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -81559,7 +81559,7 @@
   {
     "_id": "658aa89274d1a1cbd05fc9bc",
     "id": "TheBloke/Yi-34B-200K-AEZAKMI-v2-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -81602,8 +81602,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "openthaigpt",
+      "th",
+      "en",
+      "base_model:openthaigpt/openthaigpt-1.0.0-beta-13b-chat-hf",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-26T10:54:07.000Z",
     "modelId": "TheBloke/openthaigpt-1.0.0-beta-13B-chat-GPTQ"
   },
@@ -81746,5 +81760,41 @@
     "library_name": "transformers",
     "createdAt": "2023-12-26T11:15:43.000Z",
     "modelId": "TheBloke/openchat-3.5-1210-starling-slerp-GGUF"
+  },
+  {
+    "_id": "658abbb3a66bd1cdb2b8127a",
+    "id": "TheBloke/neural-chat-7B-v3-3-wizardmath-dare-me-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "merge",
+      "base_model:SanjiWatsuki/neural-chat-7b-v3-3-wizardmath-dare-me",
+      "license:other",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-26T11:40:35.000Z",
+    "modelId": "TheBloke/neural-chat-7B-v3-3-wizardmath-dare-me-GPTQ"
+  },
+  {
+    "_id": "658ac26ccef9b8827b59cdf7",
+    "id": "TheBloke/openchat-3.5-1210-starling-slerp-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-26T12:09:16.000Z",
+    "modelId": "TheBloke/openchat-3.5-1210-starling-slerp-GPTQ"
   }
 ]
