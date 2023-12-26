@@ -49553,7 +49553,7 @@
   {
     "_id": "6537e73728002e2b40c70740",
     "id": "TheBloke/HornyEchidna-13B-v0.1-GPTQ",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -71306,7 +71306,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 253,
+    "likes": 254,
     "private": false,
     "downloads": 601,
     "tags": [
@@ -81319,13 +81319,25 @@
   {
     "_id": "658a86f44f349f95cf02eaa7",
     "id": "TheBloke/Nous-Hermes-2-Yi-34B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "yi",
+      "instruct",
+      "finetune",
+      "chatml",
+      "gpt4",
+      "synthetic data",
+      "distillation",
+      "en",
+      "base_model:NousResearch/Nous-Hermes-2-Yi-34B",
+      "license:apache-2.0",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2023-12-26T07:55:32.000Z",
     "modelId": "TheBloke/Nous-Hermes-2-Yi-34B-GGUF"
   },
