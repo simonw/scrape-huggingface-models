@@ -76658,7 +76658,7 @@
   {
     "_id": "657f1fcdaf1698aaac65028a",
     "id": "TheBloke/PiVoT-MoE-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -78873,7 +78873,7 @@
   {
     "_id": "65845d562ae9280873b61516",
     "id": "TheBloke/mistral-ft-optimized-1218-GGUF",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -80328,7 +80328,7 @@
   {
     "_id": "65883baf586088fd275237cf",
     "id": "TheBloke/dolphin-2_6-phi-2-GGUF",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -81315,5 +81315,66 @@
     "library_name": "transformers",
     "createdAt": "2023-12-25T10:36:10.000Z",
     "modelId": "TheBloke/SauerkrautLM-Mixtral-8x7B-GPTQ"
+  },
+  {
+    "_id": "658a86f44f349f95cf02eaa7",
+    "id": "TheBloke/Nous-Hermes-2-Yi-34B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2023-12-26T07:55:32.000Z",
+    "modelId": "TheBloke/Nous-Hermes-2-Yi-34B-GGUF"
+  },
+  {
+    "_id": "658a86f474d1a1cbd05b93d6",
+    "id": "TheBloke/Nous-Hermes-2-Yi-34B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-26T07:55:32.000Z",
+    "modelId": "TheBloke/Nous-Hermes-2-Yi-34B-AWQ"
+  },
+  {
+    "_id": "658a86f4dda02636b020c5d0",
+    "id": "TheBloke/Nous-Hermes-2-Yi-34B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-26T07:55:32.000Z",
+    "modelId": "TheBloke/Nous-Hermes-2-Yi-34B-GPTQ"
+  },
+  {
+    "_id": "658a8991438d7b1ccf74d058",
+    "id": "TheBloke/Noromaid-v0.1-mixtral-8x7b-Instruct-v3-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-26T08:06:41.000Z",
+    "modelId": "TheBloke/Noromaid-v0.1-mixtral-8x7b-Instruct-v3-GPTQ"
+  },
+  {
+    "_id": "658a8991af21ea88a4834fcc",
+    "id": "TheBloke/Noromaid-v0.1-mixtral-8x7b-Instruct-v3-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-26T08:06:41.000Z",
+    "modelId": "TheBloke/Noromaid-v0.1-mixtral-8x7b-Instruct-v3-AWQ"
   }
 ]
