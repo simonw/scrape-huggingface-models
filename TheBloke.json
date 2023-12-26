@@ -2324,7 +2324,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 476,
+    "likes": 477,
     "private": false,
     "downloads": 61683,
     "tags": [
@@ -15427,7 +15427,7 @@
     "id": "TheBloke/Llama-2-13B-German-Assistant-v4-GPTQ",
     "likes": 15,
     "private": false,
-    "downloads": 359,
+    "downloads": 349,
     "tags": [
       "transformers",
       "safetensors",
@@ -15453,7 +15453,7 @@
     "id": "TheBloke/OpenOrca-Platypus2-13B-GPTQ",
     "likes": 48,
     "private": false,
-    "downloads": 2077,
+    "downloads": 2064,
     "tags": [
       "transformers",
       "safetensors",
@@ -15509,7 +15509,7 @@
     "id": "TheBloke/EverythingLM-13B-16K-GPTQ",
     "likes": 12,
     "private": false,
-    "downloads": 1736,
+    "downloads": 1738,
     "tags": [
       "transformers",
       "safetensors",
@@ -16479,7 +16479,7 @@
     "id": "TheBloke/Samantha-1.1-70B-GPTQ",
     "likes": 2,
     "private": false,
-    "downloads": 4,
+    "downloads": 2,
     "tags": [
       "transformers",
       "safetensors",
@@ -16506,7 +16506,7 @@
     "id": "TheBloke/Llama-2-7B-32K-Instruct-GPTQ",
     "likes": 27,
     "private": false,
-    "downloads": 178,
+    "downloads": 165,
     "tags": [
       "transformers",
       "safetensors",
@@ -80264,7 +80264,7 @@
   {
     "_id": "65871727bb5062b4dea7dfcc",
     "id": "TheBloke/Orca2myth7.2-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -80568,7 +80568,7 @@
   {
     "_id": "6588629a74d1a1cbd018c981",
     "id": "TheBloke/LMCocktail-10.7B-v1-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -81320,7 +81320,7 @@
   {
     "_id": "658a86f44f349f95cf02eaa7",
     "id": "TheBloke/Nous-Hermes-2-Yi-34B-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -81833,9 +81833,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "mixtral",
+      "uncensored",
+      "high-intelligence",
+      "en",
+      "base_model:smelborp/MixtralOrochi8x7B",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2023-12-26T19:54:02.000Z",
     "modelId": "TheBloke/MixtralOrochi8x7B-GGUF"
   },
