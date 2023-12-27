@@ -49058,7 +49058,7 @@
   {
     "_id": "6534e9dfdc1c6f1ed7081308",
     "id": "TheBloke/LLaMA2-13B-Tiefighter-GPTQ",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 8660,
     "tags": [
@@ -55192,7 +55192,7 @@
   {
     "_id": "654b77492bb88ac00d91af93",
     "id": "TheBloke/Psyfighter-13B-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 38,
     "tags": [
@@ -71213,7 +71213,7 @@
   {
     "_id": "65770d54b2b935d83f6ea4d1",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GGUF",
-    "likes": 305,
+    "likes": 306,
     "private": false,
     "downloads": 470,
     "tags": [
@@ -80213,7 +80213,7 @@
   {
     "_id": "658716a8003ceee69301b434",
     "id": "TheBloke/Sensei-7B-V1-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -81918,8 +81918,23 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "merge",
+      "not-for-all-audiences",
+      "nsfw",
+      "en",
+      "base_model:SanjiWatsuki/Silicon-Maid-7B",
+      "license:cc-by-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-27T13:26:56.000Z",
     "modelId": "TheBloke/Silicon-Maid-7B-AWQ"
   },
@@ -81930,8 +81945,23 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "merge",
+      "not-for-all-audiences",
+      "nsfw",
+      "en",
+      "base_model:SanjiWatsuki/Silicon-Maid-7B",
+      "license:cc-by-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-27T13:26:56.000Z",
     "modelId": "TheBloke/Silicon-Maid-7B-GPTQ"
   },
