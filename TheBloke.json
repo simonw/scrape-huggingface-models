@@ -22983,7 +22983,7 @@
   {
     "_id": "64f7855ea05ed443071357f2",
     "id": "TheBloke/WizardLM-1.0-Uncensored-CodeLlama-34B-GGUF",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -81910,5 +81910,52 @@
     "library_name": "transformers",
     "createdAt": "2023-12-26T19:54:02.000Z",
     "modelId": "TheBloke/MixtralOrochi8x7B-GPTQ"
+  },
+  {
+    "_id": "658c26205a8f8a309e86a06b",
+    "id": "TheBloke/Silicon-Maid-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-27T13:26:56.000Z",
+    "modelId": "TheBloke/Silicon-Maid-7B-AWQ"
+  },
+  {
+    "_id": "658c2620c1229bf11329f37b",
+    "id": "TheBloke/Silicon-Maid-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-27T13:26:56.000Z",
+    "modelId": "TheBloke/Silicon-Maid-7B-GPTQ"
+  },
+  {
+    "_id": "658c2620e39d6db3ddd0f036",
+    "id": "TheBloke/Silicon-Maid-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "merge",
+      "not-for-all-audiences",
+      "nsfw",
+      "en",
+      "base_model:SanjiWatsuki/Silicon-Maid-7B",
+      "license:cc-by-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-27T13:26:56.000Z",
+    "modelId": "TheBloke/Silicon-Maid-7B-GGUF"
   }
 ]
