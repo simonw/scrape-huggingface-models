@@ -73942,7 +73942,7 @@
   {
     "_id": "657ada27e4a10c4beb2a8408",
     "id": "TheBloke/dolphin-2.5-mixtral-8x7b-GPTQ",
-    "likes": 51,
+    "likes": 52,
     "private": false,
     "downloads": 2438,
     "tags": [
@@ -81464,7 +81464,7 @@
   {
     "_id": "658a923fe3f7a2dcf0d67d5b",
     "id": "TheBloke/xDAN-L1-Chat-RL-v1-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -82108,9 +82108,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "llama",
+      "en",
+      "arxiv:2307.11760",
+      "base_model:sophosympatheia/Aurora-Nights-70B-v1.0",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2023-12-28T10:13:54.000Z",
     "modelId": "TheBloke/Aurora-Nights-70B-v1.0-GGUF"
   },
@@ -82121,9 +82129,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "llama",
+      "en",
+      "arxiv:2307.11760",
+      "base_model:sophosympatheia/Aurora-Nights-103B-v1.0",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2023-12-28T10:21:29.000Z",
     "modelId": "TheBloke/Aurora-Nights-103B-v1.0-GGUF"
   },
