@@ -819,7 +819,7 @@
     "id": "TheBloke/dromedary-65b-lora-HF",
     "likes": 20,
     "private": false,
-    "downloads": 1646,
+    "downloads": 1671,
     "tags": [
       "transformers",
       "pytorch",
@@ -904,7 +904,7 @@
     "id": "TheBloke/h2ogpt-oasst1-512-30B-HF",
     "likes": 2,
     "private": false,
-    "downloads": 1667,
+    "downloads": 1694,
     "tags": [
       "transformers",
       "pytorch",
@@ -945,7 +945,7 @@
     "id": "TheBloke/gpt4-alpaca-lora_mlp-65B-HF",
     "likes": 7,
     "private": false,
-    "downloads": 1684,
+    "downloads": 1712,
     "tags": [
       "transformers",
       "pytorch",
@@ -1010,7 +1010,7 @@
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
     "likes": 269,
     "private": false,
-    "downloads": 64829,
+    "downloads": 63378,
     "tags": [
       "transformers",
       "safetensors",
@@ -1037,7 +1037,7 @@
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-HF",
     "likes": 202,
     "private": false,
-    "downloads": 3030,
+    "downloads": 3064,
     "tags": [
       "transformers",
       "pytorch",
@@ -1086,7 +1086,7 @@
     "id": "TheBloke/wizard-mega-13B-GPTQ",
     "likes": 103,
     "private": false,
-    "downloads": 1730,
+    "downloads": 1753,
     "tags": [
       "transformers",
       "safetensors",
@@ -69029,7 +69029,7 @@
   {
     "_id": "6570f1859e8dc83ed5907acb",
     "id": "TheBloke/Magicoder-S-DS-6.7B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 2001,
     "tags": [
@@ -80215,7 +80215,7 @@
   {
     "_id": "658716a8003ceee69301b434",
     "id": "TheBloke/Sensei-7B-V1-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -80368,7 +80368,7 @@
   {
     "_id": "65883baf74d1a1cbd0142b7a",
     "id": "TheBloke/dolphin-2_6-phi-2-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 44,
     "tags": [
@@ -82024,7 +82024,7 @@
   {
     "_id": "658d412a7ff4aa6aa79b7100",
     "id": "TheBloke/dolphin-2.6-mistral-7B-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -82298,8 +82298,10 @@
       "safetensors",
       "mixtral",
       "text-generation",
+      "ko",
+      "base_model:DopeorNope/SOLARC-MOE-10.7Bx4",
+      "license:cc-by-nc-sa-4.0",
       "autotrain_compatible",
-      "endpoints_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -82308,5 +82310,17 @@
     "library_name": "transformers",
     "createdAt": "2023-12-28T15:17:44.000Z",
     "modelId": "TheBloke/SOLARC-MOE-10.7Bx4-GPTQ"
+  },
+  {
+    "_id": "658dac0c18e84d1c8f974f85",
+    "id": "TheBloke/Sakura-SOLAR-Instruct-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-28T17:10:36.000Z",
+    "modelId": "TheBloke/Sakura-SOLAR-Instruct-GPTQ"
   }
 ]
