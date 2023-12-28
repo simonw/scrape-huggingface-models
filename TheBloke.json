@@ -58306,7 +58306,7 @@
   {
     "_id": "655541e76eb0a1c7c375c3fc",
     "id": "TheBloke/Thespis-Mistral-7B-v0.6-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -65048,7 +65048,7 @@
   {
     "_id": "6564fbee18d648e7cca1d112",
     "id": "TheBloke/Starling-LM-7B-alpha-GGUF",
-    "likes": 65,
+    "likes": 67,
     "private": false,
     "downloads": 121,
     "tags": [
@@ -82175,9 +82175,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "solar",
+      "text-generation",
+      "en",
+      "base_model:kyujinpy/Sakura-SOLAR-Instruct",
+      "license:cc-by-nc-sa-4.0",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-28T13:06:33.000Z",
     "modelId": "TheBloke/Sakura-SOLAR-Instruct-GGUF"
   },
@@ -82188,8 +82196,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "base_model:kyujinpy/Sakura-SOLAR-Instruct",
+      "license:cc-by-nc-sa-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-28T13:06:33.000Z",
     "modelId": "TheBloke/Sakura-SOLAR-Instruct-AWQ"
   }
