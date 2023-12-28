@@ -55686,7 +55686,7 @@
   {
     "_id": "654cd5c878c68b6d4c71df7c",
     "id": "TheBloke/goliath-120b-GGUF",
-    "likes": 79,
+    "likes": 80,
     "private": false,
     "downloads": 1193,
     "tags": [
@@ -74110,7 +74110,8 @@
       "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
