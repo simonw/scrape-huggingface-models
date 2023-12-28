@@ -52354,7 +52354,7 @@
   {
     "_id": "654042284a4828900083688a",
     "id": "TheBloke/dolphin-2.2.1-mistral-7B-GPTQ",
-    "likes": 28,
+    "likes": 29,
     "private": false,
     "downloads": 1984,
     "tags": [
@@ -82022,7 +82022,7 @@
   {
     "_id": "658d412a7ff4aa6aa79b7100",
     "id": "TheBloke/dolphin-2.6-mistral-7B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -82233,8 +82233,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mixtral",
+      "text-generation",
+      "ko",
+      "base_model:DopeorNope/SOLARC-MOE-10.7Bx4",
+      "license:cc-by-nc-sa-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-28T14:17:15.000Z",
     "modelId": "TheBloke/SOLARC-MOE-10.7Bx4-AWQ"
   },
@@ -82245,9 +82257,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "mixtral",
+      "text-generation",
+      "ko",
+      "base_model:DopeorNope/SOLARC-MOE-10.7Bx4",
+      "license:cc-by-nc-sa-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-28T14:17:15.000Z",
     "modelId": "TheBloke/SOLARC-MOE-10.7Bx4-GGUF"
   }
