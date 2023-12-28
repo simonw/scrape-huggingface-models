@@ -74110,8 +74110,7 @@
       "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -82097,8 +82096,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "arxiv:2307.11760",
+      "base_model:sophosympatheia/Aurora-Nights-70B-v1.0",
+      "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-28T10:13:54.000Z",
     "modelId": "TheBloke/Aurora-Nights-70B-v1.0-AWQ"
   },
@@ -82155,5 +82167,30 @@
     ],
     "createdAt": "2023-12-28T10:21:29.000Z",
     "modelId": "TheBloke/Aurora-Nights-103B-v1.0-AWQ"
+  },
+  {
+    "_id": "658d72d929462e6c41a155b2",
+    "id": "TheBloke/Sakura-SOLAR-Instruct-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2023-12-28T13:06:33.000Z",
+    "modelId": "TheBloke/Sakura-SOLAR-Instruct-GGUF"
+  },
+  {
+    "_id": "658d72d96f797d950bb125b8",
+    "id": "TheBloke/Sakura-SOLAR-Instruct-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-28T13:06:33.000Z",
+    "modelId": "TheBloke/Sakura-SOLAR-Instruct-AWQ"
   }
 ]
