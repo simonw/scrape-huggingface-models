@@ -40292,7 +40292,7 @@
   {
     "_id": "651605b15671e6529662d1e0",
     "id": "TheBloke/NexusRaven-13B-GGUF",
-    "likes": 18,
+    "likes": 19,
     "private": false,
     "downloads": 27,
     "tags": [
@@ -62966,7 +62966,7 @@
   {
     "_id": "655f87d448695217d53ccf07",
     "id": "TheBloke/Synatra-RP-Orca-2-7B-v0.1-GGUF",
-    "likes": 2,
+    "likes": 1,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -79118,7 +79118,7 @@
   {
     "_id": "65856b8269dfb7bfc5006769",
     "id": "TheBloke/dolphin-2.6-mixtral-8x7b-GGUF",
-    "likes": 29,
+    "likes": 30,
     "private": false,
     "downloads": 48,
     "tags": [
@@ -81941,7 +81941,7 @@
   {
     "_id": "658c2620c1229bf11329f37b",
     "id": "TheBloke/Silicon-Maid-7B-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 15,
     "tags": [
@@ -81987,5 +81987,42 @@
     "library_name": "transformers",
     "createdAt": "2023-12-27T13:26:56.000Z",
     "modelId": "TheBloke/Silicon-Maid-7B-GGUF"
+  },
+  {
+    "_id": "658d412a077d14ff7e90388e",
+    "id": "TheBloke/dolphin-2.6-mistral-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-28T09:34:34.000Z",
+    "modelId": "TheBloke/dolphin-2.6-mistral-7B-AWQ"
+  },
+  {
+    "_id": "658d412a7ff4aa6aa79b7100",
+    "id": "TheBloke/dolphin-2.6-mistral-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2023-12-28T09:34:34.000Z",
+    "modelId": "TheBloke/dolphin-2.6-mistral-7B-GGUF"
+  },
+  {
+    "_id": "658d412ac5e29d4516d2267e",
+    "id": "TheBloke/dolphin-2.6-mistral-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-28T09:34:34.000Z",
+    "modelId": "TheBloke/dolphin-2.6-mistral-7B-GPTQ"
   }
 ]
