@@ -39447,7 +39447,7 @@
   {
     "_id": "65148276ac849a6655d267e9",
     "id": "TheBloke/Mistral-7B-v0.1-AWQ",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 2220,
     "tags": [
@@ -73942,7 +73942,7 @@
   {
     "_id": "657ada27e4a10c4beb2a8408",
     "id": "TheBloke/dolphin-2.5-mixtral-8x7b-GPTQ",
-    "likes": 52,
+    "likes": 53,
     "private": false,
     "downloads": 2438,
     "tags": [
@@ -80397,7 +80397,7 @@
   {
     "_id": "65883d941b44d0e6941d55a8",
     "id": "TheBloke/SauerkrautLM-UNA-SOLAR-Instruct-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -82117,7 +82117,7 @@
   {
     "_id": "658d4a6263d9c84928f4f38c",
     "id": "TheBloke/Aurora-Nights-70B-v1.0-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -82163,8 +82163,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "en",
+      "arxiv:2307.11760",
+      "base_model:sophosympatheia/Aurora-Nights-103B-v1.0",
+      "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-28T10:21:29.000Z",
     "modelId": "TheBloke/Aurora-Nights-103B-v1.0-AWQ"
   },
