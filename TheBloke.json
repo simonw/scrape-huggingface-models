@@ -42542,7 +42542,7 @@
   {
     "_id": "651da0ff301b7bb5c4112da9",
     "id": "TheBloke/Amethyst-13B-Mistral-GGUF",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 20,
     "tags": [
@@ -71504,7 +71504,7 @@
   {
     "_id": "65778ac662d3ac1817cc9201",
     "id": "TheBloke/Mistral-7B-Instruct-v0.2-GGUF",
-    "likes": 83,
+    "likes": 84,
     "private": false,
     "downloads": 485,
     "tags": [
@@ -82076,5 +82076,66 @@
     "library_name": "transformers",
     "createdAt": "2023-12-28T09:34:34.000Z",
     "modelId": "TheBloke/dolphin-2.6-mistral-7B-GPTQ"
+  },
+  {
+    "_id": "658d4a61e39d6db3ddfcb2b5",
+    "id": "TheBloke/Aurora-Nights-70B-v1.0-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-28T10:13:53.000Z",
+    "modelId": "TheBloke/Aurora-Nights-70B-v1.0-GPTQ"
+  },
+  {
+    "_id": "658d4a6263d9c84928f4f38b",
+    "id": "TheBloke/Aurora-Nights-70B-v1.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-28T10:13:54.000Z",
+    "modelId": "TheBloke/Aurora-Nights-70B-v1.0-AWQ"
+  },
+  {
+    "_id": "658d4a6263d9c84928f4f38c",
+    "id": "TheBloke/Aurora-Nights-70B-v1.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2023-12-28T10:13:54.000Z",
+    "modelId": "TheBloke/Aurora-Nights-70B-v1.0-GGUF"
+  },
+  {
+    "_id": "658d4c294a815851ad884d0b",
+    "id": "TheBloke/Aurora-Nights-103B-v1.0-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-28T10:21:29.000Z",
+    "modelId": "TheBloke/Aurora-Nights-103B-v1.0-GGUF"
+  },
+  {
+    "_id": "658d4c2974e79b9a8ecfab48",
+    "id": "TheBloke/Aurora-Nights-103B-v1.0-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-28T10:21:29.000Z",
+    "modelId": "TheBloke/Aurora-Nights-103B-v1.0-AWQ"
   }
 ]
