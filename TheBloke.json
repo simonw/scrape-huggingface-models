@@ -34139,7 +34139,8 @@
       "base_model:ehartford/Wizard-Vicuna-7B-Uncensored",
       "license:other",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "library_name": "transformers",
     "createdAt": "2023-09-19T23:07:40.000Z",
@@ -55687,7 +55688,7 @@
   {
     "_id": "654cd5c878c68b6d4c71df7c",
     "id": "TheBloke/goliath-120b-GGUF",
-    "likes": 81,
+    "likes": 82,
     "private": false,
     "downloads": 1156,
     "tags": [
@@ -65049,7 +65050,7 @@
   {
     "_id": "6564fbee18d648e7cca1d112",
     "id": "TheBloke/Starling-LM-7B-alpha-GGUF",
-    "likes": 67,
+    "likes": 68,
     "private": false,
     "downloads": 125,
     "tags": [
@@ -79691,7 +79692,7 @@
   {
     "_id": "6585ed2adc3718bab85482e2",
     "id": "TheBloke/CodeNinja-1.0-OpenChat-7B-GGUF",
-    "likes": 23,
+    "likes": 24,
     "private": false,
     "downloads": 10,
     "tags": [
