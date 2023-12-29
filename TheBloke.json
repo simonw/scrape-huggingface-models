@@ -63056,7 +63056,7 @@
   {
     "_id": "655f89ed737830f9947e8fbd",
     "id": "TheBloke/Yi-34B-Chat-GGUF",
-    "likes": 36,
+    "likes": 37,
     "private": false,
     "downloads": 71,
     "tags": [
@@ -82367,9 +82367,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "mistral",
+      "base_model:Mihaiii/Metis-0.5",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2023-12-29T14:32:58.000Z",
     "modelId": "TheBloke/Metis-0.5-GGUF"
   },
@@ -82380,8 +82386,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "custom_code",
+      "base_model:Mihaiii/Metis-0.5",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-29T14:32:58.000Z",
     "modelId": "TheBloke/Metis-0.5-AWQ"
   },
@@ -82392,9 +82410,106 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "custom_code",
+      "base_model:Mihaiii/Metis-0.5",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-29T14:32:58.000Z",
     "modelId": "TheBloke/Metis-0.5-GPTQ"
+  },
+  {
+    "_id": "658eda9a2a0a886ef0e983b8",
+    "id": "TheBloke/docsgpt-7B-mistral-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "rag",
+      "closed-qa",
+      "context",
+      "base_model:Arc53/docsgpt-7b-mistral",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-29T14:41:30.000Z",
+    "modelId": "TheBloke/docsgpt-7B-mistral-GGUF"
+  },
+  {
+    "_id": "658edabf33d72b44f07e4414",
+    "id": "TheBloke/docsgpt-7B-mistral-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "rag",
+      "closed-qa",
+      "context",
+      "base_model:Arc53/docsgpt-7b-mistral",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-29T14:42:07.000Z",
+    "modelId": "TheBloke/docsgpt-7B-mistral-AWQ"
+  },
+  {
+    "_id": "658edc9c77105e6e40bdc281",
+    "id": "TheBloke/notux-8x7b-v1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2023-12-29T14:50:04.000Z",
+    "modelId": "TheBloke/notux-8x7b-v1-GGUF"
+  },
+  {
+    "_id": "658edf7b0f4519bfc249c074",
+    "id": "TheBloke/notux-8x7b-v1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-29T15:02:19.000Z",
+    "modelId": "TheBloke/notux-8x7b-v1-AWQ"
+  },
+  {
+    "_id": "658ee0439e16fa7510185a33",
+    "id": "TheBloke/docsgpt-7B-mistral-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-29T15:05:39.000Z",
+    "modelId": "TheBloke/docsgpt-7B-mistral-GPTQ"
   }
 ]
