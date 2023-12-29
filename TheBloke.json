@@ -69472,7 +69472,7 @@
   {
     "_id": "65724ecb59773fd21b532d75",
     "id": "TheBloke/dolphin-2.2-yi-34b-200k-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -81333,7 +81333,7 @@
   {
     "_id": "658a86f44f349f95cf02eaa7",
     "id": "TheBloke/Nous-Hermes-2-Yi-34B-GGUF",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -82359,5 +82359,42 @@
     "library_name": "transformers",
     "createdAt": "2023-12-28T17:53:49.000Z",
     "modelId": "TheBloke/Aurora-Nights-103B-v1.0-GPTQ"
+  },
+  {
+    "_id": "658ed89a16227c7a2dec9345",
+    "id": "TheBloke/Metis-0.5-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2023-12-29T14:32:58.000Z",
+    "modelId": "TheBloke/Metis-0.5-GGUF"
+  },
+  {
+    "_id": "658ed89a54f88261739c563a",
+    "id": "TheBloke/Metis-0.5-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-29T14:32:58.000Z",
+    "modelId": "TheBloke/Metis-0.5-AWQ"
+  },
+  {
+    "_id": "658ed89a9e16fa751016b812",
+    "id": "TheBloke/Metis-0.5-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-29T14:32:58.000Z",
+    "modelId": "TheBloke/Metis-0.5-GPTQ"
   }
 ]
