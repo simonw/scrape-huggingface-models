@@ -68284,7 +68284,7 @@
   {
     "_id": "657041bb14fa8cfccd457a18",
     "id": "TheBloke/una-cybertron-7B-v2-GGUF",
-    "likes": 29,
+    "likes": 28,
     "private": false,
     "downloads": 20,
     "tags": [
@@ -73013,7 +73013,7 @@
   {
     "_id": "6579ae291b1c5bff9be6e86c",
     "id": "TheBloke/SOLAR-10.7B-Instruct-v1.0-GGUF",
-    "likes": 58,
+    "likes": 59,
     "private": false,
     "downloads": 108,
     "tags": [
@@ -80490,7 +80490,7 @@
   {
     "_id": "65885b6c15b65eb9bae270f1",
     "id": "TheBloke/typhoon-7B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -82025,7 +82025,7 @@
   {
     "_id": "658d412a7ff4aa6aa79b7100",
     "id": "TheBloke/dolphin-2.6-mistral-7B-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -82643,8 +82643,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "llm",
+      "spellcheck",
+      "grammar",
+      "base_model:FPHam/Sarah_StoryTeller_13b_HF",
+      "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-29T15:58:40.000Z",
     "modelId": "TheBloke/Sarah_StoryTeller_13b-AWQ"
   },
@@ -82668,5 +82682,17 @@
     "library_name": "transformers",
     "createdAt": "2023-12-29T15:58:51.000Z",
     "modelId": "TheBloke/MLewd-v2.4-13B-GGUF"
+  },
+  {
+    "_id": "658ef320a33889b27f4dbf80",
+    "id": "TheBloke/Synthia-v3.0-11B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-29T16:26:08.000Z",
+    "modelId": "TheBloke/Synthia-v3.0-11B-AWQ"
   }
 ]
