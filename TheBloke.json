@@ -34139,7 +34139,8 @@
       "base_model:ehartford/Wizard-Vicuna-7B-Uncensored",
       "license:other",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "library_name": "transformers",
     "createdAt": "2023-09-19T23:07:40.000Z",
@@ -71216,7 +71217,7 @@
   {
     "_id": "65770d54b2b935d83f6ea4d1",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GGUF",
-    "likes": 307,
+    "likes": 308,
     "private": false,
     "downloads": 503,
     "tags": [
@@ -71319,7 +71320,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 263,
+    "likes": 264,
     "private": false,
     "downloads": 663,
     "tags": [
@@ -73943,7 +73944,7 @@
   {
     "_id": "657ada27e4a10c4beb2a8408",
     "id": "TheBloke/dolphin-2.5-mixtral-8x7b-GPTQ",
-    "likes": 53,
+    "likes": 54,
     "private": false,
     "downloads": 2521,
     "tags": [
