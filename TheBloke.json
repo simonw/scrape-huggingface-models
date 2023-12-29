@@ -45437,7 +45437,8 @@
       "base_model:VAGOsolutions/SauerkrautLM-7b-v1",
       "license:llama2",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -45460,7 +45461,8 @@
       "base_model:VAGOsolutions/SauerkrautLM-3b-v1",
       "license:other",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -55685,7 +55687,7 @@
   {
     "_id": "654cd5c878c68b6d4c71df7c",
     "id": "TheBloke/goliath-120b-GGUF",
-    "likes": 80,
+    "likes": 81,
     "private": false,
     "downloads": 1156,
     "tags": [
@@ -66007,7 +66009,7 @@
   {
     "_id": "65673bd826d6f74919b579a2",
     "id": "TheBloke/tigerbot-70B-chat-v2-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -79635,7 +79637,7 @@
   {
     "_id": "6585ed2a06443d2dcfd2bce6",
     "id": "TheBloke/CodeNinja-1.0-OpenChat-7B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 28,
     "tags": [
@@ -79662,7 +79664,7 @@
   {
     "_id": "6585ed2ac62c5c4082752fcb",
     "id": "TheBloke/CodeNinja-1.0-OpenChat-7B-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 41,
     "tags": [
@@ -79689,7 +79691,7 @@
   {
     "_id": "6585ed2adc3718bab85482e2",
     "id": "TheBloke/CodeNinja-1.0-OpenChat-7B-GGUF",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 10,
     "tags": [
