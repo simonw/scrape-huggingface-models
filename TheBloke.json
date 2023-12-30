@@ -83233,8 +83233,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:Weyaxi/openchat-3.5-1210-Seraph-Slerp",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-30T08:21:20.000Z",
     "modelId": "TheBloke/openchat-3.5-1210-Seraph-Slerp-AWQ"
   },
@@ -83245,9 +83256,55 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:Weyaxi/openchat-3.5-1210-Seraph-Slerp",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-30T08:21:20.000Z",
     "modelId": "TheBloke/openchat-3.5-1210-Seraph-Slerp-GPTQ"
+  },
+  {
+    "_id": "658fd9b477105e6e40e88713",
+    "id": "TheBloke/Seraph-openchat-3.5-1210-Slerp-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-30T08:49:56.000Z",
+    "modelId": "TheBloke/Seraph-openchat-3.5-1210-Slerp-GPTQ"
+  },
+  {
+    "_id": "658fd9b4a41c3cbad5713f24",
+    "id": "TheBloke/Seraph-openchat-3.5-1210-Slerp-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:Weyaxi/Seraph-openchat-3.5-1210-Slerp",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-30T08:49:56.000Z",
+    "modelId": "TheBloke/Seraph-openchat-3.5-1210-Slerp-AWQ"
   }
 ]
