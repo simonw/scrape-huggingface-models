@@ -7330,7 +7330,7 @@
   {
     "_id": "649ca080f0f66daed3bb3af0",
     "id": "TheBloke/WizardLM-Uncensored-SuperCOT-StoryTelling-30B-SuperHOT-8K-fp16",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -7639,7 +7639,7 @@
   {
     "_id": "649deb361b00eaf1eea4b46f",
     "id": "TheBloke/CAMEL-13B-Role-Playing-Data-SuperHOT-8K-GGML",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -32222,7 +32222,7 @@
   {
     "_id": "65098d91634e02df56b67746",
     "id": "TheBloke/MLewd-L2-Chat-13B-AWQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 515,
     "tags": [
@@ -71218,7 +71218,7 @@
   {
     "_id": "65770d54b2b935d83f6ea4d1",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GGUF",
-    "likes": 311,
+    "likes": 312,
     "private": false,
     "downloads": 516,
     "tags": [
@@ -71346,7 +71346,7 @@
   {
     "_id": "657759d1da3f14fa5ddeba81",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GPTQ",
-    "likes": 47,
+    "likes": 48,
     "private": false,
     "downloads": 217214,
     "tags": [
@@ -83187,8 +83187,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:Weyaxi/MetaMath-NeuralHermes-2.5-Mistral-7B-Linear",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-30T07:52:23.000Z",
     "modelId": "TheBloke/MetaMath-NeuralHermes-2.5-Mistral-7B-Linear-GPTQ"
   },
@@ -83214,5 +83225,29 @@
     "library_name": "transformers",
     "createdAt": "2023-12-30T07:52:23.000Z",
     "modelId": "TheBloke/MetaMath-NeuralHermes-2.5-Mistral-7B-Linear-AWQ"
+  },
+  {
+    "_id": "658fd30087944e494e21c302",
+    "id": "TheBloke/openchat-3.5-1210-Seraph-Slerp-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-30T08:21:20.000Z",
+    "modelId": "TheBloke/openchat-3.5-1210-Seraph-Slerp-AWQ"
+  },
+  {
+    "_id": "658fd300a33889b27f735660",
+    "id": "TheBloke/openchat-3.5-1210-Seraph-Slerp-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-30T08:21:20.000Z",
+    "modelId": "TheBloke/openchat-3.5-1210-Seraph-Slerp-GPTQ"
   }
 ]
