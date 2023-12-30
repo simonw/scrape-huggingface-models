@@ -568,7 +568,7 @@
     "id": "TheBloke/OpenAssistant-SFT-7-Llama-30B-HF",
     "likes": 14,
     "private": false,
-    "downloads": 1729,
+    "downloads": 1725,
     "tags": [
       "transformers",
       "pytorch",
@@ -644,7 +644,7 @@
     "id": "TheBloke/wizard-vicuna-13B-GPTQ",
     "likes": 99,
     "private": false,
-    "downloads": 1828,
+    "downloads": 1829,
     "tags": [
       "transformers",
       "safetensors",
@@ -670,7 +670,7 @@
     "id": "TheBloke/wizard-vicuna-13B-HF",
     "likes": 48,
     "private": false,
-    "downloads": 1719,
+    "downloads": 1713,
     "tags": [
       "transformers",
       "pytorch",
@@ -708,7 +708,7 @@
     "id": "TheBloke/WizardLM-7B-uncensored-GPTQ",
     "likes": 163,
     "private": false,
-    "downloads": 2861,
+    "downloads": 2830,
     "tags": [
       "transformers",
       "safetensors",
@@ -734,7 +734,7 @@
     "id": "TheBloke/GPT4All-13B-snoozy-GPTQ",
     "likes": 30,
     "private": false,
-    "downloads": 37,
+    "downloads": 29,
     "tags": [
       "transformers",
       "safetensors",
@@ -77298,7 +77298,7 @@
   {
     "_id": "6580aa20419afba19a692cc8",
     "id": "TheBloke/phi-2-GGUF",
-    "likes": 70,
+    "likes": 72,
     "private": false,
     "downloads": 171,
     "tags": [
@@ -83389,9 +83389,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "mixtral",
+      "UNA",
+      "juanako",
+      "MoE",
+      "en",
+      "base_model:fblgit/UNAversal-8x7B-v1beta",
+      "license:cc-by-nc-sa-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2023-12-30T17:02:58.000Z",
     "modelId": "TheBloke/UNAversal-8x7B-v1beta-GGUF"
   },
