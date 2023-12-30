@@ -77617,8 +77617,7 @@
       "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -83344,8 +83343,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:OpenPipe/mistral-ft-optimized-1227",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-30T09:21:25.000Z",
     "modelId": "TheBloke/mistral-ft-optimized-1227-GPTQ"
   },
@@ -83356,8 +83366,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:OpenPipe/mistral-ft-optimized-1227",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-30T09:21:25.000Z",
     "modelId": "TheBloke/mistral-ft-optimized-1227-AWQ"
   }
