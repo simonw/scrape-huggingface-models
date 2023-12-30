@@ -83279,8 +83279,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "base_model:Weyaxi/Seraph-openchat-3.5-1210-Slerp",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-30T08:49:56.000Z",
     "modelId": "TheBloke/Seraph-openchat-3.5-1210-Slerp-GPTQ"
   },
@@ -83306,5 +83317,48 @@
     "library_name": "transformers",
     "createdAt": "2023-12-30T08:49:56.000Z",
     "modelId": "TheBloke/Seraph-openchat-3.5-1210-Slerp-AWQ"
+  },
+  {
+    "_id": "658fe1151adf6d577e80591d",
+    "id": "TheBloke/mistral-ft-optimized-1227-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "base_model:OpenPipe/mistral-ft-optimized-1227",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-30T09:21:25.000Z",
+    "modelId": "TheBloke/mistral-ft-optimized-1227-GGUF"
+  },
+  {
+    "_id": "658fe11577105e6e40e9c579",
+    "id": "TheBloke/mistral-ft-optimized-1227-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-30T09:21:25.000Z",
+    "modelId": "TheBloke/mistral-ft-optimized-1227-GPTQ"
+  },
+  {
+    "_id": "658fe115a6567cb93c5028e4",
+    "id": "TheBloke/mistral-ft-optimized-1227-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-30T09:21:25.000Z",
+    "modelId": "TheBloke/mistral-ft-optimized-1227-AWQ"
   }
 ]
