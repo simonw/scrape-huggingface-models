@@ -83716,9 +83716,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "mixtral",
+      "base_model:dillfrescott/trinity-v1.2-x8-MoE",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2023-12-31T10:00:49.000Z",
     "modelId": "TheBloke/trinity-v1.2-x8-MoE-GGUF"
   },
