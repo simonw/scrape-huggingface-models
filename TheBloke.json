@@ -21406,7 +21406,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7B-Chat-GGUF",
-    "likes": 204,
+    "likes": 205,
     "private": false,
     "downloads": 2533,
     "tags": [
@@ -43346,7 +43346,7 @@
   {
     "_id": "6523387e2d3ba46ccd262673",
     "id": "TheBloke/PsyMedRP-v1-20B-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 21,
     "tags": [
@@ -76125,7 +76125,7 @@
   {
     "_id": "657da6e2e37618d8677f3a57",
     "id": "TheBloke/SOLAR-Platypus-10.7B-v2-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -82044,7 +82044,8 @@
       "base_model:cognitivecomputations/dolphin-2.6-mistral-7b",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "library_name": "transformers",
     "createdAt": "2023-12-28T09:34:34.000Z",
