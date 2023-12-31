@@ -81629,7 +81629,7 @@
   {
     "_id": "658ab0cf067630f69fa2ed1c",
     "id": "TheBloke/openthaigpt-1.0.0-beta-13B-chat-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -83340,7 +83340,7 @@
   {
     "_id": "658fe11577105e6e40e9c579",
     "id": "TheBloke/mistral-ft-optimized-1227-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -83485,7 +83485,7 @@
   {
     "_id": "6591225952dc1046ca1d4772",
     "id": "TheBloke/Lelantos-7B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -83515,9 +83515,75 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "chatml",
+      "merge",
+      "en",
+      "base_model:SanjiWatsuki/Lelantos-7B",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-31T08:12:09.000Z",
     "modelId": "TheBloke/Lelantos-7B-GPTQ"
+  },
+  {
+    "_id": "659129960800e55419fa28e8",
+    "id": "TheBloke/law-LLM-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-31T08:43:02.000Z",
+    "modelId": "TheBloke/law-LLM-13B-GPTQ"
+  },
+  {
+    "_id": "659129960c99312905412bf3",
+    "id": "TheBloke/law-LLM-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "llama",
+      "legal",
+      "text-generation",
+      "en",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:GAIR/lima",
+      "dataset:WizardLM/WizardLM_evol_instruct_V2_196k",
+      "dataset:EleutherAI/pile",
+      "arxiv:2309.09530",
+      "base_model:AdaptLLM/law-LLM-13B",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-31T08:43:02.000Z",
+    "modelId": "TheBloke/law-LLM-13B-GGUF"
+  },
+  {
+    "_id": "65912996de82e1ef7b433d10",
+    "id": "TheBloke/law-LLM-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-31T08:43:02.000Z",
+    "modelId": "TheBloke/law-LLM-13B-AWQ"
   }
 ]
