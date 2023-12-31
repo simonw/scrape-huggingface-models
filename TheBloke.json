@@ -79693,7 +79693,7 @@
   {
     "_id": "6585ed2adc3718bab85482e2",
     "id": "TheBloke/CodeNinja-1.0-OpenChat-7B-GGUF",
-    "likes": 25,
+    "likes": 26,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -81892,7 +81892,7 @@
   {
     "_id": "658b2f5afdf2279d470f556c",
     "id": "TheBloke/MixtralOrochi8x7B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 16,
     "tags": [
@@ -83541,8 +83541,26 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "legal",
+      "en",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:GAIR/lima",
+      "dataset:WizardLM/WizardLM_evol_instruct_V2_196k",
+      "dataset:EleutherAI/pile",
+      "arxiv:2309.09530",
+      "base_model:AdaptLLM/law-LLM-13B",
+      "license:other",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-31T08:43:02.000Z",
     "modelId": "TheBloke/law-LLM-13B-GPTQ"
   },
@@ -83581,9 +83599,87 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "legal",
+      "en",
+      "dataset:Open-Orca/OpenOrca",
+      "dataset:GAIR/lima",
+      "dataset:WizardLM/WizardLM_evol_instruct_V2_196k",
+      "dataset:EleutherAI/pile",
+      "arxiv:2309.09530",
+      "base_model:AdaptLLM/law-LLM-13B",
+      "license:other",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-31T08:43:02.000Z",
     "modelId": "TheBloke/law-LLM-13B-AWQ"
+  },
+  {
+    "_id": "659131da9e16fa7510773ef0",
+    "id": "TheBloke/deita-7B-v1.0-sft-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-31T09:18:18.000Z",
+    "modelId": "TheBloke/deita-7B-v1.0-sft-GPTQ"
+  },
+  {
+    "_id": "659131dac27d210c3ea371aa",
+    "id": "TheBloke/deita-7B-v1.0-sft-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "en",
+      "dataset:hkust-nlp/deita-6k-v0",
+      "arxiv:2312.15685",
+      "base_model:hkust-nlp/deita-7b-v1.0-sft",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2023-12-31T09:18:18.000Z",
+    "modelId": "TheBloke/deita-7B-v1.0-sft-GGUF"
+  },
+  {
+    "_id": "659131daf0152a21fc14e468",
+    "id": "TheBloke/deita-7B-v1.0-sft-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "dataset:hkust-nlp/deita-6k-v0",
+      "arxiv:2312.15685",
+      "base_model:hkust-nlp/deita-7b-v1.0-sft",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2023-12-31T09:18:18.000Z",
+    "modelId": "TheBloke/deita-7B-v1.0-sft-AWQ"
   }
 ]
