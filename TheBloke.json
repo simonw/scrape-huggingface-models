@@ -73014,7 +73014,7 @@
   {
     "_id": "6579ae291b1c5bff9be6e86c",
     "id": "TheBloke/SOLAR-10.7B-Instruct-v1.0-GGUF",
-    "likes": 62,
+    "likes": 64,
     "private": false,
     "downloads": 112,
     "tags": [
@@ -74696,7 +74696,8 @@
       "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -83629,8 +83630,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "dataset:hkust-nlp/deita-6k-v0",
+      "arxiv:2312.15685",
+      "base_model:hkust-nlp/deita-7b-v1.0-sft",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2023-12-31T09:18:18.000Z",
     "modelId": "TheBloke/deita-7B-v1.0-sft-GPTQ"
   },
@@ -83681,5 +83696,42 @@
     "library_name": "transformers",
     "createdAt": "2023-12-31T09:18:18.000Z",
     "modelId": "TheBloke/deita-7B-v1.0-sft-AWQ"
+  },
+  {
+    "_id": "65913bd116227c7a2d4ba39b",
+    "id": "TheBloke/trinity-v1.2-x8-MoE-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-31T10:00:49.000Z",
+    "modelId": "TheBloke/trinity-v1.2-x8-MoE-AWQ"
+  },
+  {
+    "_id": "65913bd150d39af7f426a865",
+    "id": "TheBloke/trinity-v1.2-x8-MoE-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2023-12-31T10:00:49.000Z",
+    "modelId": "TheBloke/trinity-v1.2-x8-MoE-GGUF"
+  },
+  {
+    "_id": "65913bd1f7291078f901e081",
+    "id": "TheBloke/trinity-v1.2-x8-MoE-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2023-12-31T10:00:49.000Z",
+    "modelId": "TheBloke/trinity-v1.2-x8-MoE-GPTQ"
   }
 ]
