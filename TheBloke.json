@@ -21378,7 +21378,7 @@
   {
     "_id": "64f5fd954d3b1dd311d30e28",
     "id": "TheBloke/Llama-2-7B-GGUF",
-    "likes": 92,
+    "likes": 93,
     "private": false,
     "downloads": 729,
     "tags": [
@@ -74696,8 +74696,7 @@
       "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
