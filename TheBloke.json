@@ -819,7 +819,7 @@
     "id": "TheBloke/dromedary-65b-lora-HF",
     "likes": 20,
     "private": false,
-    "downloads": 1666,
+    "downloads": 1665,
     "tags": [
       "transformers",
       "pytorch",
@@ -841,7 +841,7 @@
     "id": "TheBloke/h2ogpt-oasst1-512-30B-GPTQ",
     "likes": 5,
     "private": false,
-    "downloads": 12,
+    "downloads": 25,
     "tags": [
       "transformers",
       "safetensors",
@@ -882,7 +882,7 @@
     "id": "TheBloke/dromedary-65B-lora-GPTQ",
     "likes": 7,
     "private": false,
-    "downloads": 0,
+    "downloads": 1,
     "tags": [
       "transformers",
       "safetensors",
@@ -904,7 +904,7 @@
     "id": "TheBloke/h2ogpt-oasst1-512-30B-HF",
     "likes": 2,
     "private": false,
-    "downloads": 1681,
+    "downloads": 1672,
     "tags": [
       "transformers",
       "pytorch",
@@ -945,7 +945,7 @@
     "id": "TheBloke/gpt4-alpaca-lora_mlp-65B-HF",
     "likes": 7,
     "private": false,
-    "downloads": 1698,
+    "downloads": 1692,
     "tags": [
       "transformers",
       "pytorch",
@@ -1010,7 +1010,7 @@
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
     "likes": 270,
     "private": false,
-    "downloads": 59550,
+    "downloads": 57803,
     "tags": [
       "transformers",
       "safetensors",
@@ -1037,7 +1037,7 @@
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-HF",
     "likes": 202,
     "private": false,
-    "downloads": 3066,
+    "downloads": 3060,
     "tags": [
       "transformers",
       "pytorch",
@@ -1086,7 +1086,7 @@
     "id": "TheBloke/wizard-mega-13B-GPTQ",
     "likes": 103,
     "private": false,
-    "downloads": 1743,
+    "downloads": 1738,
     "tags": [
       "transformers",
       "safetensors",
@@ -1141,7 +1141,7 @@
     "id": "TheBloke/VicUnlocked-30B-LoRA-GPTQ",
     "likes": 20,
     "private": false,
-    "downloads": 1,
+    "downloads": 2,
     "tags": [
       "transformers",
       "safetensors",
@@ -1165,7 +1165,7 @@
     "id": "TheBloke/VicUnlocked-30B-LoRA-HF",
     "likes": 1,
     "private": false,
-    "downloads": 1681,
+    "downloads": 1677,
     "tags": [
       "transformers",
       "pytorch",
@@ -1189,7 +1189,7 @@
     "id": "TheBloke/LLaMa-7B-GGML",
     "likes": 58,
     "private": false,
-    "downloads": 29,
+    "downloads": 28,
     "tags": [
       "transformers",
       "llama",
@@ -1207,7 +1207,7 @@
     "id": "TheBloke/LLaMa-13B-GGML",
     "likes": 19,
     "private": false,
-    "downloads": 6,
+    "downloads": 7,
     "tags": [
       "transformers",
       "llama",
@@ -1224,7 +1224,7 @@
     "id": "TheBloke/LLaMa-30B-GGML",
     "likes": 22,
     "private": false,
-    "downloads": 2,
+    "downloads": 3,
     "tags": [
       "transformers",
       "llama",
@@ -1241,7 +1241,7 @@
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ",
     "likes": 124,
     "private": false,
-    "downloads": 296923,
+    "downloads": 308639,
     "tags": [
       "transformers",
       "safetensors",
@@ -1282,7 +1282,7 @@
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-HF",
     "likes": 20,
     "private": false,
-    "downloads": 4423,
+    "downloads": 4393,
     "tags": [
       "transformers",
       "pytorch",
@@ -1308,7 +1308,7 @@
     "id": "TheBloke/MPT-7B-GGML",
     "likes": 21,
     "private": false,
-    "downloads": 0,
+    "downloads": 1,
     "tags": [
       "transformers",
       "mpt",
@@ -1340,7 +1340,7 @@
     "id": "TheBloke/MPT-7B-Instruct-GGML",
     "likes": 28,
     "private": false,
-    "downloads": 2,
+    "downloads": 3,
     "tags": [
       "transformers",
       "mpt",
@@ -61935,7 +61935,7 @@
   {
     "_id": "655dfad1b53face4cf23c5cf",
     "id": "TheBloke/OrionStar-Yi-34B-Chat-Llama-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -66380,7 +66380,7 @@
   {
     "_id": "65678818b733e539ae544a90",
     "id": "TheBloke/LLaMA2-13B-Psyfighter2-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 19,
     "tags": [
@@ -67260,7 +67260,7 @@
   {
     "_id": "656b3b96efd0eea7c579f9e7",
     "id": "TheBloke/neural-chat-7B-v3-2-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 274,
     "tags": [
@@ -67355,7 +67355,7 @@
   {
     "_id": "656b78913dc1d277e544e4d6",
     "id": "TheBloke/neural-chat-7B-v3-2-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 9200,
     "tags": [
@@ -71243,7 +71243,7 @@
   {
     "_id": "65771780c793e5b72b0e8d68",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GPTQ",
-    "likes": 95,
+    "likes": 96,
     "private": false,
     "downloads": 5096,
     "tags": [
