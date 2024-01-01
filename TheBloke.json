@@ -26,7 +26,7 @@
     "id": "TheBloke/koala-7B-HF",
     "likes": 18,
     "private": false,
-    "downloads": 1691,
+    "downloads": 1699,
     "tags": [
       "transformers",
       "pytorch",
@@ -54,7 +54,7 @@
     "id": "TheBloke/koala-13B-HF",
     "likes": 41,
     "private": false,
-    "downloads": 1802,
+    "downloads": 1738,
     "tags": [
       "transformers",
       "pytorch",
@@ -178,7 +178,7 @@
     "id": "TheBloke/Vicuna-13B-1.1-GPTQ",
     "likes": 208,
     "private": false,
-    "downloads": 317,
+    "downloads": 310,
     "tags": [
       "transformers",
       "llama",
@@ -219,7 +219,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-30b-HF",
     "likes": 11,
     "private": false,
-    "downloads": 1688,
+    "downloads": 1692,
     "tags": [
       "transformers",
       "pytorch",
@@ -295,7 +295,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-13B-HF",
     "likes": 4,
     "private": false,
-    "downloads": 1672,
+    "downloads": 1676,
     "tags": [
       "transformers",
       "pytorch",
@@ -17558,7 +17558,7 @@
   {
     "_id": "64e78d117acd8971f2c6bbe6",
     "id": "TheBloke/CodeLlama-7B-GGUF",
-    "likes": 71,
+    "likes": 72,
     "private": false,
     "downloads": 187,
     "tags": [
@@ -24401,7 +24401,7 @@
   {
     "_id": "64fad53cbb362cbf2fdf43ce",
     "id": "TheBloke/Guanaco-13B-Uncensored-GGUF",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 241,
     "tags": [
@@ -84255,5 +84255,38 @@
     "library_name": "transformers",
     "createdAt": "2024-01-01T12:11:59.000Z",
     "modelId": "TheBloke/dolphin-2.7-mixtral-8x7b-AWQ"
+  },
+  {
+    "_id": "6592ce17315340de5f93644a",
+    "id": "TheBloke/yayi2-30B-llama-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-01T14:37:11.000Z",
+    "modelId": "TheBloke/yayi2-30B-llama-GPTQ"
+  },
+  {
+    "_id": "6592ce17f5a209eeac72f235",
+    "id": "TheBloke/yayi2-30B-llama-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "yayi2",
+      "zh",
+      "en",
+      "arxiv:2307.09288",
+      "base_model:cognitivecomputations/yayi2-30b-llama",
+      "license:other",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2024-01-01T14:37:11.000Z",
+    "modelId": "TheBloke/yayi2-30B-llama-GGUF"
   }
 ]
