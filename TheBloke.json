@@ -2324,7 +2324,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 484,
+    "likes": 485,
     "private": false,
     "downloads": 62173,
     "tags": [
@@ -22497,7 +22497,7 @@
   {
     "_id": "64f7451182673b2a07ae1103",
     "id": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GGUF",
-    "likes": 40,
+    "likes": 41,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -79693,7 +79693,7 @@
   {
     "_id": "6585ed2adc3718bab85482e2",
     "id": "TheBloke/CodeNinja-1.0-OpenChat-7B-GGUF",
-    "likes": 28,
+    "likes": 29,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -84025,7 +84025,7 @@
   {
     "_id": "6591d4d754f88261730df832",
     "id": "TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -84192,8 +84192,27 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mixtral",
+      "text-generation",
+      "en",
+      "dataset:ehartford/dolphin",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "dataset:ehartford/dolphin-coder",
+      "dataset:teknium/openhermes",
+      "dataset:ise-uiuc/Magicoder-OSS-Instruct-75K",
+      "dataset:ise-uiuc/Magicoder-Evol-Instruct-110K",
+      "dataset:LDJnr/Capybara",
+      "base_model:cognitivecomputations/dolphin-2.7-mixtral-8x7b",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-01T12:11:59.000Z",
     "modelId": "TheBloke/dolphin-2.7-mixtral-8x7b-GPTQ"
   },
