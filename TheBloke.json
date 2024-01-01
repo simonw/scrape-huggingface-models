@@ -73945,7 +73945,7 @@
   {
     "_id": "657ada27e4a10c4beb2a8408",
     "id": "TheBloke/dolphin-2.5-mixtral-8x7b-GPTQ",
-    "likes": 55,
+    "likes": 56,
     "private": false,
     "downloads": 2669,
     "tags": [
@@ -84184,5 +84184,47 @@
     "library_name": "peft",
     "createdAt": "2023-12-31T22:47:20.000Z",
     "modelId": "TheBloke/toxicqa-Llama2-7B-GPTQ"
+  },
+  {
+    "_id": "6592ac0f674349122c82000c",
+    "id": "TheBloke/dolphin-2.7-mixtral-8x7b-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-01T12:11:59.000Z",
+    "modelId": "TheBloke/dolphin-2.7-mixtral-8x7b-GPTQ"
+  },
+  {
+    "_id": "6592ac0fac02633c0de63ea2",
+    "id": "TheBloke/dolphin-2.7-mixtral-8x7b-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mixtral",
+      "base_model:cognitivecomputations/dolphin-2.7-mixtral-8x7b",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2024-01-01T12:11:59.000Z",
+    "modelId": "TheBloke/dolphin-2.7-mixtral-8x7b-GGUF"
+  },
+  {
+    "_id": "6592ac0fc27d210c3ed488e7",
+    "id": "TheBloke/dolphin-2.7-mixtral-8x7b-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-01T12:11:59.000Z",
+    "modelId": "TheBloke/dolphin-2.7-mixtral-8x7b-AWQ"
   }
 ]
