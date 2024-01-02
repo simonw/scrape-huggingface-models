@@ -14553,7 +14553,7 @@
     "id": "TheBloke/MythoMix-L2-13B-GPTQ",
     "likes": 16,
     "private": false,
-    "downloads": 14,
+    "downloads": 16,
     "tags": [
       "transformers",
       "safetensors",
@@ -14735,7 +14735,7 @@
     "id": "TheBloke/WizardLM-70B-V1.0-GPTQ",
     "likes": 35,
     "private": false,
-    "downloads": 1952,
+    "downloads": 1958,
     "tags": [
       "transformers",
       "safetensors",
@@ -14869,7 +14869,7 @@
     "id": "TheBloke/orca_mini_v3_7B-GPTQ",
     "likes": 9,
     "private": false,
-    "downloads": 25023,
+    "downloads": 26047,
     "tags": [
       "transformers",
       "safetensors",
@@ -14972,7 +14972,7 @@
     "id": "TheBloke/orca_mini_v3_13B-GPTQ",
     "likes": 10,
     "private": false,
-    "downloads": 7707,
+    "downloads": 7594,
     "tags": [
       "transformers",
       "safetensors",
@@ -15097,7 +15097,7 @@
     "id": "TheBloke/Platypus2-70B-Instruct-GPTQ",
     "likes": 23,
     "private": false,
-    "downloads": 1822,
+    "downloads": 1811,
     "tags": [
       "transformers",
       "safetensors",
@@ -15196,7 +15196,7 @@
     "id": "TheBloke/MythoMax-L2-13B-GGML",
     "likes": 77,
     "private": false,
-    "downloads": 53,
+    "downloads": 42,
     "tags": [
       "transformers",
       "llama",
@@ -15216,7 +15216,7 @@
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
     "likes": 110,
     "private": false,
-    "downloads": 24746,
+    "downloads": 25693,
     "tags": [
       "transformers",
       "safetensors",
@@ -15431,7 +15431,7 @@
     "id": "TheBloke/Llama-2-13B-German-Assistant-v4-GPTQ",
     "likes": 15,
     "private": false,
-    "downloads": 277,
+    "downloads": 271,
     "tags": [
       "transformers",
       "safetensors",
@@ -15457,7 +15457,7 @@
     "id": "TheBloke/OpenOrca-Platypus2-13B-GPTQ",
     "likes": 48,
     "private": false,
-    "downloads": 1950,
+    "downloads": 1948,
     "tags": [
       "transformers",
       "safetensors",
@@ -15513,7 +15513,7 @@
     "id": "TheBloke/EverythingLM-13B-16K-GPTQ",
     "likes": 12,
     "private": false,
-    "downloads": 1791,
+    "downloads": 1787,
     "tags": [
       "transformers",
       "safetensors",
@@ -69496,7 +69496,7 @@
   {
     "_id": "65724ecbfc603d4fe257503b",
     "id": "TheBloke/dolphin-2.2-yi-34b-200k-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 93,
     "tags": [
@@ -84025,7 +84025,7 @@
   {
     "_id": "6591d4d754f88261730df832",
     "id": "TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF",
-    "likes": 31,
+    "likes": 33,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -84469,7 +84469,7 @@
   {
     "_id": "6593d19411f68f12eaccc96f",
     "id": "TheBloke/Nous-Hermes-2-SOLAR-10.7B-GGUF",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -84962,8 +84962,48 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:ai2_arc",
+      "dataset:unalignment/spicy-3.1",
+      "dataset:codeparrot/apps",
+      "dataset:facebook/belebele",
+      "dataset:boolq",
+      "dataset:jondurbin/cinematika-v0.1",
+      "dataset:drop",
+      "dataset:lmsys/lmsys-chat-1m",
+      "dataset:TIGER-Lab/MathInstruct",
+      "dataset:cais/mmlu",
+      "dataset:Muennighoff/natural-instructions",
+      "dataset:openbookqa",
+      "dataset:piqa",
+      "dataset:Vezora/Tested-22k-Python-Alpaca",
+      "dataset:cakiki/rosetta-code",
+      "dataset:Open-Orca/SlimOrca",
+      "dataset:spider",
+      "dataset:squad_v2",
+      "dataset:migtissera/Synthia-v1.3",
+      "dataset:datasets/winogrande",
+      "dataset:nvidia/HelpSteer",
+      "dataset:Intel/orca_dpo_pairs",
+      "dataset:unalignment/toxic-dpo-v0.1",
+      "dataset:jondurbin/truthy-dpo-v0.1",
+      "dataset:allenai/ultrafeedback_binarized_cleaned",
+      "dataset:Squish42/bluemoon-fandom-1-1-rp-cleaned",
+      "dataset:LDJnr/Capybara",
+      "dataset:JULIELab/EmoBank",
+      "dataset:kingbri/PIPPA-shareGPT",
+      "base_model:jondurbin/nontoxic-bagel-34b-v0.2",
+      "license:other",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-02T16:12:25.000Z",
     "modelId": "TheBloke/nontoxic-bagel-34b-v0.2-GPTQ"
   }
