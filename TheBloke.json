@@ -58884,7 +58884,7 @@
   {
     "_id": "65568d1035f26c82c09eef13",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF",
-    "likes": 24,
+    "likes": 25,
     "private": false,
     "downloads": 56,
     "tags": [
@@ -71218,7 +71218,7 @@
   {
     "_id": "65770d54b2b935d83f6ea4d1",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GGUF",
-    "likes": 318,
+    "likes": 319,
     "private": false,
     "downloads": 569,
     "tags": [
@@ -71507,7 +71507,7 @@
   {
     "_id": "65778ac662d3ac1817cc9201",
     "id": "TheBloke/Mistral-7B-Instruct-v0.2-GGUF",
-    "likes": 92,
+    "likes": 93,
     "private": false,
     "downloads": 619,
     "tags": [
@@ -84818,9 +84818,61 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dataset:ai2_arc",
+      "dataset:unalignment/spicy-3.1",
+      "dataset:codeparrot/apps",
+      "dataset:facebook/belebele",
+      "dataset:boolq",
+      "dataset:jondurbin/cinematika-v0.1",
+      "dataset:drop",
+      "dataset:lmsys/lmsys-chat-1m",
+      "dataset:TIGER-Lab/MathInstruct",
+      "dataset:cais/mmlu",
+      "dataset:Muennighoff/natural-instructions",
+      "dataset:openbookqa",
+      "dataset:piqa",
+      "dataset:Vezora/Tested-22k-Python-Alpaca",
+      "dataset:cakiki/rosetta-code",
+      "dataset:Open-Orca/SlimOrca",
+      "dataset:spider",
+      "dataset:squad_v2",
+      "dataset:migtissera/Synthia-v1.3",
+      "dataset:datasets/winogrande",
+      "dataset:nvidia/HelpSteer",
+      "dataset:Intel/orca_dpo_pairs",
+      "dataset:unalignment/toxic-dpo-v0.1",
+      "dataset:jondurbin/truthy-dpo-v0.1",
+      "dataset:allenai/ultrafeedback_binarized_cleaned",
+      "dataset:Squish42/bluemoon-fandom-1-1-rp-cleaned",
+      "dataset:LDJnr/Capybara",
+      "dataset:JULIELab/EmoBank",
+      "dataset:kingbri/PIPPA-shareGPT",
+      "base_model:jondurbin/bagel-dpo-34b-v0.2",
+      "license:other",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-02T13:09:26.000Z",
     "modelId": "TheBloke/bagel-dpo-34b-v0.2-AWQ"
+  },
+  {
+    "_id": "65941ef7de82e1ef7bb56285",
+    "id": "TheBloke/nontoxic-bagel-34b-v0.2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-02T14:34:31.000Z",
+    "modelId": "TheBloke/nontoxic-bagel-34b-v0.2-AWQ"
   }
 ]
