@@ -36245,7 +36245,7 @@
   {
     "_id": "650a592d6fb511ba9ea69c6e",
     "id": "TheBloke/WizardLM-Uncensored-SuperCOT-StoryTelling-30B-AWQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 27,
     "tags": [
@@ -79693,7 +79693,7 @@
   {
     "_id": "6585ed2adc3718bab85482e2",
     "id": "TheBloke/CodeNinja-1.0-OpenChat-7B-GGUF",
-    "likes": 29,
+    "likes": 30,
     "private": false,
     "downloads": 15,
     "tags": [
@@ -84100,7 +84100,7 @@
   {
     "_id": "6591dd37a02954c9825f00f1",
     "id": "TheBloke/TinyLlama-1.1B-Chat-v1.0-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -84465,5 +84465,42 @@
     "library_name": "transformers",
     "createdAt": "2024-01-01T22:59:00.000Z",
     "modelId": "TheBloke/medicine-LLM-13B-GGUF"
+  },
+  {
+    "_id": "6593d19411f68f12eaccc96f",
+    "id": "TheBloke/Nous-Hermes-2-SOLAR-10.7B-GGUF",
+    "likes": 2,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2024-01-02T09:04:20.000Z",
+    "modelId": "TheBloke/Nous-Hermes-2-SOLAR-10.7B-GGUF"
+  },
+  {
+    "_id": "6593d19489f1ff0463f9db3d",
+    "id": "TheBloke/Nous-Hermes-2-SOLAR-10.7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-02T09:04:20.000Z",
+    "modelId": "TheBloke/Nous-Hermes-2-SOLAR-10.7B-GPTQ"
+  },
+  {
+    "_id": "6593d194a26070992859463f",
+    "id": "TheBloke/Nous-Hermes-2-SOLAR-10.7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-02T09:04:20.000Z",
+    "modelId": "TheBloke/Nous-Hermes-2-SOLAR-10.7B-AWQ"
   }
 ]
