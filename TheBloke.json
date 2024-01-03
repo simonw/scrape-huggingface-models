@@ -54089,7 +54089,7 @@
   {
     "_id": "6547989336332b0eedb50905",
     "id": "TheBloke/deepseek-coder-1.3b-base-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -84219,7 +84219,7 @@
   {
     "_id": "6592ac0fac02633c0de63ea2",
     "id": "TheBloke/dolphin-2.7-mixtral-8x7b-GGUF",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -85056,7 +85056,7 @@
   {
     "_id": "659492dfde82e1ef7bcda571",
     "id": "TheBloke/Pallas-0.5-LASER-0.6-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -85182,9 +85182,33 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "not-for-all-audiences",
+      "base_model:cgato/Thespis-Mistral-7b-Alpha-v0.7",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-03T01:54:20.000Z",
     "modelId": "TheBloke/Thespis-Mistral-7B-Alpha-v0.7-GPTQ"
+  },
+  {
+    "_id": "6594c53be9d0cd61bc7682eb",
+    "id": "TheBloke/openbuddy-mixtral-7bx8-v16.3-32k-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-03T02:23:55.000Z",
+    "modelId": "TheBloke/openbuddy-mixtral-7bx8-v16.3-32k-GPTQ"
   }
 ]
