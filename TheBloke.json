@@ -84469,7 +84469,7 @@
   {
     "_id": "6593d19411f68f12eaccc96f",
     "id": "TheBloke/Nous-Hermes-2-SOLAR-10.7B-GGUF",
-    "likes": 29,
+    "likes": 30,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -85229,5 +85229,129 @@
     "library_name": "transformers",
     "createdAt": "2024-01-03T02:23:55.000Z",
     "modelId": "TheBloke/openbuddy-mixtral-7bx8-v16.3-32k-GPTQ"
+  },
+  {
+    "_id": "65951d3b3dcfdcc49c371315",
+    "id": "TheBloke/OpenCAI-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "art",
+      "not-for-all-audiences",
+      "en",
+      "dataset:Norquinal/OpenCAI",
+      "base_model:Norquinal/OpenCAI-7B",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2024-01-03T08:39:23.000Z",
+    "modelId": "TheBloke/OpenCAI-7B-GGUF"
+  },
+  {
+    "_id": "65951d3bdab384261016f981",
+    "id": "TheBloke/OpenCAI-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "art",
+      "not-for-all-audiences",
+      "en",
+      "dataset:Norquinal/OpenCAI",
+      "base_model:Norquinal/OpenCAI-7B",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2024-01-03T08:39:23.000Z",
+    "modelId": "TheBloke/OpenCAI-7B-GPTQ"
+  },
+  {
+    "_id": "65951d3bea35173c2ef614f2",
+    "id": "TheBloke/OpenCAI-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "art",
+      "not-for-all-audiences",
+      "en",
+      "dataset:Norquinal/OpenCAI",
+      "base_model:Norquinal/OpenCAI-7B",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2024-01-03T08:39:23.000Z",
+    "modelId": "TheBloke/OpenCAI-7B-AWQ"
+  },
+  {
+    "_id": "65951d852a36333c0be7ffb9",
+    "id": "TheBloke/OpenCAI-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "llama",
+      "art",
+      "not-for-all-audiences",
+      "en",
+      "dataset:Norquinal/OpenCAI",
+      "base_model:Norquinal/OpenCAI-13B",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2024-01-03T08:40:37.000Z",
+    "modelId": "TheBloke/OpenCAI-13B-GGUF"
+  },
+  {
+    "_id": "659524186f3fbd7817cc500f",
+    "id": "TheBloke/OpenCAI-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-03T09:08:40.000Z",
+    "modelId": "TheBloke/OpenCAI-13B-AWQ"
+  },
+  {
+    "_id": "65952418fd0c7ccd5783ceca",
+    "id": "TheBloke/OpenCAI-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-03T09:08:40.000Z",
+    "modelId": "TheBloke/OpenCAI-13B-GPTQ"
   }
 ]
