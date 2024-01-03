@@ -21406,7 +21406,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7B-Chat-GGUF",
-    "likes": 207,
+    "likes": 208,
     "private": false,
     "downloads": 2478,
     "tags": [
@@ -84469,7 +84469,7 @@
   {
     "_id": "6593d19411f68f12eaccc96f",
     "id": "TheBloke/Nous-Hermes-2-SOLAR-10.7B-GGUF",
-    "likes": 26,
+    "likes": 27,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -85206,8 +85206,27 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mixtral",
+      "text-generation",
+      "zh",
+      "en",
+      "fr",
+      "de",
+      "ja",
+      "ko",
+      "it",
+      "ru",
+      "base_model:OpenBuddy/openbuddy-mixtral-7bx8-v16.3-32k",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-03T02:23:55.000Z",
     "modelId": "TheBloke/openbuddy-mixtral-7bx8-v16.3-32k-GPTQ"
   }
