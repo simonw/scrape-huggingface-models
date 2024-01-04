@@ -61686,7 +61686,7 @@
   {
     "_id": "655cf5e58b77e2c30b304dfb",
     "id": "TheBloke/gorilla-openfunctions-v1-GGUF",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 18,
     "tags": [
@@ -82026,7 +82026,7 @@
   {
     "_id": "658d412a7ff4aa6aa79b7100",
     "id": "TheBloke/dolphin-2.6-mistral-7B-GGUF",
-    "likes": 27,
+    "likes": 28,
     "private": false,
     "downloads": 25,
     "tags": [
@@ -85592,8 +85592,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mixtral",
+      "text-generation",
+      "base_model:Walmart-the-bag/WordWoven-13B",
+      "license:mit",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-04T10:05:17.000Z",
     "modelId": "TheBloke/WordWoven-13B-AWQ"
   },
@@ -85604,9 +85615,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "mixtral",
+      "base_model:Walmart-the-bag/WordWoven-13B",
+      "license:mit",
+      "text-generation-inference",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2024-01-04T10:05:17.000Z",
     "modelId": "TheBloke/WordWoven-13B-GGUF"
   },
