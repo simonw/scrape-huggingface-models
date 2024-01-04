@@ -56235,7 +56235,7 @@
   {
     "_id": "654e151b85a5e6080585c5bf",
     "id": "TheBloke/Yi-6B-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 58,
     "tags": [
@@ -73014,7 +73014,7 @@
   {
     "_id": "6579ae291b1c5bff9be6e86c",
     "id": "TheBloke/SOLAR-10.7B-Instruct-v1.0-GGUF",
-    "likes": 69,
+    "likes": 70,
     "private": false,
     "downloads": 126,
     "tags": [
@@ -77298,7 +77298,7 @@
   {
     "_id": "6580aa20419afba19a692cc8",
     "id": "TheBloke/phi-2-GGUF",
-    "likes": 77,
+    "likes": 78,
     "private": false,
     "downloads": 219,
     "tags": [
@@ -81123,7 +81123,7 @@
   {
     "_id": "658941044bb41498f7b3c950",
     "id": "TheBloke/SauerkrautLM-Mixtral-8x7B-Instruct-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 44,
     "tags": [
@@ -81191,7 +81191,7 @@
   {
     "_id": "65894104fb9c2bdfae531091",
     "id": "TheBloke/SauerkrautLM-Mixtral-8x7B-Instruct-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 96,
     "tags": [
@@ -84265,7 +84265,7 @@
   {
     "_id": "6592ce17315340de5f93644a",
     "id": "TheBloke/yayi2-30B-llama-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -85546,8 +85546,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mixtral",
+      "text-generation",
+      "not-for-all-audiences",
+      "nsfw",
+      "base_model:Undi95/FlatDolphinMaid-8x7B",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-03T23:27:49.000Z",
     "modelId": "TheBloke/FlatDolphinMaid-8x7B-GPTQ"
   },
