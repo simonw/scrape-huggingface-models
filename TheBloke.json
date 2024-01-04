@@ -462,6 +462,7 @@
     "downloads": 0,
     "tags": [
       "license:other",
+      "has_space",
       "region:us"
     ],
     "createdAt": "2023-04-26T07:16:54.000Z",
@@ -2324,7 +2325,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 488,
+    "likes": 487,
     "private": false,
     "downloads": 61523,
     "tags": [
@@ -7125,7 +7126,7 @@
   {
     "_id": "649af488962c03f6166db382",
     "id": "TheBloke/Pygmalion-13B-SuperHOT-8K-GPTQ",
-    "likes": 70,
+    "likes": 69,
     "private": false,
     "downloads": 82,
     "tags": [
@@ -7148,7 +7149,7 @@
   {
     "_id": "649af4889eb8cd59a342933b",
     "id": "TheBloke/Pygmalion-13B-SuperHOT-8K-fp16",
-    "likes": 8,
+    "likes": 7,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -12640,9 +12641,9 @@
       "fr",
       "base_model:bofenghuang/vigogne-2-7b-instruct",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -21203,9 +21204,9 @@
       "arxiv:2307.09288",
       "base_model:uukuguy/speechless-llama2-hermes-orca-platypus-wizardlm-13b",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -24413,6 +24414,7 @@
       "dataset:Fredithefish/openassistant-guanaco-unfiltered",
       "base_model:Fredithefish/Guanaco-13B-Uncensored",
       "license:apache-2.0",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -31327,6 +31329,7 @@
       "license:llama2",
       "model-index",
       "autotrain_compatible",
+      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -34138,9 +34141,9 @@
       "dataset:ehartford/wizard_vicuna_70k_unfiltered",
       "base_model:ehartford/Wizard-Vicuna-7B-Uncensored",
       "license:other",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "library_name": "transformers",
     "createdAt": "2023-09-19T23:07:40.000Z",
@@ -45437,9 +45440,9 @@
       "en",
       "base_model:VAGOsolutions/SauerkrautLM-7b-v1",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -45461,9 +45464,9 @@
       "en",
       "base_model:VAGOsolutions/SauerkrautLM-3b-v1",
       "license:other",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -63044,6 +63047,7 @@
       "base_model:01-ai/Yi-34B-Chat",
       "license:other",
       "autotrain_compatible",
+      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -65774,9 +65778,9 @@
       "de",
       "base_model:VAGOsolutions/SauerkrautLM-7b-HerO",
       "license:apache-2.0",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -68165,6 +68169,7 @@
       "base_model:SUSTech/SUS-Chat-34B",
       "license:other",
       "autotrain_compatible",
+      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -71321,7 +71326,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 286,
+    "likes": 287,
     "private": false,
     "downloads": 773,
     "tags": [
@@ -71362,6 +71367,7 @@
       "base_model:mistralai/Mixtral-8x7B-Instruct-v0.1",
       "license:apache-2.0",
       "autotrain_compatible",
+      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -77311,6 +77317,7 @@
       "en",
       "base_model:microsoft/phi-2",
       "license:other",
+      "has_space",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
@@ -80028,6 +80035,7 @@
       "mixtral",
       "base_model:cloudyu/Mixtral_7Bx2_MoE",
       "license:cc-by-nc-4.0",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -80409,8 +80417,8 @@
       "solar",
       "base_model:Weyaxi/SauerkrautLM-UNA-SOLAR-Instruct",
       "license:apache-2.0",
-      "region:us",
-      "has_space"
+      "has_space",
+      "region:us"
     ],
     "library_name": "transformers",
     "createdAt": "2023-12-24T14:17:56.000Z",
@@ -82043,9 +82051,9 @@
       "dataset:LDJnr/Capybara",
       "base_model:cognitivecomputations/dolphin-2.6-mistral-7b",
       "license:apache-2.0",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "library_name": "transformers",
     "createdAt": "2023-12-28T09:34:34.000Z",
@@ -84026,6 +84034,7 @@
       "dataset:OpenAssistant/oasst_top1_2023-08-25",
       "base_model:TinyLlama/TinyLlama-1.1B-Chat-v1.0",
       "license:apache-2.0",
+      "has_space",
       "region:us"
     ],
     "library_name": "transformers",
