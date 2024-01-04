@@ -73978,7 +73978,7 @@
   {
     "_id": "657ada27f14f26780a66a577",
     "id": "TheBloke/dolphin-2.5-mixtral-8x7b-GGUF",
-    "likes": 181,
+    "likes": 182,
     "private": false,
     "downloads": 4375,
     "tags": [
@@ -79254,7 +79254,7 @@
   {
     "_id": "6585a03b0e68ae87562727f6",
     "id": "TheBloke/MixtralRPChat-ZLoss-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 22,
     "tags": [
@@ -85657,8 +85657,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "en",
+      "dataset:athirdpath/DPO_Pairs-Roleplay-Alpaca-NSFW-v1",
+      "base_model:athirdpath/Iambe-RP-v3-20b",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-04T11:26:11.000Z",
     "modelId": "TheBloke/Iambe-RP-v3-20B-AWQ"
   },
