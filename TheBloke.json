@@ -33907,7 +33907,7 @@
   {
     "_id": "650a276ad26103b6eed600e5",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GGUF",
-    "likes": 26,
+    "likes": 27,
     "private": false,
     "downloads": 69,
     "tags": [
@@ -61686,7 +61686,7 @@
   {
     "_id": "655cf5e58b77e2c30b304dfb",
     "id": "TheBloke/gorilla-openfunctions-v1-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 18,
     "tags": [
@@ -68628,7 +68628,7 @@
   {
     "_id": "6570b85f71148713df107fd0",
     "id": "TheBloke/NexusRaven-V2-13B-GGUF",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 21,
     "tags": [
@@ -71321,7 +71321,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 285,
+    "likes": 286,
     "private": false,
     "downloads": 773,
     "tags": [
@@ -71507,7 +71507,7 @@
   {
     "_id": "65778ac662d3ac1817cc9201",
     "id": "TheBloke/Mistral-7B-Instruct-v0.2-GGUF",
-    "likes": 96,
+    "likes": 98,
     "private": false,
     "downloads": 694,
     "tags": [
@@ -85679,7 +85679,7 @@
   {
     "_id": "659695d3e4fbf46026441431",
     "id": "TheBloke/Iambe-RP-v3-20B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -85743,9 +85743,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "yi",
+      "base_model:Weyaxi/Nous-Hermes-2-SUS-Chat-34B-Slerp",
+      "license:other",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2024-01-04T12:36:35.000Z",
     "modelId": "TheBloke/Nous-Hermes-2-SUS-Chat-34B-Slerp-GGUF"
   },
