@@ -21407,7 +21407,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7B-Chat-GGUF",
-    "likes": 210,
+    "likes": 211,
     "private": false,
     "downloads": 2531,
     "tags": [
@@ -84185,7 +84185,7 @@
   {
     "_id": "6592ac0f674349122c82000c",
     "id": "TheBloke/dolphin-2.7-mixtral-8x7b-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 97,
     "tags": [
@@ -85551,7 +85551,7 @@
   {
     "_id": "6595ed75f80b20c057c7bc37",
     "id": "TheBloke/FlatDolphinMaid-8x7B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -85740,8 +85740,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:Weyaxi/Nous-Hermes-2-SUS-Chat-34B-Slerp",
+      "license:other",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-04T12:36:35.000Z",
     "modelId": "TheBloke/Nous-Hermes-2-SUS-Chat-34B-Slerp-AWQ"
   },
