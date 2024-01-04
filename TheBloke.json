@@ -38615,7 +38615,7 @@
   {
     "_id": "650fabbe8f80c1165cf9edad",
     "id": "TheBloke/Synthia-13B-v1.2-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -41525,7 +41525,7 @@
   {
     "_id": "651ad36f85985c338b5cf207",
     "id": "TheBloke/Mistral-7B-OpenOrca-GGUF",
-    "likes": 205,
+    "likes": 206,
     "private": false,
     "downloads": 536,
     "tags": [
@@ -50036,7 +50036,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 184,
+    "likes": 185,
     "private": false,
     "downloads": 1687,
     "tags": [
@@ -69978,7 +69978,7 @@
   {
     "_id": "657481a539831c68628085e2",
     "id": "TheBloke/Synthia-7B-v3.0-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -82026,7 +82026,7 @@
   {
     "_id": "658d412a7ff4aa6aa79b7100",
     "id": "TheBloke/dolphin-2.6-mistral-7B-GGUF",
-    "likes": 28,
+    "likes": 29,
     "private": false,
     "downloads": 25,
     "tags": [
@@ -85705,9 +85705,60 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "en",
+      "dataset:athirdpath/DPO_Pairs-Roleplay-Alpaca-NSFW-v1",
+      "base_model:athirdpath/Iambe-RP-v3-20b",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-04T11:26:11.000Z",
     "modelId": "TheBloke/Iambe-RP-v3-20B-GPTQ"
+  },
+  {
+    "_id": "6596a65397aeeba651fa6742",
+    "id": "TheBloke/Nous-Hermes-2-SUS-Chat-34B-Slerp-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-04T12:36:35.000Z",
+    "modelId": "TheBloke/Nous-Hermes-2-SUS-Chat-34B-Slerp-AWQ"
+  },
+  {
+    "_id": "6596a653a05e4893a23d8bbe",
+    "id": "TheBloke/Nous-Hermes-2-SUS-Chat-34B-Slerp-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2024-01-04T12:36:35.000Z",
+    "modelId": "TheBloke/Nous-Hermes-2-SUS-Chat-34B-Slerp-GGUF"
+  },
+  {
+    "_id": "6596a653a5758eba98ccae95",
+    "id": "TheBloke/Nous-Hermes-2-SUS-Chat-34B-Slerp-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-04T12:36:35.000Z",
+    "modelId": "TheBloke/Nous-Hermes-2-SUS-Chat-34B-Slerp-GPTQ"
   }
 ]
