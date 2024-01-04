@@ -21489,7 +21489,7 @@
   {
     "_id": "64f61985e916843d8ebc5db8",
     "id": "TheBloke/Llama-2-70B-Chat-GGUF",
-    "likes": 78,
+    "likes": 79,
     "private": false,
     "downloads": 319,
     "tags": [
@@ -26438,7 +26438,7 @@
   {
     "_id": "650343f96c81feb4726ea3db",
     "id": "TheBloke/Chinese-Llama-2-7B-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -85584,5 +85584,42 @@
     "library_name": "transformers",
     "createdAt": "2024-01-03T23:27:50.000Z",
     "modelId": "TheBloke/FlatDolphinMaid-8x7B-GGUF"
+  },
+  {
+    "_id": "659682dd4bff344ab9b50d82",
+    "id": "TheBloke/WordWoven-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-04T10:05:17.000Z",
+    "modelId": "TheBloke/WordWoven-13B-AWQ"
+  },
+  {
+    "_id": "659682dd576d6c613c69bba2",
+    "id": "TheBloke/WordWoven-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2024-01-04T10:05:17.000Z",
+    "modelId": "TheBloke/WordWoven-13B-GGUF"
+  },
+  {
+    "_id": "659682dd7cda5685b354a284",
+    "id": "TheBloke/WordWoven-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-04T10:05:17.000Z",
+    "modelId": "TheBloke/WordWoven-13B-GPTQ"
   }
 ]
