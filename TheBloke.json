@@ -10563,7 +10563,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 702,
+    "likes": 703,
     "private": false,
     "downloads": 3136,
     "tags": [
@@ -36268,7 +36268,7 @@
   {
     "_id": "650a592e19f6f953cb501ed2",
     "id": "TheBloke/WizardLM-Uncensored-SuperCOT-StoryTelling-30B-GGUF",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -77586,7 +77586,7 @@
   {
     "_id": "6581c2d6e932c3b73ddae568",
     "id": "TheBloke/SOLAR-10.7B-Instruct-v1.0-uncensored-GGUF",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 25,
     "tags": [
@@ -85634,9 +85634,66 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mixtral",
+      "text-generation",
+      "base_model:Walmart-the-bag/WordWoven-13B",
+      "license:mit",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-04T10:05:17.000Z",
     "modelId": "TheBloke/WordWoven-13B-GPTQ"
+  },
+  {
+    "_id": "659695d34bff344ab9b99a89",
+    "id": "TheBloke/Iambe-RP-v3-20B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-04T11:26:11.000Z",
+    "modelId": "TheBloke/Iambe-RP-v3-20B-AWQ"
+  },
+  {
+    "_id": "659695d3e4fbf46026441431",
+    "id": "TheBloke/Iambe-RP-v3-20B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "llama",
+      "not-for-all-audiences",
+      "en",
+      "dataset:athirdpath/DPO_Pairs-Roleplay-Alpaca-NSFW-v1",
+      "base_model:athirdpath/Iambe-RP-v3-20b",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2024-01-04T11:26:11.000Z",
+    "modelId": "TheBloke/Iambe-RP-v3-20B-GGUF"
+  },
+  {
+    "_id": "659695d3eed0e88dfd5f0b25",
+    "id": "TheBloke/Iambe-RP-v3-20B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-04T11:26:11.000Z",
+    "modelId": "TheBloke/Iambe-RP-v3-20B-GPTQ"
   }
 ]
