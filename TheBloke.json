@@ -57157,7 +57157,7 @@
   {
     "_id": "65526c84fb76980adeff5db6",
     "id": "TheBloke/Nous-Capybara-34B-GGUF",
-    "likes": 96,
+    "likes": 97,
     "private": false,
     "downloads": 63,
     "tags": [
@@ -86012,8 +86012,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "not-for-all-audiences",
+      "en",
+      "base_model:athirdpath/Iambe-RP-DARE-20b-DENSE",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-05T10:46:54.000Z",
     "modelId": "TheBloke/Iambe-RP-DARE-20B-DENSE-AWQ"
   },
@@ -86049,5 +86062,18 @@
     ],
     "createdAt": "2024-01-05T10:46:54.000Z",
     "modelId": "TheBloke/Iambe-RP-DARE-20B-DENSE-GPTQ"
+  },
+  {
+    "_id": "6597e86eda80a6829a49b336",
+    "id": "TheBloke/Norobara-ZLoss-8x7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2024-01-05T11:30:54.000Z",
+    "modelId": "TheBloke/Norobara-ZLoss-8x7B-GGUF"
   }
 ]
