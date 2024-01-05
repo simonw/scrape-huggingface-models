@@ -26,7 +26,7 @@
     "id": "TheBloke/koala-7B-HF",
     "likes": 18,
     "private": false,
-    "downloads": 1726,
+    "downloads": 1721,
     "tags": [
       "transformers",
       "pytorch",
@@ -54,7 +54,7 @@
     "id": "TheBloke/koala-13B-HF",
     "likes": 41,
     "private": false,
-    "downloads": 1736,
+    "downloads": 1735,
     "tags": [
       "transformers",
       "pytorch",
@@ -20177,7 +20177,7 @@
   {
     "_id": "64f0787ba20e6096c6ab97f9",
     "id": "TheBloke/MythoMax-L2-Kimiko-v2-13B-GPTQ",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 116,
     "tags": [
@@ -23498,7 +23498,7 @@
   {
     "_id": "64f7bac9fbbfe40336117526",
     "id": "TheBloke/Llama-2-7B-32K-Instruct-GGUF",
-    "likes": 42,
+    "likes": 43,
     "private": false,
     "downloads": 93,
     "tags": [
@@ -29791,7 +29791,7 @@
   {
     "_id": "65093f04905c78a96a2b9642",
     "id": "TheBloke/MythoMax-L2-13B-AWQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 1158,
     "tags": [
@@ -62589,7 +62589,7 @@
   {
     "_id": "655f11a819fd101f14b99953",
     "id": "TheBloke/Noromaid-20B-v0.1.1-GGUF",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 18,
     "tags": [
@@ -74076,7 +74076,6 @@
       "arxiv:2212.10560",
       "base_model:openchat/openchat-3.5-1210",
       "license:apache-2.0",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -84750,7 +84749,7 @@
   {
     "_id": "6593e743e7b4143ec857bf83",
     "id": "TheBloke/nontoxic-bagel-34b-v0.2-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -86207,8 +86206,20 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "merge",
+      "base_model:SanjiWatsuki/Kunoichi-7B",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-05T14:19:31.000Z",
     "modelId": "TheBloke/Kunoichi-7B-GPTQ"
   },
@@ -86235,5 +86246,29 @@
     "library_name": "transformers",
     "createdAt": "2024-01-05T14:19:31.000Z",
     "modelId": "TheBloke/Kunoichi-7B-AWQ"
+  },
+  {
+    "_id": "6598168a3c9af06cbe57079a",
+    "id": "TheBloke/Mixtral_11Bx2_MoE_19B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-05T14:47:38.000Z",
+    "modelId": "TheBloke/Mixtral_11Bx2_MoE_19B-AWQ"
+  },
+  {
+    "_id": "6598168b4dbb962b7c71ff77",
+    "id": "TheBloke/Mixtral_11Bx2_MoE_19B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-05T14:47:39.000Z",
+    "modelId": "TheBloke/Mixtral_11Bx2_MoE_19B-GPTQ"
   }
 ]
