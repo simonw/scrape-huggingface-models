@@ -10564,7 +10564,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 703,
+    "likes": 704,
     "private": false,
     "downloads": 3160,
     "tags": [
@@ -63047,7 +63047,6 @@
       "base_model:01-ai/Yi-34B-Chat",
       "license:other",
       "autotrain_compatible",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -68169,7 +68168,6 @@
       "base_model:SUSTech/SUS-Chat-34B",
       "license:other",
       "autotrain_compatible",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -85983,7 +85981,7 @@
   {
     "_id": "6596e885ce92304a713c4ccd",
     "id": "TheBloke/WizardCoder-33B-V1.1-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 18,
     "tags": [
