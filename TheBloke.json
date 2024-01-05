@@ -68180,7 +68180,7 @@
   {
     "_id": "656f6b91ae61260b610d34a4",
     "id": "TheBloke/SUS-Chat-34B-GGUF",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 11,
     "tags": [
@@ -85959,7 +85959,7 @@
   {
     "_id": "6596e8859608f3f87615751a",
     "id": "TheBloke/WizardCoder-33B-V1.1-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -85981,7 +85981,7 @@
   {
     "_id": "6596e885ce92304a713c4ccd",
     "id": "TheBloke/WizardCoder-33B-V1.1-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 18,
     "tags": [
@@ -86004,5 +86004,50 @@
     "library_name": "transformers",
     "createdAt": "2024-01-04T17:19:01.000Z",
     "modelId": "TheBloke/WizardCoder-33B-V1.1-AWQ"
+  },
+  {
+    "_id": "6597de1e092b4516b88f1b23",
+    "id": "TheBloke/Iambe-RP-DARE-20B-DENSE-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-05T10:46:54.000Z",
+    "modelId": "TheBloke/Iambe-RP-DARE-20B-DENSE-AWQ"
+  },
+  {
+    "_id": "6597de1e33e0a98ddb7b65b0",
+    "id": "TheBloke/Iambe-RP-DARE-20B-DENSE-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "llama",
+      "not-for-all-audiences",
+      "en",
+      "base_model:athirdpath/Iambe-RP-DARE-20b-DENSE",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2024-01-05T10:46:54.000Z",
+    "modelId": "TheBloke/Iambe-RP-DARE-20B-DENSE-GGUF"
+  },
+  {
+    "_id": "6597de1eccd854bca574e5a4",
+    "id": "TheBloke/Iambe-RP-DARE-20B-DENSE-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-05T10:46:54.000Z",
+    "modelId": "TheBloke/Iambe-RP-DARE-20B-DENSE-GPTQ"
   }
 ]
