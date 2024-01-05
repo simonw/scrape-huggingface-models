@@ -436,7 +436,7 @@
     "id": "TheBloke/wizardLM-7B-HF",
     "likes": 91,
     "private": false,
-    "downloads": 2746,
+    "downloads": 2692,
     "tags": [
       "transformers",
       "pytorch",
@@ -473,7 +473,7 @@
     "id": "TheBloke/wizardLM-7B-GPTQ",
     "likes": 103,
     "private": false,
-    "downloads": 389,
+    "downloads": 393,
     "tags": [
       "transformers",
       "safetensors",
@@ -496,7 +496,7 @@
     "id": "TheBloke/stable-vicuna-13B-HF",
     "likes": 95,
     "private": false,
-    "downloads": 2220,
+    "downloads": 2232,
     "tags": [
       "transformers",
       "pytorch",
@@ -540,7 +540,7 @@
     "id": "TheBloke/stable-vicuna-13B-GPTQ",
     "likes": 218,
     "private": false,
-    "downloads": 101,
+    "downloads": 98,
     "tags": [
       "transformers",
       "safetensors",
@@ -569,7 +569,7 @@
     "id": "TheBloke/OpenAssistant-SFT-7-Llama-30B-HF",
     "likes": 14,
     "private": false,
-    "downloads": 1740,
+    "downloads": 1745,
     "tags": [
       "transformers",
       "pytorch",
@@ -645,7 +645,7 @@
     "id": "TheBloke/wizard-vicuna-13B-GPTQ",
     "likes": 99,
     "private": false,
-    "downloads": 1834,
+    "downloads": 1835,
     "tags": [
       "transformers",
       "safetensors",
@@ -671,7 +671,7 @@
     "id": "TheBloke/wizard-vicuna-13B-HF",
     "likes": 48,
     "private": false,
-    "downloads": 1734,
+    "downloads": 1728,
     "tags": [
       "transformers",
       "pytorch",
@@ -709,7 +709,7 @@
     "id": "TheBloke/WizardLM-7B-uncensored-GPTQ",
     "likes": 165,
     "private": false,
-    "downloads": 2749,
+    "downloads": 2733,
     "tags": [
       "transformers",
       "safetensors",
@@ -6899,7 +6899,7 @@
   {
     "_id": "649aa5060695bc694e337091",
     "id": "TheBloke/Chronos-Hermes-13B-SuperHOT-8K-GPTQ",
-    "likes": 37,
+    "likes": 38,
     "private": false,
     "downloads": 76,
     "tags": [
@@ -86226,7 +86226,7 @@
   {
     "_id": "65980ff3c50abdfec41ceab7",
     "id": "TheBloke/Kunoichi-7B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -86277,8 +86277,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mixtral",
+      "text-generation",
+      "base_model:cloudyu/Mixtral_11Bx2_MoE_19B",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-05T14:47:39.000Z",
     "modelId": "TheBloke/Mixtral_11Bx2_MoE_19B-GPTQ"
   }
