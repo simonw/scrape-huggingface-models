@@ -57157,7 +57157,7 @@
   {
     "_id": "65526c84fb76980adeff5db6",
     "id": "TheBloke/Nous-Capybara-34B-GGUF",
-    "likes": 98,
+    "likes": 99,
     "private": false,
     "downloads": 66,
     "tags": [
@@ -80348,7 +80348,7 @@
   {
     "_id": "65883baf586088fd275237cf",
     "id": "TheBloke/dolphin-2_6-phi-2-GGUF",
-    "likes": 30,
+    "likes": 31,
     "private": false,
     "downloads": 54,
     "tags": [
@@ -84018,7 +84018,7 @@
   {
     "_id": "6591d4d754f88261730df832",
     "id": "TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF",
-    "likes": 42,
+    "likes": 43,
     "private": false,
     "downloads": 71,
     "tags": [
@@ -86758,8 +86758,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:TencentARC/LLaMA-Pro-8B",
+      "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-06T10:59:52.000Z",
     "modelId": "TheBloke/LLaMA-Pro-8B-AWQ"
   },
@@ -86770,8 +86781,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:TencentARC/LLaMA-Pro-8B",
+      "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-06T10:59:52.000Z",
     "modelId": "TheBloke/LLaMA-Pro-8B-GPTQ"
   }
