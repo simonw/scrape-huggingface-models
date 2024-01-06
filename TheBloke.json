@@ -86671,8 +86671,9 @@
       "safetensors",
       "mixtral",
       "text-generation",
+      "base_model:rombodawg/Open_Gpt4_8x7B",
+      "license:apache-2.0",
       "autotrain_compatible",
-      "endpoints_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
