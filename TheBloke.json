@@ -10591,7 +10591,7 @@
   {
     "_id": "64b6ce072edcb4a1aa820cbe",
     "id": "TheBloke/Llama-2-7B-Chat-GPTQ",
-    "likes": 206,
+    "likes": 207,
     "private": false,
     "downloads": 63944,
     "tags": [
@@ -25060,7 +25060,7 @@
   {
     "_id": "64fe2c7e0e486522f87861de",
     "id": "TheBloke/MLewdBoros-L2-13B-GPTQ",
-    "likes": 10,
+    "likes": 9,
     "private": false,
     "downloads": 31,
     "tags": [
@@ -37289,7 +37289,7 @@
   {
     "_id": "650e2543871fed2307aea83f",
     "id": "TheBloke/MLewd-ReMM-L2-Chat-20B-GPTQ",
-    "likes": 12,
+    "likes": 11,
     "private": false,
     "downloads": 79,
     "tags": [
@@ -48376,7 +48376,7 @@
   {
     "_id": "65324859548eae0c990cb4c9",
     "id": "TheBloke/Arithmo-Mistral-7B-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -49564,7 +49564,7 @@
   {
     "_id": "6537e73728002e2b40c70740",
     "id": "TheBloke/HornyEchidna-13B-v0.1-GPTQ",
-    "likes": 11,
+    "likes": 10,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -71324,7 +71324,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 289,
+    "likes": 290,
     "private": false,
     "downloads": 814,
     "tags": [
@@ -75971,7 +75971,7 @@
   {
     "_id": "657d993d49ec77d48e6d518f",
     "id": "TheBloke/LeoScorpius-GreenNode-Alpaca-7B-v1-GGUF",
-    "likes": 1,
+    "likes": 0,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -86731,5 +86731,48 @@
     "library_name": "transformers",
     "createdAt": "2024-01-06T09:37:42.000Z",
     "modelId": "TheBloke/zephyr-quiklang-3b-GPTQ"
+  },
+  {
+    "_id": "659932a8ac728bc3035f61fa",
+    "id": "TheBloke/LLaMA-Pro-8B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "llama",
+      "base_model:TencentARC/LLaMA-Pro-8B",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2024-01-06T10:59:52.000Z",
+    "modelId": "TheBloke/LLaMA-Pro-8B-GGUF"
+  },
+  {
+    "_id": "659932a8b01e6e0c711035d1",
+    "id": "TheBloke/LLaMA-Pro-8B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-06T10:59:52.000Z",
+    "modelId": "TheBloke/LLaMA-Pro-8B-AWQ"
+  },
+  {
+    "_id": "659932a8f82b15d663f2e7a6",
+    "id": "TheBloke/LLaMA-Pro-8B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-06T10:59:52.000Z",
+    "modelId": "TheBloke/LLaMA-Pro-8B-GPTQ"
   }
 ]
