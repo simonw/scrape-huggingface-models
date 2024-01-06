@@ -17608,7 +17608,7 @@
   {
     "_id": "64e7bc1129a548f66a1ddb15",
     "id": "TheBloke/CodeLlama-13B-Instruct-GGUF",
-    "likes": 81,
+    "likes": 82,
     "private": false,
     "downloads": 176,
     "tags": [
@@ -21435,7 +21435,7 @@
   {
     "_id": "64f611cf6ad07ea81779ca15",
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
-    "likes": 124,
+    "likes": 125,
     "private": false,
     "downloads": 809,
     "tags": [
@@ -64035,7 +64035,7 @@
   {
     "_id": "656108d34efe6f0a0659bfa2",
     "id": "TheBloke/Rose-20B-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -77301,7 +77301,7 @@
   {
     "_id": "6580aa20419afba19a692cc8",
     "id": "TheBloke/phi-2-GGUF",
-    "likes": 82,
+    "likes": 83,
     "private": false,
     "downloads": 234,
     "tags": [
@@ -81849,7 +81849,7 @@
   {
     "_id": "658b2f5a01845f40cead1552",
     "id": "TheBloke/MixtralOrochi8x7B-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -86682,5 +86682,54 @@
     "library_name": "transformers",
     "createdAt": "2024-01-05T23:10:04.000Z",
     "modelId": "TheBloke/Open_Gpt4_8x7B-GPTQ"
+  },
+  {
+    "_id": "65991f662ca1fbfe1c520ee9",
+    "id": "TheBloke/zephyr-quiklang-3b-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "stablelm_epoch",
+      "causal_lm",
+      "text-generation",
+      "dataset:teknium/openhermes",
+      "dataset:unalignment/toxic-dpo-v0.1",
+      "base_model:Walmart-the-bag/zephyr-quiklang-3b",
+      "license:mit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2024-01-06T09:37:42.000Z",
+    "modelId": "TheBloke/zephyr-quiklang-3b-GGUF"
+  },
+  {
+    "_id": "65991f668c5c668886690e04",
+    "id": "TheBloke/zephyr-quiklang-3b-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "stablelm_epoch",
+      "feature-extraction",
+      "causal_lm",
+      "text-generation",
+      "custom_code",
+      "dataset:teknium/openhermes",
+      "dataset:unalignment/toxic-dpo-v0.1",
+      "base_model:Walmart-the-bag/zephyr-quiklang-3b",
+      "license:mit",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2024-01-06T09:37:42.000Z",
+    "modelId": "TheBloke/zephyr-quiklang-3b-GPTQ"
   }
 ]
