@@ -86644,7 +86644,7 @@
   {
     "_id": "65988c4bb01e6e0c71dccc37",
     "id": "TheBloke/Open_Gpt4_8x7B-GGUF",
-    "likes": 5,
+    "likes": 7,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -87168,5 +87168,73 @@
     "library_name": "transformers",
     "createdAt": "2024-01-06T23:37:17.000Z",
     "modelId": "TheBloke/sonya-medium-x8-MoE-GGUF"
+  },
+  {
+    "_id": "659a9ab42f42fd55b9ec60e4",
+    "id": "TheBloke/LLaMA-Pro-8B-Instruct-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "llama",
+      "base_model:TencentARC/LLaMA-Pro-8B-Instruct",
+      "license:llama2",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2024-01-07T12:36:04.000Z",
+    "modelId": "TheBloke/LLaMA-Pro-8B-Instruct-GGUF"
+  },
+  {
+    "_id": "659a9ab4654fe4eb0af90412",
+    "id": "TheBloke/LLaMA-Pro-8B-Instruct-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-07T12:36:04.000Z",
+    "modelId": "TheBloke/LLaMA-Pro-8B-Instruct-GPTQ"
+  },
+  {
+    "_id": "659a9ab4b0f43ed69fa4ff2c",
+    "id": "TheBloke/LLaMA-Pro-8B-Instruct-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-07T12:36:04.000Z",
+    "modelId": "TheBloke/LLaMA-Pro-8B-Instruct-AWQ"
+  },
+  {
+    "_id": "659a9b38c1144540fdb980ca",
+    "id": "TheBloke/Noromaid-13B-v0.3-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2024-01-07T12:38:16.000Z",
+    "modelId": "TheBloke/Noromaid-13B-v0.3-GGUF"
+  },
+  {
+    "_id": "659a9b38c6457161caf09877",
+    "id": "TheBloke/Noromaid-13B-v0.3-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-07T12:38:16.000Z",
+    "modelId": "TheBloke/Noromaid-13B-v0.3-AWQ"
   }
 ]
