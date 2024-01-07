@@ -85381,7 +85381,7 @@
   {
     "_id": "659584139c58b10612eba75a",
     "id": "TheBloke/Unholy-v2-13B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -87041,7 +87041,7 @@
   {
     "_id": "6599d6998c8ac792950e2c8c",
     "id": "TheBloke/zephyr-quiklang-3b-4K-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -87195,8 +87195,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:TencentARC/LLaMA-Pro-8B-Instruct",
+      "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-07T12:36:04.000Z",
     "modelId": "TheBloke/LLaMA-Pro-8B-Instruct-GPTQ"
   },
@@ -87207,8 +87218,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:TencentARC/LLaMA-Pro-8B-Instruct",
+      "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-07T12:36:04.000Z",
     "modelId": "TheBloke/LLaMA-Pro-8B-Instruct-AWQ"
   },
@@ -87219,9 +87241,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "llama",
+      "base_model:NeverSleep/Noromaid-13b-v0.3",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2024-01-07T12:38:16.000Z",
     "modelId": "TheBloke/Noromaid-13B-v0.3-GGUF"
   },
@@ -87232,9 +87260,32 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:NeverSleep/Noromaid-13b-v0.3",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-07T12:38:16.000Z",
     "modelId": "TheBloke/Noromaid-13B-v0.3-AWQ"
+  },
+  {
+    "_id": "659aa22c8c8ac792953fc559",
+    "id": "TheBloke/Noromaid-13B-v0.3-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-07T13:07:56.000Z",
+    "modelId": "TheBloke/Noromaid-13B-v0.3-GPTQ"
   }
 ]
