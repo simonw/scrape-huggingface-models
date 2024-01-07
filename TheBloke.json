@@ -4,7 +4,7 @@
     "id": "TheBloke/koala-7B-GPTQ",
     "likes": 31,
     "private": false,
-    "downloads": 26,
+    "downloads": 17,
     "tags": [
       "transformers",
       "safetensors",
@@ -26,7 +26,7 @@
     "id": "TheBloke/koala-7B-HF",
     "likes": 18,
     "private": false,
-    "downloads": 1728,
+    "downloads": 1724,
     "tags": [
       "transformers",
       "pytorch",
@@ -54,7 +54,7 @@
     "id": "TheBloke/koala-13B-HF",
     "likes": 41,
     "private": false,
-    "downloads": 1738,
+    "downloads": 1729,
     "tags": [
       "transformers",
       "pytorch",
@@ -178,7 +178,7 @@
     "id": "TheBloke/Vicuna-13B-1.1-GPTQ",
     "likes": 208,
     "private": false,
-    "downloads": 278,
+    "downloads": 272,
     "tags": [
       "transformers",
       "llama",
@@ -23374,7 +23374,7 @@
   {
     "_id": "64f7a58cbcf14b0c915ad636",
     "id": "TheBloke/Mythalion-13B-GGUF",
-    "likes": 53,
+    "likes": 54,
     "private": false,
     "downloads": 56,
     "tags": [
@@ -66383,7 +66383,7 @@
   {
     "_id": "65678818b733e539ae544a90",
     "id": "TheBloke/LLaMA2-13B-Psyfighter2-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 19,
     "tags": [
@@ -66425,7 +66425,7 @@
   {
     "_id": "6567bb76253c8b0b67a37989",
     "id": "TheBloke/NeuralHermes-2.5-Mistral-7B-GGUF",
-    "likes": 40,
+    "likes": 41,
     "private": false,
     "downloads": 50,
     "tags": [
@@ -82790,8 +82790,7 @@
       "base_model:mlabonne/NeuralPipe-7B-ties",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "library_name": "transformers",
     "createdAt": "2023-12-29T16:54:16.000Z",
@@ -85051,7 +85050,7 @@
   {
     "_id": "659492dfde82e1ef7bcda571",
     "id": "TheBloke/Pallas-0.5-LASER-0.6-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -85886,7 +85885,7 @@
   {
     "_id": "6596e10767b8fc627906ecb1",
     "id": "TheBloke/Mistral-7B-OpenOrca-oasst_top1_2023-08-25-v2-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 4,
     "tags": [
