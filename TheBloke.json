@@ -78535,7 +78535,7 @@
   {
     "_id": "658367401e065c276dbee1da",
     "id": "TheBloke/dragon-mistral-7B-v0-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -82790,7 +82790,8 @@
       "base_model:mlabonne/NeuralPipe-7B-ties",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "library_name": "transformers",
     "createdAt": "2023-12-29T16:54:16.000Z",
@@ -86320,7 +86321,7 @@
   {
     "_id": "659833522ece326565122eb6",
     "id": "TheBloke/Beyonder-4x7B-v2-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -86644,7 +86645,7 @@
   {
     "_id": "65988c4bb01e6e0c71dccc37",
     "id": "TheBloke/Open_Gpt4_8x7B-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -87283,8 +87284,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:NeverSleep/Noromaid-13b-v0.3",
+      "license:cc-by-nc-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-07T13:07:56.000Z",
     "modelId": "TheBloke/Noromaid-13B-v0.3-GPTQ"
   }
