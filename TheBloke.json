@@ -58130,7 +58130,7 @@
   {
     "_id": "6554a94724101a13f79fe779",
     "id": "TheBloke/Tess-XL-v1.0-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -84463,7 +84463,7 @@
   {
     "_id": "6593d19411f68f12eaccc96f",
     "id": "TheBloke/Nous-Hermes-2-SOLAR-10.7B-GGUF",
-    "likes": 50,
+    "likes": 51,
     "private": false,
     "downloads": 28,
     "tags": [
@@ -87172,7 +87172,7 @@
   {
     "_id": "659a9ab42f42fd55b9ec60e4",
     "id": "TheBloke/LLaMA-Pro-8B-Instruct-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -87352,5 +87352,40 @@
     "library_name": "transformers",
     "createdAt": "2024-01-08T10:42:12.000Z",
     "modelId": "TheBloke/Mixtral_34Bx2_MoE_60B-AWQ"
+  },
+  {
+    "_id": "659c0c4c9ea1396d7fa13960",
+    "id": "TheBloke/speechless-mistral-moloras-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-08T14:53:00.000Z",
+    "modelId": "TheBloke/speechless-mistral-moloras-7B-AWQ"
+  },
+  {
+    "_id": "659c0c4cddd3bcb80d06f5c5",
+    "id": "TheBloke/speechless-mistral-moloras-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "text-generation",
+      "en",
+      "dataset:yahma/alpaca-cleaned",
+      "base_model:uukuguy/speechless-mistral-moloras-7b",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2024-01-08T14:53:00.000Z",
+    "modelId": "TheBloke/speechless-mistral-moloras-7B-GGUF"
   }
 ]
