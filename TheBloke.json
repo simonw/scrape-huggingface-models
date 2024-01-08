@@ -21648,7 +21648,7 @@
   {
     "_id": "64f69c38c3bdaab6f58e2b8c",
     "id": "TheBloke/MythoMax-L2-13B-GGUF",
-    "likes": 35,
+    "likes": 36,
     "private": false,
     "downloads": 65,
     "tags": [
@@ -27099,7 +27099,7 @@
   {
     "_id": "65060b7c14302b1d76a394e9",
     "id": "TheBloke/MLewd-L2-Chat-13B-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 26,
     "tags": [
@@ -46255,7 +46255,7 @@
   {
     "_id": "652babcaff2202020eae716d",
     "id": "TheBloke/Xwin-MLewd-13B-v0.2-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 138,
     "tags": [
@@ -87298,5 +87298,42 @@
     "library_name": "transformers",
     "createdAt": "2024-01-07T13:07:56.000Z",
     "modelId": "TheBloke/Noromaid-13B-v0.3-GPTQ"
+  },
+  {
+    "_id": "659bd18422031755fdb973a3",
+    "id": "TheBloke/Mixtral_34Bx2_MoE_60B-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2024-01-08T10:42:12.000Z",
+    "modelId": "TheBloke/Mixtral_34Bx2_MoE_60B-GGUF"
+  },
+  {
+    "_id": "659bd184351b2890639caeaa",
+    "id": "TheBloke/Mixtral_34Bx2_MoE_60B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-08T10:42:12.000Z",
+    "modelId": "TheBloke/Mixtral_34Bx2_MoE_60B-GPTQ"
+  },
+  {
+    "_id": "659bd184539c808e847d7063",
+    "id": "TheBloke/Mixtral_34Bx2_MoE_60B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-08T10:42:12.000Z",
+    "modelId": "TheBloke/Mixtral_34Bx2_MoE_60B-AWQ"
   }
 ]
