@@ -58836,7 +58836,7 @@
   {
     "_id": "65568263d23e211b1c8f0fa0",
     "id": "TheBloke/TimeCrystal-L2-13B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -71221,7 +71221,7 @@
   {
     "_id": "65770d54b2b935d83f6ea4d1",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GGUF",
-    "likes": 330,
+    "likes": 331,
     "private": false,
     "downloads": 643,
     "tags": [
@@ -81950,7 +81950,7 @@
   {
     "_id": "658c2620c1229bf11329f37b",
     "id": "TheBloke/Silicon-Maid-7B-GPTQ",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 247,
     "tags": [
@@ -83326,7 +83326,7 @@
   {
     "_id": "658fe1151adf6d577e80591d",
     "id": "TheBloke/mistral-ft-optimized-1227-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 13,
     "tags": [
@@ -87306,9 +87306,15 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "mixtral",
+      "base_model:cloudyu/Mixtral_34Bx2_MoE_60B",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2024-01-08T10:42:12.000Z",
     "modelId": "TheBloke/Mixtral_34Bx2_MoE_60B-GGUF"
   },
