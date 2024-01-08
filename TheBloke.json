@@ -4,7 +4,7 @@
     "id": "TheBloke/koala-7B-GPTQ",
     "likes": 31,
     "private": false,
-    "downloads": 17,
+    "downloads": 15,
     "tags": [
       "transformers",
       "safetensors",
@@ -26,7 +26,7 @@
     "id": "TheBloke/koala-7B-HF",
     "likes": 18,
     "private": false,
-    "downloads": 1724,
+    "downloads": 1712,
     "tags": [
       "transformers",
       "pytorch",
@@ -54,7 +54,7 @@
     "id": "TheBloke/koala-13B-HF",
     "likes": 41,
     "private": false,
-    "downloads": 1729,
+    "downloads": 1716,
     "tags": [
       "transformers",
       "pytorch",
@@ -178,7 +178,7 @@
     "id": "TheBloke/Vicuna-13B-1.1-GPTQ",
     "likes": 208,
     "private": false,
-    "downloads": 272,
+    "downloads": 265,
     "tags": [
       "transformers",
       "llama",
@@ -219,7 +219,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-30b-HF",
     "likes": 11,
     "private": false,
-    "downloads": 1734,
+    "downloads": 1727,
     "tags": [
       "transformers",
       "pytorch",
@@ -55714,7 +55714,7 @@
   {
     "_id": "654cdb4fce215f3cd11d2355",
     "id": "TheBloke/goliath-120b-GPTQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 701,
     "tags": [
@@ -86125,7 +86125,7 @@
   {
     "_id": "6597ee91330942d12824952b",
     "id": "TheBloke/Mixtral_11Bx2_MoE_19B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -86273,7 +86273,7 @@
   {
     "_id": "6598168b4dbb962b7c71ff77",
     "id": "TheBloke/Mixtral_11Bx2_MoE_19B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -86320,7 +86320,7 @@
   {
     "_id": "659833522ece326565122eb6",
     "id": "TheBloke/Beyonder-4x7B-v2-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -87302,7 +87302,7 @@
   {
     "_id": "659bd18422031755fdb973a3",
     "id": "TheBloke/Mixtral_34Bx2_MoE_60B-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -87360,8 +87360,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "dataset:yahma/alpaca-cleaned",
+      "base_model:uukuguy/speechless-mistral-moloras-7b",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-08T14:53:00.000Z",
     "modelId": "TheBloke/speechless-mistral-moloras-7B-AWQ"
   },
