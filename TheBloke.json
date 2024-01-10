@@ -73059,7 +73059,7 @@
   {
     "_id": "6579ae29aace0258712463af",
     "id": "TheBloke/SOLAR-10.7B-Instruct-v1.0-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 580,
     "tags": [
@@ -84488,7 +84488,7 @@
   {
     "_id": "6593d19489f1ff0463f9db3d",
     "id": "TheBloke/Nous-Hermes-2-SOLAR-10.7B-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 145,
     "tags": [
@@ -86776,7 +86776,7 @@
   {
     "_id": "659932a8f82b15d663f2e7a6",
     "id": "TheBloke/LLaMA-Pro-8B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 22,
     "tags": [
@@ -87531,7 +87531,7 @@
   {
     "_id": "659de36d23a7c54495c93026",
     "id": "TheBloke/finance-chat-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -87719,7 +87719,7 @@
   {
     "_id": "659dea39d67cf2d826463a83",
     "id": "TheBloke/law-chat-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -87749,7 +87749,7 @@
   {
     "_id": "659df05d5177d1ed66ca3395",
     "id": "TheBloke/medicine-chat-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -87946,8 +87946,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mixtral",
+      "text-generation",
+      "mergekit",
+      "merge",
+      "arxiv:2311.03099",
+      "arxiv:2306.01708",
+      "base_model:Doctor-Shotgun/Mixtral-8x7B-Instruct-v0.1-LimaRP-ZLoss-DARE-TIES",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-10T02:33:43.000Z",
     "modelId": "TheBloke/Mixtral-8x7B-Instruct-v0.1-LimaRP-ZLoss-DARE-TIES-GPTQ"
   },
@@ -87972,5 +87986,42 @@
     "library_name": "transformers",
     "createdAt": "2024-01-10T02:33:43.000Z",
     "modelId": "TheBloke/Mixtral-8x7B-Instruct-v0.1-LimaRP-ZLoss-DARE-TIES-GGUF"
+  },
+  {
+    "_id": "659e249a270690be02e5426a",
+    "id": "TheBloke/Lumosia-MoE-4x10.7-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-10T05:01:14.000Z",
+    "modelId": "TheBloke/Lumosia-MoE-4x10.7-AWQ"
+  },
+  {
+    "_id": "659e249ac474a955d4eefcd7",
+    "id": "TheBloke/Lumosia-MoE-4x10.7-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-10T05:01:14.000Z",
+    "modelId": "TheBloke/Lumosia-MoE-4x10.7-GPTQ"
+  },
+  {
+    "_id": "659e249b9dd5a71bd3e7b7a5",
+    "id": "TheBloke/Lumosia-MoE-4x10.7-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2024-01-10T05:01:15.000Z",
+    "modelId": "TheBloke/Lumosia-MoE-4x10.7-GGUF"
   }
 ]
