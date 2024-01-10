@@ -645,7 +645,7 @@
     "id": "TheBloke/wizard-vicuna-13B-GPTQ",
     "likes": 99,
     "private": false,
-    "downloads": 1864,
+    "downloads": 1892,
     "tags": [
       "transformers",
       "safetensors",
@@ -671,7 +671,7 @@
     "id": "TheBloke/wizard-vicuna-13B-HF",
     "likes": 48,
     "private": false,
-    "downloads": 1709,
+    "downloads": 1736,
     "tags": [
       "transformers",
       "pytorch",
@@ -709,7 +709,7 @@
     "id": "TheBloke/WizardLM-7B-uncensored-GPTQ",
     "likes": 165,
     "private": false,
-    "downloads": 2897,
+    "downloads": 2935,
     "tags": [
       "transformers",
       "safetensors",
@@ -820,7 +820,7 @@
     "id": "TheBloke/dromedary-65b-lora-HF",
     "likes": 20,
     "private": false,
-    "downloads": 1719,
+    "downloads": 1742,
     "tags": [
       "transformers",
       "pytorch",
@@ -905,7 +905,7 @@
     "id": "TheBloke/h2ogpt-oasst1-512-30B-HF",
     "likes": 2,
     "private": false,
-    "downloads": 1719,
+    "downloads": 1745,
     "tags": [
       "transformers",
       "pytorch",
@@ -946,7 +946,7 @@
     "id": "TheBloke/gpt4-alpaca-lora_mlp-65B-HF",
     "likes": 7,
     "private": false,
-    "downloads": 1749,
+    "downloads": 1773,
     "tags": [
       "transformers",
       "pytorch",
@@ -1011,7 +1011,7 @@
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
     "likes": 271,
     "private": false,
-    "downloads": 57859,
+    "downloads": 58946,
     "tags": [
       "transformers",
       "safetensors",
@@ -1038,7 +1038,7 @@
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-HF",
     "likes": 202,
     "private": false,
-    "downloads": 3078,
+    "downloads": 3091,
     "tags": [
       "transformers",
       "pytorch",
@@ -4172,7 +4172,7 @@
   {
     "_id": "64850bf85f815d441b36ab90",
     "id": "TheBloke/tulu-7B-fp16",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 1725,
     "tags": [
@@ -87641,7 +87641,7 @@
   {
     "_id": "659de759f2e0e03e458666f5",
     "id": "TheBloke/OrcaMaid-v3-13B-32k-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -88100,7 +88100,7 @@
   {
     "_id": "659e762c95d836113a34ab8f",
     "id": "TheBloke/openchat-3.5-0106-GGUF",
-    "likes": 3,
+    "likes": 5,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -88156,8 +88156,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "gguf",
+      "mixtral",
+      "dataset:NobodyExistsOnTheInternet/full120k",
+      "base_model:Sao10K/Sensualize-Mixtral-bf16",
+      "license:cc-by-nc-4.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2024-01-10T16:09:43.000Z",
     "modelId": "TheBloke/Sensualize-Mixtral-GGUF"
   },
