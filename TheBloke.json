@@ -62608,7 +62608,7 @@
   {
     "_id": "655f11a83beaa281e52dccf1",
     "id": "TheBloke/Noromaid-20B-v0.1.1-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 46,
     "tags": [
@@ -86363,7 +86363,7 @@
   {
     "_id": "65983eb40ae723e79c256ac5",
     "id": "TheBloke/phi-2-dpo-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -86863,7 +86863,7 @@
   {
     "_id": "6599b7c81b4a26041ac9887c",
     "id": "TheBloke/bagel-8x7b-v0.2-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -87129,7 +87129,7 @@
   {
     "_id": "6599e42db01e6e0c714d8104",
     "id": "TheBloke/sonya-medium-x8-MoE-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -87640,7 +87640,7 @@
   {
     "_id": "659de759f2e0e03e458666f5",
     "id": "TheBloke/OrcaMaid-v3-13B-32k-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -87691,7 +87691,7 @@
   {
     "_id": "659dea3987e6996ad489c002",
     "id": "TheBloke/law-chat-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -87719,7 +87719,7 @@
   {
     "_id": "659dea39d67cf2d826463a83",
     "id": "TheBloke/law-chat-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -87944,8 +87944,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "gguf",
+      "mixtral",
+      "mergekit",
+      "merge",
+      "arxiv:2311.03099",
+      "arxiv:2306.01708",
+      "base_model:Doctor-Shotgun/Mixtral-8x7B-Instruct-v0.1-LimaRP-ZLoss-DARE-TIES",
+      "text-generation-inference",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2024-01-10T02:33:43.000Z",
     "modelId": "TheBloke/Mixtral-8x7B-Instruct-v0.1-LimaRP-ZLoss-DARE-TIES-GGUF"
   }
