@@ -26440,7 +26440,7 @@
   {
     "_id": "650343f96c81feb4726ea3db",
     "id": "TheBloke/Chinese-Llama-2-7B-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -74891,7 +74891,7 @@
   {
     "_id": "657ba0eddaab7e5f35179822",
     "id": "TheBloke/una-cybertron-7B-v3-OMA-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 16,
     "tags": [
@@ -77300,7 +77300,7 @@
   {
     "_id": "6580aa20419afba19a692cc8",
     "id": "TheBloke/phi-2-GGUF",
-    "likes": 92,
+    "likes": 93,
     "private": false,
     "downloads": 323,
     "tags": [
@@ -78599,7 +78599,7 @@
   {
     "_id": "6584255e40e42901d6623d28",
     "id": "TheBloke/WhiteRabbitNeo-13B-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -87920,8 +87920,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mixtral",
+      "text-generation",
+      "mergekit",
+      "merge",
+      "arxiv:2311.03099",
+      "arxiv:2306.01708",
+      "base_model:Doctor-Shotgun/Mixtral-8x7B-Instruct-v0.1-LimaRP-ZLoss-DARE-TIES",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-10T02:33:43.000Z",
     "modelId": "TheBloke/Mixtral-8x7B-Instruct-v0.1-LimaRP-ZLoss-DARE-TIES-AWQ"
   },
