@@ -6761,7 +6761,7 @@
   {
     "_id": "649a5dcd96d5747b35e30c6f",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-SuperHOT-8K-GPTQ",
-    "likes": 108,
+    "likes": 109,
     "private": false,
     "downloads": 449,
     "tags": [
@@ -6807,7 +6807,7 @@
   {
     "_id": "649a9d2a2e34c6901561a472",
     "id": "TheBloke/airoboros-13b-gpt4-1.4-SuperHOT-8K-GPTQ",
-    "likes": 23,
+    "likes": 24,
     "private": false,
     "downloads": 38,
     "tags": [
@@ -15215,7 +15215,7 @@
   {
     "_id": "64d5e2dcabf475a808a24d42",
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
-    "likes": 113,
+    "likes": 114,
     "private": false,
     "downloads": 37954,
     "tags": [
@@ -73017,7 +73017,7 @@
   {
     "_id": "6579ae291b1c5bff9be6e86c",
     "id": "TheBloke/SOLAR-10.7B-Instruct-v1.0-GGUF",
-    "likes": 72,
+    "likes": 73,
     "private": false,
     "downloads": 159,
     "tags": [
@@ -84329,7 +84329,7 @@
   {
     "_id": "6592e86b9e16fa7510b9520b",
     "id": "TheBloke/sonya-7B-x8-MoE-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -85067,7 +85067,7 @@
   {
     "_id": "65949328075245eadd5d2a4a",
     "id": "TheBloke/Thespis-Mistral-7B-Alpha-v0.7-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -87152,7 +87152,7 @@
   {
     "_id": "6599e42deabe0f3e98e1bec8",
     "id": "TheBloke/sonya-medium-x8-MoE-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -87171,7 +87171,7 @@
   {
     "_id": "659a9ab42f42fd55b9ec60e4",
     "id": "TheBloke/LLaMA-Pro-8B-Instruct-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -87616,7 +87616,7 @@
   {
     "_id": "659de759912b75e2c35b8a08",
     "id": "TheBloke/OrcaMaid-v3-13B-32k-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -87840,7 +87840,7 @@
   {
     "_id": "659df6b51723f371c9e71745",
     "id": "TheBloke/Velara-11B-V2-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -87892,7 +87892,7 @@
   {
     "_id": "659df6b5f2e0e03e458a6684",
     "id": "TheBloke/Velara-11B-V2-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -87942,7 +87942,7 @@
   {
     "_id": "659e0207b03a0f0e4f511a0b",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-LimaRP-ZLoss-DARE-TIES-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -88068,5 +88068,69 @@
     "library_name": "transformers",
     "createdAt": "2024-01-10T08:44:58.000Z",
     "modelId": "TheBloke/OrcaMaid-v3-13B-32k-GPTQ"
+  },
+  {
+    "_id": "659e762c04b93eb6dbb0c530",
+    "id": "TheBloke/openchat-3.5-0106-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "openchat",
+      "C-RLFT",
+      "arxiv:2309.11235",
+      "arxiv:2303.08774",
+      "base_model:openchat/openchat-3.5-0106",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2024-01-10T10:49:16.000Z",
+    "modelId": "TheBloke/openchat-3.5-0106-AWQ"
+  },
+  {
+    "_id": "659e762c95d836113a34ab8f",
+    "id": "TheBloke/openchat-3.5-0106-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "openchat",
+      "C-RLFT",
+      "text-generation",
+      "arxiv:2309.11235",
+      "arxiv:2303.08774",
+      "base_model:openchat/openchat-3.5-0106",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2024-01-10T10:49:16.000Z",
+    "modelId": "TheBloke/openchat-3.5-0106-GGUF"
+  },
+  {
+    "_id": "659e762ce6fe8ef6196d69eb",
+    "id": "TheBloke/openchat-3.5-0106-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-10T10:49:16.000Z",
+    "modelId": "TheBloke/openchat-3.5-0106-GPTQ"
   }
 ]
