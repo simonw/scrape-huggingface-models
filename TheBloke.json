@@ -52310,7 +52310,7 @@
   {
     "_id": "65403e7339948eb634bfcdff",
     "id": "TheBloke/dolphin-2.2.1-mistral-7B-GGUF",
-    "likes": 100,
+    "likes": 101,
     "private": false,
     "downloads": 160,
     "tags": [
@@ -82297,7 +82297,7 @@
   {
     "_id": "658d91985d064520e1563ba9",
     "id": "TheBloke/SOLARC-MOE-10.7Bx4-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 31,
     "tags": [
@@ -88018,9 +88018,23 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "mixtral",
+      "moe",
+      "merge",
+      "mergekit",
+      "lazymergekit",
+      "DopeorNope/SOLARC-M-10.7B",
+      "maywell/PiVoT-10.7B-Mistral-v0.2-RP",
+      "kyujinpy/Sakura-SOLAR-Instruct",
+      "jeonsworld/CarbonVillain-en-10.7B-v1",
+      "base_model:Steelskull/Lumosia-MoE-4x10.7",
+      "license:apache-2.0",
+      "text-generation-inference",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2024-01-10T05:01:15.000Z",
     "modelId": "TheBloke/Lumosia-MoE-4x10.7-GGUF"
   }
