@@ -10648,7 +10648,7 @@
   {
     "_id": "64b6d9d4bb1d8f2832c8be93",
     "id": "TheBloke/Llama-2-13B-chat-GPTQ",
-    "likes": 319,
+    "likes": 320,
     "private": false,
     "downloads": 114889,
     "tags": [
@@ -21407,7 +21407,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7B-Chat-GGUF",
-    "likes": 219,
+    "likes": 220,
     "private": false,
     "downloads": 2203,
     "tags": [
@@ -23314,7 +23314,7 @@
   {
     "_id": "64f7a55fe7584abc62396874",
     "id": "TheBloke/Pygmalion-2-7B-GGUF",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 38,
     "tags": [
@@ -68579,7 +68579,7 @@
   {
     "_id": "6570b4293e68d88fd6061f45",
     "id": "TheBloke/Magicoder-S-DS-6.7B-GGUF",
-    "likes": 39,
+    "likes": 40,
     "private": false,
     "downloads": 38,
     "tags": [
@@ -71348,7 +71348,7 @@
   {
     "_id": "657759d1da3f14fa5ddeba81",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GPTQ",
-    "likes": 56,
+    "likes": 57,
     "private": false,
     "downloads": 404506,
     "tags": [
@@ -83325,7 +83325,7 @@
   {
     "_id": "658fe1151adf6d577e80591d",
     "id": "TheBloke/mistral-ft-optimized-1227-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 15,
     "tags": [
@@ -88128,8 +88128,23 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "openchat",
+      "C-RLFT",
+      "arxiv:2309.11235",
+      "arxiv:2303.08774",
+      "base_model:openchat/openchat-3.5-0106",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-10T10:49:16.000Z",
     "modelId": "TheBloke/openchat-3.5-0106-GPTQ"
   }
