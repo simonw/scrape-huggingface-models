@@ -26,7 +26,7 @@
     "id": "TheBloke/koala-7B-HF",
     "likes": 18,
     "private": false,
-    "downloads": 1752,
+    "downloads": 1765,
     "tags": [
       "transformers",
       "pytorch",
@@ -54,7 +54,7 @@
     "id": "TheBloke/koala-13B-HF",
     "likes": 41,
     "private": false,
-    "downloads": 1768,
+    "downloads": 1777,
     "tags": [
       "transformers",
       "pytorch",
@@ -155,7 +155,7 @@
     "id": "TheBloke/vicuna-7B-v0-GPTQ",
     "likes": 15,
     "private": false,
-    "downloads": 24,
+    "downloads": 23,
     "tags": [
       "transformers",
       "pytorch",
@@ -178,7 +178,7 @@
     "id": "TheBloke/Vicuna-13B-1.1-GPTQ",
     "likes": 208,
     "private": false,
-    "downloads": 244,
+    "downloads": 236,
     "tags": [
       "transformers",
       "llama",
@@ -86125,7 +86125,7 @@
   {
     "_id": "6597ee91330942d12824952b",
     "id": "TheBloke/Mixtral_11Bx2_MoE_19B-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -88294,8 +88294,27 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "phi-msft",
+      "text-generation",
+      "moe",
+      "nlp",
+      "code",
+      "cognitivecomputations/dolphin-2_6-phi-2",
+      "lxuechen/phi-2-dpo",
+      "Yhyu13/phi-2-sft-dpo-gpt4_en-ep1",
+      "mrm8488/phi-2-coder",
+      "custom_code",
+      "en",
+      "base_model:mlabonne/phixtral-4x2_8",
+      "license:mit",
+      "autotrain_compatible",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-11T14:38:56.000Z",
     "modelId": "TheBloke/phixtral-4x2_8-GPTQ"
   },
@@ -88317,5 +88336,29 @@
     "library_name": "transformers",
     "createdAt": "2024-01-11T14:43:28.000Z",
     "modelId": "TheBloke/Nous-Capybara-limarpv3-34B-GGUF"
+  },
+  {
+    "_id": "65a00af52398ad11a5d31e74",
+    "id": "TheBloke/Nous-Capybara-limarpv3-34B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-11T15:36:21.000Z",
+    "modelId": "TheBloke/Nous-Capybara-limarpv3-34B-GPTQ"
+  },
+  {
+    "_id": "65a00af5606766bc3878de5c",
+    "id": "TheBloke/Nous-Capybara-limarpv3-34B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-11T15:36:21.000Z",
+    "modelId": "TheBloke/Nous-Capybara-limarpv3-34B-AWQ"
   }
 ]
