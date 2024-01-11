@@ -88100,7 +88100,7 @@
   {
     "_id": "659e762c95d836113a34ab8f",
     "id": "TheBloke/openchat-3.5-0106-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -88220,7 +88220,7 @@
   {
     "_id": "659f160f2ff607463dd302f0",
     "id": "TheBloke/MegaDolphin-120b-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -88286,5 +88286,36 @@
     "library_name": "transformers",
     "createdAt": "2024-01-10T22:11:27.000Z",
     "modelId": "TheBloke/MegaDolphin-120b-AWQ"
+  },
+  {
+    "_id": "659ffd805dfd8b9b1ff0e880",
+    "id": "TheBloke/phixtral-4x2_8-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-11T14:38:56.000Z",
+    "modelId": "TheBloke/phixtral-4x2_8-GPTQ"
+  },
+  {
+    "_id": "659ffe9014ac6d6f811ba799",
+    "id": "TheBloke/Nous-Capybara-limarpv3-34B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "llama",
+      "base_model:Doctor-Shotgun/Nous-Capybara-limarpv3-34B",
+      "license:other",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2024-01-11T14:43:28.000Z",
+    "modelId": "TheBloke/Nous-Capybara-limarpv3-34B-GGUF"
   }
 ]
