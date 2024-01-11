@@ -792,7 +792,7 @@
   {
     "_id": "64555d20fe2f48cb4b6da91f",
     "id": "TheBloke/gpt4-x-vicuna-13B-GGML",
-    "likes": 97,
+    "likes": 96,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -1267,7 +1267,7 @@
   {
     "_id": "6465d990e0fe831b4789b356",
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GGML",
-    "likes": 84,
+    "likes": 83,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -2756,7 +2756,7 @@
   {
     "_id": "647c4448c788767ab5c54926",
     "id": "TheBloke/airoboros-13b-gpt4-GGML",
-    "likes": 12,
+    "likes": 11,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -2889,7 +2889,7 @@
   {
     "_id": "647c8e5360dfe0f35d51c6ba",
     "id": "TheBloke/airoboros-7b-gpt4-GGML",
-    "likes": 13,
+    "likes": 12,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -11081,7 +11081,7 @@
   {
     "_id": "64b9291ce3d41dbd696f5e68",
     "id": "TheBloke/llama-2-13B-Guanaco-QLoRA-GGML",
-    "likes": 35,
+    "likes": 34,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -11503,7 +11503,7 @@
   {
     "_id": "64baf98eaaccfd28b020975b",
     "id": "TheBloke/Nous-Hermes-Llama2-GGML",
-    "likes": 98,
+    "likes": 97,
     "private": false,
     "downloads": 57,
     "tags": [
@@ -18111,7 +18111,7 @@
     "id": "TheBloke/CodeLlama-34B-Instruct-GPTQ",
     "likes": 70,
     "private": false,
-    "downloads": 234170,
+    "downloads": 219974,
     "tags": [
       "transformers",
       "safetensors",
@@ -18165,7 +18165,7 @@
     "id": "TheBloke/CodeLlama-34B-GPTQ",
     "likes": 20,
     "private": false,
-    "downloads": 39,
+    "downloads": 48,
     "tags": [
       "transformers",
       "safetensors",
@@ -18342,7 +18342,7 @@
     "id": "TheBloke/Llama2-70B-OASST-SFT-v10-GPTQ",
     "likes": 4,
     "private": false,
-    "downloads": 20,
+    "downloads": 21,
     "tags": [
       "transformers",
       "safetensors",
@@ -18464,7 +18464,7 @@
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GPTQ",
     "likes": 58,
     "private": false,
-    "downloads": 1009,
+    "downloads": 1032,
     "tags": [
       "transformers",
       "safetensors",
@@ -18494,7 +18494,7 @@
     "id": "TheBloke/WizardCoder-Python-34B-V1.0-GGUF",
     "likes": 71,
     "private": false,
-    "downloads": 41,
+    "downloads": 40,
     "tags": [
       "transformers",
       "gguf",
@@ -18699,7 +18699,7 @@
     "id": "TheBloke/Genz-70b-GPTQ",
     "likes": 35,
     "private": false,
-    "downloads": 1916,
+    "downloads": 1933,
     "tags": [
       "transformers",
       "safetensors",
@@ -18866,7 +18866,7 @@
     "id": "TheBloke/Airoboros-L2-70B-2.1-GPTQ",
     "likes": 16,
     "private": false,
-    "downloads": 1848,
+    "downloads": 1851,
     "tags": [
       "transformers",
       "safetensors",
@@ -19061,7 +19061,7 @@
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GPTQ",
     "likes": 73,
     "private": false,
-    "downloads": 17730,
+    "downloads": 13944,
     "tags": [
       "transformers",
       "safetensors",
@@ -19116,7 +19116,7 @@
     "id": "TheBloke/WizardCoder-Python-13B-V1.0-GGUF",
     "likes": 39,
     "private": false,
-    "downloads": 34,
+    "downloads": 36,
     "tags": [
       "transformers",
       "gguf",
@@ -19142,7 +19142,7 @@
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GPTQ",
     "likes": 85,
     "private": false,
-    "downloads": 9623,
+    "downloads": 9586,
     "tags": [
       "transformers",
       "safetensors",
@@ -19167,7 +19167,7 @@
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
     "likes": 134,
     "private": false,
-    "downloads": 69,
+    "downloads": 83,
     "tags": [
       "transformers",
       "gguf",
@@ -19365,7 +19365,7 @@
     "id": "TheBloke/Lemur-70B-Chat-v1-GPTQ",
     "likes": 3,
     "private": false,
-    "downloads": 1763,
+    "downloads": 1771,
     "tags": [
       "transformers",
       "safetensors",
@@ -19493,7 +19493,7 @@
     "id": "TheBloke/Airoboros-L2-13B-2.1-GPTQ",
     "likes": 10,
     "private": false,
-    "downloads": 1858,
+    "downloads": 1867,
     "tags": [
       "transformers",
       "safetensors",
@@ -19604,7 +19604,7 @@
     "id": "TheBloke/Airoboros-L2-7B-2.1-GGML",
     "likes": 1,
     "private": false,
-    "downloads": 1,
+    "downloads": 12,
     "tags": [
       "transformers",
       "llama",
@@ -20003,7 +20003,7 @@
     "id": "TheBloke/Kimiko-v2-13B-fp16",
     "likes": 3,
     "private": false,
-    "downloads": 1861,
+    "downloads": 1868,
     "tags": [
       "transformers",
       "pytorch",
@@ -20118,7 +20118,7 @@
     "id": "TheBloke/fiction.live-Kimiko-V2-70B-fp16",
     "likes": 4,
     "private": false,
-    "downloads": 1811,
+    "downloads": 1814,
     "tags": [
       "transformers",
       "pytorch",
@@ -20179,7 +20179,7 @@
     "id": "TheBloke/MythoMax-L2-Kimiko-v2-13B-GPTQ",
     "likes": 22,
     "private": false,
-    "downloads": 109,
+    "downloads": 105,
     "tags": [
       "transformers",
       "safetensors",
@@ -20503,7 +20503,7 @@
     "id": "TheBloke/Yarn-Llama-2-7B-64K-GPTQ",
     "likes": 1,
     "private": false,
-    "downloads": 51,
+    "downloads": 66,
     "tags": [
       "transformers",
       "safetensors",
@@ -20529,7 +20529,7 @@
     "id": "TheBloke/Yarn-Llama-2-7B-128K-GGUF",
     "likes": 20,
     "private": false,
-    "downloads": 4,
+    "downloads": 6,
     "tags": [
       "transformers",
       "gguf",
@@ -20631,7 +20631,7 @@
     "id": "TheBloke/Yarn-Llama-2-13B-64K-GGUF",
     "likes": 18,
     "private": false,
-    "downloads": 3,
+    "downloads": 5,
     "tags": [
       "transformers",
       "gguf",
@@ -20652,7 +20652,7 @@
     "id": "TheBloke/Yarn-Llama-2-13B-128K-GPTQ",
     "likes": 16,
     "private": false,
-    "downloads": 213,
+    "downloads": 186,
     "tags": [
       "transformers",
       "safetensors",
@@ -20678,7 +20678,7 @@
     "id": "TheBloke/Yarn-Llama-2-7B-128K-GPTQ",
     "likes": 8,
     "private": false,
-    "downloads": 70,
+    "downloads": 20,
     "tags": [
       "transformers",
       "safetensors",
@@ -21068,7 +21068,7 @@
     "id": "TheBloke/Speechless-Llama2-Hermes-Orca-Platypus-WizardLM-13B-GPTQ",
     "likes": 22,
     "private": false,
-    "downloads": 226,
+    "downloads": 189,
     "tags": [
       "transformers",
       "safetensors",
@@ -21351,7 +21351,7 @@
     "id": "TheBloke/OpenBuddy-Llama2-13B-v11.1-GGUF",
     "likes": 24,
     "private": false,
-    "downloads": 29,
+    "downloads": 28,
     "tags": [
       "transformers",
       "gguf",
@@ -21381,7 +21381,7 @@
     "id": "TheBloke/Llama-2-7B-GGUF",
     "likes": 99,
     "private": false,
-    "downloads": 681,
+    "downloads": 653,
     "tags": [
       "transformers",
       "gguf",
@@ -21409,7 +21409,7 @@
     "id": "TheBloke/Llama-2-7B-Chat-GGUF",
     "likes": 221,
     "private": false,
-    "downloads": 2230,
+    "downloads": 2263,
     "tags": [
       "transformers",
       "gguf",
@@ -21437,7 +21437,7 @@
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
     "likes": 126,
     "private": false,
-    "downloads": 810,
+    "downloads": 814,
     "tags": [
       "transformers",
       "gguf",
@@ -21465,7 +21465,7 @@
     "id": "TheBloke/Llama-2-13B-GGUF",
     "likes": 44,
     "private": false,
-    "downloads": 259,
+    "downloads": 255,
     "tags": [
       "transformers",
       "gguf",
@@ -21492,7 +21492,7 @@
     "id": "TheBloke/Llama-2-70B-Chat-GGUF",
     "likes": 81,
     "private": false,
-    "downloads": 318,
+    "downloads": 302,
     "tags": [
       "transformers",
       "gguf",
@@ -21520,7 +21520,7 @@
     "id": "TheBloke/Llama-2-70B-GGUF",
     "likes": 17,
     "private": false,
-    "downloads": 36,
+    "downloads": 32,
     "tags": [
       "transformers",
       "gguf",
@@ -21650,7 +21650,7 @@
     "id": "TheBloke/MythoMax-L2-13B-GGUF",
     "likes": 35,
     "private": false,
-    "downloads": 55,
+    "downloads": 40,
     "tags": [
       "transformers",
       "gguf",
@@ -21906,7 +21906,7 @@
     "id": "TheBloke/Nous-Hermes-Llama-2-7B-GGUF",
     "likes": 7,
     "private": false,
-    "downloads": 21,
+    "downloads": 23,
     "tags": [
       "transformers",
       "gguf",
@@ -21930,7 +21930,7 @@
     "id": "TheBloke/Nous-Hermes-Llama2-GGUF",
     "likes": 11,
     "private": false,
-    "downloads": 11,
+    "downloads": 12,
     "tags": [
       "transformers",
       "gguf",
@@ -22079,7 +22079,7 @@
     "id": "TheBloke/WizardLM-13B-V1.2-GGUF",
     "likes": 13,
     "private": false,
-    "downloads": 32,
+    "downloads": 30,
     "tags": [
       "transformers",
       "gguf",
@@ -22350,7 +22350,7 @@
     "id": "TheBloke/Dolphin-Llama2-7B-GGUF",
     "likes": 2,
     "private": false,
-    "downloads": 8,
+    "downloads": 1,
     "tags": [
       "transformers",
       "gguf",
@@ -22725,7 +22725,7 @@
     "id": "TheBloke/Vigogne-2-7B-Chat-GGUF",
     "likes": 4,
     "private": false,
-    "downloads": 20,
+    "downloads": 13,
     "tags": [
       "transformers",
       "gguf",
@@ -23034,7 +23034,7 @@
     "id": "TheBloke/LlongOrca-13B-16K-GGUF",
     "likes": 9,
     "private": false,
-    "downloads": 7,
+    "downloads": 6,
     "tags": [
       "transformers",
       "gguf",
@@ -23131,7 +23131,7 @@
     "id": "TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF",
     "likes": 6,
     "private": false,
-    "downloads": 16,
+    "downloads": 17,
     "tags": [
       "transformers",
       "gguf",
@@ -23224,7 +23224,7 @@
     "id": "TheBloke/Pygmalion-2-13B-GPTQ",
     "likes": 38,
     "private": false,
-    "downloads": 3751,
+    "downloads": 3796,
     "tags": [
       "transformers",
       "safetensors",
@@ -23345,7 +23345,7 @@
     "id": "TheBloke/Mythalion-13B-GPTQ",
     "likes": 49,
     "private": false,
-    "downloads": 820,
+    "downloads": 1298,
     "tags": [
       "transformers",
       "safetensors",
@@ -23376,7 +23376,7 @@
     "id": "TheBloke/Mythalion-13B-GGUF",
     "likes": 54,
     "private": false,
-    "downloads": 56,
+    "downloads": 54,
     "tags": [
       "transformers",
       "gguf",
@@ -23432,7 +23432,7 @@
     "id": "TheBloke/Llama2-13B-MegaCode2-OASST-GGUF",
     "likes": 3,
     "private": false,
-    "downloads": 5,
+    "downloads": 4,
     "tags": [
       "transformers",
       "gguf",
@@ -23471,7 +23471,7 @@
     "id": "TheBloke/StableBeluga-7B-GGUF",
     "likes": 3,
     "private": false,
-    "downloads": 7,
+    "downloads": 8,
     "tags": [
       "transformers",
       "gguf",
@@ -23500,7 +23500,7 @@
     "id": "TheBloke/Llama-2-7B-32K-Instruct-GGUF",
     "likes": 44,
     "private": false,
-    "downloads": 82,
+    "downloads": 81,
     "tags": [
       "transformers",
       "gguf",
@@ -23547,7 +23547,7 @@
     "id": "TheBloke/Chronos-70B-v2-GPTQ",
     "likes": 9,
     "private": false,
-    "downloads": 21,
+    "downloads": 30,
     "tags": [
       "transformers",
       "safetensors",
@@ -23882,7 +23882,7 @@
     "id": "TheBloke/GodziLLa2-70B-GGUF",
     "likes": 7,
     "private": false,
-    "downloads": 10,
+    "downloads": 7,
     "tags": [
       "transformers",
       "gguf",
@@ -23997,7 +23997,7 @@
     "id": "TheBloke/Falcon-180B-Chat-GPTQ",
     "likes": 66,
     "private": false,
-    "downloads": 11913,
+    "downloads": 12235,
     "tags": [
       "transformers",
       "safetensors",
@@ -24073,7 +24073,7 @@
     "id": "TheBloke/Llama-2-70B-OASST-1-200-GGUF",
     "likes": 3,
     "private": false,
-    "downloads": 2,
+    "downloads": 5,
     "tags": [
       "transformers",
       "gguf",
@@ -24165,7 +24165,7 @@
     "id": "TheBloke/Falcon-180B-Chat-GGUF",
     "likes": 115,
     "private": false,
-    "downloads": 66,
+    "downloads": 69,
     "tags": [
       "transformers",
       "falcon",
@@ -24381,7 +24381,7 @@
     "id": "TheBloke/Guanaco-7B-Uncensored-GGUF",
     "likes": 11,
     "private": false,
-    "downloads": 75,
+    "downloads": 74,
     "tags": [
       "transformers",
       "gguf",
@@ -24404,7 +24404,7 @@
     "id": "TheBloke/Guanaco-13B-Uncensored-GGUF",
     "likes": 21,
     "private": false,
-    "downloads": 234,
+    "downloads": 219,
     "tags": [
       "transformers",
       "gguf",
@@ -41882,7 +41882,7 @@
   {
     "_id": "651bf48063cd12f4ba8db2f5",
     "id": "TheBloke/TinyLlama-1.1B-Chat-v0.3-GGUF",
-    "likes": 30,
+    "likes": 29,
     "private": false,
     "downloads": 86,
     "tags": [
@@ -51172,7 +51172,7 @@
   {
     "_id": "653e259f3479e9ebbe44b389",
     "id": "TheBloke/Mistral-ClaudeLimaRP-v3-7B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -88100,7 +88100,7 @@
   {
     "_id": "659e762c95d836113a34ab8f",
     "id": "TheBloke/openchat-3.5-0106-GGUF",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -88290,7 +88290,7 @@
   {
     "_id": "659ffd805dfd8b9b1ff0e880",
     "id": "TheBloke/phixtral-4x2_8-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 0,
     "tags": [
