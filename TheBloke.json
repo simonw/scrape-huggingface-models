@@ -23995,7 +23995,7 @@
   {
     "_id": "64f8ad3c29a9aa4778e7fdab",
     "id": "TheBloke/Falcon-180B-Chat-GPTQ",
-    "likes": 65,
+    "likes": 66,
     "private": false,
     "downloads": 11913,
     "tags": [
@@ -88247,6 +88247,13 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "en",
+      "dataset:ehartford/dolphin",
+      "dataset:jondurbin/airoboros-2.2.1",
+      "dataset:ehartford/samantha-data",
+      "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
+      "base_model:cognitivecomputations/MegaDolphin-120b",
+      "license:llama2",
       "region:us"
     ],
     "createdAt": "2024-01-10T22:11:27.000Z",
