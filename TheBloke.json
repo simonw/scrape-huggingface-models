@@ -73019,7 +73019,7 @@
   {
     "_id": "6579ae291b1c5bff9be6e86c",
     "id": "TheBloke/SOLAR-10.7B-Instruct-v1.0-GGUF",
-    "likes": 74,
+    "likes": 75,
     "private": false,
     "downloads": 166,
     "tags": [
@@ -88465,9 +88465,16 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "llama",
+      "merge",
+      "base_model:ChuckMcSneed/WinterGoliath-123b",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2024-01-12T11:33:53.000Z",
     "modelId": "TheBloke/WinterGoliath-123b-GGUF"
   },
@@ -88640,9 +88647,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "deepseek",
+      "base_model:whiterabbitneo/WhiteRabbitNeo-33B-v1",
+      "license:other",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2024-01-12T12:25:39.000Z",
     "modelId": "TheBloke/WhiteRabbitNeo-33B-v1-GGUF"
   }
