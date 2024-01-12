@@ -21518,7 +21518,7 @@
   {
     "_id": "64f62bf7376094fe6e13e61f",
     "id": "TheBloke/Llama-2-70B-GGUF",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 32,
     "tags": [
@@ -43728,7 +43728,7 @@
   {
     "_id": "6526233fb5cccc82eab67931",
     "id": "TheBloke/TinyLlama-1.1B-1T-OpenOrca-GGUF",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 54,
     "tags": [
@@ -88391,8 +88391,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "dataset:Intel/orca_dpo_pairs",
+      "dataset:mlabonne/chatml_dpo_pairs",
+      "base_model:Neuronovo/neuronovo-7B-v0.3",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-12T11:07:46.000Z",
     "modelId": "TheBloke/neuronovo-7B-v0.3-GPTQ"
   },
@@ -88451,9 +88465,127 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "gguf",
       "region:us"
     ],
     "createdAt": "2024-01-12T11:33:53.000Z",
     "modelId": "TheBloke/WinterGoliath-123b-GGUF"
+  },
+  {
+    "_id": "65a1251b5dfd8b9b1f61cd32",
+    "id": "TheBloke/Open_Gpt4_8x7B_v0.2-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-12T11:40:11.000Z",
+    "modelId": "TheBloke/Open_Gpt4_8x7B_v0.2-GPTQ"
+  },
+  {
+    "_id": "65a1251bb1f0788359dc3404",
+    "id": "TheBloke/Open_Gpt4_8x7B_v0.2-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mixtral",
+      "merge",
+      "moe",
+      "base_model:rombodawg/Open_Gpt4_8x7B_v0.2",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2024-01-12T11:40:11.000Z",
+    "modelId": "TheBloke/Open_Gpt4_8x7B_v0.2-GGUF"
+  },
+  {
+    "_id": "65a1251bfbad78ab682e6ec6",
+    "id": "TheBloke/Open_Gpt4_8x7B_v0.2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-12T11:40:11.000Z",
+    "modelId": "TheBloke/Open_Gpt4_8x7B_v0.2-AWQ"
+  },
+  {
+    "_id": "65a12702c2a026427a4670de",
+    "id": "TheBloke/WinterGoliath-123b-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-12T11:48:18.000Z",
+    "modelId": "TheBloke/WinterGoliath-123b-GPTQ"
+  },
+  {
+    "_id": "65a12702eeb6095d9547825d",
+    "id": "TheBloke/WinterGoliath-123b-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-12T11:48:18.000Z",
+    "modelId": "TheBloke/WinterGoliath-123b-AWQ"
+  },
+  {
+    "_id": "65a127769185dcca308a8ac5",
+    "id": "TheBloke/TenyxChat-7B-v1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "tenyx-fine-tuning",
+      "dpo",
+      "tenyxchat",
+      "en",
+      "arxiv:2305.18290",
+      "arxiv:2309.11235",
+      "arxiv:2306.05685",
+      "arxiv:1803.05457",
+      "arxiv:1905.07830",
+      "arxiv:2009.03300",
+      "arxiv:2109.07958",
+      "arxiv:1907.10641",
+      "arxiv:2110.14168",
+      "base_model:tenyx/TenyxChat-7B-v1",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2024-01-12T11:50:14.000Z",
+    "modelId": "TheBloke/TenyxChat-7B-v1-AWQ"
+  },
+  {
+    "_id": "65a12777151f73cb5890d291",
+    "id": "TheBloke/TenyxChat-7B-v1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-12T11:50:15.000Z",
+    "modelId": "TheBloke/TenyxChat-7B-v1-GGUF"
   }
 ]
