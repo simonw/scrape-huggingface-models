@@ -34277,7 +34277,8 @@
       "base_model:ehartford/WizardLM-7B-Uncensored",
       "license:other",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "library_name": "transformers",
     "createdAt": "2023-09-19T23:17:28.000Z",
@@ -86033,7 +86034,7 @@
   {
     "_id": "6597de1e33e0a98ddb7b65b0",
     "id": "TheBloke/Iambe-RP-DARE-20B-DENSE-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -87473,7 +87474,7 @@
   {
     "_id": "659ddc6485956d2cccc28b14",
     "id": "TheBloke/dolphin-2.6-mistral-7B-dpo-laser-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 1,
     "tags": [
