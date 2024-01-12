@@ -10647,7 +10647,7 @@
   {
     "_id": "64b6d9d4bb1d8f2832c8be93",
     "id": "TheBloke/Llama-2-13B-chat-GPTQ",
-    "likes": 323,
+    "likes": 322,
     "private": false,
     "downloads": 121168,
     "tags": [
@@ -13429,7 +13429,8 @@
       "base_model:Open-Orca/OpenOrcaxOpenChat-Preview2-13B",
       "license:other",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -25815,7 +25816,7 @@
   {
     "_id": "650099eed522560505c5ba6f",
     "id": "TheBloke/Llama-2-13B-Ensemble-v6-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 33,
     "tags": [
@@ -27228,7 +27229,7 @@
   {
     "_id": "6507fc50a226ecc608fa1425",
     "id": "TheBloke/llama2_7b_chat_uncensored-GGUF",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 30,
     "tags": [
