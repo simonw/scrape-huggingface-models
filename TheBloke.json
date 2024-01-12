@@ -15215,7 +15215,7 @@
   {
     "_id": "64d5e2dcabf475a808a24d42",
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
-    "likes": 114,
+    "likes": 115,
     "private": false,
     "downloads": 41311,
     "tags": [
@@ -88383,5 +88383,42 @@
     "library_name": "transformers",
     "createdAt": "2024-01-11T15:36:21.000Z",
     "modelId": "TheBloke/Nous-Capybara-limarpv3-34B-AWQ"
+  },
+  {
+    "_id": "65a11d822b974e6cf11c2c97",
+    "id": "TheBloke/neuronovo-7B-v0.3-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-12T11:07:46.000Z",
+    "modelId": "TheBloke/neuronovo-7B-v0.3-GPTQ"
+  },
+  {
+    "_id": "65a11d8244d2a6d6fbd906ad",
+    "id": "TheBloke/neuronovo-7B-v0.3-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-12T11:07:46.000Z",
+    "modelId": "TheBloke/neuronovo-7B-v0.3-AWQ"
+  },
+  {
+    "_id": "65a11d82684c018bd4194a40",
+    "id": "TheBloke/neuronovo-7B-v0.3-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2024-01-12T11:07:46.000Z",
+    "modelId": "TheBloke/neuronovo-7B-v0.3-GGUF"
   }
 ]
