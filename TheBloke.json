@@ -37338,7 +37338,7 @@
   {
     "_id": "650e254e8607fa78b00ca897",
     "id": "TheBloke/MLewd-ReMM-L2-Chat-20B-AWQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 27,
     "tags": [
@@ -43306,7 +43306,7 @@
   {
     "_id": "65233873cfbef01dc7c02d38",
     "id": "TheBloke/PsyMedRP-v1-20B-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -46258,7 +46258,7 @@
   {
     "_id": "652babcaff2202020eae716d",
     "id": "TheBloke/Xwin-MLewd-13B-v0.2-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 144,
     "tags": [
@@ -53989,7 +53989,7 @@
   {
     "_id": "6547412196c46859c2f8d3be",
     "id": "TheBloke/deepseek-coder-33B-instruct-GPTQ",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 549,
     "tags": [
@@ -88297,7 +88297,7 @@
   {
     "_id": "659ffd805dfd8b9b1ff0e880",
     "id": "TheBloke/phixtral-4x2_8-GPTQ",
-    "likes": 8,
+    "likes": 7,
     "private": false,
     "downloads": 54,
     "tags": [
@@ -89287,6 +89287,10 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "yi",
+      "moe",
+      "base_model:Weyaxi/Helion-4x34B",
+      "license:other",
       "region:us"
     ],
     "createdAt": "2024-01-13T05:24:38.000Z",
