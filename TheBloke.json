@@ -20141,7 +20141,7 @@
   {
     "_id": "64f0787aa8e82e0b85b503cd",
     "id": "TheBloke/MythoMax-L2-Kimiko-v2-13B-GGUF",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 16,
     "tags": [
@@ -22013,7 +22013,7 @@
   {
     "_id": "64f6e2f1867bbeac42b31471",
     "id": "TheBloke/Redmond-Puffin-13B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -37292,7 +37292,7 @@
   {
     "_id": "650e2543871fed2307aea83f",
     "id": "TheBloke/MLewd-ReMM-L2-Chat-20B-GPTQ",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 176,
     "tags": [
@@ -89247,9 +89247,60 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "finance",
+      "zh",
+      "en",
+      "dataset:TriadParty/deepmoney-sft",
+      "base_model:TriadParty/deepmoney-34b-200k-chat-evaluator",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-13T03:49:01.000Z",
     "modelId": "TheBloke/deepmoney-34b-200k-chat-evaluator-GPTQ"
+  },
+  {
+    "_id": "65a21e96215aabac48fe5f8a",
+    "id": "TheBloke/Helion-4x34B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-13T05:24:38.000Z",
+    "modelId": "TheBloke/Helion-4x34B-GPTQ"
+  },
+  {
+    "_id": "65a21e966e52f8334016a49d",
+    "id": "TheBloke/Helion-4x34B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-13T05:24:38.000Z",
+    "modelId": "TheBloke/Helion-4x34B-AWQ"
+  },
+  {
+    "_id": "65a21e969b0ac6aafc1e7fb4",
+    "id": "TheBloke/Helion-4x34B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-13T05:24:38.000Z",
+    "modelId": "TheBloke/Helion-4x34B-GGUF"
   }
 ]
