@@ -10648,7 +10648,7 @@
   {
     "_id": "64b6d9d4bb1d8f2832c8be93",
     "id": "TheBloke/Llama-2-13B-chat-GPTQ",
-    "likes": 322,
+    "likes": 323,
     "private": false,
     "downloads": 120774,
     "tags": [
@@ -17560,7 +17560,7 @@
   {
     "_id": "64e78d117acd8971f2c6bbe6",
     "id": "TheBloke/CodeLlama-7B-GGUF",
-    "likes": 75,
+    "likes": 76,
     "private": false,
     "downloads": 191,
     "tags": [
@@ -17662,7 +17662,7 @@
   {
     "_id": "64e7bdab9f8952a1c0ffbbb8",
     "id": "TheBloke/CodeLlama-13B-Python-GGUF",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 29,
     "tags": [
@@ -58891,7 +58891,7 @@
   {
     "_id": "65568d1035f26c82c09eef13",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF",
-    "likes": 33,
+    "likes": 34,
     "private": false,
     "downloads": 61,
     "tags": [
@@ -67723,7 +67723,7 @@
   {
     "_id": "656cc87e9dcedd16d53c21cf",
     "id": "TheBloke/OpenHermes-2.5-neural-chat-7B-v3-2-7B-GGUF",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -71330,7 +71330,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 309,
+    "likes": 310,
     "private": false,
     "downloads": 1024,
     "tags": [
@@ -82037,7 +82037,7 @@
   {
     "_id": "658d412a7ff4aa6aa79b7100",
     "id": "TheBloke/dolphin-2.6-mistral-7B-GGUF",
-    "likes": 33,
+    "likes": 34,
     "private": false,
     "downloads": 53,
     "tags": [
@@ -83937,7 +83937,7 @@
   {
     "_id": "6591d34043edad21696258e7",
     "id": "TheBloke/dolphin-2.6-mistral-7B-dpo-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 24,
     "tags": [
@@ -84708,7 +84708,7 @@
   {
     "_id": "6593e10711f68f12eacfd44d",
     "id": "TheBloke/bagel-dpo-34b-v0.2-GGUF",
-    "likes": 5,
+    "likes": 4,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -86540,7 +86540,7 @@
   {
     "_id": "659872cffc0d293b28a0fcab",
     "id": "TheBloke/Mistral-7B-Instruct-v0.2-code-ft-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -87446,7 +87446,7 @@
   {
     "_id": "659ddc6450c1bbee5bf7cd31",
     "id": "TheBloke/dolphin-2.6-mistral-7B-dpo-laser-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 83,
     "tags": [
@@ -87647,7 +87647,7 @@
   {
     "_id": "659de759f2e0e03e458666f5",
     "id": "TheBloke/OrcaMaid-v3-13B-32k-GGUF",
-    "likes": 6,
+    "likes": 5,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -89358,5 +89358,73 @@
     ],
     "createdAt": "2024-01-13T11:51:53.000Z",
     "modelId": "TheBloke/Cosmosis-3x34B-GPTQ"
+  },
+  {
+    "_id": "65a2929c3522df7a27808092",
+    "id": "TheBloke/HamSter-0.1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "en",
+      "base_model:PotatoOff/HamSter-0.1",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2024-01-13T13:39:40.000Z",
+    "modelId": "TheBloke/HamSter-0.1-GGUF"
+  },
+  {
+    "_id": "65a2929c8df9302d15654385",
+    "id": "TheBloke/HamSter-0.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "base_model:PotatoOff/HamSter-0.1",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2024-01-13T13:39:40.000Z",
+    "modelId": "TheBloke/HamSter-0.1-AWQ"
+  },
+  {
+    "_id": "65a2929cdb5c00652e532754",
+    "id": "TheBloke/HamSter-0.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "en",
+      "base_model:PotatoOff/HamSter-0.1",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2024-01-13T13:39:40.000Z",
+    "modelId": "TheBloke/HamSter-0.1-GPTQ"
   }
 ]
