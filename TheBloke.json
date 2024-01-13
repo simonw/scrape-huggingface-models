@@ -10477,7 +10477,7 @@
   {
     "_id": "64b6c679d16e945399007406",
     "id": "TheBloke/Llama-2-7B-GPTQ",
-    "likes": 69,
+    "likes": 70,
     "private": false,
     "downloads": 42297,
     "tags": [
@@ -27280,7 +27280,7 @@
   {
     "_id": "6508df7ac19e5b4c8a2d8552",
     "id": "TheBloke/Llama-2-7B-AWQ",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 1060,
     "tags": [
@@ -37292,7 +37292,7 @@
   {
     "_id": "650e2543871fed2307aea83f",
     "id": "TheBloke/MLewd-ReMM-L2-Chat-20B-GPTQ",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 176,
     "tags": [
@@ -46233,7 +46233,7 @@
   {
     "_id": "652babc0d50c9382fb4ba4ec",
     "id": "TheBloke/Xwin-MLewd-13B-v0.2-GPTQ",
-    "likes": 30,
+    "likes": 31,
     "private": false,
     "downloads": 954,
     "tags": [
@@ -71355,7 +71355,7 @@
   {
     "_id": "657759d1da3f14fa5ddeba81",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GPTQ",
-    "likes": 62,
+    "likes": 63,
     "private": false,
     "downloads": 480621,
     "tags": [
@@ -84024,7 +84024,7 @@
   {
     "_id": "6591d4d754f88261730df832",
     "id": "TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF",
-    "likes": 53,
+    "likes": 54,
     "private": false,
     "downloads": 152,
     "tags": [
@@ -88763,7 +88763,7 @@
   {
     "_id": "65a1829fd46a3b5c6e3cbcd4",
     "id": "TheBloke/UNA-TheBeagle-7B-v1-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -89307,9 +89307,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "mixtral",
+      "yi",
+      "moe",
+      "base_model:Weyaxi/Cosmosis-3x34B",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2024-01-13T08:58:55.000Z",
     "modelId": "TheBloke/Cosmosis-3x34B-GGUF"
   }
