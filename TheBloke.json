@@ -10564,7 +10564,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 709,
+    "likes": 710,
     "private": false,
     "downloads": 2862,
     "tags": [
@@ -73988,7 +73988,7 @@
   {
     "_id": "657ada27f14f26780a66a577",
     "id": "TheBloke/dolphin-2.5-mixtral-8x7b-GGUF",
-    "likes": 201,
+    "likes": 202,
     "private": false,
     "downloads": 14531,
     "tags": [
@@ -87647,7 +87647,7 @@
   {
     "_id": "659de759f2e0e03e458666f5",
     "id": "TheBloke/OrcaMaid-v3-13B-32k-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -88106,7 +88106,7 @@
   {
     "_id": "659e762c95d836113a34ab8f",
     "id": "TheBloke/openchat-3.5-0106-GGUF",
-    "likes": 24,
+    "likes": 25,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -88809,7 +88809,7 @@
   {
     "_id": "65a185d033f0bb8433c326e0",
     "id": "TheBloke/Noromaid-v0.4-Mixtral-Instruct-8x7b-Zloss-GGUF",
-    "likes": 1,
+    "likes": 0,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -89207,7 +89207,7 @@
   {
     "_id": "65a2082d3a09e652a391fc1a",
     "id": "TheBloke/deepmoney-34b-200k-chat-evaluator-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -89287,12 +89287,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mixtral",
+      "text-generation",
       "yi",
       "moe",
       "base_model:Weyaxi/Helion-4x34B",
       "license:other",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-13T05:24:38.000Z",
     "modelId": "TheBloke/Helion-4x34B-GPTQ"
   },
