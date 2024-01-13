@@ -21436,7 +21436,7 @@
   {
     "_id": "64f611cf6ad07ea81779ca15",
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
-    "likes": 126,
+    "likes": 127,
     "private": false,
     "downloads": 773,
     "tags": [
@@ -77307,7 +77307,7 @@
   {
     "_id": "6580aa20419afba19a692cc8",
     "id": "TheBloke/phi-2-GGUF",
-    "likes": 97,
+    "likes": 98,
     "private": false,
     "downloads": 396,
     "tags": [
@@ -88808,7 +88808,7 @@
   {
     "_id": "65a185d033f0bb8433c326e0",
     "id": "TheBloke/Noromaid-v0.4-Mixtral-Instruct-8x7b-Zloss-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -89298,5 +89298,17 @@
     "library_name": "transformers",
     "createdAt": "2024-01-13T05:24:38.000Z",
     "modelId": "TheBloke/Helion-4x34B-GGUF"
+  },
+  {
+    "_id": "65a250cfdb5c00652e2b5afb",
+    "id": "TheBloke/Cosmosis-3x34B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-13T08:58:55.000Z",
+    "modelId": "TheBloke/Cosmosis-3x34B-GGUF"
   }
 ]
