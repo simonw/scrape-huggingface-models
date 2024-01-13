@@ -80355,7 +80355,7 @@
   {
     "_id": "65883baf586088fd275237cf",
     "id": "TheBloke/dolphin-2_6-phi-2-GGUF",
-    "likes": 39,
+    "likes": 40,
     "private": false,
     "downloads": 74,
     "tags": [
@@ -84025,7 +84025,7 @@
   {
     "_id": "6591d4d754f88261730df832",
     "id": "TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF",
-    "likes": 52,
+    "likes": 53,
     "private": false,
     "downloads": 152,
     "tags": [
@@ -89171,9 +89171,70 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "finance",
+      "invest",
+      "en",
+      "zh",
+      "base_model:TriadParty/deepmoney-34b-200k-base",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-13T00:36:52.000Z",
     "modelId": "TheBloke/deepmoney-34b-200k-base-GPTQ"
+  },
+  {
+    "_id": "65a2082d3a09e652a391fc1a",
+    "id": "TheBloke/deepmoney-34b-200k-chat-evaluator-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-13T03:49:01.000Z",
+    "modelId": "TheBloke/deepmoney-34b-200k-chat-evaluator-AWQ"
+  },
+  {
+    "_id": "65a2082d41b6ef119c218ea8",
+    "id": "TheBloke/deepmoney-34b-200k-chat-evaluator-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "yi",
+      "finance",
+      "zh",
+      "en",
+      "dataset:TriadParty/deepmoney-sft",
+      "base_model:TriadParty/deepmoney-34b-200k-chat-evaluator",
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2024-01-13T03:49:01.000Z",
+    "modelId": "TheBloke/deepmoney-34b-200k-chat-evaluator-GGUF"
+  },
+  {
+    "_id": "65a2082de8fe70d60cd32ec9",
+    "id": "TheBloke/deepmoney-34b-200k-chat-evaluator-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-13T03:49:01.000Z",
+    "modelId": "TheBloke/deepmoney-34b-200k-chat-evaluator-GPTQ"
   }
 ]
