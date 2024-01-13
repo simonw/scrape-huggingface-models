@@ -17609,7 +17609,7 @@
   {
     "_id": "64e7bc1129a548f66a1ddb15",
     "id": "TheBloke/CodeLlama-13B-Instruct-GGUF",
-    "likes": 83,
+    "likes": 84,
     "private": false,
     "downloads": 189,
     "tags": [
@@ -19166,7 +19166,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 133,
+    "likes": 134,
     "private": false,
     "downloads": 82,
     "tags": [
@@ -21649,7 +21649,7 @@
   {
     "_id": "64f69c38c3bdaab6f58e2b8c",
     "id": "TheBloke/MythoMax-L2-13B-GGUF",
-    "likes": 36,
+    "likes": 37,
     "private": false,
     "downloads": 41,
     "tags": [
@@ -23499,7 +23499,7 @@
   {
     "_id": "64f7bac9fbbfe40336117526",
     "id": "TheBloke/Llama-2-7B-32K-Instruct-GGUF",
-    "likes": 44,
+    "likes": 45,
     "private": false,
     "downloads": 79,
     "tags": [
@@ -54131,7 +54131,7 @@
   {
     "_id": "65479a438767484a0548595b",
     "id": "TheBloke/deepseek-coder-6.7B-instruct-GGUF",
-    "likes": 107,
+    "likes": 108,
     "private": false,
     "downloads": 142,
     "tags": [
@@ -68636,7 +68636,7 @@
   {
     "_id": "6570b85f71148713df107fd0",
     "id": "TheBloke/NexusRaven-V2-13B-GGUF",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 19,
     "tags": [
@@ -71330,7 +71330,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 308,
+    "likes": 309,
     "private": false,
     "downloads": 1024,
     "tags": [
@@ -71517,7 +71517,7 @@
   {
     "_id": "65778ac662d3ac1817cc9201",
     "id": "TheBloke/Mistral-7B-Instruct-v0.2-GGUF",
-    "likes": 114,
+    "likes": 115,
     "private": false,
     "downloads": 1038,
     "tags": [
@@ -73988,7 +73988,7 @@
   {
     "_id": "657ada27f14f26780a66a577",
     "id": "TheBloke/dolphin-2.5-mixtral-8x7b-GGUF",
-    "likes": 200,
+    "likes": 201,
     "private": false,
     "downloads": 14531,
     "tags": [
@@ -77307,7 +77307,7 @@
   {
     "_id": "6580aa20419afba19a692cc8",
     "id": "TheBloke/phi-2-GGUF",
-    "likes": 99,
+    "likes": 100,
     "private": false,
     "downloads": 396,
     "tags": [
@@ -81855,7 +81855,7 @@
   {
     "_id": "658b2f5a01845f40cead1552",
     "id": "TheBloke/MixtralOrochi8x7B-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -86370,7 +86370,7 @@
   {
     "_id": "65983eb40ae723e79c256ac5",
     "id": "TheBloke/phi-2-dpo-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 20,
     "tags": [
@@ -86540,7 +86540,7 @@
   {
     "_id": "659872cffc0d293b28a0fcab",
     "id": "TheBloke/Mistral-7B-Instruct-v0.2-code-ft-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -87647,7 +87647,7 @@
   {
     "_id": "659de759f2e0e03e458666f5",
     "id": "TheBloke/OrcaMaid-v3-13B-32k-GGUF",
-    "likes": 6,
+    "likes": 5,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -89077,8 +89077,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mixtral",
+      "text-generation",
+      "yi",
+      "moe",
+      "base_model:Weyaxi/Bagel-Hermes-2x34b",
+      "license:other",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-13T00:11:02.000Z",
     "modelId": "TheBloke/Bagel-Hermes-2x34b-GPTQ"
   },
@@ -89320,5 +89333,17 @@
     "library_name": "transformers",
     "createdAt": "2024-01-13T08:58:55.000Z",
     "modelId": "TheBloke/Cosmosis-3x34B-GGUF"
+  },
+  {
+    "_id": "65a279598df9302d1559109d",
+    "id": "TheBloke/Cosmosis-3x34B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-13T11:51:53.000Z",
+    "modelId": "TheBloke/Cosmosis-3x34B-GPTQ"
   }
 ]
