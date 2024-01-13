@@ -37317,7 +37317,7 @@
   {
     "_id": "650e254c2a45730c3fccd4b8",
     "id": "TheBloke/MLewd-ReMM-L2-Chat-20B-GGUF",
-    "likes": 23,
+    "likes": 24,
     "private": false,
     "downloads": 42,
     "tags": [
@@ -89298,9 +89298,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "mixtral",
+      "yi",
+      "moe",
+      "base_model:Weyaxi/Helion-4x34B",
+      "license:other",
+      "text-generation-inference",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2024-01-13T05:24:38.000Z",
     "modelId": "TheBloke/Helion-4x34B-GGUF"
   }
