@@ -2325,7 +2325,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 493,
+    "likes": 494,
     "private": false,
     "downloads": 56332,
     "tags": [
@@ -10647,7 +10647,7 @@
   {
     "_id": "64b6d9d4bb1d8f2832c8be93",
     "id": "TheBloke/Llama-2-13B-chat-GPTQ",
-    "likes": 324,
+    "likes": 325,
     "private": false,
     "downloads": 117108,
     "tags": [
@@ -10724,7 +10724,7 @@
   {
     "_id": "64b6eabcfa7eabaae5ed9f48",
     "id": "TheBloke/Llama-2-7B-fp16",
-    "likes": 39,
+    "likes": 40,
     "private": false,
     "downloads": 6252,
     "tags": [
@@ -45504,7 +45504,7 @@
   {
     "_id": "652b10b4680fa36b3bfcb2b0",
     "id": "TheBloke/SauerkrautLM-7B-v1-mistral-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -66832,8 +66832,7 @@
       "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -89385,7 +89384,7 @@
   {
     "_id": "65a2929c3522df7a27808092",
     "id": "TheBloke/HamSter-0.1-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -89405,7 +89404,7 @@
   {
     "_id": "65a2929c8df9302d15654385",
     "id": "TheBloke/HamSter-0.1-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -89429,7 +89428,7 @@
   {
     "_id": "65a2929cdb5c00652e532754",
     "id": "TheBloke/HamSter-0.1-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 1,
     "tags": [
