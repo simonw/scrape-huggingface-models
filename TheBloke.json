@@ -13429,8 +13429,7 @@
       "base_model:Open-Orca/OpenOrcaxOpenChat-Preview2-13B",
       "license:other",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -59651,7 +59650,7 @@
   {
     "_id": "65592e7bc619b4853146417c",
     "id": "TheBloke/nsql-llama-2-7B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 39,
     "tags": [
@@ -76222,7 +76221,7 @@
   {
     "_id": "657db7c1c7cb69069a628b04",
     "id": "TheBloke/MelloGPT-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -89506,12 +89505,25 @@
   {
     "_id": "65a525b789fcb4ac13f345cf",
     "id": "TheBloke/Everyone-Coder-4x7b-Base-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mixtral",
+      "text-generation",
+      "merge",
+      "moe",
+      "base_model:rombodawg/Everyone-Coder-4x7b-Base",
+      "license:cc-by-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-15T12:31:51.000Z",
     "modelId": "TheBloke/Everyone-Coder-4x7b-Base-GPTQ"
   },
