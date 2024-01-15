@@ -707,7 +707,7 @@
   {
     "_id": "6454b9c0f61f10d69dbfd49f",
     "id": "TheBloke/WizardLM-7B-uncensored-GPTQ",
-    "likes": 167,
+    "likes": 168,
     "private": false,
     "downloads": 2734,
     "tags": [
@@ -13428,7 +13428,6 @@
       "arxiv:2301.13688",
       "base_model:Open-Orca/OpenOrcaxOpenChat-Preview2-13B",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -71330,7 +71329,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 315,
+    "likes": 316,
     "private": false,
     "downloads": 957,
     "tags": [
