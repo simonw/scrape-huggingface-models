@@ -17558,7 +17558,7 @@
   {
     "_id": "64e78d117acd8971f2c6bbe6",
     "id": "TheBloke/CodeLlama-7B-GGUF",
-    "likes": 76,
+    "likes": 77,
     "private": false,
     "downloads": 182,
     "tags": [
@@ -37316,7 +37316,7 @@
   {
     "_id": "650e254c2a45730c3fccd4b8",
     "id": "TheBloke/MLewd-ReMM-L2-Chat-20B-GGUF",
-    "likes": 24,
+    "likes": 25,
     "private": false,
     "downloads": 42,
     "tags": [
@@ -49025,7 +49025,7 @@
   {
     "_id": "6534e9dfb3852ed1ced0f830",
     "id": "TheBloke/LLaMA2-13B-Tiefighter-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 13,
     "tags": [
@@ -80354,7 +80354,7 @@
   {
     "_id": "65883baf586088fd275237cf",
     "id": "TheBloke/dolphin-2_6-phi-2-GGUF",
-    "likes": 43,
+    "likes": 44,
     "private": false,
     "downloads": 83,
     "tags": [
@@ -83895,7 +83895,7 @@
   {
     "_id": "6591c73ac27d210c3eb65bdc",
     "id": "TheBloke/toxicqa-Llama2-7B-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -84024,7 +84024,7 @@
   {
     "_id": "6591d4d754f88261730df832",
     "id": "TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF",
-    "likes": 54,
+    "likes": 55,
     "private": false,
     "downloads": 159,
     "tags": [
@@ -84469,7 +84469,7 @@
   {
     "_id": "6593d19411f68f12eaccc96f",
     "id": "TheBloke/Nous-Hermes-2-SOLAR-10.7B-GGUF",
-    "likes": 69,
+    "likes": 70,
     "private": false,
     "downloads": 45,
     "tags": [
@@ -89338,7 +89338,7 @@
   {
     "_id": "65a250cfdb5c00652e2b5afb",
     "id": "TheBloke/Cosmosis-3x34B-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -89505,7 +89505,7 @@
   {
     "_id": "65a525b789fcb4ac13f345cf",
     "id": "TheBloke/Everyone-Coder-4x7b-Base-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -89555,7 +89555,7 @@
   {
     "_id": "65a525b79b0ac6aafc927cbe",
     "id": "TheBloke/Everyone-Coder-4x7b-Base-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -89640,8 +89640,48 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mixtral",
+      "text-generation",
+      "dataset:ai2_arc",
+      "dataset:jondurbin/airoboros-3.2",
+      "dataset:codeparrot/apps",
+      "dataset:facebook/belebele",
+      "dataset:boolq",
+      "dataset:jondurbin/cinematika-v0.1",
+      "dataset:drop",
+      "dataset:lmsys/lmsys-chat-1m",
+      "dataset:TIGER-Lab/MathInstruct",
+      "dataset:cais/mmlu",
+      "dataset:Muennighoff/natural-instructions",
+      "dataset:openbookqa",
+      "dataset:piqa",
+      "dataset:Vezora/Tested-22k-Python-Alpaca",
+      "dataset:cakiki/rosetta-code",
+      "dataset:Open-Orca/SlimOrca",
+      "dataset:spider",
+      "dataset:squad_v2",
+      "dataset:migtissera/Synthia-v1.3",
+      "dataset:datasets/winogrande",
+      "dataset:nvidia/HelpSteer",
+      "dataset:Intel/orca_dpo_pairs",
+      "dataset:unalignment/toxic-dpo-v0.1",
+      "dataset:jondurbin/truthy-dpo-v0.1",
+      "dataset:allenai/ultrafeedback_binarized_cleaned",
+      "dataset:Squish42/bluemoon-fandom-1-1-rp-cleaned",
+      "dataset:LDJnr/Capybara",
+      "dataset:JULIELab/EmoBank",
+      "dataset:kingbri/PIPPA-shareGPT",
+      "base_model:jondurbin/bagel-dpo-8x7b-v0.2",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-15T14:12:17.000Z",
     "modelId": "TheBloke/bagel-dpo-8x7b-v0.2-AWQ"
   }
