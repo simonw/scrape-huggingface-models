@@ -39114,7 +39114,7 @@
   {
     "_id": "65140cda51c0141fa86b7d8b",
     "id": "TheBloke/U-Amethyst-20B-GGUF",
-    "likes": 31,
+    "likes": 32,
     "private": false,
     "downloads": 38,
     "tags": [
@@ -71330,7 +71330,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 316,
+    "likes": 317,
     "private": false,
     "downloads": 957,
     "tags": [
@@ -85437,7 +85437,7 @@
   {
     "_id": "65958413edfaabe38bddce0f",
     "id": "TheBloke/Unholy-v2-13B-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 21,
     "tags": [
@@ -89521,8 +89521,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mixtral",
+      "text-generation",
+      "merge",
+      "moe",
+      "base_model:rombodawg/Everyone-Coder-4x7b-Base",
+      "license:cc-by-4.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-15T12:31:51.000Z",
     "modelId": "TheBloke/Everyone-Coder-4x7b-Base-AWQ"
   },
