@@ -58890,7 +58890,7 @@
   {
     "_id": "65568d1035f26c82c09eef13",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF",
-    "likes": 34,
+    "likes": 35,
     "private": false,
     "downloads": 62,
     "tags": [
@@ -71227,7 +71227,7 @@
   {
     "_id": "65770d54b2b935d83f6ea4d1",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GGUF",
-    "likes": 339,
+    "likes": 340,
     "private": false,
     "downloads": 550,
     "tags": [
@@ -84219,7 +84219,7 @@
   {
     "_id": "6592ac0fac02633c0de63ea2",
     "id": "TheBloke/dolphin-2.7-mixtral-8x7b-GGUF",
-    "likes": 37,
+    "likes": 38,
     "private": false,
     "downloads": 62,
     "tags": [
@@ -87478,7 +87478,7 @@
   {
     "_id": "659ddc6485956d2cccc28b14",
     "id": "TheBloke/dolphin-2.6-mistral-7B-dpo-laser-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -88306,7 +88306,7 @@
   {
     "_id": "659ffd805dfd8b9b1ff0e880",
     "id": "TheBloke/phixtral-4x2_8-GPTQ",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 115,
     "tags": [
@@ -89501,5 +89501,50 @@
     "library_name": "transformers",
     "createdAt": "2024-01-13T20:47:34.000Z",
     "modelId": "TheBloke/phi-2-electrical-engineering-GPTQ"
+  },
+  {
+    "_id": "65a525b789fcb4ac13f345cf",
+    "id": "TheBloke/Everyone-Coder-4x7b-Base-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-15T12:31:51.000Z",
+    "modelId": "TheBloke/Everyone-Coder-4x7b-Base-GPTQ"
+  },
+  {
+    "_id": "65a525b79b0ac6aafc927cbd",
+    "id": "TheBloke/Everyone-Coder-4x7b-Base-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-15T12:31:51.000Z",
+    "modelId": "TheBloke/Everyone-Coder-4x7b-Base-AWQ"
+  },
+  {
+    "_id": "65a525b79b0ac6aafc927cbe",
+    "id": "TheBloke/Everyone-Coder-4x7b-Base-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mixtral",
+      "merge",
+      "moe",
+      "base_model:rombodawg/Everyone-Coder-4x7b-Base",
+      "license:cc-by-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2024-01-15T12:31:51.000Z",
+    "modelId": "TheBloke/Everyone-Coder-4x7b-Base-GGUF"
   }
 ]
