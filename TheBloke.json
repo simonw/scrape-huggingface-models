@@ -11584,7 +11584,7 @@
   {
     "_id": "64bb0fee1363b5c7996fc358",
     "id": "TheBloke/llama2_7b_chat_uncensored-GPTQ",
-    "likes": 59,
+    "likes": 60,
     "private": false,
     "downloads": 519,
     "tags": [
@@ -29720,7 +29720,7 @@
   {
     "_id": "65093cf8623330a3a516483b",
     "id": "TheBloke/llama2_7b_chat_uncensored-AWQ",
-    "likes": 5,
+    "likes": 4,
     "private": false,
     "downloads": 103,
     "tags": [
@@ -87308,7 +87308,7 @@
   {
     "_id": "659bd18422031755fdb973a3",
     "id": "TheBloke/Mixtral_34Bx2_MoE_60B-GGUF",
-    "likes": 18,
+    "likes": 19,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -89572,5 +89572,77 @@
     "library_name": "transformers",
     "createdAt": "2024-01-15T12:31:51.000Z",
     "modelId": "TheBloke/Everyone-Coder-4x7b-Base-GGUF"
+  },
+  {
+    "_id": "65a53d4101ed2b702d08f780",
+    "id": "TheBloke/bagel-dpo-8x7b-v0.2-GPTQ",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-15T14:12:17.000Z",
+    "modelId": "TheBloke/bagel-dpo-8x7b-v0.2-GPTQ"
+  },
+  {
+    "_id": "65a53d4143f868774d485135",
+    "id": "TheBloke/bagel-dpo-8x7b-v0.2-GGUF",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mixtral",
+      "dataset:ai2_arc",
+      "dataset:jondurbin/airoboros-3.2",
+      "dataset:codeparrot/apps",
+      "dataset:facebook/belebele",
+      "dataset:boolq",
+      "dataset:jondurbin/cinematika-v0.1",
+      "dataset:drop",
+      "dataset:lmsys/lmsys-chat-1m",
+      "dataset:TIGER-Lab/MathInstruct",
+      "dataset:cais/mmlu",
+      "dataset:Muennighoff/natural-instructions",
+      "dataset:openbookqa",
+      "dataset:piqa",
+      "dataset:Vezora/Tested-22k-Python-Alpaca",
+      "dataset:cakiki/rosetta-code",
+      "dataset:Open-Orca/SlimOrca",
+      "dataset:spider",
+      "dataset:squad_v2",
+      "dataset:migtissera/Synthia-v1.3",
+      "dataset:datasets/winogrande",
+      "dataset:nvidia/HelpSteer",
+      "dataset:Intel/orca_dpo_pairs",
+      "dataset:unalignment/toxic-dpo-v0.1",
+      "dataset:jondurbin/truthy-dpo-v0.1",
+      "dataset:allenai/ultrafeedback_binarized_cleaned",
+      "dataset:Squish42/bluemoon-fandom-1-1-rp-cleaned",
+      "dataset:LDJnr/Capybara",
+      "dataset:JULIELab/EmoBank",
+      "dataset:kingbri/PIPPA-shareGPT",
+      "base_model:jondurbin/bagel-dpo-8x7b-v0.2",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2024-01-15T14:12:17.000Z",
+    "modelId": "TheBloke/bagel-dpo-8x7b-v0.2-GGUF"
+  },
+  {
+    "_id": "65a53d41e82b0b8490446997",
+    "id": "TheBloke/bagel-dpo-8x7b-v0.2-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-15T14:12:17.000Z",
+    "modelId": "TheBloke/bagel-dpo-8x7b-v0.2-AWQ"
   }
 ]
