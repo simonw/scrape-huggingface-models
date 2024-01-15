@@ -21289,7 +21289,7 @@
   {
     "_id": "64f3050c2ac5ae66293dc247",
     "id": "TheBloke/OpenBuddy-Llama2-13B-v11.1-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 84,
     "tags": [
@@ -21489,7 +21489,7 @@
   {
     "_id": "64f61985e916843d8ebc5db8",
     "id": "TheBloke/Llama-2-70B-Chat-GGUF",
-    "likes": 81,
+    "likes": 82,
     "private": false,
     "downloads": 252,
     "tags": [
@@ -57130,7 +57130,7 @@
   {
     "_id": "65526c844a5191e1f1a7f6f6",
     "id": "TheBloke/Nous-Capybara-34B-GPTQ",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 1416,
     "tags": [
@@ -58907,7 +58907,8 @@
       "base_model:NurtureAI/OpenHermes-2.5-Mistral-7B-16k",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "library_name": "transformers",
     "createdAt": "2023-11-16T21:43:44.000Z",
@@ -74263,7 +74264,7 @@
   {
     "_id": "657b2e82eb3a8a470e73f85d",
     "id": "TheBloke/phi-2-GPTQ",
-    "likes": 24,
+    "likes": 25,
     "private": false,
     "downloads": 3527,
     "tags": [
