@@ -13429,7 +13429,8 @@
       "base_model:Open-Orca/OpenOrcaxOpenChat-Preview2-13B",
       "license:other",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -35728,7 +35729,7 @@
   {
     "_id": "650a504ef99720fea14ea249",
     "id": "TheBloke/Chronoboros-33B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 1,
     "tags": [
