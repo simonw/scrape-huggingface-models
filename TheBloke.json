@@ -90287,8 +90287,18 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "autotrain_compatible",
+      "endpoints_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-15T22:49:38.000Z",
     "modelId": "TheBloke/Venus-120b-v1.2-GPTQ"
   },
