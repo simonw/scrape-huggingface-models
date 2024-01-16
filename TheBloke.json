@@ -4360,7 +4360,7 @@
     "id": "TheBloke/chronos-hermes-13B-GPTQ",
     "likes": 31,
     "private": false,
-    "downloads": 1211,
+    "downloads": 1343,
     "tags": [
       "transformers",
       "safetensors",
@@ -4529,7 +4529,7 @@
     "id": "TheBloke/WizardCoder-15B-1.0-GPTQ",
     "likes": 172,
     "private": false,
-    "downloads": 288,
+    "downloads": 287,
     "tags": [
       "transformers",
       "safetensors",
@@ -4687,7 +4687,7 @@
     "id": "TheBloke/robin-33B-v2-fp16",
     "likes": 3,
     "private": false,
-    "downloads": 1764,
+    "downloads": 1799,
     "tags": [
       "transformers",
       "pytorch",
@@ -4709,7 +4709,7 @@
     "id": "TheBloke/robin-33B-v2-GPTQ",
     "likes": 13,
     "private": false,
-    "downloads": 1749,
+    "downloads": 1791,
     "tags": [
       "transformers",
       "safetensors",
@@ -4814,7 +4814,7 @@
     "id": "TheBloke/robin-13B-v2-fp16",
     "likes": 4,
     "private": false,
-    "downloads": 1743,
+    "downloads": 1782,
     "tags": [
       "transformers",
       "pytorch",
@@ -4858,7 +4858,7 @@
     "id": "TheBloke/robin-65b-v2-fp16",
     "likes": 3,
     "private": false,
-    "downloads": 1754,
+    "downloads": 1797,
     "tags": [
       "transformers",
       "pytorch",
@@ -5084,7 +5084,7 @@
     "id": "TheBloke/WizardLM-7B-V1.0-Uncensored-GPTQ",
     "likes": 13,
     "private": false,
-    "downloads": 234,
+    "downloads": 236,
     "tags": [
       "transformers",
       "safetensors",
@@ -5108,7 +5108,7 @@
     "id": "TheBloke/BigTranslate-13B-GPTQ",
     "likes": 16,
     "private": false,
-    "downloads": 1782,
+    "downloads": 1825,
     "tags": [
       "transformers",
       "safetensors",
@@ -5145,7 +5145,7 @@
     "id": "TheBloke/vicuna-7B-v1.3-GPTQ",
     "likes": 12,
     "private": false,
-    "downloads": 401117,
+    "downloads": 408392,
     "tags": [
       "transformers",
       "safetensors",
@@ -5265,7 +5265,7 @@
     "id": "TheBloke/WizardLM-13B-V1.0-Uncensored-GPTQ",
     "likes": 26,
     "private": false,
-    "downloads": 89,
+    "downloads": 94,
     "tags": [
       "transformers",
       "safetensors",
@@ -5639,7 +5639,7 @@
     "id": "TheBloke/airoboros-13B-gpt4-1.4-GPTQ",
     "likes": 30,
     "private": false,
-    "downloads": 50,
+    "downloads": 44,
     "tags": [
       "transformers",
       "safetensors",
@@ -5687,7 +5687,7 @@
     "id": "TheBloke/Flan-OpenLlama-7B-GPTQ",
     "likes": 4,
     "private": false,
-    "downloads": 6,
+    "downloads": 7,
     "tags": [
       "transformers",
       "safetensors",
@@ -86125,7 +86125,7 @@
   {
     "_id": "6597e86eda80a6829a49b336",
     "id": "TheBloke/Norobara-ZLoss-8x7B-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -90444,5 +90444,95 @@
     "library_name": "transformers",
     "createdAt": "2024-01-16T08:42:54.000Z",
     "modelId": "TheBloke/Nous-Hermes-2-Mixtral-8x7B-DPO-AWQ"
+  },
+  {
+    "_id": "65a6c80a3cfab964eec134f7",
+    "id": "TheBloke/Code-290k-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-16T18:16:42.000Z",
+    "modelId": "TheBloke/Code-290k-13B-GPTQ"
+  },
+  {
+    "_id": "65a6c80a4555358d2cb2937f",
+    "id": "TheBloke/Code-290k-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "llama",
+      "code",
+      "en",
+      "dataset:ajibawa-2023/Code-290k-ShareGPT",
+      "base_model:ajibawa-2023/Code-290k-13B",
+      "license:cc-by-nc-nd-4.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2024-01-16T18:16:42.000Z",
+    "modelId": "TheBloke/Code-290k-13B-GGUF"
+  },
+  {
+    "_id": "65a6c80b60d08d249624bdfd",
+    "id": "TheBloke/Code-290k-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-16T18:16:43.000Z",
+    "modelId": "TheBloke/Code-290k-13B-AWQ"
+  },
+  {
+    "_id": "65a6c8b803548d61dbf49765",
+    "id": "TheBloke/Thespis-13B-DPO-v0.7-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "llama",
+      "not-for-all-audiences",
+      "base_model:cgato/Thespis-13b-DPO-v0.7",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2024-01-16T18:19:36.000Z",
+    "modelId": "TheBloke/Thespis-13B-DPO-v0.7-GGUF"
+  },
+  {
+    "_id": "65a6c8b8ae68caef0b4f6f08",
+    "id": "TheBloke/Thespis-13B-DPO-v0.7-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-16T18:19:36.000Z",
+    "modelId": "TheBloke/Thespis-13B-DPO-v0.7-GPTQ"
+  },
+  {
+    "_id": "65a6c8b8e504d9738d213731",
+    "id": "TheBloke/Thespis-13B-DPO-v0.7-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-16T18:19:36.000Z",
+    "modelId": "TheBloke/Thespis-13B-DPO-v0.7-AWQ"
   }
 ]
