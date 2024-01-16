@@ -707,7 +707,7 @@
   {
     "_id": "6454b9c0f61f10d69dbfd49f",
     "id": "TheBloke/WizardLM-7B-uncensored-GPTQ",
-    "likes": 168,
+    "likes": 169,
     "private": false,
     "downloads": 2703,
     "tags": [
@@ -1240,7 +1240,7 @@
   {
     "_id": "6465d98b9c627c78f8629e5d",
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ",
-    "likes": 131,
+    "likes": 132,
     "private": false,
     "downloads": 403652,
     "tags": [
@@ -2325,7 +2325,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 494,
+    "likes": 495,
     "private": false,
     "downloads": 56003,
     "tags": [
@@ -90291,8 +90291,11 @@
       "safetensors",
       "llama",
       "text-generation",
+      "not-for-all-audiences",
+      "en",
+      "base_model:nsfwthrowitaway69/Venus-120b-v1.2",
+      "license:llama2",
       "autotrain_compatible",
-      "endpoints_compatible",
       "text-generation-inference",
       "4-bit",
       "region:us"
