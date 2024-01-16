@@ -58902,7 +58902,7 @@
   {
     "_id": "65568d1035f26c82c09eef13",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF",
-    "likes": 35,
+    "likes": 36,
     "private": false,
     "downloads": 77,
     "tags": [
@@ -86250,7 +86250,7 @@
   {
     "_id": "65980ff340cffd3b17d07694",
     "id": "TheBloke/Kunoichi-7B-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 36,
     "tags": [
@@ -90358,8 +90358,29 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mixtral",
+      "text-generation",
+      "Mixtral",
+      "instruct",
+      "finetune",
+      "chatml",
+      "DPO",
+      "RLHF",
+      "gpt4",
+      "synthetic data",
+      "distillation",
+      "en",
+      "base_model:NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-16T08:42:54.000Z",
     "modelId": "TheBloke/Nous-Hermes-2-Mixtral-8x7B-DPO-GPTQ"
   },
