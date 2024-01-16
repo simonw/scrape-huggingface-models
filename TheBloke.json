@@ -14402,7 +14402,7 @@
     "id": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GPTQ",
     "likes": 50,
     "private": false,
-    "downloads": 1741,
+    "downloads": 1747,
     "tags": [
       "transformers",
       "safetensors",
@@ -14448,7 +14448,7 @@
     "id": "TheBloke/Dolphin-Llama2-7B-GPTQ",
     "likes": 23,
     "private": false,
-    "downloads": 27,
+    "downloads": 25,
     "tags": [
       "transformers",
       "safetensors",
@@ -14554,7 +14554,7 @@
     "id": "TheBloke/MythoMix-L2-13B-GPTQ",
     "likes": 17,
     "private": false,
-    "downloads": 15,
+    "downloads": 14,
     "tags": [
       "transformers",
       "safetensors",
@@ -14630,7 +14630,7 @@
     "id": "TheBloke/stablecode-instruct-alpha-3b-GGML",
     "likes": 42,
     "private": false,
-    "downloads": 8,
+    "downloads": 7,
     "tags": [
       "transformers",
       "gpt-neox",
@@ -14651,7 +14651,7 @@
     "id": "TheBloke/stablecode-instruct-alpha-3b-GPTQ",
     "likes": 15,
     "private": false,
-    "downloads": 359,
+    "downloads": 366,
     "tags": [
       "transformers",
       "safetensors",
@@ -14736,7 +14736,7 @@
     "id": "TheBloke/WizardLM-70B-V1.0-GPTQ",
     "likes": 35,
     "private": false,
-    "downloads": 2060,
+    "downloads": 2106,
     "tags": [
       "transformers",
       "safetensors",
@@ -14870,7 +14870,7 @@
     "id": "TheBloke/orca_mini_v3_7B-GPTQ",
     "likes": 10,
     "private": false,
-    "downloads": 44814,
+    "downloads": 45559,
     "tags": [
       "transformers",
       "safetensors",
@@ -14973,7 +14973,7 @@
     "id": "TheBloke/orca_mini_v3_13B-GPTQ",
     "likes": 11,
     "private": false,
-    "downloads": 4117,
+    "downloads": 4020,
     "tags": [
       "transformers",
       "safetensors",
@@ -15098,7 +15098,7 @@
     "id": "TheBloke/Platypus2-70B-Instruct-GPTQ",
     "likes": 24,
     "private": false,
-    "downloads": 1912,
+    "downloads": 1957,
     "tags": [
       "transformers",
       "safetensors",
@@ -15217,7 +15217,7 @@
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
     "likes": 117,
     "private": false,
-    "downloads": 47283,
+    "downloads": 48009,
     "tags": [
       "transformers",
       "safetensors",
@@ -15432,7 +15432,7 @@
     "id": "TheBloke/Llama-2-13B-German-Assistant-v4-GPTQ",
     "likes": 15,
     "private": false,
-    "downloads": 65,
+    "downloads": 54,
     "tags": [
       "transformers",
       "safetensors",
@@ -15458,7 +15458,7 @@
     "id": "TheBloke/OpenOrca-Platypus2-13B-GPTQ",
     "likes": 48,
     "private": false,
-    "downloads": 2004,
+    "downloads": 2054,
     "tags": [
       "transformers",
       "safetensors",
@@ -15488,7 +15488,7 @@
     "id": "TheBloke/OpenOrca-Platypus2-13B-GGML",
     "likes": 54,
     "private": false,
-    "downloads": 17,
+    "downloads": 20,
     "tags": [
       "transformers",
       "llama",
@@ -15514,7 +15514,7 @@
     "id": "TheBloke/EverythingLM-13B-16K-GPTQ",
     "likes": 13,
     "private": false,
-    "downloads": 1813,
+    "downloads": 1856,
     "tags": [
       "transformers",
       "safetensors",
@@ -90586,5 +90586,42 @@
     "library_name": "transformers",
     "createdAt": "2024-01-16T18:19:36.000Z",
     "modelId": "TheBloke/Thespis-13B-DPO-v0.7-AWQ"
+  },
+  {
+    "_id": "65a6e4f10637ea5cccabdbce",
+    "id": "TheBloke/Nous-Hermes-2-Mixtral-8x7B-SFT-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-16T20:20:01.000Z",
+    "modelId": "TheBloke/Nous-Hermes-2-Mixtral-8x7B-SFT-AWQ"
+  },
+  {
+    "_id": "65a6e4f18ee30c06713da318",
+    "id": "TheBloke/Nous-Hermes-2-Mixtral-8x7B-SFT-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2024-01-16T20:20:01.000Z",
+    "modelId": "TheBloke/Nous-Hermes-2-Mixtral-8x7B-SFT-GGUF"
+  },
+  {
+    "_id": "65a6e4f1a71dec4c790e89eb",
+    "id": "TheBloke/Nous-Hermes-2-Mixtral-8x7B-SFT-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-16T20:20:01.000Z",
+    "modelId": "TheBloke/Nous-Hermes-2-Mixtral-8x7B-SFT-GPTQ"
   }
 ]
