@@ -17857,7 +17857,7 @@
   {
     "_id": "64e7d00dae53e70cda1de235",
     "id": "TheBloke/CodeLlama-34B-Instruct-GGUF",
-    "likes": 79,
+    "likes": 80,
     "private": false,
     "downloads": 48,
     "tags": [
@@ -21490,7 +21490,7 @@
   {
     "_id": "64f61985e916843d8ebc5db8",
     "id": "TheBloke/Llama-2-70B-Chat-GGUF",
-    "likes": 84,
+    "likes": 85,
     "private": false,
     "downloads": 225,
     "tags": [
@@ -24402,7 +24402,7 @@
   {
     "_id": "64fad53cbb362cbf2fdf43ce",
     "id": "TheBloke/Guanaco-13B-Uncensored-GGUF",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 169,
     "tags": [
@@ -51422,7 +51422,7 @@
   {
     "_id": "653e610aceb0a0f6ce31ca58",
     "id": "TheBloke/Nous-Capybara-7B-v1.9-GGUF",
-    "likes": 21,
+    "likes": 22,
     "private": false,
     "downloads": 26,
     "tags": [
@@ -53730,7 +53730,7 @@
   {
     "_id": "6546bfe04d1931dc93eacb63",
     "id": "TheBloke/deepseek-coder-33B-instruct-GGUF",
-    "likes": 108,
+    "likes": 109,
     "private": false,
     "downloads": 58,
     "tags": [
@@ -57169,7 +57169,7 @@
   {
     "_id": "65526c84fb76980adeff5db6",
     "id": "TheBloke/Nous-Capybara-34B-GGUF",
-    "likes": 107,
+    "likes": 108,
     "private": false,
     "downloads": 97,
     "tags": [
@@ -71354,7 +71354,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 319,
+    "likes": 320,
     "private": false,
     "downloads": 972,
     "tags": [
@@ -91027,8 +91027,23 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "merge",
+      "abideen/DareVox-7B",
+      "udkai/Garrulus",
+      "en",
+      "base_model:abideen/NexoNimbus-7B",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-17T21:21:04.000Z",
     "modelId": "TheBloke/NexoNimbus-7B-GPTQ"
   },
@@ -91062,9 +91077,90 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "merge",
+      "abideen/DareVox-7B",
+      "udkai/Garrulus",
+      "en",
+      "base_model:abideen/NexoNimbus-7B",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-17T21:21:04.000Z",
     "modelId": "TheBloke/NexoNimbus-7B-AWQ"
+  },
+  {
+    "_id": "65a84bac162efc9aef77fc6c",
+    "id": "TheBloke/DareVox-7B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "merge",
+      "mergekit",
+      "lazymergekit",
+      "teknium/OpenHermes-2.5-Mistral-7B",
+      "abacusai/Slerp-CM-mist-dpo",
+      "berkeley-nest/Starling-LM-7B-alpha",
+      "base_model:abideen/DareVox-7B",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2024-01-17T21:50:36.000Z",
+    "modelId": "TheBloke/DareVox-7B-AWQ"
+  },
+  {
+    "_id": "65a84bac6a7418d9af4df638",
+    "id": "TheBloke/DareVox-7B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-17T21:50:36.000Z",
+    "modelId": "TheBloke/DareVox-7B-GPTQ"
+  },
+  {
+    "_id": "65a84bac6cb12bdc270c6b61",
+    "id": "TheBloke/DareVox-7B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "merge",
+      "mergekit",
+      "lazymergekit",
+      "teknium/OpenHermes-2.5-Mistral-7B",
+      "abacusai/Slerp-CM-mist-dpo",
+      "berkeley-nest/Starling-LM-7B-alpha",
+      "base_model:abideen/DareVox-7B",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2024-01-17T21:50:36.000Z",
+    "modelId": "TheBloke/DareVox-7B-GGUF"
   }
 ]
