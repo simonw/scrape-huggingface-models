@@ -21379,7 +21379,7 @@
   {
     "_id": "64f5fd954d3b1dd311d30e28",
     "id": "TheBloke/Llama-2-7B-GGUF",
-    "likes": 100,
+    "likes": 101,
     "private": false,
     "downloads": 601,
     "tags": [
@@ -54135,7 +54135,7 @@
   {
     "_id": "65479a438767484a0548595b",
     "id": "TheBloke/deepseek-coder-6.7B-instruct-GGUF",
-    "likes": 111,
+    "likes": 112,
     "private": false,
     "downloads": 166,
     "tags": [
@@ -91133,8 +91133,25 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "merge",
+      "mergekit",
+      "lazymergekit",
+      "teknium/OpenHermes-2.5-Mistral-7B",
+      "abacusai/Slerp-CM-mist-dpo",
+      "berkeley-nest/Starling-LM-7B-alpha",
+      "base_model:abideen/DareVox-7B",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-17T21:50:36.000Z",
     "modelId": "TheBloke/DareVox-7B-GPTQ"
   },
@@ -91162,5 +91179,69 @@
     "library_name": "transformers",
     "createdAt": "2024-01-17T21:50:36.000Z",
     "modelId": "TheBloke/DareVox-7B-GGUF"
+  },
+  {
+    "_id": "65a8526387dd2bd7f9df4bfa",
+    "id": "TheBloke/Garrulus-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-17T22:19:15.000Z",
+    "modelId": "TheBloke/Garrulus-GPTQ"
+  },
+  {
+    "_id": "65a85263a92d5908df076f6b",
+    "id": "TheBloke/Garrulus-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "mlabonne/NeuralMarcoro14-7B",
+      "dpo",
+      "7B",
+      "winograd",
+      "dataset:hromi/winograd_dpo_basic",
+      "base_model:udkai/Garrulus",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2024-01-17T22:19:15.000Z",
+    "modelId": "TheBloke/Garrulus-AWQ"
+  },
+  {
+    "_id": "65a85263d189ae4627a753a8",
+    "id": "TheBloke/Garrulus-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "mlabonne/NeuralMarcoro14-7B",
+      "dpo",
+      "7B",
+      "winograd",
+      "dataset:hromi/winograd_dpo_basic",
+      "base_model:udkai/Garrulus",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2024-01-17T22:19:15.000Z",
+    "modelId": "TheBloke/Garrulus-GGUF"
   }
 ]
