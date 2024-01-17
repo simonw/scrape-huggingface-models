@@ -8512,7 +8512,7 @@
     "id": "TheBloke/CAMEL-33B-Combined-Data-SuperHOT-8K-fp16",
     "likes": 1,
     "private": false,
-    "downloads": 1800,
+    "downloads": 1861,
     "tags": [
       "transformers",
       "pytorch",
@@ -8842,7 +8842,7 @@
     "id": "TheBloke/Koala-7B-SuperHOT-8K-GPTQ",
     "likes": 1,
     "private": false,
-    "downloads": 2,
+    "downloads": 3,
     "tags": [
       "transformers",
       "safetensors",
@@ -9158,7 +9158,7 @@
     "id": "TheBloke/Wizard-Vicuna-7B-Uncensored-SuperHOT-8K-fp16",
     "likes": 3,
     "private": false,
-    "downloads": 9,
+    "downloads": 10,
     "tags": [
       "transformers",
       "pytorch",
@@ -9193,7 +9193,7 @@
     "id": "TheBloke/WizardLM-7B-V1-0-Uncensored-SuperHOT-8K-fp16",
     "likes": 3,
     "private": false,
-    "downloads": 2,
+    "downloads": 5,
     "tags": [
       "transformers",
       "pytorch",
@@ -9530,7 +9530,7 @@
     "id": "TheBloke/Pygmalion-7B-SuperHOT-8K-fp16",
     "likes": 4,
     "private": false,
-    "downloads": 2,
+    "downloads": 4,
     "tags": [
       "transformers",
       "pytorch",
@@ -9655,7 +9655,7 @@
     "id": "TheBloke/WizardLM-13B-V1.1-GPTQ",
     "likes": 27,
     "private": false,
-    "downloads": 2038,
+    "downloads": 2111,
     "tags": [
       "transformers",
       "safetensors",
@@ -9682,7 +9682,7 @@
     "id": "TheBloke/WizardLM-13B-V1-1-SuperHOT-8K-GPTQ",
     "likes": 46,
     "private": false,
-    "downloads": 2000,
+    "downloads": 2061,
     "tags": [
       "transformers",
       "safetensors",
@@ -9720,7 +9720,7 @@
     "id": "TheBloke/WizardLM-13B-V1-1-SuperHOT-8K-fp16",
     "likes": 4,
     "private": false,
-    "downloads": 1803,
+    "downloads": 1859,
     "tags": [
       "transformers",
       "pytorch",
@@ -10138,7 +10138,7 @@
     "id": "TheBloke/openchat_v2_openorca_preview-GPTQ",
     "likes": 15,
     "private": false,
-    "downloads": 1796,
+    "downloads": 1855,
     "tags": [
       "transformers",
       "safetensors",
@@ -10298,7 +10298,7 @@
     "id": "TheBloke/LLaMa-30B-GPTQ",
     "likes": 5,
     "private": false,
-    "downloads": 95,
+    "downloads": 130,
     "tags": [
       "transformers",
       "safetensors",
@@ -90907,8 +90907,36 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "stablelm_epoch",
+      "text-generation",
+      "causal-lm",
+      "code",
+      "custom_code",
+      "en",
+      "dataset:tiiuae/falcon-refinedweb",
+      "dataset:bigcode/the-stack-github-issues",
+      "dataset:bigcode/commitpackft",
+      "dataset:bigcode/starcoderdata",
+      "dataset:EleutherAI/proof-pile-2",
+      "dataset:meta-math/MetaMathQA",
+      "arxiv:2307.09288",
+      "arxiv:2104.09864",
+      "arxiv:2204.06745",
+      "arxiv:2305.06161",
+      "arxiv:2310.10631",
+      "arxiv:2309.12284",
+      "arxiv:1910.02054",
+      "base_model:stabilityai/stable-code-3b",
+      "license:other",
+      "model-index",
+      "autotrain_compatible",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-17T18:06:33.000Z",
     "modelId": "TheBloke/stable-code-3b-GPTQ"
   }
