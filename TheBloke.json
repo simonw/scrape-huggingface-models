@@ -1457,7 +1457,7 @@
   {
     "_id": "646b65b45d68f5c15a207562",
     "id": "TheBloke/WizardLM-30B-Uncensored-GGML",
-    "likes": 113,
+    "likes": 114,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -15786,7 +15786,7 @@
     "id": "TheBloke/PULI-GPT-3SX-GGML",
     "likes": 4,
     "private": false,
-    "downloads": 5,
+    "downloads": 7,
     "tags": [
       "transformers",
       "gpt-neox",
@@ -15807,7 +15807,7 @@
     "id": "TheBloke/PULI-GPT-3SX-GPTQ",
     "likes": 4,
     "private": false,
-    "downloads": 26,
+    "downloads": 46,
     "tags": [
       "transformers",
       "safetensors",
@@ -16130,7 +16130,7 @@
     "id": "TheBloke/Carl-33B-GPTQ",
     "likes": 3,
     "private": false,
-    "downloads": 128,
+    "downloads": 141,
     "tags": [
       "transformers",
       "safetensors",
@@ -16221,7 +16221,7 @@
     "id": "TheBloke/orca_mini_v3_70B-GPTQ",
     "likes": 12,
     "private": false,
-    "downloads": 12,
+    "downloads": 25,
     "tags": [
       "transformers",
       "safetensors",
@@ -16410,7 +16410,7 @@
     "id": "TheBloke/LlongOrca-13B-16K-GPTQ",
     "likes": 3,
     "private": false,
-    "downloads": 1083,
+    "downloads": 1089,
     "tags": [
       "transformers",
       "safetensors",
@@ -16512,7 +16512,7 @@
     "id": "TheBloke/Llama-2-7B-32K-Instruct-GPTQ",
     "likes": 27,
     "private": false,
-    "downloads": 614,
+    "downloads": 589,
     "tags": [
       "transformers",
       "safetensors",
@@ -16540,7 +16540,7 @@
     "id": "TheBloke/Llama-2-7B-32K-Instruct-GGML",
     "likes": 8,
     "private": false,
-    "downloads": 14,
+    "downloads": 8,
     "tags": [
       "transformers",
       "llama",
@@ -16778,7 +16778,7 @@
     "id": "TheBloke/Griffin-3B-GPTQ",
     "likes": 1,
     "private": false,
-    "downloads": 22,
+    "downloads": 28,
     "tags": [
       "transformers",
       "safetensors",
@@ -82316,7 +82316,7 @@
   {
     "_id": "658d836b79c9c9b95f5fa9d5",
     "id": "TheBloke/SOLARC-MOE-10.7Bx4-GGUF",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 23,
     "tags": [
@@ -85481,7 +85481,7 @@
   {
     "_id": "65958413edfaabe38bddce0f",
     "id": "TheBloke/Unholy-v2-13B-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 22,
     "tags": [
@@ -88150,7 +88150,7 @@
   {
     "_id": "659e762c95d836113a34ab8f",
     "id": "TheBloke/openchat-3.5-0106-GGUF",
-    "likes": 37,
+    "likes": 38,
     "private": false,
     "downloads": 39,
     "tags": [
@@ -88862,7 +88862,7 @@
   {
     "_id": "65a185d033f0bb8433c326e0",
     "id": "TheBloke/Noromaid-v0.4-Mixtral-Instruct-8x7b-Zloss-GGUF",
-    "likes": 1,
+    "likes": 0,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -91262,5 +91262,77 @@
     "library_name": "transformers",
     "createdAt": "2024-01-17T22:19:15.000Z",
     "modelId": "TheBloke/Garrulus-GGUF"
+  },
+  {
+    "_id": "65a9861639cb91f1fa645b46",
+    "id": "TheBloke/DiscoLM_German_7b_v1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "Mistral",
+      "finetune",
+      "chatml",
+      "DPO",
+      "German",
+      "Deutsch",
+      "synthetic data",
+      "de",
+      "en",
+      "base_model:DiscoResearch/DiscoLM_German_7b_v1",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2024-01-18T20:12:06.000Z",
+    "modelId": "TheBloke/DiscoLM_German_7b_v1-AWQ"
+  },
+  {
+    "_id": "65a986168abada9cc1aa6921",
+    "id": "TheBloke/DiscoLM_German_7b_v1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-18T20:12:06.000Z",
+    "modelId": "TheBloke/DiscoLM_German_7b_v1-GPTQ"
+  },
+  {
+    "_id": "65a98616f2878c013d010a02",
+    "id": "TheBloke/DiscoLM_German_7b_v1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "mistral",
+      "Mistral",
+      "finetune",
+      "chatml",
+      "DPO",
+      "German",
+      "Deutsch",
+      "synthetic data",
+      "de",
+      "en",
+      "base_model:DiscoResearch/DiscoLM_German_7b_v1",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "region:us"
+    ],
+    "library_name": "transformers",
+    "createdAt": "2024-01-18T20:12:06.000Z",
+    "modelId": "TheBloke/DiscoLM_German_7b_v1-GGUF"
   }
 ]
