@@ -27436,7 +27436,8 @@
       "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -36803,7 +36804,8 @@
       "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -43500,7 +43502,8 @@
       "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -45995,7 +45998,8 @@
       "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -50123,7 +50127,8 @@
       "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -53102,7 +53107,8 @@
       "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -53252,7 +53258,8 @@
       "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -56593,7 +56600,8 @@
       "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -71484,7 +71492,8 @@
       "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -88695,7 +88704,7 @@
   {
     "_id": "65a12777151f73cb5890d291",
     "id": "TheBloke/TenyxChat-7B-v1-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 1,
     "tags": [
