@@ -13429,7 +13429,6 @@
       "arxiv:2301.13688",
       "base_model:Open-Orca/OpenOrcaxOpenChat-Preview2-13B",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -42551,7 +42550,7 @@
   {
     "_id": "651da0ff301b7bb5c4112da9",
     "id": "TheBloke/Amethyst-13B-Mistral-GGUF",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 25,
     "tags": [
@@ -61726,7 +61725,7 @@
   {
     "_id": "655cf5e58b77e2c30b304dfb",
     "id": "TheBloke/gorilla-openfunctions-v1-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 24,
     "tags": [
@@ -71474,7 +71473,7 @@
   {
     "_id": "657778ad4d989b0a6876e6da",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-AWQ",
-    "likes": 16,
+    "likes": 18,
     "private": false,
     "downloads": 7167,
     "tags": [
