@@ -39341,7 +39341,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 414,
+    "likes": 415,
     "private": false,
     "downloads": 2532,
     "tags": [
@@ -80413,7 +80413,8 @@
       "dataset:LDJnr/Capybara",
       "base_model:cognitivecomputations/dolphin-2_6-phi-2",
       "license:other",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "library_name": "transformers",
     "createdAt": "2023-12-24T14:09:51.000Z",
