@@ -20539,7 +20539,8 @@
       "base_model:NousResearch/Yarn-Llama-2-7b-128k",
       "license:llama2",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "library_name": "transformers",
     "createdAt": "2023-09-01T08:03:11.000Z",
@@ -85563,7 +85564,7 @@
   {
     "_id": "6595c000f8f4854a776a4bdc",
     "id": "TheBloke/Panda-7B-v0.1-GGUF",
-    "likes": 3,
+    "likes": 2,
     "private": false,
     "downloads": 2,
     "tags": [
