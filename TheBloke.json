@@ -17510,7 +17510,7 @@
   {
     "_id": "64e78cdac3b2443fb30b9dda",
     "id": "TheBloke/CodeLlama-7B-Instruct-GGUF",
-    "likes": 86,
+    "likes": 87,
     "private": false,
     "downloads": 129,
     "tags": [
@@ -88576,7 +88576,7 @@
   {
     "_id": "65a1251bb1f0788359dc3404",
     "id": "TheBloke/Open_Gpt4_8x7B_v0.2-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -90049,7 +90049,8 @@
       "dataset:argilla/ultrafeedback-binarized-preferences-cleaned",
       "base_model:rhysjones/phi-2-orange",
       "license:mit",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "library_name": "transformers",
     "createdAt": "2024-01-15T19:52:15.000Z",
@@ -90738,7 +90739,7 @@
   {
     "_id": "65a80988539e211436b8d12a",
     "id": "TheBloke/NeuralBeagle14-7B-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 108,
     "tags": [
