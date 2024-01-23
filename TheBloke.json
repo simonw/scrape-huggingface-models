@@ -35731,7 +35731,7 @@
   {
     "_id": "650a504ef99720fea14ea249",
     "id": "TheBloke/Chronoboros-33B-GGUF",
-    "likes": 7,
+    "likes": 6,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -57217,7 +57217,6 @@
       "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
       "base_model:ehartford/dolphin-2_2-yi-34b",
       "license:other",
-      "has_space",
       "region:us"
     ],
     "library_name": "transformers",
