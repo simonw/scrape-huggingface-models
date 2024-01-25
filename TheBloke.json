@@ -7978,7 +7978,7 @@
   {
     "_id": "649e9d0323beadd9163f17eb",
     "id": "TheBloke/LongChat-13B-GPTQ",
-    "likes": 26,
+    "likes": 27,
     "private": false,
     "downloads": 2113,
     "tags": [
@@ -28820,7 +28820,7 @@
   {
     "_id": "65091eae647a3ea442bb39cd",
     "id": "TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-AWQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 63,
     "tags": [
@@ -36772,7 +36772,7 @@
   {
     "_id": "650b5c6eaa87a69ea38a702e",
     "id": "TheBloke/Xwin-LM-13B-V0.1-GGUF",
-    "likes": 23,
+    "likes": 24,
     "private": false,
     "downloads": 42,
     "tags": [
@@ -54144,7 +54144,7 @@
   {
     "_id": "65479a438767484a0548595b",
     "id": "TheBloke/deepseek-coder-6.7B-instruct-GGUF",
-    "likes": 116,
+    "likes": 117,
     "private": false,
     "downloads": 162,
     "tags": [
@@ -66863,7 +66863,6 @@
       "base_model:epfl-llm/meditron-70b",
       "license:llama2",
       "autotrain_compatible",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
