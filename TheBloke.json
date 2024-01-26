@@ -19165,7 +19165,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 137,
+    "likes": 138,
     "private": false,
     "downloads": 76,
     "tags": [
@@ -91641,5 +91641,54 @@
     "library_name": "transformers",
     "createdAt": "2024-01-25T04:04:35.000Z",
     "modelId": "TheBloke/Everyone-Coder-33B-Base-AWQ"
+  },
+  {
+    "_id": "65b3d62a28ec1c86aa9399ed",
+    "id": "TheBloke/EstopianMaid-13B-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2024-01-26T15:56:26.000Z",
+    "modelId": "TheBloke/EstopianMaid-13B-GGUF"
+  },
+  {
+    "_id": "65b3d62a7ccceb5ececbb582",
+    "id": "TheBloke/EstopianMaid-13B-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-26T15:56:26.000Z",
+    "modelId": "TheBloke/EstopianMaid-13B-GPTQ"
+  },
+  {
+    "_id": "65b3d62ad7eeb848c600c6a2",
+    "id": "TheBloke/EstopianMaid-13B-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-26T15:56:26.000Z",
+    "modelId": "TheBloke/EstopianMaid-13B-AWQ"
+  },
+  {
+    "_id": "65b3d942ca3eb32979bdd01c",
+    "id": "TheBloke/Etheria-55b-v0.1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-26T16:09:38.000Z",
+    "modelId": "TheBloke/Etheria-55b-v0.1-GGUF"
   }
 ]
