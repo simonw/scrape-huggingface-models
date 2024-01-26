@@ -26,7 +26,7 @@
     "id": "TheBloke/koala-7B-HF",
     "likes": 18,
     "private": false,
-    "downloads": 2159,
+    "downloads": 2231,
     "tags": [
       "transformers",
       "pytorch",
@@ -54,7 +54,7 @@
     "id": "TheBloke/koala-13B-HF",
     "likes": 41,
     "private": false,
-    "downloads": 2185,
+    "downloads": 2248,
     "tags": [
       "transformers",
       "pytorch",
@@ -199,7 +199,7 @@
     "id": "TheBloke/vicuna-7B-1.1-GPTQ",
     "likes": 58,
     "private": false,
-    "downloads": 42,
+    "downloads": 43,
     "tags": [
       "transformers",
       "llama",
@@ -219,7 +219,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-30b-HF",
     "likes": 11,
     "private": false,
-    "downloads": 2161,
+    "downloads": 2218,
     "tags": [
       "transformers",
       "pytorch",
@@ -91716,7 +91716,7 @@
   {
     "_id": "65b3d942ca3eb32979bdd01c",
     "id": "TheBloke/Etheria-55b-v0.1-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -91741,8 +91741,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "mergekit",
+      "merge",
+      "arxiv:2311.03099",
+      "arxiv:2306.01708",
+      "base_model:Steelskull/Etheria-55b-v0.1",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-26T16:41:50.000Z",
     "modelId": "TheBloke/Etheria-55b-v0.1-AWQ"
   },
