@@ -66143,7 +66143,7 @@
   {
     "_id": "65674311f31cae62b72f0767",
     "id": "TheBloke/deepseek-llm-67b-chat-GGUF",
-    "likes": 26,
+    "likes": 27,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -91645,7 +91645,7 @@
   {
     "_id": "65b3d62a28ec1c86aa9399ed",
     "id": "TheBloke/EstopianMaid-13B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -91720,9 +91720,17 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "yi",
+      "mergekit",
+      "merge",
+      "arxiv:2311.03099",
+      "arxiv:2306.01708",
+      "base_model:Steelskull/Etheria-55b-v0.1",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2024-01-26T16:09:38.000Z",
     "modelId": "TheBloke/Etheria-55b-v0.1-GGUF"
   },
