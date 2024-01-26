@@ -10564,7 +10564,7 @@
   {
     "_id": "64b6ce072a8e3cd59df98e98",
     "id": "TheBloke/Llama-2-7B-Chat-GGML",
-    "likes": 720,
+    "likes": 721,
     "private": false,
     "downloads": 3217,
     "tags": [
@@ -73259,7 +73259,7 @@
   {
     "_id": "6579c0cf1e0e383c6f979e66",
     "id": "TheBloke/meditron-7B-chat-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -91670,8 +91670,21 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "roleplay",
+      "text-generation-inference",
+      "en",
+      "base_model:KatyTheCutie/EstopianMaid-13B",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-26T15:56:26.000Z",
     "modelId": "TheBloke/EstopianMaid-13B-GPTQ"
   },
@@ -91707,9 +91720,34 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "gguf",
       "region:us"
     ],
     "createdAt": "2024-01-26T16:09:38.000Z",
     "modelId": "TheBloke/Etheria-55b-v0.1-GGUF"
+  },
+  {
+    "_id": "65b3e0ce16301f40303c5d10",
+    "id": "TheBloke/Etheria-55b-v0.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-26T16:41:50.000Z",
+    "modelId": "TheBloke/Etheria-55b-v0.1-AWQ"
+  },
+  {
+    "_id": "65b3e0ce4839ccc503d1eb22",
+    "id": "TheBloke/Etheria-55b-v0.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-26T16:41:50.000Z",
+    "modelId": "TheBloke/Etheria-55b-v0.1-GPTQ"
   }
 ]
