@@ -53214,7 +53214,7 @@
   {
     "_id": "6543e26c40ddcc1c6f1d2eb1",
     "id": "TheBloke/Yarn-Mistral-7B-128k-AWQ",
-    "likes": 45,
+    "likes": 46,
     "private": false,
     "downloads": 2009,
     "tags": [
@@ -86713,7 +86713,8 @@
       "base_model:rombodawg/Open_Gpt4_8x7B",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "library_name": "transformers",
     "createdAt": "2024-01-05T23:10:03.000Z",
