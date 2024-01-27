@@ -88160,7 +88160,7 @@
   {
     "_id": "659e762c95d836113a34ab8f",
     "id": "TheBloke/openchat-3.5-0106-GGUF",
-    "likes": 43,
+    "likes": 44,
     "private": false,
     "downloads": 84,
     "tags": [
@@ -91813,13 +91813,19 @@
   {
     "_id": "65b4c025ed110eb9f1020117",
     "id": "TheBloke/Goliath-longLORA-120b-rope8-32k-fp16-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "llama",
+      "base_model:grimulkan/Goliath-longLORA-120b-rope8-32k-fp16",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2024-01-27T08:34:45.000Z",
     "modelId": "TheBloke/Goliath-longLORA-120b-rope8-32k-fp16-GGUF"
   }
