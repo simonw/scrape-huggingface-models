@@ -66143,7 +66143,7 @@
   {
     "_id": "65674311f31cae62b72f0767",
     "id": "TheBloke/deepseek-llm-67b-chat-GGUF",
-    "likes": 27,
+    "likes": 28,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -91816,8 +91816,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:grimulkan/Goliath-longLORA-120b-rope8-32k-fp16",
+      "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-27T08:34:45.000Z",
     "modelId": "TheBloke/Goliath-longLORA-120b-rope8-32k-fp16-GPTQ"
   },
