@@ -69429,7 +69429,7 @@
   {
     "_id": "657232a84e12ce880ea0ac08",
     "id": "TheBloke/stablelm-zephyr-3b-GGUF",
-    "likes": 70,
+    "likes": 71,
     "private": false,
     "downloads": 65,
     "tags": [
@@ -88133,7 +88133,7 @@
   {
     "_id": "659e762c04b93eb6dbb0c530",
     "id": "TheBloke/openchat-3.5-0106-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 985,
     "tags": [
@@ -91793,8 +91793,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:grimulkan/Goliath-longLORA-120b-rope8-32k-fp16",
+      "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-27T08:34:45.000Z",
     "modelId": "TheBloke/Goliath-longLORA-120b-rope8-32k-fp16-AWQ"
   },
