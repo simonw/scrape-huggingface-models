@@ -61724,7 +61724,7 @@
   {
     "_id": "655cf5e58b77e2c30b304dfb",
     "id": "TheBloke/gorilla-openfunctions-v1-GGUF",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 37,
     "tags": [
@@ -71284,7 +71284,7 @@
   {
     "_id": "65771780c793e5b72b0e8d68",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GPTQ",
-    "likes": 114,
+    "likes": 115,
     "private": false,
     "downloads": 4190,
     "tags": [
@@ -91848,5 +91848,54 @@
     "library_name": "transformers",
     "createdAt": "2024-01-27T08:34:45.000Z",
     "modelId": "TheBloke/Goliath-longLORA-120b-rope8-32k-fp16-GGUF"
+  },
+  {
+    "_id": "65b6b2a61e45f6ee8b2171b9",
+    "id": "TheBloke/Tess-10.7B-v1.5b-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2024-01-28T20:01:42.000Z",
+    "modelId": "TheBloke/Tess-10.7B-v1.5b-GGUF"
+  },
+  {
+    "_id": "65b6b2a628ec1c86aa5dddca",
+    "id": "TheBloke/Tess-10.7B-v1.5b-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-28T20:01:42.000Z",
+    "modelId": "TheBloke/Tess-10.7B-v1.5b-AWQ"
+  },
+  {
+    "_id": "65b6b2a6d73977130c5665f0",
+    "id": "TheBloke/Tess-10.7B-v1.5b-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-28T20:01:42.000Z",
+    "modelId": "TheBloke/Tess-10.7B-v1.5b-GPTQ"
+  },
+  {
+    "_id": "65b6b343d73977130c5683b5",
+    "id": "TheBloke/Tess-34B-v1.5b-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-28T20:04:19.000Z",
+    "modelId": "TheBloke/Tess-34B-v1.5b-GGUF"
   }
 ]
