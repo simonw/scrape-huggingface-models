@@ -219,7 +219,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-30b-HF",
     "likes": 11,
     "private": false,
-    "downloads": 2305,
+    "downloads": 2366,
     "tags": [
       "transformers",
       "pytorch",
@@ -295,7 +295,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-13B-HF",
     "likes": 4,
     "private": false,
-    "downloads": 2276,
+    "downloads": 2336,
     "tags": [
       "transformers",
       "pytorch",
@@ -351,7 +351,7 @@
     "id": "TheBloke/alpaca-lora-65B-HF",
     "likes": 3,
     "private": false,
-    "downloads": 2296,
+    "downloads": 2355,
     "tags": [
       "transformers",
       "pytorch",
@@ -409,7 +409,7 @@
     "id": "TheBloke/medalpaca-13B-GPTQ",
     "likes": 27,
     "private": false,
-    "downloads": 2262,
+    "downloads": 2268,
     "tags": [
       "transformers",
       "pytorch",
@@ -77069,7 +77069,7 @@
   {
     "_id": "658038a02a7387d962363fc9",
     "id": "TheBloke/Norocetacean-20B-10k-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -91897,8 +91897,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:migtissera/Tess-10.7B-v1.5b",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-28T20:01:42.000Z",
     "modelId": "TheBloke/Tess-10.7B-v1.5b-GPTQ"
   },
@@ -91909,10 +91920,39 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "yi",
+      "base_model:migtissera/Tess-34B-v1.5b",
+      "license:other",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2024-01-28T20:04:19.000Z",
     "modelId": "TheBloke/Tess-34B-v1.5b-GGUF"
+  },
+  {
+    "_id": "65b6bcac1e45f6ee8b22d679",
+    "id": "TheBloke/Tess-34B-v1.5b-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-28T20:44:28.000Z",
+    "modelId": "TheBloke/Tess-34B-v1.5b-AWQ"
+  },
+  {
+    "_id": "65b6bcac7ccceb5ece9c1d81",
+    "id": "TheBloke/Tess-34B-v1.5b-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-28T20:44:28.000Z",
+    "modelId": "TheBloke/Tess-34B-v1.5b-GPTQ"
   }
 ]
