@@ -15215,7 +15215,7 @@
   {
     "_id": "64d5e2dcabf475a808a24d42",
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
-    "likes": 123,
+    "likes": 124,
     "private": false,
     "downloads": 61332,
     "tags": [
@@ -47825,7 +47825,7 @@
   {
     "_id": "652fb15cabc673c420685d7b",
     "id": "TheBloke/rpguild-chatml-13B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -86713,8 +86713,7 @@
       "base_model:rombodawg/Open_Gpt4_8x7B",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "library_name": "transformers",
     "createdAt": "2024-01-05T23:10:03.000Z",
@@ -91812,7 +91811,7 @@
   {
     "_id": "65b4c025791c5221285ec109",
     "id": "TheBloke/Goliath-longLORA-120b-rope8-32k-fp16-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 1,
     "tags": [
