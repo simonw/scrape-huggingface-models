@@ -26,7 +26,7 @@
     "id": "TheBloke/koala-7B-HF",
     "likes": 18,
     "private": false,
-    "downloads": 2291,
+    "downloads": 2353,
     "tags": [
       "transformers",
       "pytorch",
@@ -54,7 +54,7 @@
     "id": "TheBloke/koala-13B-HF",
     "likes": 41,
     "private": false,
-    "downloads": 2305,
+    "downloads": 2364,
     "tags": [
       "transformers",
       "pytorch",
@@ -155,7 +155,7 @@
     "id": "TheBloke/vicuna-7B-v0-GPTQ",
     "likes": 15,
     "private": false,
-    "downloads": 13,
+    "downloads": 9,
     "tags": [
       "transformers",
       "pytorch",
@@ -178,7 +178,7 @@
     "id": "TheBloke/Vicuna-13B-1.1-GPTQ",
     "likes": 208,
     "private": false,
-    "downloads": 65,
+    "downloads": 51,
     "tags": [
       "transformers",
       "llama",
@@ -199,7 +199,7 @@
     "id": "TheBloke/vicuna-7B-1.1-GPTQ",
     "likes": 58,
     "private": false,
-    "downloads": 37,
+    "downloads": 31,
     "tags": [
       "transformers",
       "llama",
@@ -90349,7 +90349,7 @@
   {
     "_id": "65a5b8b613557dd7ce167eff",
     "id": "TheBloke/LLaMA2-13B-Estopia-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 41,
     "tags": [
@@ -91856,9 +91856,14 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "solar",
+      "base_model:migtissera/Tess-10.7B-v1.5b",
+      "license:apache-2.0",
       "region:us"
     ],
+    "library_name": "transformers",
     "createdAt": "2024-01-28T20:01:42.000Z",
     "modelId": "TheBloke/Tess-10.7B-v1.5b-GGUF"
   },
@@ -91869,8 +91874,19 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "base_model:migtissera/Tess-10.7B-v1.5b",
+      "license:apache-2.0",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-28T20:01:42.000Z",
     "modelId": "TheBloke/Tess-10.7B-v1.5b-AWQ"
   },
@@ -91893,6 +91909,7 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "gguf",
       "region:us"
     ],
     "createdAt": "2024-01-28T20:04:19.000Z",
