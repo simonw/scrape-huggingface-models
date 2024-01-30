@@ -17856,7 +17856,7 @@
   {
     "_id": "64e7d00dae53e70cda1de235",
     "id": "TheBloke/CodeLlama-34B-Instruct-GGUF",
-    "likes": 84,
+    "likes": 85,
     "private": false,
     "downloads": 29,
     "tags": [
@@ -80442,7 +80442,8 @@
       "license:other",
       "autotrain_compatible",
       "4-bit",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -91643,7 +91644,7 @@
   {
     "_id": "65b3d62a28ec1c86aa9399ed",
     "id": "TheBloke/EstopianMaid-13B-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 12,
     "tags": [
@@ -92054,7 +92055,7 @@
   {
     "_id": "65b9409bf69f4d0377a0b60f",
     "id": "TheBloke/CodeLlama-70B-Instruct-GGUF",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
