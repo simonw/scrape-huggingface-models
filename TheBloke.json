@@ -21406,7 +21406,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7B-Chat-GGUF",
-    "likes": 241,
+    "likes": 242,
     "private": false,
     "downloads": 3088,
     "tags": [
@@ -39341,7 +39341,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 425,
+    "likes": 426,
     "private": false,
     "downloads": 2851,
     "tags": [
@@ -41887,7 +41887,7 @@
   {
     "_id": "651bf48063cd12f4ba8db2f5",
     "id": "TheBloke/TinyLlama-1.1B-Chat-v0.3-GGUF",
-    "likes": 29,
+    "likes": 30,
     "private": false,
     "downloads": 477,
     "tags": [
@@ -84072,7 +84072,7 @@
   {
     "_id": "6591d4d754f88261730df832",
     "id": "TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF",
-    "likes": 64,
+    "likes": 65,
     "private": false,
     "downloads": 318,
     "tags": [
@@ -91981,7 +91981,7 @@
   {
     "_id": "65b920f6b1a687a955d10374",
     "id": "TheBloke/CodeLlama-70B-hf-GGUF",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -92005,7 +92005,7 @@
   {
     "_id": "65b920f6b1a687a955d10375",
     "id": "TheBloke/CodeLlama-70B-hf-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -92055,13 +92055,24 @@
   {
     "_id": "65b9409bf69f4d0377a0b60f",
     "id": "TheBloke/CodeLlama-70B-Instruct-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "llama",
+      "llama-2",
+      "text-generation",
+      "code",
+      "arxiv:2308.12950",
+      "base_model:codellama/CodeLlama-70b-Instruct-hf",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-30T18:31:55.000Z",
     "modelId": "TheBloke/CodeLlama-70B-Instruct-GGUF"
   }
