@@ -49054,7 +49054,7 @@
   {
     "_id": "6534e9dfc7530aa27fbaa288",
     "id": "TheBloke/LLaMA2-13B-Tiefighter-AWQ",
-    "likes": 25,
+    "likes": 26,
     "private": false,
     "downloads": 5189,
     "tags": [
@@ -89799,7 +89799,7 @@
   {
     "_id": "65a55ec8c8a09bd5e854a53e",
     "id": "TheBloke/laser-dolphin-mixtral-2x7b-dpo-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 112,
     "tags": [
@@ -91980,13 +91980,24 @@
   {
     "_id": "65b920f6b1a687a955d10374",
     "id": "TheBloke/CodeLlama-70B-hf-GGUF",
-    "likes": 11,
+    "likes": 13,
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "llama",
+      "llama-2",
+      "text-generation",
+      "code",
+      "arxiv:2308.12950",
+      "base_model:codellama/CodeLlama-70b-hf",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-30T16:16:54.000Z",
     "modelId": "TheBloke/CodeLlama-70B-hf-GGUF"
   },
@@ -92013,5 +92024,29 @@
     ],
     "createdAt": "2024-01-30T16:16:54.000Z",
     "modelId": "TheBloke/CodeLlama-70B-hf-GPTQ"
+  },
+  {
+    "_id": "65b9409bccd48f710e8f202b",
+    "id": "TheBloke/CodeLlama-70B-Instruct-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-30T18:31:55.000Z",
+    "modelId": "TheBloke/CodeLlama-70B-Instruct-AWQ"
+  },
+  {
+    "_id": "65b9409bf69f4d0377a0b60f",
+    "id": "TheBloke/CodeLlama-70B-Instruct-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-30T18:31:55.000Z",
+    "modelId": "TheBloke/CodeLlama-70B-Instruct-GGUF"
   }
 ]
