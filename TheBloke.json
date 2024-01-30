@@ -43483,7 +43483,7 @@
   {
     "_id": "65252a61be2b695d217895f3",
     "id": "TheBloke/em_german_leo_mistral-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 2440,
     "tags": [
@@ -65950,7 +65950,7 @@
   {
     "_id": "6566ff2593e30c8a600addaf",
     "id": "TheBloke/psyonic-cetacean-20B-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 35,
     "tags": [
@@ -71550,7 +71550,7 @@
   {
     "_id": "65778ac662d3ac1817cc9201",
     "id": "TheBloke/Mistral-7B-Instruct-v0.2-GGUF",
-    "likes": 151,
+    "likes": 152,
     "private": false,
     "downloads": 1429,
     "tags": [
@@ -87751,7 +87751,7 @@
   {
     "_id": "659dea3987e6996ad489c002",
     "id": "TheBloke/law-chat-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -91981,7 +91981,7 @@
   {
     "_id": "65b920f6b1a687a955d10374",
     "id": "TheBloke/CodeLlama-70B-hf-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -92047,15 +92047,29 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "llama-2",
+      "code",
+      "arxiv:2308.12950",
+      "base_model:codellama/CodeLlama-70b-Instruct-hf",
+      "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-30T18:31:55.000Z",
     "modelId": "TheBloke/CodeLlama-70B-Instruct-AWQ"
   },
   {
     "_id": "65b9409bf69f4d0377a0b60f",
     "id": "TheBloke/CodeLlama-70B-Instruct-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 0,
     "tags": [
