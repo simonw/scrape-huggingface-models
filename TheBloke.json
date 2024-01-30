@@ -49959,7 +49959,7 @@
   {
     "_id": "6539aa2b19c3ef6679742fb0",
     "id": "TheBloke/lzlv_70B-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 125,
     "tags": [
@@ -92035,8 +92035,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "llama-2",
+      "code",
+      "arxiv:2308.12950",
+      "base_model:codellama/CodeLlama-70b-hf",
+      "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-30T16:16:54.000Z",
     "modelId": "TheBloke/CodeLlama-70B-hf-GPTQ"
   },
@@ -92069,7 +92083,7 @@
   {
     "_id": "65b9409bf69f4d0377a0b60f",
     "id": "TheBloke/CodeLlama-70B-Instruct-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -92089,5 +92103,41 @@
     "library_name": "transformers",
     "createdAt": "2024-01-30T18:31:55.000Z",
     "modelId": "TheBloke/CodeLlama-70B-Instruct-GGUF"
+  },
+  {
+    "_id": "65b97f6f4e8d84c0190e16ac",
+    "id": "TheBloke/CodeLlama-70B-Python-AWQ",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-30T22:59:59.000Z",
+    "modelId": "TheBloke/CodeLlama-70B-Python-AWQ"
+  },
+  {
+    "_id": "65b97f6f89e2f69d07c5ffb2",
+    "id": "TheBloke/CodeLlama-70B-Python-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-30T22:59:59.000Z",
+    "modelId": "TheBloke/CodeLlama-70B-Python-GGUF"
+  },
+  {
+    "_id": "65b97f730659ad04d0f56734",
+    "id": "TheBloke/CodeLlama-70B-Instruct-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-30T23:00:03.000Z",
+    "modelId": "TheBloke/CodeLlama-70B-Instruct-GPTQ"
   }
 ]
