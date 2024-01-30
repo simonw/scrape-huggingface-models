@@ -39341,7 +39341,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 423,
+    "likes": 424,
     "private": false,
     "downloads": 2851,
     "tags": [
@@ -91976,5 +91976,42 @@
     "library_name": "transformers",
     "createdAt": "2024-01-28T20:44:28.000Z",
     "modelId": "TheBloke/Tess-34B-v1.5b-GPTQ"
+  },
+  {
+    "_id": "65b920f6b1a687a955d10374",
+    "id": "TheBloke/CodeLlama-70B-hf-GGUF",
+    "likes": 3,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2024-01-30T16:16:54.000Z",
+    "modelId": "TheBloke/CodeLlama-70B-hf-GGUF"
+  },
+  {
+    "_id": "65b920f6b1a687a955d10375",
+    "id": "TheBloke/CodeLlama-70B-hf-AWQ",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-30T16:16:54.000Z",
+    "modelId": "TheBloke/CodeLlama-70B-hf-AWQ"
+  },
+  {
+    "_id": "65b920f6e81c86166c9cd9c7",
+    "id": "TheBloke/CodeLlama-70B-hf-GPTQ",
+    "likes": 1,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-30T16:16:54.000Z",
+    "modelId": "TheBloke/CodeLlama-70B-hf-GPTQ"
   }
 ]
