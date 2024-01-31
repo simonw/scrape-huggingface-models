@@ -34336,7 +34336,7 @@
   {
     "_id": "650a2c51c2d4c8fc37b12521",
     "id": "TheBloke/WizardLM-33B-V1.0-Uncensored-AWQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -52207,7 +52207,7 @@
   {
     "_id": "65401ee13f7da011a3e15344",
     "id": "TheBloke/Uncensored-Jordan-13B-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -55706,7 +55706,7 @@
   {
     "_id": "654cd5c878c68b6d4c71df7c",
     "id": "TheBloke/goliath-120b-GGUF",
-    "likes": 105,
+    "likes": 106,
     "private": false,
     "downloads": 135,
     "tags": [
@@ -92111,8 +92111,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "llama-2",
+      "code",
+      "arxiv:2308.12950",
+      "base_model:codellama/CodeLlama-70b-Python-hf",
+      "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-30T22:59:59.000Z",
     "modelId": "TheBloke/CodeLlama-70B-Python-AWQ"
   },
