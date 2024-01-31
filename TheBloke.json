@@ -820,7 +820,7 @@
     "id": "TheBloke/dromedary-65b-lora-HF",
     "likes": 20,
     "private": false,
-    "downloads": 2364,
+    "downloads": 2454,
     "tags": [
       "transformers",
       "pytorch",
@@ -842,7 +842,7 @@
     "id": "TheBloke/h2ogpt-oasst1-512-30B-GPTQ",
     "likes": 5,
     "private": false,
-    "downloads": 30,
+    "downloads": 18,
     "tags": [
       "transformers",
       "safetensors",
@@ -905,7 +905,7 @@
     "id": "TheBloke/h2ogpt-oasst1-512-30B-HF",
     "likes": 2,
     "private": false,
-    "downloads": 2382,
+    "downloads": 2495,
     "tags": [
       "transformers",
       "pytorch",
@@ -946,7 +946,7 @@
     "id": "TheBloke/gpt4-alpaca-lora_mlp-65B-HF",
     "likes": 7,
     "private": false,
-    "downloads": 2401,
+    "downloads": 2492,
     "tags": [
       "transformers",
       "pytorch",
@@ -1011,7 +1011,7 @@
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ",
     "likes": 276,
     "private": false,
-    "downloads": 65412,
+    "downloads": 65251,
     "tags": [
       "transformers",
       "safetensors",
@@ -1038,7 +1038,7 @@
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-HF",
     "likes": 201,
     "private": false,
-    "downloads": 2597,
+    "downloads": 2686,
     "tags": [
       "transformers",
       "pytorch",
@@ -1087,7 +1087,7 @@
     "id": "TheBloke/wizard-mega-13B-GPTQ",
     "likes": 103,
     "private": false,
-    "downloads": 2284,
+    "downloads": 2314,
     "tags": [
       "transformers",
       "safetensors",
@@ -21380,7 +21380,7 @@
   {
     "_id": "64f5fd954d3b1dd311d30e28",
     "id": "TheBloke/Llama-2-7B-GGUF",
-    "likes": 108,
+    "likes": 109,
     "private": false,
     "downloads": 757,
     "tags": [
@@ -21492,7 +21492,7 @@
   {
     "_id": "64f61985e916843d8ebc5db8",
     "id": "TheBloke/Llama-2-70B-Chat-GGUF",
-    "likes": 90,
+    "likes": 91,
     "private": false,
     "downloads": 188,
     "tags": [
@@ -66463,7 +66463,7 @@
   {
     "_id": "6567bb76253c8b0b67a37989",
     "id": "TheBloke/NeuralHermes-2.5-Mistral-7B-GGUF",
-    "likes": 44,
+    "likes": 45,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -71137,7 +71137,7 @@
   {
     "_id": "6576f60eca95cd024ba1d351",
     "id": "TheBloke/OpenHermes-2.5-neural-chat-v3-3-Slerp-GGUF",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -71552,7 +71552,7 @@
   {
     "_id": "65778ac662d3ac1817cc9201",
     "id": "TheBloke/Mistral-7B-Instruct-v0.2-GGUF",
-    "likes": 155,
+    "likes": 156,
     "private": false,
     "downloads": 1429,
     "tags": [
@@ -82000,7 +82000,7 @@
   {
     "_id": "658c2620c1229bf11329f37b",
     "id": "TheBloke/Silicon-Maid-7B-GPTQ",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 193,
     "tags": [
@@ -84523,7 +84523,7 @@
   {
     "_id": "6593d19411f68f12eaccc96f",
     "id": "TheBloke/Nous-Hermes-2-SOLAR-10.7B-GGUF",
-    "likes": 76,
+    "likes": 77,
     "private": false,
     "downloads": 85,
     "tags": [
@@ -84581,7 +84581,7 @@
   {
     "_id": "6593d194a26070992859463f",
     "id": "TheBloke/Nous-Hermes-2-SOLAR-10.7B-AWQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 473,
     "tags": [
@@ -86263,7 +86263,7 @@
   {
     "_id": "65980ff340cffd3b17d07694",
     "id": "TheBloke/Kunoichi-7B-GPTQ",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 104,
     "tags": [
@@ -86287,7 +86287,7 @@
   {
     "_id": "65980ff3c50abdfec41ceab7",
     "id": "TheBloke/Kunoichi-7B-AWQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 54,
     "tags": [
@@ -91667,7 +91667,7 @@
   {
     "_id": "65b3d62a7ccceb5ececbb582",
     "id": "TheBloke/EstopianMaid-13B-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 44,
     "tags": [
@@ -92242,8 +92242,25 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "llama2",
+      "deutsch",
+      "german",
+      "seedbox",
+      "de",
+      "dataset:seedboxai/multitask_german_examples_32k",
+      "base_model:seedboxai/KafkaLM-70B-German-V0.1",
+      "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-31T17:12:07.000Z",
     "modelId": "TheBloke/KafkaLM-70B-German-V0.1-AWQ"
   },
