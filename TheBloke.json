@@ -65116,7 +65116,7 @@
   {
     "_id": "6564fbeeac2c4c576be72345",
     "id": "TheBloke/Starling-LM-7B-alpha-AWQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 763,
     "tags": [
@@ -71362,7 +71362,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 362,
+    "likes": 363,
     "private": false,
     "downloads": 905,
     "tags": [
@@ -80394,7 +80394,7 @@
   {
     "_id": "65883baf586088fd275237cf",
     "id": "TheBloke/dolphin-2_6-phi-2-GGUF",
-    "likes": 48,
+    "likes": 49,
     "private": false,
     "downloads": 89,
     "tags": [
@@ -92133,7 +92133,7 @@
   {
     "_id": "65b97f6f89e2f69d07c5ffb2",
     "id": "TheBloke/CodeLlama-70B-Python-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -92187,8 +92187,22 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "llama-2",
+      "code",
+      "arxiv:2308.12950",
+      "base_model:codellama/CodeLlama-70b-Python-hf",
+      "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-31T03:18:08.000Z",
     "modelId": "TheBloke/CodeLlama-70B-Python-GPTQ"
   }
