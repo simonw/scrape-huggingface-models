@@ -295,7 +295,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-13B-HF",
     "likes": 4,
     "private": false,
-    "downloads": 2382,
+    "downloads": 2477,
     "tags": [
       "transformers",
       "pytorch",
@@ -323,7 +323,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-13B-GPTQ",
     "likes": 19,
     "private": false,
-    "downloads": 34,
+    "downloads": 36,
     "tags": [
       "transformers",
       "pytorch",
@@ -351,7 +351,7 @@
     "id": "TheBloke/alpaca-lora-65B-HF",
     "likes": 3,
     "private": false,
-    "downloads": 2399,
+    "downloads": 2491,
     "tags": [
       "transformers",
       "pytorch",
@@ -373,7 +373,7 @@
     "id": "TheBloke/alpaca-lora-65B-GPTQ",
     "likes": 29,
     "private": false,
-    "downloads": 13,
+    "downloads": 14,
     "tags": [
       "transformers",
       "pytorch",
@@ -409,7 +409,7 @@
     "id": "TheBloke/medalpaca-13B-GPTQ",
     "likes": 27,
     "private": false,
-    "downloads": 2264,
+    "downloads": 2320,
     "tags": [
       "transformers",
       "pytorch",
@@ -436,7 +436,7 @@
     "id": "TheBloke/wizardLM-7B-HF",
     "likes": 90,
     "private": false,
-    "downloads": 3382,
+    "downloads": 3508,
     "tags": [
       "transformers",
       "pytorch",
@@ -473,7 +473,7 @@
     "id": "TheBloke/wizardLM-7B-GPTQ",
     "likes": 103,
     "private": false,
-    "downloads": 589,
+    "downloads": 623,
     "tags": [
       "transformers",
       "safetensors",
@@ -77348,7 +77348,7 @@
   {
     "_id": "6580aa20419afba19a692cc8",
     "id": "TheBloke/phi-2-GGUF",
-    "likes": 125,
+    "likes": 126,
     "private": false,
     "downloads": 525,
     "tags": [
@@ -92159,7 +92159,7 @@
   {
     "_id": "65b97f730659ad04d0f56734",
     "id": "TheBloke/CodeLlama-70B-Instruct-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -92215,9 +92215,23 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
       "gguf",
+      "llama",
+      "llama2",
+      "deutsch",
+      "german",
+      "seedbox",
+      "text-generation",
+      "de",
+      "dataset:seedboxai/multitask_german_examples_32k",
+      "base_model:seedboxai/KafkaLM-70B-German-V0.1",
+      "license:llama2",
+      "text-generation-inference",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-31T17:12:07.000Z",
     "modelId": "TheBloke/KafkaLM-70B-German-V0.1-GGUF"
   },
