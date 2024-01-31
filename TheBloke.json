@@ -27100,7 +27100,7 @@
   {
     "_id": "65060b7c14302b1d76a394e9",
     "id": "TheBloke/MLewd-L2-Chat-13B-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 28,
     "tags": [
@@ -53298,7 +53298,7 @@
   {
     "_id": "654418242996405c238f5eea",
     "id": "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF",
-    "likes": 174,
+    "likes": 173,
     "private": false,
     "downloads": 30158,
     "tags": [
@@ -54143,7 +54143,7 @@
   {
     "_id": "65479a438767484a0548595b",
     "id": "TheBloke/deepseek-coder-6.7B-instruct-GGUF",
-    "likes": 123,
+    "likes": 122,
     "private": false,
     "downloads": 167,
     "tags": [
@@ -63096,7 +63096,7 @@
   {
     "_id": "655f89ed737830f9947e8fbd",
     "id": "TheBloke/Yi-34B-Chat-GGUF",
-    "likes": 46,
+    "likes": 45,
     "private": false,
     "downloads": 49,
     "tags": [
@@ -71135,7 +71135,7 @@
   {
     "_id": "6576f60eca95cd024ba1d351",
     "id": "TheBloke/OpenHermes-2.5-neural-chat-v3-3-Slerp-GGUF",
-    "likes": 23,
+    "likes": 22,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -71550,7 +71550,7 @@
   {
     "_id": "65778ac662d3ac1817cc9201",
     "id": "TheBloke/Mistral-7B-Instruct-v0.2-GGUF",
-    "likes": 154,
+    "likes": 155,
     "private": false,
     "downloads": 1429,
     "tags": [
@@ -92205,5 +92205,42 @@
     "library_name": "transformers",
     "createdAt": "2024-01-31T03:18:08.000Z",
     "modelId": "TheBloke/CodeLlama-70B-Python-GPTQ"
+  },
+  {
+    "_id": "65ba7f67013e85b81430bcb3",
+    "id": "TheBloke/KafkaLM-70B-German-V0.1-GGUF",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "createdAt": "2024-01-31T17:12:07.000Z",
+    "modelId": "TheBloke/KafkaLM-70B-German-V0.1-GGUF"
+  },
+  {
+    "_id": "65ba7f672a8ebf452e4ecf18",
+    "id": "TheBloke/KafkaLM-70B-German-V0.1-AWQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-31T17:12:07.000Z",
+    "modelId": "TheBloke/KafkaLM-70B-German-V0.1-AWQ"
+  },
+  {
+    "_id": "65ba7f67c19f1b234581fa95",
+    "id": "TheBloke/KafkaLM-70B-German-V0.1-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-31T17:12:07.000Z",
+    "modelId": "TheBloke/KafkaLM-70B-German-V0.1-GPTQ"
   }
 ]
