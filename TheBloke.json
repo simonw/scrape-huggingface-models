@@ -89945,7 +89945,7 @@
   {
     "_id": "65a56626e82b0b84905447f4",
     "id": "TheBloke/Yi-34B-200K-DARE-megamerge-v8-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 160,
     "tags": [
@@ -92133,7 +92133,7 @@
   {
     "_id": "65b97f6f89e2f69d07c5ffb2",
     "id": "TheBloke/CodeLlama-70B-Python-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -92161,9 +92161,35 @@
     "private": false,
     "downloads": 0,
     "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "llama-2",
+      "code",
+      "arxiv:2308.12950",
+      "base_model:codellama/CodeLlama-70b-Instruct-hf",
+      "license:llama2",
+      "autotrain_compatible",
+      "text-generation-inference",
+      "4-bit",
       "region:us"
     ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
     "createdAt": "2024-01-30T23:00:03.000Z",
     "modelId": "TheBloke/CodeLlama-70B-Instruct-GPTQ"
+  },
+  {
+    "_id": "65b9bbf02f2022969fd3ffa2",
+    "id": "TheBloke/CodeLlama-70B-Python-GPTQ",
+    "likes": 0,
+    "private": false,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2024-01-31T03:18:08.000Z",
+    "modelId": "TheBloke/CodeLlama-70B-Python-GPTQ"
   }
 ]
