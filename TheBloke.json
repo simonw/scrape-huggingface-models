@@ -26,7 +26,7 @@
     "id": "TheBloke/koala-7B-HF",
     "likes": 18,
     "private": false,
-    "downloads": 2400,
+    "downloads": 2489,
     "tags": [
       "transformers",
       "pytorch",
@@ -54,7 +54,7 @@
     "id": "TheBloke/koala-13B-HF",
     "likes": 41,
     "private": false,
-    "downloads": 2409,
+    "downloads": 2505,
     "tags": [
       "transformers",
       "pytorch",
@@ -2025,7 +2025,8 @@
     "downloads": 0,
     "tags": [
       "license:other",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "createdAt": "2023-05-27T15:28:12.000Z",
     "modelId": "TheBloke/WizardLM-13B-1.0-GGML"
@@ -12131,7 +12132,8 @@
       "arxiv:2307.09288",
       "autotrain_compatible",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -91981,7 +91983,7 @@
   {
     "_id": "65b920f6b1a687a955d10374",
     "id": "TheBloke/CodeLlama-70B-hf-GGUF",
-    "likes": 22,
+    "likes": 23,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -92083,7 +92085,7 @@
   {
     "_id": "65b9409bf69f4d0377a0b60f",
     "id": "TheBloke/CodeLlama-70B-Instruct-GGUF",
-    "likes": 20,
+    "likes": 21,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -92133,7 +92135,7 @@
   {
     "_id": "65b97f6f89e2f69d07c5ffb2",
     "id": "TheBloke/CodeLlama-70B-Python-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -92183,7 +92185,7 @@
   {
     "_id": "65b9bbf02f2022969fd3ffa2",
     "id": "TheBloke/CodeLlama-70B-Python-GPTQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 0,
     "tags": [
