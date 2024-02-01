@@ -17515,7 +17515,7 @@
   {
     "_id": "64e78cdac3b2443fb30b9dda",
     "id": "TheBloke/CodeLlama-7B-Instruct-GGUF",
-    "likes": 90,
+    "likes": 91,
     "private": false,
     "downloads": 164,
     "tags": [
@@ -17564,7 +17564,7 @@
   {
     "_id": "64e78d117acd8971f2c6bbe6",
     "id": "TheBloke/CodeLlama-7B-GGUF",
-    "likes": 84,
+    "likes": 85,
     "private": false,
     "downloads": 223,
     "tags": [
@@ -17613,7 +17613,7 @@
   {
     "_id": "64e7bc1129a548f66a1ddb15",
     "id": "TheBloke/CodeLlama-13B-Instruct-GGUF",
-    "likes": 90,
+    "likes": 91,
     "private": false,
     "downloads": 186,
     "tags": [
@@ -19040,7 +19040,7 @@
   {
     "_id": "64eb5af6b96ff0e175550f31",
     "id": "TheBloke/CodeLlama-13B-oasst-sft-v10-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -21495,7 +21495,7 @@
   {
     "_id": "64f61985e916843d8ebc5db8",
     "id": "TheBloke/Llama-2-70B-Chat-GGUF",
-    "likes": 91,
+    "likes": 92,
     "private": false,
     "downloads": 196,
     "tags": [
@@ -84294,7 +84294,8 @@
       "base_model:cognitivecomputations/dolphin-2.7-mixtral-8x7b",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "library_name": "transformers",
     "createdAt": "2024-01-01T12:11:59.000Z",
@@ -90284,7 +90285,7 @@
   {
     "_id": "65a5b6820a2ac7c42e38df55",
     "id": "TheBloke/Venus-120b-v1.2-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -92188,7 +92189,7 @@
   {
     "_id": "65b9bbf02f2022969fd3ffa2",
     "id": "TheBloke/CodeLlama-70B-Python-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 69,
     "tags": [
