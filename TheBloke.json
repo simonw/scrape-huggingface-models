@@ -17666,7 +17666,7 @@
   {
     "_id": "64e7bdab9f8952a1c0ffbbb8",
     "id": "TheBloke/CodeLlama-13B-Python-GGUF",
-    "likes": 26,
+    "likes": 27,
     "private": false,
     "downloads": 23,
     "tags": [
@@ -43517,7 +43517,7 @@
   {
     "_id": "65252a6b9e4a6675fe888d34",
     "id": "TheBloke/em_german_leo_mistral-GGUF",
-    "likes": 26,
+    "likes": 27,
     "private": false,
     "downloads": 109,
     "tags": [
@@ -83842,7 +83842,7 @@
   {
     "_id": "6591bb0757a556fbe1e020f9",
     "id": "TheBloke/Sonya-7B-GGUF",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -84077,7 +84077,7 @@
   {
     "_id": "6591d4d754f88261730df832",
     "id": "TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF",
-    "likes": 65,
+    "likes": 66,
     "private": false,
     "downloads": 345,
     "tags": [
@@ -84294,8 +84294,7 @@
       "base_model:cognitivecomputations/dolphin-2.7-mixtral-8x7b",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "library_name": "transformers",
     "createdAt": "2024-01-01T12:11:59.000Z",
@@ -84554,7 +84553,7 @@
   {
     "_id": "6593d19489f1ff0463f9db3d",
     "id": "TheBloke/Nous-Hermes-2-SOLAR-10.7B-GPTQ",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 503,
     "tags": [
