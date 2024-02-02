@@ -24755,7 +24755,7 @@
     "id": "TheBloke/Spicyboros-7B-2.2-GPTQ",
     "likes": 2,
     "private": false,
-    "downloads": 8,
+    "downloads": 4,
     "tags": [
       "transformers",
       "safetensors",
@@ -25068,7 +25068,7 @@
     "id": "TheBloke/MLewdBoros-L2-13B-GPTQ",
     "likes": 14,
     "private": false,
-    "downloads": 74,
+    "downloads": 96,
     "tags": [
       "transformers",
       "safetensors",
@@ -25133,7 +25133,7 @@
     "id": "TheBloke/Llama-2-13B-Ensemble-v5-GGUF",
     "likes": 1,
     "private": false,
-    "downloads": 166,
+    "downloads": 171,
     "tags": [
       "transformers",
       "gguf",
@@ -25175,7 +25175,7 @@
     "id": "TheBloke/Llama-2-13B-Ensemble-v5-GPTQ",
     "likes": 0,
     "private": false,
-    "downloads": 31,
+    "downloads": 32,
     "tags": [
       "transformers",
       "safetensors",
@@ -25374,7 +25374,7 @@
     "id": "TheBloke/Spicyboros-70B-2.2-GPTQ",
     "likes": 5,
     "private": false,
-    "downloads": 128,
+    "downloads": 127,
     "tags": [
       "transformers",
       "safetensors",
@@ -25778,7 +25778,7 @@
     "id": "TheBloke/Spicyboros-c34b-2.2-GGUF",
     "likes": 9,
     "private": false,
-    "downloads": 2,
+    "downloads": 1,
     "tags": [
       "transformers",
       "gguf",
@@ -25906,7 +25906,7 @@
     "id": "TheBloke/Airoboros-L2-70b-2.2-GPTQ",
     "likes": 3,
     "private": false,
-    "downloads": 3,
+    "downloads": 4,
     "tags": [
       "transformers",
       "safetensors",
@@ -26066,7 +26066,7 @@
     "id": "TheBloke/Llama-2-Coder-7B-GGUF",
     "likes": 11,
     "private": false,
-    "downloads": 7,
+    "downloads": 6,
     "tags": [
       "transformers",
       "gguf",
@@ -26383,7 +26383,7 @@
     "id": "TheBloke/Chinese-Alpaca-2-7B-GGUF",
     "likes": 4,
     "private": false,
-    "downloads": 469,
+    "downloads": 841,
     "tags": [
       "transformers",
       "gguf",
@@ -26448,7 +26448,7 @@
     "id": "TheBloke/Chinese-Llama-2-7B-GGUF",
     "likes": 8,
     "private": false,
-    "downloads": 23,
+    "downloads": 24,
     "tags": [
       "transformers",
       "gguf",
@@ -26467,7 +26467,7 @@
     "id": "TheBloke/Chinese-Alpaca-2-13B-GGUF",
     "likes": 6,
     "private": false,
-    "downloads": 463,
+    "downloads": 833,
     "tags": [
       "transformers",
       "gguf",
@@ -26776,7 +26776,7 @@
     "id": "TheBloke/CalliopeDS-L2-13B-GPTQ",
     "likes": 2,
     "private": false,
-    "downloads": 7,
+    "downloads": 8,
     "tags": [
       "transformers",
       "safetensors",
@@ -26846,7 +26846,7 @@
     "id": "TheBloke/Airoboros-c34B-2.2-GPTQ",
     "likes": 0,
     "private": false,
-    "downloads": 8,
+    "downloads": 9,
     "tags": [
       "transformers",
       "safetensors",
@@ -27053,7 +27053,7 @@
     "id": "TheBloke/WizardCoder-Python-7B-V1.0-GPTQ",
     "likes": 6,
     "private": false,
-    "downloads": 47,
+    "downloads": 72,
     "tags": [
       "transformers",
       "safetensors",
@@ -27258,7 +27258,7 @@
     "id": "TheBloke/Llama-2-7B-Chat-AWQ",
     "likes": 11,
     "private": false,
-    "downloads": 73994,
+    "downloads": 76308,
     "tags": [
       "transformers",
       "safetensors",
@@ -27421,7 +27421,7 @@
   {
     "_id": "6508e41ff36bb51c5001973b",
     "id": "TheBloke/Llama-2-13B-chat-AWQ",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 75329,
     "tags": [
@@ -57183,7 +57183,7 @@
   {
     "_id": "65526c84fb76980adeff5db6",
     "id": "TheBloke/Nous-Capybara-34B-GGUF",
-    "likes": 119,
+    "likes": 120,
     "private": false,
     "downloads": 105,
     "tags": [
@@ -71392,7 +71392,7 @@
   {
     "_id": "657759d1da3f14fa5ddeba81",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GPTQ",
-    "likes": 78,
+    "likes": 79,
     "private": false,
     "downloads": 838432,
     "tags": [
@@ -90790,7 +90790,8 @@
       "base_model:mlabonne/NeuralBeagle14-7B",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "library_name": "transformers",
     "createdAt": "2024-01-17T17:08:24.000Z",
