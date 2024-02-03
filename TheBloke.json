@@ -4363,7 +4363,7 @@
     "id": "TheBloke/chronos-hermes-13B-GPTQ",
     "likes": 31,
     "private": false,
-    "downloads": 1770,
+    "downloads": 1746,
     "tags": [
       "transformers",
       "safetensors",
@@ -4532,7 +4532,7 @@
     "id": "TheBloke/WizardCoder-15B-1.0-GPTQ",
     "likes": 173,
     "private": false,
-    "downloads": 370,
+    "downloads": 337,
     "tags": [
       "transformers",
       "safetensors",
@@ -4555,7 +4555,7 @@
     "id": "TheBloke/WizardCoder-15B-1.0-GGML",
     "likes": 112,
     "private": false,
-    "downloads": 20,
+    "downloads": 15,
     "tags": [
       "transformers",
       "starcoder",
@@ -4590,7 +4590,7 @@
     "id": "TheBloke/falcon-40b-instruct-GGML",
     "likes": 58,
     "private": false,
-    "downloads": 20,
+    "downloads": 19,
     "tags": [
       "transformers",
       "falcon",
@@ -4690,7 +4690,7 @@
     "id": "TheBloke/robin-33B-v2-fp16",
     "likes": 3,
     "private": false,
-    "downloads": 2554,
+    "downloads": 2633,
     "tags": [
       "transformers",
       "pytorch",
@@ -4712,7 +4712,7 @@
     "id": "TheBloke/robin-33B-v2-GPTQ",
     "likes": 13,
     "private": false,
-    "downloads": 2536,
+    "downloads": 2609,
     "tags": [
       "transformers",
       "safetensors",
@@ -4817,7 +4817,7 @@
     "id": "TheBloke/robin-13B-v2-fp16",
     "likes": 4,
     "private": false,
-    "downloads": 2522,
+    "downloads": 2603,
     "tags": [
       "transformers",
       "pytorch",
@@ -4861,7 +4861,7 @@
     "id": "TheBloke/robin-65b-v2-fp16",
     "likes": 3,
     "private": false,
-    "downloads": 2546,
+    "downloads": 2619,
     "tags": [
       "transformers",
       "pytorch",
@@ -5087,7 +5087,7 @@
     "id": "TheBloke/WizardLM-7B-V1.0-Uncensored-GPTQ",
     "likes": 13,
     "private": false,
-    "downloads": 70,
+    "downloads": 64,
     "tags": [
       "transformers",
       "safetensors",
@@ -5111,7 +5111,7 @@
     "id": "TheBloke/BigTranslate-13B-GPTQ",
     "likes": 16,
     "private": false,
-    "downloads": 2578,
+    "downloads": 2661,
     "tags": [
       "transformers",
       "safetensors",
@@ -5148,7 +5148,7 @@
     "id": "TheBloke/vicuna-7B-v1.3-GPTQ",
     "likes": 13,
     "private": false,
-    "downloads": 455275,
+    "downloads": 463365,
     "tags": [
       "transformers",
       "safetensors",
@@ -23260,7 +23260,7 @@
   {
     "_id": "64f7a529d04a890f5353ad13",
     "id": "TheBloke/Pygmalion-2-13B-GGUF",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 28,
     "tags": [
@@ -36730,7 +36730,7 @@
   {
     "_id": "650aed451ec9c93a4ed7c99f",
     "id": "TheBloke/Falcon-180B-Chat-AWQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 111,
     "tags": [
@@ -81181,7 +81181,7 @@
   {
     "_id": "658941044bb41498f7b3c950",
     "id": "TheBloke/SauerkrautLM-Mixtral-8x7B-Instruct-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 745,
     "tags": [
@@ -81249,7 +81249,7 @@
   {
     "_id": "65894104fb9c2bdfae531091",
     "id": "TheBloke/SauerkrautLM-Mixtral-8x7B-Instruct-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 897,
     "tags": [
@@ -84393,7 +84393,7 @@
   {
     "_id": "6592e86b9e16fa7510b9520b",
     "id": "TheBloke/sonya-7B-x8-MoE-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -84412,7 +84412,7 @@
   {
     "_id": "659302f55b7553ca5cd97d5c",
     "id": "TheBloke/sonya-7B-x8-MoE-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 18,
     "tags": [
@@ -84435,7 +84435,7 @@
   {
     "_id": "659343b443971eed45765c20",
     "id": "TheBloke/medicine-LLM-13B-AWQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 22,
     "tags": [
@@ -84466,7 +84466,7 @@
   {
     "_id": "659343b443971eed45765c22",
     "id": "TheBloke/medicine-LLM-13B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 23,
     "tags": [
@@ -84497,7 +84497,7 @@
   {
     "_id": "659343b4754092f6b1024008",
     "id": "TheBloke/medicine-LLM-13B-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 19,
     "tags": [
@@ -84526,7 +84526,7 @@
   {
     "_id": "6593d19411f68f12eaccc96f",
     "id": "TheBloke/Nous-Hermes-2-SOLAR-10.7B-GGUF",
-    "likes": 77,
+    "likes": 78,
     "private": false,
     "downloads": 87,
     "tags": [
@@ -84553,7 +84553,7 @@
   {
     "_id": "6593d19489f1ff0463f9db3d",
     "id": "TheBloke/Nous-Hermes-2-SOLAR-10.7B-GPTQ",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 503,
     "tags": [
@@ -84584,7 +84584,7 @@
   {
     "_id": "6593d194a26070992859463f",
     "id": "TheBloke/Nous-Hermes-2-SOLAR-10.7B-AWQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 527,
     "tags": [
@@ -84615,7 +84615,7 @@
   {
     "_id": "6593e04a0800e5541963e61f",
     "id": "TheBloke/bagel-34b-v0.2-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 114,
     "tags": [
@@ -84667,7 +84667,7 @@
   {
     "_id": "6593e04accbc1e2cc76ba3bd",
     "id": "TheBloke/bagel-34b-v0.2-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -84714,7 +84714,7 @@
   {
     "_id": "6593e04acdc0c4099bc123b1",
     "id": "TheBloke/bagel-34b-v0.2-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 25,
     "tags": [
@@ -84766,7 +84766,7 @@
   {
     "_id": "6593e10711f68f12eacfd44d",
     "id": "TheBloke/bagel-dpo-34b-v0.2-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -84813,7 +84813,7 @@
   {
     "_id": "6593e743e7b4143ec857bf83",
     "id": "TheBloke/nontoxic-bagel-34b-v0.2-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -84860,7 +84860,7 @@
   {
     "_id": "65940b06a260709928637dcd",
     "id": "TheBloke/bagel-dpo-34b-v0.2-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 40,
     "tags": [
@@ -84964,7 +84964,7 @@
   {
     "_id": "65941ef7de82e1ef7bb56285",
     "id": "TheBloke/nontoxic-bagel-34b-v0.2-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 140,
     "tags": [
@@ -85016,7 +85016,7 @@
   {
     "_id": "659435e943971eed45a62582",
     "id": "TheBloke/nontoxic-bagel-34b-v0.2-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 16,
     "tags": [
@@ -85068,7 +85068,7 @@
   {
     "_id": "659492dfa78a2778036b2c8b",
     "id": "TheBloke/Pallas-0.5-LASER-0.6-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -85091,7 +85091,7 @@
   {
     "_id": "659492dfde82e1ef7bcda56c",
     "id": "TheBloke/Pallas-0.5-LASER-0.6-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 11,
     "tags": [
@@ -85114,7 +85114,7 @@
   {
     "_id": "659492dfde82e1ef7bcda571",
     "id": "TheBloke/Pallas-0.5-LASER-0.6-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -85132,7 +85132,7 @@
   {
     "_id": "65949328075245eadd5d2a4a",
     "id": "TheBloke/Thespis-Mistral-7B-Alpha-v0.7-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -85152,7 +85152,7 @@
   {
     "_id": "6594958743971eed45bbade2",
     "id": "TheBloke/openbuddy-mixtral-7bx8-v16.3-32k-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 11,
     "tags": [
@@ -85181,7 +85181,7 @@
   {
     "_id": "6594a60068d0b76331740c3b",
     "id": "TheBloke/Thespis-Mistral-7B-Alpha-v0.7-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 23,
     "tags": [
@@ -85205,7 +85205,7 @@
   {
     "_id": "6594a9f1dfca9fad610467e1",
     "id": "TheBloke/openbuddy-mixtral-7bx8-v16.3-32k-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 119,
     "tags": [
@@ -85236,7 +85236,7 @@
   {
     "_id": "6594be4cc04427eb383913d2",
     "id": "TheBloke/Thespis-Mistral-7B-Alpha-v0.7-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 64,
     "tags": [
@@ -85260,7 +85260,7 @@
   {
     "_id": "6594c53be9d0cd61bc7682eb",
     "id": "TheBloke/openbuddy-mixtral-7bx8-v16.3-32k-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 103,
     "tags": [
@@ -85291,7 +85291,7 @@
   {
     "_id": "65951d3b3dcfdcc49c371315",
     "id": "TheBloke/OpenCAI-7B-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -85314,7 +85314,7 @@
   {
     "_id": "65951d3bdab384261016f981",
     "id": "TheBloke/OpenCAI-7B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -85341,7 +85341,7 @@
   {
     "_id": "65951d3bea35173c2ef614f2",
     "id": "TheBloke/OpenCAI-7B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -85368,7 +85368,7 @@
   {
     "_id": "65951d852a36333c0be7ffb9",
     "id": "TheBloke/OpenCAI-13B-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -85391,7 +85391,7 @@
   {
     "_id": "659524186f3fbd7817cc500f",
     "id": "TheBloke/OpenCAI-13B-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 13,
     "tags": [
@@ -85418,7 +85418,7 @@
   {
     "_id": "65952418fd0c7ccd5783ceca",
     "id": "TheBloke/OpenCAI-13B-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 24,
     "tags": [
@@ -85445,7 +85445,7 @@
   {
     "_id": "659584139c58b10612eba75a",
     "id": "TheBloke/Unholy-v2-13B-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 96,
     "tags": [
@@ -85470,7 +85470,7 @@
   {
     "_id": "65958413b6b4c4e5046f135a",
     "id": "TheBloke/Unholy-v2-13B-AWQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 93,
     "tags": [
@@ -85495,7 +85495,7 @@
   {
     "_id": "65958413edfaabe38bddce0f",
     "id": "TheBloke/Unholy-v2-13B-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 40,
     "tags": [
@@ -85516,7 +85516,7 @@
   {
     "_id": "6595c00025b1c7a910500622",
     "id": "TheBloke/Panda-7B-v0.1-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 86,
     "tags": [
@@ -85541,7 +85541,7 @@
   {
     "_id": "6595c000c41c73bcfe0cf060",
     "id": "TheBloke/Panda-7B-v0.1-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -85566,7 +85566,7 @@
   {
     "_id": "6595c000f8f4854a776a4bdc",
     "id": "TheBloke/Panda-7B-v0.1-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -85587,7 +85587,7 @@
   {
     "_id": "6595ed752ae03e58169ad973",
     "id": "TheBloke/FlatDolphinMaid-8x7B-AWQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 114,
     "tags": [
@@ -85612,7 +85612,7 @@
   {
     "_id": "6595ed75f80b20c057c7bc37",
     "id": "TheBloke/FlatDolphinMaid-8x7B-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 19,
     "tags": [
@@ -85637,7 +85637,7 @@
   {
     "_id": "6595ed76522c0e4b43c8e539",
     "id": "TheBloke/FlatDolphinMaid-8x7B-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -85658,7 +85658,7 @@
   {
     "_id": "659682dd4bff344ab9b50d82",
     "id": "TheBloke/WordWoven-13B-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -85681,7 +85681,7 @@
   {
     "_id": "659682dd576d6c613c69bba2",
     "id": "TheBloke/WordWoven-13B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -85700,7 +85700,7 @@
   {
     "_id": "659682dd7cda5685b354a284",
     "id": "TheBloke/WordWoven-13B-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 64,
     "tags": [
@@ -85723,7 +85723,7 @@
   {
     "_id": "659695d34bff344ab9b99a89",
     "id": "TheBloke/Iambe-RP-v3-20B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -85749,7 +85749,7 @@
   {
     "_id": "659695d3e4fbf46026441431",
     "id": "TheBloke/Iambe-RP-v3-20B-GGUF",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -85771,7 +85771,7 @@
   {
     "_id": "659695d3eed0e88dfd5f0b25",
     "id": "TheBloke/Iambe-RP-v3-20B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 5,
     "tags": [
@@ -85797,7 +85797,7 @@
   {
     "_id": "6596a65397aeeba651fa6742",
     "id": "TheBloke/Nous-Hermes-2-SUS-Chat-34B-Slerp-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -85820,7 +85820,7 @@
   {
     "_id": "6596a653a05e4893a23d8bbe",
     "id": "TheBloke/Nous-Hermes-2-SUS-Chat-34B-Slerp-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -85838,7 +85838,7 @@
   {
     "_id": "6596a653a5758eba98ccae95",
     "id": "TheBloke/Nous-Hermes-2-SUS-Chat-34B-Slerp-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -85861,7 +85861,7 @@
   {
     "_id": "6596e10747b8f1a2560d744a",
     "id": "TheBloke/Mistral-7B-OpenOrca-oasst_top1_2023-08-25-v2-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -85903,7 +85903,7 @@
   {
     "_id": "6596e10749dae38371d136ac",
     "id": "TheBloke/Mistral-7B-OpenOrca-oasst_top1_2023-08-25-v2-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 61,
     "tags": [
@@ -85949,7 +85949,7 @@
   {
     "_id": "6596e10767b8fc627906ecb1",
     "id": "TheBloke/Mistral-7B-OpenOrca-oasst_top1_2023-08-25-v2-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 202,
     "tags": [
@@ -85995,7 +85995,7 @@
   {
     "_id": "6596e8851207310bb86e2256",
     "id": "TheBloke/WizardCoder-33B-V1.1-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 284,
     "tags": [
@@ -86022,7 +86022,7 @@
   {
     "_id": "6596e8859608f3f87615751a",
     "id": "TheBloke/WizardCoder-33B-V1.1-GGUF",
-    "likes": 36,
+    "likes": 37,
     "private": false,
     "downloads": 28,
     "tags": [
@@ -86044,7 +86044,7 @@
   {
     "_id": "6596e885ce92304a713c4ccd",
     "id": "TheBloke/WizardCoder-33B-V1.1-AWQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 467,
     "tags": [
@@ -86071,7 +86071,7 @@
   {
     "_id": "6597de1e092b4516b88f1b23",
     "id": "TheBloke/Iambe-RP-DARE-20B-DENSE-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 30,
     "tags": [
@@ -86096,7 +86096,7 @@
   {
     "_id": "6597de1e33e0a98ddb7b65b0",
     "id": "TheBloke/Iambe-RP-DARE-20B-DENSE-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 1,
     "tags": [
@@ -86117,7 +86117,7 @@
   {
     "_id": "6597de1eccd854bca574e5a4",
     "id": "TheBloke/Iambe-RP-DARE-20B-DENSE-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 18,
     "tags": [
@@ -86142,7 +86142,7 @@
   {
     "_id": "6597e86eda80a6829a49b336",
     "id": "TheBloke/Norobara-ZLoss-8x7B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -86169,7 +86169,7 @@
   {
     "_id": "6597ed1440cffd3b17c81666",
     "id": "TheBloke/Kunoichi-7B-GGUF",
-    "likes": 9,
+    "likes": 10,
     "private": false,
     "downloads": 96,
     "tags": [
@@ -86189,7 +86189,7 @@
   {
     "_id": "6597ee91330942d12824952b",
     "id": "TheBloke/Mixtral_11Bx2_MoE_19B-GGUF",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -86208,7 +86208,7 @@
   {
     "_id": "6597ef6aa2659adbf9104536",
     "id": "TheBloke/Norobara-ZLoss-8x7B-AWQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 13,
     "tags": [
@@ -86237,7 +86237,7 @@
   {
     "_id": "6597ef6accd854bca57866de",
     "id": "TheBloke/Norobara-ZLoss-8x7B-GPTQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 9,
     "tags": [
@@ -86266,7 +86266,7 @@
   {
     "_id": "65980ff340cffd3b17d07694",
     "id": "TheBloke/Kunoichi-7B-GPTQ",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 116,
     "tags": [
@@ -86290,7 +86290,7 @@
   {
     "_id": "65980ff3c50abdfec41ceab7",
     "id": "TheBloke/Kunoichi-7B-AWQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 60,
     "tags": [
@@ -86314,7 +86314,7 @@
   {
     "_id": "6598168a3c9af06cbe57079a",
     "id": "TheBloke/Mixtral_11Bx2_MoE_19B-AWQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 278,
     "tags": [
@@ -86337,7 +86337,7 @@
   {
     "_id": "6598168b4dbb962b7c71ff77",
     "id": "TheBloke/Mixtral_11Bx2_MoE_19B-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 46,
     "tags": [
@@ -86360,7 +86360,7 @@
   {
     "_id": "659833521541687d234637c2",
     "id": "TheBloke/Beyonder-4x7B-v2-GPTQ",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 98,
     "tags": [
@@ -86384,7 +86384,7 @@
   {
     "_id": "659833522ece326565122eb6",
     "id": "TheBloke/Beyonder-4x7B-v2-GGUF",
-    "likes": 31,
+    "likes": 32,
     "private": false,
     "downloads": 30,
     "tags": [
@@ -86404,7 +86404,7 @@
   {
     "_id": "65983352b5330c4fee434e60",
     "id": "TheBloke/Beyonder-4x7B-v2-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 331,
     "tags": [
@@ -86428,7 +86428,7 @@
   {
     "_id": "65983eb40ae723e79c256ac5",
     "id": "TheBloke/phi-2-dpo-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 41,
     "tags": [
@@ -86452,7 +86452,7 @@
   {
     "_id": "6598413311b48706ba3720d1",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-LimaRP-ZLoss-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 19,
     "tags": [
@@ -86475,7 +86475,7 @@
   {
     "_id": "659849f58c8ac792959dc2a4",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-LimaRP-ZLoss-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 49,
     "tags": [
@@ -86500,7 +86500,7 @@
   {
     "_id": "659849f5a2a70bb88356b93c",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-LimaRP-ZLoss-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 27,
     "tags": [
@@ -86525,7 +86525,7 @@
   {
     "_id": "65986bb3acaab7bec3da0bc0",
     "id": "TheBloke/phi-2-dpo-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 200,
     "tags": [
@@ -86552,7 +86552,7 @@
   {
     "_id": "659872cf2bc3a1e0f6d46e8b",
     "id": "TheBloke/Mistral-7B-Instruct-v0.2-code-ft-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 582,
     "tags": [
@@ -86575,7 +86575,7 @@
   {
     "_id": "659872cfc6457161ca55c27f",
     "id": "TheBloke/Mistral-7B-Instruct-v0.2-code-ft-AWQ",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 474,
     "tags": [
@@ -86598,7 +86598,7 @@
   {
     "_id": "659872cffc0d293b28a0fcab",
     "id": "TheBloke/Mistral-7B-Instruct-v0.2-code-ft-GGUF",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 65,
     "tags": [
@@ -86617,7 +86617,7 @@
   {
     "_id": "65987c2d0ae723e79c34a39c",
     "id": "TheBloke/Rosa_v2_7B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 2,
     "tags": [
@@ -86637,7 +86637,7 @@
   {
     "_id": "65987c2d5f7a6d40f7d441e1",
     "id": "TheBloke/Rosa_v2_7B-AWQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -86661,7 +86661,7 @@
   {
     "_id": "65987c2deabe0f3e98755412",
     "id": "TheBloke/Rosa_v2_7B-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -86685,7 +86685,7 @@
   {
     "_id": "65988c4b0e574e59dcb8a614",
     "id": "TheBloke/Open_Gpt4_8x7B-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 41,
     "tags": [
@@ -86708,7 +86708,7 @@
   {
     "_id": "65988c4bb01e6e0c71dccc37",
     "id": "TheBloke/Open_Gpt4_8x7B-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 14,
     "tags": [
@@ -86727,7 +86727,7 @@
   {
     "_id": "65988c4ca3259bc417810652",
     "id": "TheBloke/Open_Gpt4_8x7B-GPTQ",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 31,
     "tags": [
@@ -86750,7 +86750,7 @@
   {
     "_id": "65991f662ca1fbfe1c520ee9",
     "id": "TheBloke/zephyr-quiklang-3b-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -88261,7 +88261,7 @@
   {
     "_id": "659ec147b4c2c28f11de21d3",
     "id": "TheBloke/Sensualize-Mixtral-AWQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 37,
     "tags": [
@@ -89828,7 +89828,7 @@
   {
     "_id": "65a55ec8dcfd30f7cd9e0653",
     "id": "TheBloke/laser-dolphin-mixtral-2x7b-dpo-AWQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 184,
     "tags": [
@@ -90617,7 +90617,7 @@
   {
     "_id": "65a6e4f10637ea5cccabdbce",
     "id": "TheBloke/Nous-Hermes-2-Mixtral-8x7B-SFT-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 225,
     "tags": [
