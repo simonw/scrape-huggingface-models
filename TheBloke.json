@@ -75059,8 +75059,7 @@
       "base_model:Locutusque/Orca-2-13b-SFT_v5",
       "license:other",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "library_name": "transformers",
     "createdAt": "2023-12-15T02:03:04.000Z",
