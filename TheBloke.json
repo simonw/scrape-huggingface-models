@@ -2510,7 +2510,7 @@
   {
     "_id": "6478d3a425e06d2ffe89e05a",
     "id": "TheBloke/WizardLM-Uncensored-Falcon-7B-GPTQ",
-    "likes": 60,
+    "likes": 61,
     "private": false,
     "downloads": 282,
     "tags": [
@@ -6811,7 +6811,7 @@
   {
     "_id": "649a9d2a2e34c6901561a472",
     "id": "TheBloke/airoboros-13b-gpt4-1.4-SuperHOT-8K-GPTQ",
-    "likes": 26,
+    "likes": 27,
     "private": false,
     "downloads": 228,
     "tags": [
@@ -39346,7 +39346,7 @@
   {
     "_id": "65146b42c75a3d4c44e41667",
     "id": "TheBloke/Mistral-7B-Instruct-v0.1-GGUF",
-    "likes": 428,
+    "likes": 429,
     "private": false,
     "downloads": 2965,
     "tags": [
@@ -44712,7 +44712,7 @@
   {
     "_id": "6528f3af4638938a727237ea",
     "id": "TheBloke/speechless-tora-code-7B-v1.0-GGUF",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -75059,7 +75059,8 @@
       "base_model:Locutusque/Orca-2-13b-SFT_v5",
       "license:other",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "library_name": "transformers",
     "createdAt": "2023-12-15T02:03:04.000Z",
@@ -92188,7 +92189,7 @@
   {
     "_id": "65b9bbf02f2022969fd3ffa2",
     "id": "TheBloke/CodeLlama-70B-Python-GPTQ",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 406,
     "tags": [
@@ -92348,7 +92349,7 @@
   {
     "_id": "65bac0afbd9e29f771df776f",
     "id": "TheBloke/CapybaraHermes-2.5-Mistral-7B-GPTQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 218,
     "tags": [
