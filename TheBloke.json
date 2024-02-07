@@ -92231,7 +92231,8 @@
       "base_model:seedboxai/KafkaLM-70B-German-V0.1",
       "license:llama2",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
