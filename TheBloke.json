@@ -17666,7 +17666,7 @@
   {
     "_id": "64e7bdab9f8952a1c0ffbbb8",
     "id": "TheBloke/CodeLlama-13B-Python-GGUF",
-    "likes": 27,
+    "likes": 28,
     "private": false,
     "downloads": 27,
     "tags": [
@@ -88147,6 +88147,7 @@
       "text-generation",
       "openchat",
       "C-RLFT",
+      "conversational",
       "arxiv:2309.11235",
       "arxiv:2303.08774",
       "base_model:openchat/openchat-3.5-0106",
