@@ -49320,7 +49320,8 @@
       "base_model:CausalLM/7B",
       "license:wtfpl",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
