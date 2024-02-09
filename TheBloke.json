@@ -24556,7 +24556,8 @@
       "base_model:tiiuae/falcon-180B",
       "license:unknown",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "library_name": "transformers",
     "createdAt": "2023-09-08T11:50:28.000Z",
@@ -38978,7 +38979,8 @@
       "base_model:lmsys/vicuna-33b-v1.3",
       "license:other",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "library_name": "transformers",
     "createdAt": "2023-09-25T16:00:11.000Z",
@@ -56198,7 +56200,8 @@
       "base_model:umd-zhou-lab/claude2-alpaca-13B",
       "license:llama2",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "library_name": "transformers",
     "createdAt": "2023-11-10T09:49:09.000Z",
@@ -76211,7 +76214,8 @@
       "base_model:ignos/LeoScorpius-GreenNode-Alpaca-7B-v1",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "library_name": "transformers",
     "createdAt": "2023-12-16T12:34:05.000Z",
@@ -87385,7 +87389,8 @@
       "dataset:teknium/openhermes",
       "base_model:Walmart-the-bag/zephyr-quiklang-3b-4K",
       "license:other",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
