@@ -23765,8 +23765,7 @@
       "base_model:Voicelab/trurl-2-13b",
       "license:llama2",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -92422,7 +92421,7 @@
   {
     "_id": "65b97f6f4e8d84c0190e16ac",
     "id": "TheBloke/CodeLlama-70B-Python-AWQ",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 66,
     "tags": [
