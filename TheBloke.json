@@ -2328,7 +2328,7 @@
   {
     "_id": "6475694482907acdddfa6e86",
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
-    "likes": 509,
+    "likes": 510,
     "private": false,
     "downloads": 9543,
     "tags": [
@@ -23765,7 +23765,8 @@
       "base_model:Voicelab/trurl-2-13b",
       "license:llama2",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -84778,7 +84779,7 @@
   {
     "_id": "6593d19411f68f12eaccc96f",
     "id": "TheBloke/Nous-Hermes-2-SOLAR-10.7B-GGUF",
-    "likes": 80,
+    "likes": 81,
     "private": false,
     "downloads": 74,
     "tags": [
