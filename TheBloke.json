@@ -1114,7 +1114,7 @@
   {
     "_id": "6462a5458e12f9ab9998e2dd",
     "id": "TheBloke/WizardLM-13B-Uncensored-GGML",
-    "likes": 56,
+    "likes": 57,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -34075,7 +34075,7 @@
   {
     "_id": "650a29b17b68c4a6f68ebfe6",
     "id": "TheBloke/WizardLM-13B-Uncensored-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -34397,7 +34397,7 @@
   {
     "_id": "650a2d50a6f657faa42f9d84",
     "id": "TheBloke/WizardLM-7B-V1.0-Uncensored-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -54090,7 +54090,7 @@
   {
     "_id": "6547631b10d47c1f77e9cf13",
     "id": "TheBloke/deepseek-coder-6.7B-base-GPTQ",
-    "likes": 2,
+    "likes": 3,
     "private": false,
     "downloads": 64,
     "tags": [
@@ -71702,7 +71702,6 @@
       "base_model:mistralai/Mistral-7B-Instruct-v0.2",
       "license:apache-2.0",
       "autotrain_compatible",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -88032,7 +88031,7 @@
   {
     "_id": "659dea3987e6996ad489c002",
     "id": "TheBloke/law-chat-GGUF",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -91223,7 +91222,7 @@
   {
     "_id": "65a817296a7418d9af384682",
     "id": "TheBloke/stable-code-3b-GPTQ",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "downloads": 140,
     "tags": [
