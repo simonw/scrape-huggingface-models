@@ -52872,7 +52872,7 @@
   {
     "_id": "6542b27c8caf77017826c032",
     "id": "TheBloke/SciPhi-Self-RAG-Mistral-7B-32k-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 11,
     "tags": [
@@ -71676,7 +71676,6 @@
       "base_model:mistralai/Mistral-7B-Instruct-v0.2",
       "license:apache-2.0",
       "autotrain_compatible",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
