@@ -21600,7 +21600,7 @@
   {
     "_id": "64f66b5579ae3099e4b53835",
     "id": "TheBloke/MythoLogic-Mini-7B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -74193,7 +74193,7 @@
   {
     "_id": "657ada27f14f26780a66a577",
     "id": "TheBloke/dolphin-2.5-mixtral-8x7b-GGUF",
-    "likes": 252,
+    "likes": 253,
     "private": false,
     "downloads": 501,
     "tags": [
@@ -82275,7 +82275,8 @@
       "base_model:SanjiWatsuki/Silicon-Maid-7B",
       "license:cc-by-4.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "library_name": "transformers",
     "createdAt": "2023-12-27T13:26:56.000Z",
@@ -82284,7 +82285,7 @@
   {
     "_id": "658d412a077d14ff7e90388e",
     "id": "TheBloke/dolphin-2.6-mistral-7B-AWQ",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 137,
     "tags": [
