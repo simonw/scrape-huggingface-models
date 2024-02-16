@@ -82275,8 +82275,7 @@
       "base_model:SanjiWatsuki/Silicon-Maid-7B",
       "license:cc-by-4.0",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "library_name": "transformers",
     "createdAt": "2023-12-27T13:26:56.000Z",
@@ -88445,7 +88444,7 @@
   {
     "_id": "659e762c95d836113a34ab8f",
     "id": "TheBloke/openchat-3.5-0106-GGUF",
-    "likes": 48,
+    "likes": 49,
     "private": false,
     "downloads": 116,
     "tags": [
