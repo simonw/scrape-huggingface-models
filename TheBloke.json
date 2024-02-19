@@ -437,7 +437,7 @@
     "id": "TheBloke/wizardLM-7B-HF",
     "likes": 90,
     "private": false,
-    "downloads": 4070,
+    "downloads": 4035,
     "tags": [
       "transformers",
       "pytorch",
@@ -541,7 +541,7 @@
     "id": "TheBloke/stable-vicuna-13B-GPTQ",
     "likes": 218,
     "private": false,
-    "downloads": 96,
+    "downloads": 91,
     "tags": [
       "transformers",
       "safetensors",
@@ -570,7 +570,7 @@
     "id": "TheBloke/OpenAssistant-SFT-7-Llama-30B-HF",
     "likes": 14,
     "private": false,
-    "downloads": 2561,
+    "downloads": 2454,
     "tags": [
       "transformers",
       "pytorch",
@@ -646,7 +646,7 @@
     "id": "TheBloke/wizard-vicuna-13B-GPTQ",
     "likes": 100,
     "private": false,
-    "downloads": 1840,
+    "downloads": 1692,
     "tags": [
       "transformers",
       "safetensors",
@@ -672,7 +672,7 @@
     "id": "TheBloke/wizard-vicuna-13B-HF",
     "likes": 48,
     "private": false,
-    "downloads": 2625,
+    "downloads": 2515,
     "tags": [
       "transformers",
       "pytorch",
@@ -710,7 +710,7 @@
     "id": "TheBloke/WizardLM-7B-uncensored-GPTQ",
     "likes": 177,
     "private": false,
-    "downloads": 2681,
+    "downloads": 2466,
     "tags": [
       "transformers",
       "safetensors",
@@ -736,7 +736,7 @@
     "id": "TheBloke/GPT4All-13B-snoozy-GPTQ",
     "likes": 31,
     "private": false,
-    "downloads": 109,
+    "downloads": 113,
     "tags": [
       "transformers",
       "safetensors",
@@ -15224,7 +15224,7 @@
   {
     "_id": "64d5e2dcabf475a808a24d42",
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
-    "likes": 137,
+    "likes": 138,
     "private": false,
     "downloads": 70461,
     "tags": [
@@ -48218,6 +48218,7 @@
       "base_model:amazon/MistralLite",
       "license:apache-2.0",
       "autotrain_compatible",
+      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -50107,7 +50108,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 201,
+    "likes": 202,
     "private": false,
     "downloads": 979,
     "tags": [
@@ -54610,6 +54611,7 @@
       "llama",
       "base_model:Henk717/echidna-tiefigther-25",
       "license:cc-by-nc-4.0",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -63981,6 +63983,7 @@
       "dataset:hwanhe/Mini_orca",
       "base_model:Minirecord/Mini_synatra_7b_02",
       "license:cc-by-sa-4.0",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -84527,7 +84530,7 @@
   {
     "_id": "6592ac0fac02633c0de63ea2",
     "id": "TheBloke/dolphin-2.7-mixtral-8x7b-GGUF",
-    "likes": 63,
+    "likes": 64,
     "private": false,
     "downloads": 108,
     "tags": [
@@ -85749,7 +85752,7 @@
   {
     "_id": "65958413edfaabe38bddce0f",
     "id": "TheBloke/Unholy-v2-13B-GGUF",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 42,
     "tags": [
