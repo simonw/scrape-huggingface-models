@@ -87513,7 +87513,7 @@
   {
     "_id": "659a9ab42f42fd55b9ec60e4",
     "id": "TheBloke/LLaMA-Pro-8B-Instruct-GGUF",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 7,
     "tags": [
@@ -90731,6 +90731,7 @@
       "en",
       "base_model:NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO",
       "license:apache-2.0",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -90971,6 +90972,7 @@
       "en",
       "base_model:NousResearch/Nous-Hermes-2-Mixtral-8x7B-SFT",
       "license:apache-2.0",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -91983,7 +91985,7 @@
     "id": "TheBloke/EstopianMaid-13B-GPTQ",
     "likes": 9,
     "private": false,
-    "downloads": 873,
+    "downloads": 864,
     "tags": [
       "transformers",
       "safetensors",
@@ -92008,7 +92010,7 @@
     "id": "TheBloke/EstopianMaid-13B-AWQ",
     "likes": 1,
     "private": false,
-    "downloads": 140,
+    "downloads": 138,
     "tags": [
       "transformers",
       "safetensors",
@@ -92080,7 +92082,7 @@
     "id": "TheBloke/Etheria-55b-v0.1-GPTQ",
     "likes": 2,
     "private": false,
-    "downloads": 34,
+    "downloads": 30,
     "tags": [
       "transformers",
       "safetensors",
@@ -92452,7 +92454,7 @@
     "id": "TheBloke/CodeLlama-70B-Python-GGUF",
     "likes": 26,
     "private": false,
-    "downloads": 41,
+    "downloads": 45,
     "tags": [
       "transformers",
       "gguf",
@@ -92476,7 +92478,7 @@
     "id": "TheBloke/CodeLlama-70B-Instruct-GPTQ",
     "likes": 4,
     "private": false,
-    "downloads": 1231,
+    "downloads": 1239,
     "tags": [
       "transformers",
       "safetensors",
@@ -92503,7 +92505,7 @@
     "id": "TheBloke/CodeLlama-70B-Python-GPTQ",
     "likes": 12,
     "private": false,
-    "downloads": 586,
+    "downloads": 590,
     "tags": [
       "transformers",
       "safetensors",
@@ -92558,7 +92560,7 @@
     "id": "TheBloke/KafkaLM-70B-German-V0.1-AWQ",
     "likes": 1,
     "private": false,
-    "downloads": 15,
+    "downloads": 17,
     "tags": [
       "transformers",
       "safetensors",
@@ -92587,7 +92589,7 @@
     "id": "TheBloke/KafkaLM-70B-German-V0.1-GPTQ",
     "likes": 1,
     "private": false,
-    "downloads": 30,
+    "downloads": 34,
     "tags": [
       "transformers",
       "safetensors",
@@ -92616,7 +92618,7 @@
     "id": "TheBloke/CapybaraHermes-2.5-Mistral-7B-GGUF",
     "likes": 31,
     "private": false,
-    "downloads": 85,
+    "downloads": 95,
     "tags": [
       "trl",
       "gguf",
@@ -92640,7 +92642,7 @@
     "id": "TheBloke/CapybaraHermes-2.5-Mistral-7B-AWQ",
     "likes": 6,
     "private": false,
-    "downloads": 937,
+    "downloads": 1016,
     "tags": [
       "trl",
       "safetensors",
@@ -92665,7 +92667,7 @@
     "id": "TheBloke/CapybaraHermes-2.5-Mistral-7B-GPTQ",
     "likes": 13,
     "private": false,
-    "downloads": 1390,
+    "downloads": 1819,
     "tags": [
       "trl",
       "safetensors",
