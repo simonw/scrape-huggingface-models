@@ -50108,7 +50108,7 @@
   {
     "_id": "653bb81b7f5fc9ccb1617aa3",
     "id": "TheBloke/zephyr-7B-beta-GGUF",
-    "likes": 203,
+    "likes": 204,
     "private": false,
     "downloads": 1042,
     "tags": [
@@ -90731,7 +90731,6 @@
       "en",
       "base_model:NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO",
       "license:apache-2.0",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -90972,7 +90971,6 @@
       "en",
       "base_model:NousResearch/Nous-Hermes-2-Mixtral-8x7B-SFT",
       "license:apache-2.0",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
