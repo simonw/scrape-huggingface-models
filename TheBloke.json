@@ -29810,7 +29810,7 @@
   {
     "_id": "65093f04905c78a96a2b9642",
     "id": "TheBloke/MythoMax-L2-13B-AWQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 1616,
     "tags": [
@@ -52744,7 +52744,7 @@
   {
     "_id": "6542419f4556096591088490",
     "id": "TheBloke/Amethyst-13B-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 3,
     "tags": [
@@ -71548,7 +71548,7 @@
   {
     "_id": "657759d1da3f14fa5ddeba81",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GPTQ",
-    "likes": 97,
+    "likes": 98,
     "private": false,
     "downloads": 1181591,
     "tags": [
@@ -71634,7 +71634,7 @@
   {
     "_id": "657778ad4d989b0a6876e6da",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-AWQ",
-    "likes": 35,
+    "likes": 36,
     "private": false,
     "downloads": 21787,
     "tags": [
@@ -71718,7 +71718,7 @@
   {
     "_id": "65778ac662d3ac1817cc9201",
     "id": "TheBloke/Mistral-7B-Instruct-v0.2-GGUF",
-    "likes": 187,
+    "likes": 189,
     "private": false,
     "downloads": 2611,
     "tags": [
@@ -78862,7 +78862,8 @@
       "base_model:whiterabbitneo/WhiteRabbitNeo-13B",
       "license:llama2",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "library_name": "transformers",
     "createdAt": "2023-12-21T11:45:34.000Z",
@@ -90712,7 +90713,7 @@
   {
     "_id": "65a6418e8a0485c12d075026",
     "id": "TheBloke/Nous-Hermes-2-Mixtral-8x7B-DPO-GGUF",
-    "likes": 43,
+    "likes": 44,
     "private": false,
     "downloads": 31,
     "tags": [
