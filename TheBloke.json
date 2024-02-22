@@ -41911,7 +41911,7 @@
   {
     "_id": "651bf48063cd12f4ba8db2f5",
     "id": "TheBloke/TinyLlama-1.1B-Chat-v0.3-GGUF",
-    "likes": 32,
+    "likes": 33,
     "private": false,
     "downloads": 865,
     "tags": [
@@ -66642,7 +66642,6 @@
       "base_model:mlabonne/NeuralHermes-2.5-Mistral-7B",
       "license:apache-2.0",
       "autotrain_compatible",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -84330,7 +84329,7 @@
   {
     "_id": "6591d4d754f88261730df832",
     "id": "TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF",
-    "likes": 73,
+    "likes": 74,
     "private": false,
     "downloads": 381,
     "tags": [
