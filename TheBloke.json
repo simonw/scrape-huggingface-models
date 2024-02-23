@@ -1499,7 +1499,7 @@
     "id": "TheBloke/airoboros-13B-GPTQ",
     "likes": 13,
     "private": false,
-    "downloads": 8,
+    "downloads": 9,
     "tags": [
       "transformers",
       "safetensors",
@@ -1521,7 +1521,7 @@
     "id": "TheBloke/airoboros-13B-HF",
     "likes": 12,
     "private": false,
-    "downloads": 2516,
+    "downloads": 2544,
     "tags": [
       "transformers",
       "pytorch",
@@ -1543,7 +1543,7 @@
     "id": "TheBloke/manticore-13b-chat-pyg-GPTQ",
     "likes": 32,
     "private": false,
-    "downloads": 1659,
+    "downloads": 1586,
     "tags": [
       "transformers",
       "safetensors",
@@ -1620,7 +1620,7 @@
     "id": "TheBloke/Project-Baize-v2-7B-GPTQ",
     "likes": 4,
     "private": false,
-    "downloads": 2456,
+    "downloads": 2474,
     "tags": [
       "transformers",
       "safetensors",
@@ -1644,7 +1644,7 @@
     "id": "TheBloke/Project-Baize-v2-13B-GPTQ",
     "likes": 11,
     "private": false,
-    "downloads": 2419,
+    "downloads": 2462,
     "tags": [
       "transformers",
       "safetensors",
@@ -1700,7 +1700,7 @@
     "id": "TheBloke/guanaco-13B-GPTQ",
     "likes": 28,
     "private": false,
-    "downloads": 60,
+    "downloads": 55,
     "tags": [
       "transformers",
       "safetensors",
@@ -1725,7 +1725,7 @@
     "id": "TheBloke/guanaco-33B-GPTQ",
     "likes": 74,
     "private": false,
-    "downloads": 1708,
+    "downloads": 1608,
     "tags": [
       "transformers",
       "safetensors",
@@ -1749,7 +1749,7 @@
     "id": "TheBloke/guanaco-65B-GPTQ",
     "likes": 265,
     "private": false,
-    "downloads": 143,
+    "downloads": 145,
     "tags": [
       "transformers",
       "safetensors",
@@ -1789,7 +1789,7 @@
     "id": "TheBloke/guanaco-65B-HF",
     "likes": 27,
     "private": false,
-    "downloads": 2430,
+    "downloads": 2456,
     "tags": [
       "transformers",
       "pytorch",
@@ -1812,7 +1812,7 @@
     "id": "TheBloke/guanaco-13B-HF",
     "likes": 7,
     "private": false,
-    "downloads": 10855,
+    "downloads": 11012,
     "tags": [
       "transformers",
       "pytorch",
@@ -1835,7 +1835,7 @@
     "id": "TheBloke/guanaco-7B-GGML",
     "likes": 36,
     "private": false,
-    "downloads": 2,
+    "downloads": 3,
     "tags": [
       "transformers",
       "llama",
@@ -1853,7 +1853,7 @@
     "id": "TheBloke/guanaco-7B-GPTQ",
     "likes": 27,
     "private": false,
-    "downloads": 16,
+    "downloads": 17,
     "tags": [
       "transformers",
       "safetensors",
@@ -1877,7 +1877,7 @@
     "id": "TheBloke/guanaco-7B-HF",
     "likes": 10,
     "private": false,
-    "downloads": 11351,
+    "downloads": 11372,
     "tags": [
       "transformers",
       "pytorch",
@@ -1913,7 +1913,7 @@
     "id": "TheBloke/Vigogne-Instruct-13B-GPTQ",
     "likes": 2,
     "private": false,
-    "downloads": 7,
+    "downloads": 8,
     "tags": [
       "transformers",
       "safetensors",
@@ -1939,7 +1939,7 @@
     "id": "TheBloke/Vigogne-Instruct-13B-HF",
     "likes": 2,
     "private": false,
-    "downloads": 4,
+    "downloads": 6,
     "tags": [
       "transformers",
       "pytorch",
@@ -1964,7 +1964,7 @@
     "id": "TheBloke/Falcon-7B-Instruct-GPTQ",
     "likes": 62,
     "private": false,
-    "downloads": 586,
+    "downloads": 1659,
     "tags": [
       "transformers",
       "safetensors",
@@ -1993,7 +1993,7 @@
     "id": "TheBloke/falcon-40b-instruct-GPTQ",
     "likes": 197,
     "private": false,
-    "downloads": 16920,
+    "downloads": 16937,
     "tags": [
       "transformers",
       "safetensors",
@@ -2037,7 +2037,7 @@
     "id": "TheBloke/WizardLM-13B-1.0-GPTQ",
     "likes": 20,
     "private": false,
-    "downloads": 2,
+    "downloads": 3,
     "tags": [
       "transformers",
       "safetensors",
@@ -2061,7 +2061,7 @@
     "id": "TheBloke/WizardLM-13B-1.0-fp16",
     "likes": 10,
     "private": false,
-    "downloads": 1563,
+    "downloads": 1544,
     "tags": [
       "transformers",
       "pytorch",
@@ -2099,7 +2099,7 @@
     "id": "TheBloke/gorilla-7B-fp16",
     "likes": 12,
     "private": false,
-    "downloads": 2,
+    "downloads": 3,
     "tags": [
       "transformers",
       "pytorch",
@@ -2121,7 +2121,7 @@
     "id": "TheBloke/gorilla-7B-GPTQ",
     "likes": 25,
     "private": false,
-    "downloads": 4,
+    "downloads": 5,
     "tags": [
       "transformers",
       "safetensors",
@@ -2221,7 +2221,7 @@
     "id": "TheBloke/Samantha-13B-GPTQ",
     "likes": 6,
     "private": false,
-    "downloads": 3,
+    "downloads": 4,
     "tags": [
       "transformers",
       "safetensors",
@@ -2257,7 +2257,7 @@
     "id": "TheBloke/samantha-33B-GPTQ",
     "likes": 19,
     "private": false,
-    "downloads": 4,
+    "downloads": 5,
     "tags": [
       "transformers",
       "safetensors",
@@ -2294,7 +2294,7 @@
     "id": "TheBloke/VicUnlocked-alpaca-65B-QLoRA-fp16",
     "likes": 10,
     "private": false,
-    "downloads": 2447,
+    "downloads": 2482,
     "tags": [
       "transformers",
       "pytorch",
@@ -2330,7 +2330,7 @@
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ",
     "likes": 520,
     "private": false,
-    "downloads": 7730,
+    "downloads": 7802,
     "tags": [
       "transformers",
       "safetensors",
@@ -2357,7 +2357,7 @@
     "id": "TheBloke/Wizard-Vicuna-30B-Uncensored-fp16",
     "likes": 17,
     "private": false,
-    "downloads": 2449,
+    "downloads": 2579,
     "tags": [
       "transformers",
       "pytorch",
@@ -2383,7 +2383,7 @@
     "id": "TheBloke/samantha-falcon-7B-GPTQ",
     "likes": 12,
     "private": false,
-    "downloads": 264,
+    "downloads": 273,
     "tags": [
       "transformers",
       "pytorch",
@@ -2422,7 +2422,7 @@
     "id": "TheBloke/hippogriff-30b-chat-GPTQ",
     "likes": 11,
     "private": false,
-    "downloads": 6,
+    "downloads": 7,
     "tags": [
       "transformers",
       "safetensors",
@@ -2475,7 +2475,7 @@
     "id": "TheBloke/WizardLM-Uncensored-SuperCOT-StoryTelling-30B-GPTQ",
     "likes": 77,
     "private": false,
-    "downloads": 1744,
+    "downloads": 1660,
     "tags": [
       "transformers",
       "safetensors",
@@ -36050,7 +36050,7 @@
   {
     "_id": "650a57252257a3afbafc27e2",
     "id": "TheBloke/medalpaca-13B-GGUF",
-    "likes": 4,
+    "likes": 5,
     "private": false,
     "downloads": 6,
     "tags": [
@@ -53276,7 +53276,7 @@
   {
     "_id": "6543e26c40ddcc1c6f1d2eb1",
     "id": "TheBloke/Yarn-Mistral-7B-128k-AWQ",
-    "likes": 55,
+    "likes": 56,
     "private": false,
     "downloads": 4654,
     "tags": [
@@ -65207,7 +65207,7 @@
   {
     "_id": "6564fbee18d648e7cca1d112",
     "id": "TheBloke/Starling-LM-7B-alpha-GGUF",
-    "likes": 81,
+    "likes": 82,
     "private": false,
     "downloads": 57,
     "tags": [
@@ -90742,7 +90742,7 @@
   {
     "_id": "65a6418ec128478d753540be",
     "id": "TheBloke/Nous-Hermes-2-Mixtral-8x7B-DPO-AWQ",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 3475,
     "tags": [
@@ -91104,7 +91104,7 @@
   {
     "_id": "65a80db34623e107b92e926e",
     "id": "TheBloke/Dr_Samantha-7B-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 10,
     "tags": [
