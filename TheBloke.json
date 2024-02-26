@@ -4530,7 +4530,7 @@
   {
     "_id": "6489dec34344b9f97db273d9",
     "id": "TheBloke/WizardCoder-15B-1.0-GPTQ",
-    "likes": 174,
+    "likes": 175,
     "private": false,
     "downloads": 316,
     "tags": [
@@ -71524,7 +71524,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 432,
+    "likes": 433,
     "private": false,
     "downloads": 1132,
     "tags": [
@@ -71665,7 +71665,7 @@
   {
     "_id": "65778ac63ceeb2f078e6c864",
     "id": "TheBloke/Mistral-7B-Instruct-v0.2-GPTQ",
-    "likes": 19,
+    "likes": 20,
     "private": false,
     "downloads": 18258,
     "tags": [
@@ -91675,7 +91675,6 @@
       "en",
       "base_model:DiscoResearch/DiscoLM_German_7b_v1",
       "license:apache-2.0",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
