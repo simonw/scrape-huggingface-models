@@ -71420,7 +71420,7 @@
   {
     "_id": "65770d54b2b935d83f6ea4d1",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GGUF",
-    "likes": 382,
+    "likes": 383,
     "private": false,
     "downloads": 378,
     "tags": [
@@ -79382,7 +79382,7 @@
   {
     "_id": "65856b8269dfb7bfc5006769",
     "id": "TheBloke/dolphin-2.6-mixtral-8x7b-GGUF",
-    "likes": 40,
+    "likes": 41,
     "private": false,
     "downloads": 8,
     "tags": [
@@ -87624,7 +87624,7 @@
   {
     "_id": "659aa22c8c8ac792953fc559",
     "id": "TheBloke/Noromaid-13B-v0.3-GPTQ",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 191,
     "tags": [
@@ -91675,6 +91675,7 @@
       "en",
       "base_model:DiscoResearch/DiscoLM_German_7b_v1",
       "license:apache-2.0",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -92658,6 +92659,7 @@
       "dataset:argilla/dpo-mix-7k",
       "base_model:argilla/CapybaraHermes-2.5-Mistral-7B",
       "license:apache-2.0",
+      "has_space",
       "4-bit",
       "region:us"
     ],
