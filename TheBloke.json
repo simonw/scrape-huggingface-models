@@ -4980,7 +4980,7 @@
   {
     "_id": "648edb10434eed3599bbe5ca",
     "id": "TheBloke/gpt4-x-alpaca-13B-GGML",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -21418,7 +21418,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7B-Chat-GGUF",
-    "likes": 282,
+    "likes": 283,
     "private": false,
     "downloads": 4712,
     "tags": [
@@ -23893,7 +23893,7 @@
   {
     "_id": "64f85b9c8a234f114e24910e",
     "id": "TheBloke/GodziLLa2-70B-GGUF",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 10,
     "tags": [
@@ -24176,7 +24176,7 @@
   {
     "_id": "64f97e6a159055330801aec5",
     "id": "TheBloke/Falcon-180B-Chat-GGUF",
-    "likes": 117,
+    "likes": 118,
     "private": false,
     "downloads": 15,
     "tags": [
@@ -25832,7 +25832,7 @@
   {
     "_id": "650099eed522560505c5ba6f",
     "id": "TheBloke/Llama-2-13B-Ensemble-v6-GGUF",
-    "likes": 5,
+    "likes": 6,
     "private": false,
     "downloads": 37,
     "tags": [
@@ -71719,7 +71719,7 @@
   {
     "_id": "65778ac662d3ac1817cc9201",
     "id": "TheBloke/Mistral-7B-Instruct-v0.2-GGUF",
-    "likes": 197,
+    "likes": 198,
     "private": false,
     "downloads": 2827,
     "tags": [
@@ -92659,7 +92659,6 @@
       "dataset:argilla/dpo-mix-7k",
       "base_model:argilla/CapybaraHermes-2.5-Mistral-7B",
       "license:apache-2.0",
-      "has_space",
       "4-bit",
       "region:us"
     ],
