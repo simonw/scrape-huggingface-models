@@ -17684,7 +17684,8 @@
       "base_model:codellama/CodeLlama-13b-python-hf",
       "license:llama2",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -71455,7 +71456,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 451,
+    "likes": 452,
     "private": false,
     "downloads": 1448,
     "tags": [
@@ -90601,7 +90602,7 @@
   {
     "_id": "65a6418e8a0485c12d075026",
     "id": "TheBloke/Nous-Hermes-2-Mixtral-8x7B-DPO-GGUF",
-    "likes": 47,
+    "likes": 48,
     "private": false,
     "downloads": 25,
     "tags": [
@@ -92500,7 +92501,7 @@
   {
     "_id": "65bab9767677ff48f5a6b4a8",
     "id": "TheBloke/CapybaraHermes-2.5-Mistral-7B-GGUF",
-    "likes": 38,
+    "likes": 39,
     "private": false,
     "downloads": 169,
     "tags": [
