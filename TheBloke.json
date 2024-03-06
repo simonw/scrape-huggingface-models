@@ -24556,7 +24556,6 @@
       "arxiv:2306.01116",
       "base_model:tiiuae/falcon-180B",
       "license:unknown",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -71552,7 +71551,7 @@
   {
     "_id": "657759d1da3f14fa5ddeba81",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GPTQ",
-    "likes": 106,
+    "likes": 107,
     "private": false,
     "downloads": 621594,
     "tags": [
