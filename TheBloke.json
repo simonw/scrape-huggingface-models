@@ -51958,7 +51958,7 @@
   {
     "_id": "653fa093baf4643d2b0806d1",
     "id": "TheBloke/Marx-3B-v3-GPTQ",
-    "likes": 0,
+    "likes": 1,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -67427,9 +67427,9 @@
       "mistral",
       "base_model:Intel/neural-chat-7b-v3-2",
       "license:apache-2.0",
-      "has_space",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "library_name": "transformers",
     "createdAt": "2023-12-02T14:13:42.000Z",
@@ -68470,7 +68470,7 @@
   {
     "_id": "657041bb14fa8cfccd457a18",
     "id": "TheBloke/una-cybertron-7B-v2-GGUF",
-    "likes": 31,
+    "likes": 32,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -92623,7 +92623,7 @@
   {
     "_id": "65bab9767677ff48f5a6b4a8",
     "id": "TheBloke/CapybaraHermes-2.5-Mistral-7B-GGUF",
-    "likes": 40,
+    "likes": 41,
     "private": false,
     "downloads": 177,
     "tags": [
