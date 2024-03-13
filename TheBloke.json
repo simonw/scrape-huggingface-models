@@ -9421,6 +9421,7 @@
       "custom_code",
       "license:other",
       "autotrain_compatible",
+      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -52926,6 +52927,7 @@
       "base_model:SciPhi/SciPhi-Self-RAG-Mistral-7B-32k",
       "license:mit",
       "autotrain_compatible",
+      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -67427,9 +67429,9 @@
       "mistral",
       "base_model:Intel/neural-chat-7b-v3-2",
       "license:apache-2.0",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "library_name": "transformers",
     "createdAt": "2023-12-02T14:13:42.000Z",
@@ -71958,10 +71960,10 @@
       "base_model:Intel/neural-chat-7b-v3-3",
       "license:apache-2.0",
       "autotrain_compatible",
+      "has_space",
       "text-generation-inference",
       "4-bit",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -90740,6 +90742,7 @@
       "en",
       "base_model:NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO",
       "license:apache-2.0",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -90980,6 +90983,7 @@
       "en",
       "base_model:NousResearch/Nous-Hermes-2-Mixtral-8x7B-SFT",
       "license:apache-2.0",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -92624,7 +92628,7 @@
   {
     "_id": "65bab9767677ff48f5a6b4a8",
     "id": "TheBloke/CapybaraHermes-2.5-Mistral-7B-GGUF",
-    "likes": 44,
+    "likes": 45,
     "private": false,
     "downloads": 163,
     "tags": [
