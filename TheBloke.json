@@ -1189,7 +1189,7 @@
   {
     "_id": "6464cfa91054f08ddba6201f",
     "id": "TheBloke/LLaMa-7B-GGML",
-    "likes": 61,
+    "likes": 62,
     "private": false,
     "downloads": 37,
     "tags": [
@@ -84566,7 +84566,7 @@
   {
     "_id": "6592ac0fc27d210c3ed488e7",
     "id": "TheBloke/dolphin-2.7-mixtral-8x7b-AWQ",
-    "likes": 16,
+    "likes": 17,
     "private": false,
     "downloads": 12196,
     "tags": [
@@ -90742,7 +90742,6 @@
       "en",
       "base_model:NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO",
       "license:apache-2.0",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -90983,7 +90982,6 @@
       "en",
       "base_model:NousResearch/Nous-Hermes-2-Mixtral-8x7B-SFT",
       "license:apache-2.0",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
