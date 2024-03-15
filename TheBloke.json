@@ -58397,7 +58397,7 @@
   {
     "_id": "65553deddcf410fd073208e8",
     "id": "TheBloke/sqlcoder-7B-GGUF",
-    "likes": 12,
+    "likes": 13,
     "private": false,
     "downloads": 128,
     "tags": [
@@ -60427,7 +60427,7 @@
   {
     "_id": "655a7ff4a75de9cef1c5d1fc",
     "id": "TheBloke/blossom-v3-baichuan2-7B-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 4,
     "tags": [
@@ -71467,7 +71467,8 @@
       "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -90723,7 +90724,7 @@
   {
     "_id": "65a6418e8a0485c12d075026",
     "id": "TheBloke/Nous-Hermes-2-Mixtral-8x7B-DPO-GGUF",
-    "likes": 52,
+    "likes": 53,
     "private": false,
     "downloads": 39,
     "tags": [
@@ -90752,7 +90753,7 @@
   {
     "_id": "65a6418ec128478d753540be",
     "id": "TheBloke/Nous-Hermes-2-Mixtral-8x7B-DPO-AWQ",
-    "likes": 16,
+    "likes": 18,
     "private": false,
     "downloads": 6786,
     "tags": [
