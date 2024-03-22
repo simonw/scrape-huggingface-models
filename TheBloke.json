@@ -734,7 +734,7 @@
   {
     "_id": "64551258f61f10d69dc80b21",
     "id": "TheBloke/GPT4All-13B-snoozy-GPTQ",
-    "likes": 33,
+    "likes": 32,
     "private": false,
     "downloads": 36,
     "tags": [
@@ -1747,7 +1747,7 @@
   {
     "_id": "646f8983150f4cab862ec0b8",
     "id": "TheBloke/guanaco-65B-GPTQ",
-    "likes": 266,
+    "likes": 265,
     "private": false,
     "downloads": 87,
     "tags": [
@@ -11605,10 +11605,10 @@
       "base_model:georgesung/llama2_7b_chat_uncensored",
       "license:other",
       "autotrain_compatible",
+      "has_space",
       "text-generation-inference",
       "4-bit",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -21449,7 +21449,7 @@
   {
     "_id": "64f611cf6ad07ea81779ca15",
     "id": "TheBloke/Llama-2-13B-chat-GGUF",
-    "likes": 169,
+    "likes": 170,
     "private": false,
     "downloads": 645,
     "tags": [
@@ -23013,6 +23013,7 @@
       "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
       "base_model:ehartford/WizardLM-1.0-Uncensored-CodeLlama-34b",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -24126,6 +24127,7 @@
       "arxiv:2305.14314",
       "base_model:jarradh/llama2_70b_chat_uncensored",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -33988,6 +33990,7 @@
       "dataset:ehartford/wizard_vicuna_70k_unfiltered",
       "base_model:ehartford/Wizard-Vicuna-30B-Uncensored",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -34340,6 +34343,7 @@
       "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
       "base_model:ehartford/WizardLM-33b-V1.0-Uncensored",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -36298,6 +36302,7 @@
       "llama",
       "base_model:Monero/WizardLM-Uncensored-SuperCOT-StoryTelling-30b",
       "license:other",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -43962,7 +43967,7 @@
   {
     "_id": "652653590aaab896facf71a0",
     "id": "TheBloke/dolphin-2.1-mistral-7B-GGUF",
-    "likes": 101,
+    "likes": 100,
     "private": false,
     "downloads": 49,
     "tags": [
@@ -49276,9 +49281,9 @@
       "dataset:teknium/openhermes",
       "base_model:CausalLM/14B",
       "license:wtfpl",
+      "has_space",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -52385,7 +52390,7 @@
   {
     "_id": "65403e7339948eb634bfcdff",
     "id": "TheBloke/dolphin-2.2.1-mistral-7B-GGUF",
-    "likes": 113,
+    "likes": 112,
     "private": false,
     "downloads": 41,
     "tags": [
@@ -54167,6 +54172,7 @@
       "deepseek",
       "base_model:deepseek-ai/deepseek-coder-33b-base",
       "license:other",
+      "has_space",
       "region:us"
     ],
     "library_name": "transformers",
@@ -54417,6 +54423,7 @@
       "base_model:teknium/Hermes-Trismegistus-Mistral-7B",
       "license:apache-2.0",
       "autotrain_compatible",
+      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -59697,6 +59704,7 @@
       "en",
       "base_model:defog/sqlcoder-34b-alpha",
       "license:cc-by-4.0",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -60279,6 +60287,7 @@
       "llama",
       "base_model:Xwin-LM/XwinCoder-13B",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -68776,6 +68785,7 @@
       "arxiv:2305.06161",
       "base_model:ise-uiuc/Magicoder-S-DS-6.7B",
       "license:other",
+      "has_space",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
@@ -71463,10 +71473,10 @@
       "base_model:mistralai/Mixtral-8x7B-v0.1",
       "license:apache-2.0",
       "autotrain_compatible",
+      "has_space",
       "text-generation-inference",
       "4-bit",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -77855,6 +77865,7 @@
       "solar",
       "base_model:w4r10ck/SOLAR-10.7B-Instruct-v1.0-uncensored",
       "license:apache-2.0",
+      "has_space",
       "region:us"
     ],
     "library_name": "transformers",
@@ -79229,6 +79240,7 @@
       "generated_from_trainer",
       "base_model:clibrain/mixtral_spanish_ft",
       "license:apache-2.0",
+      "has_space",
       "region:us"
     ],
     "library_name": "peft",
@@ -90741,6 +90753,7 @@
       "en",
       "base_model:NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO",
       "license:apache-2.0",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -90799,6 +90812,7 @@
       "base_model:ajibawa-2023/Code-290k-13B",
       "license:cc-by-nc-nd-4.0",
       "autotrain_compatible",
+      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -90981,6 +90995,7 @@
       "en",
       "base_model:NousResearch/Nous-Hermes-2-Mixtral-8x7B-SFT",
       "license:apache-2.0",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -91506,6 +91521,7 @@
       "berkeley-nest/Starling-LM-7B-alpha",
       "base_model:abideen/DareVox-7B",
       "license:apache-2.0",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -91769,6 +91785,7 @@
       "merge",
       "base_model:rombodawg/Everyone-Coder-33b-Base",
       "license:other",
+      "has_space",
       "region:us"
     ],
     "library_name": "transformers",
@@ -91788,6 +91805,7 @@
       "en",
       "base_model:senseable/WestLake-7B-v2",
       "license:apache-2.0",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -91810,6 +91828,7 @@
       "base_model:senseable/WestLake-7B-v2",
       "license:apache-2.0",
       "autotrain_compatible",
+      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -92054,6 +92073,7 @@
       "arxiv:2311.03099",
       "arxiv:2306.01708",
       "base_model:Steelskull/Etheria-55b-v0.1",
+      "has_space",
       "region:us"
     ],
     "library_name": "transformers",
@@ -92149,6 +92169,7 @@
       "base_model:grimulkan/Goliath-longLORA-120b-rope8-32k-fp16",
       "license:llama2",
       "autotrain_compatible",
+      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -92170,6 +92191,7 @@
       "llama",
       "base_model:grimulkan/Goliath-longLORA-120b-rope8-32k-fp16",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -92253,6 +92275,7 @@
       "yi",
       "base_model:migtissera/Tess-34B-v1.5b",
       "license:other",
+      "has_space",
       "region:us"
     ],
     "library_name": "transformers",
@@ -92321,6 +92344,7 @@
       "arxiv:2308.12950",
       "base_model:codellama/CodeLlama-70b-hf",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -92424,6 +92448,7 @@
       "arxiv:2308.12950",
       "base_model:codellama/CodeLlama-70b-Instruct-hf",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -92474,6 +92499,7 @@
       "arxiv:2308.12950",
       "base_model:codellama/CodeLlama-70b-Python-hf",
       "license:llama2",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -92664,6 +92690,7 @@
       "dataset:argilla/dpo-mix-7k",
       "base_model:argilla/CapybaraHermes-2.5-Mistral-7B",
       "license:apache-2.0",
+      "has_space",
       "4-bit",
       "region:us"
     ],
