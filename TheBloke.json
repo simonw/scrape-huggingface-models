@@ -49277,7 +49277,8 @@
       "base_model:CausalLM/14B",
       "license:wtfpl",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -53800,7 +53801,7 @@
   {
     "_id": "6546bfe04d1931dc93eacb63",
     "id": "TheBloke/deepseek-coder-33B-instruct-GGUF",
-    "likes": 135,
+    "likes": 136,
     "private": false,
     "downloads": 48,
     "tags": [
@@ -71421,7 +71422,7 @@
   {
     "_id": "65770d54b2b935d83f6ea4d1",
     "id": "TheBloke/Mixtral-8x7B-v0.1-GGUF",
-    "likes": 402,
+    "likes": 403,
     "private": false,
     "downloads": 291,
     "tags": [
@@ -71609,7 +71610,7 @@
   {
     "_id": "657778a53ceeb2f078e342cf",
     "id": "TheBloke/mixtral-8x7b-v0.1-AWQ",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "downloads": 3413,
     "tags": [
