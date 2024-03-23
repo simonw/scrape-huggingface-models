@@ -4,7 +4,7 @@
     "id": "TheBloke/koala-7B-GPTQ",
     "likes": 31,
     "private": false,
-    "downloads": 10,
+    "downloads": 15,
     "tags": [
       "transformers",
       "safetensors",
@@ -26,7 +26,7 @@
     "id": "TheBloke/koala-7B-HF",
     "likes": 19,
     "private": false,
-    "downloads": 3120,
+    "downloads": 3150,
     "tags": [
       "transformers",
       "pytorch",
@@ -54,7 +54,7 @@
     "id": "TheBloke/koala-13B-HF",
     "likes": 41,
     "private": false,
-    "downloads": 3129,
+    "downloads": 3153,
     "tags": [
       "transformers",
       "pytorch",
@@ -82,7 +82,7 @@
     "id": "TheBloke/koala-13B-GPTQ",
     "likes": 38,
     "private": false,
-    "downloads": 14,
+    "downloads": 13,
     "tags": [
       "transformers",
       "pytorch",
@@ -155,7 +155,7 @@
     "id": "TheBloke/vicuna-7B-v0-GPTQ",
     "likes": 15,
     "private": false,
-    "downloads": 82,
+    "downloads": 80,
     "tags": [
       "transformers",
       "pytorch",
@@ -178,7 +178,7 @@
     "id": "TheBloke/Vicuna-13B-1.1-GPTQ",
     "likes": 208,
     "private": false,
-    "downloads": 291,
+    "downloads": 399,
     "tags": [
       "transformers",
       "llama",
@@ -199,7 +199,7 @@
     "id": "TheBloke/vicuna-7B-1.1-GPTQ",
     "likes": 58,
     "private": false,
-    "downloads": 159,
+    "downloads": 157,
     "tags": [
       "transformers",
       "llama",
@@ -219,7 +219,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-30b-HF",
     "likes": 13,
     "private": false,
-    "downloads": 3117,
+    "downloads": 3146,
     "tags": [
       "transformers",
       "pytorch",
@@ -295,7 +295,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-13B-HF",
     "likes": 4,
     "private": false,
-    "downloads": 3106,
+    "downloads": 3135,
     "tags": [
       "transformers",
       "pytorch",
@@ -323,7 +323,7 @@
     "id": "TheBloke/gpt4-alpaca-lora-13B-GPTQ",
     "likes": 20,
     "private": false,
-    "downloads": 38,
+    "downloads": 39,
     "tags": [
       "transformers",
       "pytorch",
@@ -351,7 +351,7 @@
     "id": "TheBloke/alpaca-lora-65B-HF",
     "likes": 3,
     "private": false,
-    "downloads": 3088,
+    "downloads": 3116,
     "tags": [
       "transformers",
       "pytorch",
@@ -373,7 +373,7 @@
     "id": "TheBloke/alpaca-lora-65B-GPTQ",
     "likes": 29,
     "private": false,
-    "downloads": 9,
+    "downloads": 10,
     "tags": [
       "transformers",
       "pytorch",
@@ -409,7 +409,7 @@
     "id": "TheBloke/medalpaca-13B-GPTQ",
     "likes": 28,
     "private": false,
-    "downloads": 1608,
+    "downloads": 1593,
     "tags": [
       "transformers",
       "pytorch",
@@ -15226,7 +15226,7 @@
   {
     "_id": "64d5e2dcabf475a808a24d42",
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
-    "likes": 151,
+    "likes": 152,
     "private": false,
     "downloads": 30967,
     "tags": [
