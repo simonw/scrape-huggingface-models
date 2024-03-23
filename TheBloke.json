@@ -71535,7 +71535,7 @@
   {
     "_id": "65775021c991ca09567c1237",
     "id": "TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF",
-    "likes": 504,
+    "likes": 505,
     "private": false,
     "downloads": 1898,
     "tags": [
@@ -86458,7 +86458,6 @@
       "merge",
       "base_model:SanjiWatsuki/Kunoichi-7B",
       "license:cc-by-nc-4.0",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -90103,7 +90102,7 @@
   {
     "_id": "65a55ec8224f96d8ccbabcaf",
     "id": "TheBloke/laser-dolphin-mixtral-2x7b-dpo-GGUF",
-    "likes": 37,
+    "likes": 38,
     "private": false,
     "downloads": 21,
     "tags": [
