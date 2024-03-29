@@ -54421,6 +54421,7 @@
       "base_model:teknium/Hermes-Trismegistus-Mistral-7B",
       "license:apache-2.0",
       "autotrain_compatible",
+      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -67550,6 +67551,7 @@
       "base_model:Intel/neural-chat-7b-v3-2",
       "license:apache-2.0",
       "autotrain_compatible",
+      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -86457,6 +86459,7 @@
       "merge",
       "base_model:SanjiWatsuki/Kunoichi-7B",
       "license:cc-by-nc-4.0",
+      "has_space",
       "text-generation-inference",
       "region:us"
     ],
