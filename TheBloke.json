@@ -21420,7 +21420,7 @@
   {
     "_id": "64f60811b8cc49b414fe5cdf",
     "id": "TheBloke/Llama-2-7B-Chat-GGUF",
-    "likes": 331,
+    "likes": 332,
     "private": false,
     "downloads": 4201,
     "tags": [
@@ -49281,7 +49281,8 @@
       "base_model:CausalLM/14B",
       "license:wtfpl",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
