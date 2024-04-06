@@ -19178,7 +19178,7 @@
   {
     "_id": "64ed95f6ee71252c6c942002",
     "id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
-    "likes": 154,
+    "likes": 155,
     "private": false,
     "downloads": 1732,
     "tags": [
@@ -21583,7 +21583,7 @@
   {
     "_id": "64f65d33aad4f0fee08b2457",
     "id": "TheBloke/openchat_v3.2_super-GGUF",
-    "likes": 10,
+    "likes": 11,
     "private": false,
     "downloads": 172,
     "tags": [
@@ -64193,7 +64193,7 @@
   {
     "_id": "656108d34efe6f0a0659bfa2",
     "id": "TheBloke/Rose-20B-GGUF",
-    "likes": 17,
+    "likes": 18,
     "private": false,
     "downloads": 151,
     "tags": [
@@ -90117,7 +90117,8 @@
       "base_model:macadeliccc/laser-dolphin-mixtral-2x7b-dpo",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "library_name": "transformers",
     "createdAt": "2024-01-15T16:35:20.000Z",
