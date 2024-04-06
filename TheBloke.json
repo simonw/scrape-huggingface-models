@@ -54610,7 +54610,7 @@
   {
     "_id": "6548bab7e49bd8d58e90e683",
     "id": "TheBloke/echidna-tiefigther-25-GGUF",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "downloads": 102,
     "tags": [
@@ -90117,8 +90117,7 @@
       "base_model:macadeliccc/laser-dolphin-mixtral-2x7b-dpo",
       "license:apache-2.0",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "library_name": "transformers",
     "createdAt": "2024-01-15T16:35:20.000Z",
@@ -91798,7 +91797,7 @@
   {
     "_id": "65b18b741d9ad6f255a01983",
     "id": "TheBloke/WestLake-7B-v2-GGUF",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "downloads": 257,
     "tags": [
