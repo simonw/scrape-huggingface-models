@@ -86482,8 +86482,7 @@
       "base_model:cloudyu/Mixtral_11Bx2_MoE_19B",
       "license:cc-by-nc-4.0",
       "text-generation-inference",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "library_name": "transformers",
     "createdAt": "2024-01-05T11:57:05.000Z",
