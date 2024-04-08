@@ -71473,7 +71473,6 @@
       "base_model:mistralai/Mixtral-8x7B-v0.1",
       "license:apache-2.0",
       "autotrain_compatible",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
