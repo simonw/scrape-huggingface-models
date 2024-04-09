@@ -34571,7 +34571,7 @@
   {
     "_id": "650a316f6d2284f7325ec052",
     "id": "TheBloke/guanaco-65B-GGUF",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "downloads": 61,
     "tags": [
@@ -51855,7 +51855,6 @@
       "gguf",
       "mistral",
       "base_model:SciPhi/SciPhi-Mistral-7B-32k",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
