@@ -10753,7 +10753,7 @@
   {
     "_id": "64b72139a00eab5bcddae33e",
     "id": "TheBloke/Llama-2-70B-Chat-GPTQ",
-    "likes": 250,
+    "likes": 251,
     "private": false,
     "downloads": 34467,
     "tags": [
@@ -48994,7 +48994,7 @@
   {
     "_id": "6533c00ccbf3b6035cee9535",
     "id": "TheBloke/Airoboros-L2-70B-3.1.2-GPTQ",
-    "likes": 7,
+    "likes": 8,
     "private": false,
     "downloads": 2911,
     "tags": [
@@ -74511,7 +74511,8 @@
       "license:other",
       "autotrain_compatible",
       "4-bit",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
