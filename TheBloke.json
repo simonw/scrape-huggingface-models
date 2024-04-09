@@ -708,7 +708,7 @@
   {
     "_id": "6454b9c0f61f10d69dbfd49f",
     "id": "TheBloke/WizardLM-7B-uncensored-GPTQ",
-    "likes": 179,
+    "likes": 180,
     "private": false,
     "downloads": 2599,
     "tags": [
@@ -758,7 +758,7 @@
   {
     "_id": "64551fa7d55525a4fee7e6f9",
     "id": "TheBloke/GPT4All-13B-snoozy-GGML",
-    "likes": 46,
+    "likes": 47,
     "private": false,
     "downloads": 0,
     "tags": [
@@ -55286,8 +55286,7 @@
       "autotrain_compatible",
       "text-generation-inference",
       "4-bit",
-      "region:us",
-      "has_space"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -88468,7 +88467,7 @@
   {
     "_id": "659e762c95d836113a34ab8f",
     "id": "TheBloke/openchat-3.5-0106-GGUF",
-    "likes": 64,
+    "likes": 65,
     "private": false,
     "downloads": 3379,
     "tags": [
