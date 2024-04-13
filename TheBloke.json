@@ -6765,7 +6765,7 @@
   {
     "_id": "649a5dcd96d5747b35e30c6f",
     "id": "TheBloke/Wizard-Vicuna-13B-Uncensored-SuperHOT-8K-GPTQ",
-    "likes": 123,
+    "likes": 124,
     "private": false,
     "downloads": 261,
     "tags": [
@@ -7323,7 +7323,6 @@
       "custom_code",
       "license:other",
       "autotrain_compatible",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -7443,7 +7442,6 @@
       "custom_code",
       "license:other",
       "autotrain_compatible",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -9421,7 +9419,6 @@
       "custom_code",
       "license:other",
       "autotrain_compatible",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -11026,7 +11023,6 @@
       "base_model:upstage/llama-30b-instruct-2048",
       "license:other",
       "autotrain_compatible",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -15226,7 +15222,7 @@
   {
     "_id": "64d5e2dcabf475a808a24d42",
     "id": "TheBloke/MythoMax-L2-13B-GPTQ",
-    "likes": 158,
+    "likes": 159,
     "private": false,
     "downloads": 9498,
     "tags": [
@@ -18135,7 +18131,6 @@
       "base_model:codellama/CodeLlama-34b-instruct-hf",
       "license:llama2",
       "autotrain_compatible",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -18190,7 +18185,6 @@
       "base_model:codellama/CodeLlama-34b-hf",
       "license:llama2",
       "autotrain_compatible",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -23012,7 +23006,6 @@
       "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
       "base_model:ehartford/WizardLM-1.0-Uncensored-CodeLlama-34b",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -24126,7 +24119,6 @@
       "arxiv:2305.14314",
       "base_model:jarradh/llama2_70b_chat_uncensored",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -33989,7 +33981,6 @@
       "dataset:ehartford/wizard_vicuna_70k_unfiltered",
       "base_model:ehartford/Wizard-Vicuna-30B-Uncensored",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -34342,7 +34333,6 @@
       "dataset:ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split",
       "base_model:ehartford/WizardLM-33b-V1.0-Uncensored",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -36301,7 +36291,6 @@
       "llama",
       "base_model:Monero/WizardLM-Uncensored-SuperCOT-StoryTelling-30b",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -52928,7 +52917,6 @@
       "base_model:SciPhi/SciPhi-Self-RAG-Mistral-7B-32k",
       "license:mit",
       "autotrain_compatible",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -54170,7 +54158,6 @@
       "deepseek",
       "base_model:deepseek-ai/deepseek-coder-33b-base",
       "license:other",
-      "has_space",
       "region:us"
     ],
     "library_name": "transformers",
@@ -59702,7 +59689,6 @@
       "en",
       "base_model:defog/sqlcoder-34b-alpha",
       "license:cc-by-4.0",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -60285,7 +60271,6 @@
       "llama",
       "base_model:Xwin-LM/XwinCoder-13B",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -77865,7 +77850,6 @@
       "solar",
       "base_model:w4r10ck/SOLAR-10.7B-Instruct-v1.0-uncensored",
       "license:apache-2.0",
-      "has_space",
       "region:us"
     ],
     "library_name": "transformers",
@@ -79240,7 +79224,6 @@
       "generated_from_trainer",
       "base_model:clibrain/mixtral_spanish_ft",
       "license:apache-2.0",
-      "has_space",
       "region:us"
     ],
     "library_name": "peft",
@@ -90811,7 +90794,6 @@
       "base_model:ajibawa-2023/Code-290k-13B",
       "license:cc-by-nc-nd-4.0",
       "autotrain_compatible",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -91520,7 +91502,6 @@
       "berkeley-nest/Starling-LM-7B-alpha",
       "base_model:abideen/DareVox-7B",
       "license:apache-2.0",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -91784,7 +91765,6 @@
       "merge",
       "base_model:rombodawg/Everyone-Coder-33b-Base",
       "license:other",
-      "has_space",
       "region:us"
     ],
     "library_name": "transformers",
@@ -91804,7 +91784,6 @@
       "en",
       "base_model:senseable/WestLake-7B-v2",
       "license:apache-2.0",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -91827,7 +91806,6 @@
       "base_model:senseable/WestLake-7B-v2",
       "license:apache-2.0",
       "autotrain_compatible",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -92072,7 +92050,6 @@
       "arxiv:2311.03099",
       "arxiv:2306.01708",
       "base_model:Steelskull/Etheria-55b-v0.1",
-      "has_space",
       "region:us"
     ],
     "library_name": "transformers",
@@ -92168,7 +92145,6 @@
       "base_model:grimulkan/Goliath-longLORA-120b-rope8-32k-fp16",
       "license:llama2",
       "autotrain_compatible",
-      "has_space",
       "text-generation-inference",
       "4-bit",
       "region:us"
@@ -92190,7 +92166,6 @@
       "llama",
       "base_model:grimulkan/Goliath-longLORA-120b-rope8-32k-fp16",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -92274,7 +92249,6 @@
       "yi",
       "base_model:migtissera/Tess-34B-v1.5b",
       "license:other",
-      "has_space",
       "region:us"
     ],
     "library_name": "transformers",
@@ -92343,7 +92317,6 @@
       "arxiv:2308.12950",
       "base_model:codellama/CodeLlama-70b-hf",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -92447,7 +92420,6 @@
       "arxiv:2308.12950",
       "base_model:codellama/CodeLlama-70b-Instruct-hf",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
@@ -92498,7 +92470,6 @@
       "arxiv:2308.12950",
       "base_model:codellama/CodeLlama-70b-Python-hf",
       "license:llama2",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
