@@ -37057,7 +37057,7 @@
   {
     "_id": "650bfac22ec41a31f322c1a5",
     "id": "TheBloke/Xwin-LM-7B-V0.1-GGUF",
-    "likes": 11,
+    "likes": 12,
     "private": false,
     "downloads": 265,
     "tags": [
@@ -57421,7 +57421,7 @@
   {
     "_id": "6552b0e5e6314399631da61c",
     "id": "TheBloke/Synatra-7B-v0.3-RP-GGUF",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "downloads": 497,
     "tags": [
@@ -76464,7 +76464,8 @@
       "base_model:steve-cse/MelloGPT",
       "license:mit",
       "text-generation-inference",
-      "region:us"
+      "region:us",
+      "has_space"
     ],
     "library_name": "transformers",
     "createdAt": "2023-12-16T14:44:17.000Z",
