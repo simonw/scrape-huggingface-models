@@ -57251,7 +57251,7 @@
   {
     "_id": "65526c84fb76980adeff5db6",
     "id": "TheBloke/Nous-Capybara-34B-GGUF",
-    "likes": 156,
+    "likes": 157,
     "private": false,
     "downloads": 3027,
     "tags": [
@@ -62396,7 +62396,6 @@
       "dataset:euirim/goodwiki",
       "base_model:euclaise/Ferret_7B",
       "license:other",
-      "has_space",
       "text-generation-inference",
       "region:us"
     ],
